@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { PreferencesProvider } from "./preferences";
 
 export const metadata: Metadata = {
   title: "Noctis — Criador de Personagens V5",
@@ -16,8 +17,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-BR">
-      <body className="antialiased">{children}</body>
+    <html lang="pt-BR" suppressHydrationWarning>
+      <body className="antialiased"><PreferencesProvider>{children}</PreferencesProvider></body>
     </html>
   );
 }
