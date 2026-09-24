@@ -1,11 +1,12 @@
-import { AGE_RULES, OBLIVION_POWERS, PREDATOR_RULES, SKILL_PRESETS, rulesUrl, type SourceRef } from "./game-rules";
+import { AGE_RULES, DEFAULT_CHRONICLE_RULES, POWER_CATALOG, PREDATOR_RULES, SKILL_PRESETS, rulesUrl, type ChronicleRules, type SourceRef } from "./game-rules";
 
-export type AuditIssue={id:string;kind:"warning"|"info";title:string;detail:string;source?:SourceRef};
+export type AuditIssue={id:string;kind:"warning"|"info"|"approved";title:string;detail:string;source?:SourceRef};
 type Merit={dots?:number};
 type AuditData={
   attributes?:Record<string,number>;skills?:Record<string,number>;skillPreset?:string;disciplines?:Record<string,number>;disciplinePowers?:Record<string,string[]>;
   merits?:Merit[];flawItems?:Merit[];ageCategory?:string;generation?:string;bloodPotency?:number;predator?:string;predatorApplied?:string;
   predatorDiscipline?:string;convictions?:string;touchstones?:string;allowHomebrew?:boolean;
+  predatorResolutions?:Record<string,string>;chronicleRules?:ChronicleRules;
 };
 export type AuditableCharacter={name?:string;concept?:string;clan?:string;data:AuditData};
 
@@ -18,7 +19,8 @@ function counts(values:Record<string,number>={},positiveOnly=false){return Objec
 
 export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
   const data=character.data||{},issues:AuditIssue[]=[];
-  const add=(issue:AuditIssue)=>issues.push(issue);
+  const chronicle={...DEFAULT_CHRONICLE_RULES,...(data.chronicleRules||{})};
+  const add=(issue:AuditIssue)=>issues.push(chronicle.approvedIssueIds.includes(issue.id)?{...issue,kind:"approved",detail:`Permitido pela crônica. ${issue.detail}`}:issue);
   if(!character.name?.trim())add({id:"identity-name",kind:"warning",title:"Nome não preenchido",detail:"A criação padrão precisa identificar o personagem. Você pode salvar e continuar mesmo assim.",source:creation});
   if(!character.concept?.trim())add({id:"identity-concept",kind:"warning",title:"Conceito não preenchido",detail:"O conceito orienta as escolhas da criação, mas pode ser definido depois.",source:creation});
   if(!character.clan?.trim())add({id:"identity-clan",kind:"warning",title:"Clã ou linhagem não definido",detail:"A escolha determina as Disciplinas iniciais e outras regras. Conteúdo personalizado continua permitido.",source:creation});
@@ -31,22 +33,22 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
 
   const predator=PREDATOR_RULES.find(rule=>rule.name===data.predator),applied=PREDATOR_RULES.find(rule=>rule.name===data.predatorApplied);
   const age=AGE_RULES[data.ageCategory||""];
-  if(age&&character.clan!=="Sangue-Ralo"&&(!age.generations.includes(data.generation||"")||data.bloodPotency!==age.bloodPotency+(applied?.bloodPotency||0)))add({id:"age",kind:"warning",title:"Geração ou Potência de Sangue fora da faixa inicial",detail:`${data.ageCategory} usa ${age.generations.join(" ou ")} Geração e Potência de Sangue ${age.bloodPotency}${applied?.bloodPotency?` + ${applied.bloodPotency} do Predador`:""}. A crônica pode substituir essa faixa.`,source:core("regras-e-criacao-sangue-fome-geracao-e-potencia-de-sangue","Geração","Livro Básico V5, pp. 201–242")});
+  if(!chronicle.generationOverride&&age&&character.clan!=="Sangue-Ralo"&&(!age.generations.includes(data.generation||"")||data.bloodPotency!==age.bloodPotency+(applied?.bloodPotency||0)))add({id:"age",kind:"warning",title:"Geração ou Potência de Sangue fora da faixa inicial",detail:`${data.ageCategory} usa ${age.generations.join(" ou ")} Geração e Potência de Sangue ${age.bloodPotency}${applied?.bloodPotency?` + ${applied.bloodPotency} do Predador`:""}. A crônica pode substituir essa faixa.`,source:core("regras-e-criacao-sangue-fome-geracao-e-potencia-de-sangue","Geração","Livro Básico V5, pp. 201–242")});
   if(predator&&data.predatorApplied!==predator.name)add({id:"predator",kind:"warning",title:"Pacote de Predador ainda não aplicado",detail:"O tipo foi escolhido, mas a especialização, a Disciplina e as alterações diretas ainda não foram confirmadas.",source:predator.source});
+  if(predator&&data.predatorApplied===predator.name){for(const resolution of predator.resolutions){if(resolution.required&&!data.predatorResolutions?.[resolution.id])add({id:`predator-resolution-${predator.id}-${resolution.id}`,kind:"warning",title:`Escolha pendente do Predador: ${resolution.label}`,detail:resolution.description,source:predator.source})}}
   if(data.predatorDiscipline==="Feitiçaria de Sangue"&&character.clan!=="Tremere")add({id:"blood-sorcery-predator",kind:"warning",title:"Feitiçaria de Sangue exige Tremere nesta escolha",detail:"Nos tipos de Predador que oferecem essa opção, o material enviado restringe a escolha a personagens Tremere. Ela permanece registrada como possível regra da crônica.",source:predator?.source||creation});
 
-  const disciplineDots=Object.values(data.disciplines||{}).reduce((a,b)=>a+b,0),expected=3+(data.predatorApplied?1:0);
+  const disciplineDots=Object.values(data.disciplines||{}).reduce((a,b)=>a+b,0),expected=(chronicle.customTargets?chronicle.disciplinePoints:3)+(data.predatorApplied?1:0);
   if(character.clan!=="Sangue-Ralo"&&disciplineDots!==expected)add({id:"discipline-dots",kind:"warning",title:"Total de Disciplinas fora da criação padrão",detail:`A criação comum distribui 3 pontos (2 + 1) e o Predador aplicado normalmente acrescenta 1. Esta ficha tem ${disciplineDots}; o esperado aqui é ${expected}.`,source:disciplines});
   for(const [name,powers] of Object.entries(data.disciplinePowers||{})){
     const dots=data.disciplines?.[name]||0;
     if(powers.filter(Boolean).length>dots)add({id:`power-count-${name}`,kind:"warning",title:`Mais poderes de ${name} do que pontos`,detail:`Há ${powers.filter(Boolean).length} poderes registrados para ${dots} ponto(s). A regra geral associa a escolha de um poder a cada ponto adquirido.`,source:disciplines});
   }
-  const oblivionPowers=data.disciplinePowers?.["Oblívio"]||[],oblivionDots=data.disciplines?.["Oblívio"]||0,potence=data.disciplines?.["Potência"]||0;
-  for(const name of oblivionPowers){const power=OBLIVION_POWERS.find(item=>item.name===name);if(!power){add({id:`homebrew-oblivion-${name}`,kind:"info",title:`Poder personalizado: ${name}`,detail:"Este nome não está no catálogo de Oblívio normalizado de Chicago by Night. Ele foi preservado como conteúdo personalizado."});continue}if(power.level>oblivionDots)add({id:`power-level-${power.id}`,kind:"warning",title:`${power.name} acima do nível de Oblívio`,detail:`O poder é de nível ${power.level}, mas a ficha tem Oblívio ${oblivionDots}.`,source:power.source});if(power.id==="arms-of-ahriman"&&potence<2)add({id:"arms-amalgam",kind:"warning",title:"Arms of Ahriman sem Potência 2",detail:"O poder possui o pré-requisito Amálgama: Potência 2. A escolha continua salva para permitir exceções da crônica.",source:power.source})}
+  for(const [disciplineName,powers] of Object.entries(data.disciplinePowers||{})){const dots=data.disciplines?.[disciplineName]||0;for(const name of powers){const power=POWER_CATALOG.find(item=>item.discipline===disciplineName&&item.name===name);if(!power){add({id:`homebrew-power-${disciplineName}-${name}`,kind:"info",title:`Poder personalizado: ${name}`,detail:`Este nome não está no catálogo indexado de ${disciplineName}. Ele foi preservado como conteúdo personalizado.`});continue}if(power.level>dots)add({id:`power-level-${power.id}`,kind:"warning",title:`${power.name} acima do nível de ${disciplineName}`,detail:`O poder é de nível ${power.level}, mas a ficha tem ${disciplineName} ${dots}.`,source:power.source});if(power.amalgam){const [requiredName,requiredLevel]=power.amalgam.split(/\s+(?=\d+$)/);if((data.disciplines?.[requiredName]||0)<Number(requiredLevel))add({id:`power-amalgam-${power.id}`,kind:"warning",title:`${power.name} sem ${power.amalgam}`,detail:`O poder possui o pré-requisito Amálgama: ${power.amalgam}. A escolha continua salva para permitir exceções da crônica.`,source:power.source})}}}
 
-  const meritDots=(data.merits||[]).reduce((a,b)=>a+(b.dots||0),0),flawDots=(data.flawItems||[]).reduce((a,b)=>a+(b.dots||0),0);
-  if(meritDots!==7)add({id:"merits",kind:"warning",title:"Vantagens não somam 7 pontos",detail:`A criação padrão distribui 7 pontos em Vantagens; a ficha soma ${meritDots}. Benefícios do Predador são tratados à parte.`,source:core("regras-e-criacao-vantagens-e-defeitos","7 pontos","Livro Básico V5, criação de personagem")});
-  if(flawDots<2)add({id:"flaws",kind:"warning",title:"Menos de 2 pontos de Defeitos",detail:`A criação padrão adquire ao menos 2 pontos de Defeitos, além dos recebidos pelo Predador; a ficha soma ${flawDots}.`,source:core("regras-e-criacao-vantagens-e-defeitos","2 pontos","Livro Básico V5, criação de personagem")});
+  const meritDots=(data.merits||[]).reduce((a,b)=>a+(b.dots||0),0),flawDots=(data.flawItems||[]).reduce((a,b)=>a+(b.dots||0),0),meritTarget=chronicle.customTargets?chronicle.meritPoints:7,flawTarget=chronicle.customTargets?chronicle.flawPoints:2;
+  if(meritDots!==meritTarget)add({id:"merits",kind:"warning",title:`Vantagens não somam ${meritTarget} pontos`,detail:`A regra ativa distribui ${meritTarget} pontos em Vantagens; a ficha soma ${meritDots}. Benefícios do Predador são tratados à parte.`,source:core("regras-e-criacao-vantagens-e-defeitos","7 pontos","Livro Básico V5, criação de personagem")});
+  if(flawDots<flawTarget)add({id:"flaws",kind:"warning",title:`Menos de ${flawTarget} pontos de Defeitos`,detail:`A regra ativa adquire ao menos ${flawTarget} pontos de Defeitos, além dos recebidos pelo Predador; a ficha soma ${flawDots}.`,source:core("regras-e-criacao-vantagens-e-defeitos","2 pontos","Livro Básico V5, criação de personagem")});
   const convictions=lines(data.convictions),touchstones=lines(data.touchstones);
   if(convictions.length<1||convictions.length>3||convictions.length!==touchstones.length)add({id:"convictions",kind:"warning",title:"Convicções e Pilares não estão em correspondência",detail:`O padrão usa de 1 a 3 Convicções e a mesma quantidade de Pilares. Há ${convictions.length} Convicção(ões) e ${touchstones.length} Pilar(es).`,source:core("regras-e-criacao-humanidade-conviccoes-pilares-ambicao-e-desejo","Convicções","Livro Básico V5, Humanidade e Convicções")});
   return issues;
