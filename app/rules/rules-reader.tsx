@@ -50,13 +50,15 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
     if(!normalized)return;
     const searchKey=`${bookId}:${normalized.toLocaleLowerCase("pt-BR")}`;
     const controller=new AbortController(),timer=setTimeout(()=>{
-      fetch(`/api/rules?book=${encodeURIComponent(bookId)}&q=${encodeURIComponent(normalized)}`,{signal:controller.signal})
+      Promise.resolve(needsTranslation?translateTextList([normalized],targetLanguage,sourceLanguage).then(items=>items[0]||normalized):normalized)
+      .then(sourceQuery=>fetch(`/api/rules?book=${encodeURIComponent(bookId)}&q=${encodeURIComponent(sourceQuery)}`,{signal:controller.signal}))
         .then(async response=>{if(!response.ok)throw new Error();return await response.json() as {results:SearchResult[]}})
-        .then(result=>setSearchState({key:searchKey,results:result.results}))
+        .then(async result=>{if(!needsTranslation||result.results.length===0)return result.results;const snippets=await translateTextList(result.results.map(item=>item.snippet),sourceLanguage,targetLanguage);return result.results.map((item,index)=>({...item,snippet:snippets[index]||item.snippet}))})
+        .then(results=>setSearchState({key:searchKey,results}))
         .catch(reason=>{if(reason.name!=="AbortError")setSearchState({key:searchKey,results:[]})});
     },250);
     return()=>{clearTimeout(timer);controller.abort()};
-  },[bookId,query]);
+  },[bookId,query,needsTranslation,sourceLanguage,targetLanguage]);
 
   const visibleChapters=useMemo(()=>{
     if(!query.trim())return localizedBook.chapters.map(chapter=>({chapter,count:0,snippet:""}));
