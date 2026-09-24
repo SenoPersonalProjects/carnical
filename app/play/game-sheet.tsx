@@ -2,25 +2,29 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
-import { ArrowLeft, BookOpen, Check, CircleAlert, LogOut, Minus, Plus, Save, Shield, Sparkles } from "lucide-react";
+import { ArrowLeft, BookOpen, CircleAlert, Dices, LogOut, Minus, Plus, Shield, Sparkles } from "lucide-react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { migrateLegacyData } from "../legacy-migration";
+import { auditCharacter } from "../character-audit";
+import { InconsistencySheet } from "../inconsistency-sheet";
 
 type Values=Record<string,number>;
 type Specialty={skill:string;name:string;source:string};
 type Merit={name:string;dots:number;source:string;notes:string};
+type RolledDie={value:number;hunger:boolean};
+type RollRecord={id:string;kind:"test"|"rouse";label:string;pool:number;hunger:number;difficulty:number;dice:RolledDie[];successes:number;outcome:string;createdAt:string};
 type GameData={
   attributes:Values;skills:Values;disciplines:Values;disciplinePowers:Record<string,string[]>;specialties:Specialty[];merits:Merit[];flawItems:Merit[];
   predator:string;humanity:number;hunger:number;stains:number;healthSuperficial:number;healthAggravated:number;willpowerSuperficial:number;willpowerAggravated:number;
   convictions:string;touchstones:string;ambition:string;desire:string;clanBane:string;clanCompulsion:string;resonance:string;bloodPotency:number;generation:string;
-  xpTotal:string;xpSpent:string;chronicle:string;notes:string;[key:string]:unknown;
+  xpTotal:string;xpSpent:string;chronicle:string;notes:string;ageCategory?:string;skillPreset?:string;predatorApplied?:string;predatorDiscipline?:string;allowHomebrew?:boolean;rollHistory?:RollRecord[];[key:string]:unknown;
 };
 type Character={id:number;name:string;concept:string;clan:string;sourcebook:string;data:GameData};
 const defaults:GameData={attributes:{},skills:{},disciplines:{},disciplinePowers:{},specialties:[],merits:[],flawItems:[],predator:"",humanity:7,hunger:1,stains:0,healthSuperficial:0,healthAggravated:0,willpowerSuperficial:0,willpowerAggravated:0,convictions:"",touchstones:"",ambition:"",desire:"",clanBane:"",clanCompulsion:"",resonance:"",bloodPotency:1,generation:"13ª",xpTotal:"",xpSpent:"",chronicle:"",notes:""};
 const normalize=(value:Character):Character=>({...value,data:migrateLegacyData({...defaults,...(value.data||{}),attributes:value.data?.attributes||{},skills:value.data?.skills||{},disciplines:value.data?.disciplines||{},disciplinePowers:value.data?.disciplinePowers||{},specialties:value.data?.specialties||[],merits:value.data?.merits||[],flawItems:value.data?.flawItems||[]}).data as GameData});
 
 export default function GameSheet({displayName,signOutPath}:{displayName:string;signOutPath:string}){
-  const [characters,setCharacters]=useState<Character[]>([]),[character,setCharacter]=useState<Character|null>(null),[status,setStatus]=useState<"loading"|"saved"|"saving"|"error">("loading");
+  const [characters,setCharacters]=useState<Character[]>([]),[character,setCharacter]=useState<Character|null>(null),[status,setStatus]=useState<"loading"|"saved"|"saving"|"error">("loading"),[auditOpen,setAuditOpen]=useState(false),[rollPool,setRollPool]=useState(5),[rollDifficulty,setRollDifficulty]=useState(3),[rollLabel,setRollLabel]=useState("");
   const persisted=useRef("");
   useEffect(()=>{fetch("/api/characters").then(async response=>{if(!response.ok)throw new Error();return await response.json() as {characters:Character[]}}).then(({characters})=>{const safe=characters.map(normalize);setCharacters(safe);const requested=Number(new URLSearchParams(window.location.search).get("id"));const initial=safe.find(item=>item.id===requested)??safe[0]??null;setCharacter(initial);persisted.current=JSON.stringify(initial);setStatus("saved")}).catch(()=>setStatus("error"))},[]);
   useEffect(()=>{if(!character||status==="loading"||JSON.stringify(character)===persisted.current)return;const timer=setTimeout(async()=>{setStatus("saving");try{const response=await fetch(`/api/characters/${character.id}`,{method:"PATCH",headers:{"content-type":"application/json"},body:JSON.stringify(character)});if(!response.ok)throw new Error();const {character:saved}=await response.json() as {character:Character};const safe=normalize(saved);persisted.current=JSON.stringify(safe);setCharacter(safe);setCharacters(items=>items.map(item=>item.id===safe.id?safe:item));setStatus("saved")}catch{setStatus("error")}},600);return()=>clearTimeout(timer)},[character,status]);
@@ -28,14 +32,18 @@ export default function GameSheet({displayName,signOutPath}:{displayName:string;
   const selectCharacter=(id:number)=>{const next=characters.find(item=>item.id===id)??null;setCharacter(next);persisted.current=JSON.stringify(next);history.replaceState(null,"",`/play?id=${id}`)};
   const healthMax=(character?.data.attributes.Vigor||1)+3,willpowerMax=(character?.data.attributes.Autocontrole||1)+(character?.data.attributes.Determinação||1);
   const specialtiesBySkill=useMemo(()=>Object.groupBy(character?.data.specialties||[],item=>item.skill),[character]);
+  const auditIssues=useMemo(()=>character?auditCharacter({name:character.name,concept:character.concept,clan:character.clan,data:character.data}):[],[character]);
   if(status==="loading")return <main className="play-loading">Abrindo ficha…</main>;
   if(!character)return <main className="play-empty"><Shield size={38}/><h1>Nenhuma ficha disponível</h1><p>Crie um personagem antes de abrir o modo de jogo.</p><Link href="/">Criar personagem</Link></main>;
+  const recordRoll=(record:RollRecord)=>setData("rollHistory",[record,...(character.data.rollHistory||[])].slice(0,20));
+  const rollTest=()=>{const pool=Math.max(1,Math.min(30,rollPool)),hunger=Math.min(pool,Math.max(0,character.data.hunger)),difficulty=Math.max(1,Math.min(10,rollDifficulty));const dice:Array<RolledDie>=Array.from({length:pool},(_,index)=>({value:Math.floor(Math.random()*10)+1,hunger:index<hunger}));const base=dice.filter(die=>die.value>=6).length,tens=dice.filter(die=>die.value===10).length,successes=base+2*Math.floor(tens/2),passed=successes>=difficulty,critical=tens>=2,messy=passed&&critical&&dice.some(die=>die.hunger&&die.value===10),bestial=!passed&&dice.some(die=>die.hunger&&die.value===1);const outcome=messy?"Crítico bagunçado":passed&&critical?"Sucesso crítico":passed?"Sucesso":bestial?"Falha bestial":"Falha";recordRoll({id:crypto.randomUUID(),kind:"test",label:rollLabel.trim()||"Teste",pool,hunger,difficulty,dice,successes,outcome,createdAt:new Date().toISOString()})};
+  const rouseCheck=()=>{const value=Math.floor(Math.random()*10)+1,success=value>=6,nextHunger=success?character.data.hunger:Math.min(5,character.data.hunger+1);if(nextHunger!==character.data.hunger)setData("hunger",nextHunger);recordRoll({id:crypto.randomUUID(),kind:"rouse",label:"Teste de Despertar",pool:1,hunger:0,difficulty:1,dice:[{value,hunger:false}],successes:success?1:0,outcome:success?"Sucesso — Fome não aumenta":character.data.hunger>=5?"Falha — Fome já está em 5":"Falha — Fome +1",createdAt:new Date().toISOString()})};
   return <main className="play-shell">
     <header className="play-topbar"><div className="play-brand"><span>N</span><div><strong>NOCTIS</strong><small>MODO DE JOGO</small></div></div><nav><Link href="/"><ArrowLeft size={15}/>Criação</Link><Link href="/rules"><BookOpen size={15}/>Biblioteca</Link></nav><div className="play-account"><span className={status==="error"?"save-error":""}>{status==="saving"?"Salvando…":status==="error"?"Falha ao salvar":"Salvo"}</span><span>{displayName}</span><a href={signOutPath} target="_top"><LogOut size={16}/></a></div></header>
     <div className="play-layout">
       <aside className="play-roster"><span>PERSONAGEM EM JOGO</span><select value={character.id} onChange={event=>selectCharacter(Number(event.target.value))}>{characters.map(item=><option value={item.id} key={item.id}>{item.name||"Sem nome"} — {item.clan||"Sem Clã"}</option>)}</select><div className="play-portrait">{(character.name||"?")[0]}</div><h1>{character.name||"Sem nome"}</h1><p>{character.concept||"Conceito não definido"}</p><dl><div><dt>Clã</dt><dd>{character.clan||"—"}</dd></div><div><dt>Predador</dt><dd>{character.data.predator||"—"}</dd></div><div><dt>Geração</dt><dd>{character.data.generation}</dd></div><div><dt>Potência</dt><dd>{character.data.bloodPotency}</dd></div></dl>{character.data.clanBane&&<div className="play-warning"><CircleAlert size={15}/><div><strong>Fraqueza do Clã</strong><p>{character.data.clanBane}</p></div></div>}</aside>
       <section className="play-main">
-        <div className="play-heading"><div><span>{character.data.chronicle||"CRÔNICA NÃO DEFINIDA"}</span><h2>A noite de {character.name||"seu personagem"}</h2></div><div className="xp-card"><span>XP</span><strong>{character.data.xpSpent||"0"} / {character.data.xpTotal||"0"}</strong></div></div>
+        <div className="play-heading"><div><span>{character.data.chronicle||"CRÔNICA NÃO DEFINIDA"}</span><h2>A noite de {character.name||"seu personagem"}</h2></div><div className="play-heading-actions"><button className="play-audit-button" onClick={()=>setAuditOpen(true)}><CircleAlert size={16}/><span>Incoerências</span><b>{auditIssues.length}</b></button><div className="xp-card"><span>XP</span><strong>{character.data.xpSpent||"0"} / {character.data.xpTotal||"0"}</strong></div></div></div>
         <div className="session-trackers">
           <DamageTrack label="Vitalidade" max={healthMax} superficial={character.data.healthSuperficial} aggravated={character.data.healthAggravated} onChange={(superficial,aggravated)=>setCharacter(current=>current?{...current,data:{...current.data,healthSuperficial:superficial,healthAggravated:aggravated}}:current)}/>
           <DamageTrack label="Força de Vontade" max={willpowerMax} superficial={character.data.willpowerSuperficial} aggravated={character.data.willpowerAggravated} onChange={(superficial,aggravated)=>setCharacter(current=>current?{...current,data:{...current.data,willpowerSuperficial:superficial,willpowerAggravated:aggravated}}:current)}/>
@@ -43,6 +51,7 @@ export default function GameSheet({displayName,signOutPath}:{displayName:string;
           <Counter label="Humanidade" value={character.data.humanity} min={1} max={10} onChange={value=>setData("humanity",value)}/>
           <Counter label="Máculas" value={character.data.stains} min={0} max={10} onChange={value=>setData("stains",value)}/>
         </div>
+        <section className="dice-console"><div className="dice-console-head"><div><span>ROLADOR V5</span><h3>Parada com Dados de Fome</h3></div><Link href="/rules?book=core-v5&chapter=regras-e-criacao-sangue-fome-geracao-e-potencia-de-sangue&q=Dados%20de%20Fome"><BookOpen size={14}/>Abrir regra</Link></div><div className="dice-controls"><label><span>Ação <em>Opcional</em></span><input value={rollLabel} onChange={event=>setRollLabel(event.target.value)} placeholder="Ex.: investigar a cena"/></label><label><span>Parada</span><input type="number" min={1} max={30} value={rollPool} onChange={event=>setRollPool(Number(event.target.value))}/></label><label><span>Dificuldade</span><input type="number" min={1} max={10} value={rollDifficulty} onChange={event=>setRollDifficulty(Number(event.target.value))}/></label><div className="hunger-readout"><span>Dados de Fome</span><strong>{Math.min(rollPool,character.data.hunger)}</strong><small>Fome atual {character.data.hunger}</small></div><button className="roll-button" onClick={rollTest}><Dices size={18}/>Rolar dados</button><button className="rouse-button" onClick={rouseCheck}>Teste de Despertar</button></div>{(character.data.rollHistory||[]).length>0&&<div className="roll-history">{(character.data.rollHistory||[]).slice(0,5).map(record=><article key={record.id}><div className="roll-result-head"><div><span>{record.label}</span><strong>{record.outcome}</strong></div><small>{record.kind==="test"?`${record.successes} sucesso(s) · Dif. ${record.difficulty}`:"1 dado"}</small></div><div className="rolled-dice">{record.dice.map((die,index)=><i key={index} className={`${die.hunger?"hunger":"normal"}${die.value===1?" one":""}${die.value===10?" ten":""}`}>{die.value}</i>)}</div></article>)}</div>}</section>
         <Tabs defaultValue="traits" className="play-tabs"><TabsList variant="line"><TabsTrigger value="traits">Características</TabsTrigger><TabsTrigger value="disciplines">Disciplinas</TabsTrigger><TabsTrigger value="story">Âncoras</TabsTrigger><TabsTrigger value="notes">Notas</TabsTrigger></TabsList>
           <TabsContent value="traits"><div className="play-columns"><TraitPanel title="Atributos" values={character.data.attributes}/><TraitPanel title="Habilidades" values={character.data.skills} specialties={specialtiesBySkill}/></div></TabsContent>
           <TabsContent value="disciplines"><div className="play-disciplines">{Object.entries(character.data.disciplines).filter(([,dots])=>dots>0).map(([name,dots])=><article key={name}><header><h3>{name}</h3><DotsRead value={dots}/></header>{(character.data.disciplinePowers[name]||[]).filter(Boolean).map(power=><p key={power}><Sparkles size={14}/>{power}</p>)}</article>)}</div></TabsContent>
@@ -51,6 +60,7 @@ export default function GameSheet({displayName,signOutPath}:{displayName:string;
         </Tabs>
       </section>
     </div>
+    <InconsistencySheet open={auditOpen} onOpenChange={setAuditOpen} issues={auditIssues}/>
   </main>;
 }
 
