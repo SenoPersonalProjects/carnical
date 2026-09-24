@@ -60,3 +60,71 @@
 /* Integrated pool builder */
 .pool-builder{display:grid;grid-template-columns:minmax(150px,1fr) auto minmax(150px,1fr) 90px 105px;gap:8px;align-items:end;margin-bottom:10px}.pool-builder label{display:flex;flex-direction:column;gap:6px}.pool-builder label>span,.pool-total>span{color:#837a76;font-size:10px;letter-spacing:.08em;text-transform:uppercase}.pool-builder em{margin-left:4px;color:#665f5c;font-size:8px;font-style:normal}.pool-builder select,.pool-builder input{height:39px;min-width:0;padding:0 9px;color:#d8cfca;background:#0d0c0d;border:1px solid #3a3033}.pool-plus{padding-bottom:9px;color:#6f6663}.pool-total{height:39px;display:grid;grid-template-columns:1fr auto;align-items:center;padding:5px 9px;border:1px solid #513039;background:#191013}.pool-total strong{grid-row:1/3;grid-column:2;color:#dd4357;font:500 24px Georgia,serif}.specialty-toggle{display:flex;align-items:center;gap:8px;margin:0 0 12px;color:#aa9f9b;font-size:11px}.specialty-toggle input{accent-color:#a52438}.reroll-button{display:flex;align-items:center;gap:6px;margin-top:10px;padding:7px 9px;color:#cbbfba;background:#191416;border:1px solid #594148;cursor:pointer}.reroll-used{display:block;margin-top:9px;color:#807672!important}
 @media(max-width:760px){.pool-builder{grid-template-columns:1fr 20px 1fr}.pool-builder label:nth-of-type(3){grid-column:1/3}.pool-total{grid-column:3}.resolution-field{grid-template-columns:1fr}.chronicle-audit-callout{grid-template-columns:22px 1fr}.chronicle-audit-callout button{grid-column:1/-1}}
+
+/* Mobile usability and on-demand library */
+.mobile-action-bar,.play-mobile-actions{display:none}
+.reader-loading,.reader-error{min-height:50vh;display:flex;align-items:center;justify-content:center;gap:10px;color:#9e9490;font-size:15px}
+.reader-loading svg,.search-loading svg{animation:noctis-spin .9s linear infinite}
+.reader-error{flex-direction:column}.reader-error p{margin:0}.reader-error button{min-height:42px;padding:0 16px;color:#eee;background:#761a2b;border:1px solid #b6374a;cursor:pointer}
+.search-loading{display:flex;align-items:center;gap:8px;padding:15px 7px;color:#978e89;font-size:13px}
+@keyframes noctis-spin{to{transform:rotate(360deg)}}
+
+@media(max-width:760px){
+  .studio-shell,.play-shell{padding-bottom:calc(72px + env(safe-area-inset-bottom))}
+  .editor{padding:24px 16px 36px}
+  .editor-actions{display:none}
+  .mobile-action-bar,.play-mobile-actions{position:fixed;z-index:90;right:0;bottom:0;left:0;display:grid;grid-template-columns:repeat(4,1fr);padding:7px 8px calc(7px + env(safe-area-inset-bottom));border-top:1px solid #553039;background:rgba(10,9,10,.98);box-shadow:0 -10px 30px rgba(0,0,0,.45);backdrop-filter:blur(14px)}
+  .mobile-action-bar button,.play-mobile-actions button,.play-mobile-actions a{position:relative;min-width:0;min-height:52px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;padding:4px;color:#aaa19c;background:transparent;border:0;text-decoration:none;font-size:12px;cursor:pointer}
+  .mobile-action-bar button:disabled{opacity:.32;cursor:not-allowed}
+  .mobile-action-bar .mobile-primary,.play-mobile-actions .mobile-primary{color:#fff;background:#86192b;border:1px solid #bd3549;border-radius:4px}
+  .mobile-action-bar .has-warning{color:#dfa1aa}
+  .mobile-action-bar b,.play-mobile-actions b{position:absolute;top:2px;right:calc(50% - 20px);min-width:18px;padding:1px 5px;border-radius:10px;background:#a72338;color:#fff;font-size:11px}
+  .mobile-menu,.library-menu{min-width:52px;min-height:52px;display:grid;place-items:center;padding:0}
+  .left-rail{width:min(320px,88vw)}
+  .left-rail .rail-heading button,.library-side-head button{width:44px;height:44px}
+  .character-item,.step-nav button,.rulebook-link,.chapter-nav button{min-height:48px}
+  .field,.source-filter,.editor-kicker{font-size:13px}
+  .field-status{padding:3px 6px;font-size:11px}
+  .section-title p,.rule-note p,.clan-card p,.predator small,.empty-row,.package-note,.resolution-field small,.resolution-check small,.chronicle-toggle small,.chronicle-audit-callout p{font-size:14px;line-height:1.5}
+  .source-chip,.attribute-summary span,.trait-group h3,.review-card span,.review-identity span,.completion span,.source-panel span,.power-picker-head,.power-option small,.custom-power-list,.predator-resolutions>span{font-size:12px}
+  .trait{min-height:56px;align-items:flex-start;flex-direction:column;gap:5px;padding:8px 0}.trait>span{font-size:15px}
+  .dots{width:100%;min-height:44px;display:flex;flex-wrap:wrap;justify-content:flex-end;gap:6px}.dot,.skill-grid .dot{width:44px;height:44px}.dot{border-width:2px}
+  .skill-grid{column-gap:0}.skill-grid .trait{min-height:56px}
+  .preset,.source-chip{min-height:44px;padding:10px 12px}
+  .clan-card,.predator,.apply-package,.list-heading button,.add-wide,.chronicle-audit-callout button{min-height:48px}
+  .inline-editor>button,.merit-row>button{min-width:44px;min-height:44px}
+  .review-card strong{font-size:18px}
+  .final-checks>div{min-height:48px;font-size:14px}.final-checks b{font-size:12px}
+  .source-sheet{padding-bottom:calc(20px + env(safe-area-inset-bottom))}
+  .library-search{height:48px}.library-search input{font-size:16px}.library-search button{width:40px;height:40px}
+  .book-tabs [data-slot="tabs-trigger"]{min-height:44px;font-size:14px}
+  .book-summary span,.chapter-nav button,.no-results,.search-loading{font-size:14px}
+  .chapter-nav h2,.reader-meta,.reader-title p{font-size:12px}
+  .search-results button small,.search-results button em{font-size:12px;line-height:1.45}
+  .reader{padding:32px 18px 54px}.reader-title h1{font-size:clamp(30px,10vw,42px)}
+  .markdown-article{font-size:17px;line-height:1.72}.markdown-article h2{font-size:27px}.markdown-article h3{font-size:21px}
+  .reader-footer{font-size:14px}.back-to-sheet{min-width:48px;min-height:48px;justify-content:center}
+  .play-topbar nav{display:none}.play-brand small{font-size:12px}
+  .play-roster{padding:16px}.play-roster>span{font-size:12px}.play-roster>select{min-height:48px;margin-top:8px;font-size:16px}
+  .play-main{padding:24px 14px 38px}.play-heading{gap:12px}.play-heading span{font-size:12px}.play-heading h2{font-size:30px;line-height:1.1}
+  .play-audit-button{min-width:48px;min-height:48px;justify-content:center}.xp-card{min-width:94px}.xp-card span{font-size:12px!important}
+  .damage-card,.counter-card{min-height:150px;padding:15px}.damage-card header span,.counter-card>span{font-size:13px}
+  .damage-boxes{gap:7px}.damage-boxes i{width:25px;height:25px}
+  .damage-actions{grid-template-columns:1fr 44px 44px;gap:6px;font-size:13px}
+  .damage-actions button,.counter-card button{width:44px;height:44px}.damage-actions button:disabled,.counter-card button:disabled{opacity:.3;cursor:not-allowed}
+  .counter-card>div:nth-child(2){margin-top:10px}.counter-card strong{font-size:32px}
+  .dice-console{scroll-margin-top:72px;padding:15px}.dice-console-head span,.dice-controls label>span,.hunger-readout>span,.pool-builder label>span,.pool-total>span{font-size:12px}.dice-console-head a{min-width:44px;min-height:44px;display:grid;place-items:center;padding:0}
+  .pool-builder{grid-template-columns:1fr}.pool-builder label:nth-of-type(3),.pool-total{grid-column:auto}.pool-plus{display:none}
+  .pool-builder select,.pool-builder input,.dice-controls input,.hunger-readout,.roll-button,.rouse-button{min-height:48px;height:auto;font-size:16px}
+  .dice-controls{grid-template-columns:1fr}.dice-controls label:first-child,.hunger-readout{grid-column:auto}.roll-button,.rouse-button{padding:10px 13px}
+  .specialty-toggle{min-height:44px;font-size:14px}.specialty-toggle input{width:20px;height:20px}
+  .roll-result-head span,.roll-result-head small{font-size:13px}.rolled-dice i{width:36px;height:36px;font-size:15px}.reroll-button{min-height:44px;font-size:13px}
+  .play-tabs [data-slot="tabs-trigger"]{min-height:46px;padding:10px 16px;font-size:14px}
+  .trait-panel h3,.play-story span,.play-notes>span{font-size:12px}.trait-panel>div{min-height:48px}.trait-panel>div>span{font-size:15px}.trait-panel small{font-size:12px}.dots-read i{width:13px;height:13px}
+  .play-disciplines p,.play-story em{font-size:14px}.play-notes textarea{font-size:16px}
+}
+
+@media(max-width:360px){
+  .editor{padding-inline:12px}.section-title h1{font-size:29px}.dots{gap:4px}
+  .session-trackers{grid-template-columns:1fr}.damage-card{grid-column:auto}.play-heading{flex-direction:column}.play-heading-actions{width:100%;flex-direction:row;justify-content:space-between}
+}
