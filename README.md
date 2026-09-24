@@ -1,1 +1,87 @@
-IyBDYXJuacOnYWwKCkFzc2lzdGVudGUgZGlnaXRhbCBwYXJhIGNyaWFyIHBlcnNvbmFnZW5zLCBjb25zdWx0YXIgcmVncmFzIGUgam9nYXIgKipWYW1waXJvOiBBIE3DoXNjYXJhIDXCqiBFZGnDp8OjbyoqLgoKTyBDYXJuacOnYWwgcmXDum5lIGNyaWHDp8OjbyBhc3Npc3RpZGEsIGF1ZGl0b3JpYSBuw6NvIGJsb3F1ZWFudGUgZGUgcmVncmFzLCBmaWNoYSBvcGVyYWNpb25hbCwgcm9sYWRvciBWNSwgYmlibGlvdGVjYSBwZXNxdWlzw6F2ZWwgZSBzdXBvcnRlIGEgcG9ydHVndcOqcyBlIGluZ2zDqnMuCgojIyBFc3RhZG8gZG8gcHJvamV0bwoKRXN0YSBicmFuY2ggcHJlcGFyYSBhIHZlcnPDo28gcG9ydMOhdGlsIGRvIHByb2pldG8gcGFyYToKCi0gKipOZXh0LmpzIDE2KiogZSBSZWFjdCAxOTsKLSAqKlZlcmNlbCoqIHBhcmEgYXBsaWNhw6fDo28gZSBBUElzOwotICoqU3VwYWJhc2UgQXV0aCoqIGNvbSBsaW5rIG3DoWdpY28gcG9yIGUtbWFpbDsKLSAqKlN1cGFiYXNlIFBvc3RncmVzKiogcGFyYSBhcm1hemVuYW1lbnRvIGRhcyBmaWNoYXM7Ci0gUm93IExldmVsIFNlY3VyaXR5IHBhcmEgaXNvbGFyIG9zIGRhZG9zIGRlIGNhZGEgdXN1w6FyaW8uCgpBIHZlcnPDo28gcHVibGljYWRhIG5vIENoYXRHUFQgU2l0ZXMgY29udGludWEgaW5kZXBlbmRlbnRlIGRlc3RhIGluZnJhZXN0cnV0dXJhLgoKIyMgUmVjdXJzb3MgYXR1YWlzCgotIGNyaWHDp8OjbyBlIGVkacOnw6NvIGRlIHBlcnNvbmFnZW5zOwotIG1vZG8gZGUgam9nbyBjb20gVml0YWxpZGFkZSwgRm9yw6dhIGRlIFZvbnRhZGUsIEZvbWUsIEh1bWFuaWRhZGUgZSBNw6FjdWxhczsKLSByb2xhZG9yIGNvbSBEYWRvcyBkZSBGb21lLCBjcsOtdGljb3MsIGNyw610aWNvIGJhZ3Vuw6dhZG8gZSBmYWxoYSBiZXN0aWFsOwotIHBhaW5lbCBkZSBpbmNvZXLDqm5jaWFzIHNlbSBibG9xdWVhciBlc2NvbGhhcyBwZXJzb25hbGl6YWRhczsKLSByZWdyYXMgcHLDs3ByaWFzIGRhIGNyw7RuaWNhOwotIGNhdMOhbG9nbyBhc3Npc3RpZG8gZGUgRGlzY2lwbGluYXMgZSBwb2RlcmVzOwotIGJpYmxpb3RlY2EgcG9yIGNhcMOtdHVsbywgYnVzY2EgZSB0cmFkdcOnw6NvOwotIHRlbWEgY2xhcm8vZXNjdXJvIGUgaW50ZXJmYWNlIFBULUJSL0VOOwotIGxheW91dCByZXNwb25zaXZvIHBhcmEgY2VsdWxhciBlIHRhYmxldC4KCiMjIERlc2Vudm9sdmltZW50byBsb2NhbAoKUmVxdWlzaXRvczoKCi0gTm9kZS5qcyAyMi4xMyBvdSBzdXBlcmlvcjsKLSBwbnBtIDExOwotIHVtIHByb2pldG8gU3VwYWJhc2UuCgpgYGBiYXNoCnBucG0gaW5zdGFsbApjcCAuZW52LmV4YW1wbGUgLmVudi5sb2NhbApwbnBtIGRldgpgYGAKClByZWVuY2hhIGAuZW52LmxvY2FsYDoKCmBgYGVudgpORVhUX1BVQkxJQ19TVVBBQkFTRV9VUkw9aHR0cHM6Ly9TRVUtUFJPSkVUTy5zdXBhYmFzZS5jbwpORVhUX1BVQkxJQ19TVVBBQkFTRV9QVUJMSVNIQUJMRV9LRVk9c2JfcHVibGlzaGFibGVfLi4uCk5FWFRfUFVCTElDX1NJVEVfVVJMPWh0dHA6Ly9sb2NhbGhvc3Q6MzAwMApgYGAKCk7Do28gdXNlIHVtYSBjaGF2ZSBgc2VydmljZV9yb2xlYCBvdSBzZWNyZXQga2V5IGVtIHZhcmnDoXZlaXMgYE5FWFRfUFVCTElDXypgLgoKIyMgQmFuY28gZGUgZGFkb3MKCkEgbWlncmHDp8OjbyBpbmljaWFsIGVzdMOhIGVtOgoKYGBgdGV4dApzdXBhYmFzZS9taWdyYXRpb25zLzIwMjYwOTI0MDAwMTAwX2NyZWF0ZV9jaGFyYWN0ZXJzLnNxbApgYGAKCkVsYSBjcmlhIGBwdWJsaWMuY2hhcmFjdGVyc2AsIGF0aXZhIFJMUyBlIHBlcm1pdGUgcXVlIGNhZGEgdXN1w6FyaW8gbGVpYSBlIGFsdGVyZSBhcGVuYXMgc3VhcyBwcsOzcHJpYXMgZmljaGFzLgoKQW50ZXMgZGUgcHJvZHXDp8OjbzoKCjEuIGFwbGlxdWUgYSBtaWdyYcOnw6NvIG5vIHByb2pldG8gU3VwYWJhc2U7CjIuIGNvbmZpZ3VyZSBhIFVSTCBsb2NhbCBlIGEgVVJMIGRlIHByZXZpZXcvcHJvZHXDp8OjbyBub3MgcmVkaXJlY3RzIGRvIFN1cGFiYXNlIEF1dGg7CjMuIGNhZGFzdHJlIGFzIHRyw6pzIHZhcmnDoXZlaXMgZGUgYW1iaWVudGUgbmEgVmVyY2VsOwo0LiBpbXBvcnRlIGVzdGUgcmVwb3NpdMOzcmlvIG5hIFZlcmNlbDsKNS4gdmFsaWRlIGxvZ2luLCBjcmlhw6fDo28sIHNhbHZhbWVudG8sIGV4Y2x1c8OjbyBlIGlzb2xhbWVudG8gZW50cmUgdXN1w6FyaW9zLgoKIyMgRGVwbG95IG5hIFZlcmNlbAoKQ29uZWN0ZSBvIHJlcG9zaXTDs3JpbyBgU2Vub1BlcnNvbmFsUHJvamVjdHMvY2FybmljYWxgIG5vIHBhaW5lbCBkYSBWZXJjZWwuIE8gZnJhbWV3b3JrIGRldmUgc2VyIGRldGVjdGFkbyBjb21vIE5leHQuanMgZSBvIGNvbWFuZG8gZGUgYnVpbGQgw6kgYHBucG0gYnVpbGRgLgoKQ2FkYSBQdWxsIFJlcXVlc3QgcG9kZXLDoSBnZXJhciB1bSBwcmV2aWV3IGluZGVwZW5kZW50ZS4gTyBkZXBsb3kgZGUgcHJvZHXDp8OjbyBkZXZlIG9jb3JyZXIgc29tZW50ZSBkZXBvaXMgZGEgbWlncmHDp8OjbyBkbyBiYW5jbyBlIGRvcyB0ZXN0ZXMgZGUgYXV0ZW50aWNhw6fDo28uCgojIyBNaWdyYcOnw6NvIGRlIGRhZG9zIGRvIENoYXRHUFQgU2l0ZXMKCk8gY8OzZGlnbyBmb2kgbWlncmFkbywgbWFzIGFzIGZpY2hhcyBleGlzdGVudGVzIG5vIGJhbmNvIEQxIG7Do28gc8OjbyBjb3BpYWRhcyBhdXRvbWF0aWNhbWVudGUuIEEgbWlncmHDp8OjbyBkZSBkYWRvcyBleGlnaXLDoSBleHBvcnRhciBvcyByZWdpc3Ryb3MgZG8gU2l0ZSBlIGFzc29jacOhLWxvcyBhb3Mgbm92b3MgdXN1w6FyaW9zIGRvIFN1cGFiYXNlLgoKIyMgQXZpc28gc29icmUgY29udGXDumRvIGUgbGljZW7Dp2EKCkVzdGUgcmVwb3NpdMOzcmlvIGNvbnTDqW0gbWF0ZXJpYWlzIGRlIHJlZmVyw6puY2lhIGUgdHJhZHXDp8O1ZXMgcmVsYWNpb25hZG9zIGEgb2JyYXMgZGUgdGVyY2Vpcm9zLiBFbGVzIG7Do28gc8OjbyBjb25jZWRpZG9zIHNvYiB1bWEgbGljZW7Dp2EgZGUgY8OzZGlnbyBhYmVydG8gZSBuw6NvIGRldmVtIHNlciByZWRpc3RyaWJ1w61kb3MgcHVibGljYW1lbnRlIHNlbSBhdXRvcml6YcOnw6NvIGRvcyB0aXR1bGFyZXMuCgpDb25zdWx0ZSBbTElDRU5TRV0oTElDRU5TRSkgcGFyYSBvcyB0ZXJtb3MgZG8gY8OzZGlnbyBlIGRvIGNvbnRlw7pkbyBkbyByZXBvc2l0w7NyaW8uCg==
+# Carniçal
+
+Assistente digital para criar personagens, consultar regras e jogar **Vampiro: A Máscara 5ª Edição**.
+
+O Carniçal reúne criação assistida, auditoria não bloqueante de regras, ficha operacional, rolador V5, biblioteca pesquisável e suporte a português e inglês.
+
+## Estado do projeto
+
+Esta branch prepara a versão portátil do projeto para:
+
+- **Next.js 16** e React 19;
+- **Vercel** para aplicação e APIs;
+- **Supabase Auth** com link mágico por e-mail;
+- **Supabase Postgres** para armazenamento das fichas;
+- Row Level Security para isolar os dados de cada usuário.
+
+A versão publicada no ChatGPT Sites continua independente desta infraestrutura.
+
+## Recursos atuais
+
+- criação e edição de personagens;
+- modo de jogo com Vitalidade, Força de Vontade, Fome, Humanidade e Máculas;
+- rolador com Dados de Fome, críticos, crítico bagunçado e falha bestial;
+- painel de incoerências sem bloquear escolhas personalizadas;
+- regras próprias da crônica;
+- catálogo assistido de Disciplinas e poderes;
+- biblioteca por capítulo, busca e tradução;
+- tema claro/escuro e interface PT-BR/EN;
+- layout responsivo para celular e tablet.
+
+## Desenvolvimento local
+
+Requisitos:
+
+- Node.js 22.13 ou superior;
+- pnpm 11;
+- um projeto Supabase.
+
+```bash
+pnpm install
+cp .env.example .env.local
+pnpm dev
+```
+
+Preencha `.env.local`:
+
+```env
+NEXT_PUBLIC_SUPABASE_URL=https://SEU-PROJETO.supabase.co
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_...
+NEXT_PUBLIC_SITE_URL=http://localhost:3000
+```
+
+Não use uma chave `service_role` ou secret key em variáveis `NEXT_PUBLIC_*`.
+
+## Banco de dados
+
+A migração inicial está em:
+
+```text
+supabase/migrations/20260924000100_create_characters.sql
+```
+
+Ela cria `public.characters`, ativa RLS e permite que cada usuário leia e altere apenas suas próprias fichas.
+
+Antes de produção:
+
+1. aplique a migração no projeto Supabase;
+2. configure a URL local e a URL de preview/produção nos redirects do Supabase Auth;
+3. cadastre as três variáveis de ambiente na Vercel;
+4. importe este repositório na Vercel;
+5. valide login, criação, salvamento, exclusão e isolamento entre usuários.
+
+## Deploy na Vercel
+
+Conecte o repositório `SenoPersonalProjects/carnical` no painel da Vercel. O framework deve ser detectado como Next.js e o comando de build é `pnpm build`.
+
+Cada Pull Request poderá gerar um preview independente. O deploy de produção deve ocorrer somente depois da migração do banco e dos testes de autenticação.
+
+## Migração de dados do ChatGPT Sites
+
+O código foi migrado, mas as fichas existentes no banco D1 não são copiadas automaticamente. A migração de dados exigirá exportar os registros do Site e associá-los aos novos usuários do Supabase.
+
+## Aviso sobre conteúdo e licença
+
+Este repositório contém materiais de referência e traduções relacionados a obras de terceiros. Eles não são concedidos sob uma licença de código aberto e não devem ser redistribuídos publicamente sem autorização dos titulares.
+
+Consulte [LICENSE](LICENSE) para os termos do código e do conteúdo do repositório.

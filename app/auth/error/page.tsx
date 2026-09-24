@@ -1,1 +1,2 @@
-aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQXV0aEVycm9yUGFnZSgpIHsgcmV0dXJuIDxtYWluIGNsYXNzTmFtZT0iYXV0aC1wYWdlIj48c2VjdGlvbiBjbGFzc05hbWU9ImF1dGgtY2FyZCI+PHAgY2xhc3NOYW1lPSJleWVicm93Ij5DQVJOScOHQUw8L3A+PGgxPk8gbGluayBuw6NvIGZ1bmNpb25vdTwvaDE+PHA+RWxlIHBvZGUgdGVyIGV4cGlyYWRvIG91IGrDoSB0ZXIgc2lkbyB1c2Fkby48L3A+PExpbmsgaHJlZj0iL2F1dGgvbG9naW4iPlNvbGljaXRhciB1bSBub3ZvIGxpbms8L0xpbms+PC9zZWN0aW9uPjwvbWFpbj47IH0K
+import Link from "next/link";
+export default function AuthErrorPage() { return <main className="auth-page"><section className="auth-card"><p className="eyebrow">CARNIÇAL</p><h1>O link não funcionou</h1><p>Ele pode ter expirado ou já ter sido usado.</p><Link href="/auth/login">Solicitar um novo link</Link></section></main>; }

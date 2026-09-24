@@ -1,1 +1,23 @@
-aW1wb3J0IHsgY3JlYXRlU2VydmVyQ2xpZW50IH0gZnJvbSAiQHN1cGFiYXNlL3NzciI7CmltcG9ydCB7IE5leHRSZXNwb25zZSwgdHlwZSBOZXh0UmVxdWVzdCB9IGZyb20gIm5leHQvc2VydmVyIjsKCmV4cG9ydCBhc3luYyBmdW5jdGlvbiB1cGRhdGVTZXNzaW9uKHJlcXVlc3Q6IE5leHRSZXF1ZXN0KSB7CiAgbGV0IHJlc3BvbnNlID0gTmV4dFJlc3BvbnNlLm5leHQoeyByZXF1ZXN0IH0pOwogIGNvbnN0IHN1cGFiYXNlID0gY3JlYXRlU2VydmVyQ2xpZW50KAogICAgcHJvY2Vzcy5lbnYuTkVYVF9QVUJMSUNfU1VQQUJBU0VfVVJMISwKICAgIHByb2Nlc3MuZW52Lk5FWFRfUFVCTElDX1NVUEFCQVNFX1BVQkxJU0hBQkxFX0tFWSEsCiAgICB7CiAgICAgIGNvb2tpZXM6IHsKICAgICAgICBnZXRBbGw6ICgpID0+IHJlcXVlc3QuY29va2llcy5nZXRBbGwoKSwKICAgICAgICBzZXRBbGwoY29va2llc1RvU2V0KSB7CiAgICAgICAgICBjb29raWVzVG9TZXQuZm9yRWFjaCgoeyBuYW1lLCB2YWx1ZSB9KSA9PiByZXF1ZXN0LmNvb2tpZXMuc2V0KG5hbWUsIHZhbHVlKSk7CiAgICAgICAgICByZXNwb25zZSA9IE5leHRSZXNwb25zZS5uZXh0KHsgcmVxdWVzdCB9KTsKICAgICAgICAgIGNvb2tpZXNUb1NldC5mb3JFYWNoKCh7IG5hbWUsIHZhbHVlLCBvcHRpb25zIH0pID0+IHJlc3BvbnNlLmNvb2tpZXMuc2V0KG5hbWUsIHZhbHVlLCBvcHRpb25zKSk7CiAgICAgICAgfSwKICAgICAgfSwKICAgIH0sCiAgKTsKCiAgYXdhaXQgc3VwYWJhc2UuYXV0aC5nZXRDbGFpbXMoKTsKICByZXR1cm4gcmVzcG9uc2U7Cn0K
+import { createServerClient } from "@supabase/ssr";
+import { NextResponse, type NextRequest } from "next/server";
+
+export async function updateSession(request: NextRequest) {
+  let response = NextResponse.next({ request });
+  const supabase = createServerClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY!,
+    {
+      cookies: {
+        getAll: () => request.cookies.getAll(),
+        setAll(cookiesToSet) {
+          cookiesToSet.forEach(({ name, value }) => request.cookies.set(name, value));
+          response = NextResponse.next({ request });
+          cookiesToSet.forEach(({ name, value, options }) => response.cookies.set(name, value, options));
+        },
+      },
+    },
+  );
+
+  await supabase.auth.getClaims();
+  return response;
+}

@@ -1,1 +1,38 @@
-aW1wb3J0IHsgZ2V0Q2hhdEdQVFVzZXIgfSBmcm9tICIuLi8uLi9jaGF0Z3B0LWF1dGgiOwppbXBvcnQgeyBjcmVhdGVDbGllbnQgfSBmcm9tICIuLi8uLi8uLi9saWIvc3VwYWJhc2Uvc2VydmVyIjsKCmZ1bmN0aW9uIHVuYXZhaWxhYmxlKGVycm9yOiB1bmtub3duKSB7CiAgY29uc29sZS5lcnJvcigiQ2hhcmFjdGVyIHN0b3JhZ2UgZXJyb3IiLCBlcnJvcik7CiAgcmV0dXJuIFJlc3BvbnNlLmpzb24oeyBlcnJvcjogIk7Do28gZm9pIHBvc3PDrXZlbCBhY2Vzc2FyIHN1YXMgZmljaGFzIGFnb3JhLiIgfSwgeyBzdGF0dXM6IDUwMyB9KTsKfQpmdW5jdGlvbiB0b0NoYXJhY3Rlcihyb3c6IFJlY29yZDxzdHJpbmcsIHVua25vd24+KSB7CiAgcmV0dXJuIHsgaWQ6IHJvdy5pZCwgb3duZXJJZDogcm93LnVzZXJfaWQsIG5hbWU6IHJvdy5uYW1lLCBjb25jZXB0OiByb3cuY29uY2VwdCwgY2xhbjogcm93LmNsYW4sIHNvdXJjZWJvb2s6IHJvdy5zb3VyY2Vib29rLCBkYXRhOiByb3cuZGF0YSA/PyB7fSwgY3JlYXRlZEF0OiByb3cuY3JlYXRlZF9hdCwgdXBkYXRlZEF0OiByb3cudXBkYXRlZF9hdCB9Owp9CmV4cG9ydCBhc3luYyBmdW5jdGlvbiBHRVQoKSB7CiAgY29uc3QgdXNlciA9IGF3YWl0IGdldENoYXRHUFRVc2VyKCk7CiAgaWYgKCF1c2VyKSByZXR1cm4gUmVzcG9uc2UuanNvbih7IGVycm9yOiAiTsOjbyBhdXRlbnRpY2FkbyIgfSwgeyBzdGF0dXM6IDQwMSB9KTsKICB0cnkgewogICAgY29uc3Qgc3VwYWJhc2UgPSBhd2FpdCBjcmVhdGVDbGllbnQoKTsKICAgIGNvbnN0IHsgZGF0YSwgZXJyb3IgfSA9IGF3YWl0IHN1cGFiYXNlLmZyb20oImNoYXJhY3RlcnMiKS5zZWxlY3QoIioiKS5lcSgidXNlcl9pZCIsIHVzZXIudXNlcklkKS5vcmRlcigidXBkYXRlZF9hdCIsIHsgYXNjZW5kaW5nOiBmYWxzZSB9KTsKICAgIGlmIChlcnJvcikgdGhyb3cgZXJyb3I7CiAgICByZXR1cm4gUmVzcG9uc2UuanNvbih7IGNoYXJhY3RlcnM6IChkYXRhID8/IFtdKS5tYXAodG9DaGFyYWN0ZXIpIH0pOwogIH0gY2F0Y2ggKGVycm9yKSB7IHJldHVybiB1bmF2YWlsYWJsZShlcnJvcik7IH0KfQpleHBvcnQgYXN5bmMgZnVuY3Rpb24gUE9TVChyZXF1ZXN0OiBSZXF1ZXN0KSB7CiAgY29uc3QgdXNlciA9IGF3YWl0IGdldENoYXRHUFRVc2VyKCk7CiAgaWYgKCF1c2VyKSByZXR1cm4gUmVzcG9uc2UuanNvbih7IGVycm9yOiAiTsOjbyBhdXRlbnRpY2FkbyIgfSwgeyBzdGF0dXM6IDQwMSB9KTsKICB0cnkgewogICAgY29uc3QgcGF5bG9hZCA9IGF3YWl0IHJlcXVlc3QuanNvbigpIGFzIFJlY29yZDxzdHJpbmcsIHVua25vd24+OwogICAgY29uc3Qgc3VwYWJhc2UgPSBhd2FpdCBjcmVhdGVDbGllbnQoKTsKICAgIGNvbnN0IHsgZGF0YTogY3JlYXRlZCwgZXJyb3IgfSA9IGF3YWl0IHN1cGFiYXNlLmZyb20oImNoYXJhY3RlcnMiKS5pbnNlcnQoewogICAgICB1c2VyX2lkOiB1c2VyLnVzZXJJZCwKICAgICAgbmFtZTogU3RyaW5nKHBheWxvYWQubmFtZSB8fCAiU2VtIG5vbWUiKS5zbGljZSgwLCAxMjApLAogICAgICBjb25jZXB0OiBTdHJpbmcocGF5bG9hZC5jb25jZXB0IHx8ICIiKS5zbGljZSgwLCAyNDApLAogICAgICBjbGFuOiBTdHJpbmcocGF5bG9hZC5jbGFuIHx8ICIiKS5zbGljZSgwLCA4MCksCiAgICAgIHNvdXJjZWJvb2s6IFN0cmluZyhwYXlsb2FkLnNvdXJjZWJvb2sgfHwgImNvcmVfdjVfcHRiciIpLnNsaWNlKDAsIDgwKSwKICAgICAgZGF0YTogcGF5bG9hZC5kYXRhIHx8IHt9LAogICAgfSkuc2VsZWN0KCkuc2luZ2xlKCk7CiAgICBpZiAoZXJyb3IpIHRocm93IGVycm9yOwogICAgcmV0dXJuIFJlc3BvbnNlLmpzb24oeyBjaGFyYWN0ZXI6IHRvQ2hhcmFjdGVyKGNyZWF0ZWQpIH0sIHsgc3RhdHVzOiAyMDEgfSk7CiAgfSBjYXRjaCAoZXJyb3IpIHsgcmV0dXJuIHVuYXZhaWxhYmxlKGVycm9yKTsgfQp9Cg==
+import { getChatGPTUser } from "../../chatgpt-auth";
+import { createClient } from "../../../lib/supabase/server";
+
+function unavailable(error: unknown) {
+  console.error("Character storage error", error);
+  return Response.json({ error: "Não foi possível acessar suas fichas agora." }, { status: 503 });
+}
+function toCharacter(row: Record<string, unknown>) {
+  return { id: row.id, ownerId: row.user_id, name: row.name, concept: row.concept, clan: row.clan, sourcebook: row.sourcebook, data: row.data ?? {}, createdAt: row.created_at, updatedAt: row.updated_at };
+}
+export async function GET() {
+  const user = await getChatGPTUser();
+  if (!user) return Response.json({ error: "Não autenticado" }, { status: 401 });
+  try {
+    const supabase = await createClient();
+    const { data, error } = await supabase.from("characters").select("*").eq("user_id", user.userId).order("updated_at", { ascending: false });
+    if (error) throw error;
+    return Response.json({ characters: (data ?? []).map(toCharacter) });
+  } catch (error) { return unavailable(error); }
+}
+export async function POST(request: Request) {
+  const user = await getChatGPTUser();
+  if (!user) return Response.json({ error: "Não autenticado" }, { status: 401 });
+  try {
+    const payload = await request.json() as Record<string, unknown>;
+    const supabase = await createClient();
+    const { data: created, error } = await supabase.from("characters").insert({
+      user_id: user.userId,
+      name: String(payload.name || "Sem nome").slice(0, 120),
+      concept: String(payload.concept || "").slice(0, 240),
+      clan: String(payload.clan || "").slice(0, 80),
+      sourcebook: String(payload.sourcebook || "core_v5_ptbr").slice(0, 80),
+      data: payload.data || {},
+    }).select().single();
+    if (error) throw error;
+    return Response.json({ character: toCharacter(created) }, { status: 201 });
+  } catch (error) { return unavailable(error); }
+}

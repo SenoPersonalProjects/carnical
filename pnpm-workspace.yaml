@@ -1,1 +1,5 @@
-cGFja2FnZXM6CiAgLSAiLiIKCmFsbG93QnVpbGRzOgogIHVucnMtcmVzb2x2ZXI6IHRydWUK
+packages:
+  - "."
+
+allowBuilds:
+  unrs-resolver: true

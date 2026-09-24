@@ -1,1 +1,13 @@
-InVzZSBzZXJ2ZXIiOwppbXBvcnQgeyByZWRpcmVjdCB9IGZyb20gIm5leHQvbmF2aWdhdGlvbiI7CmltcG9ydCB7IGNyZWF0ZUNsaWVudCB9IGZyb20gIi4uLy4uLy4uL2xpYi9zdXBhYmFzZS9zZXJ2ZXIiOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHNpZ25Jbihmb3JtRGF0YTogRm9ybURhdGEpIHsKICBjb25zdCBlbWFpbCA9IFN0cmluZyhmb3JtRGF0YS5nZXQoImVtYWlsIikgfHwgIiIpLnRyaW0oKTsKICBpZiAoIWVtYWlsIHx8ICFlbWFpbC5pbmNsdWRlcygiQCIpKSByZWRpcmVjdCgiL2F1dGgvbG9naW4/ZXJyb3I9ZW1haWwiKTsKICBjb25zdCBzdXBhYmFzZSA9IGF3YWl0IGNyZWF0ZUNsaWVudCgpOwogIGNvbnN0IHNpdGVVcmwgPSBwcm9jZXNzLmVudi5ORVhUX1BVQkxJQ19TSVRFX1VSTCB8fCAiaHR0cDovL2xvY2FsaG9zdDozMDAwIjsKICBjb25zdCB7IGVycm9yIH0gPSBhd2FpdCBzdXBhYmFzZS5hdXRoLnNpZ25JbldpdGhPdHAoeyBlbWFpbCwgb3B0aW9uczogeyBlbWFpbFJlZGlyZWN0VG86IGAke3NpdGVVcmx9L2F1dGgvY29uZmlybT9uZXh0PS9gIH0gfSk7CiAgaWYgKGVycm9yKSByZWRpcmVjdCgiL2F1dGgvbG9naW4/ZXJyb3I9c2VuZCIpOwogIHJlZGlyZWN0KCIvYXV0aC9sb2dpbj9zZW50PTEiKTsKfQo=
+"use server";
+import { redirect } from "next/navigation";
+import { createClient } from "../../../lib/supabase/server";
+
+export async function signIn(formData: FormData) {
+  const email = String(formData.get("email") || "").trim();
+  if (!email || !email.includes("@")) redirect("/auth/login?error=email");
+  const supabase = await createClient();
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+  const { error } = await supabase.auth.signInWithOtp({ email, options: { emailRedirectTo: `${siteUrl}/auth/confirm?next=/` } });
+  if (error) redirect("/auth/login?error=send");
+  redirect("/auth/login?sent=1");
+}

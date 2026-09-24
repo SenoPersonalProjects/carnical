@@ -1,1 +1,65 @@
-aW1wb3J0IHsgcmVkaXJlY3QgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwppbXBvcnQgeyBjcmVhdGVDbGllbnQgfSBmcm9tICIuLi9saWIvc3VwYWJhc2Uvc2VydmVyIjsKCmV4cG9ydCB0eXBlIENoYXRHUFRVc2VyID0gewogIHVzZXJJZDogc3RyaW5nOwogIGRpc3BsYXlOYW1lOiBzdHJpbmc7CiAgZW1haWw6IHN0cmluZzsKICBmdWxsTmFtZTogc3RyaW5nIHwgbnVsbDsKfTsKCmNvbnN0IFNJR05fSU5fUEFUSCA9ICIvYXV0aC9sb2dpbiI7CmNvbnN0IFNJR05fT1VUX1BBVEggPSAiL2F1dGgvc2lnbm91dCI7CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gZ2V0Q2hhdEdQVFVzZXIoKTogUHJvbWlzZTxDaGF0R1BUVXNlciB8IG51bGw+IHsKICBpZiAoIXByb2Nlc3MuZW52Lk5FWFRfUFVCTElDX1NVUEFCQVNFX1VSTCB8fCAhcHJvY2Vzcy5lbnYuTkVYVF9QVUJMSUNfU1VQQUJBU0VfUFVCTElTSEFCTEVfS0VZKSByZXR1cm4gbnVsbDsKICBjb25zdCBzdXBhYmFzZSA9IGF3YWl0IGNyZWF0ZUNsaWVudCgpOwogIGNvbnN0IHsgZGF0YSwgZXJyb3IgfSA9IGF3YWl0IHN1cGFiYXNlLmF1dGguZ2V0Q2xhaW1zKCk7CiAgY29uc3QgY2xhaW1zID0gZGF0YT8uY2xhaW1zOwogIGlmIChlcnJvciB8fCAhY2xhaW1zPy5zdWIgfHwgIWNsYWltcy5lbWFpbCkgcmV0dXJuIG51bGw7CiAgY29uc3QgZW1haWwgPSBTdHJpbmcoY2xhaW1zLmVtYWlsKTsKICBjb25zdCBmdWxsTmFtZSA9IHR5cGVvZiBjbGFpbXMudXNlcl9tZXRhZGF0YSA9PT0gIm9iamVjdCIgJiYgY2xhaW1zLnVzZXJfbWV0YWRhdGEgJiYgImZ1bGxfbmFtZSIgaW4gY2xhaW1zLnVzZXJfbWV0YWRhdGEKICAgID8gU3RyaW5nKGNsYWltcy51c2VyX21ldGFkYXRhLmZ1bGxfbmFtZSB8fCAiIikgfHwgbnVsbAogICAgOiBudWxsOwoKICByZXR1cm4gewogICAgdXNlcklkOiBjbGFpbXMuc3ViLAogICAgZGlzcGxheU5hbWU6IGZ1bGxOYW1lID8/IGVtYWlsLAogICAgZW1haWwsCiAgICBmdWxsTmFtZSwKICB9Owp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gcmVxdWlyZUNoYXRHUFRVc2VyKAogIHJldHVyblRvOiBzdHJpbmcsCik6IFByb21pc2U8Q2hhdEdQVFVzZXI+IHsKICBjb25zdCB1c2VyID0gYXdhaXQgZ2V0Q2hhdEdQVFVzZXIoKTsKICBpZiAodXNlcikgcmV0dXJuIHVzZXI7CgogIHJlZGlyZWN0KGNoYXRHUFRTaWduSW5QYXRoKHJldHVyblRvKSk7Cn0KCmV4cG9ydCBmdW5jdGlvbiBjaGF0R1BUU2lnbkluUGF0aChyZXR1cm5Ubzogc3RyaW5nKTogc3RyaW5nIHsKICBjb25zdCBzYWZlUmV0dXJuVG8gPSBzYWZlUmVsYXRpdmVSZXR1cm5QYXRoKHJldHVyblRvKTsKICByZXR1cm4gYCR7U0lHTl9JTl9QQVRIfT9yZXR1cm5fdG89JHtlbmNvZGVVUklDb21wb25lbnQoc2FmZVJldHVyblRvKX1gOwp9CgpleHBvcnQgZnVuY3Rpb24gY2hhdEdQVFNpZ25PdXRQYXRoKHJldHVyblRvID0gIi8iKTogc3RyaW5nIHsKICBjb25zdCBzYWZlUmV0dXJuVG8gPSBzYWZlUmVsYXRpdmVSZXR1cm5QYXRoKHJldHVyblRvKTsKICByZXR1cm4gYCR7U0lHTl9PVVRfUEFUSH0/cmV0dXJuX3RvPSR7ZW5jb2RlVVJJQ29tcG9uZW50KHNhZmVSZXR1cm5Ubyl9YDsKfQoKZnVuY3Rpb24gc2FmZVJlbGF0aXZlUmV0dXJuUGF0aCh2YWx1ZTogc3RyaW5nKTogc3RyaW5nIHsKICBpZiAoIXZhbHVlLnN0YXJ0c1dpdGgoIi8iKSB8fCB2YWx1ZS5zdGFydHNXaXRoKCIvLyIpKSByZXR1cm4gIi8iOwoKICBsZXQgdXJsOiBVUkw7CiAgdHJ5IHsKICAgIHVybCA9IG5ldyBVUkwodmFsdWUsICJodHRwczovL2FwcC5sb2NhbCIpOwogIH0gY2F0Y2ggewogICAgcmV0dXJuICIvIjsKICB9CiAgaWYgKHVybC5vcmlnaW4gIT09ICJodHRwczovL2FwcC5sb2NhbCIpIHJldHVybiAiLyI7CiAgaWYgKHVybC5wYXRobmFtZS5zdGFydHNXaXRoKCIvYXV0aC8iKSkgcmV0dXJuICIvIjsKCiAgcmV0dXJuIGAke3VybC5wYXRobmFtZX0ke3VybC5zZWFyY2h9JHt1cmwuaGFzaH1gOwp9Cg==
+import { redirect } from "next/navigation";
+import { createClient } from "../lib/supabase/server";
+
+export type ChatGPTUser = {
+  userId: string;
+  displayName: string;
+  email: string;
+  fullName: string | null;
+};
+
+const SIGN_IN_PATH = "/auth/login";
+const SIGN_OUT_PATH = "/auth/signout";
+
+export async function getChatGPTUser(): Promise<ChatGPTUser | null> {
+  if (!process.env.NEXT_PUBLIC_SUPABASE_URL || !process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY) return null;
+  const supabase = await createClient();
+  const { data, error } = await supabase.auth.getClaims();
+  const claims = data?.claims;
+  if (error || !claims?.sub || !claims.email) return null;
+  const email = String(claims.email);
+  const fullName = typeof claims.user_metadata === "object" && claims.user_metadata && "full_name" in claims.user_metadata
+    ? String(claims.user_metadata.full_name || "") || null
+    : null;
+
+  return {
+    userId: claims.sub,
+    displayName: fullName ?? email,
+    email,
+    fullName,
+  };
+}
+
+export async function requireChatGPTUser(
+  returnTo: string,
+): Promise<ChatGPTUser> {
+  const user = await getChatGPTUser();
+  if (user) return user;
+
+  redirect(chatGPTSignInPath(returnTo));
+}
+
+export function chatGPTSignInPath(returnTo: string): string {
+  const safeReturnTo = safeRelativeReturnPath(returnTo);
+  return `${SIGN_IN_PATH}?return_to=${encodeURIComponent(safeReturnTo)}`;
+}
+
+export function chatGPTSignOutPath(returnTo = "/"): string {
+  const safeReturnTo = safeRelativeReturnPath(returnTo);
+  return `${SIGN_OUT_PATH}?return_to=${encodeURIComponent(safeReturnTo)}`;
+}
+
+function safeRelativeReturnPath(value: string): string {
+  if (!value.startsWith("/") || value.startsWith("//")) return "/";
+
+  let url: URL;
+  try {
+    url = new URL(value, "https://app.local");
+  } catch {
+    return "/";
+  }
+  if (url.origin !== "https://app.local") return "/";
+  if (url.pathname.startsWith("/auth/")) return "/";
+
+  return `${url.pathname}${url.search}${url.hash}`;
+}

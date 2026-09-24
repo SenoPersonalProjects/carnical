@@ -1,1 +1,3 @@
-aW1wb3J0IHsgTmV4dFJlc3BvbnNlIH0gZnJvbSAibmV4dC9zZXJ2ZXIiOwppbXBvcnQgeyBjcmVhdGVDbGllbnQgfSBmcm9tICIuLi8uLi8uLi9saWIvc3VwYWJhc2Uvc2VydmVyIjsKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIEdFVChyZXF1ZXN0OiBSZXF1ZXN0KSB7IGNvbnN0IHN1cGFiYXNlID0gYXdhaXQgY3JlYXRlQ2xpZW50KCk7IGF3YWl0IHN1cGFiYXNlLmF1dGguc2lnbk91dCgpOyByZXR1cm4gTmV4dFJlc3BvbnNlLnJlZGlyZWN0KG5ldyBVUkwoIi9hdXRoL2xvZ2luIiwgcmVxdWVzdC51cmwpKTsgfQo=
+import { NextResponse } from "next/server";
+import { createClient } from "../../../lib/supabase/server";
+export async function GET(request: Request) { const supabase = await createClient(); await supabase.auth.signOut(); return NextResponse.redirect(new URL("/auth/login", request.url)); }

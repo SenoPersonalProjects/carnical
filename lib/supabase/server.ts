@@ -1,1 +1,23 @@
-aW1wb3J0IHsgY3JlYXRlU2VydmVyQ2xpZW50IH0gZnJvbSAiQHN1cGFiYXNlL3NzciI7CmltcG9ydCB7IGNvb2tpZXMgfSBmcm9tICJuZXh0L2hlYWRlcnMiOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGNyZWF0ZUNsaWVudCgpIHsKICBjb25zdCBjb29raWVTdG9yZSA9IGF3YWl0IGNvb2tpZXMoKTsKCiAgcmV0dXJuIGNyZWF0ZVNlcnZlckNsaWVudCgKICAgIHByb2Nlc3MuZW52Lk5FWFRfUFVCTElDX1NVUEFCQVNFX1VSTCEsCiAgICBwcm9jZXNzLmVudi5ORVhUX1BVQkxJQ19TVVBBQkFTRV9QVUJMSVNIQUJMRV9LRVkhLAogICAgewogICAgICBjb29raWVzOiB7CiAgICAgICAgZ2V0QWxsOiAoKSA9PiBjb29raWVTdG9yZS5nZXRBbGwoKSwKICAgICAgICBzZXRBbGwoY29va2llc1RvU2V0KSB7CiAgICAgICAgICB0cnkgewogICAgICAgICAgICBjb29raWVzVG9TZXQuZm9yRWFjaCgoeyBuYW1lLCB2YWx1ZSwgb3B0aW9ucyB9KSA9PiBjb29raWVTdG9yZS5zZXQobmFtZSwgdmFsdWUsIG9wdGlvbnMpKTsKICAgICAgICAgIH0gY2F0Y2ggewogICAgICAgICAgICAvLyBTZXJ2ZXIgQ29tcG9uZW50cyBjYW5ub3Qgd3JpdGUgY29va2llczsgcHJveHkudHMgcmVmcmVzaGVzIHRoZW0uCiAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgfSwKICAgIH0sCiAgKTsKfQo=
+import { createServerClient } from "@supabase/ssr";
+import { cookies } from "next/headers";
+
+export async function createClient() {
+  const cookieStore = await cookies();
+
+  return createServerClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY!,
+    {
+      cookies: {
+        getAll: () => cookieStore.getAll(),
+        setAll(cookiesToSet) {
+          try {
+            cookiesToSet.forEach(({ name, value, options }) => cookieStore.set(name, value, options));
+          } catch {
+            // Server Components cannot write cookies; proxy.ts refreshes them.
+          }
+        },
+      },
+    },
+  );
+}

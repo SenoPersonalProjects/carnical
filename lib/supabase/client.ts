@@ -1,1 +1,8 @@
-aW1wb3J0IHsgY3JlYXRlQnJvd3NlckNsaWVudCB9IGZyb20gIkBzdXBhYmFzZS9zc3IiOwoKZXhwb3J0IGZ1bmN0aW9uIGNyZWF0ZUNsaWVudCgpIHsKICByZXR1cm4gY3JlYXRlQnJvd3NlckNsaWVudCgKICAgIHByb2Nlc3MuZW52Lk5FWFRfUFVCTElDX1NVUEFCQVNFX1VSTCEsCiAgICBwcm9jZXNzLmVudi5ORVhUX1BVQkxJQ19TVVBBQkFTRV9QVUJMSVNIQUJMRV9LRVkhLAogICk7Cn0K
+import { createBrowserClient } from "@supabase/ssr";
+
+export function createClient() {
+  return createBrowserClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY!,
+  );
+}

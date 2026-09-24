@@ -1,1 +1,11 @@
-aW1wb3J0IHR5cGUgeyBFbWFpbE90cFR5cGUgfSBmcm9tICJAc3VwYWJhc2Uvc3VwYWJhc2UtanMiOwppbXBvcnQgeyBOZXh0UmVzcG9uc2UgfSBmcm9tICJuZXh0L3NlcnZlciI7CmltcG9ydCB7IGNyZWF0ZUNsaWVudCB9IGZyb20gIi4uLy4uLy4uL2xpYi9zdXBhYmFzZS9zZXJ2ZXIiOwoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIEdFVChyZXF1ZXN0OiBSZXF1ZXN0KSB7CiAgY29uc3QgdXJsID0gbmV3IFVSTChyZXF1ZXN0LnVybCksIGNvZGUgPSB1cmwuc2VhcmNoUGFyYW1zLmdldCgiY29kZSIpLCB0b2tlbkhhc2ggPSB1cmwuc2VhcmNoUGFyYW1zLmdldCgidG9rZW5faGFzaCIpLCB0eXBlID0gdXJsLnNlYXJjaFBhcmFtcy5nZXQoInR5cGUiKSBhcyBFbWFpbE90cFR5cGUgfCBudWxsOwogIGNvbnN0IHJlcXVlc3RlZE5leHQgPSB1cmwuc2VhcmNoUGFyYW1zLmdldCgibmV4dCIpIHx8ICIvIiwgbmV4dCA9IHJlcXVlc3RlZE5leHQuc3RhcnRzV2l0aCgiLyIpICYmICFyZXF1ZXN0ZWROZXh0LnN0YXJ0c1dpdGgoIi8vIikgPyByZXF1ZXN0ZWROZXh0IDogIi8iOwogIGNvbnN0IHN1cGFiYXNlID0gYXdhaXQgY3JlYXRlQ2xpZW50KCk7CiAgY29uc3QgcmVzdWx0ID0gY29kZSA/IGF3YWl0IHN1cGFiYXNlLmF1dGguZXhjaGFuZ2VDb2RlRm9yU2Vzc2lvbihjb2RlKSA6IHRva2VuSGFzaCAmJiB0eXBlID8gYXdhaXQgc3VwYWJhc2UuYXV0aC52ZXJpZnlPdHAoeyB0b2tlbl9oYXNoOiB0b2tlbkhhc2gsIHR5cGUgfSkgOiB7IGVycm9yOiBuZXcgRXJyb3IoIk1pc3NpbmcgdG9rZW4iKSB9OwogIHJldHVybiBOZXh0UmVzcG9uc2UucmVkaXJlY3QobmV3IFVSTChyZXN1bHQuZXJyb3IgPyAiL2F1dGgvZXJyb3IiIDogbmV4dCwgdXJsLm9yaWdpbikpOwp9Cg==
+import type { EmailOtpType } from "@supabase/supabase-js";
+import { NextResponse } from "next/server";
+import { createClient } from "../../../lib/supabase/server";
+
+export async function GET(request: Request) {
+  const url = new URL(request.url), code = url.searchParams.get("code"), tokenHash = url.searchParams.get("token_hash"), type = url.searchParams.get("type") as EmailOtpType | null;
+  const requestedNext = url.searchParams.get("next") || "/", next = requestedNext.startsWith("/") && !requestedNext.startsWith("//") ? requestedNext : "/";
+  const supabase = await createClient();
+  const result = code ? await supabase.auth.exchangeCodeForSession(code) : tokenHash && type ? await supabase.auth.verifyOtp({ token_hash: tokenHash, type }) : { error: new Error("Missing token") };
+  return NextResponse.redirect(new URL(result.error ? "/auth/error" : next, url.origin));
+}

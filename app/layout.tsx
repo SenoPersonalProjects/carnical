@@ -1,1 +1,24 @@
-aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgIi4vZ2xvYmFscy5jc3MiOwppbXBvcnQgeyBQcmVmZXJlbmNlc1Byb3ZpZGVyIH0gZnJvbSAiLi9wcmVmZXJlbmNlcyI7CgpleHBvcnQgY29uc3QgbWV0YWRhdGE6IE1ldGFkYXRhID0gewogIHRpdGxlOiAiQ2FybmnDp2FsIOKAlCBBc3Npc3RlbnRlIHBhcmEgVmFtcGlybyBWNSIsCiAgZGVzY3JpcHRpb246ICJDcmllIHBlcnNvbmFnZW5zLCBjb25zdWx0ZSByZWdyYXMgZSBqb2d1ZSBWYW1waXJvOiBBIE3DoXNjYXJhIDXCqiBFZGnDp8Ojby4iLAogIGljb25zOiB7CiAgICBpY29uOiAiL2Zhdmljb24uc3ZnIiwKICAgIHNob3J0Y3V0OiAiL2Zhdmljb24uc3ZnIiwKICB9LAp9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUm9vdExheW91dCh7CiAgY2hpbGRyZW4sCn06IFJlYWRvbmx5PHsKICBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlOwp9PikgewogIHJldHVybiAoCiAgICA8aHRtbCBsYW5nPSJwdC1CUiIgc3VwcHJlc3NIeWRyYXRpb25XYXJuaW5nPgogICAgICA8Ym9keSBjbGFzc05hbWU9ImFudGlhbGlhc2VkIj48UHJlZmVyZW5jZXNQcm92aWRlcj57Y2hpbGRyZW59PC9QcmVmZXJlbmNlc1Byb3ZpZGVyPjwvYm9keT4KICAgIDwvaHRtbD4KICApOwp9Cg==
+import type { Metadata } from "next";
+import "./globals.css";
+import { PreferencesProvider } from "./preferences";
+
+export const metadata: Metadata = {
+  title: "Carniçal — Assistente para Vampiro V5",
+  description: "Crie personagens, consulte regras e jogue Vampiro: A Máscara 5ª Edição.",
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+  },
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="pt-BR" suppressHydrationWarning>
+      <body className="antialiased"><PreferencesProvider>{children}</PreferencesProvider></body>
+    </html>
+  );
+}
