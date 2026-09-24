@@ -3,8 +3,8 @@ import "./globals.css";
 import { PreferencesProvider } from "./preferences";
 
 export const metadata: Metadata = {
-  title: "Noctis — Criador de Personagens V5",
-  description: "Crie personagens de Vampiro: A Máscara V5 com orientação pelas regras e liberdade para homebrew.",
+  title: "Carniçal — Assistente para Vampiro V5",
+  description: "Crie personagens, consulte regras e jogue Vampiro: A Máscara 5ª Edição.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",

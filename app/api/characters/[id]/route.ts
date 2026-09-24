@@ -1,8 +1,9 @@
-import { and, eq, sql } from "drizzle-orm";
-import { getDb } from "../../../../db";
-import { characters } from "../../../../db/schema";
 import { getChatGPTUser } from "../../../chatgpt-auth";
+import { createClient } from "../../../../lib/supabase/server";
 
+function toCharacter(row: Record<string, unknown>) {
+  return { id: row.id, ownerId: row.user_id, name: row.name, concept: row.concept, clan: row.clan, sourcebook: row.sourcebook, data: row.data ?? {}, createdAt: row.created_at, updatedAt: row.updated_at };
+}
 export async function PATCH(request: Request, context: { params: Promise<{ id: string }> }) {
   const user = await getChatGPTUser();
   if (!user) return Response.json({ error: "Não autenticado" }, { status: 401 });
@@ -11,23 +12,26 @@ export async function PATCH(request: Request, context: { params: Promise<{ id: s
   if (!Number.isInteger(numericId)) return Response.json({ error: "Ficha inválida" }, { status: 400 });
   try {
     const payload = await request.json() as Record<string, unknown>;
-    const [updated] = await getDb().update(characters).set({
+    const supabase = await createClient();
+    const { data: updated, error } = await supabase.from("characters").update({
       name: String(payload.name || "Sem nome").slice(0, 120), concept: String(payload.concept || "").slice(0, 240),
       clan: String(payload.clan || "").slice(0, 80), sourcebook: String(payload.sourcebook || "core_v5_ptbr").slice(0, 80),
-      data: JSON.stringify(payload.data || {}), updatedAt: sql`CURRENT_TIMESTAMP`,
-    }).where(and(eq(characters.id, numericId), eq(characters.ownerId, user.userId))).returning();
+      data: payload.data || {}, updated_at: new Date().toISOString(),
+    }).eq("id", numericId).eq("user_id", user.userId).select().maybeSingle();
+    if (error) throw error;
     if (!updated) return Response.json({ error: "Ficha não encontrada" }, { status: 404 });
-    return Response.json({ character: { ...updated, data: JSON.parse(updated.data) } });
+    return Response.json({ character: toCharacter(updated) });
   } catch (error) {
     console.error("Character update error", error);
     return Response.json({ error: "Não foi possível salvar a ficha." }, { status: 503 });
   }
 }
-
 export async function DELETE(_: Request, context: { params: Promise<{ id: string }> }) {
   const user = await getChatGPTUser();
   if (!user) return Response.json({ error: "Não autenticado" }, { status: 401 });
   const { id } = await context.params;
-  await getDb().delete(characters).where(and(eq(characters.id, Number(id)), eq(characters.ownerId, user.userId)));
+  const supabase = await createClient();
+  const { error } = await supabase.from("characters").delete().eq("id", Number(id)).eq("user_id", user.userId);
+  if (error) return Response.json({ error: "Não foi possível excluir a ficha." }, { status: 503 });
   return new Response(null, { status: 204 });
 }
