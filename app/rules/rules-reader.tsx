@@ -3,7 +3,6 @@
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { ArrowLeft, BookMarked, ChevronRight, FileText, LoaderCircle, LogOut, Menu, Search, X } from "lucide-react";
-import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { usePreferredLocale } from "../preferences";
 
 type ChapterMeta = { id:string; title:string; section:string };
@@ -17,6 +16,7 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
   const [chapterId,setChapterId]=useState(initialChapterId);
   const [chapter,setChapter]=useState<Chapter|null>(null);
   const [query,setQuery]=useState(initialQuery);
+  const [queryFromSourceLink,setQueryFromSourceLink]=useState(Boolean(initialQuery));
   const [searchState,setSearchState]=useState<{key:string;results:SearchResult[]}|null>(null);
   const [navOpen,setNavOpen]=useState(false);
   const [loadedKey,setLoadedKey]=useState("");
@@ -26,7 +26,7 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
   const [localizedChapters,setLocalizedChapters]=useState<Record<string,ChapterMeta[]>>({});
   const book=books.find(item=>item.id===bookId)??books[0];
   const sourceLanguage=book.language==="Inglês"?"en":"pt",targetLanguage=locale==="en"?"en":"pt",needsTranslation=sourceLanguage!==targetLanguage;
-  const localizedBook={...book,title:locale==="en"?(book.id==="core-v5"?"Vampire: The Masquerade V5 Core Rulebook":"Chicago by Night V5"):(book.id==="core-v5"?"Vampiro: A Máscara V5 — Livro Básico":"Chicago by Night V5"),language:locale==="en"?"English":"Português",chapters:localizedChapters[`${book.id}:${locale}`]??book.chapters};
+  const localizedBook={...book,title:book.id==="core-v5"?(locale==="en"?"Vampire: The Masquerade V5 Core Rulebook":"Vampiro: A Máscara V5 — Livro Básico"):book.title,language:locale==="en"?"English":"Português",chapters:localizedChapters[`${book.id}:${locale}`]??book.chapters};
   const targetKey=`${bookId}:${chapterId}`,activeError=error?.key===targetKey,loading=loadedKey!==targetKey&&!activeError;
 
   useEffect(()=>{
@@ -50,7 +50,7 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
     if(!normalized)return;
     const searchKey=`${bookId}:${normalized.toLocaleLowerCase("pt-BR")}`;
     const controller=new AbortController(),timer=setTimeout(()=>{
-      Promise.resolve(needsTranslation?translateTextList([normalized],targetLanguage,sourceLanguage).then(items=>items[0]||normalized):normalized)
+      Promise.resolve(needsTranslation&&!queryFromSourceLink?translateTextList([normalized],targetLanguage,sourceLanguage).then(items=>items[0]||normalized):normalized)
       .then(sourceQuery=>fetch(`/api/rules?book=${encodeURIComponent(bookId)}&q=${encodeURIComponent(sourceQuery)}`,{signal:controller.signal}))
         .then(async response=>{if(!response.ok)throw new Error();return await response.json() as {results:SearchResult[]}})
         .then(async result=>{if(!needsTranslation||result.results.length===0)return result.results;const snippets=await translateTextList(result.results.map(item=>item.snippet),sourceLanguage,targetLanguage);return result.results.map((item,index)=>({...item,snippet:snippets[index]||item.snippet}))})
@@ -58,7 +58,7 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
         .catch(reason=>{if(reason.name!=="AbortError")setSearchState({key:searchKey,results:[]})});
     },250);
     return()=>{clearTimeout(timer);controller.abort()};
-  },[bookId,query,needsTranslation,sourceLanguage,targetLanguage]);
+  },[bookId,query,queryFromSourceLink,needsTranslation,sourceLanguage,targetLanguage]);
 
   const visibleChapters=useMemo(()=>{
     if(!query.trim())return localizedBook.chapters.map(chapter=>({chapter,count:0,snippet:""}));
@@ -68,7 +68,7 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
   },[localizedBook.chapters,bookId,query,searchState]);
   const activeSearchComplete=!query.trim()||searchState?.key===`${bookId}:${query.trim().toLocaleLowerCase("pt-BR")}`;
   const sections=[...new Set(visibleChapters.map(item=>item.chapter.section))];
-  const changeBook=(nextId:string)=>{const next=books.find(item=>item.id===nextId)??books[0];setBookId(next.id);setChapterId(next.chapters[0].id);setQuery("")};
+  const changeBook=(nextId:string)=>{const next=books.find(item=>item.id===nextId)??books[0];setBookId(next.id);setChapterId(next.chapters[0].id);setQuery("");setQueryFromSourceLink(false)};
   const selectChapter=(id:string)=>{setChapterId(id);setNavOpen(false);window.scrollTo({top:0,behavior:"smooth"})};
 
   return <main className="library-shell">
@@ -81,8 +81,8 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
     <div className="library-layout">
       <aside className={`library-sidebar ${navOpen?"open":""}`}>
         <div className="library-side-head"><span>ACERVO</span><button onClick={()=>setNavOpen(false)} aria-label="Fechar índice"><X size={18}/></button></div>
-        <Tabs value={bookId} onValueChange={changeBook}><TabsList className="book-tabs" variant="line">{books.map(item=><TabsTrigger key={item.id} value={item.id}>{item.id==="core-v5"?"Livro Básico":"Chicago"}</TabsTrigger>)}</TabsList></Tabs>
-        <label className="library-search"><Search size={16}/><input value={query} onChange={event=>setQuery(event.target.value)} placeholder="Buscar neste livro..."/>{query&&<button type="button" onClick={()=>setQuery("")} aria-label="Limpar busca"><X size={16}/></button>}</label>
+        <label className="book-select-label"><span>Livro</span><select className="book-select" value={bookId} onChange={event=>changeBook(event.target.value)}>{books.map(item=><option key={item.id} value={item.id}>{item.title}</option>)}</select></label>
+        <label className="library-search"><Search size={16}/><input value={query} onChange={event=>{setQuery(event.target.value);setQueryFromSourceLink(false)}} placeholder="Buscar neste livro..."/>{query&&<button type="button" onClick={()=>{setQuery("");setQueryFromSourceLink(false)}} aria-label="Limpar busca"><X size={16}/></button>}</label>
         <div className="book-summary"><strong>{localizedBook.title}</strong><span>{localizedBook.chapters.length} {locale==="en"?"chapters":"capítulos"} · {localizedBook.language}</span></div>
         <nav className={query?"chapter-nav search-results":"chapter-nav"} aria-label="Capítulos">
           {query&&!activeSearchComplete&&<p className="search-loading"><LoaderCircle size={16}/>Buscando no livro…</p>}

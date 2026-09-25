@@ -25,8 +25,11 @@ A versão publicada no ChatGPT Sites continua independente desta infraestrutura.
 - regras próprias da crônica;
 - catálogo assistido de Disciplinas e poderes;
 - biblioteca por capítulo, busca e tradução;
+- dez livros na biblioteca (135 capítulos), incluindo os oito suplementos do pacote VTM V5;
 - tema claro/escuro e interface PT-BR/EN;
 - layout responsivo para celular e tablet.
+
+Os oito suplementos foram importados do pacote fornecido pelo criador. O arquivo-fonte não é necessário em produção. Para reconstruir os dados após uma nova extração, execute `node scripts/integrate-vtm-supplements.mjs <diretório VTM_V5_Base_MD>`. A rotina confere o manifesto e corrige os limites dos capítulos de Disciplinas, Predadores e Antecedentes no Player’s Guide. As opções mecânicas da ficha são um índice curado; os textos completos permanecem na biblioteca.
 
 ## Desenvolvimento local
 

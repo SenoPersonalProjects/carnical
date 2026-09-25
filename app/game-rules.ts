@@ -1,4 +1,4 @@
-export type SourceRef={book:"core-v5"|"chicago-by-night-v5";chapter:string;query:string;label:string};
+export type SourceRef={book:"core-v5"|"chicago-by-night-v5"|"camarilla-v5"|"anarch-v5"|"cultos-deuses-sangue-v5"|"companion-v5"|"sabbat-black-hand-v5"|"players-guide-v5"|"gehenna-war-v5"|"sigilos-de-sangue-v5";chapter:string;query:string;label:string};
 export type PowerRule={id:string;name:string;discipline:string;level:number;cost:string;duration:string;pool?:string;amalgam?:string;source:SourceRef};
 export type PredatorResolution={id:string;label:string;description:string;type:"ack"|"text"|"select";options?:string[];required:boolean};
 export type PredatorRule={id:string;name:string;specialtyChoices:string[];disciplineChoices:string[];humanity:number;bloodPotency:number;notes:string[];resolutions:PredatorResolution[];source:SourceRef};
@@ -19,6 +19,7 @@ export const OBLIVION_POWERS:PowerRule[]=[
 ];
 
 const predatorSource=(query:string):SourceRef=>({book:"core-v5",chapter:"regras-e-criacao-tipos-de-predador",query,label:"Livro Básico V5, pp. 175–178"});
+const playerPredatorSource=(query:string):SourceRef=>({book:"players-guide-v5",chapter:"players-guide-v5-predator-types",query,label:"Player’s Guide V5, PDF pp. 109–111"});
 export const PREDATOR_RULES:PredatorRule[]=[
   {id:"consensualista",name:"Consensualista",specialtyChoices:["Medicina","Persuasão"],disciplineChoices:["Auspícios","Fortitude"],humanity:1,bloodPotency:0,notes:["Defeitos ligados à Máscara e à exclusão de presas sem consentimento devem ser escolhidos."],resolutions:[{id:"mask-flaw",label:"Defeito ligado à Máscara",description:"Registre o Defeito indicado pelo tipo.",type:"text",required:true},{id:"prey-exclusion",label:"Exclusão de Presa",description:"Confirme a exclusão de presas sem consentimento.",type:"ack",required:true}],source:predatorSource("Consensualista")},
   {id:"fazendeiro",name:"Fazendeiro",specialtyChoices:["Empatia com Animais","Sobrevivência"],disciplineChoices:["Animalismo","Proteanismo"],humanity:1,bloodPotency:0,notes:["Recebe o Defeito de alimentação Fazendeiro; há restrições para Ventrue e Potência de Sangue elevada."],resolutions:[{id:"farmer-flaw",label:"Defeito Fazendeiro",description:"Confirme o Defeito de alimentação recebido.",type:"ack",required:true},{id:"restriction",label:"Restrição conferida",description:"Confirme com o Narrador as restrições para Ventrue e Potência de Sangue elevada.",type:"ack",required:true}],source:predatorSource("Fazendeiro")},
@@ -30,6 +31,12 @@ export const PREDATOR_RULES:PredatorRule[]=[
   {id:"sereia",name:"Sereia",specialtyChoices:["Persuasão","Subterfúgio"],disciplineChoices:["Fortitude","Presença"],humanity:0,bloodPotency:0,notes:["Concede Belo e um Inimigo ligado a amante/parceiro."],resolutions:[{id:"beautiful",label:"Belo",description:"Confirme a Qualidade Visual recebida.",type:"ack",required:true},{id:"lover-enemy",label:"Inimigo",description:"Identifique o amante ou parceiro desprezado/ciumento.",type:"text",required:true}],source:predatorSource("Sereia")},
   {id:"trinchador",name:"Trinchador",specialtyChoices:["Persuasão","Subterfúgio"],disciplineChoices:["Dominação","Animalismo"],humanity:0,bloodPotency:0,notes:["Família no Mapa de Relacionamentos, Segredo Sombrio e Rebanho exigem registro."],resolutions:[{id:"family",label:"Família ou grupo",description:"Registre quem compõe a família usada na caça.",type:"text",required:true},{id:"cleaver-secret",label:"Segredo Sombrio: Trinchador",description:"Confirme o Segredo Sombrio recebido.",type:"ack",required:true},{id:"family-herd",label:"Rebanho",description:"Registre o Rebanho relacionado à família ou grupo.",type:"text",required:true}],source:predatorSource("Trinchador")},
   {id:"vira-lata",name:"Vira-lata",specialtyChoices:["Intimidação","Briga"],disciplineChoices:["Celeridade","Potência"],humanity:-1,bloodPotency:0,notes:["Concede Contatos criminosos; a quantidade deve ser confirmada no livro."],resolutions:[{id:"criminal-contacts",label:"Contatos criminosos",description:"Identifique os contatos recebidos e registre a pontuação após conferir a fonte.",type:"text",required:true}],source:predatorSource("Vira-lata")},
+  {id:"extortionist",name:"Extortionist",specialtyChoices:["Intimidação","Ladroagem"],disciplineChoices:["Dominação","Potência"],humanity:0,bloodPotency:0,notes:["Distribua 3 pontos entre Contatos e Recursos; receba Inimigo 2 (polícia ou vítima)."],resolutions:[{id:"contacts-resources",label:"Contatos e Recursos",description:"Registre a distribuição dos 3 pontos.",type:"text",required:true},{id:"enemy",label:"Inimigo 2",description:"Identifique a polícia ou a vítima que busca vingança.",type:"text",required:true}],source:playerPredatorSource("Extortionist")},
+  {id:"graverobber",name:"Graverobber",specialtyChoices:["Ocultismo","Medicina"],disciplineChoices:["Fortitude","Oblívio"],humanity:0,bloodPotency:0,notes:["Recebe Esôfago de Ferro 3, Refúgio 1 e Defeito de Rebanho 2: Predador Óbvio."],resolutions:[{id:"iron-gullet",label:"Esôfago de Ferro 3",description:"Registre a Qualidade de alimentação.",type:"ack",required:true},{id:"haven-herd",label:"Refúgio e Defeito de Rebanho",description:"Confirme Refúgio 1 e Predador Óbvio 2.",type:"ack",required:true}],source:playerPredatorSource("Graverobber")},
+  {id:"grim-reaper",name:"Grim Reaper",specialtyChoices:["Percepção","Ladroagem"],disciplineChoices:["Auspícios","Oblívio"],humanity:1,bloodPotency:0,notes:["Recebe 1 ponto em Aliados ou Influência na comunidade médica e Exclusão de Presa 1: mortais saudáveis."],resolutions:[{id:"medical-background",label:"Aliados ou Influência",description:"Escolha o Antecedente médico que recebe 1 ponto.",type:"text",required:true},{id:"prey-exclusion",label:"Exclusão de Presa",description:"Confirme a exclusão de mortais saudáveis.",type:"ack",required:true}],source:playerPredatorSource("Grim Reaper")},
+  {id:"montero",name:"Montero",specialtyChoices:["Liderança","Furtividade"],disciplineChoices:["Dominação","Ofuscação"],humanity:-1,bloodPotency:0,notes:["Recebe Lacaios 2 e perde 1 ponto de Humanidade."],resolutions:[{id:"retainers",label:"Lacaios 2",description:"Identifique a equipe que conduz as presas.",type:"text",required:true}],source:playerPredatorSource("Montero")},
+  {id:"pursuer",name:"Pursuer",specialtyChoices:["Investigação","Furtividade"],disciplineChoices:["Animalismo","Auspícios"],humanity:-1,bloodPotency:0,notes:["Recebe Faro para Sangue 1 e Contatos 1 no território de caça; perde 1 ponto de Humanidade."],resolutions:[{id:"bloodhound",label:"Faro para Sangue 1",description:"Confirme a Qualidade recebida.",type:"ack",required:true},{id:"contacts",label:"Contatos 1",description:"Identifique o contato no território de caça.",type:"text",required:true}],source:playerPredatorSource("Pursuer")},
+  {id:"trapdoor",name:"Trapdoor",specialtyChoices:["Persuasão","Furtividade"],disciplineChoices:["Proteanismo","Ofuscação"],humanity:0,bloodPotency:0,notes:["Recebe Refúgio 1 e mais 1 ponto em Lacaios, Rebanho ou Refúgio; escolha Defeito de Refúgio 1: Assustador ou Assombrado."],resolutions:[{id:"second-background",label:"Lacaios, Rebanho ou Refúgio",description:"Registre o segundo ponto de Antecedente.",type:"text",required:true},{id:"haven-flaw",label:"Defeito de Refúgio 1",description:"Escolha Assustador ou Assombrado.",type:"text",required:true}],source:playerPredatorSource("Trapdoor")},
 ];
 
 const coreDiscipline=(discipline:string,pages:string):SourceRef=>({book:"core-v5",chapter:"regras-e-criacao-disciplinas",query:discipline,label:`Livro Básico V5, pp. ${pages}`});
@@ -46,7 +53,30 @@ export const CORE_POWER_CATALOG:PowerRule[]=[
   ...catalog("Proteanismo","269–271",[["eyes-beast","Olhos da Besta",1],["weight-feather","Peso Pena",1],["feral-weapons","Armas Ferais",2],["earth-meld","Fusão com a Terra",3],["shapechange","Mudança de Forma",3],["metamorphosis","Metamorfose",4],["mist-form","Forma de Névoa",5],["unfettered-heart","Coração Vagante",5]]),
   ...catalog("Feitiçaria de Sangue","272–274",[["taste-blood","Um Gosto por Sangue",1],["corrosive-vitae","Vitae Corrosivo",1],["extinguish-vitae","Extinguir Vitae",2],["scorpions-touch","Picada de Escorpião",3],["blood-potency","Sangue Potente",3],["theft-vitae","Roubo de Vitae",4],["baals-caress","Carícia de Baal",5],["cauldron-blood","Caldeirão de Sangue",5]]),
 ];
-export const POWER_CATALOG=[...CORE_POWER_CATALOG,...OBLIVION_POWERS];
+const playerPowerSource=(name:string):SourceRef=>({book:"players-guide-v5",chapter:"players-guide-v5-discipline-powers",query:name,label:"Player’s Guide V5, Disciplinas, PDF pp. 71–80"});
+const playerPowers:Array<[string,string,string,number,string?]>=[
+  ["animal-messenger","Animal Messenger","Animalismo",2,"Auspícios 1"],
+  ["messengers-command","Messenger’s Command","Animalismo",3,"Dominação 1"],
+  ["plague-of-beasts","Plague of Beasts","Animalismo",3],
+  ["sway-the-flock","Sway the Flock","Animalismo",4],
+  ["coax-bestial-temper","Coax the Bestial Temper","Animalismo",5],
+  ["panacea","Panacea","Auspícios",2,"Fortitude 1"],
+  ["reveal-temperament","Reveal Temperament","Auspícios",2],
+  ["fatal-flaw","Fatal Flaw","Auspícios",3,"Oblívio 1"],
+  ["unburdening-bestial-soul","Unburdening the Bestial Soul","Auspícios",5,"Dominação 3"],
+  ["rush-job","Rush Job","Celeridade",2],
+  ["weaving","Weaving","Celeridade",3],
+  ["blurred-momentum","Blurred Momentum","Celeridade",4],
+  ["earths-perseverance","Earth’s Perseverance","Fortitude",2],
+  ["invigorating-vitae","Invigorating Vitae","Fortitude",2,"Auspícios 1"],
+  ["valeren","Valeren","Fortitude",3,"Auspícios 1"],
+  ["gorgons-scales","Gorgon’s Scales","Fortitude",4],
+  ["chimerstry","Chimerstry","Ofuscação",2,"Presença 1"],
+  ["fata-morgana","Fata Morgana","Ofuscação",3,"Presença 2"],
+  ["mental-maze","Mental Maze","Ofuscação",3,"Dominação 1"],
+];
+export const PLAYER_POWER_CATALOG:PowerRule[]=playerPowers.map(([id,name,discipline,level,amalgam])=>({id,name,discipline,level,cost:"Consultar regra",duration:"Consultar regra",amalgam,source:playerPowerSource(name)}));
+export const POWER_CATALOG=[...CORE_POWER_CATALOG,...OBLIVION_POWERS,...PLAYER_POWER_CATALOG];
 
 export const SKILL_PRESETS:Record<string,Record<number,number>>={
   "Pau pra toda obra":{3:1,2:8,1:10},"Equilibrado":{3:3,2:5,1:7},"Especialista":{4:1,3:3,2:3,1:3},
