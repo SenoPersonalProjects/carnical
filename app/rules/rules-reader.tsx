@@ -74,8 +74,8 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
   return <main className="library-shell">
     <header className="library-topbar">
       <div className="library-brand"><span className="library-sigil">C</span><div><strong>CARNIÇAL</strong><small>BIBLIOTECA DA NOITE</small></div></div>
-      <Link className="back-to-sheet" href="/"><ArrowLeft size={16}/>Voltar à ficha</Link>
-      <div className="library-user"><span>{displayName}</span><a href={signOutPath} target="_top" title="Sair"><LogOut size={17}/></a></div>
+      <Link className="back-to-sheet" href="/rules"><ArrowLeft size={16}/>Voltar ao catálogo</Link>
+      <div className="library-user"><Link href="/">Ficha</Link><span>{displayName}</span><a href={signOutPath} target="_top" title="Sair"><LogOut size={17}/></a></div>
       <button className="library-menu" onClick={()=>setNavOpen(true)} aria-label="Abrir índice"><Menu/></button>
     </header>
     <div className="library-layout">

@@ -1,5 +1,7 @@
+import { SUPPLEMENTAL_POWERS } from "./supplemental-powers";
+
 export type SourceRef={book:"core-v5"|"chicago-by-night-v5"|"camarilla-v5"|"anarch-v5"|"cultos-deuses-sangue-v5"|"companion-v5"|"sabbat-black-hand-v5"|"players-guide-v5"|"gehenna-war-v5"|"sigilos-de-sangue-v5";chapter:string;query:string;label:string};
-export type PowerRule={id:string;name:string;discipline:string;level:number;cost:string;duration:string;pool?:string;amalgam?:string;source:SourceRef};
+export type PowerRule={id:string;name:string;discipline:string;level:number;kind?:"power"|"ritual"|"ceremony"|"formula";cost:string;duration:string;pool?:string;amalgam?:string;prerequisite?:string;source:SourceRef};
 export type PredatorResolution={id:string;label:string;description:string;type:"ack"|"text"|"select";options?:string[];required:boolean};
 export type PredatorRule={id:string;name:string;specialtyChoices:string[];disciplineChoices:string[];humanity:number;bloodPotency:number;notes:string[];resolutions:PredatorResolution[];source:SourceRef};
 export type ChronicleRules={customTargets:boolean;meritPoints:number;flawPoints:number;disciplinePoints:number;generationOverride:boolean;notes:string;approvedIssueIds:string[]};
@@ -76,7 +78,7 @@ const playerPowers:Array<[string,string,string,number,string?]>=[
   ["mental-maze","Mental Maze","Ofuscação",3,"Dominação 1"],
 ];
 export const PLAYER_POWER_CATALOG:PowerRule[]=playerPowers.map(([id,name,discipline,level,amalgam])=>({id,name,discipline,level,cost:"Consultar regra",duration:"Consultar regra",amalgam,source:playerPowerSource(name)}));
-export const POWER_CATALOG=[...CORE_POWER_CATALOG,...OBLIVION_POWERS,...PLAYER_POWER_CATALOG];
+export const POWER_CATALOG=[...CORE_POWER_CATALOG,...OBLIVION_POWERS,...PLAYER_POWER_CATALOG,...SUPPLEMENTAL_POWERS];
 
 export const SKILL_PRESETS:Record<string,Record<number,number>>={
   "Pau pra toda obra":{3:1,2:8,1:10},"Equilibrado":{3:3,2:5,1:7},"Especialista":{4:1,3:3,2:3,1:3},
