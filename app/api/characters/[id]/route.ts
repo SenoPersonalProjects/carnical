@@ -1,9 +1,7 @@
 import { getChatGPTUser } from "../../../chatgpt-auth";
 import { createClient } from "../../../../lib/supabase/server";
+import { toCharacter } from "../serialize";
 
-function toCharacter(row: Record<string, unknown>) {
-  return { id: row.id, ownerId: row.user_id, name: row.name, concept: row.concept, clan: row.clan, sourcebook: row.sourcebook, data: row.data ?? {}, createdAt: row.created_at, updatedAt: row.updated_at };
-}
 export async function PATCH(request: Request, context: { params: Promise<{ id: string }> }) {
   const user = await getChatGPTUser();
   if (!user) return Response.json({ error: "Não autenticado" }, { status: 401 });
@@ -20,7 +18,7 @@ export async function PATCH(request: Request, context: { params: Promise<{ id: s
     }).eq("id", numericId).eq("user_id", user.userId).select().maybeSingle();
     if (error) throw error;
     if (!updated) return Response.json({ error: "Ficha não encontrada" }, { status: 404 });
-    return Response.json({ character: toCharacter(updated) });
+    return Response.json({ character: await toCharacter(supabase, updated) });
   } catch (error) {
     console.error("Character update error", error);
     return Response.json({ error: "Não foi possível salvar a ficha." }, { status: 503 });

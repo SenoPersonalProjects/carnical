@@ -1,12 +1,10 @@
 import { getChatGPTUser } from "../../chatgpt-auth";
 import { createClient } from "../../../lib/supabase/server";
+import { toCharacter } from "./serialize";
 
 function unavailable(error: unknown) {
   console.error("Character storage error", error);
   return Response.json({ error: "Não foi possível acessar suas fichas agora." }, { status: 503 });
-}
-function toCharacter(row: Record<string, unknown>) {
-  return { id: row.id, ownerId: row.user_id, name: row.name, concept: row.concept, clan: row.clan, sourcebook: row.sourcebook, data: row.data ?? {}, createdAt: row.created_at, updatedAt: row.updated_at };
 }
 export async function GET() {
   const user = await getChatGPTUser();
@@ -15,7 +13,7 @@ export async function GET() {
     const supabase = await createClient();
     const { data, error } = await supabase.from("characters").select("*").eq("user_id", user.userId).order("updated_at", { ascending: false });
     if (error) throw error;
-    return Response.json({ characters: (data ?? []).map(toCharacter) });
+    return Response.json({ characters: await Promise.all((data ?? []).map(row => toCharacter(supabase, row))) });
   } catch (error) { return unavailable(error); }
 }
 export async function POST(request: Request) {
@@ -33,6 +31,6 @@ export async function POST(request: Request) {
       data: payload.data || {},
     }).select().single();
     if (error) throw error;
-    return Response.json({ character: toCharacter(created) }, { status: 201 });
+    return Response.json({ character: await toCharacter(supabase, created) }, { status: 201 });
   } catch (error) { return unavailable(error); }
 }
