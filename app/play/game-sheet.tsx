@@ -10,7 +10,7 @@ import { InconsistencySheet } from "../inconsistency-sheet";
 import { DEFAULT_CHRONICLE_RULES, type ChronicleRules } from "../game-rules";
 import { xpBudget, xpSpent, type XpPurchase } from "../experience";
 import { evaluateTest, rollPool as generatePool, rerollDice, resolveRouseCheck, type RollRecord } from "./dice";
-import RollResult from "./roll-result";
+import RollHistory from "./roll-history";
 
 type Values=Record<string,number>;
 type Specialty={skill:string;name:string;source:string};
@@ -70,7 +70,7 @@ export default function GameSheet({displayName,signOutPath}:{displayName:string;
           <div className="dice-controls"><label><span>Ação <em>Opcional</em></span><input value={rollLabel} onChange={event=>setRollLabel(event.target.value)} placeholder={defaultRollLabel||"Ex.: investigar a cena"}/></label>{selectedTraits.length===0&&<label><span>Parada manual</span><input type="number" min={1} max={30} value={rollPool} onChange={event=>setRollPool(Number(event.target.value))}/></label>}<label><span>Dificuldade</span><input type="number" min={1} max={10} value={rollDifficulty} onChange={event=>setRollDifficulty(Number(event.target.value))}/></label><div className="hunger-readout"><span>Dados de Fome</span><strong>{Math.min(builtPool,character.data.hunger)}</strong><small>Fome atual {character.data.hunger}</small></div><button className="roll-button" onClick={rollTest}><Dices size={18}/>Rolar {builtPool} dados</button><button className="rouse-button" onClick={rouseCheck}>Teste de Despertar</button></div>
           <p className="dice-legend"><span><b className="normal-key"/>Dados comuns</span><span><b className="hunger-key"/>Dados de Fome · vermelhos</span><span>6–10: sucesso · par de 10: 4 sucessos</span></p>
           <p className="dice-hunger-help">A Fome substitui dados comuns; não aumenta a parada. Um 10 de Fome só causa crítico bestial se houver um crítico e o teste passar. Um 1 de Fome só causa falha bestial se o teste falhar.</p>
-          {(character.data.rollHistory||[]).length>0&&<div className="roll-history" aria-live="polite">{(character.data.rollHistory||[]).slice(0,5).map((record,index)=><RollResult key={record.id} record={record} canReroll={index===0&&record.kind==="test"&&!record.rerolled&&record.dice.some(die=>!die.hunger)&&character.data.willpowerSuperficial+character.data.willpowerAggravated<willpowerMax} onReroll={indices=>rerollWillpower(record,indices)}/>)}</div>}
+          <RollHistory key={character.id} records={character.data.rollHistory||[]} canRerollLatest={character.data.rollHistory?.[0]?.kind==="test"&&!character.data.rollHistory[0].rerolled&&character.data.rollHistory[0].dice.some(die=>!die.hunger)&&character.data.willpowerSuperficial+character.data.willpowerAggravated<willpowerMax} onReroll={rerollWillpower} onClear={()=>setData("rollHistory",[])}/>
         </section>
         <Tabs defaultValue="traits" className="play-tabs"><TabsList variant="line"><TabsTrigger value="traits">Características</TabsTrigger><TabsTrigger value="disciplines">Disciplinas</TabsTrigger><TabsTrigger value="story">Âncoras</TabsTrigger><TabsTrigger value="notes">Notas</TabsTrigger></TabsList>
           <TabsContent value="traits"><div className="play-columns"><TraitPanel title="Atributos" values={character.data.attributes}/><TraitPanel title="Habilidades" values={character.data.skills} specialties={specialtiesBySkill}/></div></TabsContent>
