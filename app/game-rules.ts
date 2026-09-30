@@ -4,8 +4,8 @@ export type SourceRef={book:"core-v5"|"chicago-by-night-v5"|"camarilla-v5"|"anar
 export type PowerRule={id:string;name:string;discipline:string;level:number;kind?:"power"|"ritual"|"ceremony"|"formula";cost:string;duration:string;pool?:string;amalgam?:string;prerequisite?:string;source:SourceRef};
 export type PredatorResolution={id:string;label:string;description:string;type:"ack"|"text"|"select";options?:string[];required:boolean};
 export type PredatorRule={id:string;name:string;specialtyChoices:string[];disciplineChoices:string[];humanity:number;bloodPotency:number;notes:string[];resolutions:PredatorResolution[];source:SourceRef};
-export type ChronicleRules={customTargets:boolean;meritPoints:number;flawPoints:number;disciplinePoints:number;generationOverride:boolean;notes:string;approvedIssueIds:string[]};
-export const DEFAULT_CHRONICLE_RULES:ChronicleRules={customTargets:false,meritPoints:7,flawPoints:2,disciplinePoints:3,generationOverride:false,notes:"",approvedIssueIds:[]};
+export type ChronicleRules={customTargets:boolean;meritPoints:number;flawPoints:number;disciplinePoints:number;generationOverride:boolean;exemptStainPenaltyOnFrenzy:boolean;notes:string;approvedIssueIds:string[]};
+export const DEFAULT_CHRONICLE_RULES:ChronicleRules={customTargets:false,meritPoints:7,flawPoints:2,disciplinePoints:3,generationOverride:false,exemptStainPenaltyOnFrenzy:false,notes:"",approvedIssueIds:[]};
 
 const chicagoLasombra:SourceRef={book:"chicago-by-night-v5",chapter:"capitulos-chapter-six-lasombra",query:"Oblivion",label:"Chicago by Night, livro pp. 293–297"};
 export const OBLIVION_POWERS:PowerRule[]=[

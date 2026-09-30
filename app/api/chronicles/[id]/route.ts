@@ -38,6 +38,7 @@ export async function PATCH(request: Request, context: Context) {
     flawPoints: bounded(incoming.flawPoints, 2),
     disciplinePoints: bounded(incoming.disciplinePoints, 3),
     generationOverride: incoming.generationOverride === true,
+    exemptStainPenaltyOnFrenzy: incoming.exemptStainPenaltyOnFrenzy === true,
     notes: typeof incoming.notes === "string" ? incoming.notes.slice(0, 2000) : "",
     approvedIssueIds: [],
   };
