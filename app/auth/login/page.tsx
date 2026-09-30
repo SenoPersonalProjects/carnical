@@ -1,16 +1,22 @@
-import { signIn } from "./actions";
+import LoginForm, { GoogleLoginForm } from "./login-form";
+import { LOGIN_ERRORS, safeAuthNext } from "../auth-flow";
+import { googleLoginEnabled } from "../../../lib/supabase/auth-settings";
 
 export default async function LoginPage({ searchParams }: { searchParams: Promise<Record<string, string | undefined>> }) {
   const params = await searchParams;
+  const googleEnabled = await googleLoginEnabled();
+  const next = safeAuthNext(params.return_to);
+  const wait = Math.max(0, Math.min(3600, Math.trunc(Number(params.wait)) || 0));
   return <main className="auth-page"><section className="auth-card">
     <p className="eyebrow">FICHAS • REGRAS • SESSÕES</p><h1>Carniçal</h1>
     <p>Entre para acessar suas fichas, regras e ferramentas de sessão.</p>
     {params.sent && <div role="status" className="auth-success">
       <span className="auth-success-icon" aria-hidden="true">✓</span>
-      <span><strong>Link enviado!</strong> Confira sua caixa de entrada e a pasta de spam. O link pode ser usado apenas uma vez.</span>
+      <span><strong>Link enviado!</strong> Confira sua caixa de entrada e a pasta de spam. Abra o link mais recente no mesmo navegador em que pediu o acesso. Cada link pode ser usado apenas uma vez.</span>
     </div>}
-    {params.error && <p role="alert" className="auth-error">Não foi possível enviar o link. Confira o e-mail e tente novamente.</p>}
-    <form action={signIn}><label htmlFor="email">E-mail</label><input id="email" name="email" type="email" autoComplete="email" required placeholder="voce@exemplo.com"/><button type="submit">Enviar link de acesso</button></form>
-    <small>Não é necessário criar ou memorizar uma senha.</small>
+    {params.error && <p role="alert" className="auth-error">{LOGIN_ERRORS[params.error] || LOGIN_ERRORS.send}</p>}
+    {googleEnabled && <GoogleLoginForm next={next}/>}
+    {googleEnabled ? <details className="auth-alternative"><summary>Receber link por e-mail</summary><LoginForm key={`${params.sent || ""}:${params.error || ""}:${wait}`} next={next} wait={wait}/></details> : <LoginForm key={`${params.sent || ""}:${params.error || ""}:${wait}`} next={next} wait={wait}/>}
+    <small>{googleEnabled ? "Use a conta Google com o mesmo e-mail da sua conta no Carniçal para manter suas fichas." : "Não é necessário criar ou memorizar uma senha."}</small>
   </section></main>;
 }
