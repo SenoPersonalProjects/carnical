@@ -1,6 +1,7 @@
 import LoginForm, { GoogleLoginForm } from "./login-form";
 import { LOGIN_ERRORS, safeAuthNext } from "../auth-flow";
 import { googleLoginEnabled } from "../../../lib/supabase/auth-settings";
+import Link from "next/link";
 
 export default async function LoginPage({ searchParams }: { searchParams: Promise<Record<string, string | undefined>> }) {
   const params = await searchParams;
@@ -18,5 +19,6 @@ export default async function LoginPage({ searchParams }: { searchParams: Promis
     {googleEnabled && <GoogleLoginForm next={next}/>}
     {googleEnabled ? <details className="auth-alternative"><summary>Receber link por e-mail</summary><LoginForm key={`${params.sent || ""}:${params.error || ""}:${wait}`} next={next} wait={wait}/></details> : <LoginForm key={`${params.sent || ""}:${params.error || ""}:${wait}`} next={next} wait={wait}/>}
     <small>{googleEnabled ? "Use a conta Google com o mesmo e-mail da sua conta no Carniçal para manter suas fichas." : "Não é necessário criar ou memorizar uma senha."}</small>
+    <nav className="public-footer" aria-label="Informações do aplicativo"><Link href="/sobre">Sobre</Link><Link href="/privacidade">Privacidade</Link><Link href="/termos">Termos de uso</Link></nav>
   </section></main>;
 }

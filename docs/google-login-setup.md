@@ -14,4 +14,18 @@ O site mostra “Entrar com Google” automaticamente quando o provedor Google e
 
 O Supabase associa identidades com o mesmo e-mail verificado. Não use um endereço Google diferente se quiser acessar as fichas da conta anterior.
 
+## Campos de Branding
+
+- Nome do aplicativo: `Carniçal`.
+- Logotipo: `public/logo-carnical-120.png` (PNG quadrado de 120 × 120 pixels, abaixo de 1 MB). A versão de 512 pixels fica em `public/logo-carnical-512.png`.
+- Página inicial do aplicativo: `https://carnical.vercel.app/sobre`.
+- Política de Privacidade: `https://carnical.vercel.app/privacidade`.
+- Termos de Serviço: `https://carnical.vercel.app/termos`.
+- E-mail de suporte e contato do desenvolvedor: a conta monitorada pelo responsável pelo projeto.
+- Domínios usados nas URLs: `carnical.vercel.app` e `gqsjizolvrvlnhefnqfu.supabase.co`, sem protocolo ou caminho. A verificação de marca pode exigir comprovação de propriedade dos domínios; os domínios compartilhados dos provedores podem exigir uma solução com domínio próprio.
+
+O logotipo é opcional. Para um aplicativo externo em produção, sua exibição depende da verificação de marca do Google. Se continuar em modo de teste, cadastre os jogadores como usuários de teste em Público-alvo. Publicar a configuração no Google não substitui ativar o provedor no Supabase.
+
+Requisitos de Branding: https://support.google.com/cloud/answer/15549049?hl=pt-BR.
+
 Referência: https://supabase.com/docs/guides/auth/social-login/auth-google e https://supabase.com/docs/guides/auth/auth-identity-linking.
