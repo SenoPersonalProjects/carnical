@@ -1,3 +1,5 @@
+import { resolutionComplete } from "./predator-choices";
+import { readAnchors, type Anchor } from "./anchors";
 import { AGE_RULES, DEFAULT_CHRONICLE_RULES, POWER_CATALOG, PREDATOR_RULES, SKILL_PRESETS, rulesUrl, type ChronicleRules, type SourceRef } from "./game-rules";
 import { ownItemDots } from "./predator-benefits";
 import { purchasedLevels, xpBudget, xpSpent, type XpPurchase } from "./experience";
@@ -7,7 +9,7 @@ type Merit={dots?:number};
 type AuditData={
   attributes?:Record<string,number>;skills?:Record<string,number>;skillPreset?:string;disciplines?:Record<string,number>;disciplinePowers?:Record<string,string[]>;
   merits?:Merit[];flawItems?:Merit[];ageCategory?:string;generation?:string;bloodPotency?:number;predator?:string;predatorApplied?:string;
-  predatorDiscipline?:string;convictions?:string;touchstones?:string;allowHomebrew?:boolean;
+  convictionAnchors?:Anchor[];predatorDiscipline?:string;convictions?:string;touchstones?:string;allowHomebrew?:boolean;
   predatorResolutions?:Record<string,string>;chronicleRules?:ChronicleRules;
   xpTotal?:string;xpSpent?:string;xpPurchases?:XpPurchase[];
 };
@@ -42,7 +44,7 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
   const age=AGE_RULES[data.ageCategory||""];
   if(!chronicle.generationOverride&&age&&character.clan!=="Sangue-Ralo"&&(!age.generations.includes(data.generation||"")||(data.bloodPotency||0)-purchases.filter(item=>item.kind==="blood-potency").length!==age.bloodPotency+(applied?.bloodPotency||0)))add({id:"age",kind:"warning",title:"Geração ou Potência de Sangue fora da faixa inicial",detail:`${data.ageCategory} usa ${age.generations.join(" ou ")} Geração e Potência de Sangue ${age.bloodPotency}${applied?.bloodPotency?` + ${applied.bloodPotency} do Predador`:""}. Compras posteriores com XP são tratadas separadamente.`,source:core("regras-e-criacao-sangue-fome-geracao-e-potencia-de-sangue","Geração","Livro Básico V5, pp. 201–242")});
   if(predator&&data.predatorApplied!==predator.name)add({id:"predator",kind:"warning",title:"Pacote de Predador ainda não aplicado",detail:"O tipo foi escolhido, mas a especialização, a Disciplina e as alterações diretas ainda não foram confirmadas.",source:predator.source});
-  if(predator&&data.predatorApplied===predator.name){for(const resolution of predator.resolutions){if(resolution.required&&!data.predatorResolutions?.[resolution.id])add({id:`predator-resolution-${predator.id}-${resolution.id}`,kind:"warning",title:`Escolha pendente do Predador: ${resolution.label}`,detail:resolution.description,source:predator.source})}}
+  if(predator&&data.predatorApplied===predator.name){for(const resolution of predator.resolutions){if(resolution.required&&!resolutionComplete(predator.id,resolution.id,data.predatorResolutions?.[resolution.id]))add({id:`predator-resolution-${predator.id}-${resolution.id}`,kind:"warning",title:`Escolha pendente do Predador: ${resolution.label}`,detail:resolution.description,source:predator.source})}}
   if(data.predatorDiscipline==="Feitiçaria de Sangue"&&!(["Tremere","Banu Haqim"].includes(character.clan||"")&&["Sacoleiro","Osíris"].includes(data.predator||"")))add({id:"blood-sorcery-predator",kind:"warning",title:"Confira Feitiçaria de Sangue neste Predador",detail:"O Player’s Guide confirma esta opção para Banu Haqim nos tipos Sacoleiro e Osíris, além do acesso Tremere. Outras combinações dependem da crônica.",source:predator?.source||creation});
 
   const disciplineDots=Object.values(data.disciplines||{}).reduce((a,b)=>a+b,0)-purchases.filter(item=>item.kind.includes("discipline")).length,expected=(chronicle.customTargets?chronicle.disciplinePoints:3)+(data.predatorApplied?1:0);
@@ -60,8 +62,8 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
   if(meritDots!==meritTarget)add({id:"merits",kind:"warning",title:`Vantagens não somam ${meritTarget} pontos`,detail:`A regra ativa distribui ${meritTarget} pontos livres em Vantagens; a ficha soma ${meritDots}. Benefícios do Predador e compras com XP aparecem na lista, mas não consomem esses pontos.`,source:core("regras-e-criacao-vantagens-e-defeitos","7 pontos","Livro Básico V5, criação de personagem")});
   if(flawDots<flawTarget)add({id:"flaws",kind:"warning",title:`Menos de ${flawTarget} pontos de Defeitos`,detail:`A regra ativa adquire ao menos ${flawTarget} pontos de Defeitos, além dos recebidos pelo Predador; a ficha soma ${flawDots}.`,source:core("regras-e-criacao-vantagens-e-defeitos","2 pontos","Livro Básico V5, criação de personagem")});
   if(xpSpent(data.xpSpent||"",purchases)>xpBudget(data.xpTotal||"",data.ageCategory||""))add({id:"xp-over-budget",kind:"warning",title:"XP gasto acima do disponível",detail:"Confira o saldo inicial por idade, o XP adicional da crônica e as compras registradas.",source:creation});
-  const convictions=lines(data.convictions),touchstones=lines(data.touchstones);
-  if(convictions.length<1||convictions.length>3||convictions.length!==touchstones.length)add({id:"convictions",kind:"warning",title:"Convicções e Pilares não estão em correspondência",detail:`O padrão usa de 1 a 3 Convicções e a mesma quantidade de Pilares. Há ${convictions.length} Convicção(ões) e ${touchstones.length} Pilar(es).`,source:core("regras-e-criacao-humanidade-conviccoes-pilares-ambicao-e-desejo","Convicções","Livro Básico V5, Humanidade e Convicções")});
+  const convictions=lines(data.convictions),touchstones=lines(data.touchstones),anchors=data.convictionAnchors??readAnchors(data.touchstones||"",data.convictions||"");
+  if(anchors.length<1||anchors.length>3||anchors.some(item=>!item.conviction.trim()||!item.touchstone.trim()))add({id:"convictions",kind:"warning",title:"Convicções e Pilares não estão em correspondência",detail:`O padrão usa de 1 a 3 Convicções e a mesma quantidade de Pilares. Há ${convictions.length} Convicção(ões) e ${touchstones.length} Pilar(es).`,source:core("regras-e-criacao-humanidade-conviccoes-pilares-ambicao-e-desejo","Convicções","Livro Básico V5, Humanidade e Convicções")});
   return issues;
 }
 

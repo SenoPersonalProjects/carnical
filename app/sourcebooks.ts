@@ -9,6 +9,7 @@ export const SOURCEBOOKS = [
   { value: "players_guide_v5", libraryId: "players-guide-v5", label: "Player’s Guide V5", short: "PLAYER’S GUIDE" },
   { value: "gehenna_war_v5", libraryId: "gehenna-war-v5", label: "Gehenna War V5", short: "GEHENNA" },
   { value: "sigilos_de_sangue_v5", libraryId: "sigilos-de-sangue-v5", label: "Sigilos de Sangue V5", short: "SIGILOS" },
+  { value: "let_the_streets_run_red_v5", libraryId: "let-the-streets-run-red-v5", label: "Let the Streets Run Red V5", short: "STREETS RUN RED" },
 ] as const;
 
 export function sourcebookLabel(value: string) {

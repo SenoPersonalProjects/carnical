@@ -9,7 +9,7 @@ function loadTypescript(relativePath) {
   const source = fs.readFileSync(path.join(root, relativePath), "utf8");
   const compiled = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2022 } }).outputText;
   const loaded = { exports: {} };
-  new Function("module", "exports", compiled)(loaded, loaded.exports);
+  new Function("module", "exports", "require", compiled)(loaded, loaded.exports, name => loadTypescript(path.join(path.dirname(relativePath), `${name}.ts`)));
   return loaded.exports;
 }
 

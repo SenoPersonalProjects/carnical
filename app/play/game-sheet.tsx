@@ -1,4 +1,5 @@
 "use client";
+import { readAnchors } from "../anchors";
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
@@ -132,7 +133,7 @@ export default function GameSheet({displayName,signOutPath}:{displayName:string;
         <Tabs defaultValue="traits" className="play-tabs"><TabsList variant="line"><TabsTrigger value="traits">Características</TabsTrigger><TabsTrigger value="disciplines">Disciplinas</TabsTrigger><TabsTrigger value="story">Âncoras</TabsTrigger><TabsTrigger value="notes">Notas</TabsTrigger></TabsList>
           <TabsContent value="traits"><div className="play-columns"><TraitPanel title="Atributos" values={character.data.attributes}/><TraitPanel title="Habilidades" values={character.data.skills} specialties={specialtiesBySkill}/></div></TabsContent>
           <TabsContent value="disciplines"><div className="play-disciplines">{Object.entries(character.data.disciplines).filter(([,dots])=>dots>0).map(([name,dots])=><article key={name}><header><h3>{name}</h3><DotsRead value={dots}/></header>{(character.data.disciplinePowers[name]||[]).filter(Boolean).map(power=><PowerDetails key={power} name={power} discipline={name}/>)}</article>)}</div></TabsContent>
-          <TabsContent value="story"><div className="play-story"><StoryBlock title="Ambição" text={character.data.ambition}/><StoryBlock title="Desejo" text={character.data.desire}/><StoryBlock title="Convicções" text={character.data.convictions}/><StoryBlock title="Pilares" text={character.data.touchstones}/><StoryBlock title="Vantagens" text={character.data.merits.map(item=>`${item.name} ${"•".repeat(item.dots)}`).join("\n")}/><StoryBlock title="Defeitos" text={character.data.flawItems.map(item=>`${item.name} ${"•".repeat(item.dots)}`).join("\n")}/></div></TabsContent>
+          <TabsContent value="story"><div className="play-story"><StoryBlock title="Ambição" text={character.data.ambition}/><StoryBlock title="Desejo" text={character.data.desire}/>{readAnchors(character.data.touchstones,character.data.convictions).map((anchor,index)=><StoryBlock key={index} title={`Pilar + Convicção ${index+1}`} text={`Pilar: ${anchor.touchstone||"Não preenchido"}\nConvicção: ${anchor.conviction||"Não preenchida"}`}/>)}<StoryBlock title="Vantagens" text={character.data.merits.map(item=>`${item.name} ${"•".repeat(item.dots)}`).join("\n")}/><StoryBlock title="Defeitos" text={character.data.flawItems.map(item=>`${item.name} ${"•".repeat(item.dots)}`).join("\n")}/></div></TabsContent>
           <TabsContent value="notes"><label className="play-notes"><span>Notas da sessão</span><textarea value={character.data.notes} onChange={event=>setData("notes",event.target.value)} placeholder="Condições, lembretes, dívidas e acontecimentos desta noite…"/></label></TabsContent>
         </Tabs>
       </section>
