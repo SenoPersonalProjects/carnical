@@ -1,0 +1,62 @@
+# Cobertura do conteúdo e exportação
+
+## Estado desta entrega
+
+Esta entrega publica a exportação da ficha em PDF, a consulta estruturada de
+conteúdo revisado, páginas originais em visualizador separado e correções nas
+escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
+integralmente bilíngue previstos no plano.**
+
+Há 12 entradas revisadas, em português e inglês, com referências ao PDF e
+identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
+na mesma entrada quando sua identificação é inequívoca.
+
+| Fonte | Entradas revisadas nesta entrega | Cobertura integral |
+| --- | --- | --- |
+| Livro Básico | 5 rituais de nível 1 | Pendente |
+| Companion | Obeah, Favor do Domitor, Valeren | Pendente |
+| Guia do Jogador | Favor do Domitor, Valeren | Pendente |
+| Cultos dos Deuses de Sangue | 3 Cerimônias Shalimitas | Pendente |
+| Let the Streets Run Red | Assassino de Estrada | Pendente |
+| Chicago by Night | Nenhuma descrição revisada no novo catálogo | Pendente |
+| Camarilla | Nenhuma descrição revisada no novo catálogo | Pendente |
+| Anarch | Nenhuma descrição revisada no novo catálogo | Pendente |
+| Sabbat | Nenhuma descrição revisada no novo catálogo | Pendente |
+| Gehenna War | Nenhuma descrição revisada no novo catálogo | Pendente |
+| Sigilos de Sangue | Nenhuma descrição revisada no novo catálogo | Pendente |
+
+O catálogo anterior e suas referências continuam disponíveis. A tabela descreve
+apenas a nova camada de descrições revisadas, não todas as opções já selecionáveis.
+
+## PDF
+
+O PDF usa a ficha em memória no momento do clique, incluindo alterações ainda
+não salvas. Histórico de rolagens não é exportado. As regras revisadas dos itens
+identificados são incluídas no anexo. Para poderes conhecidos cuja descrição
+completa ainda está pendente, o anexo identifica a pendência e inclui somente a
+referência e os dados já registrados; não inventa regras. Falhas de rede continuam
+permitindo tentar novamente. Itens personalizados mantêm as informações da ficha.
+
+## Versões e escolhas gratuitas
+
+- Valeren exige Fortitude 2 no Companion e Fortitude 3 no Guia do Jogador.
+  A fonte original habilitada tem preferência; se desativada, utiliza-se uma
+  versão revisada de uma fonte habilitada. Com ambos habilitados, prevalece a
+  versão do Guia do Jogador já usada pelo catálogo anterior.
+- Feitiçaria de Sangue permite um ritual de nível 1 gratuito na criação.
+- Cerimônias gratuitas exigem o poder pré-requisito; fórmulas respeitam o limite
+  de pontos da Disciplina. As compras com XP são registradas separadamente.
+- As escolhas salvas continuam preservadas, inclusive quando uma fonte é
+  desativada; a auditoria apresenta as incompatibilidades.
+
+## Trabalho restante
+
+Inventariar integralmente as opções dos onze livros, justificar exclusões,
+completar descrições e requisitos, concluir traduções persistidas da biblioteca
+e da interface, substituir a tradução dinâmica restante e finalizar a base
+Markdown bilíngue de *Let the Streets Run Red*. A base e o ZIP de trabalho ainda
+exigem revisão e não são apresentados como entrega editorial final.
+
+Os scripts `audit-content-coverage.py` e `audit-source-cache.py` distinguem
+extração, tradução automática e conteúdo revisado. Contagem de páginas extraídas
+ou de candidatos não equivale a cobertura editorial completa.

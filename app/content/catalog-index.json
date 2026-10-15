@@ -1,0 +1,380 @@
+{
+  "entries": [
+    {
+      "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-o-chamado-do-viajante",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "O Chamado do Viajante",
+        "en": "The Traveler’s Call"
+      },
+      "aliases": [
+        "O Chamado do Viajante",
+        "The Traveler’s Call"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "books": [
+        "cultos-deuses-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-o-chamado-do-viajante-cultos-pt",
+          "book": "cultos-deuses-sangue-v5",
+          "sourceTitle": "Cultos dos Deuses de Sangue V5, pp. 93–94 e 208",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            },
+            "prerequisites": [
+              "Oblivion’s Sight"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-nome-do-pai",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Nome do Pai",
+        "en": "The Father’s Name"
+      },
+      "aliases": [
+        "Nome do Pai",
+        "The Father’s Name"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "books": [
+        "cultos-deuses-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-nome-do-pai-cultos-pt",
+          "book": "cultos-deuses-sangue-v5",
+          "sourceTitle": "Cultos dos Deuses de Sangue V5, pp. 94 e 208",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            },
+            "prerequisites": [
+              "Shadow Perspective"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-po-o-da-contempla-o",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Poço da Contemplação",
+        "en": "Pit of Contemplation"
+      },
+      "aliases": [
+        "Poço da Contemplação",
+        "Pit of Contemplation"
+      ],
+      "discipline": "Oblívio",
+      "level": 5,
+      "books": [
+        "cultos-deuses-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-po-o-da-contempla-o-cultos-pt",
+          "book": "cultos-deuses-sangue-v5",
+          "sourceTitle": "Cultos dos Deuses de Sangue V5, pp. 94 e 208",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            },
+            "prerequisites": [
+              "Tenebrous Avatar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "roadside-killer",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Assassino de Estrada",
+        "en": "Roadside Killer"
+      },
+      "aliases": [
+        "Assassino de Estrada",
+        "Roadside Killer"
+      ],
+      "books": [
+        "let-the-streets-run-red-v5"
+      ],
+      "versions": [
+        {
+          "id": "roadside-killer-streets",
+          "book": "let-the-streets-run-red-v5",
+          "sourceTitle": "Let the Streets Run Red, pp. 75–76"
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-ausp-cios-obeah",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Obeah",
+        "en": "Obeah"
+      },
+      "aliases": [
+        "Obeah"
+      ],
+      "discipline": "Auspícios",
+      "level": 2,
+      "books": [
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "obeah-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, p. 24",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 2,
+              "Fortitude": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-domina-o-domitor-s-favor",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Favor do Domitor",
+        "en": "Domitor’s Favor"
+      },
+      "aliases": [
+        "Favor do Domitor",
+        "Domitor’s Favor",
+        "Domitor's Favor"
+      ],
+      "discipline": "Dominação",
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "domitors-favor-players-guide",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, p. 74",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 2
+            }
+          }
+        },
+        {
+          "id": "domitors-favor-companion",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, p. 25",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-blood-walk",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Caminho do Sangue",
+        "en": "Blood Walk"
+      },
+      "aliases": [
+        "Caminho do Sangue",
+        "Blood Walk"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-blood-walk-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-clinging-of-the-insect",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Aderência do Inseto",
+        "en": "Clinging of the Insect"
+      },
+      "aliases": [
+        "Aderência do Inseto",
+        "Clinging of the Insect"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-clinging-of-the-insect-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-craft-bloodstone",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Criar Pedra de Sangue",
+        "en": "Craft Bloodstone"
+      },
+      "aliases": [
+        "Criar Pedra de Sangue",
+        "Craft Bloodstone"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-craft-bloodstone-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-wake-with-evenings-freshness",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Despertar com o Frescor do Anoitecer",
+        "en": "Wake with Evening’s Freshness"
+      },
+      "aliases": [
+        "Despertar com o Frescor do Anoitecer",
+        "Wake with Evening’s Freshness"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-wake-with-evenings-freshness-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "valeren",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Valeren",
+        "en": "Valeren"
+      },
+      "aliases": [
+        "Valeren"
+      ],
+      "discipline": "Fortitude",
+      "level": 3,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "valeren-players-guide",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, p. 75",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 3,
+              "Auspícios": 1
+            }
+          }
+        },
+        {
+          "id": "valeren-companion",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, p. 25",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 2,
+              "Auspícios": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-ward-against-ghouls",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Proteção contra Carniçais",
+        "en": "Ward Against Ghouls"
+      },
+      "aliases": [
+        "Proteção contra Carniçais",
+        "Ward Against Ghouls"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "ward-against-ghouls-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 274–276",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

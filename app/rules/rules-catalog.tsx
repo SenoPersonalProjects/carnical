@@ -1,4 +1,6 @@
 "use client";
+import { UiText, useUiText } from "../ui-text";
+
 
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
@@ -22,6 +24,8 @@ type Result = {
 const fold = (value: string) => value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("pt-BR");
 
 export default function RulesCatalog({ books, initialQuery, displayName, signOutPath }: { books: Book[]; initialQuery: string; displayName: string; signOutPath: string }) {
+  const t=useUiText();
+
   const locale = usePreferredLocale();
   const [query, setQuery] = useState(initialQuery);
   const [search, setSearch] = useState<{ key: string; results: Result[]; total: number; error?: string } | null>(null);
@@ -62,26 +66,26 @@ export default function RulesCatalog({ books, initialQuery, displayName, signOut
 
   return <main className="library-shell catalog-shell">
     <header className="library-topbar">
-      <div className="library-brand"><span className="library-sigil">C</span><div><strong>CARNIÇAL</strong><small>BIBLIOTECA DA NOITE</small></div></div>
-      <Link className="back-to-sheet" href="/"><ArrowLeft size={16}/>Voltar à ficha</Link>
-      <div className="library-user"><span>{displayName}</span><a href={signOutPath} target="_top" title="Sair"><LogOut size={17}/></a></div>
+      <div className="library-brand"><span className="library-sigil"><UiText text="C"/></span><div><strong><UiText text="CARNIÇAL"/></strong><small><UiText text="BIBLIOTECA DA NOITE"/></small></div></div>
+      <Link className="back-to-sheet" href="/"><ArrowLeft size={16}/><UiText text="Voltar à ficha"/></Link>
+      <div className="library-user"><span>{displayName}</span><a href={signOutPath} target="_top" title={t("Sair")}><LogOut size={17}/></a></div>
     </header>
     <div className="catalog-content">
-      <div className="catalog-intro"><span className="catalog-eyebrow">ACERVO V5 · ÍNDICE GERAL</span><h1>Encontre o que a noite esconde.</h1><p>Explore os livros ou pesquise uma regra, clã, poder ou tema em todos os capítulos.</p></div>
+      <div className="catalog-intro"><span className="catalog-eyebrow"><UiText text="ACERVO V5 · ÍNDICE GERAL"/></span><h1><UiText text="Encontre o que a noite esconde."/></h1><p><UiText text="Explore os livros ou pesquise uma regra, clã, poder ou tema em todos os capítulos."/></p></div>
       <div className="catalog-search-wrap">
-        <label className="catalog-search"><Search size={22}/><input type="search" value={query} onChange={event => setQuery(event.target.value)} placeholder="O que você procura?" aria-label="Pesquisar em todos os livros" maxLength={100} autoComplete="off"/>{normalized && <button type="button" onClick={() => { setQuery(""); setSearch(null); }} aria-label="Limpar pesquisa"><X size={20}/></button>}</label>
-        <p>{books.length} livros · {chapters} capítulos · busca em todo o acervo</p>
+        <label className="catalog-search"><Search size={22}/><input type="search" value={query} onChange={event => setQuery(event.target.value)} placeholder={t("O que você procura?")} aria-label={t("Pesquisar em todos os livros")} maxLength={100} autoComplete="off"/>{normalized && <button type="button" onClick={() => { setQuery(""); setSearch(null); }} aria-label={t("Limpar pesquisa")}><X size={20}/></button>}</label>
+        <p>{books.length} <UiText text=" livros · "/>{chapters} <UiText text=" capítulos · busca em todo o acervo"/></p>
       </div>
 
-      {normalized.length < 2 ? <section className="catalog-section" aria-labelledby="catalog-books-heading"><div className="catalog-section-head"><div><span>01 / ACERVO</span><h2 id="catalog-books-heading">Escolha um livro</h2></div><p>Abra um volume para ver seus capítulos e pesquisar dentro dele.</p></div><div className="catalog-grid">{books.map((book, index) => <BookCard key={book.id} book={book} index={index}/>)}</div></section> : <>
-        {relatedBooks.length > 0 && <section className="catalog-section" aria-labelledby="catalog-related-heading"><div className="catalog-section-head"><div><span>LIVROS</span><h2 id="catalog-related-heading">Volumes encontrados</h2></div></div><div className="catalog-grid">{relatedBooks.map(book => <BookCard key={book.id} book={book} index={books.indexOf(book)}/>)}</div></section>}
-        <section className="catalog-section catalog-results" aria-labelledby="catalog-results-heading"><div className="catalog-section-head"><div><span>BUSCA NO ACERVO</span><h2 id="catalog-results-heading">Capítulos encontrados</h2></div>{!searching && search?.key === key && !search.error && <p>{search.total} {search.total === 1 ? "capítulo" : "capítulos"}{search.total > search.results.length ? ` · mostrando ${search.results.length}` : ""}</p>}</div>
-          {searching && <p className="catalog-feedback" role="status"><LoaderCircle className="catalog-spinner" size={18}/> Pesquisando nos livros…</p>}
+      {normalized.length < 2 ? <section className="catalog-section" aria-labelledby="catalog-books-heading"><div className="catalog-section-head"><div><span><UiText text="01 / ACERVO"/></span><h2 id="catalog-books-heading"><UiText text="Escolha um livro"/></h2></div><p><UiText text="Abra um volume para ver seus capítulos e pesquisar dentro dele."/></p></div><div className="catalog-grid">{books.map((book, index) => <BookCard key={book.id} book={book} index={index}/>)}</div></section> : <>
+        {relatedBooks.length > 0 && <section className="catalog-section" aria-labelledby="catalog-related-heading"><div className="catalog-section-head"><div><span><UiText text="LIVROS"/></span><h2 id="catalog-related-heading"><UiText text="Volumes encontrados"/></h2></div></div><div className="catalog-grid">{relatedBooks.map(book => <BookCard key={book.id} book={book} index={books.indexOf(book)}/>)}</div></section>}
+        <section className="catalog-section catalog-results" aria-labelledby="catalog-results-heading"><div className="catalog-section-head"><div><span><UiText text="BUSCA NO ACERVO"/></span><h2 id="catalog-results-heading"><UiText text="Capítulos encontrados"/></h2></div>{!searching && search?.key === key && !search.error && <p>{search.total} {search.total === 1 ? <UiText text="capítulo"/> : <UiText text="capítulos"/>}{search.total > search.results.length ? ` · mostrando ${search.results.length}` : ""}</p>}</div>
+          {searching && <p className="catalog-feedback" role="status"><LoaderCircle className="catalog-spinner" size={18}/> <UiText text=" Pesquisando nos livros…"/></p>}
           {!searching && search?.key === key && search.error && <p className="catalog-feedback" role="alert">{search.error}</p>}
-          {!searching && search?.key === key && !search.error && search.results.length === 0 && <p className="catalog-feedback" role="status">Nenhum capítulo contém “{normalized}”. Experimente outro termo ou abra um livro pelo catálogo.</p>}
-          {!searching && search?.key === key && search.results.length > 0 && <div className="catalog-result-list" aria-live="polite">{search.results.map(result => <Link className="catalog-result" key={`${result.bookId}:${result.chapterId}`} href={`/rules?book=${encodeURIComponent(result.bookId)}&chapter=${encodeURIComponent(result.chapterId)}&q=${encodeURIComponent(result.sourceQuery)}`}><span className="catalog-result-book">{result.bookTitle} · {result.language}</span><strong>{result.chapterTitle}</strong><span className="catalog-result-snippet">{result.snippet}</span><small>{result.count} {result.count === 1 ? "ocorrência" : "ocorrências"}<ArrowUpRight size={15}/></small></Link>)}</div>}
+          {!searching && search?.key === key && !search.error && search.results.length === 0 && <p className="catalog-feedback" role="status"><UiText text="Nenhum capítulo contém “"/>{normalized}<UiText text="”. Experimente outro termo ou abra um livro pelo catálogo."/></p>}
+          {!searching && search?.key === key && search.results.length > 0 && <div className="catalog-result-list" aria-live="polite">{search.results.map(result => <Link className="catalog-result" key={`${result.bookId}:${result.chapterId}`} href={`/rules?book=${encodeURIComponent(result.bookId)}&chapter=${encodeURIComponent(result.chapterId)}&q=${encodeURIComponent(result.sourceQuery)}`}><span className="catalog-result-book">{result.bookTitle} · {result.language}</span><strong>{result.chapterTitle}</strong><span className="catalog-result-snippet">{result.snippet}</span><small>{result.count} {result.count === 1 ? <UiText text="ocorrência"/> : <UiText text="ocorrências"/>}<ArrowUpRight size={15}/></small></Link>)}</div>}
         </section>
-        <button type="button" className="catalog-show-all" onClick={() => { setQuery(""); setSearch(null); }}>Ver todos os livros <ChevronRight size={16}/></button>
+        <button type="button" className="catalog-show-all" onClick={() => { setQuery(""); setSearch(null); }}><UiText text="Ver todos os livros "/><ChevronRight size={16}/></button>
       </>}
     </div>
   </main>;
@@ -91,7 +95,7 @@ function BookCard({ book, index }: { book: Book; index: number }) {
   return <Link className="catalog-book" href={`/rules?book=${encodeURIComponent(book.id)}`}>
     <span className="catalog-book-number">{String(index + 1).padStart(2, "0")}</span>
     <span className="catalog-book-icon"><BookOpen size={28} strokeWidth={1.3}/></span>
-    <span className="catalog-book-copy"><strong>{book.title}</strong><small>{book.chapters.length} capítulos · {book.language}</small></span>
+    <span className="catalog-book-copy"><strong>{book.title}</strong><small>{book.chapters.length} <UiText text=" capítulos · "/>{book.language}</small></span>
     <ArrowUpRight className="catalog-book-arrow" size={20}/>
   </Link>;
 }

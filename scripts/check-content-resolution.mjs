@@ -1,0 +1,17 @@
+import assert from "node:assert/strict";
+import fs from "node:fs";
+import {createRequire} from "node:module";
+const require=createRequire(import.meta.url),ts=require("typescript");
+const entries=[{id:"first",kind:"background",names:{"pt-BR":"Influência",en:"Influence"},aliases:["Influência local"],books:["core-v5"]},{id:"second",kind:"merit",names:{"pt-BR":"Influência",en:"Influence"},aliases:[],books:["players-guide-v5"]},{id:"third",kind:"power",names:{"pt-BR":"Olhar",en:"Sight"},aliases:["Oblivion’s Sight"],books:["chicago-by-night-v5"],discipline:"Oblívio"}];
+const compiled=ts.transpileModule(fs.readFileSync("app/content/resolve.ts","utf8"),{compilerOptions:{module:ts.ModuleKind.CommonJS,esModuleInterop:true}}).outputText,loaded={exports:{}};
+new Function("module","exports","require",compiled)(loaded,loaded.exports,name=>name.endsWith("catalog-index.json")?{entries}:require(name));
+const {resolveContent}=loaded.exports,before=JSON.stringify(entries);
+assert.equal(resolveContent("Influência"),undefined);
+assert.equal(resolveContent("Influence",{book:"core-v5"}).id,"first");
+assert.equal(resolveContent("Influência",{kinds:["background","merit"]}),undefined);
+assert.equal(resolveContent("influencia local").id,"first");
+assert.equal(resolveContent("Oblivion's Sight",{discipline:"Oblívio"}).id,"third");
+assert.equal(resolveContent("Olhar",{book:"core-v5"}),undefined);
+assert.equal(resolveContent("Nome pessoal livre"),undefined);
+assert.equal(JSON.stringify(entries),before);
+console.log("Ambiguous legacy names are not guessed; source, bilingual aliases and saved values verified.");

@@ -3,6 +3,7 @@
 import { useEffect, useSyncExternalStore } from "react";
 import { Languages, Moon, Sun } from "lucide-react";
 import { ThemeProvider, useTheme } from "next-themes";
+import translations from "./ui-translations.json";
 
 export type Locale = "pt-BR" | "en";
 
@@ -46,49 +47,18 @@ const UI_TRANSLATIONS: Record<string,string> = {
   "Feitiçaria de Sangue":"Blood Sorcery","Não escolhido":"Not selected","Distribuição concluída":"Distribution complete","Distribuição em andamento":"Distribution in progress"
 };
 
-const ATTRIBUTE_NAMES = ["placeholder","title","aria-label"] as const;
-
-function translateText(value:string) {
-  const leading=value.match(/^\s*/)?.[0]??"", trailing=value.match(/\s*$/)?.[0]??"", core=value.trim();
-  if(!core)return value;
-  let translated=UI_TRANSLATIONS[core];
-  if(!translated){
-    translated=core
-      .replace(/^(\d+) capítulos · Português$/,"$1 chapters · Portuguese")
-      .replace(/^(\d+) capítulos · Inglês$/,"$1 chapters · English")
-      .replace(/^Nível (\d+)/,"Level $1")
-      .replace(/^A noite de /,"The night of ")
-      .replace(/^Fome atual /,"Current Hunger ")
-      .replace(/^Abrir /,"Open ")
-      .replace(/^Fechar /,"Close ");
-  }
-  return leading+translated+trailing;
-}
+export function translateUi(value:string,locale:Locale) { return locale==="en"?(UI_TRANSLATIONS[value]||(translations as Record<string,string>)[value]||value):value; }
 
 export function PreferencesProvider({children}:{children:React.ReactNode}) {
   const locale=usePreferredLocale();
-  useEffect(()=>{
-    document.documentElement.lang=locale;
-    if(locale!=="en")return;
-    const originals=new WeakMap<Node,string>();
-    const translateNode=(root:Node)=>{
-      const walker=document.createTreeWalker(root,NodeFilter.SHOW_TEXT);
-      let node:Node|null=root.nodeType===Node.TEXT_NODE?root:walker.nextNode();
-      while(node){const parent=node.parentElement;if(parent&&!parent.closest("[data-no-auto-translate],script,style")&&node.textContent){const original=originals.get(node)??node.textContent;originals.set(node,original);node.textContent=translateText(original)}node=walker.nextNode()}
-      if(root instanceof Element||root instanceof Document){const base=root instanceof Document?root.documentElement:root;[base,...base.querySelectorAll("*")].forEach(element=>ATTRIBUTE_NAMES.forEach(name=>{const value=element.getAttribute(name);if(value)element.setAttribute(name,translateText(value))}))}
-    };
-    translateNode(document);
-    const observer=new MutationObserver(records=>records.forEach(record=>record.addedNodes.forEach(translateNode)));
-    observer.observe(document.body,{childList:true,subtree:true});
-    return()=>observer.disconnect();
-  },[locale]);
+  useEffect(()=>{document.documentElement.lang=locale},[locale]);
   return <ThemeProvider attribute="data-theme" defaultTheme="dark" enableSystem={false} storageKey="noctis-theme"><LocaleContext locale={locale}>{children}<PreferencesDock locale={locale}/></LocaleContext></ThemeProvider>;
 }
 
 function LocaleContext({locale,children}:{locale:Locale;children:React.ReactNode}){return <div data-locale={locale} style={{display:"contents"}}>{children}</div>}
 
 export function getLocale():Locale {if(typeof window==="undefined")return "pt-BR";return localStorage.getItem("noctis-locale")==="en"?"en":"pt-BR"}
-export function setPreferredLocale(locale:Locale){localStorage.setItem("noctis-locale",locale);window.location.reload()}
+export function setPreferredLocale(locale:Locale){localStorage.setItem("noctis-locale",locale);window.dispatchEvent(new Event("noctis-locale-change"))}
 
 function PreferencesDock({locale}:{locale:Locale}) {
   const {resolvedTheme,setTheme}=useTheme();
@@ -101,5 +71,7 @@ function PreferencesDock({locale}:{locale:Locale}) {
 }
 
 export function usePreferredLocale(){
-  return useSyncExternalStore(()=>()=>{},getLocale,()=>"pt-BR" as Locale);
+  return useSyncExternalStore(subscribeLocale,getLocale,()=>"pt-BR" as Locale);
 }
+
+function subscribeLocale(notify:()=>void){window.addEventListener("noctis-locale-change",notify);window.addEventListener("storage",notify);return()=>{window.removeEventListener("noctis-locale-change",notify);window.removeEventListener("storage",notify)}}

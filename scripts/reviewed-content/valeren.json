@@ -1,0 +1,177 @@
+{
+  "id": "valeren",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Valeren",
+    "en": "Valeren"
+  },
+  "aliases": [
+    "Valeren"
+  ],
+  "discipline": "Fortitude",
+  "level": 3,
+  "versions": [
+    {
+      "id": "valeren-players-guide",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Player’s Guide V5, p. 75",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 77,
+          "printedPage": 75
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 3,
+          "Auspícios": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro projeta sua Fortitude para reparar o corpo ferido de outro vampiro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 3 nesta versão do Guia do Jogador. Amálgama: Auspícios 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue. Curar mais de um alvo na mesma noite também causa dano superficial à Vitalidade do usuário, conforme as exceções abaixo."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Fortitude, Dificuldade 2. Se o usuário dedicar uma cena inteira ao uso, a Dificuldade é 0."
+          },
+          {
+            "title": "Sistema",
+            "text": "O uso normal ocupa um turno inteiro. Um sucesso recupera níveis de dano superficial à Vitalidade do alvo iguais à margem de sucesso. Alternativamente, recupera um nível de dano agravado à Vitalidade para cada três sucessos na margem."
+          },
+          {
+            "title": "Duração",
+            "text": "Não aplicável: o dano é recuperado quando o poder é resolvido."
+          },
+          {
+            "title": "Exceções e limites",
+            "text": "Só afeta vampiros e não pode ser usado em si mesmo. Cada alvo só pode ser afetado uma vez por noite. Para cada alvo adicional que curar na mesma noite, o usuário sofre dano superficial à Vitalidade igual à metade dos sucessos na margem desse uso."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire projects their Fortitude to repair another vampire’s injured body."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 3 in this Player’s Guide version. Amalgam: Auspex 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check. Mending more than one subject in a night also inflicts superficial Health damage on the user, as detailed in the exceptions below."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Fortitude, Difficulty 2. Spending an entire scene instead reduces the Difficulty to 0."
+          },
+          {
+            "title": "System",
+            "text": "Ordinary use takes one full turn. A success restores superficial Health damage equal to the margin of success. Alternatively, each three successes in the margin restore one level of aggravated Health damage."
+          },
+          {
+            "title": "Duration",
+            "text": "Not applicable: the damage is restored when the power resolves."
+          },
+          {
+            "title": "Exceptions and limits",
+            "text": "Only vampires can be affected, and the user cannot target themselves. A subject can be affected only once per night. For each additional subject mended in the same night, the user suffers superficial Health damage equal to half the successes in that use's margin."
+          }
+        ]
+      }
+    },
+    {
+      "id": "valeren-companion",
+      "book": "companion-v5",
+      "level": 2,
+      "sourceTitle": "Companion V5, p. 25",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 25,
+          "printedPage": 25
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 2,
+          "Auspícios": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro projeta sua Fortitude para reparar o corpo ferido de outro vampiro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 2 nesta versão do Companion. Amálgama: Auspícios 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue. Curar mais de um alvo na mesma noite também causa dano superficial à Vitalidade do usuário, conforme as exceções abaixo."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Fortitude, Dificuldade 2. Se o usuário dedicar uma cena inteira ao uso, a Dificuldade é 0."
+          },
+          {
+            "title": "Sistema",
+            "text": "O uso normal ocupa um turno inteiro. Um sucesso recupera níveis de dano superficial à Vitalidade do alvo iguais à margem de sucesso. Alternativamente, recupera um nível de dano agravado à Vitalidade para cada três sucessos na margem."
+          },
+          {
+            "title": "Duração",
+            "text": "Não aplicável: o dano é recuperado quando o poder é resolvido."
+          },
+          {
+            "title": "Exceções e limites",
+            "text": "Só afeta vampiros e não pode ser usado em si mesmo. Cada alvo só pode ser afetado uma vez por noite. Para cada alvo adicional que curar na mesma noite, o usuário sofre dano superficial à Vitalidade igual à metade dos sucessos na margem desse uso."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire projects their Fortitude to repair another vampire’s injured body."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 2 in this Companion version. Amalgam: Auspex 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check. Mending more than one subject in a night also inflicts superficial Health damage on the user, as detailed in the exceptions below."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Fortitude, Difficulty 2. Spending an entire scene instead reduces the Difficulty to 0."
+          },
+          {
+            "title": "System",
+            "text": "Ordinary use takes one full turn. A success restores superficial Health damage equal to the margin of success. Alternatively, each three successes in the margin restore one level of aggravated Health damage."
+          },
+          {
+            "title": "Duration",
+            "text": "Not applicable: the damage is restored when the power resolves."
+          },
+          {
+            "title": "Exceptions and limits",
+            "text": "Only vampires can be affected, and the user cannot target themselves. A subject can be affected only once per night. For each additional subject mended in the same night, the user suffers superficial Health damage equal to half the successes in that use's margin."
+          }
+        ]
+      }
+    }
+  ]
+}

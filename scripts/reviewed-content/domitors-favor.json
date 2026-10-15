@@ -1,0 +1,143 @@
+{
+  "id": "players-guide-v5-power-domina-o-domitor-s-favor",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Favor do Domitor",
+    "en": "Domitor’s Favor"
+  },
+  "aliases": [
+    "Favor do Domitor",
+    "Domitor’s Favor",
+    "Domitor's Favor"
+  ],
+  "discipline": "Dominação",
+  "level": 2,
+  "versions": [
+    {
+      "id": "domitors-favor-players-guide",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, p. 74",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 76,
+          "printedPage": 74
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro condiciona um servo ligado a ele por Laço de Sangue, tornando mais difícil desafiar o domitor. Tzimisce dominadores usam esse poder para assegurar a lealdade de seus servos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 2. O alvo deve estar ligado ao usuário por um Laço de Sangue."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "As rolagens de desafio ao Laço de Sangue feitas pelo servo recebem uma penalidade de três dados. O servo não pode gastar Força de Vontade nessas rolagens.\n\nUma falha total numa rolagem de desafio faz com que o Laço de Sangue não enfraqueça naquele mês. Consulte também as regras de Laço de Sangue do livro básico, pp. 233–244."
+          },
+          {
+            "title": "Duração",
+            "text": "Um mês."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire conditions a thrall already Blood Bound to them, making defiance of the domitor harder. Domineering Tzimisce use this power to secure their servants’ loyalty."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 2. The subject must be Blood Bound to the user."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "The thrall takes a three-dice penalty on Blood Bond defiance rolls and cannot spend Willpower on those rolls.\n\nA total failure on a defiance roll prevents the Blood Bond from weakening that month. See also the Blood Bond rules in the core book, pp. 233–244."
+          },
+          {
+            "title": "Duration",
+            "text": "One month."
+          }
+        ]
+      }
+    },
+    {
+      "id": "domitors-favor-companion",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, p. 25",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 25,
+          "printedPage": 25
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro condiciona um servo ligado a ele por Laço de Sangue, tornando mais difícil desafiar o domitor. Tzimisce dominadores usam esse poder para assegurar a lealdade de seus servos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 2. O alvo deve estar ligado ao usuário por um Laço de Sangue."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "As rolagens de desafio ao Laço de Sangue feitas pelo servo recebem uma penalidade de três dados. O servo não pode gastar Força de Vontade nessas rolagens.\n\nUma falha total numa rolagem de desafio faz com que o Laço de Sangue não enfraqueça naquele mês. Consulte também as regras de Laço de Sangue do livro básico, pp. 233–241."
+          },
+          {
+            "title": "Duração",
+            "text": "Um mês."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire conditions a thrall already Blood Bound to them, making defiance of the domitor harder. Domineering Tzimisce use this power to secure their servants’ loyalty."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 2. The subject must be Blood Bound to the user."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "The thrall takes a three-dice penalty on Blood Bond defiance rolls and cannot spend Willpower on those rolls.\n\nA total failure on a defiance roll prevents the Blood Bond from weakening that month. See also the Blood Bond rules in the core book, pp. 233–241."
+          },
+          {
+            "title": "Duration",
+            "text": "One month."
+          }
+        ]
+      }
+    }
+  ]
+}

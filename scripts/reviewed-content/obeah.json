@@ -1,0 +1,36 @@
+{
+  "id": "players-guide-v5-power-ausp-cios-obeah",
+  "kind": "power",
+  "names": {"pt-BR": "Obeah", "en": "Obeah"},
+  "aliases": ["Obeah"],
+  "discipline": "Auspícios",
+  "level": 2,
+  "versions": [{
+    "id": "obeah-companion-v5",
+    "book": "companion-v5",
+    "sourceTitle": "Companion V5, p. 24",
+    "sourceLanguage": "pt-BR",
+    "pages": [{"pdfPage": 24, "printedPage": 24}],
+    "requirements": {"disciplines": {"Auspícios": 2, "Fortitude": 1}},
+    "descriptions": {
+      "pt-BR": [
+        {"title": "Descrição", "text": "O vampiro acalma um alvo emocionalmente agitado e restaura seu equilíbrio. Em mortais, pode aliviar a agitação ou tranquilizar alguém antes de se alimentar."},
+        {"title": "Requisitos", "text": "Auspícios 2. Amálgama: Fortitude 1."},
+        {"title": "Custo", "text": "Um Teste de Sangue. Usar o poder em mais de um alvo na mesma noite causa dano superficial adicional à Força de Vontade, conforme o sistema abaixo."},
+        {"title": "Parada", "text": "Autocontrole + Auspícios, Dificuldade 2. Se o usuário dedicar uma cena inteira ao uso, a Dificuldade é 0."},
+        {"title": "Sistema", "text": "O uso normal ocupa um turno inteiro. Um sucesso restaura níveis de dano superficial à Força de Vontade do alvo iguais à margem de sucesso. Alternativamente, restaura um nível de dano agravado à Força de Vontade para cada três sucessos na margem.\n\nQuando usado com sucesso em um mortal emocionalmente agitado, também o acalma; em outras circunstâncias, deixa-o à vontade."},
+        {"title": "Duração", "text": "Não aplicável: o dano é recuperado quando o poder é resolvido."},
+        {"title": "Exceções e limites", "text": "Não pode ser usado em si mesmo. Cada alvo só pode ser afetado uma vez por noite.\n\nPara cada alvo adicional que o usuário acalmar na mesma noite, o usuário sofre dano superficial à Força de Vontade igual à metade dos sucessos na margem desse uso."}
+      ],
+      "en": [
+        {"title": "Description", "text": "The vampire soothes an emotionally agitated subject and restores their composure. With mortals, this can ease distress or put a prospective feeding subject at ease."},
+        {"title": "Requirements", "text": "Auspex 2. Amalgam: Fortitude 1."},
+        {"title": "Cost", "text": "One Rouse Check. Affecting more than one subject in a night also inflicts superficial Willpower damage on the user, as detailed below."},
+        {"title": "Dice Pool", "text": "Composure + Auspex, Difficulty 2. Spending an entire scene instead reduces the Difficulty to 0."},
+        {"title": "System", "text": "Ordinary use takes one full turn. A successful test restores superficial Willpower damage equal to the margin of success. Alternatively, each three successes in the margin restore one level of aggravated Willpower damage.\n\nA successful use also calms a distressed mortal; otherwise, it puts that mortal at ease."},
+        {"title": "Duration", "text": "Not applicable: the damage is restored when the power resolves."},
+        {"title": "Exceptions and limits", "text": "The user cannot target themselves. A subject can be affected only once per night.\n\nFor each additional subject soothed in the same night, the user suffers superficial Willpower damage equal to half the successes in that use's margin."}
+      ]
+    }
+  }]
+}

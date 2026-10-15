@@ -1,0 +1,36 @@
+{
+  "id": "core-v5-ritual-ward-against-ghouls", "kind": "ritual",
+  "names": {"pt-BR": "Proteção contra Carniçais", "en": "Ward Against Ghouls"},
+  "aliases": ["Proteção contra Carniçais", "Ward Against Ghouls"],
+  "discipline": "Feitiçaria de Sangue", "level": 1,
+  "versions": [{
+    "id": "ward-against-ghouls-core", "book": "core-v5",
+    "sourceTitle": "Livro Básico V5, pp. 274–276", "sourceLanguage": "pt-BR",
+    "pages": [{"pdfPage": 276, "printedPage": 274}, {"pdfPage": 277, "printedPage": 275}, {"pdfPage": 278, "printedPage": 276}],
+    "requirements": {"disciplines": {"Feitiçaria de Sangue": 1}},
+    "descriptions": {
+      "pt-BR": [
+        {"title": "Descrição", "text": "Protege um objeto contra carniçais. Ao ser tocado por um carniçal, o glifo provoca queimaduras e terror, usando as regras gerais de Proteções."},
+        {"title": "Requisitos", "text": "Feitiçaria de Sangue 1. Conhecer esta Proteção não concede conhecimento do ritual Círculo de Proteção contra Carniçais, nem o contrário."},
+        {"title": "Custo e ingredientes", "text": "Um Teste de Sangue. Não exige ingredientes além do Sangue do conjurador."},
+        {"title": "Processo", "text": "Derrame o próprio Sangue sobre o objeto e desenhe o glifo com um dedo nu. Ao limpar o Sangue, a Proteção fica invisível. Uma Proteção só cobre um espaço de aproximadamente um metro: pode proteger um volante, por exemplo, mas não um carro inteiro. Pela regra geral de rituais, o tempo de conjuração deste nível é cinco minutos."},
+        {"title": "Parada", "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 2. Não faça a rolagem até o primeiro carniçal tocar a Proteção."},
+        {"title": "Sistema", "text": "Um sucesso causa um ponto de dano agravado à Vitalidade do intruso. Uma vitória crítica causa três pontos. A rolagem é feita para o primeiro intruso, não novamente para cada um que tocar o objeto.\n\nUm intruso já afetado que queira tocar novamente deve gastar um ponto de Força de Vontade e vencer Vigor + Determinação, Dificuldade 4; a Dificuldade é 7 se a Proteção foi criada com uma vitória crítica."},
+        {"title": "Duração", "text": "Até o objeto ser fisicamente destruído ou quebrado. O intruso não consegue destruir ou quebrar o objeto protegido."},
+        {"title": "Exceções e detecção", "text": "Contato forçado não aciona a Proteção: atacar alguém com uma espada protegida não a ativa, mas um carniçal que tente pegá-la a aciona. Luvas e outras peças de vestuário não impedem o efeito.\n\nSentir o Invisível (Auspícios 1) pode detectar uma Proteção com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador."},
+        {"title": "Aprendizado", "text": "Pode ser a escolha gratuita de ritual de nível 1 na criação para quem tem Feitiçaria de Sangue. Aprender posteriormente custa 3 XP e exige pelo menos uma semana, conforme a regra geral de aprendizado do livro básico, p. 272."}
+      ],
+      "en": [
+        {"title": "Description", "text": "Wards an object against ghouls. A ghoul touching the glyph suffers burns and terror under the general Ward rules."},
+        {"title": "Requirements", "text": "Blood Sorcery 1. Knowing this Ward does not grant the Warding Circle Against Ghouls ritual, or vice versa."},
+        {"title": "Cost and ingredients", "text": "One Rouse Check. No ingredient beyond the caster’s Blood is required."},
+        {"title": "Process", "text": "Pour the caster’s Blood onto the object and draw the glyph with a bare finger. Wiping away the Blood makes the Ward invisible. A Ward covers a space of approximately one meter: it can protect a steering wheel, for example, but not an entire car. Under the general ritual rules, casting at this level takes five minutes."},
+        {"title": "Dice Pool", "text": "Intelligence + Blood Sorcery, Difficulty 2. Do not make this test until the first ghoul touches the Ward."},
+        {"title": "System", "text": "A success inflicts one level of aggravated Health damage on the intruder. A critical win inflicts three levels. Make the test for the first intruder rather than separately for every intruder touching the object.\n\nAn affected intruder wishing to touch it again must spend one Willpower point and succeed at Stamina + Resolve, Difficulty 4; use Difficulty 7 if the Ward achieved a critical win."},
+        {"title": "Duration", "text": "Until the object is physically destroyed or broken. The intruder cannot destroy or break the warded object."},
+        {"title": "Exceptions and detection", "text": "Forced contact does not trigger the Ward: striking someone with a warded sword does not activate it, but a ghoul attempting to pick it up does. Gloves or other clothing do not prevent the effect.\n\nSense the Unseen (Auspex 1) can detect a Ward with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery."},
+        {"title": "Learning", "text": "A character with Blood Sorcery may select this as their free level 1 ritual at creation. Learning it later costs 3 XP and requires at least one week under the general learning rules in the core book, p. 272."}
+      ]
+    }
+  }]
+}

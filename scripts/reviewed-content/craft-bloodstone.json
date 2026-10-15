@@ -1,0 +1,119 @@
+{
+  "id": "core-v5-ritual-craft-bloodstone",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Criar Pedra de Sangue",
+    "en": "Craft Bloodstone"
+  },
+  "aliases": [
+    "Criar Pedra de Sangue",
+    "Craft Bloodstone"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "core-v5-ritual-craft-bloodstone-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 278,
+          "printedPage": 276
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Cria um rastreador mágico cuja direção e distância o conjurador pode sentir."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um seixo de mineral de ferro ou um ímã pequeno, um litro de sangue de qualquer fonte e uma tigela de prata."
+          },
+          {
+            "title": "Processo",
+            "text": "Adicione o próprio Sangue ao sangue na tigela e entoe um cântico por uma hora. Repita o cântico nas duas noites seguintes. A pedra absorve o sangue durante as três noites, deixando o líquido translúcido. Faça a rolagem ao final da terceira noite."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 2."
+          },
+          {
+            "title": "Sistema",
+            "text": "Um sucesso sintoniza a mente do conjurador com a pedra: ele passa a sentir infalivelmente sua direção e distância. Pode manter e seguir simultaneamente tantas pedras quanto seu valor de Determinação. O efeito termina quando a pedra é destruída ou depois de uma semana."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma semana, ou até a pedra ser destruída."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Creates a magical tracker whose direction and distance the caster can sense."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Ingredients",
+            "text": "An iron-bearing pebble or small magnet, one liter of blood from any source and a silver bowl."
+          },
+          {
+            "title": "Process",
+            "text": "Add the user’s Blood to the blood in the bowl and chant for one hour. Repeat the chant on the following two nights. Over the three nights, the stone absorbs the blood and leaves the liquid translucent. Make the ritual test at the end of the third night."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 2."
+          },
+          {
+            "title": "System",
+            "text": "A success attunes the caster to the stone, letting them sense its direction and distance without error. The caster can maintain and track a number of stones equal to their Resolve rating. The effect ends if the stone is destroyed or after one week."
+          },
+          {
+            "title": "Duration",
+            "text": "One week, or until the stone is destroyed."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1430 @@
+{
+  "entries": [
+    {
+      "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-o-chamado-do-viajante",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "O Chamado do Viajante",
+        "en": "The Traveler’s Call"
+      },
+      "aliases": [
+        "O Chamado do Viajante",
+        "The Traveler’s Call"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "versions": [
+        {
+          "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-o-chamado-do-viajante-cultos-pt",
+          "book": "cultos-deuses-sangue-v5",
+          "sourceTitle": "Cultos dos Deuses de Sangue V5, pp. 93–94 e 208",
+          "pages": [
+            {
+              "pdfPage": 93,
+              "printedPage": 93
+            },
+            {
+              "pdfPage": 94,
+              "printedPage": 94
+            },
+            {
+              "pdfPage": 208,
+              "printedPage": 208
+            }
+          ],
+          "pdfSha256": "cca6654b3f6f45a45e51b6097ceb6da50e46be9e418d009f60d79127faff43c3",
+          "sourceLanguage": "pt-BR",
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Esta é uma Cerimônia simples, ensinada a todos os sacerdotes antes de serem liberados para vagar por este vasto mundo. Como todos os sacerdotes de Shalim estão ligados pelo vínculo comum com Apolleon, o Viajante, são todos capazes de usar a presença dele no Oblívio eterno como conexão entre eles próprios e seus seguidores."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Visão de Oblívio (confira Chicago by Night)"
+              },
+              {
+                "title": "Ingredientes",
+                "text": "O livro negro que se recebe durante a doutrinação do culto."
+              },
+              {
+                "title": "Processo",
+                "text": "Quando invocar o Chamado do Viajante com seu livro preto em mãos e o nome de outro Shalimita em mente, um sacerdote pode enviar uma onda através do Oblívio, chamando o alvo para sua localização. Ao contrário de uma invocação verdadeira, este poder não impõe uma compulsão à vítima, e sim alerta o Shalimita alvo da localização atual do vampiro que tenta estabelecer contato, mostrando visões repetitivas e intermitentes do cenário ao seu redor."
+              },
+              {
+                "title": "Sistema",
+                "text": "O cultista deve ter um livro negro e saber o nome de outro Shalimita. O jogador do vampiro faz uma rolagem de Cerimônia (Dificuldade 3). O vampiro alvo pode escolher ignorar o chamado, mas a visão relâmpago gera −2 dados para todos os testes envolvendo concentração pelo resto da cena, quando o chamado desaparece. Uma vitória crítica permite o envio de uma mensagem de uma única palavra para o contato junto com a visão."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue. 5 minutos para realizar, conforme as regras gerais de Cerimônias (p. 208)."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Oblívio; Dificuldade 3 (exceção específica)."
+              },
+              {
+                "title": "Aprendizado e exceções",
+                "text": "As Cerimônias Shalimitas raramente são ensinadas a estranhos, embora possam ser aprendidas com um Mawla adequado. O Narrador pode sugerir poderes pré-requisitos alternativos se os livros citados não estiverem disponíveis. Conforme a regra geral da p. 208, cada nova Cerimônia custa nível × 3 XP e exige o poder pré-requisito. Durante o jogo, o aprendizado exige um professor que conheça a Cerimônia e pelo menos o quadrado de seu nível em semanas. Na criação, pode-se escolher uma Cerimônia de nível 1 se o poder pré-requisito for conhecido. Salvo indicação contrária, Cerimônias benéficas só afetam o próprio usuário. Carniçais, necromantes ou sangues-ralos que obtenham poderes temporários de Oblívio por temperamentos vazios não recebem Cerimônias."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This simple Ceremony is taught to all priests before they are released to wander the wider world. The priests of Shalim share a bond with Apolleon, the Traveler, and can use his presence in eternal Oblivion as a connection between themselves and their followers."
+              },
+              {
+                "title": "Requirements",
+                "text": "Prerequisite power: Oblivion’s Sight (Chicago by Night)."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The black book received during indoctrination into the cult."
+              },
+              {
+                "title": "Process",
+                "text": "Holding their black book and thinking of another Shalimite's name, a priest sends a wave through Oblivion to call that individual to their location. This does not compel the target to travel. It alerts the target to the caller's current location through repeated, intermittent visions of the surroundings."
+              },
+              {
+                "title": "System",
+                "text": "The cultist must possess a black book and know the name of another Shalimite. The vampire's player makes a Ceremony roll at Difficulty 3. The target vampire may ignore the call, but the flashing vision imposes −2 dice on all tests involving concentration for the rest of the scene, after which the call disappears. A critical win allows the caller to send a one-word message along with the vision."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check. 5 minutes to perform, under the general Ceremony rules (p. 208)."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Oblivion; Difficulty 3 (specific exception)."
+              },
+              {
+                "title": "Learning and exceptions",
+                "text": "Shalimite Ceremonies are rarely taught to outsiders, though a suitable Mawla can teach them. The Storyteller may suggest alternative prerequisite powers when the referenced books are unavailable. Under the general rules on p. 208, each new Ceremony costs its level × 3 XP and requires its prerequisite power. Learning during play requires a teacher who knows it and at least level squared weeks. At creation, one level 1 Ceremony may be chosen when its prerequisite power is known. Unless specifically stated otherwise, beneficial Ceremonies affect only the user. Ghouls, necromancers, or thin-bloods gaining temporary Oblivion powers from empty temperaments do not gain Ceremonies."
+              }
+            ]
+          },
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            },
+            "prerequisites": [
+              "Oblivion’s Sight"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-nome-do-pai",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Nome do Pai",
+        "en": "The Father’s Name"
+      },
+      "aliases": [
+        "Nome do Pai",
+        "The Father’s Name"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "versions": [
+        {
+          "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-nome-do-pai-cultos-pt",
+          "book": "cultos-deuses-sangue-v5",
+          "sourceTitle": "Cultos dos Deuses de Sangue V5, pp. 94 e 208",
+          "pages": [
+            {
+              "pdfPage": 94,
+              "printedPage": 94
+            },
+            {
+              "pdfPage": 208,
+              "printedPage": 208
+            }
+          ],
+          "pdfSha256": "cca6654b3f6f45a45e51b6097ceb6da50e46be9e418d009f60d79127faff43c3",
+          "sourceLanguage": "pt-BR",
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Os sacerdotes de Shalim foram treinados para usar suas vozes como armas, eliminando a aura de doçura com que suas vítimas envolvem seu amor pelo mundo. Ao invocar o nome e pedir ajuda de seu mestre das trevas, eles canalizam uma fração de seu poder sobre um adversário, obscurecendo-lhe a mente com sombras, deixando-o pasmo com o vazio do Oblívio."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Perspectiva da Sombra (confira Chicago by Night)"
+              },
+              {
+                "title": "Ingredientes",
+                "text": "A habilidade de falar grego antigo, contato visual com a vítima, cinco bastões de carvão"
+              },
+              {
+                "title": "Processo",
+                "text": "O sacerdote profere um encantamento em algum dialeto do grego antigo, invocando o nome de Shalim enquanto quebra quatro bastões de carvão com as próprias mãos. As palavras são ditas fazendo contato visual com a vítima, portanto é preciso que ela seja capaz de ver e ouvir o usuário para que o poder seja bem-sucedido. Quebrado o último pedaço de carvão, uma sombra cruza os olhos do sacerdote e os da vítima, deixando-os inteiramente enegrecidos, e a vítima sucumbe a um desespero esmagador. Aqueles que experimentaram este poder e viveram para contar a história falam de uma escuridão que tudo consome se fechando em torno de seus pensamentos e lavando todas as sensações. A última coisa que lembram é uma risada distante e retumbante ecoando em sua mente."
+              },
+              {
+                "title": "Sistema",
+                "text": "O jogador do vampiro faz uma rolagem de Cerimônia contra a Determinação + Autocontrole da vítima. Com uma vitória, o vampiro pode ativar os efeitos desta Cerimônia enquanto estiver na presença da vítima. Após a ativação, a vítima fica paralisada de desespero por um número de turnos igual à margem de sucesso. Sob este efeito, a vítima não pode ver, ouvir ou ter qualquer reação sensorial, exceto toque e dor física, o que encerra o efeito. A vítima pode gastar uma quantidade de Força de Vontade igual ao número de turnos que permaneceria paralisada para se libertar."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue. 15 minutos para realizar, conforme as regras gerais de Cerimônias (p. 208)."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Oblívio; contra Determinação + Autocontrole da vítima."
+              },
+              {
+                "title": "Aprendizado e exceções",
+                "text": "As Cerimônias Shalimitas raramente são ensinadas a estranhos, embora possam ser aprendidas com um Mawla adequado. O Narrador pode sugerir poderes pré-requisitos alternativos se os livros citados não estiverem disponíveis. Conforme a regra geral da p. 208, cada nova Cerimônia custa nível × 3 XP e exige o poder pré-requisito. Durante o jogo, o aprendizado exige um professor que conheça a Cerimônia e pelo menos o quadrado de seu nível em semanas. Na criação, pode-se escolher uma Cerimônia de nível 1 se o poder pré-requisito for conhecido. Salvo indicação contrária, Cerimônias benéficas só afetam o próprio usuário. Carniçais, necromantes ou sangues-ralos que obtenham poderes temporários de Oblívio por temperamentos vazios não recebem Cerimônias."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Shalim's priests are trained to use their voices as weapons, stripping away the sweetness with which their victims surround their love for the world. Invoking their dark master's name and asking for his help, they channel a fraction of his power against an adversary, clouding the victim's mind with shadows and leaving them stunned by the emptiness of Oblivion."
+              },
+              {
+                "title": "Requirements",
+                "text": "Prerequisite power: Shadow Perspective (Chicago by Night)."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The ability to speak ancient Greek, eye contact with the victim, and five sticks of charcoal."
+              },
+              {
+                "title": "Process",
+                "text": "The priest chants in a dialect of ancient Greek, invoking Shalim's name while breaking four charcoal sticks with their hands. They speak while making eye contact with the victim; the victim must be able to see and hear the user for the power to succeed. When the last piece of charcoal breaks, a shadow crosses both the priest's and the victim's eyes, turning them completely black. The victim succumbs to overwhelming despair. Survivors describe an all-consuming darkness closing around their thoughts and washing away every sensation. Their last memory is distant, booming laughter echoing in their mind."
+              },
+              {
+                "title": "System",
+                "text": "The vampire's player makes a Ceremony roll against the victim's Resolve + Composure. A win allows the vampire to activate the Ceremony's effects while in the victim's presence. After activation, the victim is paralyzed by despair for a number of turns equal to the margin of success. The victim cannot see, hear, or experience any sensory reaction except touch and physical pain, which end the effect. The victim can spend Willpower equal to the number of turns they would remain paralyzed to free themselves."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check. 15 minutes to perform, under the general Ceremony rules (p. 208)."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Oblivion; opposed by the victim’s Resolve + Composure."
+              },
+              {
+                "title": "Learning and exceptions",
+                "text": "Shalimite Ceremonies are rarely taught to outsiders, though a suitable Mawla can teach them. The Storyteller may suggest alternative prerequisite powers when the referenced books are unavailable. Under the general rules on p. 208, each new Ceremony costs its level × 3 XP and requires its prerequisite power. Learning during play requires a teacher who knows it and at least level squared weeks. At creation, one level 1 Ceremony may be chosen when its prerequisite power is known. Unless specifically stated otherwise, beneficial Ceremonies affect only the user. Ghouls, necromancers, or thin-bloods gaining temporary Oblivion powers from empty temperaments do not gain Ceremonies."
+              }
+            ]
+          },
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            },
+            "prerequisites": [
+              "Shadow Perspective"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-po-o-da-contempla-o",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Poço da Contemplação",
+        "en": "Pit of Contemplation"
+      },
+      "aliases": [
+        "Poço da Contemplação",
+        "Pit of Contemplation"
+      ],
+      "discipline": "Oblívio",
+      "level": 5,
+      "versions": [
+        {
+          "id": "cultos-deuses-sangue-v5-ceremony-obl-vio-po-o-da-contempla-o-cultos-pt",
+          "book": "cultos-deuses-sangue-v5",
+          "sourceTitle": "Cultos dos Deuses de Sangue V5, pp. 94 e 208",
+          "pages": [
+            {
+              "pdfPage": 94,
+              "printedPage": 94
+            },
+            {
+              "pdfPage": 208,
+              "printedPage": 208
+            }
+          ],
+          "pdfSha256": "cca6654b3f6f45a45e51b6097ceb6da50e46be9e418d009f60d79127faff43c3",
+          "sourceLanguage": "pt-BR",
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Apenas os sacerdotes de Shalim mais poderosos foram capazes de manifestar este poder, mas o efeito é um dos usos mais aterrorizantes e impressionantes do Oblívio já vistos nas noites modernas. A habilidade de lançar um inimigo para o Oblívio aterroriza até o mais durão dos Membros."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Avatar Tenebroso (confira Chicago by Night)"
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um pote de tinta, três litros ou mais de sangue de um inocente assassinado pelo usuário, uma sala escura (o poder não funciona em áreas externas)"
+              },
+              {
+                "title": "Processo",
+                "text": "O próprio vampiro mata um mortal inocente, provavelmente incorrendo em Máculas, de acordo com os Princípios da Crônica e suas Convicções. A inocência é subjetiva, mas os sacrifícios tradicionalmente são de crianças, virgens e santos. O vampiro então leva para um quarto escuro pelo menos três litros de sangue do falecido, os quais usa para pintar uma porta na parede. Por fim, joga um pote de tinta no portal pintado a sangue. Concentrando sua vontade naquela passagem, o sacerdote abre uma fenda para o Oblívio.\n\nQualquer tolo ou infeliz que caia na fenda é transportado imediatamente para um bolsão de nada negro e eterno pelo tempo que o sacerdote julgar adequado. Se o sacerdote for destruído sem libertar seus prisioneiros, todos os prisioneiros não vivos permanecerão presos no vazio, a menos (e até) que outro vampiro reverta a Cerimônia.\n\nSacerdotes podem passar pelo portal, o que significa a condenação eterna. Alguns Shalimitas fazem isso quando sentem que completaram seu trabalho como parte do culto."
+              },
+              {
+                "title": "Sistema",
+                "text": "Seguindo os passos cerimoniais, o jogador do sacerdote faz a rolagem de Cerimônia e, com um sucesso, o efeito é rápido e implosivo. Um buraco se abre no ponto onde a tinta e o sangue se misturam e atrai os objetos, o ar e indivíduos em volta; se falharem em um teste de Destreza + Atletismo (Dificuldade 4), os indivíduos são sugados para um bolsão no Oblívio.\n\nEnquanto presas, as vítimas ficam suspensas numa escuridão sem fim. Não podem ver nem ouvir nada ou ninguém. Pelo menos até o sacerdote ser destruído, só ele pode libertar os prisioneiros. Para isso, basta derramar o Vitae de um vampiro sobre a porta pintada (em quantidade suficiente para provocar uma Checagem de Sangue). Mortais sugados para o Oblívio morrem instantaneamente."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue. 25 minutos para realizar, conforme as regras gerais de Cerimônias (p. 208)."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Oblívio; Dificuldade 6. O alvo resiste com Destreza + Atletismo, Dificuldade 4."
+              },
+              {
+                "title": "Aprendizado e exceções",
+                "text": "As Cerimônias Shalimitas raramente são ensinadas a estranhos, embora possam ser aprendidas com um Mawla adequado. O Narrador pode sugerir poderes pré-requisitos alternativos se os livros citados não estiverem disponíveis. Conforme a regra geral da p. 208, cada nova Cerimônia custa nível × 3 XP e exige o poder pré-requisito. Durante o jogo, o aprendizado exige um professor que conheça a Cerimônia e pelo menos o quadrado de seu nível em semanas. Na criação, pode-se escolher uma Cerimônia de nível 1 se o poder pré-requisito for conhecido. Salvo indicação contrária, Cerimônias benéficas só afetam o próprio usuário. Carniçais, necromantes ou sangues-ralos que obtenham poderes temporários de Oblívio por temperamentos vazios não recebem Cerimônias."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Only Shalim's most powerful priests have manifested this power. Its effect is among the most terrifying and impressive uses of Oblivion witnessed in modern nights. The ability to cast an enemy into Oblivion terrifies even the toughest Kindred."
+              },
+              {
+                "title": "Requirements",
+                "text": "Prerequisite power: Tenebrous Avatar (Chicago by Night)."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A pot of ink, at least three liters of blood from an innocent murdered by the user, and a dark room. The power does not work outdoors."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire personally kills an innocent mortal, probably incurring Stains according to the chronicle Tenets and their Convictions. Innocence is subjective; traditional sacrifices include children, virgins, and saints. The vampire brings at least three liters of the deceased's blood into a dark room and paints a door on the wall with it. They throw a pot of ink onto the blood-painted portal. Concentrating their will on that passage, the priest opens a rift into Oblivion.\n\nAnyone falling into the rift is immediately transported into a pocket of eternal black nothingness for as long as the priest sees fit. If the priest is destroyed without releasing their prisoners, all undead prisoners remain trapped in the void unless and until another vampire reverses the Ceremony.\n\nPriests may pass through the portal themselves, accepting eternal damnation. Some Shalimites do this when they feel they have completed their work for the cult."
+              },
+              {
+                "title": "System",
+                "text": "After following the ceremonial steps, the priest's player makes the Ceremony roll. On a success, the effect is swift and implosive. A hole opens where ink and blood mix, drawing in nearby objects, air, and individuals. Individuals failing a Dexterity + Athletics test at Difficulty 4 are sucked into a pocket of Oblivion.\n\nPrisoners remain suspended in endless darkness, unable to see or hear anything or anyone. Until the priest is destroyed, only that priest can release them. This requires pouring vampire vitae onto the painted door, in a quantity sufficient to cause a Rouse Check. Mortals drawn into Oblivion die instantly."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check. 25 minutes to perform, under the general Ceremony rules (p. 208)."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Oblivion; Difficulty 6. The target resists with Dexterity + Athletics, Difficulty 4."
+              },
+              {
+                "title": "Learning and exceptions",
+                "text": "Shalimite Ceremonies are rarely taught to outsiders, though a suitable Mawla can teach them. The Storyteller may suggest alternative prerequisite powers when the referenced books are unavailable. Under the general rules on p. 208, each new Ceremony costs its level × 3 XP and requires its prerequisite power. Learning during play requires a teacher who knows it and at least level squared weeks. At creation, one level 1 Ceremony may be chosen when its prerequisite power is known. Unless specifically stated otherwise, beneficial Ceremonies affect only the user. Ghouls, necromancers, or thin-bloods gaining temporary Oblivion powers from empty temperaments do not gain Ceremonies."
+              }
+            ]
+          },
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            },
+            "prerequisites": [
+              "Tenebrous Avatar"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "roadside-killer",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Assassino de Estrada",
+        "en": "Roadside Killer"
+      },
+      "aliases": [
+        "Assassino de Estrada",
+        "Roadside Killer"
+      ],
+      "versions": [
+        {
+          "id": "roadside-killer-streets",
+          "book": "let-the-streets-run-red-v5",
+          "sourceTitle": "Let the Streets Run Red, pp. 75–76",
+          "pages": [
+            {
+              "pdfPage": 76,
+              "printedPage": 75
+            },
+            {
+              "pdfPage": 77,
+              "printedPage": 76
+            }
+          ],
+          "sourceLanguage": "en",
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Você pertence ao mundo dos andarilhos, turistas e caminhoneiros: sempre em movimento, nunca em casa. Sabe identificar aqueles cujas mortes serão tratadas como um risco de viajar sozinha pedindo carona, ou cuja ausência simplesmente não será sentida. Ainda precisa manter outros vampiros afastados dessas pessoas para que o rebanho não diminua demais.\n\nEm vida, você era uma dessas pessoas ou conheceu esses viajantes quando descansavam em sua parada à beira da estrada."
+              },
+              {
+                "title": "Escolhas e benefícios de criação",
+                "text": "- Uma Especialização em Sobrevivência (a estrada) ou Investigação (gíria vampírica).\n- Um ponto em Fortitude ou Proteanismo.\n- Dois pontos adicionais de Rebanho migratório.\n- O Defeito Exclusão de Presa (moradores locais)."
+              },
+              {
+                "title": "Sistema do Rebanho migratório",
+                "text": "Um rebanho de viajantes — andarilhos, hippies, turistas, motociclistas ou caminhoneiros — não sofre nem conta para o limite de Rebanho da cidade, nas regras de escassez de cidades pequenas deste suplemento. Entretanto, é pouco confiável: uma avaliação negativa que afaste turistas ou cortes em uma transportadora podem reduzir muito o fluxo de pessoas.\n\nNo início de cada arco de história, o jogador rola um dado:\n- 6–10: o Rebanho permanece normal.\n- 3–5: perde um ponto de valor, até o mínimo de zero.\n- 1–2: perde dois pontos de valor, até o mínimo de zero.\n\nNas duas primeiras ocorrências dessa redução, não consecutivas, a perda é temporária; o jogador simplesmente rola novamente no início da próxima história. Uma terceira redução torna o problema permanente. O Narrador devolve os pontos de experiência investidos, e a personagem precisa formar um novo rebanho migratório."
+              },
+              {
+                "title": "Exceções e escopo",
+                "text": "Os dois pontos de Rebanho são adicionais, conforme o texto deste Predador; não substituem o orçamento inicial de Vantagens. A ausência de alteração de Humanidade ou Potência no pacote não concede qualquer bônus nessas características. As regras de escassez e a redução do Rebanho são conduzidas pelo Narrador; selecionar este Predador não automatiza eventos de história."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "You belong with the vagabonds, tourists, and truckers of the world — always moving, never at home. You know how to pick out the ones whose deaths are discounted as the risk of a woman hitchhiking alone, or who simply won’t be missed at all. You still have to fight to keep other vampires away from them lest the herd thins too much, though.\n\nIn life, you either were one of them, or you met these vagrants as they rested at your roadside stop."
+              },
+              {
+                "title": "Creation choices and benefits",
+                "text": "- Add a specialty Survival (the road) or Investigation (vampire cant).\n- Add one dot of Fortitude or Protean.\n- Gain two additional dots of migrating Herd.\n- Gain the Flaw Prey Exclusion (locals)."
+              },
+              {
+                "title": "Migrating Herd system",
+                "text": "A herd of travelers — vagrants, hippies, tourists, bikers, or truckers — neither suffers from nor counts toward the town’s Herd cap under this supplement’s small-town scarcity rules. Such a herd is unreliable: one bad review keeping tourists away, or downsizing at a trucking company, can drastically reduce the flow of travelers.\n\nAt the start of every story arc, the player rolls one die:\n- 6–10: the character’s Herd is fine.\n- 3–5: the Herd loses one rating dot, to a minimum of zero.\n- 1–2: it loses two rating dots, to a minimum of zero.\n\nThe first two times this happens, non-consecutively, the Herd is temporarily reduced; the player simply rolls again at the start of the next story. A third downsizing makes the problem permanent. The Storyteller refunds the player’s experience points, and the character must build a new migrating herd."
+              },
+              {
+                "title": "Exceptions and scope",
+                "text": "The two Herd dots are additional, as stated in this Predator Type; they do not replace the initial Advantage budget. The package lists no Humanity or Blood Potency change and grants no bonus to those traits. The Storyteller handles scarcity rules and Herd reductions; selecting this Predator Type does not automate story events."
+              }
+            ]
+          },
+          "pdfSha256": "79925d9478482faf38d236e3563ac7154777613cb696b28a96fc9bd6c3cf6b08"
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-ausp-cios-obeah",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Obeah",
+        "en": "Obeah"
+      },
+      "aliases": [
+        "Obeah"
+      ],
+      "discipline": "Auspícios",
+      "level": 2,
+      "versions": [
+        {
+          "id": "obeah-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, p. 24",
+          "sourceLanguage": "pt-BR",
+          "pages": [
+            {
+              "pdfPage": 24,
+              "printedPage": 24
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 2,
+              "Fortitude": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro acalma um alvo emocionalmente agitado e restaura seu equilíbrio. Em mortais, pode aliviar a agitação ou tranquilizar alguém antes de se alimentar."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 2. Amálgama: Fortitude 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue. Usar o poder em mais de um alvo na mesma noite causa dano superficial adicional à Força de Vontade, conforme o sistema abaixo."
+              },
+              {
+                "title": "Parada",
+                "text": "Autocontrole + Auspícios, Dificuldade 2. Se o usuário dedicar uma cena inteira ao uso, a Dificuldade é 0."
+              },
+              {
+                "title": "Sistema",
+                "text": "O uso normal ocupa um turno inteiro. Um sucesso restaura níveis de dano superficial à Força de Vontade do alvo iguais à margem de sucesso. Alternativamente, restaura um nível de dano agravado à Força de Vontade para cada três sucessos na margem.\n\nQuando usado com sucesso em um mortal emocionalmente agitado, também o acalma; em outras circunstâncias, deixa-o à vontade."
+              },
+              {
+                "title": "Duração",
+                "text": "Não aplicável: o dano é recuperado quando o poder é resolvido."
+              },
+              {
+                "title": "Exceções e limites",
+                "text": "Não pode ser usado em si mesmo. Cada alvo só pode ser afetado uma vez por noite.\n\nPara cada alvo adicional que o usuário acalmar na mesma noite, o usuário sofre dano superficial à Força de Vontade igual à metade dos sucessos na margem desse uso."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire soothes an emotionally agitated subject and restores their composure. With mortals, this can ease distress or put a prospective feeding subject at ease."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 2. Amalgam: Fortitude 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check. Affecting more than one subject in a night also inflicts superficial Willpower damage on the user, as detailed below."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Composure + Auspex, Difficulty 2. Spending an entire scene instead reduces the Difficulty to 0."
+              },
+              {
+                "title": "System",
+                "text": "Ordinary use takes one full turn. A successful test restores superficial Willpower damage equal to the margin of success. Alternatively, each three successes in the margin restore one level of aggravated Willpower damage.\n\nA successful use also calms a distressed mortal; otherwise, it puts that mortal at ease."
+              },
+              {
+                "title": "Duration",
+                "text": "Not applicable: the damage is restored when the power resolves."
+              },
+              {
+                "title": "Exceptions and limits",
+                "text": "The user cannot target themselves. A subject can be affected only once per night.\n\nFor each additional subject soothed in the same night, the user suffers superficial Willpower damage equal to half the successes in that use's margin."
+              }
+            ]
+          },
+          "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329"
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-domina-o-domitor-s-favor",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Favor do Domitor",
+        "en": "Domitor’s Favor"
+      },
+      "aliases": [
+        "Favor do Domitor",
+        "Domitor’s Favor",
+        "Domitor's Favor"
+      ],
+      "discipline": "Dominação",
+      "level": 2,
+      "versions": [
+        {
+          "id": "domitors-favor-players-guide",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, p. 74",
+          "sourceLanguage": "en",
+          "pages": [
+            {
+              "pdfPage": 76,
+              "printedPage": 74
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro condiciona um servo ligado a ele por Laço de Sangue, tornando mais difícil desafiar o domitor. Tzimisce dominadores usam esse poder para assegurar a lealdade de seus servos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 2. O alvo deve estar ligado ao usuário por um Laço de Sangue."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "As rolagens de desafio ao Laço de Sangue feitas pelo servo recebem uma penalidade de três dados. O servo não pode gastar Força de Vontade nessas rolagens.\n\nUma falha total numa rolagem de desafio faz com que o Laço de Sangue não enfraqueça naquele mês. Consulte também as regras de Laço de Sangue do livro básico, pp. 233–244."
+              },
+              {
+                "title": "Duração",
+                "text": "Um mês."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire conditions a thrall already Blood Bound to them, making defiance of the domitor harder. Domineering Tzimisce use this power to secure their servants’ loyalty."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 2. The subject must be Blood Bound to the user."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "The thrall takes a three-dice penalty on Blood Bond defiance rolls and cannot spend Willpower on those rolls.\n\nA total failure on a defiance roll prevents the Blood Bond from weakening that month. See also the Blood Bond rules in the core book, pp. 233–244."
+              },
+              {
+                "title": "Duration",
+                "text": "One month."
+              }
+            ]
+          },
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5"
+        },
+        {
+          "id": "domitors-favor-companion",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, p. 25",
+          "sourceLanguage": "pt-BR",
+          "pages": [
+            {
+              "pdfPage": 25,
+              "printedPage": 25
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro condiciona um servo ligado a ele por Laço de Sangue, tornando mais difícil desafiar o domitor. Tzimisce dominadores usam esse poder para assegurar a lealdade de seus servos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 2. O alvo deve estar ligado ao usuário por um Laço de Sangue."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "As rolagens de desafio ao Laço de Sangue feitas pelo servo recebem uma penalidade de três dados. O servo não pode gastar Força de Vontade nessas rolagens.\n\nUma falha total numa rolagem de desafio faz com que o Laço de Sangue não enfraqueça naquele mês. Consulte também as regras de Laço de Sangue do livro básico, pp. 233–241."
+              },
+              {
+                "title": "Duração",
+                "text": "Um mês."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire conditions a thrall already Blood Bound to them, making defiance of the domitor harder. Domineering Tzimisce use this power to secure their servants’ loyalty."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 2. The subject must be Blood Bound to the user."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "The thrall takes a three-dice penalty on Blood Bond defiance rolls and cannot spend Willpower on those rolls.\n\nA total failure on a defiance roll prevents the Blood Bond from weakening that month. See also the Blood Bond rules in the core book, pp. 233–241."
+              },
+              {
+                "title": "Duration",
+                "text": "One month."
+              }
+            ]
+          },
+          "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329"
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-blood-walk",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Caminho do Sangue",
+        "en": "Blood Walk"
+      },
+      "aliases": [
+        "Caminho do Sangue",
+        "Blood Walk"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "versions": [
+        {
+          "id": "core-v5-ritual-blood-walk-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+          "sourceLanguage": "pt-BR",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 278,
+              "printedPage": 276
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Amplia as informações obtidas sobre o Sangue de um vampiro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um copo de prata cheio de Sangue do alvo, equivalente a um Teste de Sangue."
+              },
+              {
+                "title": "Processo",
+                "text": "Misture o próprio Sangue com o do alvo e repita um encanto sobre o copo por aproximadamente uma hora."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 2."
+              },
+              {
+                "title": "Sistema",
+                "text": "Um sucesso revela o nome e a geração do alvo e seu Senhor. Uma vitória crítica também revela todos os Laços de Sangue ativos no alvo, tanto como domitor quanto como servo. O alvo estudado deve ser um vampiro."
+              },
+              {
+                "title": "Duração",
+                "text": "A informação é obtida ao resolver o ritual."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Reveals additional information about a vampire’s Blood."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A silver cup containing the subject’s Blood, equivalent to one Rouse Check."
+              },
+              {
+                "title": "Process",
+                "text": "Mix the user’s Blood with the subject’s and chant over the cup for approximately one hour."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 2."
+              },
+              {
+                "title": "System",
+                "text": "A success reveals the subject’s name, generation and sire. A critical win also reveals every active Blood Bond involving the subject, both as domitor and as thrall. The subject studied must be a vampire."
+              },
+              {
+                "title": "Duration",
+                "text": "The information is obtained when the ritual resolves."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274."
+              }
+            ]
+          },
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311"
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-clinging-of-the-insect",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Aderência do Inseto",
+        "en": "Clinging of the Insect"
+      },
+      "aliases": [
+        "Aderência do Inseto",
+        "Clinging of the Insect"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "versions": [
+        {
+          "id": "core-v5-ritual-clinging-of-the-insect-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+          "sourceLanguage": "pt-BR",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 278,
+              "printedPage": 276
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Permite aderir a paredes e tetos como um inseto ou aranha."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Uma aranha viva."
+              },
+              {
+                "title": "Processo",
+                "text": "Encha um frasco com o próprio Sangue, esmague a aranha dentro, misture e ingira. Beber a mistura não recupera Fome."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 2."
+              },
+              {
+                "title": "Sistema",
+                "text": "Um sucesso permite se pendurar em paredes e tetos por uma cena; uma vitória crítica estende o efeito por toda a noite. É preciso usar ambas as mãos e os pés, movendo-se a aproximadamente metade da velocidade normal. Só o conjurador pode se beneficiar: outra pessoa que beba a mistura não recebe o efeito."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena; uma noite em uma vitória crítica."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Lets the vampire cling to walls and ceilings like an insect or spider."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A living spider."
+              },
+              {
+                "title": "Process",
+                "text": "Fill a vial with the user’s Blood, crush the spider into it, mix and drink. Drinking the mixture does not reduce Hunger."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 2."
+              },
+              {
+                "title": "System",
+                "text": "A success allows clinging to walls and ceilings for one scene; a critical win extends this to the whole night. Both hands and feet must grip the surface, and movement is approximately half normal speed. Only the caster benefits; giving someone else the mixture has no effect."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene; one night on a critical win."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274."
+              }
+            ]
+          },
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311"
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-craft-bloodstone",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Criar Pedra de Sangue",
+        "en": "Craft Bloodstone"
+      },
+      "aliases": [
+        "Criar Pedra de Sangue",
+        "Craft Bloodstone"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "versions": [
+        {
+          "id": "core-v5-ritual-craft-bloodstone-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+          "sourceLanguage": "pt-BR",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 278,
+              "printedPage": 276
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Cria um rastreador mágico cuja direção e distância o conjurador pode sentir."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um seixo de mineral de ferro ou um ímã pequeno, um litro de sangue de qualquer fonte e uma tigela de prata."
+              },
+              {
+                "title": "Processo",
+                "text": "Adicione o próprio Sangue ao sangue na tigela e entoe um cântico por uma hora. Repita o cântico nas duas noites seguintes. A pedra absorve o sangue durante as três noites, deixando o líquido translúcido. Faça a rolagem ao final da terceira noite."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 2."
+              },
+              {
+                "title": "Sistema",
+                "text": "Um sucesso sintoniza a mente do conjurador com a pedra: ele passa a sentir infalivelmente sua direção e distância. Pode manter e seguir simultaneamente tantas pedras quanto seu valor de Determinação. O efeito termina quando a pedra é destruída ou depois de uma semana."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma semana, ou até a pedra ser destruída."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Creates a magical tracker whose direction and distance the caster can sense."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Ingredients",
+                "text": "An iron-bearing pebble or small magnet, one liter of blood from any source and a silver bowl."
+              },
+              {
+                "title": "Process",
+                "text": "Add the user’s Blood to the blood in the bowl and chant for one hour. Repeat the chant on the following two nights. Over the three nights, the stone absorbs the blood and leaves the liquid translucent. Make the ritual test at the end of the third night."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 2."
+              },
+              {
+                "title": "System",
+                "text": "A success attunes the caster to the stone, letting them sense its direction and distance without error. The caster can maintain and track a number of stones equal to their Resolve rating. The effect ends if the stone is destroyed or after one week."
+              },
+              {
+                "title": "Duration",
+                "text": "One week, or until the stone is destroyed."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274."
+              }
+            ]
+          },
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311"
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-wake-with-evenings-freshness",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Despertar com o Frescor do Anoitecer",
+        "en": "Wake with Evening’s Freshness"
+      },
+      "aliases": [
+        "Despertar com o Frescor do Anoitecer",
+        "Wake with Evening’s Freshness"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "versions": [
+        {
+          "id": "core-v5-ritual-wake-with-evenings-freshness-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+          "sourceLanguage": "pt-BR",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 278,
+              "printedPage": 276
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Realizado antes do amanhecer, permite despertar alerta quando surgir perigo durante o dia."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Ossos e penas calcinados de um galo."
+              },
+              {
+                "title": "Processo",
+                "text": "Misture as cinzas com o próprio Sangue e desenhe um círculo ao redor do local onde dormirá."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 2."
+              },
+              {
+                "title": "Sistema",
+                "text": "Não faça a rolagem até surgir um perigo real. Se o conjurador for ameaçado durante o dia, faça a rolagem do ritual; um sucesso o desperta. Ele ignora as penalidades por ficar acordado durante o dia pelo restante da cena. Em uma vitória crítica, os efeitos duram até o próximo amanhecer."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena após despertar; até o próximo amanhecer em uma vitória crítica."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Performed before dawn, this lets the vampire wake fully alert if danger arises during the day."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Burned bones and feathers of a rooster."
+              },
+              {
+                "title": "Process",
+                "text": "Mix the ashes with the user’s Blood and draw a circle around their sleeping place."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 2."
+              },
+              {
+                "title": "System",
+                "text": "Do not make the ritual test until a real danger occurs. If threatened during the day, the caster makes the test and wakes on a success. They ignore daytime wakefulness penalties for the rest of the scene. A critical win extends the effects until the following dawn."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene after waking; until the following dawn on a critical win."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274."
+              }
+            ]
+          },
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311"
+        }
+      ]
+    },
+    {
+      "id": "valeren",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Valeren",
+        "en": "Valeren"
+      },
+      "aliases": [
+        "Valeren"
+      ],
+      "discipline": "Fortitude",
+      "level": 3,
+      "versions": [
+        {
+          "id": "valeren-players-guide",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Player’s Guide V5, p. 75",
+          "sourceLanguage": "en",
+          "pages": [
+            {
+              "pdfPage": 77,
+              "printedPage": 75
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 3,
+              "Auspícios": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro projeta sua Fortitude para reparar o corpo ferido de outro vampiro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Fortitude 3 nesta versão do Guia do Jogador. Amálgama: Auspícios 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue. Curar mais de um alvo na mesma noite também causa dano superficial à Vitalidade do usuário, conforme as exceções abaixo."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Fortitude, Dificuldade 2. Se o usuário dedicar uma cena inteira ao uso, a Dificuldade é 0."
+              },
+              {
+                "title": "Sistema",
+                "text": "O uso normal ocupa um turno inteiro. Um sucesso recupera níveis de dano superficial à Vitalidade do alvo iguais à margem de sucesso. Alternativamente, recupera um nível de dano agravado à Vitalidade para cada três sucessos na margem."
+              },
+              {
+                "title": "Duração",
+                "text": "Não aplicável: o dano é recuperado quando o poder é resolvido."
+              },
+              {
+                "title": "Exceções e limites",
+                "text": "Só afeta vampiros e não pode ser usado em si mesmo. Cada alvo só pode ser afetado uma vez por noite. Para cada alvo adicional que curar na mesma noite, o usuário sofre dano superficial à Vitalidade igual à metade dos sucessos na margem desse uso."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire projects their Fortitude to repair another vampire’s injured body."
+              },
+              {
+                "title": "Requirements",
+                "text": "Fortitude 3 in this Player’s Guide version. Amalgam: Auspex 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check. Mending more than one subject in a night also inflicts superficial Health damage on the user, as detailed in the exceptions below."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Fortitude, Difficulty 2. Spending an entire scene instead reduces the Difficulty to 0."
+              },
+              {
+                "title": "System",
+                "text": "Ordinary use takes one full turn. A success restores superficial Health damage equal to the margin of success. Alternatively, each three successes in the margin restore one level of aggravated Health damage."
+              },
+              {
+                "title": "Duration",
+                "text": "Not applicable: the damage is restored when the power resolves."
+              },
+              {
+                "title": "Exceptions and limits",
+                "text": "Only vampires can be affected, and the user cannot target themselves. A subject can be affected only once per night. For each additional subject mended in the same night, the user suffers superficial Health damage equal to half the successes in that use's margin."
+              }
+            ]
+          },
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5"
+        },
+        {
+          "id": "valeren-companion",
+          "book": "companion-v5",
+          "level": 2,
+          "sourceTitle": "Companion V5, p. 25",
+          "sourceLanguage": "pt-BR",
+          "pages": [
+            {
+              "pdfPage": 25,
+              "printedPage": 25
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 2,
+              "Auspícios": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro projeta sua Fortitude para reparar o corpo ferido de outro vampiro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Fortitude 2 nesta versão do Companion. Amálgama: Auspícios 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue. Curar mais de um alvo na mesma noite também causa dano superficial à Vitalidade do usuário, conforme as exceções abaixo."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Fortitude, Dificuldade 2. Se o usuário dedicar uma cena inteira ao uso, a Dificuldade é 0."
+              },
+              {
+                "title": "Sistema",
+                "text": "O uso normal ocupa um turno inteiro. Um sucesso recupera níveis de dano superficial à Vitalidade do alvo iguais à margem de sucesso. Alternativamente, recupera um nível de dano agravado à Vitalidade para cada três sucessos na margem."
+              },
+              {
+                "title": "Duração",
+                "text": "Não aplicável: o dano é recuperado quando o poder é resolvido."
+              },
+              {
+                "title": "Exceções e limites",
+                "text": "Só afeta vampiros e não pode ser usado em si mesmo. Cada alvo só pode ser afetado uma vez por noite. Para cada alvo adicional que curar na mesma noite, o usuário sofre dano superficial à Vitalidade igual à metade dos sucessos na margem desse uso."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire projects their Fortitude to repair another vampire’s injured body."
+              },
+              {
+                "title": "Requirements",
+                "text": "Fortitude 2 in this Companion version. Amalgam: Auspex 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check. Mending more than one subject in a night also inflicts superficial Health damage on the user, as detailed in the exceptions below."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Fortitude, Difficulty 2. Spending an entire scene instead reduces the Difficulty to 0."
+              },
+              {
+                "title": "System",
+                "text": "Ordinary use takes one full turn. A success restores superficial Health damage equal to the margin of success. Alternatively, each three successes in the margin restore one level of aggravated Health damage."
+              },
+              {
+                "title": "Duration",
+                "text": "Not applicable: the damage is restored when the power resolves."
+              },
+              {
+                "title": "Exceptions and limits",
+                "text": "Only vampires can be affected, and the user cannot target themselves. A subject can be affected only once per night. For each additional subject mended in the same night, the user suffers superficial Health damage equal to half the successes in that use's margin."
+              }
+            ]
+          },
+          "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329"
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-ward-against-ghouls",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Proteção contra Carniçais",
+        "en": "Ward Against Ghouls"
+      },
+      "aliases": [
+        "Proteção contra Carniçais",
+        "Ward Against Ghouls"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "versions": [
+        {
+          "id": "ward-against-ghouls-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 274–276",
+          "sourceLanguage": "pt-BR",
+          "pages": [
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 277,
+              "printedPage": 275
+            },
+            {
+              "pdfPage": 278,
+              "printedPage": 276
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Protege um objeto contra carniçais. Ao ser tocado por um carniçal, o glifo provoca queimaduras e terror, usando as regras gerais de Proteções."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 1. Conhecer esta Proteção não concede conhecimento do ritual Círculo de Proteção contra Carniçais, nem o contrário."
+              },
+              {
+                "title": "Custo e ingredientes",
+                "text": "Um Teste de Sangue. Não exige ingredientes além do Sangue do conjurador."
+              },
+              {
+                "title": "Processo",
+                "text": "Derrame o próprio Sangue sobre o objeto e desenhe o glifo com um dedo nu. Ao limpar o Sangue, a Proteção fica invisível. Uma Proteção só cobre um espaço de aproximadamente um metro: pode proteger um volante, por exemplo, mas não um carro inteiro. Pela regra geral de rituais, o tempo de conjuração deste nível é cinco minutos."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 2. Não faça a rolagem até o primeiro carniçal tocar a Proteção."
+              },
+              {
+                "title": "Sistema",
+                "text": "Um sucesso causa um ponto de dano agravado à Vitalidade do intruso. Uma vitória crítica causa três pontos. A rolagem é feita para o primeiro intruso, não novamente para cada um que tocar o objeto.\n\nUm intruso já afetado que queira tocar novamente deve gastar um ponto de Força de Vontade e vencer Vigor + Determinação, Dificuldade 4; a Dificuldade é 7 se a Proteção foi criada com uma vitória crítica."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o objeto ser fisicamente destruído ou quebrado. O intruso não consegue destruir ou quebrar o objeto protegido."
+              },
+              {
+                "title": "Exceções e detecção",
+                "text": "Contato forçado não aciona a Proteção: atacar alguém com uma espada protegida não a ativa, mas um carniçal que tente pegá-la a aciona. Luvas e outras peças de vestuário não impedem o efeito.\n\nSentir o Invisível (Auspícios 1) pode detectar uma Proteção com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador."
+              },
+              {
+                "title": "Aprendizado",
+                "text": "Pode ser a escolha gratuita de ritual de nível 1 na criação para quem tem Feitiçaria de Sangue. Aprender posteriormente custa 3 XP e exige pelo menos uma semana, conforme a regra geral de aprendizado do livro básico, p. 272."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Wards an object against ghouls. A ghoul touching the glyph suffers burns and terror under the general Ward rules."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 1. Knowing this Ward does not grant the Warding Circle Against Ghouls ritual, or vice versa."
+              },
+              {
+                "title": "Cost and ingredients",
+                "text": "One Rouse Check. No ingredient beyond the caster’s Blood is required."
+              },
+              {
+                "title": "Process",
+                "text": "Pour the caster’s Blood onto the object and draw the glyph with a bare finger. Wiping away the Blood makes the Ward invisible. A Ward covers a space of approximately one meter: it can protect a steering wheel, for example, but not an entire car. Under the general ritual rules, casting at this level takes five minutes."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 2. Do not make this test until the first ghoul touches the Ward."
+              },
+              {
+                "title": "System",
+                "text": "A success inflicts one level of aggravated Health damage on the intruder. A critical win inflicts three levels. Make the test for the first intruder rather than separately for every intruder touching the object.\n\nAn affected intruder wishing to touch it again must spend one Willpower point and succeed at Stamina + Resolve, Difficulty 4; use Difficulty 7 if the Ward achieved a critical win."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the object is physically destroyed or broken. The intruder cannot destroy or break the warded object."
+              },
+              {
+                "title": "Exceptions and detection",
+                "text": "Forced contact does not trigger the Ward: striking someone with a warded sword does not activate it, but a ghoul attempting to pick it up does. Gloves or other clothing do not prevent the effect.\n\nSense the Unseen (Auspex 1) can detect a Ward with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery."
+              },
+              {
+                "title": "Learning",
+                "text": "A character with Blood Sorcery may select this as their free level 1 ritual at creation. Learning it later costs 3 XP and requires at least one week under the general learning rules in the core book, p. 272."
+              }
+            ]
+          },
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "core-v5-ritual-clinging-of-the-insect",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Aderência do Inseto",
+    "en": "Clinging of the Insect"
+  },
+  "aliases": [
+    "Aderência do Inseto",
+    "Clinging of the Insect"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "core-v5-ritual-clinging-of-the-insect-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 278,
+          "printedPage": 276
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite aderir a paredes e tetos como um inseto ou aranha."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma aranha viva."
+          },
+          {
+            "title": "Processo",
+            "text": "Encha um frasco com o próprio Sangue, esmague a aranha dentro, misture e ingira. Beber a mistura não recupera Fome."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 2."
+          },
+          {
+            "title": "Sistema",
+            "text": "Um sucesso permite se pendurar em paredes e tetos por uma cena; uma vitória crítica estende o efeito por toda a noite. É preciso usar ambas as mãos e os pés, movendo-se a aproximadamente metade da velocidade normal. Só o conjurador pode se beneficiar: outra pessoa que beba a mistura não recebe o efeito."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena; uma noite em uma vitória crítica."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Lets the vampire cling to walls and ceilings like an insect or spider."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A living spider."
+          },
+          {
+            "title": "Process",
+            "text": "Fill a vial with the user’s Blood, crush the spider into it, mix and drink. Drinking the mixture does not reduce Hunger."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 2."
+          },
+          {
+            "title": "System",
+            "text": "A success allows clinging to walls and ceilings for one scene; a critical win extends this to the whole night. Both hands and feet must grip the surface, and movement is approximately half normal speed. Only the caster benefits; giving someone else the mixture has no effect."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene; one night on a critical win."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274."
+          }
+        ]
+      }
+    }
+  ]
+}

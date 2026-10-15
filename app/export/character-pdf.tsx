@@ -1,0 +1,103 @@
+import React from "react";
+import { Document, Page, Text, View, Svg, Circle, Rect, Line, StyleSheet, pdf } from "@react-pdf/renderer";
+import { bloodBenefits } from "../play/blood";
+import { humanityTrack } from "../play/dice";
+import { POWER_CATALOG } from "../game-rules";
+import {resolveContent} from "../content/resolve";
+import {powerForSources} from "../content/power-eligibility";
+import {normalizeActiveSourcebooks} from "../creation-sources";
+import {sourcebookLabel,SOURCEBOOKS} from "../sourcebooks";
+import type { Locale } from "../preferences";
+import type { ExportRule, ExportSnapshot } from "./character-snapshot";
+
+const labels: Record<string, string> = { Identidade:"Identity", Conceito:"Concept", Clã:"Clan", Senhor:"Sire", "Nome mortal":"Mortal name", "Ano do Abraço":"Embrace year", "Idade real":"Actual age", "Idade aparente":"Apparent age", Nascimento:"Birth", Morte:"Death", "Categoria de criação":"Creation category", Geração:"Generation", Crônica:"Chronicle", Ressonância:"Resonance", Atributos:"Attributes", Habilidades:"Skills", Disciplinas:"Disciplines", Especializações:"Specialties", Vantagens:"Advantages", Defeitos:"Flaws", Predador:"Predator", "Escolhas do Predador":"Predator choices", Ambição:"Ambition", Desejo:"Desire", "Fraqueza do Clã":"Clan Bane", "Compulsão do Clã":"Clan Compulsion", "Pilares e Convicções":"Touchstones and Convictions", Pilar:"Touchstone", Convicção:"Conviction", Vitalidade:"Health", Vontade:"Willpower", Humanidade:"Humanity", Máculas:"Stains", Fome:"Hunger", Potência:"Potency", "Estado da sessão":"Session state", Noite:"Night", Turno:"Turn", "XP total":"Total XP", "XP gasto":"Spent XP", "XP disponível":"Available XP", "Regras da crônica":"Chronicle rules", "Preceitos da crônica":"Chronicle tenets", "Fontes habilitadas":"Enabled sources", "Compras com XP":"XP purchases", Aparência:"Appearance", "Traços distintivos":"Distinguishing traits", História:"History", Notas:"Notes", "Vantagens livres":"Free-form advantages", "Defeitos livres":"Free-form flaws", "Referência de sessão":"Session reference", "Regras dos itens":"Item rules", "Sem nome":"Unnamed", "Não preenchido":"Not filled in", Força:"Strength", Destreza:"Dexterity", Vigor:"Stamina", Carisma:"Charisma", Manipulação:"Manipulation", Autocontrole:"Composure", Inteligência:"Intelligence", Raciocínio:"Wits", Determinação:"Resolve", Atletismo:"Athletics", Briga:"Brawl", Furtividade:"Stealth", "Armas Brancas":"Melee", "Armas de Fogo":"Firearms", Condução:"Drive", Ladroagem:"Larceny", Ofícios:"Craft", Sobrevivência:"Survival", "Empatia com Animais":"Animal Ken", Etiqueta:"Etiquette", Intimidação:"Intimidation", Liderança:"Leadership", Manha:"Streetwise", Performance:"Performance", Persuasão:"Persuasion", Sagacidade:"Insight", Subterfúgio:"Subterfuge", Ciência:"Science", Erudição:"Academics", Finanças:"Finance", Investigação:"Investigation", Medicina:"Medicine", Ocultismo:"Occult", Percepção:"Awareness", Política:"Politics", Tecnologia:"Technology", Celeridade:"Celerity", PotênciaDisciplina:"Potence", Presença:"Presence", Proteanismo:"Protean", Auspícios:"Auspex", Dominação:"Dominate", Ofuscação:"Obfuscate", Oblívio:"Oblivion", "Feitiçaria de Sangue":"Blood Sorcery", Animalismo:"Animalism", Fortitude:"Fortitude" };
+const styles = StyleSheet.create({ page:{padding:32,paddingTop:36,paddingBottom:42,fontFamily:"Helvetica",fontSize:9,color:"#202020",backgroundColor:"#fff"}, header:{borderBottomWidth:2,borderBottomColor:"#9f1825",paddingBottom:10,marginBottom:14}, brand:{fontFamily:"Times-Roman",fontSize:26,lineHeight:1.2,color:"#9f1825",letterSpacing:2}, name:{fontSize:17,lineHeight:1.2,marginTop:7}, meta:{fontSize:8,color:"#555"}, title:{fontFamily:"Helvetica-Bold",fontSize:12,color:"#9f1825",marginTop:13,marginBottom:6}, row:{flexDirection:"row",borderBottomWidth:0.3,borderBottomColor:"#ccc",paddingVertical:4}, key:{width:"43%",color:"#555",paddingRight:8}, value:{width:"57%"}, columns:{flexDirection:"row",gap:18}, column:{width:"48%"}, paragraph:{marginBottom:6}, item:{marginBottom:9}, sub:{fontFamily:"Helvetica-Bold",fontSize:10,marginBottom:4}, footer:{position:"absolute",bottom:22,left:32,fontSize:8,color:"#666"}, track:{marginBottom:6}, trackLabel:{fontFamily:"Helvetica-Bold",marginBottom:3}, notice:{borderLeftWidth:2,borderLeftColor:"#9f1825",paddingLeft:7,marginVertical:6}, rules:{fontSize:8.5}, ruleTitle:{fontFamily:"Helvetica-Bold",fontSize:12,marginTop:12,marginBottom:5}, sectionTitle:{fontFamily:"Helvetica-Bold",marginTop:5,marginBottom:3} });
+
+function Markers({ value, max=5, superficial=0, aggravated=0, stains=0, square=false }: { value:number;max?:number;superficial?:number;aggravated?:number;stains?:number;square?:boolean }) {
+  const count = Math.max(0,Math.min(20,Math.trunc(max)));
+  return <Svg width={count*14} height={13} viewBox={`0 0 ${count*14} 13`}>{Array.from({length:count},(_,i)=>{
+    const x=i*14+2,filled=i<value,damage=i<aggravated?2:i<aggravated+superficial?1:0,stain=i>=count-stains&&i>=value;
+    return <React.Fragment key={i}>{square?<Rect x={x} y={2} width={9} height={9} stroke="#222" strokeWidth={0.8} fill={filled?"#222":"#fff"}/>:<Circle cx={x+4.5} cy={6.5} r={4.5} stroke="#222" strokeWidth={0.8} fill={filled?"#222":"#fff"}/>}{(damage>0||stain)?<Line x1={x+1} y1={10} x2={x+8} y2={3} stroke="#222" strokeWidth={1}/>:null}{(damage===2||stain)?<Line x1={x+1} y1={3} x2={x+8} y2={10} stroke="#222" strokeWidth={1}/>:null}</React.Fragment>;
+  })}</Svg>;
+}
+
+export function CharacterPdfDocument({ snapshot:s, locale, rules=[] }: {snapshot:ExportSnapshot;locale:Locale;rules?:ExportRule[]}) {
+  const en=locale==="en", t=(key:string)=>en?(labels[key]||key):key;
+  const itemName=(name:string,discipline?:string)=>resolveContent(name,{discipline})?.names[locale]||name;
+  const chronicleLabels:Record<string,string>=en?{customTargets:"Custom creation budgets",meritPoints:"Advantage dots",flawPoints:"Flaw dots",disciplinePoints:"Discipline dots",generationOverride:"Generation exception",exemptStainPenaltyOnFrenzy:"Frenzy exempt from Stain penalty",notes:"Storyteller notes"}:{customTargets:"Orçamentos personalizados de criação",meritPoints:"Pontos de Vantagens",flawPoints:"Pontos de Defeitos",disciplinePoints:"Pontos de Disciplinas",generationOverride:"Exceção de Geração",exemptStainPenaltyOnFrenzy:"Frenesi isento da penalidade por Máculas",notes:"Anotações do mestre"};
+  const track=humanityTrack(s.humanity,s.stains), benefits=bloodBenefits(s.potency);
+  const row=(key:string,value:React.ReactNode)=>typeof value==="string"&&value.length>300?<View key={key} style={styles.item}><Text style={styles.meta} minPresenceAhead={20}>{t(key)}</Text>{paragraphs(value)}</View>:<View style={styles.row} key={key} wrap={false}><Text style={styles.key}>{t(key)}</Text><View style={styles.value}>{typeof value==="string"||typeof value==="number"?<Text>{String(value)||t("Não preenchido")}</Text>:value}</View></View>;
+  const heading=(title:string)=><Text style={styles.title} minPresenceAhead={28}>{t(title)}</Text>;
+  const paragraphs=(text:string)=>text.split(/\n\s*\n/).map((p,i)=><Text key={i} style={[styles.paragraph,{lineHeight:1.35}]} orphans={2} widows={2}>{p.replace(/^#{1,6}\s*/gm,"").replace(/\*\*([^*]+)\*\*/g,"$1").replaceAll("−","-")}</Text>);
+  const traits=(title:string,values:Record<string,number>)=><View>{heading(title)}{Object.entries(values).map(([name,value])=>row(name,<View style={{flexDirection:"row",gap:5}}><Markers value={value}/><Text>{value}</Text></View>))}</View>;
+  const meritList=(title:string,items:typeof s.merits)=><View>{heading(title)}{items.length?items.map((item,i)=><View key={i} style={styles.item}><View wrap={false}><Text style={styles.sub}>{item.name} ({item.dots})</Text><Markers value={item.dots} max={Math.max(5,item.dots)}/></View>{item.source&&<Text style={styles.meta}>{item.source}</Text>}{item.notes&&paragraphs(item.notes)}</View>):<Text>—</Text>}</View>;
+  const identityLabels:Record<string,string>={sire:"Senhor",mortalName:"Nome mortal",embraceYear:"Ano do Abraço",trueAge:"Idade real",apparentAge:"Idade aparente",birthDate:"Nascimento",deathDate:"Morte",ageCategory:"Categoria de criação",generation:"Geração",chronicle:"Crônica",resonance:"Ressonância"};
+  return <Document title={`Carniçal — ${s.name}`} author="Carniçal" language={en?"en":"pt-BR"}>
+    <Page size="A4" style={styles.page} wrap>
+      <View style={styles.header}><Text style={styles.brand}>CARNIÇAL</Text><Text style={styles.name}>{s.name||t("Sem nome")}</Text></View>
+      {heading("Identidade")}{row("Conceito",s.concept)}{row("Clã",s.clan)}{Object.entries(s.identity).filter(([,v])=>v).map(([k,v])=>row(identityLabels[k],v))}{row("Potência",s.potency)}
+      {heading("Estado da sessão")}
+      {[{name:"Vitalidade",max:s.healthMax,superficial:s.healthSuperficial,aggravated:s.healthAggravated},{name:"Vontade",max:s.willpowerMax,superficial:s.willpowerSuperficial,aggravated:s.willpowerAggravated}].map(item=><View key={item.name} style={styles.track} wrap={false}><Text style={styles.trackLabel}>{t(item.name)} {item.max} · {en?"Superficial":"Superficial"} {item.superficial} · {en?"Aggravated":"Agravado"} {item.aggravated}</Text><Markers value={0} max={item.max} square superficial={item.superficial} aggravated={item.aggravated}/></View>)}
+      <View style={styles.track} wrap={false}><Text style={styles.trackLabel}>{t("Humanidade")} {s.humanity} · {t("Máculas")} {s.stains}</Text><Markers value={s.humanity} max={10} square stains={Math.min(s.stains,10-s.humanity)}/><Text style={styles.meta}>{en?"Solid: Humanity · X: Stain · /: superficial damage · X: aggravated damage":"Cheio: Humanidade · X: Mácula · /: dano superficial · X: dano agravado"}</Text></View>
+      {row("Fome",<Markers value={s.hunger} max={5} square/>)}{row("Noite",s.session.night+1)}{row("Turno",s.session.turn+1)}
+      <Text style={styles.meta}>{en?"Last superficial mend turn":"Último turno de recuperação superficial"}: {s.session.lastMendTurn===null?"—":s.session.lastMendTurn+1}. {en?"Last aggravated recovery night":"Última noite de recuperação agravada"}: {s.session.lastAggravatedNight===null?"—":s.session.lastAggravatedNight+1}.</Text>
+      <Text style={styles.meta}>{en?"Aggravated damage nights":"Noites dos danos agravados"}: {s.session.aggravatedNights.map(n=>n+1).join(", ")||"—"}.</Text>
+      {(s.impaired||track.impaired)&&<Text style={styles.notice}>{en?"Impaired by Stains: -2 dice. Lasts until Remorse or voluntary Humanity loss.":"Debilitado pelas Máculas: -2 dados. Mantido até Remorso ou perda voluntária de Humanidade."}</Text>}
+      {s.session.torpor&&<Text style={styles.notice}>Torpor</Text>}{s.humanity===0&&<Text style={styles.notice}>{en?"Humanity 0: character under Storyteller control.":"Humanidade 0: personagem sob controle do Narrador."}</Text>}
+      <View style={styles.columns}><View style={styles.column}>{traits("Atributos",s.attributes)}</View><View style={styles.column}>{traits("Habilidades",s.skills)}</View></View>
+      {heading("Especializações")}{s.specialties.map((item,i)=><Text key={i} style={styles.paragraph}>{t(item.skill)}: {item.name}{item.source?` (${item.source})`:""}</Text>)}
+      {heading("Disciplinas")}{Object.entries(s.disciplines).map(([name,level])=><View key={name} style={styles.item}><View wrap={false}><Text style={styles.sub}>{name==="Potência"&&en?"Potence":t(name)} ({level})</Text><Markers value={level}/></View>{(s.powers[name]||[]).map((power,i)=><Text key={i}>• {itemName(power,name)}</Text>)}</View>)}
+      {heading("Predador")}{paragraphs(itemName(s.predator)||"—")}{s.predatorDiscipline&&paragraphs(t(s.predatorDiscipline))}{s.predatorSpecialty&&paragraphs(s.predatorSpecialty)}
+      {Object.keys(s.predatorResolutions).length>0&&heading("Escolhas do Predador")}{Object.entries(s.predatorResolutions).map(([key,value])=><Text key={key} style={styles.paragraph}>{key}: {value}{s.predatorNotes[key]?` — ${s.predatorNotes[key]}`:""}</Text>)}
+      {meritList("Vantagens",s.merits)}{meritList("Defeitos",s.flaws)}
+      {heading("Fraqueza do Clã")}{paragraphs(s.bane||"—")}{heading("Compulsão do Clã")}{paragraphs(s.compulsion||"—")}
+      {heading("Pilares e Convicções")}{s.anchors.map((anchor,i)=><View key={i} style={styles.item}><Text style={styles.sub} minPresenceAhead={20}>{t("Pilar")} {i+1}</Text>{paragraphs(anchor.touchstone||"—")}<Text style={styles.sub} minPresenceAhead={20}>{t("Convicção")}</Text>{paragraphs(anchor.conviction||"—")}</View>)}
+      {heading("Ambição")}{paragraphs(s.ambition||"—")}{heading("Desejo")}{paragraphs(s.desire||"—")}
+      {heading("Compras com XP")}{row("XP total",s.xpTotal)}{row("XP gasto",s.xpSpent)}{row("XP disponível",s.xpTotal-s.xpSpent)}
+      {s.purchases.map((purchase,i)=><Text key={i} style={styles.paragraph}>{purchase.name} · {purchase.from} → {purchase.to} · {purchase.cost} XP</Text>)}
+      {heading("Regras da crônica")}<Text style={styles.paragraph}>{en?"XP calculation":"Cálculo de XP"}: {s.xpCostMode==="current_level"?en?"current level × factor (minimum level 1)":"nível atual × fator (mínimo 1)":en?"new level × factor":"novo nível × fator"}.</Text>
+      {Object.entries(s.chronicleRules).filter(([key])=>key in chronicleLabels).map(([key,value])=><Text key={key} style={styles.paragraph}>{chronicleLabels[key]}: {typeof value==="boolean"?(value?(en?"Yes":"Sim"):(en?"No":"Não")):String(value)}</Text>)}
+      {s.tenets&&<>{heading("Preceitos da crônica")}{paragraphs(s.tenets)}</>}{s.sources.length>0&&<>{heading("Fontes habilitadas")}{paragraphs(s.sources.map(source=>sourcebookLabel(source)).join(", "))}</>}
+      {Object.entries(s.prose).filter(([,value])=>value).map(([key,value])=><View key={key}>{heading(({appearance:"Aparência",distinguishingTraits:"Traços distintivos",history:"História",notes:"Notas",advantages:"Vantagens livres",flaws:"Defeitos livres"} as Record<string,string>)[key])}{paragraphs(value)}</View>)}
+      {heading("Referência de sessão")}
+      {paragraphs(en?`Blood Surge: +${benefits.surge} dice for one Attribute roll. One Rouse Check; Hunger increases after the effect. No voluntary use at Hunger 5.\n\nMending: ${benefits.mend} superficial Health per Rouse Check, once per turn. Aggravated: one point per night, from the night following the damage; three Rouse Checks in addition to awakening. Required checks that would raise Hunger above 5 cause Torpor.\n\nRemorse: max(1, 10 - Humanity - Stains), difficulty 1, no Hunger dice. Success preserves Humanity; failure loses 1. Both clear all Stains.\n\nFrenzy resistance: undamaged Willpower + floor(Humanity / 3), including -2 for Stain impairment unless the chronicle exempts it. No Hunger dice, Willpower reroll or Blood Surge. Success takes one turn; critical success allows immediate action.\n\nCore Rulebook pp. 211, 218–219, 239–240; corrected Renegade Blood Potency table.`:`Impulso: +${benefits.surge} dados em uma rolagem com Atributo. Um teste de Sangue; a Fome aumenta depois do efeito. Sem uso voluntário em Fome 5.\n\nRecuperação: ${benefits.mend} dano superficial de Vitalidade por teste de Sangue, uma vez por turno. Agravado: um ponto por noite, a partir da noite seguinte ao dano; três testes de Sangue além do despertar. Testes obrigatórios que levariam a Fome acima de 5 causam Torpor.\n\nRemorso: máx(1, 10 - Humanidade - Máculas), dificuldade 1, sem Fome. Sucesso preserva Humanidade; falha perde 1. Ambos apagam todas as Máculas.\n\nFrenesi: Vontade sem dano + piso(Humanidade / 3), incluindo -2 pela debilitação por Máculas, salvo dispensa da crônica. Sem Fome, rerrolagem por Vontade ou Impulso. Sucesso exige um turno; crítico permite agir imediatamente.\n\nLivro Básico pp. 211, 218–219, 239–240; tabela de Potência corrigida da Renegade.`)}
+      {rules.length>0&&heading("Regras dos itens")}{rules.map(rule=><View key={rule.id} style={styles.rules}><Text style={styles.ruleTitle} minPresenceAhead={30}>{rule.name}</Text><Text style={styles.meta}>{rule.source}</Text>{rule.sections.map((section,i)=><View key={i}><Text style={styles.sectionTitle} minPresenceAhead={20}>{section.title}</Text>{paragraphs(section.text)}</View>)}</View>)}
+      <Text fixed style={styles.footer} render={({pageNumber,totalPages})=>`Carniçal · ${s.name||t("Sem nome")} · ${pageNumber} / ${totalPages}`}/>
+    </Page>
+  </Document>;
+}
+
+export async function createCharacterPdf(snapshot:ExportSnapshot,locale:Locale) {
+  const activeSources=new Set(normalizeActiveSourcebooks(snapshot.sources.length?snapshot.sources:undefined));
+  const selected=Object.entries(snapshot.powers).flatMap(([discipline,names])=>names.map(name=>{
+    const entry=resolveContent(name,{discipline});if(entry)return entry.id;
+    const legacy=POWER_CATALOG.filter(power=>power.discipline===discipline&&power.name===name);
+    return legacy.length===1?legacy[0].id:undefined;
+  }).filter(id=>id!==undefined));
+  const ids=[...selected,...[
+    resolveContent(snapshot.clan,{kind:"clan"}),resolveContent(snapshot.predator,{kind:"predator"}),
+    ...snapshot.merits.map(item=>resolveSavedItem(item,"background")),...snapshot.flaws.map(item=>resolveSavedItem(item,"flaw")),
+  ].filter(item=>item!==undefined).map(item=>item.id)];
+  const rules = await Promise.all([...new Set(ids)].map(async id=>{
+    const power=POWER_CATALOG.find(power=>power.id===id);
+    const book=power?powerForSources(power,activeSources).source.book:undefined;
+    const response=await fetch(`/api/content?id=${encodeURIComponent(id)}&lang=${locale}${book?`&book=${encodeURIComponent(book)}`:""}`,{cache:"no-store"});
+    if(response.status===404&&power){
+      const selectedPower=powerForSources(power,activeSources),en=locale==="en";
+      const sections=[{title:en?"Source reference":"Referência à fonte",text:en?"The full description of this item has not yet been reviewed for the PDF. Consult the original source before using it. The recorded character choice is preserved.":"A descrição completa deste item ainda não foi revisada para o PDF. Consulte a fonte original antes de usá-lo. A escolha registrada na ficha foi preservada."}];
+      if(selectedPower.cost!=="Consultar regra")sections.push({title:en?"Recorded cost":"Custo registrado",text:selectedPower.cost});
+      if(selectedPower.duration!=="Consultar regra")sections.push({title:en?"Recorded duration":"Duração registrada",text:selectedPower.duration});
+      if(selectedPower.pool)sections.push({title:en?"Recorded dice pool":"Parada registrada",text:selectedPower.pool});
+      return {id,name:selectedPower.name,source:selectedPower.source.label,sections} satisfies ExportRule;
+    }
+    if(!response.ok)throw new Error("Missing item rules");
+    return await response.json() as ExportRule;
+  }));
+  return pdf(<CharacterPdfDocument snapshot={snapshot} locale={locale} rules={rules}/>).toBlob();
+}
+function resolveSavedItem(item:{name:string;source:string},kind:"background"|"flaw"){
+  if(["custom","personalizado","conteúdo personalizado","homebrew"].includes(item.source.toLocaleLowerCase("pt-BR")))return undefined;
+  const book=SOURCEBOOKS.find(book=>book.value===item.source||book.libraryId===item.source)?.libraryId;
+  if(kind==="flaw")return resolveContent(item.name,{kind,book});
+  return resolveContent(item.name,{kinds:["background","merit","loresheet"],book});
+}

@@ -1,0 +1,119 @@
+{
+  "id": "core-v5-ritual-blood-walk",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Caminho do Sangue",
+    "en": "Blood Walk"
+  },
+  "aliases": [
+    "Caminho do Sangue",
+    "Blood Walk"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "core-v5-ritual-blood-walk-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 278,
+          "printedPage": 276
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Amplia as informações obtidas sobre o Sangue de um vampiro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um copo de prata cheio de Sangue do alvo, equivalente a um Teste de Sangue."
+          },
+          {
+            "title": "Processo",
+            "text": "Misture o próprio Sangue com o do alvo e repita um encanto sobre o copo por aproximadamente uma hora."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 2."
+          },
+          {
+            "title": "Sistema",
+            "text": "Um sucesso revela o nome e a geração do alvo e seu Senhor. Uma vitória crítica também revela todos os Laços de Sangue ativos no alvo, tanto como domitor quanto como servo. O alvo estudado deve ser um vampiro."
+          },
+          {
+            "title": "Duração",
+            "text": "A informação é obtida ao resolver o ritual."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Reveals additional information about a vampire’s Blood."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A silver cup containing the subject’s Blood, equivalent to one Rouse Check."
+          },
+          {
+            "title": "Process",
+            "text": "Mix the user’s Blood with the subject’s and chant over the cup for approximately one hour."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 2."
+          },
+          {
+            "title": "System",
+            "text": "A success reveals the subject’s name, generation and sire. A critical win also reveals every active Blood Bond involving the subject, both as domitor and as thrall. The subject studied must be a vampire."
+          },
+          {
+            "title": "Duration",
+            "text": "The information is obtained when the ritual resolves."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274."
+          }
+        ]
+      }
+    }
+  ]
+}

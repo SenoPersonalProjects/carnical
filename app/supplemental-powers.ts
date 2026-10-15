@@ -10,9 +10,16 @@ const ritual=(book:SourceRef["book"],chapter:string,label:string,entries:Entry[]
 const formula=(book:SourceRef["book"],chapter:string,label:string,entries:Entry[])=>add(book,chapter,label,"Alquimia do Sangue-Fraco","formula",entries);
 
 export const SUPPLEMENTAL_POWERS:PowerRule[]=[
+  ...[
+    ["clinging-of-the-insect","Aderência do Inseto","Uma cena; uma noite em uma vitória crítica"],
+    ["blood-walk","Caminho do Sangue","Informação obtida ao resolver o ritual"],
+    ["craft-bloodstone","Criar Pedra de Sangue","Uma semana ou até a pedra ser destruída"],
+    ["wake-with-evenings-freshness","Despertar com o Frescor do Anoitecer","Uma cena; até o próximo amanhecer em uma vitória crítica"],
+    ["ward-against-ghouls","Proteção contra Carniçais","Até o objeto ser destruído ou quebrado"],
+  ].map(([id,name,duration]):PowerRule=>({id:`core-v5-ritual-${id}`,name,discipline:"Feitiçaria de Sangue",kind:"ritual",level:1,cost:"Um Teste de Sangue",duration,pool:"Inteligência + Feitiçaria de Sangue",source:{book:"core-v5",chapter:"regras-e-criacao-disciplinas",query:name,label:"Livro Básico V5, pp. 274 e 276"}})),
   ...player("Celeridade",[["Unseen Strike",5,"Ofuscação 4"]]),
   ...player("Dominação",[["Slavish Devotion",1,"Fortitude 1"],["Domitor’s Favor",2],["Ancestral Dominion",4,"Feitiçaria de Sangue 2"],["Implant Suggestion",4,"Presença 1"]]),
-  ...player("Auspícios",[["Obeah",2,"Fortitude 1"]]),
+  {id:"players-guide-v5-power-ausp-cios-obeah",name:"Obeah",discipline:"Auspícios",kind:"power",level:2,cost:"Um Teste de Sangue; Vontade adicional conforme o sistema",duration:"Consultar regra",amalgam:"Fortitude 1",source:{book:"companion-v5",chapter:"companion-v5-parte-i-os-clas-e-suas-aptidoes",query:"Obeah",label:"Companion V5, p. 24"}},
   ...player("Ofuscação",[["Mind Masque",4,"Dominação 2"]]),
   ...player("Potência",[["Relentless Grasp",2],["Wrecker",3],["Crash Down",4],["Subtle Hammer",5]]),
   ...player("Presença",[["Eyes of the Serpent",1,"Proteanismo 1"],["Melpominee",2],["Thrown Voice",3,"Auspícios 1"],["Suffuse the Edifice",4]]),
@@ -33,7 +40,7 @@ export const SUPPLEMENTAL_POWERS:PowerRule[]=[
   ...ritual("sabbat-black-hand-v5","sabbat-black-hand-v5-chapter-2-apostates-of-a-cruel-church","Sabbat: The Black Hand V5, Rituais, PDF pp. 51–52",[["Beelzebeatit",1],["Communal Vigor",3],["Galvanic Ruination",3],["Simulacrum Gate",5]]),
   ...add("sabbat-black-hand-v5","sabbat-black-hand-v5-chapter-2-apostates-of-a-cruel-church","Sabbat: The Black Hand V5, Cerimônias, PDF p. 53","Oblívio","ceremony",[["Blinding the Alloy Eye",2],["Harrowhaunt",3],["Befoul Vessel",4]]).map(item=>({...item,prerequisite:item.name==="Blinding the Alloy Eye"?"Shadow Cast":item.name==="Befoul Vessel"?"Necrotic Touch":undefined})),
   ...formula("sabbat-black-hand-v5","sabbat-black-hand-v5-chapter-2-apostates-of-a-cruel-church","Sabbat: The Black Hand V5, Fórmulas, PDF p. 54",[["Portable Shade",1],["On-Demand Sunburn",3]]),
-  ...add("cultos-deuses-sangue-v5","cultos-deuses-sangue-v5-capitulo-2-religioes-vampiricas","Cultos dos Deuses de Sangue V5, Cerimônias de Shalim, PDF pp. 93–94","Oblívio","ceremony",[["O Chamado do Viajante",2],["Nome do Pai",3],["Poço da Contemplação",5]]),
+  ...add("cultos-deuses-sangue-v5","cultos-deuses-sangue-v5-capitulo-2-religioes-vampiricas","Cultos dos Deuses de Sangue V5, Cerimônias de Shalim, PDF pp. 93–94","Oblívio","ceremony",[["O Chamado do Viajante",1],["Nome do Pai",3],["Poço da Contemplação",5]]).map(item=>({...item,prerequisite:item.name==="O Chamado do Viajante"?"Oblivion’s Sight":item.name==="Nome do Pai"?"Shadow Perspective":"Tenebrous Avatar"})),
   ...add("gehenna-war-v5","gehenna-war-v5-chapter-2-we-who-are-already-dead","Gehenna War V5, Disciplinas, PDF pp. 48–50","Animalismo","power",[["Spirit Walk",5]]),
   ...add("gehenna-war-v5","gehenna-war-v5-chapter-2-we-who-are-already-dead","Gehenna War V5, Disciplinas, PDF pp. 48–50","Celeridade","power",[["Fluent Swiftness",1]]),
   ...add("gehenna-war-v5","gehenna-war-v5-chapter-2-we-who-are-already-dead","Gehenna War V5, Disciplinas, PDF pp. 48–50","Dominação","power",[["Lethe’s Call",5]]),

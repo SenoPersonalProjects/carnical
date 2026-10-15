@@ -1,4 +1,6 @@
 "use client";
+import { UiText, useUiText } from "../ui-text";
+
 
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
@@ -11,6 +13,8 @@ type Book = { id:string; title:string; subtitle:string; language:string; chapter
 type SearchResult = { chapterId:string; count:number; snippet:string };
 
 export default function RulesReader({books,initialBookId,initialChapterId,initialQuery,displayName,signOutPath}:{books:Book[];initialBookId:string;initialChapterId:string;initialQuery:string;displayName:string;signOutPath:string}) {
+  const t=useUiText();
+
   const locale=usePreferredLocale();
   const [bookId,setBookId]=useState(initialBookId);
   const [chapterId,setChapterId]=useState(initialChapterId);
@@ -27,15 +31,15 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
   const book=books.find(item=>item.id===bookId)??books[0];
   const sourceLanguage=book.language==="Inglês"?"en":"pt",targetLanguage=locale==="en"?"en":"pt",needsTranslation=sourceLanguage!==targetLanguage;
   const localizedBook={...book,title:book.id==="core-v5"?(locale==="en"?"Vampire: The Masquerade V5 Core Rulebook":"Vampiro: A Máscara V5 — Livro Básico"):book.title,language:locale==="en"?"English":"Português",chapters:localizedChapters[`${book.id}:${locale}`]??book.chapters};
-  const targetKey=`${bookId}:${chapterId}`,activeError=error?.key===targetKey,loading=loadedKey!==targetKey&&!activeError;
+  const targetKey=`${bookId}:${chapterId}:${locale}`,activeError=error?.key===targetKey,loading=loadedKey!==targetKey&&!activeError;
 
   useEffect(()=>{
     const controller=new AbortController();
     fetch(`/api/rules?book=${encodeURIComponent(bookId)}&chapter=${encodeURIComponent(chapterId)}`,{signal:controller.signal})
       .then(async response=>{if(!response.ok)throw new Error();return await response.json() as {chapter:Chapter}})
-      .then(async result=>{if(needsTranslation){setTranslating(true);return await translateChapter(result.chapter,sourceLanguage,targetLanguage,`${bookId}:${chapterId}:${targetLanguage}`)}return result.chapter})
-      .then(result=>{setChapter(result);setLoadedKey(targetKey);setError(null);setTranslating(false)})
-      .catch(reason=>{if(reason.name!=="AbortError"){setTranslating(false);setError({key:targetKey,message:needsTranslation?"Não foi possível traduzir este capítulo.":"Não foi possível carregar este capítulo."})}});
+      .then(async result=>{if(controller.signal.aborted)return null;if(needsTranslation){setTranslating(true);return await translateChapter(result.chapter,sourceLanguage,targetLanguage,`${bookId}:${chapterId}:${targetLanguage}`)}return result.chapter})
+      .then(result=>{if(controller.signal.aborted||!result)return;setChapter(result);setLoadedKey(targetKey);setError(null);setTranslating(false)})
+      .catch(reason=>{if(!controller.signal.aborted&&reason.name!=="AbortError"){setTranslating(false);setError({key:targetKey,message:needsTranslation?"Não foi possível traduzir este capítulo.":"Não foi possível carregar este capítulo."})}});
     return()=>controller.abort();
   },[bookId,chapterId,retryKey,targetKey,needsTranslation,sourceLanguage,targetLanguage]);
 
@@ -54,8 +58,8 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
       .then(sourceQuery=>fetch(`/api/rules?book=${encodeURIComponent(bookId)}&q=${encodeURIComponent(sourceQuery)}`,{signal:controller.signal}))
         .then(async response=>{if(!response.ok)throw new Error();return await response.json() as {results:SearchResult[]}})
         .then(async result=>{if(!needsTranslation||result.results.length===0)return result.results;const snippets=await translateTextList(result.results.map(item=>item.snippet),sourceLanguage,targetLanguage);return result.results.map((item,index)=>({...item,snippet:snippets[index]||item.snippet}))})
-        .then(results=>setSearchState({key:searchKey,results}))
-        .catch(reason=>{if(reason.name!=="AbortError")setSearchState({key:searchKey,results:[]})});
+        .then(results=>{if(!controller.signal.aborted)setSearchState({key:searchKey,results})})
+        .catch(reason=>{if(!controller.signal.aborted&&reason.name!=="AbortError")setSearchState({key:searchKey,results:[]})});
     },250);
     return()=>{clearTimeout(timer);controller.abort()};
   },[bookId,query,queryFromSourceLink,needsTranslation,sourceLanguage,targetLanguage]);
@@ -73,30 +77,30 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
 
   return <main className="library-shell">
     <header className="library-topbar">
-      <div className="library-brand"><span className="library-sigil">C</span><div><strong>CARNIÇAL</strong><small>BIBLIOTECA DA NOITE</small></div></div>
-      <Link className="back-to-sheet" href="/rules"><ArrowLeft size={16}/>Voltar ao catálogo</Link>
-      <div className="library-user"><Link href="/">Ficha</Link><span>{displayName}</span><a href={signOutPath} target="_top" title="Sair"><LogOut size={17}/></a></div>
-      <button className="library-menu" onClick={()=>setNavOpen(true)} aria-label="Abrir índice"><Menu/></button>
+      <div className="library-brand"><span className="library-sigil"><UiText text="C"/></span><div><strong><UiText text="CARNIÇAL"/></strong><small><UiText text="BIBLIOTECA DA NOITE"/></small></div></div>
+      <Link className="back-to-sheet" href="/rules"><ArrowLeft size={16}/><UiText text="Voltar ao catálogo"/></Link>
+      <div className="library-user"><Link href="/"><UiText text="Ficha"/></Link><span>{displayName}</span><a href={signOutPath} target="_top" title={t("Sair")}><LogOut size={17}/></a></div>
+      <button className="library-menu" onClick={()=>setNavOpen(true)} aria-label={t("Abrir índice")}><Menu/></button>
     </header>
     <div className="library-layout">
       <aside className={`library-sidebar ${navOpen?"open":""}`}>
-        <div className="library-side-head"><span>ACERVO</span><button onClick={()=>setNavOpen(false)} aria-label="Fechar índice"><X size={18}/></button></div>
-        <label className="book-select-label"><span>Livro</span><select className="book-select" value={bookId} onChange={event=>changeBook(event.target.value)}>{books.map(item=><option key={item.id} value={item.id}>{item.title}</option>)}</select></label>
-        <label className="library-search"><Search size={16}/><input value={query} onChange={event=>{setQuery(event.target.value);setQueryFromSourceLink(false)}} placeholder="Buscar neste livro..."/>{query&&<button type="button" onClick={()=>{setQuery("");setQueryFromSourceLink(false)}} aria-label="Limpar busca"><X size={16}/></button>}</label>
-        <div className="book-summary"><strong>{localizedBook.title}</strong><span>{localizedBook.chapters.length} {locale==="en"?"chapters":"capítulos"} · {localizedBook.language}</span></div>
-        <nav className={query?"chapter-nav search-results":"chapter-nav"} aria-label="Capítulos">
-          {query&&!activeSearchComplete&&<p className="search-loading"><LoaderCircle size={16}/>Buscando no livro…</p>}
-          {query&&activeSearchComplete&&visibleChapters.length===0&&<p className="no-results">Nenhum capítulo contém “{query}”.</p>}
-          {sections.map(section=><div key={section}><h2>{section}</h2>{visibleChapters.filter(item=>item.chapter.section===section).map(({chapter:item,count,snippet})=><button key={item.id} className={item.id===chapterId?"active":""} onClick={()=>selectChapter(item.id)}><FileText size={15}/><span><strong>{item.title}</strong>{query&&<><small>{count} {count===1?"ocorrência":"ocorrências"}</small><em><Highlight text={snippet} query={query}/></em></>}</span><ChevronRight size={14}/></button>)}</div>)}
+        <div className="library-side-head"><span><UiText text="ACERVO"/></span><button onClick={()=>setNavOpen(false)} aria-label={t("Fechar índice")}><X size={18}/></button></div>
+        <label className="book-select-label"><span><UiText text="Livro"/></span><select className="book-select" value={bookId} onChange={event=>changeBook(event.target.value)}>{books.map(item=><option key={item.id} value={item.id}>{item.title}</option>)}</select></label>
+        <label className="library-search"><Search size={16}/><input value={query} onChange={event=>{setQuery(event.target.value);setQueryFromSourceLink(false)}} placeholder={t("Buscar neste livro...")}/>{query&&<button type="button" onClick={()=>{setQuery("");setQueryFromSourceLink(false)}} aria-label={t("Limpar busca")}><X size={16}/></button>}</label>
+        <div className="book-summary"><strong>{localizedBook.title}</strong><span>{localizedBook.chapters.length} {locale==="en"?<UiText text="chapters"/>:<UiText text="capítulos"/>} · {localizedBook.language}</span></div>
+        <nav className={query?"chapter-nav search-results":"chapter-nav"} aria-label={t("Capítulos")}>
+          {query&&!activeSearchComplete&&<p className="search-loading"><LoaderCircle size={16}/><UiText text="Buscando no livro…"/></p>}
+          {query&&activeSearchComplete&&visibleChapters.length===0&&<p className="no-results"><UiText text="Nenhum capítulo contém “"/>{query}”.</p>}
+          {sections.map(section=><div key={section}><h2>{section}</h2>{visibleChapters.filter(item=>item.chapter.section===section).map(({chapter:item,count,snippet})=><button key={item.id} className={item.id===chapterId?"active":""} onClick={()=>selectChapter(item.id)}><FileText size={15}/><span><strong>{item.title}</strong>{query&&<><small>{count} {count===1?<UiText text="ocorrência"/>:<UiText text="ocorrências"/>}</small><em><Highlight text={snippet} query={query}/></em></>}</span><ChevronRight size={14}/></button>)}</div>)}
         </nav>
       </aside>
       <article className="reader" aria-busy={loading}>
         {loading&&<div className="reader-loading"><LoaderCircle/>{translating?(locale==="en"?"Translating chapter…":"Traduzindo capítulo…"):(locale==="en"?"Loading chapter…":"Carregando capítulo…")}</div>}
-        {!loading&&activeError&&<div className="reader-error"><p>{error?.message}</p><button onClick={()=>setRetryKey(value=>value+1)}>Tentar novamente</button></div>}
-        {!loading&&!activeError&&chapter&&<><div className="reader-meta"><span>{localizedBook.title}</span><span data-no-auto-translate>{chapter.section}</span></div><div className="reader-title"><div><BookMarked size={22}/></div><div><p>{locale==="en"?"CHAPTER":"CAPÍTULO"}</p><h1 data-no-auto-translate>{chapter.title}</h1></div></div>{query&&chapter.content.toLocaleLowerCase(locale).includes(query.toLocaleLowerCase(locale))&&<div className="search-notice">{locale==="en"?`Matches for “${query}” are highlighted in this chapter.`:`Ocorrências de “${query}” estão destacadas neste capítulo.`}</div>}<div data-no-auto-translate><MarkdownArticle content={chapter.content} query={query}/></div><footer className="reader-footer"><span>{locale==="en"?"Source":"Fonte"}: {localizedBook.title}</span><Link href="/">{locale==="en"?"Back to character creation":"Voltar à criação de personagem"}</Link></footer></>}
+        {!loading&&activeError&&<div className="reader-error"><p>{error?.message}</p><button onClick={()=>setRetryKey(value=>value+1)}><UiText text="Tentar novamente"/></button></div>}
+        {!loading&&!activeError&&chapter&&<><div className="reader-meta"><span>{localizedBook.title}</span><span data-no-auto-translate>{chapter.section}</span></div><div className="reader-title"><div><BookMarked size={22}/></div><div><p>{locale==="en"?<UiText text="CHAPTER"/>:<UiText text="CAPÍTULO"/>}</p><h1 data-no-auto-translate>{chapter.title}</h1></div></div>{query&&chapter.content.toLocaleLowerCase(locale).includes(query.toLocaleLowerCase(locale))&&<div className="search-notice">{locale==="en"?`Matches for “${query}” are highlighted in this chapter.`:`Ocorrências de “${query}” estão destacadas neste capítulo.`}</div>}<div data-no-auto-translate><MarkdownArticle content={chapter.content} query={query}/></div><footer className="reader-footer"><span>{locale==="en"?<UiText text="Source"/>:<UiText text="Fonte"/>}: {localizedBook.title}</span><Link href="/">{locale==="en"?<UiText text="Back to character creation"/>:<UiText text="Voltar à criação de personagem"/>}</Link></footer></>}
       </article>
     </div>
-    {navOpen&&<button className="library-backdrop" onClick={()=>setNavOpen(false)} aria-label="Fechar índice"/>}
+    {navOpen&&<button className="library-backdrop" onClick={()=>setNavOpen(false)} aria-label={t("Fechar índice")}/>}
   </main>;
 }
 

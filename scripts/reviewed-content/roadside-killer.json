@@ -1,0 +1,27 @@
+{
+  "id": "roadside-killer",
+  "kind": "predator",
+  "names": {"pt-BR": "Assassino de Estrada", "en": "Roadside Killer"},
+  "aliases": ["Assassino de Estrada", "Roadside Killer"],
+  "versions": [{
+    "id": "roadside-killer-streets",
+    "book": "let-the-streets-run-red-v5",
+    "sourceTitle": "Let the Streets Run Red, pp. 75–76",
+    "pages": [{"pdfPage":76,"printedPage":75},{"pdfPage":77,"printedPage":76}],
+    "sourceLanguage": "en",
+    "descriptions": {
+      "pt-BR": [
+        {"title":"Descrição","text":"Você pertence ao mundo dos andarilhos, turistas e caminhoneiros: sempre em movimento, nunca em casa. Sabe identificar aqueles cujas mortes serão tratadas como um risco de viajar sozinha pedindo carona, ou cuja ausência simplesmente não será sentida. Ainda precisa manter outros vampiros afastados dessas pessoas para que o rebanho não diminua demais.\n\nEm vida, você era uma dessas pessoas ou conheceu esses viajantes quando descansavam em sua parada à beira da estrada."},
+        {"title":"Escolhas e benefícios de criação","text":"- Uma Especialização em Sobrevivência (a estrada) ou Investigação (gíria vampírica).\n- Um ponto em Fortitude ou Proteanismo.\n- Dois pontos adicionais de Rebanho migratório.\n- O Defeito Exclusão de Presa (moradores locais)."},
+        {"title":"Sistema do Rebanho migratório","text":"Um rebanho de viajantes — andarilhos, hippies, turistas, motociclistas ou caminhoneiros — não sofre nem conta para o limite de Rebanho da cidade, nas regras de escassez de cidades pequenas deste suplemento. Entretanto, é pouco confiável: uma avaliação negativa que afaste turistas ou cortes em uma transportadora podem reduzir muito o fluxo de pessoas.\n\nNo início de cada arco de história, o jogador rola um dado:\n- 6–10: o Rebanho permanece normal.\n- 3–5: perde um ponto de valor, até o mínimo de zero.\n- 1–2: perde dois pontos de valor, até o mínimo de zero.\n\nNas duas primeiras ocorrências dessa redução, não consecutivas, a perda é temporária; o jogador simplesmente rola novamente no início da próxima história. Uma terceira redução torna o problema permanente. O Narrador devolve os pontos de experiência investidos, e a personagem precisa formar um novo rebanho migratório."},
+        {"title":"Exceções e escopo","text":"Os dois pontos de Rebanho são adicionais, conforme o texto deste Predador; não substituem o orçamento inicial de Vantagens. A ausência de alteração de Humanidade ou Potência no pacote não concede qualquer bônus nessas características. As regras de escassez e a redução do Rebanho são conduzidas pelo Narrador; selecionar este Predador não automatiza eventos de história."}
+      ],
+      "en": [
+        {"title":"Description","text":"You belong with the vagabonds, tourists, and truckers of the world — always moving, never at home. You know how to pick out the ones whose deaths are discounted as the risk of a woman hitchhiking alone, or who simply won’t be missed at all. You still have to fight to keep other vampires away from them lest the herd thins too much, though.\n\nIn life, you either were one of them, or you met these vagrants as they rested at your roadside stop."},
+        {"title":"Creation choices and benefits","text":"- Add a specialty Survival (the road) or Investigation (vampire cant).\n- Add one dot of Fortitude or Protean.\n- Gain two additional dots of migrating Herd.\n- Gain the Flaw Prey Exclusion (locals)."},
+        {"title":"Migrating Herd system","text":"A herd of travelers — vagrants, hippies, tourists, bikers, or truckers — neither suffers from nor counts toward the town’s Herd cap under this supplement’s small-town scarcity rules. Such a herd is unreliable: one bad review keeping tourists away, or downsizing at a trucking company, can drastically reduce the flow of travelers.\n\nAt the start of every story arc, the player rolls one die:\n- 6–10: the character’s Herd is fine.\n- 3–5: the Herd loses one rating dot, to a minimum of zero.\n- 1–2: it loses two rating dots, to a minimum of zero.\n\nThe first two times this happens, non-consecutively, the Herd is temporarily reduced; the player simply rolls again at the start of the next story. A third downsizing makes the problem permanent. The Storyteller refunds the player’s experience points, and the character must build a new migrating herd."},
+        {"title":"Exceptions and scope","text":"The two Herd dots are additional, as stated in this Predator Type; they do not replace the initial Advantage budget. The package lists no Humanity or Blood Potency change and grants no bonus to those traits. The Storyteller handles scarcity rules and Herd reductions; selecting this Predator Type does not automate story events."}
+      ]
+    }
+  }]
+}

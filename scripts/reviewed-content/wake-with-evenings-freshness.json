@@ -1,0 +1,119 @@
+{
+  "id": "core-v5-ritual-wake-with-evenings-freshness",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Despertar com o Frescor do Anoitecer",
+    "en": "Wake with Evening’s Freshness"
+  },
+  "aliases": [
+    "Despertar com o Frescor do Anoitecer",
+    "Wake with Evening’s Freshness"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "core-v5-ritual-wake-with-evenings-freshness-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274 e 276",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 278,
+          "printedPage": 276
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Realizado antes do amanhecer, permite despertar alerta quando surgir perigo durante o dia."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Ossos e penas calcinados de um galo."
+          },
+          {
+            "title": "Processo",
+            "text": "Misture as cinzas com o próprio Sangue e desenhe um círculo ao redor do local onde dormirá."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 2."
+          },
+          {
+            "title": "Sistema",
+            "text": "Não faça a rolagem até surgir um perigo real. Se o conjurador for ameaçado durante o dia, faça a rolagem do ritual; um sucesso o desperta. Ele ignora as penalidades por ficar acordado durante o dia pelo restante da cena. Em uma vitória crítica, os efeitos duram até o próximo amanhecer."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena após despertar; até o próximo amanhecer em uma vitória crítica."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Performed before dawn, this lets the vampire wake fully alert if danger arises during the day."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Burned bones and feathers of a rooster."
+          },
+          {
+            "title": "Process",
+            "text": "Mix the ashes with the user’s Blood and draw a circle around their sleeping place."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 2."
+          },
+          {
+            "title": "System",
+            "text": "Do not make the ritual test until a real danger occurs. If threatened during the day, the caster makes the test and wakes on a success. They ignore daytime wakefulness penalties for the rest of the scene. A critical win extends the effects until the following dawn."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene after waking; until the following dawn on a critical win."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274."
+          }
+        ]
+      }
+    }
+  ]
+}

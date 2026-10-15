@@ -1,3 +1,5 @@
+import { creationMagicEligibility, powerForSources } from "./content/power-eligibility";
+import { normalizeActiveSourcebooks } from "./creation-sources";
 import { resolutionComplete } from "./predator-choices";
 import { readAnchors, type Anchor } from "./anchors";
 import { AGE_RULES, DEFAULT_CHRONICLE_RULES, POWER_CATALOG, PREDATOR_RULES, SKILL_PRESETS, rulesUrl, type ChronicleRules, type SourceRef } from "./game-rules";
@@ -11,7 +13,7 @@ type AuditData={
   merits?:Merit[];flawItems?:Merit[];ageCategory?:string;generation?:string;bloodPotency?:number;predator?:string;predatorApplied?:string;
   convictionAnchors?:Anchor[];predatorDiscipline?:string;convictions?:string;touchstones?:string;allowHomebrew?:boolean;
   predatorResolutions?:Record<string,string>;chronicleRules?:ChronicleRules;
-  xpTotal?:string;xpSpent?:string;xpPurchases?:XpPurchase[];
+  xpTotal?:string;xpSpent?:string;xpPurchases?:XpPurchase[];activeSourcebooks?:string[];
 };
 export type AuditableCharacter={name?:string;concept?:string;clan?:string;data:AuditData};
 
@@ -30,9 +32,11 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
   if(!character.concept?.trim())add({id:"identity-concept",kind:"warning",title:"Conceito não preenchido",detail:"O conceito orienta as escolhas da criação, mas pode ser definido depois.",source:creation});
   if(!character.clan?.trim())add({id:"identity-clan",kind:"warning",title:"Clã ou linhagem não definido",detail:"A escolha determina as Disciplinas iniciais e outras regras. Conteúdo personalizado continua permitido.",source:creation});
 
+  const activeSources=new Set(normalizeActiveSourcebooks(data.activeSourcebooks));
+  const powerCatalog=POWER_CATALOG.map(power=>powerForSources(power,activeSources));
   const paidPurchases=data.xpPurchases||[];
   const alchemy="Alquimia do Sangue-Fraco";
-  const freeFormulaNames=character.clan==="Sangue-Ralo"?(data.disciplinePowers?.[alchemy]||[]).filter(name=>POWER_CATALOG.some(power=>power.name===name&&power.discipline===alchemy&&power.kind==="formula")&&!paidPurchases.some(item=>item.kind==="formula"&&item.name===name)).slice(0,data.disciplines?.[alchemy]||0):[];
+  const freeFormulaNames=character.clan==="Sangue-Ralo"?(data.disciplinePowers?.[alchemy]||[]).filter(name=>powerCatalog.some(power=>power.name===name&&power.discipline===alchemy&&power.kind==="formula")&&!paidPurchases.some(item=>item.kind==="formula"&&item.name===name)).slice(0,data.disciplines?.[alchemy]||0):[];
   const purchases:XpPurchase[]=[...paidPurchases,...freeFormulaNames.map(name=>({kind:"formula" as const,name,from:0,to:0,cost:0}))];
   const attributeCounts=counts(purchasedLevels(data.attributes||{},purchases,"attribute"));
   if(!(attributeCounts[4]===1&&attributeCounts[3]===3&&attributeCounts[2]===4&&attributeCounts[1]===1))add({id:"attributes",kind:"warning",title:"Distribuição de Atributos fora do padrão",detail:"O padrão inicial é 1 Atributo em 4, 3 em 3, 4 em 2 e 1 em 1. A ficha não será alterada automaticamente.",source:core("regras-e-criacao-atributos-habilidades-e-especializacoes","Distribuição inicial","Livro Básico V5, pp. 152–171")});
@@ -51,12 +55,30 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
   if(character.clan!=="Sangue-Ralo"&&disciplineDots!==expected)add({id:"discipline-dots",kind:"warning",title:"Total de Disciplinas fora da criação padrão",detail:`A criação comum distribui 3 pontos (2 + 1) e o Predador aplicado normalmente acrescenta 1. Esta ficha tem ${disciplineDots}; o esperado aqui é ${expected}.`,source:disciplines});
   for(const [name,powers] of Object.entries(data.disciplinePowers||{})){
     const dots=data.disciplines?.[name]||0;
-    const normalPowers=powers.filter(powerName=>{const item=POWER_CATALOG.find(power=>power.name===powerName&&power.discipline===name);return !item?.kind||item.kind==="power"});
+    const normalPowers=powers.filter(powerName=>{const item=powerCatalog.find(power=>power.name===powerName&&power.discipline===name);return !item?.kind||item.kind==="power"});
     if(normalPowers.filter(Boolean).length>dots)add({id:`power-count-${name}`,kind:"warning",title:`Mais poderes de ${name} do que pontos`,detail:`Há ${normalPowers.filter(Boolean).length} poderes registrados para ${dots} ponto(s). Rituais e Cerimônias são aprendidos separadamente.`,source:disciplines});
   }
-  let freeCeremonies=0;
-  for(const [disciplineName,powers] of Object.entries(data.disciplinePowers||{})){const dots=data.disciplines?.[disciplineName]||0;for(const name of powers){const power=POWER_CATALOG.find(item=>item.discipline===disciplineName&&item.name===name);if(!power){add({id:`homebrew-power-${disciplineName}-${name}`,kind:"info",title:`Poder personalizado: ${name}`,detail:`Este nome não está no catálogo indexado de ${disciplineName}. Ele foi preservado como conteúdo personalizado.`});continue}if(power.level>dots)add({id:`power-level-${power.id}`,kind:"warning",title:`${power.name} acima do nível de ${disciplineName}`,detail:`A opção é de nível ${power.level}, mas a ficha tem ${disciplineName} ${dots}.`,source:power.source});if(power.prerequisite&&!powers.includes(power.prerequisite))add({id:`power-prerequisite-${power.id}`,kind:"warning",title:`${power.name} sem ${power.prerequisite}`,detail:"A Cerimônia exige conhecer o poder indicado como pré-requisito.",source:power.source});if(power.kind&&power.kind!=="power"&&!purchases.some(item=>item.kind===power.kind&&item.name===power.name)){if(power.kind==="ceremony"&&power.level===1&&power.prerequisite&&powers.includes(power.prerequisite))freeCeremonies++;else add({id:`magic-xp-${power.id}`,kind:"warning",title:`${power.name} sem compra registrada`,detail:"Rituais, Cerimônias e Fórmulas são aprendidos separadamente. Registre a compra com XP ou aprove uma exceção da crônica.",source:power.source})}if(power.amalgam){const [requiredName,requiredLevel]=power.amalgam.split(/\s+(?=\d+$)/);if((data.disciplines?.[requiredName]||0)<Number(requiredLevel))add({id:`power-amalgam-${power.id}`,kind:"warning",title:`${power.name} sem ${power.amalgam}`,detail:`O poder possui o pré-requisito Amálgama: ${power.amalgam}. A escolha continua salva para permitir exceções da crônica.`,source:power.source})}}}
-  if(freeCeremonies>1)add({id:"free-ceremonies",kind:"warning",title:"Mais de uma Cerimônia grátis na criação",detail:"A criação permite uma Cerimônia de nível 1 se o poder pré-requisito de Oblívio já for conhecido.",source:disciplines});
+  const freeMagic:typeof powerCatalog=[];
+  for(const [disciplineName,powers] of Object.entries(data.disciplinePowers||{})){
+    const dots=data.disciplines?.[disciplineName]||0;
+    for(const name of powers){
+      const power=powerCatalog.find(item=>item.discipline===disciplineName&&item.name===name);
+      if(!power){add({id:`homebrew-power-${disciplineName}-${name}`,kind:"info",title:`Poder personalizado: ${name}`,detail:`Este nome não está no catálogo indexado de ${disciplineName}. Ele foi preservado como conteúdo personalizado.`});continue}
+      if(power.level>dots)add({id:`power-level-${power.id}`,kind:"warning",title:`${power.name} acima do nível de ${disciplineName}`,detail:`A opção é de nível ${power.level}, mas a ficha tem ${disciplineName} ${dots}.`,source:power.source});
+      if(power.prerequisite&&!Object.values(data.disciplinePowers||{}).some(names=>names.includes(power.prerequisite!)))add({id:`power-prerequisite-${power.id}`,kind:"warning",title:`${power.name} sem ${power.prerequisite}`,detail:"A opção exige conhecer o poder indicado como pré-requisito.",source:power.source});
+      if(power.kind&&power.kind!=="power"&&!paidPurchases.some(item=>item.kind===power.kind&&item.name===power.name)){
+        const free=creationMagicEligibility(power,data.disciplines||{},data.disciplinePowers||{},activeSources,freeMagic);
+        if(free.allowed)freeMagic.push(power);
+        else add({id:`magic-xp-${power.id}`,kind:"warning",title:`${power.name} sem compra registrada`,detail:`A opção não se enquadra nas escolhas gratuitas de criação: ${free.reasons.join("; ")}. Registre a compra com XP ou aprove uma exceção da crônica.`,source:power.source});
+      }
+      if(power.amalgam){
+        for(const requirement of power.amalgam.split(/[,;]|\s+\+\s+/)){
+          const match=requirement.trim().match(/^(.+?)\s+(\d+)$/);
+          if(match&&(data.disciplines?.[match[1]]||0)<Number(match[2]))add({id:`power-amalgam-${power.id}`,kind:"warning",title:`${power.name} sem ${power.amalgam}`,detail:`O poder possui o pré-requisito Amálgama: ${power.amalgam}. A escolha continua salva para permitir exceções da crônica.`,source:power.source});
+        }
+      }
+    }
+  }
 
   const meritDots=ownItemDots(data.merits||[])-purchases.filter(item=>item.kind==="advantage").length,flawDots=ownItemDots(data.flawItems||[]),meritTarget=chronicle.customTargets?chronicle.meritPoints:data.ageCategory==="Ancilla"?9:7,flawTarget=chronicle.customTargets?chronicle.flawPoints:data.ageCategory==="Ancilla"?4:2;
   if(meritDots!==meritTarget)add({id:"merits",kind:"warning",title:`Vantagens não somam ${meritTarget} pontos`,detail:`A regra ativa distribui ${meritTarget} pontos livres em Vantagens; a ficha soma ${meritDots}. Benefícios do Predador e compras com XP aparecem na lista, mas não consomem esses pontos.`,source:core("regras-e-criacao-vantagens-e-defeitos","7 pontos","Livro Básico V5, criação de personagem")});
