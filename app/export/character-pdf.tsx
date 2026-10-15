@@ -3,7 +3,7 @@ import { Document, Page, Text, View, Svg, Circle, Rect, Line, StyleSheet, pdf } 
 import { bloodBenefits } from "../play/blood";
 import { humanityTrack } from "../play/dice";
 import { POWER_CATALOG } from "../game-rules";
-import {resolveContent} from "../content/resolve";
+import {resolveContent,CONTENT_INDEX} from "../content/resolve";
 import {powerForSources} from "../content/power-eligibility";
 import {normalizeActiveSourcebooks} from "../creation-sources";
 import {sourcebookLabel,SOURCEBOOKS} from "../sourcebooks";
@@ -30,7 +30,8 @@ export function CharacterPdfDocument({ snapshot:s, locale, rules=[] }: {snapshot
   const heading=(title:string)=><Text style={styles.title} minPresenceAhead={28}>{t(title)}</Text>;
   const paragraphs=(text:string)=>text.split(/\n\s*\n/).map((p,i)=><Text key={i} style={[styles.paragraph,{lineHeight:1.35}]} orphans={2} widows={2}>{p.replace(/^#{1,6}\s*/gm,"").replace(/\*\*([^*]+)\*\*/g,"$1").replaceAll("−","-")}</Text>);
   const traits=(title:string,values:Record<string,number>)=><View>{heading(title)}{Object.entries(values).map(([name,value])=>row(name,<View style={{flexDirection:"row",gap:5}}><Markers value={value}/><Text>{value}</Text></View>))}</View>;
-  const meritList=(title:string,items:typeof s.merits)=><View>{heading(title)}{items.length?items.map((item,i)=><View key={i} style={styles.item}><View wrap={false}><Text style={styles.sub}>{item.name} ({item.dots})</Text><Markers value={item.dots} max={Math.max(5,item.dots)}/></View>{item.source&&<Text style={styles.meta}>{item.source}</Text>}{item.notes&&paragraphs(item.notes)}</View>):<Text>—</Text>}</View>;
+  const savedItemName=(item:ExportSnapshot["merits"][number])=>{const entry=item.catalogId?CONTENT_INDEX.find(entry=>entry.id===item.catalogId):undefined;return entry?.versions?.find(version=>version.id===item.versionId)?.names?.[locale]||entry?.names[locale]||item.name};
+  const meritList=(title:string,items:typeof s.merits)=><View>{heading(title)}{items.length?items.map((item,i)=><View key={i} style={styles.item}><View wrap={false}><Text style={styles.sub}>{savedItemName(item)} ({item.dots})</Text><Markers value={item.dots} max={Math.max(5,item.dots)}/></View>{item.source&&<Text style={styles.meta}>{sourcebookLabel(item.source)}</Text>}{item.notes&&paragraphs(item.notes)}</View>):<Text>—</Text>}</View>;
   const identityLabels:Record<string,string>={sire:"Senhor",mortalName:"Nome mortal",embraceYear:"Ano do Abraço",trueAge:"Idade real",apparentAge:"Idade aparente",birthDate:"Nascimento",deathDate:"Morte",ageCategory:"Categoria de criação",generation:"Geração",chronicle:"Crônica",resonance:"Ressonância"};
   return <Document title={`Carniçal — ${s.name}`} author="Carniçal" language={en?"en":"pt-BR"}>
     <Page size="A4" style={styles.page} wrap>
@@ -69,19 +70,22 @@ export function CharacterPdfDocument({ snapshot:s, locale, rules=[] }: {snapshot
 
 export async function createCharacterPdf(snapshot:ExportSnapshot,locale:Locale) {
   const activeSources=new Set(normalizeActiveSourcebooks(snapshot.sources.length?snapshot.sources:undefined));
-  const selected=Object.entries(snapshot.powers).flatMap(([discipline,names])=>names.map(name=>{
-    const entry=resolveContent(name,{discipline});if(entry)return entry.id;
+  type RuleTarget={id:string;book?:string;version?:string};
+  const targets:RuleTarget[]=Object.entries(snapshot.powers).flatMap(([discipline,names])=>names.flatMap(name=>{
+    const entry=resolveContent(name,{discipline});
     const legacy=POWER_CATALOG.filter(power=>power.discipline===discipline&&power.name===name);
-    return legacy.length===1?legacy[0].id:undefined;
-  }).filter(id=>id!==undefined));
-  const ids=[...selected,...[
-    resolveContent(snapshot.clan,{kind:"clan"}),resolveContent(snapshot.predator,{kind:"predator"}),
-    ...snapshot.merits.map(item=>resolveSavedItem(item,"background")),...snapshot.flaws.map(item=>resolveSavedItem(item,"flaw")),
-  ].filter(item=>item!==undefined).map(item=>item.id)];
-  const rules = await Promise.all([...new Set(ids)].map(async id=>{
+    const power=legacy.length===1?legacy[0]:POWER_CATALOG.find(power=>power.id===entry?.id);
+    const id=entry?.id||power?.id;
+    return id?[{id,book:power?powerForSources(power,activeSources).source.book:undefined}]:[];
+  }));
+  for(const entry of [snapshot.customClan?undefined:resolveContent(snapshot.clan,{kind:"clan"}),resolveContent(snapshot.predator,{kind:"predator"})])if(entry)targets.push({id:entry.id});
+  for(const [items,kind] of [[snapshot.merits,"background"],[snapshot.flaws,"flaw"]] as const){
+    for(const item of items){const entry=resolveSavedItem(item,kind);if(entry){const book=SOURCEBOOKS.find(source=>source.value===item.source||source.libraryId===item.source)?.libraryId;targets.push({id:entry.id,book,version:item.versionId})}}
+  }
+  const uniqueTargets=[...new Map(targets.map(target=>[JSON.stringify(target),target])).values()];
+  const rules = await Promise.all(uniqueTargets.map(async ({id,book,version})=>{
     const power=POWER_CATALOG.find(power=>power.id===id);
-    const book=power?powerForSources(power,activeSources).source.book:undefined;
-    const response=await fetch(`/api/content?id=${encodeURIComponent(id)}&lang=${locale}${book?`&book=${encodeURIComponent(book)}`:""}`,{cache:"no-store"});
+    const response=await fetch(`/api/content?id=${encodeURIComponent(id)}&lang=${locale}${book?`&book=${encodeURIComponent(book)}`:""}${version?`&version=${encodeURIComponent(version)}`:""}`,{cache:"no-store"});
     if(response.status===404&&power){
       const selectedPower=powerForSources(power,activeSources),en=locale==="en";
       const sections=[{title:en?"Source reference":"Referência à fonte",text:en?"The full description of this item has not yet been reviewed for the PDF. Consult the original source before using it. The recorded character choice is preserved.":"A descrição completa deste item ainda não foi revisada para o PDF. Consulte a fonte original antes de usá-lo. A escolha registrada na ficha foi preservada."}];
@@ -95,9 +99,14 @@ export async function createCharacterPdf(snapshot:ExportSnapshot,locale:Locale) 
   }));
   return pdf(<CharacterPdfDocument snapshot={snapshot} locale={locale} rules={rules}/>).toBlob();
 }
-function resolveSavedItem(item:{name:string;source:string},kind:"background"|"flaw"){
+function resolveSavedItem(item:{name:string;source:string;catalogId?:string;versionId?:string},kind:"background"|"flaw"){
   if(["custom","personalizado","conteúdo personalizado","homebrew"].includes(item.source.toLocaleLowerCase("pt-BR")))return undefined;
   const book=SOURCEBOOKS.find(book=>book.value===item.source||book.libraryId===item.source)?.libraryId;
+  if(item.catalogId){
+    const entry=CONTENT_INDEX.find(entry=>entry.id===item.catalogId);
+    if(!entry||!((kind==="flaw"&&entry.kind==="flaw")||(kind==="background"&&["background","merit","loresheet"].includes(entry.kind)))||(book&&!entry.books.includes(book))||(item.versionId&&!entry.versions?.some(version=>version.id===item.versionId&&(!book||version.book===book))))return undefined;
+    return entry;
+  }
   if(kind==="flaw")return resolveContent(item.name,{kind,book});
   return resolveContent(item.name,{kinds:["background","merit","loresheet"],book});
 }

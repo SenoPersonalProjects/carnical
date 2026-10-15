@@ -1,0 +1,76 @@
+{
+  "id": "clan-salubri",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Salubri",
+    "en": "Salubri"
+  },
+  "aliases": [
+    "Salubri"
+  ],
+  "versions": [
+    {
+      "id": "clan-salubri-companion",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 14–15",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "pages": [
+        {
+          "pdfPage": 14,
+          "printedPage": 14
+        },
+        {
+          "pdfPage": 15,
+          "printedPage": 15
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Uma linhagem rara e perseguida, associada à busca da Golconda, ao alívio do sofrimento e a rumores de roubo de almas. Seus dons de cura coexistem com os riscos de um Sangue que atrai outros vampiros."
+          },
+          {
+            "title": "Disciplinas",
+            "text": "Auspícios, Dominação e Fortitude. Os Salubri usam percepção sobrenatural, alívio de memórias e resistência para auxiliar outros ou sobreviver à perseguição."
+          },
+          {
+            "title": "Perdição: Sangue cobiçado",
+            "text": "Quando um vampiro de outro clã bebe Sangue Salubri suficiente para saciar pelo menos um nível de Fome, faz um teste de Frenesi de Fome com Dificuldade 2 + a Gravidade da Perdição do Salubri. O texto especifica Dificuldade 3 + a sua Gravidade da Perdição para Banu Haqim. Em caso de falha, o vampiro continua bebendo até ser fisicamente impedido."
+          },
+          {
+            "title": "Perdição: terceiro olho",
+            "text": "Todo Salubri possui um terceiro olho, que pode variar de aparência, inclusive com traços não humanos. Pode ser coberto fisicamente com um lenço ou capuz, mas nenhum poder sobrenatural consegue ocultá-lo.\n\nSempre que o Salubri ativa um poder de Disciplina, o olho chora Sangue; a quantidade aumenta com o nível do poder, de poucas lágrimas a um fluxo intenso. Esse Sangue provoca um teste de Frenesi de Fome em vampiros próximos com Fome 4 ou maior."
+          },
+          {
+            "title": "Compulsão: Empatia Afetiva",
+            "text": "O Salubri é tomado de empatia por um problema pessoal de alguém na cena e procura ajudar. O problema pode ser uma situação contínua, não apenas um acontecimento isolado. Qualquer ação que não mitigue esse sofrimento sofre uma penalidade de dois dados. A Compulsão termina quando o fardo é aliviado, uma crise mais imediata o suplanta ou a cena acaba."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A rare, hunted lineage associated with the search for Golconda, relieving suffering and rumors of soul theft. Their healing gifts coexist with the danger of Blood that attracts other vampires."
+          },
+          {
+            "title": "Disciplines",
+            "text": "Auspex, Dominate and Fortitude. Salubri use supernatural perception, relief from traumatic memories and resilience to help others or survive persecution."
+          },
+          {
+            "title": "Bane: coveted Blood",
+            "text": "When a vampire from another clan drinks enough Salubri Blood to slake at least one Hunger, they test for hunger frenzy at Difficulty 2 + the Salubri’s Bane Severity. The text specifies Difficulty 3 + their Bane Severity for Banu Haqim. On a failure, the vampire continues drinking until physically restrained."
+          },
+          {
+            "title": "Bane: third eye",
+            "text": "Every Salubri has a third eye whose appearance may vary, including nonhuman traits. A scarf or hood can physically cover it, but no supernatural power can conceal it.\n\nWhenever the Salubri activates a Discipline power, the eye weeps Blood, from a few tears to a torrent depending on the power’s level. This Blood prompts a hunger frenzy test in nearby vampires at Hunger 4 or higher."
+          },
+          {
+            "title": "Compulsion: Affective Empathy",
+            "text": "The Salubri becomes empathetically fixated on someone’s personal problem in the scene and seeks to help. The problem may be an ongoing situation rather than a single event. Any action not aimed at easing that suffering takes a two-dice penalty. The Compulsion ends when the burden is relieved, a more immediate crisis supersedes it or the scene ends."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,15 +1,22 @@
 import type {PowerRule} from "../game-rules";
 import {sourcebookForLibraryId} from "../creation-sources";
-import {CONTENT_INDEX} from "./resolve";
+import {contentById,resolveContent,sameContent} from "./resolve";
+export function knowsPower(known:Record<string,string[]>,required:string){
+  return Object.values(known).some(names=>names.some(name=>sameContent(name,required,{kind:"power"})));
+}
 /** Prefer the original source when enabled; otherwise use an enabled reviewed version. */
 export function powerForSources(power:PowerRule,activeSources:ReadonlySet<string>):PowerRule{
-  const entry=CONTENT_INDEX.find(entry=>entry.id===power.id);
+  const entry=contentById(power.id)||resolveContent(power.name,{kind:power.kind||"power",discipline:power.discipline});
   const versions=entry?.versions?.filter(version=>activeSources.has(sourcebookForLibraryId(version.book)||""));
   const version=versions?.find(version=>version.book===power.source.book)||versions?.[0];
-  if(!version)return power;
+  if(!version)return entry?{...power,id:entry.id}:power;
   const required=version.requirements?.disciplines;
   const amalgam=required?Object.entries(required).filter(([name])=>name!==power.discipline).map(([name,level])=>`${name} ${level}`).join(", "):power.amalgam;
-  return {...power,level:version.level??required?.[power.discipline]??power.level,amalgam:amalgam||undefined,prerequisite:version.requirements?.prerequisites?.[0]??power.prerequisite,source:{...power.source,book:version.book as PowerRule["source"]["book"],label:version.sourceTitle,chapter:version.book===power.source.book?power.source.chapter:version.book==="companion-v5"?"companion-v5-parte-i-os-clas-e-suas-aptidoes":""}};
+  return {...power,id:entry?.id||power.id,level:version.level??required?.[power.discipline]??power.level,amalgam:amalgam||undefined,prerequisite:version.requirements?.prerequisites?.[0]??power.prerequisite,source:{...power.source,book:version.book as PowerRule["source"]["book"],label:version.sourceTitle,chapter:version.book===power.source.book?power.source.chapter:version.book==="companion-v5"?"companion-v5-parte-i-os-clas-e-suas-aptidoes":""}};
+}
+/** Equivalent renamed powers occupy one choice, while all saved aliases remain valid. */
+export function powersForSources(powers:ReadonlyArray<PowerRule>,activeSources:ReadonlySet<string>){
+  const result=new Map<string,PowerRule>();for(const power of powers){const version=powerForSources(power,activeSources);if(!result.has(version.id))result.set(version.id,version)}return [...result.values()];
 }
 /** Constraints for guided choices; existing and custom sheet data stays editable. */
 export function powerEligibility(power:PowerRule,disciplines:Record<string,number>,known:Record<string,string[]>,activeSources:ReadonlySet<string>){
@@ -20,7 +27,7 @@ export function powerEligibility(power:PowerRule,disciplines:Record<string,numbe
     const parts=power.amalgam.split(/[,;]|\s+\+\s+/);
     for(const part of parts){const match=part.trim().match(/^(.+?)\s+(\d+)$/);if(match&&(disciplines[match[1]]||0)<Number(match[2]))reasons.push(`Amálgama: ${match[1]} ${match[2]}`)}
   }
-  if(power.prerequisite&&!Object.values(known).some(names=>names.includes(power.prerequisite!)))reasons.push(`Exige o poder ${power.prerequisite}`);
+  if(power.prerequisite&&!knowsPower(known,power.prerequisite))reasons.push(`Exige o poder ${power.prerequisite}`);
   return {allowed:reasons.length===0,reasons};
 }
 

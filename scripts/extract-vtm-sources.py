@@ -34,7 +34,7 @@ def lines_from(page,textpage=None):
 def read_page(job):
  book,file,lang,ocr,index,output,tessdata=job
  target=Path(output)/book/f'{index+1:04}.json'
- version=4 if book=='cultos-deuses-sangue-v5' else 2 if ocr else 4
+ version=6 if book=='companion-v5' else 4 if book=='cultos-deuses-sangue-v5' else 2 if ocr else 4
  if target.exists() and json.loads(target.read_text(encoding='utf-8')).get('extractionVersion')==version:return book,index+1,'cached'
  doc=fitz.open(file);page=doc[index];method='native-text-with-layout'
  lines=lines_from(page)
@@ -68,7 +68,23 @@ def read_page(job):
  else:
   # Multi-column body first; full-width headings retain their position before the columns.
   body=[l for l in lines if len(l['text'])>30 and 35<l['bbox'][1]<page.rect.height-30]
-  if body:
+  if body and book=='companion-v5':
+   # The Companion switches between two and three columns, including pages
+   # with artwork spanning the latter two. A fixed center split interleaves
+   # the Bane and Compulsion on p. 15 and corrupts their meaning.
+   starts=[round(l['bbox'][0]/5)*5 for l in lines if len(l['text'])>18 and 35<l['bbox'][1]<page.rect.height-30]
+   buckets={x:starts.count(x) for x in set(starts)};peaks=[]
+   for x in sorted(buckets,key=buckets.get,reverse=True):
+    if buckets[x]>=4 and all(abs(x-other)>65 for other in peaks):peaks.append(x)
+    if len(peaks)==3:break
+   peaks.sort()
+   if len(peaks)>=2:
+    groups=[[] for _ in peaks]
+    for line in lines:
+     column=min(range(len(peaks)),key=lambda i:abs(line['bbox'][0]-peaks[i]));groups[column].append(line)
+    lines=[line for group in groups for line in sorted(group,key=lambda l:(l['bbox'][1],l['bbox'][0]))]
+   else:lines.sort(key=lambda l:(l['bbox'][1],l['bbox'][0]))
+  elif body:
    split=page.rect.width/2
    groups=[[],[]]
    for l in lines:

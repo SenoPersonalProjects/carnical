@@ -220,6 +220,20 @@
           "image": "/source-pages/core-v5/0278.webp",
           "width": 1500,
           "height": 1945
+        },
+        {
+          "pdfPage": 279,
+          "printedPage": 277,
+          "image": "/source-pages/core-v5/0279.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
+          "pdfPage": 280,
+          "printedPage": 278,
+          "image": "/source-pages/core-v5/0280.webp",
+          "width": 1500,
+          "height": 1945
         }
       ]
     },
@@ -303,6 +317,48 @@
       "title": "companion-v5-ptbr",
       "pages": [
         {
+          "pdfPage": 8,
+          "printedPage": 8,
+          "image": "/source-pages/companion-v5/0008.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 9,
+          "printedPage": 9,
+          "image": "/source-pages/companion-v5/0009.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 14,
+          "image": "/source-pages/companion-v5/0014.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 15,
+          "printedPage": 15,
+          "image": "/source-pages/companion-v5/0015.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 18,
+          "printedPage": 18,
+          "image": "/source-pages/companion-v5/0018.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 19,
+          "printedPage": 19,
+          "image": "/source-pages/companion-v5/0019.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
           "pdfPage": 24,
           "printedPage": 24,
           "image": "/source-pages/companion-v5/0024.webp",
@@ -313,6 +369,118 @@
           "pdfPage": 25,
           "printedPage": 25,
           "image": "/source-pages/companion-v5/0025.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 26,
+          "printedPage": 26,
+          "image": "/source-pages/companion-v5/0026.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 27,
+          "printedPage": 27,
+          "image": "/source-pages/companion-v5/0027.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 28,
+          "printedPage": 28,
+          "image": "/source-pages/companion-v5/0028.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 30,
+          "printedPage": 30,
+          "image": "/source-pages/companion-v5/0030.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 31,
+          "printedPage": 31,
+          "image": "/source-pages/companion-v5/0031.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 32,
+          "printedPage": 32,
+          "image": "/source-pages/companion-v5/0032.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 33,
+          "printedPage": 33,
+          "image": "/source-pages/companion-v5/0033.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 34,
+          "printedPage": 34,
+          "image": "/source-pages/companion-v5/0034.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 35,
+          "printedPage": 35,
+          "image": "/source-pages/companion-v5/0035.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 36,
+          "printedPage": 36,
+          "image": "/source-pages/companion-v5/0036.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 37,
+          "printedPage": 37,
+          "image": "/source-pages/companion-v5/0037.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 38,
+          "printedPage": 38,
+          "image": "/source-pages/companion-v5/0038.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 39,
+          "printedPage": 39,
+          "image": "/source-pages/companion-v5/0039.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 40,
+          "printedPage": 40,
+          "image": "/source-pages/companion-v5/0040.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 59,
+          "printedPage": 59,
+          "image": "/source-pages/companion-v5/0059.webp",
+          "width": 1500,
+          "height": 1938
+        },
+        {
+          "pdfPage": 60,
+          "printedPage": 60,
+          "image": "/source-pages/companion-v5/0060.webp",
           "width": 1500,
           "height": 1938
         }
@@ -647,6 +815,104 @@
           "pdfPage": 108,
           "printedPage": 106,
           "image": "/source-pages/players-guide-v5/0108.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 123,
+          "printedPage": 121,
+          "image": "/source-pages/players-guide-v5/0123.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 143,
+          "printedPage": 141,
+          "image": "/source-pages/players-guide-v5/0143.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 144,
+          "printedPage": 142,
+          "image": "/source-pages/players-guide-v5/0144.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 181,
+          "printedPage": 179,
+          "image": "/source-pages/players-guide-v5/0181.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 182,
+          "printedPage": 180,
+          "image": "/source-pages/players-guide-v5/0182.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 183,
+          "printedPage": 181,
+          "image": "/source-pages/players-guide-v5/0183.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182,
+          "image": "/source-pages/players-guide-v5/0184.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 185,
+          "printedPage": 183,
+          "image": "/source-pages/players-guide-v5/0185.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184,
+          "image": "/source-pages/players-guide-v5/0186.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 187,
+          "printedPage": 185,
+          "image": "/source-pages/players-guide-v5/0187.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 188,
+          "printedPage": 186,
+          "image": "/source-pages/players-guide-v5/0188.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187,
+          "image": "/source-pages/players-guide-v5/0189.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 190,
+          "printedPage": 188,
+          "image": "/source-pages/players-guide-v5/0190.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 191,
+          "printedPage": 189,
+          "image": "/source-pages/players-guide-v5/0191.webp",
           "width": 1500,
           "height": 1920
         }

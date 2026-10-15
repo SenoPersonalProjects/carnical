@@ -1,0 +1,76 @@
+{
+  "id": "clan-ravnos",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Ravnos",
+    "en": "Ravnos"
+  },
+  "aliases": [
+    "Ravnos"
+  ],
+  "versions": [
+    {
+      "id": "clan-ravnos-companion",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 8–9",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "pages": [
+        {
+          "pdfPage": 8,
+          "printedPage": 8
+        },
+        {
+          "pdfPage": 9,
+          "printedPage": 9
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Um clã de viajantes, negociadores, espiões e criadores de ilusões, cujos integrantes precisam continuar em movimento para escapar do fogo que arde em seu Sangue."
+          },
+          {
+            "title": "Disciplinas",
+            "text": "Animalismo, Ofuscação e Presença. Animalismo fornece companheiros e espiões animais; Ofuscação e Presença também sustentam suas alucinações."
+          },
+          {
+            "title": "Perdição",
+            "text": "Se um Ravnos dormir no mesmo local mais de uma vez em sete noites, role dados iguais à sua Gravidade da Perdição. Cada resultado 10 causa um ponto de dano agravado à Vitalidade: conte cada 10, não apenas pares críticos. Isso se repete em cada dia de sono num local usado há menos de uma semana.\n\nA amplitude da crônica pode definir o que constitui uma semana. Salvo indicação contrária, dois locais de descanso precisam ficar pelo menos a 1,6 quilômetro um do outro. Um refúgio móvel é seguro se seu estacionamento estiver pelo menos a 1,6 quilômetro do último local. Ravnos não podem adquirir o Defeito Nenhum Refúgio durante a criação."
+          },
+          {
+            "title": "Compulsão: Destino Tentador",
+            "text": "Na próxima vez que precisar resolver um problema, qualquer solução que não seja a mais audaciosa ou perigosa sofre uma penalidade de dois dados. Soluções particularmente vistosas e arriscadas podem receber dados bônus a critério do Narrador. O Ravnos pode tentar convencer os companheiros a segui-lo, mas agirá sozinho se necessário. A Compulsão termina quando o problema é resolvido ou novas tentativas se tornam impraticáveis."
+          },
+          {
+            "title": "Opção do Narrador",
+            "text": "A apresentação de Animalismo permite ao Narrador reduzir em um a Dificuldade de testes envolvendo corvos, raposas, coiotes, aranhas e macacos e aumentá-la para outros animais. Isso é uma opção expressamente atribuída ao Narrador pelo texto, não um bônus automático."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A clan of travelers, negotiators, spies and illusionists whose members must keep moving to escape the fire in their Blood."
+          },
+          {
+            "title": "Disciplines",
+            "text": "Animalism, Obfuscate and Presence. Animalism provides animal companions and spies; Obfuscate and Presence also support their hallucinations."
+          },
+          {
+            "title": "Bane",
+            "text": "If a Ravnos sleeps in the same place more than once in seven nights, roll dice equal to their Bane Severity. Each individual 10 causes one aggravated Health damage; count individual tens, not just critical pairs. Repeat this whenever they spend a day sleeping somewhere used less than a week earlier.\n\nThe chronicle’s scope can determine what constitutes a week. Unless stated otherwise, resting places must be at least 1.6 kilometers apart. A mobile haven is safe if parked at least 1.6 kilometers from its previous location. Ravnos cannot take the No Haven Flaw at character creation."
+          },
+          {
+            "title": "Compulsion: Tempting Fate",
+            "text": "The next time the vampire must solve a problem, any solution other than the most daring or dangerous takes a two-dice penalty. Particularly flamboyant and risky solutions may receive bonus dice at the Storyteller’s discretion. The Ravnos may persuade companions to join them but acts alone if necessary. The Compulsion ends when the problem is resolved or further attempts become impracticable."
+          },
+          {
+            "title": "Storyteller option",
+            "text": "The Animalism description allows the Storyteller to reduce Difficulty by one for tests involving ravens, foxes, coyotes, spiders and monkeys, and increase it for other animals. The text explicitly makes this a Storyteller option, not an automatic bonus."
+          }
+        ]
+      }
+    }
+  ]
+}

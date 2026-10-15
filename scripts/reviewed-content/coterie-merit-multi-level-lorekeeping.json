@@ -1,0 +1,139 @@
+{
+  "id": "coterie-merit-multi-level-lorekeeping",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Gestão de Conhecimentos Multinível",
+    "en": "Multi-Level Lorekeeping"
+  },
+  "aliases": [
+    "Gestão de Conhecimentos Multinível",
+    "Multi-Level Lorekeeping"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "coterie-merit-multi-level-lorekeeping-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 179, 188",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        },
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "level": 2,
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Tremere. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Apesar de os Tremere\n\nserem famosos por entesourar conhecimento oculto, muitos vestígios da célebre Pirâmide na verdade facilitam o compartilhamento desse conhecimento entre os estudiosos do desconhecido. Uma vez por sessão, um único Membro de uma coterie com um integrante Tremere que possua esta Qualidade pode usar uma Vantagem de Ficha de Conhecimento (ou uma Vantagem de nível inferior da mesma Ficha) pertencente a qualquer integrante da coterie, incluindo Fichas de Conhecimento exclusivas de um clã, a critério do Narrador. Essa Vantagem de Ficha de Conhecimento extra só pode ser usada na sessão de jogo, e qualquer conhecimento pressuposto por ela não é mantido pelo personagem que a usou após o término da sessão. Todas as demais limitações continuam válidas: por exemplo, uma Vantagem de uso único por história fica gasta pelo restante da história, independentemente de quem a usar."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito.A coterie como um todo também pode adquiri-la durante a criação da coterie."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Tremere. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "Despite the Tremere reputation for jealously hoarding occult knowledge, many vestiges of the notorious Pyramid actually facilitate the sharing of such among scholars of the forbidden. Once per game session, a single Kindred in a coterie with a Tremere who has this Merit can use a Loresheet\n\nAdvantage (or a lower-dot Advantage from that same Loresheet) that someone else in the coterie possesses, including clan-specific Loresheets, at the Storyteller’s discretion. This additional Loresheet Advantage is usable only for the game session, and any knowledge supposed by the Loresheet Advantage is not retained thereafter by the borrower. All other limitations on the Advantage remain: for example, a “one use per story” Advantage is expended for the remainder of the story no matter who uses it."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect. The coterie as a whole may also purchase it during coterie creation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "coterie-merit-multi-level-lorekeeping-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 30, 39",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "pages": [
+        {
+          "pdfPage": 30,
+          "printedPage": 30
+        },
+        {
+          "pdfPage": 39,
+          "printedPage": 39
+        }
+      ],
+      "level": 2,
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Tremere. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Apesar de os Tremere\n\nserem famosos por entesourar conhecimento oculto, muitos vestígios da célebre Pirâmide na verdade facilitam o compartilhamento desse conhecimento entre os estudiosos do desconhecido. Uma vez por sessão, um único Membro de uma coterie com um integrante Tremere que possua esta Qualidade pode usar uma Vantagem de Ficha de Conhecimento pertencente a qualquer integrante da coterie, incluindo Fichas de Conhecimento exclusivas de um clã, a critério do Narrador. Essa Vantagem de Ficha de Conhecimento extra só pode ser usada na sessão de jogo, e qualquer conhecimento pressuposto por ela não é mantido pelo personagem que a usou após o término da sessão."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Tremere. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "Despite the Tremere reputation for jealously hoarding occult knowledge, many vestiges of the notorious Pyramid actually facilitate the sharing of such among scholars of the forbidden. Once per game session, a single Kindred in a coterie with a Tremere who has this Merit can use a Loresheet\n\nAdvantage that someone else in the coterie possesses, including clan-specific Loresheets, at the Storyteller’s discretion. This additional Loresheet Advantage is usable only for the game session, and any knowledge supposed by the Loresheet Advantage is not retained thereafter by the borrower."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect."
+          }
+        ]
+      }
+    }
+  ]
+}

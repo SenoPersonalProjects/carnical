@@ -1,0 +1,133 @@
+{
+  "id": "companion-advantage-weak-willed",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Vontade Fraca",
+    "en": "Weak-Willed"
+  },
+  "aliases": [
+    "Vontade Fraca",
+    "Weak-Willed"
+  ],
+  "versions": [
+    {
+      "id": "companion-advantage-weak-willed-guide-2",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 121 · 2 ponto(s)",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "names": {
+        "pt-BR": "Vontade Fraca",
+        "en": "Weak-Willed"
+      },
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 123,
+          "printedPage": 121
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Defeito Psicológico."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Você tem dificuldade para impor sua personalidade diante da determinação de outra pessoa. Isso não significa submissão ou lealdade automáticas. Sofra uma penalidade de um dado em paradas Sociais contra seu líder ou superior. Mesmo quando sabe que estão tentando dominá-lo mental ou emocionalmente, como com Dominação ou Presença, você não pode usar os sistemas de resistência ativa para evitar os efeitos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Psychological Flaw."
+          },
+          {
+            "title": "Cost",
+            "text": "2 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "You struggle to assert your personality against another person’s determination. This does not automatically mean submission or loyalty. Take a one-die penalty to Social pools against your leader or superior. Even when you know someone is attempting mental or emotional domination, such as with Dominate or Presence, you cannot use active resistance systems to avoid the effects."
+          }
+        ]
+      }
+    },
+    {
+      "id": "companion-advantage-weak-willed-3",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 59–60 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 3,
+      "pages": [
+        {
+          "pdfPage": 59,
+          "printedPage": 59
+        },
+        {
+          "pdfPage": 60,
+          "printedPage": 60
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Defeito Psicológico."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Você tem dificuldade para impor sua personalidade diante da determinação de outra pessoa. Isso não significa submissão ou lealdade automáticas. Mesmo quando sabe que estão tentando dominá-lo mental ou emocionalmente, como com Dominação ou Presença, você não pode usar os sistemas de resistência ativa para evitar os efeitos."
+          },
+          {
+            "title": "Mudanças de condição",
+            "text": "As opções específicas de carniçal não concedem efeitos a mortais. Qualidades e Defeitos normalmente continuam quando um mortal se torna carniçal, salvo indicação contrária. Tornar-se carniçal ou receber o Abraço pode invalidar certas Vantagens. O Narrador decide se os pontos são realocados ou perdidos: em geral, pontos de Qualidades invalidadas podem comprar novas Vantagens, enquanto pontos de Defeitos podem ser reservados pelo Narrador para uso posterior."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Psychological Flaw."
+          },
+          {
+            "title": "Cost",
+            "text": "3 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "You struggle to assert your personality against another person’s determination. This does not automatically mean submission or loyalty. Even when you know someone is attempting mental or emotional domination, such as with Dominate or Presence, you cannot use active resistance systems to avoid the effects."
+          },
+          {
+            "title": "Changes of condition",
+            "text": "The ghoul-specific options do not grant effects to mortals. Merits and Flaws normally carry over when a mortal becomes a ghoul, unless stated otherwise. Becoming a ghoul or receiving the Embrace may invalidate some Advantages. The Storyteller decides whether to reallocate or lose those dots: invalidated Merit dots can generally purchase new Advantages; Flaw dots can be retained by the Storyteller for later use."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 3
+}

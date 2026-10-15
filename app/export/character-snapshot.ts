@@ -8,7 +8,7 @@ export type ExportSnapshot = ReturnType<typeof characterSnapshot>;
 const string = (value: unknown) => typeof value === "string" ? value : "";
 const number = (value: unknown, fallback = 0) => typeof value === "number" && Number.isFinite(value) ? value : fallback;
 const values = (value: unknown): Record<string, number> => Object.fromEntries(Object.entries((value && typeof value === "object" ? value : {}) as object).filter(([, n]) => typeof n === "number" && Number.isFinite(n))) as Record<string, number>;
-const items = (value: unknown): Array<{ name: string; dots: number; source: string; notes: string }> => Array.isArray(value) ? value.map(item => ({ name: string(item.name), dots: number(item.dots), source: string(item.source), notes: string(item.notes) })) : [];
+const items = (value: unknown): Array<{ name: string; dots: number; source: string; notes: string;catalogId?:string;versionId?:string }> => Array.isArray(value) ? value.map(item => ({ name: string(item.name), dots: number(item.dots), source: string(item.source), notes: string(item.notes),...(typeof item.catalogId==="string"?{catalogId:item.catalogId}:{}),...(typeof item.versionId==="string"?{versionId:item.versionId}:{}) })) : [];
 
 /** Copy the current in-memory sheet once. Exporting never saves or mutates it. */
 export function characterSnapshot(character: ExportCharacter) {
@@ -20,7 +20,7 @@ export function characterSnapshot(character: ExportCharacter) {
   const purchases = (Array.isArray(data.xpPurchases) ? data.xpPurchases : []) as XpPurchase[];
   return {
     name: character.name, concept: character.concept, clan: character.clan === "Personalizado" ? string(data.customClan) : character.clan,
-    sourcebook: character.sourcebook || "", linkedChronicle: !!character.chronicleId,
+    sourcebook: character.sourcebook || "", linkedChronicle: !!character.chronicleId, customClan:character.clan==="Personalizado",
     identity: Object.fromEntries(["sire", "mortalName", "embraceYear", "trueAge", "apparentAge", "birthDate", "deathDate", "ageCategory", "generation", "chronicle", "resonance"].map(key => [key, string(data[key])])),
     attributes, skills, disciplines, powers: (data.disciplinePowers || {}) as Record<string, string[]>,
     specialties: Array.isArray(data.specialties) ? data.specialties.map(item => ({ skill: string(item.skill), name: string(item.name), source: string(item.source) })) : [],

@@ -1,0 +1,162 @@
+{
+  "id": "players-guide-v5-power-proteanismo-horrid-form",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Forma Hedionda",
+    "en": "Horrid Form"
+  },
+  "aliases": [
+    "Forma Hedionda",
+    "Horrid Form"
+  ],
+  "discipline": "Proteanismo",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-proteanismo-horrid-form-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 83",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 4,
+      "pages": [
+        {
+          "pdfPage": 85,
+          "printedPage": 83
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 4,
+          "Dominação": 2
+        },
+        "prerequisites": [
+          "Vicissitude"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Com um domínio do corpo tão completo que chega a ultrapassar as limitações naturais, o vampiro pode assumir uma forma verdadeiramente monstruosa completa, com garras terríveis, presas salientes, texturas enrugadas e músculos trincados. Embora os traços exatos possam variar de ocasião para ocasião, a forma costuma ter uma aparência individual específica que se manifesta toda vez que este poder é usado, uma visão da Besta do usuário encarnada. Alguns usuários aparentam ser animais infernais malformados, outros são demoníacos e atávicos, e há aqueles que desafiam qualquer noção de familiaridade mundana. Muitos incorporam os traços de vampiros naturais, como sanguessugas, morcegos, carrapatos e mosquitos, ampliados até proporções grotescas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Dominação 2. Pré-requisito: Vicissitude."
+          },
+          {
+            "title": "Parada",
+            "text": "Nenhuma"
+          },
+          {
+            "title": "Custo",
+            "text": "Uma Checagem de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Forma Hedionda leva um turno completo para ser ativada, e durante esse tempo o vampiro só pode se defender, para tanto usando as paradas de dados que tinha antes de Forma Hedionda. Este poder concede ao vampiro uma quantidade de alterações de Vicissitude livres (sem incorrer na perda de pontos de Atributo) igual ao seu valor de Proteanismo. Essas alterações podem ser gastas em Redistribuição, Armas e Armadura. Narradores generosos também podem considerar outras alterações, tais como membranas semelhantes a asas que permitam ao vampiro planar, membros estendidos para maior alcance ou outros usos criativos (e justos). Entretanto, com a Besta tão\n\npróxima da superfície, quaisquer críticos rolados enquanto se usa Forma Hedionda, por qualquer razão, são considerados críticos bestiais, e qualquer teste de Frenesi será feito com um nível de Dificuldade +2. O vampiro também assume uma aparência inconfundivelmente inumana e só consegue se comunicar com grunhidos, chiados e rosnados."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena, a menos que seja encerrado antes voluntariamente."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "With a mastery of the body so complete that it surpasses natural limitations, the vampire can take on a truly monstrous form, complete with vicious claws, protruding fangs, ridged features, and corded muscles. Although its exact traits can vary between occasions, the form often has an individual, specific appearance that manifests every time this power is used, a vision of the user’s Beast made flesh. Some look like hellishly malformed animals, some look demonic or atavistic, and some defy any sense of worldly familiarity. Many incorporate the traits of other vampires in nature, such as leeches, bats, ticks, and mosquitoes, magnified to grotesque proportions."
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Dominate 2. Prerequisite: Vicissitude."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "Horrid Form takes a full turn to activate, during which time the vampire can only defend, using their pre-Horrid Form dice pools. It then grants the vampire a number of free Vicissitude changes (no Attribute dots are lost) equal to their Protean rating. These can be spent on Redistribution, Weapons, and Armor. Generous Storytellers can also consider other changes such as wing-like membranes allowing the vampire to glide,\n\nextended limbs for reach, or other creative (but fair) uses. However, with the Beast so close to the surface, any criticals rolled while using Horrid Form for any reason are considered messy criticals, and any frenzy test taken is at +2 Difficulty. The vampire also assumes an unmistakably inhuman appearance and is unable to communicate in anything but grunts, hisses, and roars."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene, unless voluntarily ended sooner."
+          }
+        ]
+      }
+    },
+    {
+      "id": "players-guide-v5-power-proteanismo-horrid-form-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 28",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 4,
+      "pages": [
+        {
+          "pdfPage": 28,
+          "printedPage": 28
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 4,
+          "Dominação": 2
+        },
+        "prerequisites": [
+          "Vicissitude"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Com um domínio do corpo tão completo que chega a ultrapassar as limitações naturais, o vampiro pode assumir uma forma verdadeiramente monstruosa completa, com garras terríveis, presas salientes, texturas enrugadas e músculos trincados. Embora os traços exatos possam variar de ocasião para ocasião, a forma costuma ter uma aparência individual específica que se manifesta toda vez que este poder é usado, uma visão da Besta do usuário encarnada. Alguns usuários aparentam ser animais infernais malformados, outros são demoníacos e atávicos, e há aqueles que desafiam qualquer noção de familiaridade mundana. Muitos incorporam os traços de vampiros naturais, como sanguessugas, morcegos, carrapatos e mosquitos, ampliados até proporções grotescas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Dominação 2. Pré-requisito: Vicissitude."
+          },
+          {
+            "title": "Parada",
+            "text": "Nenhuma"
+          },
+          {
+            "title": "Custo",
+            "text": "Uma Checagem de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Forma Hedionda leva um turno completo para ser ativada, e durante esse tempo o vampiro só pode se defender, para tanto usando as paradas de dados que tinha antes de Forma Hedionda. Este poder concede ao vampiro uma quantidade de alterações de Vicissitude livres (sem incorrer na perda de pontos de Atributo) igual ao seu valor de Proteanismo. Essas alterações podem ser gastas em Redistribuição, Armas e Armadura. Narradores generosos também podem considerar outras alterações, tais como membranas semelhantes a asas que permitam ao vampiro planar, membros estendidos para maior alcance ou outros usos criativos (e justos). Entretanto, com a Besta tão\n\npróxima da superfície, quaisquer críticos rolados enquanto se usa Forma Hedionda, por qualquer razão, são considerados críticos bestiais, e qualquer teste de Frenesi será feito com um nível de Dificuldade +2. O vampiro também assume uma aparência inconfundivelmente inumana e só consegue se comunicar com grunhidos, chiados e rosnados."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena, a menos que seja encerrado antes voluntariamente."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "With a mastery of the body so complete that it surpasses natural limitations, the vampire can take on a truly monstrous form, complete with vicious claws, protruding fangs, ridged features, and corded muscles. Although its exact traits can vary between occasions, the form often has an individual, specific appearance that manifests every time this power is used, a vision of the user’s Beast made flesh. Some look like hellishly malformed animals, some look demonic or atavistic, and some defy any sense of worldly familiarity. Many incorporate the traits of other vampires in nature, such as leeches, bats, ticks, and mosquitoes, magnified to grotesque proportions."
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Dominate 2. Prerequisite: Vicissitude."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "Horrid Form takes a full turn to activate, during which time the vampire can only defend, using their pre-Horrid Form dice pools. It then grants the vampire a number of free Vicissitude changes (no Attribute dots are lost) equal to their Protean rating. These can be spent on Redistribution, Weapons, and Armor. Generous Storytellers can also consider other changes such as wing-like membranes allowing the vampire to glide,\n\nextended limbs for reach, or other creative (but fair) uses. However, with the Beast so close to the surface, any criticals rolled while using Horrid Form for any reason are considered messy criticals, and any frenzy test taken is at +2 Difficulty. The vampire also assumes an unmistakably inhuman appearance and is unable to communicate in anything but grunts, hisses, and roars."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene, unless voluntarily ended sooner."
+          }
+        ]
+      }
+    }
+  ]
+}

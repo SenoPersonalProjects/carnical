@@ -1,0 +1,139 @@
+{
+  "id": "coterie-merit-old-world-hospitality",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Hospitalidade do Velho Mundo",
+    "en": "Old-World Hospitality"
+  },
+  "aliases": [
+    "Hospitalidade do Velho Mundo",
+    "Old-World Hospitality"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "coterie-merit-old-world-hospitality-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 179, 189",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        },
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        }
+      ],
+      "level": 2,
+      "requirements": {
+        "clans": [
+          "Tzimisce"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Tzimisce. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "No início de uma sessão, todos os membros da coterie que permaneceram no refúgio do Tzimisce quando a sessão anterior foi concluída recuperam um nível extra de dano Superficial à Força de Vontade. Isso inclui refúgios compartilhados da coterie."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito.A coterie como um todo também pode adquiri-la durante a criação da coterie."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Tzimisce. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "Enter freely and of your own will. At the beginning of a session, any members of the coterie who stayed at the Tzimisce’s haven when the previous session concluded restore an additional level of Superficial Willpower damage. This includes shared coterie havens."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect. The coterie as a whole may also purchase it during coterie creation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "coterie-merit-old-world-hospitality-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 30, 40",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "pages": [
+        {
+          "pdfPage": 30,
+          "printedPage": 30
+        },
+        {
+          "pdfPage": 40,
+          "printedPage": 40
+        }
+      ],
+      "level": 2,
+      "requirements": {
+        "clans": [
+          "Tzimisce"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Tzimisce. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "No início de uma sessão, todos os membros da coterie que permaneceram no refúgio do Tzimisce quando a sessão anterior foi concluída recuperam um nível extra de dano Superficial à Força de Vontade."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Tzimisce. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "At the beginning of a session, any members of the coterie who stayed at the Tzimisce’s haven when the previous session concluded restore an additional level of Superficial Willpower damage."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect."
+          }
+        ]
+      }
+    }
+  ]
+}

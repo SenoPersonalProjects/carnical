@@ -1,0 +1,143 @@
+{
+  "id": "coterie-merit-cryptolect",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Criptoleto",
+    "en": "Cryptolect"
+  },
+  "aliases": [
+    "Criptoleto",
+    "Cryptolect"
+  ],
+  "level": 3,
+  "versions": [
+    {
+      "id": "coterie-merit-cryptolect-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 179, 185, 186",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        },
+        {
+          "pdfPage": 187,
+          "printedPage": 185
+        },
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        }
+      ],
+      "level": 3,
+      "requirements": {
+        "clans": [
+          "Ravnos"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Ravnos. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Estar eternamente em movimento significa ter de encontrar novos modos de se comunicar com aliados. Usando linguagem em código, onomatopeias e gestos, esta Qualidade fornece ao Ravnos e à sua coterie sua própria pidgin (“língua de contato”) com o propósito expresso de comunicações internas – praticamente ninguém fora da coterie compreende essa língua, tirando vigilância especializada. Tal criptoleto não é nem eloquente nem robusto, mas pode ser usado para transmitir conceitos de alto nível de forma rápida e segura, não sendo identificável como nenhuma outra língua. Ele também exige presença cara a cara para funcionar, pois seus gestos e sinais se enfraquecem quando observados via telefone ou vídeo. Sair da coterie significa que o Membro não está mais atualizado com o criptoleto e não pode mais usá-lo para se comunicar, o mesmo ocorrendo a toda a coterie quando ela perde seu integrante Ravnos."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito.A coterie como um todo também pode adquiri-la durante a criação da coterie."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ravnos. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "3 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "Being forever on the move means having to find new ways to communicate with allies. Using coded language, onomatopoeia, and gestures, this Merit provides the Ravnos and their coterie with their own pidgin for the express purposes of communicating with each other — practically no one outside the\n\ncoterie understands it, short of expert long-term surveillance. The coterie’s cryptolect is not eloquent or robust, but can be used to convey high-level concepts quickly and securely, and isn’t identifiable as any other language. It also requires face-to-face presence to function, as its gestures and signs diminish when observed over phone or video calls. Leaving the coterie or losing its Ravnos member means the Kindred are no longer up-to-date on the cryptolect and can’t use it to communicate subsequently."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect. The coterie as a whole may also purchase it during coterie creation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "coterie-merit-cryptolect-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 30, 38",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "pages": [
+        {
+          "pdfPage": 30,
+          "printedPage": 30
+        },
+        {
+          "pdfPage": 38,
+          "printedPage": 38
+        }
+      ],
+      "level": 3,
+      "requirements": {
+        "clans": [
+          "Ravnos"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Ravnos. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Estar eternamente em movimento significa ter de encontrar novos modos de se comunicar com aliados. Usando linguagem em código, onomatopeias e gestos, esta Qualidade fornece ao Ravnos e à sua coterie sua própria pidgin (“língua de contato”) com o propósito expresso de comunicações internas – praticamente ninguém fora da coterie compreende essa língua, tirando vigilância especializada. Tal criptoleto não é nem eloquente nem robusto, mas pode ser usado para transmitir conceitos de alto nível de forma rápida e segura, não sendo identificável como nenhuma outra língua. Ele também exige presença cara a cara para funcionar, pois seus gestos e sinais se enfraquecem quando observados via telefone ou vídeo. Sair da coterie significa que o Membro não está mais atualizado com o criptoleto e não pode mais usá-lo para se comunicar, o mesmo ocorrendo a toda a coterie quando ela perde seu integrante Ravnos."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ravnos. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "3 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "Being forever on the move means having to find new ways to communicate with allies. Using coded language, onomatopoeia, and gestures, this Merit provides the Ravnos and their coterie with their own pidgin for the express purposes of communicating with each other — practically no one outside the\n\ncoterie understands it, short of expert long-term surveillance. The coterie’s cryptolect is not eloquent or robust, but can be used to convey high-level concepts quickly and securely, and isn’t identifiable as any other language. It also requires face-to-face presence to function, as its gestures and signs diminish when observed over phone or video calls. Leaving the coterie or losing its Ravnos member means the Kindred are no longer up-to-date on the cryptolect and can’t use it to communicate subsequently."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect."
+          }
+        ]
+      }
+    }
+  ]
+}

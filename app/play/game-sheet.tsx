@@ -19,10 +19,11 @@ import HumanityTrack from "./humanity-track";
 import PowerDetails from "./power-details";
 import PdfButton from "../export/pdf-button";
 import KnownContentDetails from "../content/known-content-details";
+import SavedItemDetails from "../content/saved-item-details";
 
 type Values=Record<string,number>;
 type Specialty={skill:string;name:string;source:string};
-type Merit={name:string;dots:number;source:string;notes:string};
+type Merit={name:string;dots:number;source:string;notes:string;catalogId?:string;versionId?:string};
 type GameData={
   attributes:Values;skills:Values;disciplines:Values;disciplinePowers:Record<string,string[]>;specialties:Specialty[];merits:Merit[];flawItems:Merit[];
   bloodSession?:BloodSession;stainImpaired?:boolean;predator:string;humanity:number;hunger:number;stains:number;healthSuperficial:number;healthAggravated:number;willpowerSuperficial:number;willpowerAggravated:number;
@@ -139,7 +140,7 @@ export default function GameSheet({displayName,signOutPath}:{displayName:string;
         <Tabs defaultValue="traits" className="play-tabs"><TabsList variant="line"><TabsTrigger value="traits"><UiText text="Características"/></TabsTrigger><TabsTrigger value="disciplines"><UiText text="Disciplinas"/></TabsTrigger><TabsTrigger value="story"><UiText text="Âncoras"/></TabsTrigger><TabsTrigger value="notes"><UiText text="Notas"/></TabsTrigger></TabsList>
           <TabsContent value="traits"><div className="play-columns"><TraitPanel title={t("Atributos")} values={character.data.attributes}/><TraitPanel title={t("Habilidades")} values={character.data.skills} specialties={specialtiesBySkill}/></div></TabsContent>
           <TabsContent value="disciplines"><div className="play-disciplines">{Object.entries(character.data.disciplines).filter(([,dots])=>dots>0).map(([name,dots])=><article key={name}><header><h3>{name}</h3><DotsRead value={dots}/></header>{(character.data.disciplinePowers[name]||[]).filter(Boolean).map(power=><PowerDetails key={power} name={power} discipline={name} activeSourcebooks={character.data.activeSourcebooks}/>)}</article>)}</div></TabsContent>
-          <TabsContent value="story"><div className="play-story"><StoryBlock title={t("Ambição")} text={character.data.ambition}/><StoryBlock title={t("Desejo")} text={character.data.desire}/>{readAnchors(character.data.touchstones,character.data.convictions).map((anchor,index)=><StoryBlock key={index} title={`Pilar + Convicção ${index+1}`} text={`Pilar: ${anchor.touchstone||"Não preenchido"}\nConvicção: ${anchor.conviction||"Não preenchida"}`}/>)}<StoryBlock title={t("Vantagens")} text={character.data.merits.map(item=>`${item.name} ${"•".repeat(item.dots)}`).join("\n")}/><StoryBlock title={t("Defeitos")} text={character.data.flawItems.map(item=>`${item.name} ${"•".repeat(item.dots)}`).join("\n")}/></div></TabsContent>
+          <TabsContent value="story"><div className="play-story"><StoryBlock title={t("Ambição")} text={character.data.ambition}/><StoryBlock title={t("Desejo")} text={character.data.desire}/>{readAnchors(character.data.touchstones,character.data.convictions).map((anchor,index)=><StoryBlock key={index} title={`Pilar + Convicção ${index+1}`} text={`Pilar: ${anchor.touchstone||"Não preenchido"}\nConvicção: ${anchor.conviction||"Não preenchida"}`}/>)}<StoryItems title={t("Vantagens")} items={character.data.merits}/><StoryItems title={t("Defeitos")} items={character.data.flawItems} flaw/></div></TabsContent>
           <TabsContent value="notes"><label className="play-notes"><span><UiText text="Notas da sessão"/></span><textarea value={character.data.notes} onChange={event=>setData("notes",event.target.value)} placeholder={t("Condições, lembretes, dívidas e acontecimentos desta noite…")}/></label></TabsContent>
         </Tabs>
       </section>
@@ -159,4 +160,5 @@ function DamageTrack({label,max,superficial,aggravated,onChange}:{label:string;m
 function TraitPanel({title,values,specialties={}}:{title:string;values:Values;specialties?:Partial<Record<string,Specialty[]>>}){return <section className="trait-panel"><h3>{title}</h3>{Object.entries(values).filter(([,value])=>value>0).sort((a,b)=>b[1]-a[1]).map(([name,value])=><div key={name}><span>{name}{specialties[name]?.length?<small>{specialties[name]?.map(item=>item.name).join(", ")}</small>:null}</span><DotsRead value={value}/></div>)}</section>}
 function DotsRead({value}:{value:number}){return <span className="dots-read">{Array.from({length:5},(_,i)=><i className={i<value?"filled":""} key={i}/>)}</span>}
 function StoryBlock({title,text}:{title:string;text:string}){return <article><span>{title}</span>{text?<p>{text}</p>:<em><UiText text="Não preenchido"/></em>}</article>}
+function StoryItems({title,items,flaw=false}:{title:string;items:Merit[];flaw?:boolean}){return <article><span>{title}</span>{items.length?items.map((item,index)=><div key={`${item.catalogId||item.name}:${index}`}><p>{item.name} {"•".repeat(Math.max(0,Math.min(10,item.dots)))}{item.notes&&<> — {item.notes}</>}</p><SavedItemDetails item={item} flaw={flaw}/></div>):<em><UiText text="Não preenchido"/></em>}</article>}
 function TraitOptions({items,exclude}:{items:Array<{key:string;name:string;value:number;group:string}>;exclude?:string}){return <>{["Atributos","Habilidades","Disciplinas"].map(group=><optgroup label={group} key={group}>{items.filter(item=>item.group===group&&item.key!==exclude).map(item=><option value={item.key} key={item.key}>{item.name} ({item.value})</option>)}</optgroup>)}</>}

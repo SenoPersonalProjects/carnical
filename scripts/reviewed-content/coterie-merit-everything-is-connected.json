@@ -1,0 +1,139 @@
+{
+  "id": "coterie-merit-everything-is-connected",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Tudo Está Conectado",
+    "en": "Everything Is Connected"
+  },
+  "aliases": [
+    "Tudo Está Conectado",
+    "Everything Is Connected"
+  ],
+  "level": 3,
+  "versions": [
+    {
+      "id": "coterie-merit-everything-is-connected-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 179, 183",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        },
+        {
+          "pdfPage": 185,
+          "printedPage": 183
+        }
+      ],
+      "level": 3,
+      "requirements": {
+        "clans": [
+          "Malkaviano"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Malkaviano. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "O Malkaviano é capaz de extrair\n\nsegredos das fontes mais improváveis, como descobrir a localização da cripta de um Ancião a partir de uma conversa casual sobre o clima ou ler os medos mais profundos de um adversário no modo como ele vira à direita em uma esquina. Uma vez por sessão, em um teste envolvendo a coleta de informações realizado por outro integrante da coterie, o Malkaviano pode escolher outra Habilidade daquele integrante e usar o valor dela no lugar do valor da Habilidade original. O Oráculo então é capaz de interpretar os resultados, ganhando a mesma informação que a parada original lhe teria dado, dependendo da margem de sucesso, como sempre."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito.A coterie como um todo também pode adquiri-la durante a criação da coterie."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Malkaviano. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "3 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "The Malkavian is able to extract secrets from the most unlikely sources, such as discerning the location of an elder’s vault from someone’s casual exchange about the weather or unearthing an adversary’s deepest fears from the way they take a right at an intersection. Once per session, the Malkavian has the ability to let another member of their coterie substitute one Skill pool for another of their choice (that they possess) in a test involving the gathering of information. The Oracle is then able to interpret the results, gaining the same information as the original pool would have yielded, depending on the margin of success as usual."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect. The coterie as a whole may also purchase it during coterie creation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "coterie-merit-everything-is-connected-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 30, 35",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "pages": [
+        {
+          "pdfPage": 30,
+          "printedPage": 30
+        },
+        {
+          "pdfPage": 35,
+          "printedPage": 35
+        }
+      ],
+      "level": 3,
+      "requirements": {
+        "clans": [
+          "Malkaviano"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Malkaviano. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "O Malkaviano é capaz de extrair\n\nsegredos das fontes mais improváveis, como descobrir a localização da cripta de um Ancião a partir de uma conversa casual sobre o clima ou ler os medos mais profundos de um adversário no modo como ele vira à direita em uma esquina. Uma vez por sessão, em um teste envolvendo a coleta de informações realizado por outro integrante da coterie, o Malkaviano pode escolher outra Habilidade daquele integrante e usar o valor dela no lugar do valor da Habilidade original. O Oráculo então é capaz de interpretar os resultados, ganhando a mesma informação que a parada original lhe teria dado, dependendo da margem de sucesso, como sempre."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Malkaviano. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "3 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "The Malkavian is able to extract secrets from the most unlikely sources, such as discerning the location of an elder’s vault from someone’s casual exchange about the weather or unearthing an adversary’s deepest fears from the way they take a right at an intersection. Once per session, the Malkavian has the ability to let another member of their coterie substitute one Skill pool for another of their choice (that they possess) in a test involving the gathering of information. The Oracle is then able to interpret the results, gaining the same information as the original pool would have yielded, depending on the margin of success as usual."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect."
+          }
+        ]
+      }
+    }
+  ]
+}

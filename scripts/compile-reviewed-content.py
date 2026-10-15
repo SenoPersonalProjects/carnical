@@ -27,5 +27,6 @@ for file in (repo/'scripts/reviewed-content').glob('*.json'):
  entries[entry['id']]=entry
 (repo/'app/content/catalog.json').write_text(json.dumps({'entries':list(entries.values())},ensure_ascii=False,indent=2),encoding='utf-8');index=[{key:entry[key] for key in ['id','kind','names','aliases','discipline','level'] if key in entry}|{'books':list(dict.fromkeys(version['book'] for version in entry['versions']))} for entry in entries.values()]
 for row in index:
- row['versions']=[{key:version[key] for key in ['id','book','sourceTitle','level','requirements'] if key in version} for version in entries[row['id']]['versions']]
+ if entries[row['id']].get('legacyIds'):row['legacyIds']=entries[row['id']]['legacyIds']
+ row['versions']=[{key:version[key] for key in ['id','book','sourceTitle','level','requirements','names'] if key in version} for version in entries[row['id']]['versions']]
 (repo/'app/content/catalog-index.json').write_text(json.dumps({'entries':index},ensure_ascii=False,indent=2),encoding='utf-8');print(f'{len(entries)} reviewed entries compiled')

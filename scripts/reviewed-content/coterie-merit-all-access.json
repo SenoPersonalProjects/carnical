@@ -1,0 +1,147 @@
+{
+  "id": "coterie-merit-all-access",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Acesso Total",
+    "en": "All Access"
+  },
+  "aliases": [
+    "Acesso Total",
+    "All Access"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "coterie-merit-all-access-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 179, 187, 188",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        },
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "level": 1,
+      "requirements": {
+        "clans": [
+          "Toreador"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Toreador. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Seja na estreia de um filme de um auteur em ascenção, um baile de gala para levantar fundos para um aspirante a político, ou o clube que passa a proibir a entrada de bermuda porque ali não gostam do jeito que você se veste, você sabe como entrar – mesmo que sem convite. Uma vez por sessão, quando uma coterie é barrada em um evento ou local, ela consegue passar pelos seguranças ou guarda, pois os nomes dos seus integrantes estão na lista ou ela tem uma conexão com quem quer que se passe por dono ou gerente. Isso só vale para situações com controle de acesso ou lista de convidados; não serve para burlar sistemas de segurança, defesas místicas ou coisa parecida, e o Narrador, como sempre, tem liberdade para bloquear\n\na entrada, caso isso possa prejudicar a história (mas seria interessante substituir o inconveniente por uma pista suculenta)."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito.A coterie como um todo também pode adquiri-la durante a criação da coterie."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Toreador. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "Whether it’s the premiere of a film by a budding auteur, a fundraising gala for an aspiring politico, or the dive bar that suddenly has a dress code because it doesn’t like the looks of you, you know how to get yourself in — even without an actual invitation. Once per game session, when a coterie is faced with a barrier to enter a mortal event or facility, they can get past the bouncers or security guards by being on the guest list or having a connection to whatever passes for owner or patron. This applies only to situations with some kind of door staff or guest list; it doesn’t\n\ncircumvent security systems, mystical wards, or the like, and the Storyteller is of course free to block entry if this would somehow short-circuit a story (but should then provide the players with a juicy clue instead)."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect. The coterie as a whole may also purchase it during coterie creation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "coterie-merit-all-access-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 30, 38, 39",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "pages": [
+        {
+          "pdfPage": 30,
+          "printedPage": 30
+        },
+        {
+          "pdfPage": 38,
+          "printedPage": 38
+        },
+        {
+          "pdfPage": 39,
+          "printedPage": 39
+        }
+      ],
+      "level": 1,
+      "requirements": {
+        "clans": [
+          "Toreador"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Toreador. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Seja na estreia de um filme de um auteur em ascenção, um baile de gala para levantar fundos para um aspirante a político, ou o clube que passa a proibir a entrada de bermuda porque ali não gostam do jeito que você se veste, você sabe como entrar – mesmo que sem convite. Uma vez por sessão, quando uma coterie é barrada em um evento ou local, ela consegue passar pelos seguranças ou guarda, pois os nomes dos seus integrantes estão na lista ou ela tem uma conexão com quem quer que se passe por dono ou gerente. Isso só vale para situações com controle de acesso ou lista de convidados; não serve para burlar sistemas de segurança, defesas místicas ou coisa parecida, e o Narrador, como sempre, tem liberdade para bloquear\n\na entrada, caso isso possa prejudicar a história (mas seria interessante substituir o inconveniente por uma pista suculenta)."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Toreador. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "Whether it’s the premiere of a film by a budding auteur, a fundraising gala for an aspiring politico, or the dive bar that suddenly has a dress code because it doesn’t like the looks of you, you know how to get yourself in — even without an actual invitation. Once per game session, when a coterie is faced with a barrier to enter a mortal event or facility, they can get past the bouncers or security guards by being on the guest list or having a connection to whatever passes for owner or patron. This applies only to situations with some kind of door staff or guest list; it doesn’t\n\ncircumvent security systems, mystical wards, or the like, and the Storyteller is of course free to block entry if this would somehow short-circuit a story (but should then provide the players with a juicy clue instead)."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect."
+          }
+        ]
+      }
+    }
+  ]
+}

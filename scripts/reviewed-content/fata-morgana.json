@@ -1,0 +1,164 @@
+{
+  "id": "fata-morgana",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Fata Morgana",
+    "en": "Fata Morgana"
+  },
+  "aliases": [
+    "Fata Morgana",
+    "Fata Morgana"
+  ],
+  "discipline": "Ofuscação",
+  "level": 3,
+  "versions": [
+    {
+      "id": "fata-morgana-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 77",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 3,
+      "pages": [
+        {
+          "pdfPage": 79,
+          "printedPage": 77
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 3,
+          "Presença": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro pode criar alucinações elaboradas, fazendo com que quaisquer alvos na sua vizinhança vejam, ouçam e sintam o que ele quiser. Desde a degustação de uma marmita de arroz e larvas ao surgimento de uma estrondosa torrente de sangue fétido e rançoso dos esgotos, Fata Morgana faz com que seus alvos experimentem eventos que simplesmente não são reais. Não há limite para o número de vítimas que pode ser afetado simultaneamente, contudo, para ser afetado por Fata Morgana, um alvo precisa ser capaz de ver o usuário ou vice-versa, embora não precise estar ciente dele. Além disso, o vampiro não precisa permanecer no local uma vez que a vítima tenha sido afetada. Efeitos visuais sempre assumem a forma de objetos separados. Eles não podem ser usados para “mascarar”, encobrir ou disfarçar itens ou indivíduos, e jamais são capazes de bloquear por completo uma linha de visão. As alucinações deste poder não podem dar a impressão de afetar a realidade circundante: a torrente de sangue não arrastará pedestres ou carros estacionados na rua, e uma explosão não causará dano, alucinatório ou não. Uma escadaria que desabe não derrubará quem quer que esteja descendo a escadaria real. Efeitos sensoriais criados por Fata Morgana não são capazes de cegar, ensurdecer ou de nenhum modo sobrecarregar os sentidos, nem mesmo aqueles aumentados sobrenaturalmente. Além disso, alucinações não são captadas por câmeras ou outros tipos de aparelhos de gravação."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Presença 2"
+          },
+          {
+            "title": "Custo",
+            "text": "Uma Checagem de Sangue"
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Ofuscação"
+          },
+          {
+            "title": "Sistema",
+            "text": "O usuário realiza um teste de Manipulação + Ofuscação contra uma Dificuldade igual a 1 mais o número de sentidos afetados pela alucinação. (Uma alucinação audiovisual resultaria em Dificuldade 3, enquanto uma experiência completa com os cinco sentidos resultaria em Dificuldade 6.) As alucinações visuais mais fáceis de criar são razoavelmente pequenas ou discretas – aumente a Dificuldade em um para alucinações com o tamanho de um cômodo, dois para aquelas com o tamanho de uma casa e assim por diante. Complicações adicionais podem aumentar a Dificuldade, mas isso fica a critério do Narrador. Qualquer tentativa de imitar a aparência de um indivíduo específico ou, de algum modo, enganar, pode exigir testes adicionais de Performance ou Subterfúgio, conforme o caso. Vampiros e outras criaturas sobrenaturais têm uma chance de desacreditar uma alucinação, contudo, mortais só podem fazê-lo se tiverem uma razão para suspeitar da farsa. Em ambos os casos, teste Inteligência + Percepção contra Manipulação + Presença do usuário. Sucesso significa que o alvo não é mais afetado pela alucinação, que desaparece para ele. Qualquer tentativa de interagir com a alucinação também fará com que ela desapareça por completo, pois todos os seus alvos ficarão cientes da sua natureza irreal (como no exemplo da escadaria, caso alguém a esteja descendo ou subindo). Note que o uso do poder não é evidente, logo, mesmo que a alucinação seja revelada, não fica óbvio quem a originou. As alucinações criadas por Fata Morgana jamais podem ser gravadas ou transmitidas (como ocorre com o uso de Fantasma na Máquina).\n\nSe a alucinação puder provocar Frenesi ou reações semelhantes, aplique o mesmo teste com Dificuldade um ponto menor do que a situação real."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena, a menos que o vampiro faça a alucinação desaparecer antes disso."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire can craft elaborate hallucinations, making any subjects in their vicinity see, hear, and feel whatever the user can devise. From seeing and tasting a takeout container filled with maggots and rice to a thunderous torrent of reeking, rancid blood boiling out of the sewers, Fata Morgana causes witnesses to experience circumstances that just aren’t real. There is no limit to the number of victims who can be affected simultaneously, but in order to be affected by Fata Morgana a subject needs to be able to see the user or vice versa, though they do not need to be actively aware of them. The vampire does not need to remain present once a victim is affected. Visual effects are always separate objects. They cannot be used to “mask” or otherwise disguise items or individuals, and can never entirely block line of sight. Fata Morgana hallucinations cannot appear to affect the surrounding reality: The torrent of blood won’t wash away cars parked in the street or pedestrians, and an explosion created with Fata Morgana does not cause any damage, hallucinatory or otherwise. A collapsing staircase won’t tumble anyone currently descending the staircase. Sensory effects created by Fata Morgana cannot blind or deafen or in other ways overload senses, not even those supernaturally augmented. Similarly, hallucinations are not caught on camera or other kinds of recording devices."
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Presence 2"
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Obfuscate"
+          },
+          {
+            "title": "System",
+            "text": "The user makes a Manipulation + Obfuscate test against a Difficulty equal to one plus the number of senses the hallucination targets. (An\n\naudio-visual hallucination would thus be Difficulty 3, while a complete five-sensory experience would be Difficulty 6.) The easiest visual hallucinations to create are fairly small or discreet — increase the Difficulty by one for room-sized hallucinations, two for house-sized hallucinations, and so on. Further complications may add additional Difficulty at the Storyteller’s discretion. Any attempt to mimic the appearance of a specific individual or in other ways deceive can require additional Performance or Subterfuge tests as appropriate. Vampires and other supernatural creatures have a chance to disbelieve the hallucination, but mortals can do this only if they have reason to suspect it to be fake. In both cases they roll Intelligence + Awareness against the user’s Manipulation + Presence. A success means that the individual in question is no longer affected by the hallucination, and it effectively disappears for them. Any attempt to interact with the hallucination also causes it to lapse entirely, as everyone present becomes aware of its unreal nature (as with the collapsing staircase example, if someone is using the staircase). Note that the use of this power is not overt, so even if the hallucination is revealed, it is not obvious from whom it originated. These hallucinations can never be recorded or transmitted (such as by using Ghost in the Machine). If the hallucination could cause Frenzy or similar reactions in its targets, apply the same test at a Difficulty of one lower than the real thing."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene, unless the vampire chooses to let it lapse before that."
+          }
+        ]
+      }
+    },
+    {
+      "id": "fata-morgana-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 26",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 3,
+      "pages": [
+        {
+          "pdfPage": 26,
+          "printedPage": 26
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 3,
+          "Presença": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro pode criar alucinações elaboradas, fazendo com que quaisquer alvos na sua vizinhança vejam, ouçam e sintam o que ele quiser. Desde a degustação de uma marmita de arroz e larvas ao surgimento de uma estrondosa torrente de sangue fétido e rançoso dos esgotos, Fata Morgana faz com que seus alvos experimentem eventos que simplesmente não são reais. Não há limite para o número de vítimas que pode ser afetado simultaneamente, contudo, para ser afetado por Fata Morgana, um alvo precisa ser capaz de ver o usuário ou vice-versa, embora não precise estar ciente dele. Além disso, o vampiro não precisa permanecer no local uma vez que a vítima tenha sido afetada. Efeitos visuais sempre assumem a forma de objetos separados. Eles não podem ser usados para “mascarar”, encobrir ou disfarçar itens ou indivíduos, e jamais são capazes de bloquear por completo uma linha de visão. As alucinações deste poder não podem dar a impressão de afetar a realidade circundante: a torrente de sangue não arrastará pedestres ou carros estacionados na rua, e uma explosão não causará dano, alucinatório ou não. Uma escadaria que desabe não derrubará quem quer que esteja descendo a escadaria real. Efeitos sensoriais criados por Fata Morgana não são capazes de cegar, ensurdecer ou de nenhum modo sobrecarregar os sentidos, nem mesmo aqueles aumentados sobrenaturalmente. Além disso, alucinações não são captadas por câmeras ou outros tipos de aparelhos de gravação."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Presença 2"
+          },
+          {
+            "title": "Custo",
+            "text": "Uma Checagem de Sangue"
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Ofuscação"
+          },
+          {
+            "title": "Sistema",
+            "text": "O usuário realiza um teste de Manipulação + Ofuscação contra uma Dificuldade igual a 1 mais o número de sentidos afetados pela alucinação. (Uma alucinação audiovisual resultaria em Dificuldade 3, enquanto uma experiência completa com os cinco sentidos resultaria em Dificuldade 6.) As alucinações visuais mais fáceis de criar são razoavelmente pequenas ou discretas – aumente a Dificuldade em um para alucinações com o tamanho de um cômodo, dois para aquelas com o tamanho de uma casa e assim por diante. Complicações adicionais podem aumentar a Dificuldade, mas isso fica a critério do Narrador. Qualquer tentativa de imitar a aparência de um indivíduo específico ou, de algum modo, enganar, pode exigir testes adicionais de Performance ou Subterfúgio, conforme o caso. Vampiros e outras criaturas sobrenaturais têm uma chance de desacreditar uma alucinação, contudo, mortais só podem fazê-lo se tiverem uma razão para suspeitar da farsa. Em ambos os casos, teste Inteligência + Percepção contra Manipulação + Presença do usuário. Sucesso significa que o alvo não é mais afetado pela alucinação, que desaparece para ele. Qualquer tentativa de interagir com a alucinação também fará com que ela desapareça por completo, pois todos os seus alvos ficarão cientes da sua natureza irreal (como no exemplo da escadaria, caso alguém a esteja descendo ou subindo). Note que o uso do poder não é evidente, logo, mesmo que a alucinação seja revelada, não fica óbvio quem a originou. As alucinações criadas por Fata Morgana jamais podem ser gravadas ou transmitidas (como ocorre com o uso de Fantasma na Máquina)."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena, a menos que o vampiro faça a alucinação desaparecer antes disso."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire can craft elaborate hallucinations, making any subjects in their vicinity see, hear, and feel whatever the user can devise. From seeing and tasting a takeout container filled with maggots and rice to a thunderous torrent of reeking, rancid blood boiling out of the sewers, Fata Morgana causes witnesses to experience circumstances that just aren’t real. There is no limit to the number of victims who can be affected simultaneously, but in order to be affected by Fata Morgana a subject needs to be able to see the user or vice versa, though they do not need to be actively aware of them. The vampire does not need to remain present once a victim is affected. Visual effects are always separate objects. They cannot be used to “mask” or otherwise disguise items or individuals, and can never entirely block line of sight. Fata Morgana hallucinations cannot appear to affect the surrounding reality: The torrent of blood won’t wash away cars parked in the street or pedestrians, and an explosion created with Fata Morgana does not cause any damage, hallucinatory or otherwise. A collapsing staircase won’t tumble anyone currently descending the staircase. Sensory effects created by Fata Morgana cannot blind or deafen or in other ways overload senses, not even those supernaturally augmented. Similarly, hallucinations are not caught on camera or other kinds of recording devices."
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Presence 2"
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Obfuscate"
+          },
+          {
+            "title": "System",
+            "text": "The user makes a Manipulation + Obfuscate test against a Difficulty equal to one plus the number of senses the hallucination targets. (An\n\naudio-visual hallucination would thus be Difficulty 3, while a complete five-sensory experience would be Difficulty 6.) The easiest visual hallucinations to create are fairly small or discreet — increase the Difficulty by one for room-sized hallucinations, two for house-sized hallucinations, and so on. Further complications may add additional Difficulty at the Storyteller’s discretion. Any attempt to mimic the appearance of a specific individual or in other ways deceive can require additional Performance or Subterfuge tests as appropriate. Vampires and other supernatural creatures have a chance to disbelieve the hallucination, but mortals can do this only if they have reason to suspect it to be fake. In both cases they roll Intelligence + Awareness against the user’s Manipulation + Presence. A success means that the individual in question is no longer affected by the hallucination, and it effectively disappears for them. Any attempt to interact with the hallucination also causes it to lapse entirely, as everyone present becomes aware of its unreal nature (as with the collapsing staircase example, if someone is using the staircase). Note that the use of this power is not overt, so even if the hallucination is revealed, it is not obvious from whom it originated. These hallucinations can never be recorded or transmitted (such as by using Ghost in the Machine)."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene, unless the vampire chooses to let it lapse before that."
+          }
+        ]
+      }
+    }
+  ]
+}

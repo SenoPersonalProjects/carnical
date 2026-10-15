@@ -1,0 +1,77 @@
+{
+  "id": "coterie-merit-restraint",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Contenção",
+    "en": "Restraint"
+  },
+  "aliases": [
+    "Contenção",
+    "Restraint"
+  ],
+  "level": 3,
+  "versions": [
+    {
+      "id": "coterie-merit-restraint-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 179, 187",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "level": 3,
+      "requirements": {
+        "clans": [
+          "Salubri"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Salubri. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Seja pela necessidade de manter a discrição ou por convicção moral, o autocontrole dos Salubri pode inspirar outros. Uma vez por sessão, o Salubri pode conter a Besta de outro integrante da coterie em sua presença, permitindo que esse aliado rerrole gratuitamente todos os seus dados de Fome — e somente todos eles — em um teste."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito.A coterie como um todo também pode adquiri-la durante a criação da coterie."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Salubri. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "3 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "Whether from dire need to keep a low profile, or true moral conviction, Salubri are often paragons of self-control, a trait that can rub off on others. Once per session the Cyclops can restrain the Beast of another coterie member in their presence, enabling them to reroll all (and only all) of their Hunger dice in a test for free."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect. The coterie as a whole may also purchase it during coterie creation."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -4,7 +4,7 @@ type Block={kind:"heading"|"paragraph"|"list"|"quote"|"table"|"rule";text?:strin
 function cells(line:string){return line.trim().replace(/^\||\|$/g,"").split(/(?<!\\)\|/).map(cell=>cell.trim().replaceAll("\\|","|"));}
 export function parseReferenceMarkdown(content:string):Block[]{
   const lines=content.replaceAll("\r","").split("\n"),blocks:Block[]=[],paragraph:string[]=[];
-  const flush=()=>{if(paragraph.length){blocks.push({kind:"paragraph",text:paragraph.join("\n")});paragraph.length=0}};
+  const flush=()=>{if(paragraph.length){blocks.push({kind:"paragraph",text:paragraph.join(" ")});paragraph.length=0}};
   for(let i=0;i<lines.length;i++){
     const line=lines[i].trim();if(!line){flush();continue}
     if(line.includes("|")&&i+1<lines.length&&/^\|?\s*:?-{3,}/.test(lines[i+1].trim())){

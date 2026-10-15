@@ -1,0 +1,129 @@
+{
+  "id": "companion-advantage-crones-curse",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Maldição da Megaira",
+    "en": "Crone’s Curse"
+  },
+  "aliases": [
+    "Maldição da Megaira",
+    "Crone’s Curse"
+  ],
+  "versions": [
+    {
+      "id": "companion-advantage-crones-curse-guide-2",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 142 · 2 ponto(s)",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "names": {
+        "pt-BR": "Maldição da Megaira",
+        "en": "Crone’s Curse"
+      },
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 144,
+          "printedPage": 142
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "ghoul"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Carniçal."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Beber o Vitae do domitor fez você envelhecer rapidamente: sua aparência é pelo menos uma década mais velha que sua idade. Sua trilha de Vitalidade tem uma caixa a menos. O Defeito é cancelado ao receber o Abraço, mas o Narrador pode decidir que ele persiste; nesse caso a condição é sua, não do Sangue do domitor."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ghoul."
+          },
+          {
+            "title": "Cost",
+            "text": "2 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "Drinking the domitor’s vitae rapidly aged you: you look at least a decade older than your age. You have one fewer Health box than normal. The Flaw is canceled upon the Embrace, but the Storyteller may decide it persists; in that case the condition is yours rather than a property of the domitor’s Blood."
+          }
+        ]
+      }
+    },
+    {
+      "id": "companion-advantage-crones-curse-3",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 59–60 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 3,
+      "pages": [
+        {
+          "pdfPage": 59,
+          "printedPage": 59
+        },
+        {
+          "pdfPage": 60,
+          "printedPage": 60
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "ghoul"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Carniçal."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Beber o Vitae do domitor fez você envelhecer rapidamente: sua aparência é uma década mais velha que sua idade. Sua trilha de Vitalidade tem uma caixa a menos. O Defeito é cancelado ao receber o Abraço, mas o Narrador pode decidir que ele persiste; nesse caso a condição é sua, não do Sangue do domitor."
+          },
+          {
+            "title": "Mudanças de condição",
+            "text": "As opções específicas de carniçal não concedem efeitos a mortais. Qualidades e Defeitos normalmente continuam quando um mortal se torna carniçal, salvo indicação contrária. Tornar-se carniçal ou receber o Abraço pode invalidar certas Vantagens. O Narrador decide se os pontos são realocados ou perdidos: em geral, pontos de Qualidades invalidadas podem comprar novas Vantagens, enquanto pontos de Defeitos podem ser reservados pelo Narrador para uso posterior."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ghoul."
+          },
+          {
+            "title": "Cost",
+            "text": "3 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "Drinking the domitor’s vitae rapidly aged you: you look a decade older than your age. You have one fewer Health box than normal. The Flaw is canceled upon the Embrace, but the Storyteller may decide it persists; in that case the condition is yours rather than a property of the domitor’s Blood."
+          },
+          {
+            "title": "Changes of condition",
+            "text": "The ghoul-specific options do not grant effects to mortals. Merits and Flaws normally carry over when a mortal becomes a ghoul, unless stated otherwise. Becoming a ghoul or receiving the Embrace may invalidate some Advantages. The Storyteller decides whether to reallocate or lose those dots: invalidated Merit dots can generally purchase new Advantages; Flaw dots can be retained by the Storyteller for later use."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 3
+}

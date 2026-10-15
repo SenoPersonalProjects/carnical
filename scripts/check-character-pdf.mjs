@@ -38,6 +38,12 @@ try{
  const value=structuredClone(base);value.data.disciplinePowers={Oblívio:["O Chamado do Viajante"]};value.data.disciplines={Oblívio:1};let requests=0;
  globalThis.fetch=async url=>{requests++;const params=new URL(url,"http://fixture.local").searchParams,entry=catalog.entries.find(entry=>entry.id===params.get("id"));assert.ok(entry);const locale=params.get("lang");return Response.json({id:entry.id,name:entry.names[locale],source:entry.versions[0].sourceTitle,sections:entry.versions[0].descriptions[locale]})};
  const blob=await createCharacterPdf(characterSnapshot(value),"en");assert.equal(Buffer.from(await blob.arrayBuffer()).subarray(0,5).toString(),"%PDF-");assert.equal(requests,1);
+ const versioned=structuredClone(value);versioned.clan="Personalizado";versioned.data.customClan="Ravnos";versioned.data.disciplinePowers={};
+ const item=catalog.entries.find(entry=>entry.id==="coterie-merit-call-to-purpose"),version=item.versions.find(version=>version.book==="companion-v5");
+ versioned.data.merits=[{name:item.names["pt-BR"],dots:version.level,source:"companion_v5",notes:"Escolha preservada",catalogId:item.id,versionId:version.id}];
+ const requested=[];
+ globalThis.fetch=async url=>{const params=new URL(url,"http://fixture.local").searchParams;requested.push(Object.fromEntries(params));assert.equal(params.get("id"),item.id);assert.equal(params.get("version"),version.id);assert.equal(params.get("book"),version.book);return Response.json({id:item.id,name:item.names.en,source:version.sourceTitle,sections:version.descriptions.en})};
+ await createCharacterPdf(characterSnapshot(versioned),"en");assert.equal(requested.length,1);assert.equal(versioned.data.merits[0].name,item.names["pt-BR"]);
  globalThis.fetch=async()=>new Response("Unavailable",{status:503});await assert.rejects(()=>createCharacterPdf(characterSnapshot(value),"en"),/Missing item rules/);
  globalThis.fetch=async()=>new Response("Not reviewed",{status:404});
  const legacy=structuredClone(value);legacy.data.disciplinePowers={"Auspícios":["Sentidos Aguçados"]};

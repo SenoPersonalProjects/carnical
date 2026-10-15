@@ -6,18 +6,20 @@ import { POWER_CATALOG, rulesUrl, type PowerRule } from "../game-rules";
 import Link from "next/link";
 import Image from "next/image";
 import ContentDetails from "../content/content-details";
-import {resolveContent} from "../content/resolve";
+import {resolveContent,sameContent,contentName} from "../content/resolve";
 import {powerForSources} from "../content/power-eligibility";
+import {usePreferredLocale} from "../preferences";
 import {normalizeActiveSourcebooks} from "../creation-sources";
 
 type Reference={power:PowerRule;excerpt:string;pages:number[];initialPage:number;url:string};
 export default function PowerDetails({name,discipline,activeSourcebooks}:{name:string;discipline:string;activeSourcebooks?:unknown}) {
+  const locale=usePreferredLocale();
   const sources=new Set(normalizeActiveSourcebooks(activeSourcebooks));
-  const matches=POWER_CATALOG.filter(item=>item.name===name&&item.discipline===discipline).map(power=>powerForSources(power,sources));
+  const matches=POWER_CATALOG.filter(item=>item.discipline===discipline&&sameContent(item.name,name,{discipline})).map(power=>powerForSources(power,sources));
   const [reference,setReference]=useState<Reference|null>(null),[error,setError]=useState(false),[loading,setLoading]=useState(false),[page,setPage]=useState(0);
   const requestId=useRef(0);
   const content=resolveContent(name,{discipline});
-  if(content)return <ContentDetails id={content.id} name={name} book={matches.length===1?matches[0].source.book:undefined}/>;
+  if(content)return <ContentDetails id={content.id} name={contentName(name,locale,{discipline,book:matches.length===1?matches[0].source.book:undefined})} book={matches.length===1?matches[0].source.book:undefined}/>;
   const load=async(id:string)=>{const version=++requestId.current;setLoading(true);setError(false);setReference(null);setPage(0);try{const response=await fetch(`/api/powers?id=${encodeURIComponent(id)}`);if(!response.ok)throw new Error();const data:Reference=await response.json();if(version!==requestId.current)return;setReference(data);setPage(Math.max(0,data.pages.indexOf(data.initialPage)))}catch{if(version===requestId.current)setError(true)}finally{if(version===requestId.current)setLoading(false)}};
   return <details className="power-details" onToggle={event=>{if(event.currentTarget.open&&!reference&&!loading&&!error&&matches[0])void load(matches[0].id)}}>
     <summary>{name} <span><UiText text="Ver descrição e sistema"/></span></summary>

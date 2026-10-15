@@ -1,0 +1,158 @@
+{
+  "id": "players-guide-v5-power-proteanismo-one-with-the-land",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Um com a Terra",
+    "en": "One with the Land"
+  },
+  "aliases": [
+    "Um com a Terra",
+    "One with the Land"
+  ],
+  "discipline": "Proteanismo",
+  "level": 5,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-proteanismo-one-with-the-land-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 83–84",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 5,
+      "pages": [
+        {
+          "pdfPage": 85,
+          "printedPage": 83
+        },
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 5,
+          "Animalismo": 2
+        },
+        "prerequisites": [
+          "Fusão com a Terra"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O Membro domina tanto sua própria forma que passa a ser capaz de estendê-la ao seu domínio. O vampiro não só consegue afundar na terra, como possui uma percepção sobrenatural dos eventos que se passam na região."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Animalismo 2. Pré-requisito: Fusão com a Terra."
+          },
+          {
+            "title": "Custo",
+            "text": "Duas Checagens de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Igual a Fusão com a Terra (consulte a pág. 270 de Vampiro: A Máscara), exceto pelo fato de o vampiro não estar limitado pela composição da superfície com que se funde. Alguns vampiros são famosos por terem se fundido com as paredes dos seus refúgios, enquanto outros escondem-se embaixo de assoalhos empenados ou sob água empoçada. Além disso, o vampiro pode escolher experimentar qualquer estímulo sensorial dentro de uma área de aproximadamente um quilômetro a partir do ponto onde se tornou Um com a Terra, como escutar uma conversa, usufruir fisicamente do encontro amoroso de um casal, ou sentir o cheiro de um incêndio iniciado por uma multidão enfurecida. O vampiro tem essas experiências através dos sentidos de animais que se encontram nas proximidades dos eventos. No caso de eventos discretos ou intencionalmente escondidos, um teste de Raciocínio + Animalismo vs. a parada de dados oposta relevante é exigido. Despertar desse estado antes do cair da noite do dia seguinte requer um teste de Determinação + Proteanismo com Dificuldade 4, e mesmo assim pode demorar até uma hora para o vampiro reemergir por completo. Uma vitória crítica permite o despertar instantâneo."
+          },
+          {
+            "title": "Duração",
+            "text": "Um dia ou mais, ou até o usuário ser perturbado fisicamente"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The Kindred possesses such mastery over their own form that they may extend it even into their domain itself. Not only may the vampire sink into the very earth, they maintain a preternatural awareness of events transpiring within the domain."
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Animalism 2. Prerequisite: Earth Meld."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks"
+          },
+          {
+            "title": "System",
+            "text": "As with Earth Meld (Vampire: The\n\n## Masquerade, p. 270), except the vampire is not\n\nlimited by the makeup of the surface where they take their rest. Some vampires have been known to suffuse themselves into the walls of their manors while others secrete themselves beneath the warped floorboards of a squat, or even hide beneath a shallow pool of “dead water.” Additionally, in a distance of roughly one kilometer in any direction from where the vampire’s body has become One with the Land, the vampire may elect to experience any sensory stimuli within that area, such as listening to a conversation therein, physically enjoying a lovers’ tryst, or catching the scent of a fire that an unruly mob may be stoking. The vampire experiences these senses through the presence of animals, however minute, in the vicinity of the events. If the events are discreet or intentionally hidden, a Wits + Animalism test vs. the relevant opposing dice pool used is required. Rising from this state before nightfall the day after\n\nit has been entered requires a Resolve + Protean test at Difficulty 4, and even then it can take up to an hour for the vampire to fully reemerge. A critical win allows them to rise instantly, however."
+          },
+          {
+            "title": "Duration",
+            "text": "One day or more, or until physically disturbed."
+          }
+        ]
+      }
+    },
+    {
+      "id": "players-guide-v5-power-proteanismo-one-with-the-land-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 28",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 5,
+      "pages": [
+        {
+          "pdfPage": 28,
+          "printedPage": 28
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 5,
+          "Animalismo": 2
+        },
+        "prerequisites": [
+          "Fusão com a Terra"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O Membro domina tanto sua própria forma que passa a ser capaz de estendê-la ao seu domínio. O vampiro não só consegue afundar na terra, como possui uma percepção sobrenatural dos eventos que se passam na região."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Animalismo 2. Pré-requisito: Fusão com a Terra."
+          },
+          {
+            "title": "Custo",
+            "text": "Duas Checagens de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Igual a Fusão com a Terra (consulte a pág. 270 de Vampiro: A Máscara), exceto pelo fato de o vampiro não estar limitado pela composição da superfície com que se funde. Alguns vampiros são famosos por terem se fundido com as paredes dos seus refúgios, enquanto outros escondem-se embaixo de assoalhos empenados ou sob água empoçada. Além disso, o vampiro pode escolher experimentar qualquer estímulo sensorial dentro de uma área de 1,6 quilômetro a partir do ponto onde se tornou Um com a Terra, como escutar uma conversa, usufruir fisicamente do encontro amoroso de um casal, ou sentir o cheiro de um incêndio iniciado por uma multidão enfurecida. O vampiro tem essas experiências através dos sentidos de animais que se encontram nas proximidades dos eventos. No caso de eventos discretos ou intencionalmente escondidos, um teste de Raciocínio + Animalismo vs. a parada de dados oposta relevante é exigido. Despertar desse estado antes do cair da noite do dia seguinte requer um teste de Determinação + Proteanismo com Dificuldade 4, e mesmo assim pode demorar até uma hora para o vampiro reemergir por completo. Uma vitória crítica permite o despertar instantâneo."
+          },
+          {
+            "title": "Duração",
+            "text": "Um dia ou mais, ou até o usuário ser perturbado fisicamente"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The Kindred possesses such mastery over their own form that they may extend it even into their domain itself. Not only may the vampire sink into the very earth, they maintain a preternatural awareness of events transpiring within the domain."
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Animalism 2. Prerequisite: Earth Meld."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks"
+          },
+          {
+            "title": "System",
+            "text": "As with Earth Meld (Vampire: The\n\n## Masquerade, p. 270), except the vampire is not\n\nlimited by the makeup of the surface where they take their rest. Some vampires have been known to suffuse themselves into the walls of their manors while others secrete themselves beneath the warped floorboards of a squat, or even hide beneath a shallow pool of “dead water.” Additionally, in a distance of 1.6 kilometers in any direction from where the vampire’s body has become One with the Land, the vampire may elect to experience any sensory stimuli within that area, such as listening to a conversation therein, physically enjoying a lovers’ tryst, or catching the scent of a fire that an unruly mob may be stoking. The vampire experiences these senses through the presence of animals, however minute, in the vicinity of the events. If the events are discreet or intentionally hidden, a Wits + Animalism test vs. the relevant opposing dice pool used is required. Rising from this state before nightfall the day after\n\nit has been entered requires a Resolve + Protean test at Difficulty 4, and even then it can take up to an hour for the vampire to fully reemerge. A critical win allows them to rise instantly, however."
+          },
+          {
+            "title": "Duration",
+            "text": "One day or more, or until physically disturbed."
+          }
+        ]
+      }
+    }
+  ]
+}

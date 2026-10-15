@@ -1,0 +1,299 @@
+{
+  "id": "companion-advantage-baneful-blood",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Sangue Pernicioso",
+    "en": "Baneful Blood"
+  },
+  "aliases": [
+    "Sangue Pernicioso",
+    "Baneful Blood"
+  ],
+  "versions": [
+    {
+      "id": "companion-advantage-baneful-blood-guide-1",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 141, 142 · 1 ponto(s)",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "names": {
+        "pt-BR": "Sangue Pernicioso",
+        "en": "Baneful Blood"
+      },
+      "level": 1,
+      "pages": [
+        {
+          "pdfPage": 143,
+          "printedPage": 141
+        },
+        {
+          "pdfPage": 144,
+          "printedPage": 142
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "ghoul"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Carniçal."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Você manifesta a Perdição do clã do primeiro domitor cujo Sangue bebeu para se tornar carniçal. Ele deve pertencer a Lasombra, Malkavianos, Ministério, Nosferatu, Ravnos, Salubri ou Toreador. A Perdição continua mesmo que o domitor mude. Cada ponto neste Defeito concede um nível de Gravidade da Perdição; nesta versão, o Defeito tem um ou dois pontos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ghoul."
+          },
+          {
+            "title": "Cost",
+            "text": "1 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "You manifest the clan Bane of the first domitor whose Blood made you a ghoul. That vampire must be Lasombra, Malkavian, Ministry, Nosferatu, Ravnos, Salubri or Toreador. The Bane remains even if you change domitors. Each dot in this Flaw gives one level of Bane Severity; this version allows one or two dots."
+          }
+        ]
+      }
+    },
+    {
+      "id": "companion-advantage-baneful-blood-guide-2",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 141, 142 · 2 ponto(s)",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "names": {
+        "pt-BR": "Sangue Pernicioso",
+        "en": "Baneful Blood"
+      },
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 143,
+          "printedPage": 141
+        },
+        {
+          "pdfPage": 144,
+          "printedPage": 142
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "ghoul"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Carniçal."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Você manifesta a Perdição do clã do primeiro domitor cujo Sangue bebeu para se tornar carniçal. Ele deve pertencer a Lasombra, Malkavianos, Ministério, Nosferatu, Ravnos, Salubri ou Toreador. A Perdição continua mesmo que o domitor mude. Cada ponto neste Defeito concede um nível de Gravidade da Perdição; nesta versão, o Defeito tem um ou dois pontos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ghoul."
+          },
+          {
+            "title": "Cost",
+            "text": "2 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "You manifest the clan Bane of the first domitor whose Blood made you a ghoul. That vampire must be Lasombra, Malkavian, Ministry, Nosferatu, Ravnos, Salubri or Toreador. The Bane remains even if you change domitors. Each dot in this Flaw gives one level of Bane Severity; this version allows one or two dots."
+          }
+        ]
+      }
+    },
+    {
+      "id": "companion-advantage-baneful-blood-1",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 59–60 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 1,
+      "pages": [
+        {
+          "pdfPage": 59,
+          "printedPage": 59
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "ghoul"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Carniçal."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Você manifesta a Perdição do clã do primeiro domitor cujo Sangue bebeu para se tornar carniçal. Ele deve pertencer a Lasombra, Malkavianos, Ministério, Nosferatu, Ravnos, Salubri ou Toreador. A Perdição continua mesmo que você passe a ter outro domitor. Um, dois ou três pontos neste Defeito dão Gravidade da Perdição 1, 2 ou 3, respectivamente."
+          },
+          {
+            "title": "Mudanças de condição",
+            "text": "As opções específicas de carniçal não concedem efeitos a mortais. Qualidades e Defeitos normalmente continuam quando um mortal se torna carniçal, salvo indicação contrária. Tornar-se carniçal ou receber o Abraço pode invalidar certas Vantagens. O Narrador decide se os pontos são realocados ou perdidos: em geral, pontos de Qualidades invalidadas podem comprar novas Vantagens, enquanto pontos de Defeitos podem ser reservados pelo Narrador para uso posterior."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ghoul."
+          },
+          {
+            "title": "Cost",
+            "text": "1 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "You manifest the clan Bane of the first domitor whose Blood made you a ghoul. That vampire must be Lasombra, Malkavian, Ministry, Nosferatu, Ravnos, Salubri or Toreador. The Bane remains even if you change domitors. One, two or three dots in this Flaw give Bane Severity 1, 2 or 3 respectively."
+          },
+          {
+            "title": "Changes of condition",
+            "text": "The ghoul-specific options do not grant effects to mortals. Merits and Flaws normally carry over when a mortal becomes a ghoul, unless stated otherwise. Becoming a ghoul or receiving the Embrace may invalidate some Advantages. The Storyteller decides whether to reallocate or lose those dots: invalidated Merit dots can generally purchase new Advantages; Flaw dots can be retained by the Storyteller for later use."
+          }
+        ]
+      }
+    },
+    {
+      "id": "companion-advantage-baneful-blood-2",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 59–60 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 59,
+          "printedPage": 59
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "ghoul"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Carniçal."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Você manifesta a Perdição do clã do primeiro domitor cujo Sangue bebeu para se tornar carniçal. Ele deve pertencer a Lasombra, Malkavianos, Ministério, Nosferatu, Ravnos, Salubri ou Toreador. A Perdição continua mesmo que você passe a ter outro domitor. Um, dois ou três pontos neste Defeito dão Gravidade da Perdição 1, 2 ou 3, respectivamente."
+          },
+          {
+            "title": "Mudanças de condição",
+            "text": "As opções específicas de carniçal não concedem efeitos a mortais. Qualidades e Defeitos normalmente continuam quando um mortal se torna carniçal, salvo indicação contrária. Tornar-se carniçal ou receber o Abraço pode invalidar certas Vantagens. O Narrador decide se os pontos são realocados ou perdidos: em geral, pontos de Qualidades invalidadas podem comprar novas Vantagens, enquanto pontos de Defeitos podem ser reservados pelo Narrador para uso posterior."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ghoul."
+          },
+          {
+            "title": "Cost",
+            "text": "2 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "You manifest the clan Bane of the first domitor whose Blood made you a ghoul. That vampire must be Lasombra, Malkavian, Ministry, Nosferatu, Ravnos, Salubri or Toreador. The Bane remains even if you change domitors. One, two or three dots in this Flaw give Bane Severity 1, 2 or 3 respectively."
+          },
+          {
+            "title": "Changes of condition",
+            "text": "The ghoul-specific options do not grant effects to mortals. Merits and Flaws normally carry over when a mortal becomes a ghoul, unless stated otherwise. Becoming a ghoul or receiving the Embrace may invalidate some Advantages. The Storyteller decides whether to reallocate or lose those dots: invalidated Merit dots can generally purchase new Advantages; Flaw dots can be retained by the Storyteller for later use."
+          }
+        ]
+      }
+    },
+    {
+      "id": "companion-advantage-baneful-blood-3",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 59–60 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 3,
+      "pages": [
+        {
+          "pdfPage": 59,
+          "printedPage": 59
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "ghoul"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Carniçal."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Você manifesta a Perdição do clã do primeiro domitor cujo Sangue bebeu para se tornar carniçal. Ele deve pertencer a Lasombra, Malkavianos, Ministério, Nosferatu, Ravnos, Salubri ou Toreador. A Perdição continua mesmo que você passe a ter outro domitor. Um, dois ou três pontos neste Defeito dão Gravidade da Perdição 1, 2 ou 3, respectivamente."
+          },
+          {
+            "title": "Mudanças de condição",
+            "text": "As opções específicas de carniçal não concedem efeitos a mortais. Qualidades e Defeitos normalmente continuam quando um mortal se torna carniçal, salvo indicação contrária. Tornar-se carniçal ou receber o Abraço pode invalidar certas Vantagens. O Narrador decide se os pontos são realocados ou perdidos: em geral, pontos de Qualidades invalidadas podem comprar novas Vantagens, enquanto pontos de Defeitos podem ser reservados pelo Narrador para uso posterior."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ghoul."
+          },
+          {
+            "title": "Cost",
+            "text": "3 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "You manifest the clan Bane of the first domitor whose Blood made you a ghoul. That vampire must be Lasombra, Malkavian, Ministry, Nosferatu, Ravnos, Salubri or Toreador. The Bane remains even if you change domitors. One, two or three dots in this Flaw give Bane Severity 1, 2 or 3 respectively."
+          },
+          {
+            "title": "Changes of condition",
+            "text": "The ghoul-specific options do not grant effects to mortals. Merits and Flaws normally carry over when a mortal becomes a ghoul, unless stated otherwise. Becoming a ghoul or receiving the Embrace may invalidate some Advantages. The Storyteller decides whether to reallocate or lose those dots: invalidated Merit dots can generally purchase new Advantages; Flaw dots can be retained by the Storyteller for later use."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "companion-advantage-living-on-the-edge",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Vivendo no Limite",
+    "en": "Living on the Edge"
+  },
+  "aliases": [
+    "Vivendo no Limite",
+    "Living on the Edge",
+    "Propenso ao Risco",
+    "Risk-Taker"
+  ],
+  "versions": [
+    {
+      "id": "companion-advantage-living-on-the-edge-guide-1",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 121 · 1 ponto(s)",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "names": {
+        "pt-BR": "Propenso ao Risco",
+        "en": "Risk-Taker"
+      },
+      "level": 1,
+      "pages": [
+        {
+          "pdfPage": 123,
+          "printedPage": 121
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Defeito Psicológico."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao ter oportunidade de experimentar uma tentação arriscada que nunca viveu, você sofre uma penalidade de dois dados em todas as ações até experimentar a novidade ou a cena terminar. Exemplos incluem uma nova droga, beber Sangue vampírico ou flertar com um Membro. O Defeito não obriga ações suicidas, mas você nem sempre consegue prever as consequências de suas ações."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Psychological Flaw."
+          },
+          {
+            "title": "Cost",
+            "text": "1 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "When offered a risky temptation you have never experienced, take a two-dice penalty on all actions until you try it or the scene ends. Examples include a new drug, drinking vampire Blood or flirting with a Kindred. The Flaw does not compel suicidal actions, but you cannot always predict the consequences of your actions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "companion-advantage-living-on-the-edge-2",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 59–60 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 59,
+          "printedPage": 59
+        },
+        {
+          "pdfPage": 60,
+          "printedPage": 60
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Defeito Psicológico."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao ter oportunidade de experimentar uma tentação arriscada que nunca viveu, você sofre uma penalidade de dois dados em todas as ações até experimentar a novidade ou a cena terminar. Exemplos incluem uma nova droga, beber Sangue vampírico ou flertar com um Membro. O Defeito não obriga ações suicidas, mas você nem sempre consegue prever as consequências de suas ações."
+          },
+          {
+            "title": "Mudanças de condição",
+            "text": "As opções específicas de carniçal não concedem efeitos a mortais. Qualidades e Defeitos normalmente continuam quando um mortal se torna carniçal, salvo indicação contrária. Tornar-se carniçal ou receber o Abraço pode invalidar certas Vantagens. O Narrador decide se os pontos são realocados ou perdidos: em geral, pontos de Qualidades invalidadas podem comprar novas Vantagens, enquanto pontos de Defeitos podem ser reservados pelo Narrador para uso posterior."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Psychological Flaw."
+          },
+          {
+            "title": "Cost",
+            "text": "2 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "When offered a risky temptation you have never experienced, take a two-dice penalty on all actions until you try it or the scene ends. Examples include a new drug, drinking vampire Blood or flirting with a Kindred. The Flaw does not compel suicidal actions, but you cannot always predict the consequences of your actions."
+          },
+          {
+            "title": "Changes of condition",
+            "text": "The ghoul-specific options do not grant effects to mortals. Merits and Flaws normally carry over when a mortal becomes a ghoul, unless stated otherwise. Becoming a ghoul or receiving the Embrace may invalidate some Advantages. The Storyteller decides whether to reallocate or lose those dots: invalidated Merit dots can generally purchase new Advantages; Flaw dots can be retained by the Storyteller for later use."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 2
+}

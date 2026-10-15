@@ -2,17 +2,19 @@ import { NextRequest, NextResponse } from "next/server";
 import { POWER_CATALOG, rulesUrl } from "../../game-rules";
 import library from "../../rules/rules-data.json";
 import corePages from "../../play/core-power-pages.json";
-import { CONTENT_CATALOG } from "../../content/catalog";
+import { catalogEntry } from "../../content/catalog";
 
 export async function GET(request:NextRequest) {
   const id=request.nextUrl.searchParams.get("id"),power=POWER_CATALOG.find(item=>item.id===id);
   if(!power)return NextResponse.json({error:"Poder não encontrado."},{status:404});
   const locale=request.nextUrl.searchParams.get("lang")==="en"?"en":"pt-BR";
-  const entry=CONTENT_CATALOG.find(item=>item.id===id);
-  const version=entry?.versions.find(item=>item.id===request.nextUrl.searchParams.get("version"))||entry?.versions.find(item=>item.book===power.source.book)||entry?.versions[0];
+  const entry=id?catalogEntry(id):undefined;
+  const requestedVersion=request.nextUrl.searchParams.get("version");
+  const version=requestedVersion?entry?.versions.find(item=>item.id===requestedVersion):entry?.versions.find(item=>item.book===power.source.book)||entry?.versions[0];
+  if(requestedVersion&&!version)return NextResponse.json({error:"Versão não encontrada."},{status:404});
   if(entry&&version){
     const sections=version.descriptions[locale];
-    return NextResponse.json({power,excerpt:sections.map(section=>`${section.title}\n\n${section.text}`).join("\n\n"),pages:[],initialPage:null,url:rulesUrl(power.source),id:entry.id,name:entry.names[locale],locale,sections,versionId:version.id,source:version.sourceTitle,sourcePages:version.pages.map(page=>({...page,url:`/rules/source?book=${encodeURIComponent(version.book)}&page=${page.pdfPage}`}))});
+    return NextResponse.json({power:{...power,level:version.level??power.level},excerpt:sections.map(section=>`${section.title}\n\n${section.text}`).join("\n\n"),pages:[],initialPage:null,url:`/rules/source?book=${encodeURIComponent(version.book)}&page=${version.pages[0].pdfPage}`,id:entry.id,name:(version.names||entry.names)[locale],locale,sections,versionId:version.id,source:version.sourceTitle,sourcePages:version.pages.map(page=>({...page,url:`/rules/source?book=${encodeURIComponent(version.book)}&page=${page.pdfPage}`}))});
   }
   const chapter=library.books.find(book=>book.id===power.source.book)?.chapters.find(item=>item.id===power.source.chapter);
   const content=chapter?.content||"";

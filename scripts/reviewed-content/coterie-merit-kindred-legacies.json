@@ -1,0 +1,139 @@
+{
+  "id": "coterie-merit-kindred-legacies",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Legados Vampíricos",
+    "en": "Kindred Legacies"
+  },
+  "aliases": [
+    "Legados Vampíricos",
+    "Kindred Legacies"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "coterie-merit-kindred-legacies-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 179, 189",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        },
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        }
+      ],
+      "level": 2,
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Ventrue. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Os Ventrue sabem que o legado de\n\num vampiro carrega um relato dos feitos de seus progenitores. Para alguns Sangues Azuis, isso assume a forma de histórias escritas, enquanto outros podem ter certos Senhores ou estudiosos entre seus conhecidos. Seja como for, uma vez por sessão, um integrante de uma coterie que contenha um Ventrue dono desta Qualidade pode pedir ao Narrador que revele uma informação útil sobre a história de um único vampiro com quem o grupo teve contato. Pode se tratar de algo específico, como “o proprietário do clube do Ministério contrabandeou Anarchs fugitivos para fora da cidade após uma revolta em Los Angeles”, ou mais misterioso como “as alegações levantadas contra o Senhor do seu Senhor, afirmando que ele cometeu Diablerie, não eram verdadeiras, entretanto a prole dele ainda carrega a vergonha por aquela noite”."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito.A coterie como um todo também pode adquiri-la durante a criação da coterie."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ventrue. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "The Ventrue understand that a vampire’s legacy carries with it an accounting of the deeds of their progenitors. For some Blue Bloods, this emerges via written histories while others may have certain sires or scholars among their acquaintances. However it manifests, once per session, a member of the coterie with a Ventrue who has this Merit may ask the Storyteller to reveal a piece of relevant information about the history of a single vampire with whom they’ve come in contact. This could be something specific, such as “the Ministry club owner smuggled fugitive Anarchs out of town after an uprising in LA,” or more mysterious such as “the allegations levied against that Kindred’s great-grandsire having committed diablerie were untrue, but his childe still carries the shame to this night.”"
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect. The coterie as a whole may also purchase it during coterie creation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "coterie-merit-kindred-legacies-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 30, 40",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "pages": [
+        {
+          "pdfPage": 30,
+          "printedPage": 30
+        },
+        {
+          "pdfPage": 40,
+          "printedPage": 40
+        }
+      ],
+      "level": 2,
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Ventrue. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Os Ventrue sabem que o legado de\n\num vampiro carrega um relato dos feitos de seus progenitores. Para alguns Sangues Azuis, isso assume a forma de histórias escritas, enquanto outros podem ter certos Senhores ou estudiosos entre seus conhecidos. Seja como for, uma vez por sessão, um integrante de uma coterie que contenha um Ventrue dono desta Qualidade pode pedir ao Narrador que revele uma informação útil sobre a história de um único vampiro com quem o grupo teve contato. Pode se tratar de algo específico, como “o proprietário do clube do Ministério contrabandeou Anarchs fugitivos para fora da cidade após uma revolta em Los Angeles”, ou mais misterioso como “as alegações levantadas contra o Senhor do seu Senhor, afirmando que ele cometeu Diablerie, não eram verdadeiras, entretanto a prole dele ainda carrega a vergonha por aquela noite”."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ventrue. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "The Ventrue understand that a vampire’s legacy carries with it an accounting of the deeds of their progenitors. For some Blue Bloods, this emerges via written histories while others may have certain sires or scholars among their acquaintances. However it manifests, once per session, a member of the coterie with a Ventrue who has this Merit may ask the Storyteller to reveal a piece of relevant information about the history of a single vampire with whom they’ve come in contact. This could be something specific, such as “the Ministry club owner smuggled fugitive Anarchs out of town after an uprising in LA,” or more mysterious such as “the allegations levied against that Kindred’s great-grandsire having committed diablerie were untrue, but his childe still carries the shame to this night.”"
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect."
+          }
+        ]
+      }
+    }
+  ]
+}

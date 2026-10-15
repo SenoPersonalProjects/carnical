@@ -1,4 +1,7 @@
-import { creationMagicEligibility, powerForSources } from "./content/power-eligibility";
+import {sameContent} from "./content/resolve";
+import {CONTENT_INDEX} from "./content/resolve";
+import {itemEligibility} from "./content/item-eligibility";
+import { creationMagicEligibility, powersForSources, knowsPower } from "./content/power-eligibility";
 import { normalizeActiveSourcebooks } from "./creation-sources";
 import { resolutionComplete } from "./predator-choices";
 import { readAnchors, type Anchor } from "./anchors";
@@ -7,7 +10,7 @@ import { ownItemDots } from "./predator-benefits";
 import { purchasedLevels, xpBudget, xpSpent, type XpPurchase } from "./experience";
 
 export type AuditIssue={id:string;kind:"warning"|"info"|"approved";title:string;detail:string;source?:SourceRef};
-type Merit={dots?:number};
+type Merit={dots?:number;name?:string;source?:string;catalogId?:string;versionId?:string};
 type AuditData={
   attributes?:Record<string,number>;skills?:Record<string,number>;skillPreset?:string;disciplines?:Record<string,number>;disciplinePowers?:Record<string,string[]>;
   merits?:Merit[];flawItems?:Merit[];ageCategory?:string;generation?:string;bloodPotency?:number;predator?:string;predatorApplied?:string;
@@ -33,7 +36,15 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
   if(!character.clan?.trim())add({id:"identity-clan",kind:"warning",title:"Clã ou linhagem não definido",detail:"A escolha determina as Disciplinas iniciais e outras regras. Conteúdo personalizado continua permitido.",source:creation});
 
   const activeSources=new Set(normalizeActiveSourcebooks(data.activeSourcebooks));
-  const powerCatalog=POWER_CATALOG.map(power=>powerForSources(power,activeSources));
+  for(const item of [...(data.merits||[]),...(data.flawItems||[])]){
+    if(!item.catalogId)continue;
+    const entry=CONTENT_INDEX.find(entry=>entry.id===item.catalogId),version=entry?.versions?.find(version=>version.id===item.versionId);
+    if(!entry||!version){add({id:`catalog-reference-${item.catalogId}`,kind:"warning",title:`Referência não identificada: ${item.name||item.catalogId}`,detail:"O item foi preservado. Confira a identificação e a versão da fonte antes de usá-lo."});continue}
+    const check=itemEligibility(version,{phase:"creation",clan:character.clan||"",activeSources,disciplines:data.disciplines,powers:data.disciplinePowers});
+    if(!check.allowed)add({id:`catalog-requirement-${entry.id}`,kind:"warning",title:`Requisitos de ${item.name||entry.names["pt-BR"]}`,detail:check.reasons.join(". ")+". A escolha salva foi preservada."});
+    if(version.level!==undefined&&item.dots!==version.level)add({id:`catalog-cost-${entry.id}`,kind:"warning",title:`Pontuação de ${item.name||entry.names["pt-BR"]}`,detail:`Esta versão exige ${version.level} ponto(s). A pontuação registrada foi preservada para revisão.`});
+  }
+  const powerCatalog=powersForSources(POWER_CATALOG,activeSources);
   const paidPurchases=data.xpPurchases||[];
   const alchemy="Alquimia do Sangue-Fraco";
   const freeFormulaNames=character.clan==="Sangue-Ralo"?(data.disciplinePowers?.[alchemy]||[]).filter(name=>powerCatalog.some(power=>power.name===name&&power.discipline===alchemy&&power.kind==="formula")&&!paidPurchases.some(item=>item.kind==="formula"&&item.name===name)).slice(0,data.disciplines?.[alchemy]||0):[];
@@ -55,17 +66,17 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
   if(character.clan!=="Sangue-Ralo"&&disciplineDots!==expected)add({id:"discipline-dots",kind:"warning",title:"Total de Disciplinas fora da criação padrão",detail:`A criação comum distribui 3 pontos (2 + 1) e o Predador aplicado normalmente acrescenta 1. Esta ficha tem ${disciplineDots}; o esperado aqui é ${expected}.`,source:disciplines});
   for(const [name,powers] of Object.entries(data.disciplinePowers||{})){
     const dots=data.disciplines?.[name]||0;
-    const normalPowers=powers.filter(powerName=>{const item=powerCatalog.find(power=>power.name===powerName&&power.discipline===name);return !item?.kind||item.kind==="power"});
+    const normalPowers=powers.filter(powerName=>{const item=powerCatalog.find(power=>sameContent(power.name,powerName,{discipline:name})&&power.discipline===name);return !item?.kind||item.kind==="power"});
     if(normalPowers.filter(Boolean).length>dots)add({id:`power-count-${name}`,kind:"warning",title:`Mais poderes de ${name} do que pontos`,detail:`Há ${normalPowers.filter(Boolean).length} poderes registrados para ${dots} ponto(s). Rituais e Cerimônias são aprendidos separadamente.`,source:disciplines});
   }
   const freeMagic:typeof powerCatalog=[];
   for(const [disciplineName,powers] of Object.entries(data.disciplinePowers||{})){
     const dots=data.disciplines?.[disciplineName]||0;
     for(const name of powers){
-      const power=powerCatalog.find(item=>item.discipline===disciplineName&&item.name===name);
+      const power=powerCatalog.find(item=>item.discipline===disciplineName&&sameContent(item.name,name,{discipline:disciplineName}));
       if(!power){add({id:`homebrew-power-${disciplineName}-${name}`,kind:"info",title:`Poder personalizado: ${name}`,detail:`Este nome não está no catálogo indexado de ${disciplineName}. Ele foi preservado como conteúdo personalizado.`});continue}
       if(power.level>dots)add({id:`power-level-${power.id}`,kind:"warning",title:`${power.name} acima do nível de ${disciplineName}`,detail:`A opção é de nível ${power.level}, mas a ficha tem ${disciplineName} ${dots}.`,source:power.source});
-      if(power.prerequisite&&!Object.values(data.disciplinePowers||{}).some(names=>names.includes(power.prerequisite!)))add({id:`power-prerequisite-${power.id}`,kind:"warning",title:`${power.name} sem ${power.prerequisite}`,detail:"A opção exige conhecer o poder indicado como pré-requisito.",source:power.source});
+      if(power.prerequisite&&!knowsPower(data.disciplinePowers||{},power.prerequisite))add({id:`power-prerequisite-${power.id}`,kind:"warning",title:`${power.name} sem ${power.prerequisite}`,detail:"A opção exige conhecer o poder indicado como pré-requisito.",source:power.source});
       if(power.kind&&power.kind!=="power"&&!paidPurchases.some(item=>item.kind===power.kind&&item.name===power.name)){
         const free=creationMagicEligibility(power,data.disciplines||{},data.disciplinePowers||{},activeSources,freeMagic);
         if(free.allowed)freeMagic.push(power);

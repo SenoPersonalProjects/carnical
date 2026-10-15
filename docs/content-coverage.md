@@ -7,15 +7,15 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 12 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 44 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
 | Fonte | Entradas revisadas nesta entrega | Cobertura integral |
 | --- | --- | --- |
-| Livro Básico | 5 rituais de nível 1 | Pendente |
-| Companion | Obeah, Favor do Domitor, Valeren | Pendente |
-| Guia do Jogador | Favor do Domitor, Valeren | Pendente |
+| Livro Básico | 5 rituais de nível 1 e Fusão com a Terra | Pendente |
+| Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
+| Guia do Jogador | Versões dos poderes, Qualidades de Coterie e Defeitos correspondentes; Contenção dos Salubri | Pendente |
 | Cultos dos Deuses de Sangue | 3 Cerimônias Shalimitas | Pendente |
 | Let the Streets Run Red | Assassino de Estrada | Pendente |
 | Chicago by Night | Nenhuma descrição revisada no novo catálogo | Pendente |
@@ -39,6 +39,15 @@ permitindo tentar novamente. Itens personalizados mantêm as informações da fi
 
 ## Versões e escolhas gratuitas
 
+- Obeah e Panacea são versões do mesmo poder. O seletor oferece uma escolha;
+  os nomes antigos das fichas continuam reconhecidos sem alteração dos dados.
+- Qualidades de Coterie respeitam clã, fonte, custo e restrição de criação.
+  Itens escolhidos no catálogo guardam identificador e versão; mudanças de
+  fonte ou clã geram aviso sem apagar a escolha. Itens personalizados continuam
+  editáveis. O PDF usa a versão registrada de cada item.
+- O Companion foi novamente extraído com leitura adaptada a duas e três
+  colunas. A biblioteca mantém os seis capítulos e cobre as 68 páginas; sua
+  tradução integral ainda não foi revisada e persistida em inglês.
 - Valeren exige Fortitude 2 no Companion e Fortitude 3 no Guia do Jogador.
   A fonte original habilitada tem preferência; se desativada, utiliza-se uma
   versão revisada de uma fonte habilitada. Com ambos habilitados, prevalece a

@@ -126,14 +126,35 @@
         "en": "Obeah"
       },
       "aliases": [
-        "Obeah"
+        "Obeah",
+        "Panacea",
+        "Panaceia"
       ],
       "discipline": "Auspícios",
       "level": 2,
       "books": [
+        "players-guide-v5",
         "companion-v5"
       ],
+      "legacyIds": [
+        "panacea"
+      ],
       "versions": [
+        {
+          "id": "panacea-players-guide",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, p. 70",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 2,
+              "Fortitude": 1
+            }
+          },
+          "names": {
+            "pt-BR": "Panaceia",
+            "en": "Panacea"
+          }
+        },
         {
           "id": "obeah-companion-v5",
           "book": "companion-v5",
@@ -143,6 +164,10 @@
               "Auspícios": 2,
               "Fortitude": 1
             }
+          },
+          "names": {
+            "pt-BR": "Obeah",
+            "en": "Obeah"
           }
         }
       ]
@@ -371,6 +396,1380 @@
           "requirements": {
             "disciplines": {
               "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "chimerstry",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Quimerismo",
+        "en": "Chimerstry"
+      },
+      "aliases": [
+        "Quimerismo",
+        "Chimerstry"
+      ],
+      "discipline": "Ofuscação",
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "chimerstry-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 76–77",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 2,
+              "Presença": 1
+            }
+          }
+        },
+        {
+          "id": "chimerstry-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 25–26",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 2,
+              "Presença": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "fata-morgana",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Fata Morgana",
+        "en": "Fata Morgana"
+      },
+      "aliases": [
+        "Fata Morgana",
+        "Fata Morgana"
+      ],
+      "discipline": "Ofuscação",
+      "level": 3,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "fata-morgana-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 77",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 3,
+              "Presença": 2
+            }
+          }
+        },
+        {
+          "id": "fata-morgana-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 26",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 3,
+              "Presença": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-proteanismo-fleshcrafting",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Modelagem de Carne",
+        "en": "Fleshcrafting"
+      },
+      "aliases": [
+        "Modelagem de Carne",
+        "Fleshcrafting"
+      ],
+      "discipline": "Proteanismo",
+      "level": 3,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-proteanismo-fleshcrafting-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 82–83",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 3,
+              "Dominação": 2
+            },
+            "prerequisites": [
+              "Vicissitude"
+            ]
+          }
+        },
+        {
+          "id": "players-guide-v5-power-proteanismo-fleshcrafting-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 27–28",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 3,
+              "Dominação": 2
+            },
+            "prerequisites": [
+              "Vicissitude"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-proteanismo-horrid-form",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Forma Hedionda",
+        "en": "Horrid Form"
+      },
+      "aliases": [
+        "Forma Hedionda",
+        "Horrid Form"
+      ],
+      "discipline": "Proteanismo",
+      "level": 4,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-proteanismo-horrid-form-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 83",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 4,
+              "Dominação": 2
+            },
+            "prerequisites": [
+              "Vicissitude"
+            ]
+          }
+        },
+        {
+          "id": "players-guide-v5-power-proteanismo-horrid-form-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 28",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 4,
+              "Dominação": 2
+            },
+            "prerequisites": [
+              "Vicissitude"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-proteanismo-one-with-the-land",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Um com a Terra",
+        "en": "One with the Land"
+      },
+      "aliases": [
+        "Um com a Terra",
+        "One with the Land"
+      ],
+      "discipline": "Proteanismo",
+      "level": 5,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-proteanismo-one-with-the-land-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 83–84",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 5,
+              "Animalismo": 2
+            },
+            "prerequisites": [
+              "Fusão com a Terra"
+            ]
+          }
+        },
+        {
+          "id": "players-guide-v5-power-proteanismo-one-with-the-land-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 28",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 5,
+              "Animalismo": 2
+            },
+            "prerequisites": [
+              "Fusão com a Terra"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-proteanismo-vicissitude",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Vicissitude",
+        "en": "Vicissitude"
+      },
+      "aliases": [
+        "Vicissitude",
+        "Vicissitude"
+      ],
+      "discipline": "Proteanismo",
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-proteanismo-vicissitude-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 81–82",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 2,
+              "Dominação": 2
+            }
+          }
+        },
+        {
+          "id": "players-guide-v5-power-proteanismo-vicissitude-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 26–27",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 2,
+              "Dominação": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "unburdening-bestial-soul",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Aliviando a Alma Bestial",
+        "en": "Unburdening the Bestial Soul"
+      },
+      "aliases": [
+        "Aliviando a Alma Bestial",
+        "Unburdening the Bestial Soul"
+      ],
+      "discipline": "Auspícios",
+      "level": 5,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "unburdening-bestial-soul-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 71–72",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 5,
+              "Dominação": 3
+            },
+            "prerequisites": [
+              "Panacea"
+            ]
+          }
+        },
+        {
+          "id": "unburdening-bestial-soul-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 24–25",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 5,
+              "Dominação": 3
+            },
+            "prerequisites": [
+              "Obeah"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "clan-ravnos",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Ravnos",
+        "en": "Ravnos"
+      },
+      "aliases": [
+        "Ravnos"
+      ],
+      "books": [
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-ravnos-companion",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 8–9"
+        }
+      ]
+    },
+    {
+      "id": "clan-salubri",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Salubri",
+        "en": "Salubri"
+      },
+      "aliases": [
+        "Salubri"
+      ],
+      "books": [
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-salubri-companion",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 14–15"
+        }
+      ]
+    },
+    {
+      "id": "clan-tzimisce",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Tzimisce",
+        "en": "Tzimisce"
+      },
+      "aliases": [
+        "Tzimisce"
+      ],
+      "books": [
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-tzimisce-companion",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 18–19"
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-all-access",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Acesso Total",
+        "en": "All Access"
+      },
+      "aliases": [
+        "Acesso Total",
+        "All Access"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-all-access-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 187, 188",
+          "level": 1,
+          "requirements": {
+            "clans": [
+              "Toreador"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-all-access-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 38, 39",
+          "level": 1,
+          "requirements": {
+            "clans": [
+              "Toreador"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-ars-moriendi",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Ars Moriendi",
+        "en": "Ars Moriendi"
+      },
+      "aliases": [
+        "Ars Moriendi",
+        "Ars Moriendi"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-ars-moriendi-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 182",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Hecata"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-ars-moriendi-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 33",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Hecata"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-at-any-cost",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "A Todo Custo",
+        "en": "At Any Cost"
+      },
+      "aliases": [
+        "A Todo Custo",
+        "At Any Cost"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-at-any-cost-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 182",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Lasombra"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-at-any-cost-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 34",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Lasombra"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-boot-and-rally",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Beber para Curar a Ressaca",
+        "en": "Boot and Rally"
+      },
+      "aliases": [
+        "Beber para Curar a Ressaca",
+        "Boot and Rally"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-boot-and-rally-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 180",
+          "level": 1,
+          "requirements": {
+            "clans": [
+              "Brujah"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-boot-and-rally-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 32",
+          "level": 1,
+          "requirements": {
+            "clans": [
+              "Brujah"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-call-to-purpose",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Chamado do Dever",
+        "en": "Call to Purpose"
+      },
+      "aliases": [
+        "Chamado do Dever",
+        "Call to Purpose"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-call-to-purpose-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 180",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Banu Haqim"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-call-to-purpose-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 31",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Banu Haqim"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-contextual-contact",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Contato Contextual",
+        "en": "Contextual Contact"
+      },
+      "aliases": [
+        "Contato Contextual",
+        "Contextual Contact"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-contextual-contact-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 185",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Nosferatu"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-contextual-contact-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 37",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Nosferatu"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-cryptolect",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Criptoleto",
+        "en": "Cryptolect"
+      },
+      "aliases": [
+        "Criptoleto",
+        "Cryptolect"
+      ],
+      "level": 3,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-cryptolect-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 185, 186",
+          "level": 3,
+          "requirements": {
+            "clans": [
+              "Ravnos"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-cryptolect-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 38",
+          "level": 3,
+          "requirements": {
+            "clans": [
+              "Ravnos"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-discerning",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Discernir",
+        "en": "Discerning"
+      },
+      "aliases": [
+        "Discernir",
+        "Discerning"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-discerning-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 184",
+          "level": 1,
+          "requirements": {
+            "clans": [
+              "Ministério"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-discerning-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 36",
+          "level": 1,
+          "requirements": {
+            "clans": [
+              "Ministério"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-everything-is-connected",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Tudo Está Conectado",
+        "en": "Everything Is Connected"
+      },
+      "aliases": [
+        "Tudo Está Conectado",
+        "Everything Is Connected"
+      ],
+      "level": 3,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-everything-is-connected-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 183",
+          "level": 3,
+          "requirements": {
+            "clans": [
+              "Malkaviano"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-everything-is-connected-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 35",
+          "level": 3,
+          "requirements": {
+            "clans": [
+              "Malkaviano"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-kindred-legacies",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Legados Vampíricos",
+        "en": "Kindred Legacies"
+      },
+      "aliases": [
+        "Legados Vampíricos",
+        "Kindred Legacies"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-kindred-legacies-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 189",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Ventrue"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-kindred-legacies-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 40",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Ventrue"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-multi-level-lorekeeping",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Gestão de Conhecimentos Multinível",
+        "en": "Multi-Level Lorekeeping"
+      },
+      "aliases": [
+        "Gestão de Conhecimentos Multinível",
+        "Multi-Level Lorekeeping"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-multi-level-lorekeeping-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 188",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Tremere"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-multi-level-lorekeeping-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 39",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Tremere"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-old-world-hospitality",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Hospitalidade do Velho Mundo",
+        "en": "Old-World Hospitality"
+      },
+      "aliases": [
+        "Hospitalidade do Velho Mundo",
+        "Old-World Hospitality"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-old-world-hospitality-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 189",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Tzimisce"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-old-world-hospitality-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 40",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Tzimisce"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-pack-tactics",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Táticas de Bando",
+        "en": "Pack Tactics"
+      },
+      "aliases": [
+        "Táticas de Bando",
+        "Pack Tactics"
+      ],
+      "level": 3,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-pack-tactics-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 181",
+          "level": 3,
+          "requirements": {
+            "clans": [
+              "Gangrel"
+            ],
+            "creationOnly": true
+          }
+        },
+        {
+          "id": "coterie-merit-pack-tactics-companion-v5",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 30, 32",
+          "level": 3,
+          "requirements": {
+            "clans": [
+              "Gangrel"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "coterie-merit-restraint",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Contenção",
+        "en": "Restraint"
+      },
+      "aliases": [
+        "Contenção",
+        "Restraint"
+      ],
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "coterie-merit-restraint-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 179, 187",
+          "level": 3,
+          "requirements": {
+            "clans": [
+              "Salubri"
+            ],
+            "creationOnly": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "companion-advantage-baneful-blood",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Sangue Pernicioso",
+        "en": "Baneful Blood"
+      },
+      "aliases": [
+        "Sangue Pernicioso",
+        "Baneful Blood"
+      ],
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "companion-advantage-baneful-blood-guide-1",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 141, 142 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          },
+          "names": {
+            "pt-BR": "Sangue Pernicioso",
+            "en": "Baneful Blood"
+          }
+        },
+        {
+          "id": "companion-advantage-baneful-blood-guide-2",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 141, 142 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          },
+          "names": {
+            "pt-BR": "Sangue Pernicioso",
+            "en": "Baneful Blood"
+          }
+        },
+        {
+          "id": "companion-advantage-baneful-blood-1",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 59–60 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          }
+        },
+        {
+          "id": "companion-advantage-baneful-blood-2",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 59–60 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          }
+        },
+        {
+          "id": "companion-advantage-baneful-blood-3",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 59–60 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "companion-advantage-blood-empathy",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Empatia de Sangue",
+        "en": "Blood Empathy"
+      },
+      "aliases": [
+        "Empatia de Sangue",
+        "Blood Empathy"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "companion-advantage-blood-empathy-guide-2",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 141 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          },
+          "names": {
+            "pt-BR": "Empatia de Sangue",
+            "en": "Blood Empathy"
+          }
+        },
+        {
+          "id": "companion-advantage-blood-empathy-2",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 59–60 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "companion-advantage-crones-curse",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Maldição da Megaira",
+        "en": "Crone’s Curse"
+      },
+      "aliases": [
+        "Maldição da Megaira",
+        "Crone’s Curse"
+      ],
+      "level": 3,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "companion-advantage-crones-curse-guide-2",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 142 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição da Megaira",
+            "en": "Crone’s Curse"
+          }
+        },
+        {
+          "id": "companion-advantage-crones-curse-3",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 59–60 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "companion-advantage-distressing-fangs",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Presas Estranhas",
+        "en": "Distressing Fangs"
+      },
+      "aliases": [
+        "Presas Estranhas",
+        "Distressing Fangs"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "companion-advantage-distressing-fangs-guide-1",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 142 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          },
+          "names": {
+            "pt-BR": "Presas Estranhas",
+            "en": "Distressing Fangs"
+          }
+        },
+        {
+          "id": "companion-advantage-distressing-fangs-2",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 59–60 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "companion-advantage-living-on-the-edge",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Vivendo no Limite",
+        "en": "Living on the Edge"
+      },
+      "aliases": [
+        "Vivendo no Limite",
+        "Living on the Edge",
+        "Propenso ao Risco",
+        "Risk-Taker"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "companion-advantage-living-on-the-edge-guide-1",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 121 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          },
+          "names": {
+            "pt-BR": "Propenso ao Risco",
+            "en": "Risk-Taker"
+          }
+        },
+        {
+          "id": "companion-advantage-living-on-the-edge-2",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 59–60 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "companion-advantage-unseemly-aura",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Aura Imprópria",
+        "en": "Unseemly Aura"
+      },
+      "aliases": [
+        "Aura Imprópria",
+        "Unseemly Aura"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "companion-advantage-unseemly-aura-guide-2",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 141 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          },
+          "names": {
+            "pt-BR": "Aura Imprópria",
+            "en": "Unseemly Aura"
+          }
+        },
+        {
+          "id": "companion-advantage-unseemly-aura-2",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 59–60 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "ghoul"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "companion-advantage-weak-willed",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Vontade Fraca",
+        "en": "Weak-Willed"
+      },
+      "aliases": [
+        "Vontade Fraca",
+        "Weak-Willed"
+      ],
+      "level": 3,
+      "books": [
+        "players-guide-v5",
+        "companion-v5"
+      ],
+      "versions": [
+        {
+          "id": "companion-advantage-weak-willed-guide-2",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 121 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          },
+          "names": {
+            "pt-BR": "Vontade Fraca",
+            "en": "Weak-Willed"
+          }
+        },
+        {
+          "id": "companion-advantage-weak-willed-3",
+          "book": "companion-v5",
+          "sourceTitle": "Companion V5, pp. 59–60 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "earth-meld",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Fusão com a Terra",
+        "en": "Earth Meld"
+      },
+      "aliases": [
+        "Fusão com a Terra",
+        "Earth Meld"
+      ],
+      "discipline": "Proteanismo",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "earth-meld-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 270",
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 3
             }
           }
         }

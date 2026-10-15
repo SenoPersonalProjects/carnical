@@ -21,7 +21,7 @@ for(const entry of catalog){
     assert.match(version.pdfSha256,/^[a-f0-9]{64}$/);
     for(const locale of ["pt-BR","en"]){
       assert.ok(entry.names[locale].trim());assert.ok(version.descriptions[locale].length);
-      for(const section of version.descriptions[locale]){assert.ok(section.title.trim());assert.ok(section.text.trim());assert.doesNotMatch(section.text,/\uFFFD|Consultar regra|\bTODO\b|pending.review/i);}
+      for(const section of version.descriptions[locale]){assert.ok(section.title.trim());assert.ok(section.text.trim());assert.doesNotMatch(section.text,/\uFFFD|Consultar regra|pending.review/i);assert.doesNotMatch(section.text,/\bTODO\b|[\u0000-\u0008\u000b\u000c\u000e-\u001f\u007f-\u009f]/);}
     }
     for(const ref of version.pages){
       const mapped=pages.find(book=>book.id===version.book)?.pages.find(page=>page.pdfPage===ref.pdfPage);
@@ -52,6 +52,25 @@ assert.equal(powerEligibility(companionValeren,{Fortitude:2,"Auspícios":1},{},c
 assert.equal(powerEligibility(guideValeren,{Fortitude:2,"Auspícios":1},{},guideOnly).allowed,false);
 assert.equal(JSON.stringify(valeren),original);
 const {auditCharacter}=load("app/character-audit.ts");
+const {itemEligibility}=load("app/content/item-eligibility.ts");
+const {sameContent,contentName}=load("app/content/resolve.ts");
+const {powersForSources,knowsPower}=load("app/content/power-eligibility.ts");
+const allSources=new Set([...active,...companionOnly,...guideOnly]);
+const allPowers=powersForSources(POWER_CATALOG,allSources),soothing=allPowers.filter(power=>sameContent(power.name,"Panacea",{kind:"power"}));
+assert.equal(soothing.length,1);assert.equal(contentName("Obeah","en",{book:"players-guide-v5"}),"Panacea");
+assert.equal(knowsPower({"Auspícios":["Obeah"]},"Panacea"),true);
+assert.equal(knowsPower({"Proteanismo":["Earth Meld"]},"Fusão com a Terra"),true);
+const merit=catalog.find(entry=>entry.id==="coterie-merit-call-to-purpose"),meritVersion=merit.versions.find(version=>version.book==="companion-v5");
+assert.equal(itemEligibility(meritVersion,{phase:"creation",clan:"Banu Haqim",activeSources:companionOnly}).allowed,true);
+assert.equal(itemEligibility(meritVersion,{phase:"creation",clan:"Tremere",activeSources:companionOnly}).allowed,false);
+assert.equal(itemEligibility(meritVersion,{phase:"xp",clan:"Banu Haqim",activeSources:companionOnly}).allowed,false);
+assert.equal(itemEligibility(meritVersion,{phase:"creation",clan:"Banu Haqim",activeSources:new Set()}).allowed,false);
+const ghoulVersion=catalog.find(entry=>entry.id==="companion-advantage-blood-empathy").versions[0];
+assert.equal(itemEligibility(ghoulVersion,{phase:"creation",clan:"",activeSources:guideOnly}).allowed,false);
+assert.equal(itemEligibility(ghoulVersion,{phase:"creation",clan:"",characterType:"ghoul",activeSources:guideOnly}).allowed,true);
+const persistedMerit={name:merit.names["pt-BR"],dots:2,source:"companion_v5",catalogId:merit.id,versionId:meritVersion.id};
+assert.equal(auditCharacter({clan:"Banu Haqim",data:{activeSourcebooks:[...companionOnly],merits:[persistedMerit]}}).some(issue=>issue.id===`catalog-requirement-${merit.id}`),false);
+assert.equal(auditCharacter({clan:"Tremere",data:{activeSourcebooks:[...companionOnly],merits:[persistedMerit]}}).some(issue=>issue.id===`catalog-requirement-${merit.id}`),true);
 const auditData={activeSourcebooks:[...active],disciplines:{"Feitiçaria de Sangue":1},disciplinePowers:{"Feitiçaria de Sangue":[coreRituals[0].name]}};
 assert.equal(auditCharacter({data:auditData}).some(issue=>issue.id===`magic-xp-${coreRituals[0].id}`),false);
 const tooMany={...auditData,disciplinePowers:{"Feitiçaria de Sangue":coreRituals.slice(0,2).map(power=>power.name)}};

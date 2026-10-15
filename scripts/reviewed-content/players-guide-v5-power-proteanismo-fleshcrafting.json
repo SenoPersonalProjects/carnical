@@ -1,0 +1,178 @@
+{
+  "id": "players-guide-v5-power-proteanismo-fleshcrafting",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Modelagem de Carne",
+    "en": "Fleshcrafting"
+  },
+  "aliases": [
+    "Modelagem de Carne",
+    "Fleshcrafting"
+  ],
+  "discipline": "Proteanismo",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-proteanismo-fleshcrafting-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 82–83",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 3,
+      "pages": [
+        {
+          "pdfPage": 84,
+          "printedPage": 82
+        },
+        {
+          "pdfPage": 85,
+          "printedPage": 83
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 3,
+          "Dominação": 2
+        },
+        "prerequisites": [
+          "Vicissitude"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Estendendo sua maestria sobre a carne, o vampiro passa a ser capaz de infligir seus “cuidados” aos corpos de terceiros. Este poder é corretamente temido, pois muitos de seus usuários têm uma reputação de torturadores desumanos, embora alguns o empreguem com grande efeito para melhorar e adaptar seus servos e aliados."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Dominação 2. Pré-requisito: Vicissitude."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Proteanismo vs. Vigor + Determinação"
+          },
+          {
+            "title": "Custo",
+            "text": "Uma Checagem de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Para usar este poder, o usuário deve ser capaz de trabalhar sem distrações no seu alvo, que, portanto, precisa ser voluntário ou estar contido. No primeiro caso, siga o mesmo sistema de Vicissitude (acima). No segundo, o alvo pode resistir usando Vigor + Determinação, com a margem do usuário contando como sucessos de Vicissitude. Cada uso deste poder\n\nleva toda uma cena para ser completado. Novamente, o número total de alterações não pode ser maior do que o valor de Proteanismo do usuário, independentemente do número de aplicações ou sucessos. Em caso de vários usuários trabalhando em um único alvo, conte apenas o maior valor de Proteanismo. Alterações podem ser consertadas ou revertidas como se fossem dano Agravado, com cada uma equivalendo a um único nível de dano. (Por isso mortais precisam de extensas cirurgias.)"
+          },
+          {
+            "title": "Duração",
+            "text": "Permanente"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Extending their mastery over flesh, the vampire can inflict their ministrations on the bodies of others. The power is rightly feared, as many of its users have a reputation for inhuman torture, though some employ it to great effect to enhance and adapt their servants and allies."
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Dominate 2. Prerequisite: Vicissitude."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Protean vs. Stamina + Resolve"
+          },
+          {
+            "title": "System",
+            "text": "In order to use this power, the user must be able to work undisturbed on the subject, who thus either needs to be willing or restrained. For a\n\nwilling subject, follow the same system as Vicissitude (above). An unwilling subject can resist with their Stamina + Resolve, with the user’s margin counting as Vicissitude successes. Each use of this power takes a full scene to perform. Again, the total number of changes cannot exceed the user’s Protean rating, no matter the number of applications or successes. In case of multiple users working on a single subject, only count the highest Protean rating. Changes can be mended as Aggravated damage, with each change equivalent to a single level of damage. (Mortals thus require extensive surgery.)"
+          },
+          {
+            "title": "Duration",
+            "text": "Permanent"
+          }
+        ]
+      }
+    },
+    {
+      "id": "players-guide-v5-power-proteanismo-fleshcrafting-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 27–28",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 3,
+      "pages": [
+        {
+          "pdfPage": 27,
+          "printedPage": 27
+        },
+        {
+          "pdfPage": 28,
+          "printedPage": 28
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 3,
+          "Dominação": 2
+        },
+        "prerequisites": [
+          "Vicissitude"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Estendendo sua maestria sobre a carne, o vampiro passa a ser capaz de infligir seus “cuidados” aos corpos de terceiros. Este poder é corretamente temido, pois muitos de seus usuários têm uma reputação de torturadores desumanos, embora alguns o empreguem com grande efeito para melhorar e adaptar seus servos e aliados."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Dominação 2. Pré-requisito: Vicissitude."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Proteanismo vs. Vigor + Determinação"
+          },
+          {
+            "title": "Custo",
+            "text": "Uma Checagem de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Para usar este poder, o usuário deve ser capaz de trabalhar sem distrações no seu alvo, que, portanto, precisa ser voluntário ou estar contido. No primeiro caso, siga o mesmo sistema de Vicissitude (acima). No segundo, o alvo pode resistir usando Vigor + Determinação, com a margem do usuário contando como sucessos de Vicissitude. Cada uso deste poder\n\nleva toda uma cena para ser completado. Novamente, o número total de alterações não pode ser maior do que o valor de Proteanismo do usuário, independentemente do número de aplicações ou sucessos. Em caso de vários usuários trabalhando em um único alvo, conte apenas o maior valor de Proteanismo. Alterações podem ser consertadas ou revertidas como se fossem dano Agravado, com cada uma equivalendo a um único nível de dano. (Por isso mortais precisam de extensas cirurgias.)"
+          },
+          {
+            "title": "Duração",
+            "text": "Permanente"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Extending their mastery over flesh, the vampire can inflict their ministrations on the bodies of others. The power is rightly feared, as many of its users have a reputation for inhuman torture, though some employ it to great effect to enhance and adapt their servants and allies."
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Dominate 2. Prerequisite: Vicissitude."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Protean vs. Stamina + Resolve"
+          },
+          {
+            "title": "System",
+            "text": "In order to use this power, the user must be able to work undisturbed on the subject, who thus either needs to be willing or restrained. For a\n\nwilling subject, follow the same system as Vicissitude (above). An unwilling subject can resist with their Stamina + Resolve, with the user’s margin counting as Vicissitude successes. Each use of this power takes a full scene to perform. Again, the total number of changes cannot exceed the user’s Protean rating, no matter the number of applications or successes. In case of multiple users working on a single subject, only count the highest Protean rating. Changes can be mended as Aggravated damage, with each change equivalent to a single level of damage. (Mortals thus require extensive surgery.)"
+          },
+          {
+            "title": "Duration",
+            "text": "Permanent"
+          }
+        ]
+      }
+    }
+  ]
+}

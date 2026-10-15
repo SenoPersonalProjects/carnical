@@ -1,0 +1,139 @@
+{
+  "id": "coterie-merit-pack-tactics",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Táticas de Bando",
+    "en": "Pack Tactics"
+  },
+  "aliases": [
+    "Táticas de Bando",
+    "Pack Tactics"
+  ],
+  "level": 3,
+  "versions": [
+    {
+      "id": "coterie-merit-pack-tactics-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 179, 181",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        },
+        {
+          "pdfPage": 183,
+          "printedPage": 181
+        }
+      ],
+      "level": 3,
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Gangrel. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Um lobo solitário\n\ncontra um inimigo arrisca muito, mas um bando de lobos trabalhando junto é capaz de derrubar até a maior e mais perigosa das presas. Uma vez em combate, enquanto você contar com a presença de outro membro da sua coterie ao seu lado o grupo ficará mais eficaz contra um inimigo em comum: todos os integrantes da coterie que ataquem o mesmo inimigo que você estiver atacando somam um único dado às suas respectivas paradas de dados para ataques com Briga e Armas Brancas. Esta Qualidade não é cumulativa; não importa quantos Gangrel que a possuam estejam unindos contra um pobre bastardo, ela oferecerá um único dado adicional a cada um deles."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito.A coterie como um todo também pode adquiri-la durante a criação da coterie."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Gangrel. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "3 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "A lone wolf against an enemy risks much, but a pack of wolves working together can take down even the largest and most dangerous prey. When in combat, so long as you have another member of your coterie alongside you, you more effectively harry your common foe: Anyone attacking the same enemy as you adds a single die to their dice pools for Brawl or Melee attacks. This Merit is non-cumulative; no matter how many Gangrel with it gang up on some poor fool, it offers only a single additional die to each of them."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect. The coterie as a whole may also purchase it during coterie creation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "coterie-merit-pack-tactics-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 30, 32",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "pages": [
+        {
+          "pdfPage": 30,
+          "printedPage": 30
+        },
+        {
+          "pdfPage": 32,
+          "printedPage": 32
+        }
+      ],
+      "level": 3,
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "creationOnly": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Gangrel. Criação da personagem."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s) de Vantagens."
+          },
+          {
+            "title": "Sistema",
+            "text": "Um lobo solitário\n\ncontra um inimigo arrisca muito, mas um bando de lobos trabalhando junto é capaz de derrubar até a maior e mais perigosa das presas. Uma vez em combate, enquanto você contar com a presença de outro membro da sua coterie ao seu lado o grupo ficará mais eficaz contra um inimigo em comum: todos os integrantes da coterie que ataquem o mesmo inimigo que você estiver atacando somam um único dado às suas respectivas paradas de dados para ataques com Briga e Armas Brancas. Esta Qualidade não é cumulativa; não importa quantos Gangrel que a possuam estejam unindos contra um pobre bastardo, ela oferecerá um único dado adicional a cada um deles."
+          },
+          {
+            "title": "Aquisição e uso compartilhado",
+            "text": "Esta Qualidade de Coterie e Clã pode ser adquirida por um integrante do clã indicado durante a criação da personagem. Seus benefícios podem ser ativados ou usufruídos pela coterie. Em alguns casos, apenas um integrante pode usar uma Qualidade por sessão, conforme o efeito descrito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Gangrel. Character creation."
+          },
+          {
+            "title": "Cost",
+            "text": "3 Advantage dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "A lone wolf against an enemy risks much, but a pack of wolves working together can take down even the largest and most dangerous prey. When in combat, so long as you have another member of your coterie alongside you, you more effectively harry your common foe: Anyone attacking the same enemy as you adds a single die to their dice pools for Brawl or Melee attacks. This Merit is non-cumulative; no matter how many Gangrel with it gang up on some poor fool, it offers only a single additional die to each of them."
+          },
+          {
+            "title": "Purchase and shared use",
+            "text": "This clan coterie Merit can be purchased by a member of its clan at character creation. Its benefits can be activated or enjoyed by the coterie. In some cases, only one coterie member can use a Merit in a session, as specified by its effect."
+          }
+        ]
+      }
+    }
+  ]
+}

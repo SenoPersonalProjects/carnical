@@ -6,6 +6,7 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { ArrowLeft, BookMarked, ChevronRight, FileText, LoaderCircle, LogOut, Menu, Search, X } from "lucide-react";
 import { usePreferredLocale } from "../preferences";
+import ReferenceMarkdown from "../content/reference-markdown";
 
 type ChapterMeta = { id:string; title:string; section:string };
 type Chapter = ChapterMeta & { content:string };
@@ -104,11 +105,7 @@ export default function RulesReader({books,initialBookId,initialChapterId,initia
   </main>;
 }
 
-function MarkdownArticle({content,query}:{content:string;query:string}) {const blocks=useMemo(()=>parseMarkdown(content),[content]);return <div className="markdown-article">{blocks.map((block,index)=>{if(block.type==="h1")return index===0?null:<h2 key={index}><Highlight text={block.text||""} query={query}/></h2>;if(block.type==="h2")return <h2 key={index}><Highlight text={block.text||""} query={query}/></h2>;if(block.type==="h3")return <h3 key={index}><Highlight text={block.text||""} query={query}/></h3>;if(block.type==="quote")return <blockquote key={index}><Highlight text={block.text||""} query={query}/></blockquote>;if(block.type==="list")return <ul key={index}>{block.items?.map((item,i)=><li key={i}><Highlight text={item} query={query}/></li>)}</ul>;if(block.type==="rule")return <hr key={index}/>;return <p key={index}><RuleText text={block.text||""} query={query}/></p>})}</div>}
-function RuleText({text,query}:{text:string;query:string}){const link=text.match(/^\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)$/);return link?<a href={link[2]} target="_blank" rel="noopener noreferrer"><Highlight text={link[1]} query={query}/></a>:<Highlight text={text} query={query}/>}
-type Block={type:"h1"|"h2"|"h3"|"quote"|"list"|"rule"|"p";text?:string;items?:string[]};
-function parseMarkdown(markdown:string):Block[]{const lines=markdown.replace(/\r/g,"").split("\n"),blocks:Block[]=[],paragraph:string[]=[];const flush=()=>{if(!paragraph.length)return;blocks.push({type:"p",text:joinWrapped(paragraph)});paragraph.length=0};for(let index=0;index<lines.length;index++){const line=lines[index].trim();if(!line){flush();continue}if(/^---+$/.test(line)){flush();blocks.push({type:"rule"});continue}const heading=line.match(/^(#{1,3})\s+(.+)$/);if(heading){flush();blocks.push({type:heading[1].length===1?"h1":heading[1].length===2?"h2":"h3",text:heading[2]});continue}if(line.startsWith(">")){flush();blocks.push({type:"quote",text:line.replace(/^>\s?/,"")});continue}if(/^[-*•]\s+/.test(line)){flush();const items:string[]=[];while(index<lines.length&&/^[-*•]\s+/.test(lines[index].trim())){items.push(lines[index].trim().replace(/^[-*•]\s+/,""));index++}index--;blocks.push({type:"list",items});continue}paragraph.push(line)}flush();return blocks}
-function joinWrapped(lines:string[]){return lines.join(" ").replace(/([A-Za-zÀ-ÿ])-\s+([A-Za-zÀ-ÿ])/g,"$1$2").replace(/\s{2,}/g," ")}
+function MarkdownArticle({content,query}:{content:string;query:string}) {return <div className="markdown-article"><ReferenceMarkdown content={content} query={query}/></div>}
 function Highlight({text,query}:{text:string;query:string}){if(!query.trim())return text;const escaped=query.replace(/[.*+?^$\{\}()|[\]\\]/g,"\\$&"),parts=text.split(new RegExp(`(${escaped})`,"gi"));return <>{parts.map((part,index)=>part.toLocaleLowerCase("pt-BR")===query.toLocaleLowerCase("pt-BR")?<mark key={index}>{part}</mark>:part)}</>}
 
 async function translateTextList(texts:string[],source:string,target:string){
@@ -118,7 +115,8 @@ async function translateTextList(texts:string[],source:string,target:string){
 }
 function splitForTranslation(content:string,max=3800){const chunks:string[]=[];let current="";for(const block of content.split(/(\n{2,})/)){if((current+block).length>max&&current){chunks.push(current);current=""}if(block.length>max){for(let at=0;at<block.length;at+=max)chunks.push(block.slice(at,at+max))}else current+=block}if(current)chunks.push(current);return chunks}
 async function translateChapter(chapter:Chapter,source:string,target:string,key:string):Promise<Chapter>{
-  const cache=typeof caches!=="undefined"?await caches.open("noctis-rules-translations-v1"):null,request=new Request(`${location.origin}/__translation-cache/${encodeURIComponent(key)}`),cached=await cache?.match(request);if(cached)return await cached.json() as Chapter;
+  const digest=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(chapter.content)),revision=Array.from(new Uint8Array(digest),byte=>byte.toString(16).padStart(2,"0")).join("");
+  const cache=typeof caches!=="undefined"?await caches.open("noctis-rules-translations-v2"):null,request=new Request(`${location.origin}/__translation-cache/${encodeURIComponent(key+":"+revision)}`),cached=await cache?.match(request);if(cached)return await cached.json() as Chapter;
   const chunks=splitForTranslation(chapter.content),translated=await translateTextList([chapter.title,chapter.section,...chunks],source,target),result={...chapter,title:translated[0]||chapter.title,section:translated[1]||chapter.section,content:translated.slice(2).join("")};
   await cache?.put(request,new Response(JSON.stringify(result),{headers:{"content-type":"application/json"}}));return result;
 }

@@ -1,0 +1,178 @@
+{
+  "id": "unburdening-bestial-soul",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Aliviando a Alma Bestial",
+    "en": "Unburdening the Bestial Soul"
+  },
+  "aliases": [
+    "Aliviando a Alma Bestial",
+    "Unburdening the Bestial Soul"
+  ],
+  "discipline": "Auspícios",
+  "level": 5,
+  "versions": [
+    {
+      "id": "unburdening-bestial-soul-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 71–72",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 5,
+      "pages": [
+        {
+          "pdfPage": 73,
+          "printedPage": 71
+        },
+        {
+          "pdfPage": 74,
+          "printedPage": 72
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 5,
+          "Dominação": 3
+        },
+        "prerequisites": [
+          "Panacea"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Como buscadores das promessas da Golconda, alguns vampiros exploram modos de remediar as turbulentas almas de outros Amaldiçoados. Este poder compartilha uma porção da serenidade moral do vampiro com um Membro arrependido, permitindo que uma parte do remorso seja abrandada enquanto a Besta é mantida sob controle. Ele requer que seu usuário compartilhe o estado de mente e espírito do alvo, e afeta tanto a vontade de um quanto de outro. (Frequentemente usado por Salubri, este poder sem dúvida contribuiu para a sua reputação como monstruosos ladrões de almas...)"
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Dominação 3. Pré-requisito: Panacea."
+          },
+          {
+            "title": "Custo",
+            "text": "Duas Checagens de Sangue, ganha uma Mácula."
+          },
+          {
+            "title": "Parada",
+            "text": "Autocontrole + Auspícios vs. Humanidade"
+          },
+          {
+            "title": "Sistema",
+            "text": "O vampiro passa uma cena isolado com o alvo e rola Autocontrole + Auspícios vs. A Humanidade do alvo. Para cada sucesso na margem, o vampiro pode remover uma Mácula do alvo, ou erguer um “escudo” psicológico que protegerá o alvo de Máculas futuras na base de um para um. Por exemplo, uma margem de três aplicada a um alvo que não tenha nenhuma Mácula “cancelaria”, com efeito, até três Máculas que venham a ser adquiridas na sessão. No caso de uma vitória crítica, o usuário pode optar por renunciar aos benefícios descritos acima e, em seu lugar, restaurar um único ponto de Humanidade do alvo, porém, nenhum vampiro pode ganhar este benefício mais do que uma vez, em nenhuma circunstância. Aliviando a Alma Bestial só funciona em vampiros, e falha automaticamente se a Humanidade do alvo for maior que a do usuário.\n\nIndependentemente dos benefícios recebidos, o alvo fica entorpecido pelo restante da sessão, tendo parte de sua mente fundida com a do usuário, e todos os poderes de Dominação usados nele pelo usuário são automaticamente bem-sucedidos sem a necessidade de contato visual. Quando o poder para de surtir efeito, todos os “escudos” psicológicos que não foram usados são perdidos, embora as Máculas removidas ou a Humanidade ganha permaneçam."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma sessão"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "As seekers of the promises of Golconda, some vampires explore ways to remedy the turbulent souls of their fellow Damned. This power shares some amount of the vampire’s moral serenity with a repentant Kindred, allowing some semblance of remorse to be restored while also keeping the Beast at bay. It does require the user to take on part of the mind and spirit of their subject, shackling their will to that of the user. (Most often seen among the Salubri, this power has no doubt contributed to their reputation as monstrous soul-thieves.)"
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Dominate 3. Prerequisite: Panacea."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks, gain one Stain"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Composure + Auspex vs. Humanity"
+          },
+          {
+            "title": "System",
+            "text": "The vampire spends a scene in seclusion\n\nwith the subject and rolls Composure + Auspex vs. the Humanity of the subject. For every success in the margin, they can remove one Stain from the subject, or erect a psychological “shield” that protects the subject from future Stains on a one-for-one basis. For example, a margin of three applied to a subject with no Stains would effectively “cancel out” up to three Stains acquired later in the session. On a critical win the user can choose to forgo the above benefits, instead restoring a single point of Humanity to the subject, but no vampire can gain that benefit more than once, ever. Unburdening the Bestial Soul works only on vampires, and automatically fails if the subject has a higher Humanity than the user. No matter the benefits received, for the rest of the session the subject is numbed, having part of their mind merged with the user, and any Dominate powers used on them by this power’s user succeed automatically with no eye contact necessary. When the power expires, all psychological “shields” not used up are lost, though Stains removed or Humanity gained on initial application do not revert."
+          },
+          {
+            "title": "Duration",
+            "text": "One session"
+          }
+        ]
+      }
+    },
+    {
+      "id": "unburdening-bestial-soul-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 24–25",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 5,
+      "pages": [
+        {
+          "pdfPage": 24,
+          "printedPage": 24
+        },
+        {
+          "pdfPage": 25,
+          "printedPage": 25
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 5,
+          "Dominação": 3
+        },
+        "prerequisites": [
+          "Obeah"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Como buscadores das promessas da Golconda, alguns vampiros exploram modos de remediar as turbulentas almas de outros Amaldiçoados. Este poder compartilha uma porção da serenidade moral do vampiro com um Membro arrependido, permitindo que uma parte do remorso seja abrandada enquanto a Besta é mantida sob controle. Ele requer que seu usuário compartilhe o estado de mente e espírito do alvo, e afeta tanto a vontade de um quanto de outro. (Frequentemente usado por Salubri, este poder sem dúvida contribuiu para a sua reputação como monstruosos ladrões de almas...)"
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Dominação 3. Pré-requisito: Obeah."
+          },
+          {
+            "title": "Custo",
+            "text": "Duas Checagens de Sangue, ganha uma Mácula."
+          },
+          {
+            "title": "Parada",
+            "text": "Autocontrole + Auspícios vs. Humanidade"
+          },
+          {
+            "title": "Sistema",
+            "text": "O vampiro passa uma cena isolado com o alvo e rola Autocontrole + Auspícios vs. A Humanidade do alvo. Para cada sucesso na margem, o vampiro pode remover uma Mácula do alvo, ou erguer um “escudo” psicológico que protegerá o alvo de Máculas futuras na base de um para um. Por exemplo, uma margem de três aplicada a um alvo que não tenha nenhuma Mácula “cancelaria”, com efeito, até três Máculas que venham a ser adquiridas na sessão. No caso de uma vitória crítica, o usuário pode optar por renunciar aos benefícios descritos acima e, em seu lugar, restaurar um único ponto de Humanidade do alvo, porém, nenhum vampiro pode ganhar este benefício mais do que uma vez, em nenhuma circunstância. Aliviando a Alma Bestial só funciona em vampiros, e apenas em alvos cuja Humanidade esteja menor do que a do usuário.\n\nIndependentemente dos benefícios recebidos, o alvo fica entorpecido pelo restante da sessão, tendo parte de sua mente fundida com a do usuário, e todos os poderes de Dominação usados nele pelo usuário são automaticamente bem-sucedidos sem a necessidade de contato visual. Quando o poder para de surtir efeito, todos os “escudos” psicológicos que não foram usados são perdidos, embora as Máculas removidas ou a Humanidade ganha permaneçam."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma sessão"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "As seekers of the promises of Golconda, some vampires explore ways to remedy the turbulent souls of their fellow Damned. This power shares some amount of the vampire’s moral serenity with a repentant Kindred, allowing some semblance of remorse to be restored while also keeping the Beast at bay. It does require the user to take on part of the mind and spirit of their subject, shackling their will to that of the user. (Most often seen among the Salubri, this power has no doubt contributed to their reputation as monstrous soul-thieves.)"
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Dominate 3. Prerequisite: Obeah."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks, gain one Stain"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Composure + Auspex vs. Humanity"
+          },
+          {
+            "title": "System",
+            "text": "The vampire spends a scene in seclusion\n\nwith the subject and rolls Composure + Auspex vs. the Humanity of the subject. For every success in the margin, they can remove one Stain from the subject, or erect a psychological “shield” that protects the subject from future Stains on a one-for-one basis. For example, a margin of three applied to a subject with no Stains would effectively “cancel out” up to three Stains acquired later in the session. On a critical win the user can choose to forgo the above benefits, instead restoring a single point of Humanity to the subject, but no vampire can gain that benefit more than once, ever. Unburdening the Bestial Soul works only on vampires, and only on subjects whose Humanity is lower than the user’s. No matter the benefits received, for the rest of the session the subject is numbed, having part of their mind merged with the user, and any Dominate powers used on them by this power’s user succeed automatically with no eye contact necessary. When the power expires, all psychological “shields” not used up are lost, though Stains removed or Humanity gained on initial application do not revert."
+          },
+          {
+            "title": "Duration",
+            "text": "One session"
+          }
+        ]
+      }
+    }
+  ]
+}

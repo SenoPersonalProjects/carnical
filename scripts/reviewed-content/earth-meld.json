@@ -1,0 +1,23 @@
+{
+  "id": "earth-meld", "kind": "power", "level": 3,
+  "names": {"pt-BR": "Fusão com a Terra", "en": "Earth Meld"},
+  "aliases": ["Fusão com a Terra", "Earth Meld"], "discipline": "Proteanismo",
+  "versions": [{"id": "earth-meld-core", "book": "core-v5", "sourceTitle": "Livro Básico V5, p. 270", "sourceLanguage": "pt-BR", "pages": [{"pdfPage": 272, "printedPage": 270}], "requirements": {"disciplines": {"Proteanismo": 3}},
+    "descriptions": {
+      "pt-BR": [
+        {"title": "Descrição", "text": "O vampiro se torna um com o solo e afunda na terra. Salvo se estiver em Torpor, volta a emergir na noite seguinte."},
+        {"title": "Requisitos", "text": "Proteanismo 3. É preciso estar sobre uma superfície natural, como rocha, terra bruta ou grama. Não funciona sobre concreto, asfalto ou outras superfícies artificiais."},
+        {"title": "Custo", "text": "Um Teste de Sangue."},
+        {"title": "Sistema", "text": "Não exige teste de Habilidade. Afundar leva um turno e deixa os objetos carregados para trás, no solo.\n\nEnquanto está sob a terra, o vampiro continua ciente de seus arredores, exceto durante o sono diurno. Nesse sono, escavações, sons altos ou outras perturbações podem ou não despertá-lo, conforme as regras normais para despertar durante o dia (livro básico, p. 219)."},
+        {"title": "Duração", "text": "Um dia ou mais, ou até o usuário ser perturbado."}
+      ],
+      "en": [
+        {"title": "Description", "text": "The vampire becomes one with the soil and sinks into the earth. Unless in torpor, they emerge again the following night."},
+        {"title": "Requirements", "text": "Protean 3. The vampire must stand on a natural surface such as rock, bare earth or grass. Concrete, asphalt and other artificial surfaces do not work."},
+        {"title": "Cost", "text": "One Rouse Check."},
+        {"title": "System", "text": "No Skill test is required. Sinking into the earth takes one turn and leaves carried objects behind on the ground.\n\nWhile underground, the vampire remains aware of their surroundings except during daytime sleep. Excavation, loud sounds or other disturbances during that sleep may or may not wake them under the ordinary daytime awakening rules (core book, p. 219)."},
+        {"title": "Duration", "text": "One day or more, or until disturbed."}
+      ]
+    }
+  }]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "chimerstry",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Quimerismo",
+    "en": "Chimerstry"
+  },
+  "aliases": [
+    "Quimerismo",
+    "Chimerstry"
+  ],
+  "discipline": "Ofuscação",
+  "level": 2,
+  "versions": [
+    {
+      "id": "chimerstry-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 76–77",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 78,
+          "printedPage": 76
+        },
+        {
+          "pdfPage": 79,
+          "printedPage": 77
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 2,
+          "Presença": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro é capaz de criar breves, porém vívidas alucinações, distraindo e atraindo a atenção daqueles afetados. Uma alucinação pode afetar apenas um dos cinco sentidos – ela pode ser visual, auditiva, tátil, etc. –, ocorrendo por tempo suficiente para causar uma impressão antes de ser encerrada. O usuário decide os detalhes da alucinação, embora, devido à sua natureza breve, ela não deva passar de um vislumbre ou de uma voz entreouvida (ela não pode ser usada para criar um documento de identidade falso, por exemplo)."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Presença 1"
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Ofuscação vs. Autocontrole + Raciocínio"
+          },
+          {
+            "title": "Custo",
+            "text": "Uma Checagem de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "O vampiro testa Manipulação + Ofuscação. Qualquer indivíduo despreparado, à vista do vampiro e elegível a experimentar a alucinação (por ter a imagem projetada em sua linha de visão ou ser o alvo de uma sensação tátil) fica distraído, perdendo dois dados da sua próxima ação. Além disso, aqueles que falham em resistir usando Autocontrole + Raciocínio\n\nperdem sua próxima ação ativa. (No entanto, ainda podem se defender e resistir normalmente com uma penalidade de dois dados.) Diferentemente da maioria dos poderes de Presença, Quimerismo pode ser usado durante um conflito físico estressante, como combate, mas cada alvo só pode ser afetado uma vez por conflito. Outros efeitos resultantes da alucinação ficam à critério do Narrador, que deve ser cauteloso. Essas alucinações jamais podem ser gravadas ou transmitidas (como é possível com o uso de Fantasma na Máquina)."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire can create brief but vivid hallucinations, distracting and drawing the attention of those affected. A hallucination can affect any single sense — it can be visual, auditory, tactile, etc. — and occurs long enough to make an impression before ceasing. The user decides on the specifics of the hallucination, though due to its brief nature it cannot convey more than something glimpsed in the corner of the eye or a voice faintly heard (it cannot be employed to create a fake ID, for example)."
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Presence 1"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Obfuscate vs Composure + Wits"
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "The vampire rolls their Manipulation + Obfuscate. Anyone unprepared and within eyesight of the vampire and eligible to experience the hallucination (by being in line of sight of its projected appearance, or by being the target of a tactile sensation) is distracted, losing two dice on their next action. Additionally, those who fail to resist using their Composure + Wits lose their next active action if they fail. (However, they can still defend and resist as normal, with a two-dice penalty.) Unlike most Presence powers Chimerstry can be used during a stressful physical conflict such as combat, but targets can only be affected once per conflict. Other effects resulting from the hallucination are up to the Storyteller, but they are advised to err on the side of caution.\n\nThese hallucinations can never be recorded or transmitted (such as by using Ghost in the Machine)."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn."
+          }
+        ]
+      }
+    },
+    {
+      "id": "chimerstry-companion-v5",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 25–26",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 25,
+          "printedPage": 25
+        },
+        {
+          "pdfPage": 26,
+          "printedPage": 26
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 2,
+          "Presença": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro é capaz de criar breves, porém vívidas alucinações, distraindo e atraindo a atenção daqueles afetados. Uma alucinação pode afetar apenas um dos cinco sentidos – ela pode ser visual, auditiva, tátil, etc. –, ocorrendo por tempo suficiente para causar uma impressão antes de ser encerrada. O usuário decide os detalhes da alucinação, embora, devido à sua natureza breve, ela não deva passar de um vislumbre ou de uma voz entreouvida (ela não pode ser usada para criar um documento de identidade falso, por exemplo)."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Amálgama: Presença 1"
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Ofuscação vs. Autocontrole + Raciocínio"
+          },
+          {
+            "title": "Custo",
+            "text": "Uma Checagem de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "O vampiro testa Manipulação + Ofuscação. Qualquer indivíduo despreparado, à vista do vampiro e elegível a experimentar a alucinação (por ter a imagem projetada em sua linha de visão ou ser o alvo de uma sensação tátil) fica distraído, perdendo dois dados da sua próxima ação. Além disso, aqueles que falham em resistir usando Autocontrole + Raciocínio\n\nperdem sua próxima ação ativa. (No entanto, ainda podem se defender e resistir normalmente com uma penalidade de dois dados.) Outros efeitos resultantes da alucinação ficam à critério do Narrador, que deve ser cauteloso. Essas alucinações jamais podem ser gravadas ou transmitidas (como é possível com o uso de Fantasma na Máquina)."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire can create brief but vivid hallucinations, distracting and drawing the attention of those affected. A hallucination can affect any single sense — it can be visual, auditory, tactile, etc. — and occurs long enough to make an impression before ceasing. The user decides on the specifics of the hallucination, though due to its brief nature it cannot convey more than something glimpsed in the corner of the eye or a voice faintly heard (it cannot be employed to create a fake ID, for example)."
+          },
+          {
+            "title": "Requirements",
+            "text": "Amalgam: Presence 1"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Obfuscate vs Composure + Wits"
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "The vampire rolls their Manipulation + Obfuscate. Anyone unprepared and within eyesight of the vampire and eligible to experience the hallucination (by being in line of sight of its projected appearance, or by being the target of a tactile sensation) is distracted, losing two dice on their next action. Additionally, those who fail to resist using their Composure + Wits lose their next active action if they fail. (However, they can still defend and resist as normal, with a two-dice penalty.) Other effects resulting from the hallucination are up to the Storyteller, but they are advised to err on the side of caution.\n\nThese hallucinations can never be recorded or transmitted (such as by using Ghost in the Machine)."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn."
+          }
+        ]
+      }
+    }
+  ]
+}

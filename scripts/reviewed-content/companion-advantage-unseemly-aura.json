@@ -1,0 +1,129 @@
+{
+  "id": "companion-advantage-unseemly-aura",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Aura Imprópria",
+    "en": "Unseemly Aura"
+  },
+  "aliases": [
+    "Aura Imprópria",
+    "Unseemly Aura"
+  ],
+  "versions": [
+    {
+      "id": "companion-advantage-unseemly-aura-guide-2",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 141 · 2 ponto(s)",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "names": {
+        "pt-BR": "Aura Imprópria",
+        "en": "Unseemly Aura"
+      },
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 143,
+          "printedPage": 141
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "ghoul"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Carniçal."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "O Sangue tornou sua aura pálida e indistinguível da aura de um Membro, em vez da aura vibrante de um mortal vivo. Outros podem superestimar sua natureza, o que tanto pode ajudar quanto provocar situações embaraçosas."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ghoul."
+          },
+          {
+            "title": "Cost",
+            "text": "2 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "The Blood has made your aura pale and indistinguishable from a Kindred’s rather than the vibrant aura of a living mortal. Others may overestimate your nature, which can help or create awkward situations."
+          }
+        ]
+      }
+    },
+    {
+      "id": "companion-advantage-unseemly-aura-2",
+      "book": "companion-v5",
+      "sourceTitle": "Companion V5, pp. 59–60 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "89b49c22eb8dea3443cf1bd9bffe568b74476e88a7eb8778d24333590e632329",
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 59,
+          "printedPage": 59
+        },
+        {
+          "pdfPage": 60,
+          "printedPage": 60
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "ghoul"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Requisitos",
+            "text": "Carniçal."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s)."
+          },
+          {
+            "title": "Sistema",
+            "text": "O Sangue tornou sua aura pálida e indistinguível da aura de um Membro, em vez da aura vibrante de um mortal vivo. Outros podem superestimar sua natureza, o que tanto pode ajudar quanto provocar situações embaraçosas."
+          },
+          {
+            "title": "Mudanças de condição",
+            "text": "As opções específicas de carniçal não concedem efeitos a mortais. Qualidades e Defeitos normalmente continuam quando um mortal se torna carniçal, salvo indicação contrária. Tornar-se carniçal ou receber o Abraço pode invalidar certas Vantagens. O Narrador decide se os pontos são realocados ou perdidos: em geral, pontos de Qualidades invalidadas podem comprar novas Vantagens, enquanto pontos de Defeitos podem ser reservados pelo Narrador para uso posterior."
+          }
+        ],
+        "en": [
+          {
+            "title": "Requirements",
+            "text": "Ghoul."
+          },
+          {
+            "title": "Cost",
+            "text": "2 dot(s)."
+          },
+          {
+            "title": "System",
+            "text": "The Blood has made your aura pale and indistinguishable from a Kindred’s rather than the vibrant aura of a living mortal. Others may overestimate your nature, which can help or create awkward situations."
+          },
+          {
+            "title": "Changes of condition",
+            "text": "The ghoul-specific options do not grant effects to mortals. Merits and Flaws normally carry over when a mortal becomes a ghoul, unless stated otherwise. Becoming a ghoul or receiving the Embrace may invalidate some Advantages. The Storyteller decides whether to reallocate or lose those dots: invalidated Merit dots can generally purchase new Advantages; Flaw dots can be retained by the Storyteller for later use."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 2
+}
