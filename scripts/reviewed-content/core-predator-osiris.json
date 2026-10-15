@@ -1,0 +1,65 @@
+{
+  "id": "osiris",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Osíris",
+    "en": "Osiris"
+  },
+  "aliases": [
+    "Osíris",
+    "Osiris"
+  ],
+  "versions": [
+    {
+      "id": "osiris-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 176",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 178,
+          "printedPage": 176
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Uma celebridade mortal ou líder de culto, igreja ou organização semelhante que se alimenta de fãs e adoradores. Eles o tratam como divindade e facilitam o acesso a sangue, mas podem criar problemas com autoridades, religiões organizadas e a Camarilla. DJs, escritores, cultistas, pregadores e organizadores de LARP são exemplos de vidas anteriores."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização: Ocultismo (tradição específica) ou Performance (campo específico de entretenimento).\n- Um ponto em Feitiçaria de Sangue, apenas para Tremere, ou Presença.\n- Distribua exatamente 3 pontos entre Fama e Rebanho.\n- Distribua exatamente 2 pontos entre Inimigos e Defeitos Míticos."
+          },
+          {
+            "title": "Requisitos e exceções",
+            "text": "Os três pontos são compartilhados: não concedem Fama 3 e Rebanho 3. O mesmo vale para o orçamento de dois pontos de Defeitos. Registre o campo da Especialização e a identidade dos seguidores e adversários."
+          },
+          {
+            "title": "Como usar o tipo de Predador",
+            "text": "O tipo representa seu modo habitual de caçar e as adaptações de seu Sangue, Habilidades e Disciplinas. Não obriga a usar apenas esse método durante a história: oportunidades e cooperação com outros Predadores podem exigir outras formas. O pacote de criação é adicional à distribuição básica; Especializações não aumentam os pontos da Habilidade. Benefícios não são recebidos novamente ao reler ou selecionar o mesmo pacote."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A mortal celebrity or leader of a cult, church or similar organization who feeds on fans and worshippers. They treat you as divine and make blood accessible, but may create trouble with authorities, organized religion and the Camarilla. DJs, writers, cultists, preachers and LARP organizers are possible former lives."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- One specialty: Occult (a specific tradition) or Performance (a specific entertainment field).\n- One dot of Blood Sorcery, Tremere only, or Presence.\n- Allocate exactly 3 dots between Fame and Herd.\n- Allocate exactly 2 dots among Enemies and Mythic Flaws."
+          },
+          {
+            "title": "Requirements and exceptions",
+            "text": "The three dots form one shared budget, not Fame 3 plus Herd 3. The two-dot Flaw budget is also shared. Record the specialty field and the identities of followers and adversaries."
+          },
+          {
+            "title": "Using a Predator Type",
+            "text": "This represents habitual hunting and the adaptations of the vampire’s Blood, Skills and Disciplines. It does not force the same method throughout a story: opportunities and cooperation with other predators may require alternatives. The creation package supplements the base allocation; specialties do not increase Skill ratings. Reading or selecting the same package again does not grant its benefits again."
+          }
+        ]
+      }
+    }
+  ]
+}

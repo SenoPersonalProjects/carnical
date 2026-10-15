@@ -1,0 +1,56 @@
+{
+  "id": "sandman",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Sandman",
+    "en": "Sandman"
+  },
+  "aliases": [
+    "Sandman"
+  ],
+  "versions": [
+    {
+      "id": "sandman-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 176",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 178,
+          "printedPage": 176
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Usa discrição ou Disciplinas para se alimentar de vítimas adormecidas. Se não acordarem durante a alimentação, não descobrirão sua existência. Um passado antissocial ou desconforto com a vida noturna e a violência de outros caçadores pode explicar a escolha."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização: Medicina (Anestésicos) ou Furtividade (Invasão).\n- Um ponto em Auspícios ou Ofuscação.\n- Recursos 1."
+          },
+          {
+            "title": "Como usar o tipo de Predador",
+            "text": "O tipo representa seu modo habitual de caçar e as adaptações de seu Sangue, Habilidades e Disciplinas. Não obriga a usar apenas esse método durante a história: oportunidades e cooperação com outros Predadores podem exigir outras formas. O pacote de criação é adicional à distribuição básica; Especializações não aumentam os pontos da Habilidade. Benefícios não são recebidos novamente ao reler ou selecionar o mesmo pacote."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "You use discretion or Disciplines to feed on sleeping victims. If they never wake during feeding, they do not discover your existence. An antisocial past or discomfort with nightlife and other hunters’ violence may explain the choice."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- One specialty: Medicine (Anesthetics) or Stealth (Break-in).\n- One dot of Auspex or Obfuscate.\n- Resources 1."
+          },
+          {
+            "title": "Using a Predator Type",
+            "text": "This represents habitual hunting and the adaptations of the vampire’s Blood, Skills and Disciplines. It does not force the same method throughout a story: opportunities and cooperation with other predators may require alternatives. The creation package supplements the base allocation; specialties do not increase Skill ratings. Reading or selecting the same package again does not grant its benefits again."
+          }
+        ]
+      }
+    }
+  ]
+}

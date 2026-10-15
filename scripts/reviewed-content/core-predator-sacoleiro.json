@@ -1,0 +1,65 @@
+{
+  "id": "sacoleiro",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Sacoleiro",
+    "en": "Bagger"
+  },
+  "aliases": [
+    "Sacoleiro",
+    "Bagger"
+  ],
+  "versions": [
+    {
+      "id": "sacoleiro-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 176",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 178,
+          "printedPage": 176
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Rouba, compra ou obtém sangue frio em vez de caçar pessoas diretamente. Pode usar o mercado negro, furtos, roubos ou acesso a ambulâncias e hospitais; talvez ainda trabalhe no turno da noite em um hospital."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização: Ladroagem (Abrir Fechaduras) ou Manha (Mercado Negro).\n- Um ponto em Feitiçaria de Sangue, apenas para Tremere, ou Ofuscação.\n- Esôfago de Ferro 3.\n- Inimigo 2: alguém que cobra uma dívida ou outro motivo para evitar as ruas."
+          },
+          {
+            "title": "Requisitos e exceções",
+            "text": "Ventrue não podem escolher este tipo. Os pontos de Esôfago de Ferro e Inimigo são respectivamente três e dois, conforme as marcas conferidas no original."
+          },
+          {
+            "title": "Como usar o tipo de Predador",
+            "text": "O tipo representa seu modo habitual de caçar e as adaptações de seu Sangue, Habilidades e Disciplinas. Não obriga a usar apenas esse método durante a história: oportunidades e cooperação com outros Predadores podem exigir outras formas. O pacote de criação é adicional à distribuição básica; Especializações não aumentam os pontos da Habilidade. Benefícios não são recebidos novamente ao reler ou selecionar o mesmo pacote."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "You steal, buy or otherwise obtain cold blood instead of hunting people directly. Black markets, theft, robbery or access to ambulances and hospitals may supply it; perhaps you still work a hospital night shift."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- One specialty: Larceny (Lockpicking) or Streetwise (Black Market).\n- One dot of Blood Sorcery, Tremere only, or Obfuscate.\n- Iron Gullet 3.\n- Enemy 2: someone collecting a debt or another reason to avoid the streets."
+          },
+          {
+            "title": "Requirements and exceptions",
+            "text": "Ventrue cannot choose this type. Iron Gullet and Enemy are three and two dots respectively, as visually checked in the original."
+          },
+          {
+            "title": "Using a Predator Type",
+            "text": "This represents habitual hunting and the adaptations of the vampire’s Blood, Skills and Disciplines. It does not force the same method throughout a story: opportunities and cooperation with other predators may require alternatives. The creation package supplements the base allocation; specialties do not increase Skill ratings. Reading or selecting the same package again does not grant its benefits again."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "consensualista",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Consensualista",
+    "en": "Consensualist"
+  },
+  "aliases": [
+    "Consensualista",
+    "Consensualist"
+  ],
+  "versions": [
+    {
+      "id": "consensualista-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 175, 176",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 177,
+          "printedPage": 175
+        },
+        {
+          "pdfPage": 178,
+          "printedPage": 176
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Você não se alimenta contra a vontade da vítima. Pode disfarçar a coleta como doação de sangue, integrar a comunidade de pessoas que bebem sangue ou revelar a verdade e obter permissão. A Camarilla considera a revelação uma quebra da Máscara, enquanto alguns pensadores Anarchs aceitam o risco. Qualquer passado é possível; profissionais do sexo, organizadores políticos e advogados são exemplos de pessoas relutantes em se alimentar sem consentimento."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização: Medicina (Flebotomia) ou Persuasão (Bolsas).\n- Um ponto em Auspícios ou Fortitude.\n- Um ponto de Humanidade.\n- Segredo Sombrio 1: Quebrador da Máscara.\n- Exclusão de Presa 1: pessoas sem consentimento."
+          },
+          {
+            "title": "Como usar o tipo de Predador",
+            "text": "O tipo representa seu modo habitual de caçar e as adaptações de seu Sangue, Habilidades e Disciplinas. Não obriga a usar apenas esse método durante a história: oportunidades e cooperação com outros Predadores podem exigir outras formas. O pacote de criação é adicional à distribuição básica; Especializações não aumentam os pontos da Habilidade. Benefícios não são recebidos novamente ao reler ou selecionar o mesmo pacote."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "You never feed against the victim’s will. You may disguise collection as a blood donation, belong to the community of blood drinkers, or reveal the truth and obtain permission. The Camarilla calls disclosure a Masquerade breach, while some Anarch thinkers accept the risk. Any former life is possible; sex workers, political organizers and lawyers are examples of people reluctant to feed without consent."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- One specialty: Medicine (Phlebotomy) or Persuasion (Vessels).\n- One dot of Auspex or Fortitude.\n- One Humanity.\n- Dark Secret 1: Masquerade Breacher.\n- Prey Exclusion 1: non-consenting people."
+          },
+          {
+            "title": "Using a Predator Type",
+            "text": "This represents habitual hunting and the adaptations of the vampire’s Blood, Skills and Disciplines. It does not force the same method throughout a story: opportunities and cooperation with other predators may require alternatives. The creation package supplements the base allocation; specialties do not increase Skill ratings. Reading or selecting the same package again does not grant its benefits again."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -5,6 +5,34 @@
       "title": "Vampiro a Mascara Corebook 5ED PORTUGUES",
       "pages": [
         {
+          "pdfPage": 177,
+          "printedPage": 175,
+          "image": "/source-pages/core-v5/0177.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
+          "pdfPage": 178,
+          "printedPage": 176,
+          "image": "/source-pages/core-v5/0178.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
+          "pdfPage": 179,
+          "printedPage": 177,
+          "image": "/source-pages/core-v5/0179.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
+          "pdfPage": 180,
+          "printedPage": 178,
+          "image": "/source-pages/core-v5/0180.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
           "pdfPage": 247,
           "printedPage": 245,
           "image": "/source-pages/core-v5/0247.webp",

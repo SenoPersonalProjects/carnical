@@ -124,3 +124,16 @@ exportação agora usam o mesmo cálculo. A presença do poder é verificada na
 disciplina Fortitude, aceitando o nome português ou inglês; possuir apenas
 pontos de Fortitude não concede o benefício. Recalcular o máximo não apaga nem
 cura dano salvo. Verificação: `check-derived-traits.mjs`.
+
+## Sexto bloco: dez Predadores do Livro Básico
+
+PDF 177–180 (impressas 175–178), conferido nas imagens originais, incluindo
+continuações. Os nomes e identificadores usados pelas fichas foram preservados.
+As descrições em português e inglês incluem o conceito, pacote integral,
+alternativas e restrições. Fazendeiro 2, Esôfago de Ferro 3 e Inimigo 2 do
+Sacoleiro foram conferidos pelos pontos impressos, perdidos no OCR.
+
+As descrições são compartilhadas entre a criação, a consulta em jogo e o anexo
+do PDF; a aplicação dos benefícios continua usando o pacote existente, sem
+conceder pontos pela abertura do accordion. Gerador `review-core-predators.py`;
+verificação `check-core-predators.mjs`, preservando as 326 entradas anteriores.

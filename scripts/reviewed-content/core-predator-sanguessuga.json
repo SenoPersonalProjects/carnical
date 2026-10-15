@@ -1,0 +1,69 @@
+{
+  "id": "sanguessuga",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Sanguessuga",
+    "en": "Blood Leech"
+  },
+  "aliases": [
+    "Sanguessuga",
+    "Blood Leech"
+  ],
+  "versions": [
+    {
+      "id": "sanguessuga-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 176, 177",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 178,
+          "printedPage": 176
+        },
+        {
+          "pdfPage": 179,
+          "printedPage": 177
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Bebe Sangue de outros vampiros por caça, coerção ou pagamento. Pode considerar essa a única alimentação moral, mas a prática costuma ser proibida entre os Membros. Exige correr riscos extremos ou ocupar uma posição de poder invejável."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização: Briga (Membros) ou Furtividade (contra Membros).\n- Um ponto em Celeridade ou Proteanismo.\n- Perca 1 Humanidade.\n- Aumente a Potência de Sangue em 1.\n- Escolha Segredo Sombrio 2 (Diablerista) ou Segregado 2.\n- Exclusão de Presa 2: mortais."
+          },
+          {
+            "title": "Requisitos e exceções",
+            "text": "Segredo Sombrio e Segregado são alternativas, não dois Defeitos obrigatórios. O aumento de Potência não altera automaticamente a Geração."
+          },
+          {
+            "title": "Como usar o tipo de Predador",
+            "text": "O tipo representa seu modo habitual de caçar e as adaptações de seu Sangue, Habilidades e Disciplinas. Não obriga a usar apenas esse método durante a história: oportunidades e cooperação com outros Predadores podem exigir outras formas. O pacote de criação é adicional à distribuição básica; Especializações não aumentam os pontos da Habilidade. Benefícios não são recebidos novamente ao reler ou selecionar o mesmo pacote."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "You drink other vampires’ Blood through hunting, coercion or payment. You may consider this the only moral way to feed, but the practice is commonly forbidden among Kindred. It requires extreme risks or an enviable position of power."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- One specialty: Brawl (Kindred) or Stealth (against Kindred).\n- One dot of Celerity or Protean.\n- Lose 1 Humanity.\n- Increase Blood Potency by 1.\n- Choose Dark Secret 2 (Diablerist) or Shunned 2.\n- Prey Exclusion 2: mortals."
+          },
+          {
+            "title": "Requirements and exceptions",
+            "text": "Dark Secret and Shunned are alternatives, not two mandatory Flaws. Increasing Potency does not automatically change Generation."
+          },
+          {
+            "title": "Using a Predator Type",
+            "text": "This represents habitual hunting and the adaptations of the vampire’s Blood, Skills and Disciplines. It does not force the same method throughout a story: opportunities and cooperation with other predators may require alternatives. The creation package supplements the base allocation; specialties do not increase Skill ratings. Reading or selecting the same package again does not grant its benefits again."
+          }
+        ]
+      }
+    }
+  ]
+}

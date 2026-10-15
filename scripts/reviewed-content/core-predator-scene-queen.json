@@ -1,0 +1,56 @@
+{
+  "id": "scene-queen",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Scene Queen",
+    "en": "Scene Queen"
+  },
+  "aliases": [
+    "Scene Queen"
+  ],
+  "versions": [
+    {
+      "id": "scene-queen-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 177",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 179,
+          "printedPage": 177
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Alimenta-se dentro de uma subcultura que conhece bem, mantendo a imagem de integrante do grupo. As vítimas admiram seu status, e quem percebe a verdade é desacreditado. Pode agir nas ruas ou na elite, oferecendo esperanças e promessas de ascensão. Em vida, já pertencia a uma cena semelhante."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização: Etiqueta, Liderança ou Manha, sempre na cena específica.\n- Um ponto em Dominação ou Potência.\n- Fama 1.\n- Contatos 1.\n- Escolha Rejeitado 1 (Influência fora da subcultura) ou Exclusão de Presa 1 (outra subcultura)."
+          },
+          {
+            "title": "Como usar o tipo de Predador",
+            "text": "O tipo representa seu modo habitual de caçar e as adaptações de seu Sangue, Habilidades e Disciplinas. Não obriga a usar apenas esse método durante a história: oportunidades e cooperação com outros Predadores podem exigir outras formas. O pacote de criação é adicional à distribuição básica; Especializações não aumentam os pontos da Habilidade. Benefícios não são recebidos novamente ao reler ou selecionar o mesmo pacote."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "You feed within a subculture you know well while presenting yourself as a member. Victims admire your status, and those who recognize the truth are discredited. This can happen on the streets or among elites, using hopes and promises of advancement. In life you already belonged to a similar scene."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- One specialty: Etiquette, Leadership or Streetwise, always in the specific scene.\n- One dot of Dominate or Potence.\n- Fame 1.\n- Contacts 1.\n- Choose Disliked 1 (Influence outside the subculture) or Prey Exclusion 1 (another subculture)."
+          },
+          {
+            "title": "Using a Predator Type",
+            "text": "This represents habitual hunting and the adaptations of the vampire’s Blood, Skills and Disciplines. It does not force the same method throughout a story: opportunities and cooperation with other predators may require alternatives. The creation package supplements the base allocation; specialties do not increase Skill ratings. Reading or selecting the same package again does not grant its benefits again."
+          }
+        ]
+      }
+    }
+  ]
+}

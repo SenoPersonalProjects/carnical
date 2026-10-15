@@ -1,0 +1,57 @@
+{
+  "id": "vira-lata",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Vira-lata",
+    "en": "Alleycat"
+  },
+  "aliases": [
+    "Vira-lata",
+    "Alleycat"
+  ],
+  "versions": [
+    {
+      "id": "vira-lata-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 178",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 180,
+          "printedPage": 178
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Um caçador de assalto que persegue, domina e bebe de quem puder. Pode ameaçar ou usar Dominação para silenciar vítimas ou fazer o ataque parecer roubo. Defina por que a sequência de perseguir, atacar, alimentar-se e fugir se tornou aceitável. Pessoa em situação de rua, soldado de operações especiais, assassino de cartel ou caçador são passados possíveis."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização: Intimidação (Assalto à Mão Armada) ou Briga (Agarramento).\n- Um ponto em Celeridade ou Potência.\n- Perca 1 Humanidade.\n- Contatos criminosos 3."
+          },
+          {
+            "title": "Como usar o tipo de Predador",
+            "text": "O tipo representa seu modo habitual de caçar e as adaptações de seu Sangue, Habilidades e Disciplinas. Não obriga a usar apenas esse método durante a história: oportunidades e cooperação com outros Predadores podem exigir outras formas. O pacote de criação é adicional à distribuição básica; Especializações não aumentam os pontos da Habilidade. Benefícios não são recebidos novamente ao reler ou selecionar o mesmo pacote."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A violent ambush hunter who stalks, overpowers and drinks from whoever is available. You may threaten victims or use Dominate to silence them or disguise the attack as robbery. Decide why stalking, attacking, feeding and fleeing became acceptable. A homeless person, special-forces soldier, cartel killer or game hunter are possible former lives."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- One specialty: Intimidation (Stickups) or Brawl (Grappling).\n- One dot of Celerity or Potence.\n- Lose 1 Humanity.\n- Criminal Contacts 3."
+          },
+          {
+            "title": "Using a Predator Type",
+            "text": "This represents habitual hunting and the adaptations of the vampire’s Blood, Skills and Disciplines. It does not force the same method throughout a story: opportunities and cooperation with other predators may require alternatives. The creation package supplements the base allocation; specialties do not increase Skill ratings. Reading or selecting the same package again does not grant its benefits again."
+          }
+        ]
+      }
+    }
+  ]
+}

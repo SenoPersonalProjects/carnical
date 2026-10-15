@@ -10557,6 +10557,224 @@
           }
         }
       ]
+    },
+    {
+      "id": "consensualista",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Consensualista",
+        "en": "Consensualist"
+      },
+      "aliases": [
+        "Consensualista",
+        "Consensualist"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "consensualista-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 175, 176"
+        }
+      ]
+    },
+    {
+      "id": "fazendeiro",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Fazendeiro",
+        "en": "Farmer"
+      },
+      "aliases": [
+        "Fazendeiro",
+        "Farmer"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "fazendeiro-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 176"
+        }
+      ]
+    },
+    {
+      "id": "osiris",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Osíris",
+        "en": "Osiris"
+      },
+      "aliases": [
+        "Osíris",
+        "Osiris"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "osiris-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 176"
+        }
+      ]
+    },
+    {
+      "id": "sacoleiro",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Sacoleiro",
+        "en": "Bagger"
+      },
+      "aliases": [
+        "Sacoleiro",
+        "Bagger"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "sacoleiro-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 176"
+        }
+      ]
+    },
+    {
+      "id": "sandman",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Sandman",
+        "en": "Sandman"
+      },
+      "aliases": [
+        "Sandman"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "sandman-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 176"
+        }
+      ]
+    },
+    {
+      "id": "sanguessuga",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Sanguessuga",
+        "en": "Blood Leech"
+      },
+      "aliases": [
+        "Sanguessuga",
+        "Blood Leech"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "sanguessuga-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 176, 177"
+        }
+      ]
+    },
+    {
+      "id": "scene-queen",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Scene Queen",
+        "en": "Scene Queen"
+      },
+      "aliases": [
+        "Scene Queen"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "scene-queen-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 177"
+        }
+      ]
+    },
+    {
+      "id": "sereia",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Sereia",
+        "en": "Siren"
+      },
+      "aliases": [
+        "Sereia",
+        "Siren"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "sereia-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 177, 178"
+        }
+      ]
+    },
+    {
+      "id": "trinchador",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Trinchador",
+        "en": "Cleaver"
+      },
+      "aliases": [
+        "Trinchador",
+        "Cleaver"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "trinchador-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 178"
+        }
+      ]
+    },
+    {
+      "id": "vira-lata",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Vira-lata",
+        "en": "Alleycat"
+      },
+      "aliases": [
+        "Vira-lata",
+        "Alleycat"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "vira-lata-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 178"
+        }
+      ]
     }
   ]
 }

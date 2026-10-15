@@ -1,0 +1,65 @@
+{
+  "id": "fazendeiro",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Fazendeiro",
+    "en": "Farmer"
+  },
+  "aliases": [
+    "Fazendeiro",
+    "Farmer"
+  ],
+  "versions": [
+    {
+      "id": "fazendeiro-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 176",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 178,
+          "printedPage": 176
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Alimenta-se apenas de animais. A Fome o atormenta, mas pretende não matar humanos, mesmo que tenha havido uma exceção no passado. A escolha expressa preocupação moral, independentemente da ocupação anterior: ativista, sacerdote, voluntário humanitário ou vegano são possibilidades. Manter vidas humanas fora de perigo tem um custo."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização: Empatia com Animais (animal específico) ou Sobrevivência (Caça).\n- Um ponto em Animalismo ou Proteanismo.\n- Um ponto de Humanidade.\n- Defeito de Alimentação Fazendeiro 2."
+          },
+          {
+            "title": "Requisitos e exceções",
+            "text": "Ventrue não podem escolher este tipo. Também é proibido com Potência de Sangue 3 ou superior. Os dois pontos do Defeito foram conferidos visualmente no PDF; não é um Defeito de um ponto."
+          },
+          {
+            "title": "Como usar o tipo de Predador",
+            "text": "O tipo representa seu modo habitual de caçar e as adaptações de seu Sangue, Habilidades e Disciplinas. Não obriga a usar apenas esse método durante a história: oportunidades e cooperação com outros Predadores podem exigir outras formas. O pacote de criação é adicional à distribuição básica; Especializações não aumentam os pontos da Habilidade. Benefícios não são recebidos novamente ao reler ou selecionar o mesmo pacote."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "You feed only on animals. Hunger torments you, but you intend not to kill humans, even if there was a past exception. The choice expresses a moral commitment regardless of former occupation: activist, priest, humanitarian volunteer or vegan are possibilities. Keeping human lives out of danger comes at a cost."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- One specialty: Animal Ken (a specific animal) or Survival (Hunting).\n- One dot of Animalism or Protean.\n- One Humanity.\n- Farmer feeding Flaw 2."
+          },
+          {
+            "title": "Requirements and exceptions",
+            "text": "Ventrue cannot choose this type. It is also unavailable at Blood Potency 3 or higher. The two-dot Flaw was visually checked in the supplied PDF; it is not a one-dot Flaw."
+          },
+          {
+            "title": "Using a Predator Type",
+            "text": "This represents habitual hunting and the adaptations of the vampire’s Blood, Skills and Disciplines. It does not force the same method throughout a story: opportunities and cooperation with other predators may require alternatives. The creation package supplements the base allocation; specialties do not increase Skill ratings. Reading or selecting the same package again does not grant its benefits again."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "trinchador",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Trinchador",
+    "en": "Cleaver"
+  },
+  "aliases": [
+    "Trinchador",
+    "Cleaver"
+  ],
+  "versions": [
+    {
+      "id": "trinchador-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 178",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 180,
+          "printedPage": 178
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Alimenta-se secretamente de familiares e amigos mortais, próprios ou de outra pessoa, com os quais mantém laços. Alguns adotam filhos, casam-se e sustentam a vida familiar por décadas. Inclua essa família no Mapa de Relacionamentos. Esconder a condição pode gerar vínculos destrutivos; a Camarilla proíbe assumir uma família humana e vê a prática como risco iminente à Máscara. Outros Membros usam apelidos depreciativos e podem até matar a família para encerrar o risco, alegando agir pelo bem do vampiro."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização: Persuasão (Gaslighting) ou Subterfúgio (Encobrimento).\n- Um ponto em Dominação ou Animalismo.\n- Segredo Sombrio 1: Trinchador.\n- Rebanho 2."
+          },
+          {
+            "title": "Como usar o tipo de Predador",
+            "text": "O tipo representa seu modo habitual de caçar e as adaptações de seu Sangue, Habilidades e Disciplinas. Não obriga a usar apenas esse método durante a história: oportunidades e cooperação com outros Predadores podem exigir outras formas. O pacote de criação é adicional à distribuição básica; Especializações não aumentam os pontos da Habilidade. Benefícios não são recebidos novamente ao reler ou selecionar o mesmo pacote."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "You secretly feed on mortal family and friends, your own or someone else’s, while maintaining those ties. Some adopt children, marry and sustain family life for as long as possible. Add this family to the Relationship Map. Concealment may create destructive relationships; the Camarilla forbids taking a human family and sees it as an imminent Masquerade risk. Other Kindred use dismissive nicknames and may even kill the family to end the risk, claiming to act for the vampire’s benefit."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- One specialty: Persuasion (Gaslighting) or Subterfuge (Cover-ups).\n- One dot of Dominate or Animalism.\n- Dark Secret 1: Cleaver.\n- Herd 2."
+          },
+          {
+            "title": "Using a Predator Type",
+            "text": "This represents habitual hunting and the adaptations of the vampire’s Blood, Skills and Disciplines. It does not force the same method throughout a story: opportunities and cooperation with other predators may require alternatives. The creation package supplements the base allocation; specialties do not increase Skill ratings. Reading or selecting the same package again does not grant its benefits again."
+          }
+        ]
+      }
+    }
+  ]
+}
