@@ -3,9 +3,10 @@ import fs from "node:fs";
 import path from "node:path";
 import ts from "typescript";
 function load(file){
-  const compiled=ts.transpileModule(fs.readFileSync(file,"utf8"),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022}}).outputText;
+  if(file.endsWith(".json"))return JSON.parse(fs.readFileSync(file,"utf8"));
+  const compiled=ts.transpileModule(fs.readFileSync(file,"utf8"),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022,esModuleInterop:true}}).outputText;
   const loaded={exports:{}};
-  new Function("module","exports","require",compiled)(loaded,loaded.exports,name=>load(path.resolve(path.dirname(file),`${name}.ts`)));
+  new Function("module","exports","require",compiled)(loaded,loaded.exports,name=>load(path.resolve(path.dirname(file),name.endsWith(".json")?name:`${name}.ts`)));
   return loaded.exports;
 }
 const {PREDATOR_CHOICES,readPackageChoices,resolutionComplete}=load("app/predator-choices.ts");

@@ -9721,6 +9721,617 @@
           }
         }
       ]
+    },
+    {
+      "id": "core-v5-ritual-communicate-with-kindred-sire",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Comunicação com o Senhor",
+        "en": "Communicate with Kindred Sire"
+      },
+      "aliases": [
+        "Comunicação com o Senhor",
+        "Communicate with Kindred Sire",
+        "Comunicação com o Senhor do Membro"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-communicate-with-kindred-sire-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 277",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-dagons-call",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "O Chamado de Dagon",
+        "en": "Dagon’s Call"
+      },
+      "aliases": [
+        "O Chamado de Dagon",
+        "Dagon’s Call",
+        "Dagon's Call"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-dagons-call-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 278",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-defense-of-sacred-haven",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Defesa do Refúgio Sagrado",
+        "en": "Defense of the Sacred Haven"
+      },
+      "aliases": [
+        "Defesa do Refúgio Sagrado",
+        "Defense of the Sacred Haven"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-defense-of-sacred-haven-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 279",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-deflection-of-wooden-doom",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Deflecção da Ruína de Madeira",
+        "en": "Deflection of Wooden Doom"
+      },
+      "aliases": [
+        "Deflecção da Ruína de Madeira",
+        "Deflection of Wooden Doom"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-deflection-of-wooden-doom-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 278, 279",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-escape-to-true-sanctuary",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Fuga para o Verdadeiro Santuário",
+        "en": "Escape to True Sanctuary"
+      },
+      "aliases": [
+        "Fuga para o Verdadeiro Santuário",
+        "Escape to True Sanctuary"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-escape-to-true-sanctuary-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 281",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-essence-of-air",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Essência do Ar",
+        "en": "Essence of Air"
+      },
+      "aliases": [
+        "Essência do Ar",
+        "Essence of Air"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-essence-of-air-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 279",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-eyes-of-babel",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Olhos de Babel",
+        "en": "Eyes of Babel"
+      },
+      "aliases": [
+        "Olhos de Babel",
+        "Eyes of Babel"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-eyes-of-babel-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 277",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-eyes-of-nighthawk",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Olhos do Falcão Noturno",
+        "en": "Eyes of the Nighthawk"
+      },
+      "aliases": [
+        "Olhos do Falcão Noturno",
+        "Eyes of the Nighthawk"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-eyes-of-nighthawk-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 279, 280",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-firewalker",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Andarilho do Fogo",
+        "en": "Firewalker"
+      },
+      "aliases": [
+        "Andarilho do Fogo",
+        "Firewalker"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-firewalker-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 278",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-heart-of-stone",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Coração de Pedra",
+        "en": "Heart of Stone"
+      },
+      "aliases": [
+        "Coração de Pedra",
+        "Heart of Stone"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-heart-of-stone-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 280, 281",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-illuminate-trail-of-prey",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Iluminar o Rastro da Presa",
+        "en": "Illuminate the Trail of Prey"
+      },
+      "aliases": [
+        "Iluminar o Rastro da Presa",
+        "Illuminate the Trail of Prey"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-illuminate-trail-of-prey-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 277",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-incorporeal-passage",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Passagem Incorpórea",
+        "en": "Incorporeal Passage"
+      },
+      "aliases": [
+        "Passagem Incorpórea",
+        "Incorporeal Passage"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-incorporeal-passage-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 280",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-shaft-of-belated-dissolution",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Fuste de Extinção Tardia",
+        "en": "Shaft of Belated Dissolution"
+      },
+      "aliases": [
+        "Fuste de Extinção Tardia",
+        "Shaft of Belated Dissolution"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-shaft-of-belated-dissolution-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 281, 282",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-truth-of-blood",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Verdade do Sangue",
+        "en": "Truth of Blood"
+      },
+      "aliases": [
+        "Verdade do Sangue",
+        "Truth of Blood"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-truth-of-blood-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 277, 278",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-ward-against-cainites",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Proteção contra Cainitas",
+        "en": "Ward Against Cainites"
+      },
+      "aliases": [
+        "Proteção contra Cainitas",
+        "Ward Against Cainites"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-ward-against-cainites-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 280",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-ward-against-lupines",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Proteção contra Lupinos",
+        "en": "Ward Against Lupines"
+      },
+      "aliases": [
+        "Proteção contra Lupinos",
+        "Ward Against Lupines"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-ward-against-lupines-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 279",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-ward-against-spirits",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Proteção contra Espíritos",
+        "en": "Ward Against Spirits"
+      },
+      "aliases": [
+        "Proteção contra Espíritos",
+        "Ward Against Spirits"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-ward-against-spirits-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 277",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-warding-circle-against-cainites",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Círculo de Proteção contra Cainitas",
+        "en": "Warding Circle Against Cainites"
+      },
+      "aliases": [
+        "Círculo de Proteção contra Cainitas",
+        "Warding Circle Against Cainites"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-warding-circle-against-cainites-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 276, 280",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-warding-circle-against-ghouls",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Círculo de Proteção contra Carniçais",
+        "en": "Warding Circle Against Ghouls"
+      },
+      "aliases": [
+        "Círculo de Proteção contra Carniçais",
+        "Warding Circle Against Ghouls"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-warding-circle-against-ghouls-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 276, 277",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-warding-circle-against-lupines",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Círculo de Proteção contra Lupinos",
+        "en": "Warding Circle Against Lupines"
+      },
+      "aliases": [
+        "Círculo de Proteção contra Lupinos",
+        "Warding Circle Against Lupines"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-warding-circle-against-lupines-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 276, 279",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-warding-circle-against-spirits",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Círculo de Proteção contra Espíritos",
+        "en": "Warding Circle Against Spirits"
+      },
+      "aliases": [
+        "Círculo de Proteção contra Espíritos",
+        "Warding Circle Against Spirits"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-ritual-warding-circle-against-spirits-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 276, 278",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
     }
   ]
 }

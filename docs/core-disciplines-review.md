@@ -78,3 +78,21 @@ Gerador: `review-core-fortitude-sorcery.py`. Verificação:
 `check-core-fortitude-sorcery.mjs`, incluindo preservação das 282 entradas
 anteriores. Este bloco não conclui o inventário de Rituais, fórmulas, Vantagens,
 Defeitos e demais opções do Livro Básico.
+
+## Quarto bloco: todos os Rituais do Livro Básico
+
+Os 21 Rituais dos níveis 2 a 5, PDF 279–284, foram acrescentados ao catálogo
+compartilhado e às opções de compra com XP. A seção completa possui 26 Rituais:
+5 de nível 1, 6 de nível 2, 6 de nível 3, 5 de nível 4 e 4 de nível 5. As cinco
+entradas anteriores de nível 1 foram preservadas. Somente o nível 1 é gratuito
+na criação; ambos os modos de custo da crônica mantêm nível do Ritual × 3 XP.
+
+Proteções e Círculos incluem suas regras gerais das páginas PDF 277–278, com
+custo, rolagens adiadas, dano, novas tentativas e durações. Os testes especiais
+de Verdade do Sangue e Chamado de Dagon substituem a parada padrão na descrição.
+Tempos e custos especiais de Fuga para o Verdadeiro Santuário e Fuste de Extinção
+Tardia foram preservados. Nenhum efeito de Ritual foi automatizado no jogo.
+
+Gerador: `review-core-rituals.py`. Seleção usa os identificadores e metadados do
+catálogo compartilhado. Verificação: `check-core-rituals.mjs`, incluindo a
+preservação das 298 entradas anteriores. A seção de Alquimia continua pendente.

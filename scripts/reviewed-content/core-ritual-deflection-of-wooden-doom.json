@@ -1,0 +1,132 @@
+{
+  "id": "core-v5-ritual-deflection-of-wooden-doom",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Deflecção da Ruína de Madeira",
+    "en": "Deflection of Wooden Doom"
+  },
+  "aliases": [
+    "Deflecção da Ruína de Madeira",
+    "Deflection of Wooden Doom"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "core-v5-ritual-deflection-of-wooden-doom-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 278, 279",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 280,
+          "printedPage": 278
+        },
+        {
+          "pdfPage": 281,
+          "printedPage": 279
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A primeira estaca que realmente ameaçar o coração despedaça-se antes de penetrar."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "Uma hora."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Lascas e rebarbas de madeira."
+          },
+          {
+            "title": "Processo",
+            "text": "Misture madeira ao Sangue, desenhe um círculo e medite nele por uma hora; termine colocando uma lasca sob a língua."
+          },
+          {
+            "title": "Sistema",
+            "text": "Só role o Ritual ao sofrer tentativa genuína de estacamento; apoiar uma estaca não ativa. Vitória despedaça a estaca ao tocar a pele. Crítico também cega o atacante por dois turnos com lascas."
+          },
+          {
+            "title": "Duração",
+            "text": "Até o fim da noite ou remover a lasca da língua, o que ocorrer primeiro; protege a primeira tentativa."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 4."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 9 XP e no mínimo 9 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The first stake genuinely threatening the heart shatters before penetrating."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "One hour."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Wood shavings and splinters."
+          },
+          {
+            "title": "Process",
+            "text": "Mix wood with Blood, draw a circle and meditate in it for one hour; finish by placing a splinter under the tongue."
+          },
+          {
+            "title": "System",
+            "text": "Roll only upon a genuine staking attempt; merely pressing a stake does not trigger it. A win shatters the stake on skin contact. A critical also blinds the attacker with splinters for two turns."
+          },
+          {
+            "title": "Duration",
+            "text": "Until night’s end or removing the tongue splinter, whichever comes first; protects the first attempt."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 4."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 9 XP and at least 9 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

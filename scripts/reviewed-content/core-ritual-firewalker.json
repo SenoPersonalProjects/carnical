@@ -1,0 +1,128 @@
+{
+  "id": "core-v5-ritual-firewalker",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Andarilho do Fogo",
+    "en": "Firewalker"
+  },
+  "aliases": [
+    "Andarilho do Fogo",
+    "Firewalker"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "core-v5-ritual-firewalker-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 278",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 280,
+          "printedPage": 278
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Protege o conjurador ou companheiros de fogo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "15 minutos, salvo tempo específico no processo."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Ponta de um dedo da mão do próprio conjurador, tigela ou cálice dourado."
+          },
+          {
+            "title": "Processo",
+            "text": "Arranque a ponta com Vigor + Determinação, Dificuldade 3, e queime-a com seu Sangue no recipiente. Chama azulada sinaliza o fim. A mutilação não causa dano suficiente para marcar a ficha, e regenera no sono diurno."
+          },
+          {
+            "title": "Sistema",
+            "text": "O alvo sofre metade do dano de fogo pelo resto da noite. Pode beneficiar terceiros, mas cada ponta sacrificada deve ser do conjurador."
+          },
+          {
+            "title": "Duração",
+            "text": "O restante da noite."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 4."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 9 XP e no mínimo 9 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Protects the caster or companions from fire."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "15 minutes unless the process specifies otherwise."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A fingertip from the caster’s own hand and a golden bowl or chalice."
+          },
+          {
+            "title": "Process",
+            "text": "Remove the fingertip with Stamina + Resolve, Difficulty 3, and burn it with your Blood in the vessel. A blue flame signals completion. The mutilation causes no track damage and regenerates during day sleep."
+          },
+          {
+            "title": "System",
+            "text": "The target takes half fire damage for the rest of the night. Can benefit others, but every sacrificed fingertip must belong to the caster."
+          },
+          {
+            "title": "Duration",
+            "text": "The rest of the night."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 4."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 9 XP and at least 9 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

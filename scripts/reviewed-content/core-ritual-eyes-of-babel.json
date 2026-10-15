@@ -1,0 +1,128 @@
+{
+  "id": "core-v5-ritual-eyes-of-babel",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Olhos de Babel",
+    "en": "Eyes of Babel"
+  },
+  "aliases": [
+    "Olhos de Babel",
+    "Eyes of Babel"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "core-v5-ritual-eyes-of-babel-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 277",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 279,
+          "printedPage": 277
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Ingerir um olho e a língua permite ler e falar os idiomas conhecidos pela vítima."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "10 minutos, salvo tempo específico no processo."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um olho e uma língua frescos de uma pessoa."
+          },
+          {
+            "title": "Processo",
+            "text": "Arranque, mastigue e engula os ingredientes; provavelmente causa uma Mácula. O Teste de Sangue dissolve-os sobrenaturalmente; depois role o Ritual."
+          },
+          {
+            "title": "Sistema",
+            "text": "Vitória concede todos os idiomas da vítima no mesmo grau de domínio."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma semana; um mês num crítico."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 3."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 6 XP e no mínimo 4 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Eating an eye and tongue grants reading and speech in the victim’s languages."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "10 minutes unless the process specifies otherwise."
+          },
+          {
+            "title": "Ingredients",
+            "text": "One fresh human eye and tongue."
+          },
+          {
+            "title": "Process",
+            "text": "Remove, chew and swallow the ingredients, likely causing a Stain. The Rouse Check supernaturally dissolves them; then roll the Ritual."
+          },
+          {
+            "title": "System",
+            "text": "A win grants all the victim’s languages at the same proficiency."
+          },
+          {
+            "title": "Duration",
+            "text": "One week; one month on a critical."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 3."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 6 XP and at least 4 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

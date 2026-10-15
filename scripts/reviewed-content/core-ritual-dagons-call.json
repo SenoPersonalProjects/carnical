@@ -1,0 +1,129 @@
+{
+  "id": "core-v5-ritual-dagons-call",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "O Chamado de Dagon",
+    "en": "Dagon’s Call"
+  },
+  "aliases": [
+    "O Chamado de Dagon",
+    "Dagon’s Call",
+    "Dagon's Call"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "core-v5-ritual-dagons-call-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 278",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 280,
+          "printedPage": 278
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Rompe vasos sanguíneos à distância após expor a vítima ao Sangue do conjurador."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "15 minutos, salvo tempo específico no processo."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Adaga cerimonial com incrustações de ouro."
+          },
+          {
+            "title": "Processo",
+            "text": "A vítima precisa ter ingerido ou tocado seu Sangue, mesmo uma gota na pele. Espere ao menos uma hora e no máximo uma semana; perfure sua pele com a adaga e derrame Sangue no chão."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Feitiçaria de Sangue contra Vigor + Determinação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Cada ponto de margem causa 1 dano agravado em mortal ou superficial em vampiro. Pode repetir o processo mais duas vezes, cada qual com Teste de Sangue adicional."
+          },
+          {
+            "title": "Duração",
+            "text": "Até três aplicações; a exposição inicial é válida de uma hora a uma semana."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 9 XP e no mínimo 9 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Ruptures blood vessels at range after exposing the victim to the caster’s Blood."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "15 minutes unless the process specifies otherwise."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A gold-inlaid ceremonial dagger."
+          },
+          {
+            "title": "Process",
+            "text": "The victim must ingest or touch your Blood, even one drop on skin. Wait at least one hour but no more than one week; pierce your skin with the dagger and spill Blood on the ground."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Blood Sorcery opposed by Stamina + Resolve."
+          },
+          {
+            "title": "System",
+            "text": "Each point of margin inflicts 1 Aggravated damage on a mortal or Superficial on a vampire. May repeat twice more, each requiring another Rouse Check."
+          },
+          {
+            "title": "Duration",
+            "text": "Up to three applications; initial exposure remains valid from one hour to one week."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 9 XP and at least 9 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -129,12 +129,13 @@ for(const entry of catalog){
     }
   }
 }
-const coreRituals=POWER_CATALOG.filter(power=>power.kind==="ritual"&&power.source.book==="core-v5");
-assert.ok(coreRituals.length>=4);
+const coreRituals=POWER_CATALOG.filter(power=>power.kind==="ritual"&&power.source.book==="core-v5").sort((a,b)=>a.level-b.level);
+assert.equal(coreRituals.length,26);
 const active=new Set([sourcebookForLibraryId("core-v5")]);
 for(const ritual of coreRituals){
   assert.ok(catalog.some(entry=>entry.id===ritual.id));
-  assert.equal(creationMagicEligibility(ritual,{"Feitiçaria de Sangue":1},{},active,[]).allowed,true);
+  assert.equal(creationMagicEligibility(ritual,{"Feitiçaria de Sangue":1},{},active,[]).allowed,ritual.level===1);
+  if(ritual.level>1)assert.equal(creationMagicEligibility(ritual,{"Feitiçaria de Sangue":5},{},active,[]).allowed,false);
   assert.equal(creationMagicEligibility(ritual,{"Feitiçaria de Sangue":0},{},active,[]).allowed,false);
   assert.equal(creationMagicEligibility(ritual,{"Feitiçaria de Sangue":1},{},new Set(),[]).allowed,false);
   const other=coreRituals.find(power=>power.id!==ritual.id);

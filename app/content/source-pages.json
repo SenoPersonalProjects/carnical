@@ -241,6 +241,34 @@
           "image": "/source-pages/core-v5/0280.webp",
           "width": 1500,
           "height": 1945
+        },
+        {
+          "pdfPage": 281,
+          "printedPage": 279,
+          "image": "/source-pages/core-v5/0281.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
+          "pdfPage": 282,
+          "printedPage": 280,
+          "image": "/source-pages/core-v5/0282.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
+          "pdfPage": 283,
+          "printedPage": 281,
+          "image": "/source-pages/core-v5/0283.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
+          "pdfPage": 284,
+          "printedPage": 282,
+          "image": "/source-pages/core-v5/0284.webp",
+          "width": 1500,
+          "height": 1945
         }
       ]
     },

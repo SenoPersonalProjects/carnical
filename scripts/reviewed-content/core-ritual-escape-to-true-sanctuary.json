@@ -1,0 +1,128 @@
+{
+  "id": "core-v5-ritual-escape-to-true-sanctuary",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Fuga para o Verdadeiro Santuário",
+    "en": "Escape to True Sanctuary"
+  },
+  "aliases": [
+    "Fuga para o Verdadeiro Santuário",
+    "Escape to True Sanctuary"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "core-v5-ritual-escape-to-true-sanctuary-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 281",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 283,
+          "printedPage": 281
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Liga dois círculos para viagem instantânea de mão única, com partida e chegada definidas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Doze Testes de Sangue para preparar o par; a ativação usa o teste do Ritual descrito."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "Três noites; duas horas por círculo em cada noite."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Dois círculos carbonizados de aproximadamente um metro de diâmetro."
+          },
+          {
+            "title": "Processo",
+            "text": "Queime cada círculo no chão ou solo e consagre-o com duas horas de cânticos e dois Testes de Sangue por noite por três noites. O total é doze Testes de Sangue para o par."
+          },
+          {
+            "title": "Sistema",
+            "text": "Entre no círculo de partida, concentre-se por um turno e role o Ritual, no máximo uma tentativa por cena. Vitória teleporta ao círculo de chegada sem limite de distância. Círculos devem estar no solo ou piso de construção, nunca veículo. Pode levar uma pessoa ou objetos de massa humana equivalente. Dano a qualquer círculo inutiliza ambos. Só pode manter um par ativo."
+          },
+          {
+            "title": "Duração",
+            "text": "Os círculos permanecem até danificados; cada viagem exige teste e segue apenas a direção designada."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 6."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 15 XP e no mínimo 25 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Links two circles for instant one-way travel, with designated departure and arrival."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Cost",
+            "text": "Twelve Rouse Checks to prepare the pair; activation uses the stated Ritual roll."
+          },
+          {
+            "title": "Casting time",
+            "text": "Three nights; two hours per circle each night."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Two charred circles approximately one meter in diameter."
+          },
+          {
+            "title": "Process",
+            "text": "Burn each circle into ground or floor and consecrate it with two hours of chanting and two Rouse Checks per night for three nights. Total cost is twelve Rouse Checks for the pair."
+          },
+          {
+            "title": "System",
+            "text": "Enter the departure circle, concentrate for one turn and roll the Ritual, at most once per scene. A win teleports to the arrival circle with no distance limit. Circles must be on ground or a building floor, never a vehicle. May bring one person or objects totaling a human’s mass. Damage to either circle disables both. Only one pair may be active."
+          },
+          {
+            "title": "Duration",
+            "text": "Circles remain until damaged; each journey requires a roll and follows the designated direction only."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 6."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 15 XP and at least 25 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

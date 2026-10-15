@@ -1,0 +1,144 @@
+{
+  "id": "core-v5-ritual-warding-circle-against-lupines",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Círculo de Proteção contra Lupinos",
+    "en": "Warding Circle Against Lupines"
+  },
+  "aliases": [
+    "Círculo de Proteção contra Lupinos",
+    "Warding Circle Against Lupines"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "core-v5-ritual-warding-circle-against-lupines-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 276, 279",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 277,
+          "printedPage": 275
+        },
+        {
+          "pdfPage": 278,
+          "printedPage": 276
+        },
+        {
+          "pdfPage": 281,
+          "printedPage": 279
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Impede que o tipo de intruso indicado no nome atravesse o círculo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Três Testes de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "20 minutos, salvo tempo específico no processo."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Desenhe com faca de prata mergulhada em acônito e Sangue. Círculos exigem três vezes os ingredientes de uma Proteção comum do mesmo tipo."
+          },
+          {
+            "title": "Processo",
+            "text": "Pinte no chão ou solo um círculo de até três metros de raio, com Sangue e pentáculos. Normalmente impede entrada, não saída; inscreva apontando para dentro para prender intruso já cercado."
+          },
+          {
+            "title": "Sistema",
+            "text": "Quando o intruso cruza, confronte Inteligência + Feitiçaria de Sangue com a Vontade dele. Falha permite entrar. Vitória causa 3 danos superficiais à Vitalidade e impede a entrada; crítico causa 3 agravados. Intruso gasta 1 Vontade para tentar novamente. Se entrar e sair, repete sua metade do conflito para reentrar, mantendo o resultado inicial do conjurador. Pode usar o resultado anotado do Ritual original do círculo de longa duração."
+          },
+          {
+            "title": "Duração",
+            "text": "Até o amanhecer; a versão de uma noite inteira de preparação e teste com Dificuldade +2 dura um ano e um dia."
+          },
+          {
+            "title": "Exceções",
+            "text": "Conhecer o círculo não concede a Proteção comum, nem o inverso. Sentir o Invisível detecta a Proteção com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador. Afeta lobisomens em qualquer forma."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue contra Vontade do intruso. Para a versão de um ano e um dia, teste inicial de Ritual com Dificuldade 7."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 12 XP e no mínimo 16 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prevents the intruder type named in the Ritual from crossing the circle."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Cost",
+            "text": "Three Rouse Checks."
+          },
+          {
+            "title": "Casting time",
+            "text": "20 minutes unless the process specifies otherwise."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Draw with a silver knife dipped in wolfsbane and Blood. Circles require three times the ingredients of a regular Ward of that type."
+          },
+          {
+            "title": "Process",
+            "text": "Paint a circle up to three meters in radius on ground or floor using Blood and pentacles. Normally blocks entry, not exit; inscribe it inward-facing to trap an intruder already enclosed."
+          },
+          {
+            "title": "System",
+            "text": "When an intruder crosses, oppose Intelligence + Blood Sorcery with their Willpower. Failure allows entry. A win inflicts 3 Superficial Health damage and bars entry; a critical inflicts 3 Aggravated. The intruder spends 1 Willpower to try again. After entering and leaving, they repeat their half of the contest to reenter, retaining the caster’s original result. The recorded original Ritual result of a long-lasting circle may be used."
+          },
+          {
+            "title": "Duration",
+            "text": "Until dawn; spending an entire night preparing and rolling at +2 Difficulty makes it last a year and a day."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Knowing the circle does not grant the regular Ward, or vice versa. Sense the Unseen detects the Ward with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery. Affects werewolves in any form."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery opposed by the intruder’s Willpower. For the year-and-a-day version, initial Ritual roll at Difficulty 7."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 12 XP and at least 16 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

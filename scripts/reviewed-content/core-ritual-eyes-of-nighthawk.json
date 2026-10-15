@@ -1,0 +1,132 @@
+{
+  "id": "core-v5-ritual-eyes-of-nighthawk",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Olhos do Falcão Noturno",
+    "en": "Eyes of the Nighthawk"
+  },
+  "aliases": [
+    "Olhos do Falcão Noturno",
+    "Eyes of the Nighthawk"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "core-v5-ritual-eyes-of-nighthawk-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 279, 280",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 281,
+          "printedPage": 279
+        },
+        {
+          "pdfPage": 282,
+          "printedPage": 280
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Possui ave carnívora, como corvo ou ave de rapina, para guiá-la e ver por seus olhos. Papagaios e mainás não servem."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "20 minutos, salvo tempo específico no processo."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Os olhos da ave, arrancados ao concluir o uso."
+          },
+          {
+            "title": "Processo",
+            "text": "Alimente a ave com seu Sangue e entre em transe."
+          },
+          {
+            "title": "Sistema",
+            "text": "Vitória controla voo e visão. Crítico permite ações simples como pegar objetos ou girar chaves e botões. Pode usar a maioria das Disciplinas não físicas pela ave; Dominação exige Telepatia ou outro meio de comunicação não verbal. Não há limite de distância. Se não arrancar os olhos da ave ao fim da noite, o próprio conjurador fica cego nas três noites seguintes."
+          },
+          {
+            "title": "Duração",
+            "text": "Até o fim da noite; a omissão do sacrifício dos olhos causa a cegueira indicada."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 5."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 12 XP e no mínimo 16 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Possesses a carnivorous bird such as a raven or raptor to guide it and see through its eyes. Parrots and mynahs cannot be used."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "20 minutes unless the process specifies otherwise."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The bird’s eyes, removed at the end of use."
+          },
+          {
+            "title": "Process",
+            "text": "Feed the bird your Blood and enter a trance."
+          },
+          {
+            "title": "System",
+            "text": "A win controls flight and sight. A critical permits simple actions such as picking up objects or turning keys and dials. Most non-physical Disciplines can be used through the bird; Dominate requires Telepathy or another non-verbal communication method. No distance limit. Unless the bird’s eyes are removed at night’s end, the caster is blinded for the following three nights."
+          },
+          {
+            "title": "Duration",
+            "text": "Until night’s end; omitting the eye sacrifice causes the stated blindness."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 5."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 12 XP and at least 16 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

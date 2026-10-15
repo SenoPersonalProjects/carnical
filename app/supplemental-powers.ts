@@ -1,4 +1,5 @@
 import type {PowerRule,SourceRef} from "./game-rules";
+import coreRitualCatalog from "./content/catalog-index.json";
 
 type Entry=[name:string,level:number,amalgam?:string];
 function add(book:SourceRef["book"],chapter:string,label:string,discipline:string,kind:PowerRule["kind"],entries:Entry[]):PowerRule[]{
@@ -10,6 +11,7 @@ const ritual=(book:SourceRef["book"],chapter:string,label:string,entries:Entry[]
 const formula=(book:SourceRef["book"],chapter:string,label:string,entries:Entry[])=>add(book,chapter,label,"Alquimia do Sangue-Fraco","formula",entries);
 
 export const SUPPLEMENTAL_POWERS:PowerRule[]=[
+  ...coreRitualCatalog.entries.filter(entry=>entry.kind==="ritual"&&(entry.level??0)>1&&entry.versions.some(version=>version.book==="core-v5")).map((entry):PowerRule=>({id:entry.id,name:entry.names["pt-BR"],discipline:"Feitiçaria de Sangue",kind:"ritual",level:entry.level??1,cost:"Consultar regra",duration:"Consultar regra",source:{book:"core-v5",chapter:"regras-e-criacao-disciplinas",query:entry.names["pt-BR"],label:entry.versions.find(version=>version.book==="core-v5")!.sourceTitle}})),
   ...[
     ["clinging-of-the-insect","Aderência do Inseto","Uma cena; uma noite em uma vitória crítica"],
     ["blood-walk","Caminho do Sangue","Informação obtida ao resolver o ritual"],

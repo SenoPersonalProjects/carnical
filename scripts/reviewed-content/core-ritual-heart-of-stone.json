@@ -1,0 +1,132 @@
+{
+  "id": "core-v5-ritual-heart-of-stone",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Coração de Pedra",
+    "en": "Heart of Stone"
+  },
+  "aliases": [
+    "Coração de Pedra",
+    "Heart of Stone"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "core-v5-ritual-heart-of-stone-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 280, 281",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 282,
+          "printedPage": 280
+        },
+        {
+          "pdfPage": 283,
+          "printedPage": 281
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Transforma o coração em pedra, impedindo estacamento e tornando o conjurador emocionalmente distante."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "Uma noite."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Laje de pedra e vela de cera encharcadas com seu Sangue."
+          },
+          {
+            "title": "Processo",
+            "text": "Deite-se na laje com a vela no peito e deixe-a queimar pela noite. Ao alcançar o peito, causa 1 dano agravado e exige resistir a Frenesi de Terror, Dificuldade 3. Falha encerra o Ritual. Se resistir, role o Ritual; crítico cura o dano da vela."
+          },
+          {
+            "title": "Sistema",
+            "text": "Estacas não penetram o coração e quebram quando forçadas. Subtraia 3 dados de Remorso e rolagens Sociais ativas (não de resistência), exceto Intimidação e Dominação. Não pode usar Presença; recebe +3 dados para resistir a ela."
+          },
+          {
+            "title": "Duração",
+            "text": "Indefinida; para reverter, repita o Ritual."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 6."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 15 XP e no mínimo 25 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Turns the heart to stone, preventing staking and making the caster emotionally detached."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "One night."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A stone slab and wax candle soaked with the caster’s Blood."
+          },
+          {
+            "title": "Process",
+            "text": "Lie on the slab with the candle on the chest and let it burn through the night. Reaching the chest inflicts 1 Aggravated damage and requires resisting terror frenzy at Difficulty 3. Failure ends the Ritual. If resisted, roll the Ritual; a critical heals the candle damage."
+          },
+          {
+            "title": "System",
+            "text": "Stakes cannot penetrate the heart and break when forced. Subtract 3 dice from Remorse and active Social rolls (not resistance), except Intimidation and Dominate. Cannot use Presence; gains +3 dice to resist it."
+          },
+          {
+            "title": "Duration",
+            "text": "Indefinite; repeat the Ritual to reverse it."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 6."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 15 XP and at least 25 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

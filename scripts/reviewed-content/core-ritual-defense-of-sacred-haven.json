@@ -1,0 +1,128 @@
+{
+  "id": "core-v5-ritual-defense-of-sacred-haven",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Defesa do Refúgio Sagrado",
+    "en": "Defense of the Sacred Haven"
+  },
+  "aliases": [
+    "Defesa do Refúgio Sagrado",
+    "Defense of the Sacred Haven"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "core-v5-ritual-defense-of-sacred-haven-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 279",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 281,
+          "printedPage": 279
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Escuridão mística protege o refúgio e seus ocupantes do sol."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "Uma hora ou mais, conforme a área."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Apenas o Sangue do conjurador."
+          },
+          {
+            "title": "Processo",
+            "text": "Inscreva sigilos ao redor e dentro da área, cuidando de portas, janelas e soleiras. Leva uma hora ou mais; raio máximo de seis metros. Ruínas ou áreas liminares dependem do Narrador."
+          },
+          {
+            "title": "Sistema",
+            "text": "Role ao nascer do sol. Vitória impede visão para fora e todo dano solar a vampiros na área. Crítico permite enxergar vagamente o exterior. Sair da área a qualquer momento depois de completar a proteção faz o Ritual falhar ou terminar."
+          },
+          {
+            "title": "Duração",
+            "text": "Um dia inteiro, salvo se o conjurador sair ou encerrar."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 5."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 12 XP e no mínimo 16 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Mystical darkness protects a haven and its occupants from the sun."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "One hour or more depending on the area."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Only the caster’s Blood."
+          },
+          {
+            "title": "Process",
+            "text": "Inscribe sigils around and within the area, attending to doors, windows and thresholds. Takes one hour or more; maximum radius six meters. Ruins or liminal areas depend on the Storyteller."
+          },
+          {
+            "title": "System",
+            "text": "Roll at sunrise. A win blocks outward sight and all sunlight damage to vampires within. A critical permits a dim view outside. Leaving at any time after completing the protection makes the Ritual fail or end."
+          },
+          {
+            "title": "Duration",
+            "text": "One full day unless the caster leaves or ends it."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 5."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 12 XP and at least 16 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -7,13 +7,13 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 298 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 319 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
 | Fonte | Entradas revisadas nesta entrega | Cobertura integral |
 | --- | --- | --- |
-| Livro Básico | 5 rituais de nível 1; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar e Fortificar a Fachada Interior aguardam esclarecimento; outros rituais e demais opções pendentes |
+| Livro Básico | Todos os 26 Rituais; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar e Fortificar a Fachada Interior aguardam esclarecimento; Alquimia e demais opções pendentes |
 | Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
 | Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas; os seis Predadores; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; Lasombra | Clãs restantes, Vantagens, Defeitos, loresheets e demais seções pendentes |
 | Cultos dos Deuses de Sangue | 3 Cerimônias Shalimitas | Pendente |

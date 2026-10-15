@@ -30649,6 +30649,2816 @@
           }
         }
       ]
+    },
+    {
+      "id": "core-v5-ritual-communicate-with-kindred-sire",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Comunicação com o Senhor",
+        "en": "Communicate with Kindred Sire"
+      },
+      "aliases": [
+        "Comunicação com o Senhor",
+        "Communicate with Kindred Sire",
+        "Comunicação com o Senhor do Membro"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "versions": [
+        {
+          "id": "core-v5-ritual-communicate-with-kindred-sire-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 277",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 279,
+              "printedPage": 277
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Usa o vínculo entre Senhor e cria para comunicação telepática distante."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "De 15 a 30 minutos conforme o resultado."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um objeto que pertenceu ao Senhor e tigela de prata com água limpa."
+              },
+              {
+                "title": "Processo",
+                "text": "Submerja o objeto, pingue seu Sangue e concentre-se na última lembrança do Senhor por até 30 minutos."
+              },
+              {
+                "title": "Sistema",
+                "text": "Role após 15 minutos. Vitória permite conversa silenciosa em mão dupla por dez minutos depois de mais 15 minutos; crítico inicia imediatamente. Perturbação importante em qualquer ponta rompe o vínculo."
+              },
+              {
+                "title": "Duração",
+                "text": "Dez minutos de comunicação, salvo interrupção."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 3."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 6 XP e no mínimo 4 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Uses the sire–childe bond for distant telepathic communication."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "15 to 30 minutes depending on the result."
+              },
+              {
+                "title": "Ingredients",
+                "text": "An object formerly owned by the sire and a silver bowl of clean water."
+              },
+              {
+                "title": "Process",
+                "text": "Submerge the object, drip your Blood and concentrate on the last memory of the sire for up to 30 minutes."
+              },
+              {
+                "title": "System",
+                "text": "Roll after 15 minutes. A win permits ten minutes of silent two-way conversation after another 15 minutes; a critical starts immediately. Major disturbance at either end breaks the connection."
+              },
+              {
+                "title": "Duration",
+                "text": "Ten minutes of communication unless interrupted."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 3."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 6 XP and at least 4 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-dagons-call",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "O Chamado de Dagon",
+        "en": "Dagon’s Call"
+      },
+      "aliases": [
+        "O Chamado de Dagon",
+        "Dagon’s Call",
+        "Dagon's Call"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "versions": [
+        {
+          "id": "core-v5-ritual-dagons-call-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 278",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 280,
+              "printedPage": 278
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Rompe vasos sanguíneos à distância após expor a vítima ao Sangue do conjurador."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "15 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Adaga cerimonial com incrustações de ouro."
+              },
+              {
+                "title": "Processo",
+                "text": "A vítima precisa ter ingerido ou tocado seu Sangue, mesmo uma gota na pele. Espere ao menos uma hora e no máximo uma semana; perfure sua pele com a adaga e derrame Sangue no chão."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Feitiçaria de Sangue contra Vigor + Determinação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Cada ponto de margem causa 1 dano agravado em mortal ou superficial em vampiro. Pode repetir o processo mais duas vezes, cada qual com Teste de Sangue adicional."
+              },
+              {
+                "title": "Duração",
+                "text": "Até três aplicações; a exposição inicial é válida de uma hora a uma semana."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 9 XP e no mínimo 9 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Ruptures blood vessels at range after exposing the victim to the caster’s Blood."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "15 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A gold-inlaid ceremonial dagger."
+              },
+              {
+                "title": "Process",
+                "text": "The victim must ingest or touch your Blood, even one drop on skin. Wait at least one hour but no more than one week; pierce your skin with the dagger and spill Blood on the ground."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Blood Sorcery opposed by Stamina + Resolve."
+              },
+              {
+                "title": "System",
+                "text": "Each point of margin inflicts 1 Aggravated damage on a mortal or Superficial on a vampire. May repeat twice more, each requiring another Rouse Check."
+              },
+              {
+                "title": "Duration",
+                "text": "Up to three applications; initial exposure remains valid from one hour to one week."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 9 XP and at least 9 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-defense-of-sacred-haven",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Defesa do Refúgio Sagrado",
+        "en": "Defense of the Sacred Haven"
+      },
+      "aliases": [
+        "Defesa do Refúgio Sagrado",
+        "Defense of the Sacred Haven"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "versions": [
+        {
+          "id": "core-v5-ritual-defense-of-sacred-haven-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 279",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 281,
+              "printedPage": 279
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Escuridão mística protege o refúgio e seus ocupantes do sol."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "Uma hora ou mais, conforme a área."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Apenas o Sangue do conjurador."
+              },
+              {
+                "title": "Processo",
+                "text": "Inscreva sigilos ao redor e dentro da área, cuidando de portas, janelas e soleiras. Leva uma hora ou mais; raio máximo de seis metros. Ruínas ou áreas liminares dependem do Narrador."
+              },
+              {
+                "title": "Sistema",
+                "text": "Role ao nascer do sol. Vitória impede visão para fora e todo dano solar a vampiros na área. Crítico permite enxergar vagamente o exterior. Sair da área a qualquer momento depois de completar a proteção faz o Ritual falhar ou terminar."
+              },
+              {
+                "title": "Duração",
+                "text": "Um dia inteiro, salvo se o conjurador sair ou encerrar."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 5."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 12 XP e no mínimo 16 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Mystical darkness protects a haven and its occupants from the sun."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "One hour or more depending on the area."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Only the caster’s Blood."
+              },
+              {
+                "title": "Process",
+                "text": "Inscribe sigils around and within the area, attending to doors, windows and thresholds. Takes one hour or more; maximum radius six meters. Ruins or liminal areas depend on the Storyteller."
+              },
+              {
+                "title": "System",
+                "text": "Roll at sunrise. A win blocks outward sight and all sunlight damage to vampires within. A critical permits a dim view outside. Leaving at any time after completing the protection makes the Ritual fail or end."
+              },
+              {
+                "title": "Duration",
+                "text": "One full day unless the caster leaves or ends it."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 5."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 12 XP and at least 16 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-deflection-of-wooden-doom",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Deflecção da Ruína de Madeira",
+        "en": "Deflection of Wooden Doom"
+      },
+      "aliases": [
+        "Deflecção da Ruína de Madeira",
+        "Deflection of Wooden Doom"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "versions": [
+        {
+          "id": "core-v5-ritual-deflection-of-wooden-doom-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 278, 279",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 280,
+              "printedPage": 278
+            },
+            {
+              "pdfPage": 281,
+              "printedPage": 279
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A primeira estaca que realmente ameaçar o coração despedaça-se antes de penetrar."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "Uma hora."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Lascas e rebarbas de madeira."
+              },
+              {
+                "title": "Processo",
+                "text": "Misture madeira ao Sangue, desenhe um círculo e medite nele por uma hora; termine colocando uma lasca sob a língua."
+              },
+              {
+                "title": "Sistema",
+                "text": "Só role o Ritual ao sofrer tentativa genuína de estacamento; apoiar uma estaca não ativa. Vitória despedaça a estaca ao tocar a pele. Crítico também cega o atacante por dois turnos com lascas."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o fim da noite ou remover a lasca da língua, o que ocorrer primeiro; protege a primeira tentativa."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 4."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 9 XP e no mínimo 9 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The first stake genuinely threatening the heart shatters before penetrating."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "One hour."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Wood shavings and splinters."
+              },
+              {
+                "title": "Process",
+                "text": "Mix wood with Blood, draw a circle and meditate in it for one hour; finish by placing a splinter under the tongue."
+              },
+              {
+                "title": "System",
+                "text": "Roll only upon a genuine staking attempt; merely pressing a stake does not trigger it. A win shatters the stake on skin contact. A critical also blinds the attacker with splinters for two turns."
+              },
+              {
+                "title": "Duration",
+                "text": "Until night’s end or removing the tongue splinter, whichever comes first; protects the first attempt."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 4."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 9 XP and at least 9 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-escape-to-true-sanctuary",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Fuga para o Verdadeiro Santuário",
+        "en": "Escape to True Sanctuary"
+      },
+      "aliases": [
+        "Fuga para o Verdadeiro Santuário",
+        "Escape to True Sanctuary"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "versions": [
+        {
+          "id": "core-v5-ritual-escape-to-true-sanctuary-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 281",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 283,
+              "printedPage": 281
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Liga dois círculos para viagem instantânea de mão única, com partida e chegada definidas."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Doze Testes de Sangue para preparar o par; a ativação usa o teste do Ritual descrito."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "Três noites; duas horas por círculo em cada noite."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Dois círculos carbonizados de aproximadamente um metro de diâmetro."
+              },
+              {
+                "title": "Processo",
+                "text": "Queime cada círculo no chão ou solo e consagre-o com duas horas de cânticos e dois Testes de Sangue por noite por três noites. O total é doze Testes de Sangue para o par."
+              },
+              {
+                "title": "Sistema",
+                "text": "Entre no círculo de partida, concentre-se por um turno e role o Ritual, no máximo uma tentativa por cena. Vitória teleporta ao círculo de chegada sem limite de distância. Círculos devem estar no solo ou piso de construção, nunca veículo. Pode levar uma pessoa ou objetos de massa humana equivalente. Dano a qualquer círculo inutiliza ambos. Só pode manter um par ativo."
+              },
+              {
+                "title": "Duração",
+                "text": "Os círculos permanecem até danificados; cada viagem exige teste e segue apenas a direção designada."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 6."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 15 XP e no mínimo 25 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Links two circles for instant one-way travel, with designated departure and arrival."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Twelve Rouse Checks to prepare the pair; activation uses the stated Ritual roll."
+              },
+              {
+                "title": "Casting time",
+                "text": "Three nights; two hours per circle each night."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Two charred circles approximately one meter in diameter."
+              },
+              {
+                "title": "Process",
+                "text": "Burn each circle into ground or floor and consecrate it with two hours of chanting and two Rouse Checks per night for three nights. Total cost is twelve Rouse Checks for the pair."
+              },
+              {
+                "title": "System",
+                "text": "Enter the departure circle, concentrate for one turn and roll the Ritual, at most once per scene. A win teleports to the arrival circle with no distance limit. Circles must be on ground or a building floor, never a vehicle. May bring one person or objects totaling a human’s mass. Damage to either circle disables both. Only one pair may be active."
+              },
+              {
+                "title": "Duration",
+                "text": "Circles remain until damaged; each journey requires a roll and follows the designated direction only."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 6."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 15 XP and at least 25 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-essence-of-air",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Essência do Ar",
+        "en": "Essence of Air"
+      },
+      "aliases": [
+        "Essência do Ar",
+        "Essence of Air"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "versions": [
+        {
+          "id": "core-v5-ritual-essence-of-air-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 279",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 281,
+              "printedPage": 279
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Poção concede voo limitado e ameaça a Máscara de modo evidente."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "15 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Folhas e frutos de beladona."
+              },
+              {
+                "title": "Processo",
+                "text": "Banha a beladona com Sangue e reduz a infusão entoando palavras de poder. Role ao reduzir: crítico produz duas doses. O conjurador sabe se deu certo."
+              },
+              {
+                "title": "Sistema",
+                "text": "Só o conjurador pode usar a poção preta. Ao beber, voa ou flutua à velocidade de corrida. Pode carregar massa de um humano, reduzindo a velocidade para caminhada. Agarrar e voar com alguém involuntário, ou puxar o voador ao chão, usa conflito entre Força + Feitiçaria de Sangue e Força + Atletismo do oponente."
+              },
+              {
+                "title": "Duração",
+                "text": "Poção conserva potência por uma noite; voo dura uma cena após ingerir."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 4."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 9 XP e no mínimo 9 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "A potion grants limited flight and poses an obvious Masquerade risk."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "15 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Belladonna leaves and berries."
+              },
+              {
+                "title": "Process",
+                "text": "Bathe belladonna in Blood and reduce the infusion while speaking words of power. Roll during reduction: a critical produces two doses. The caster knows whether it worked."
+              },
+              {
+                "title": "System",
+                "text": "Only the caster can use the black potion. Drinking allows flight or hovering at running speed. Carrying one human’s mass reduces speed to walking. Taking an unwilling passenger aloft or pulling the flyer down uses a contest between Strength + Blood Sorcery and the opponent’s Strength + Athletics."
+              },
+              {
+                "title": "Duration",
+                "text": "Potion stays potent for one night; flight lasts one scene after drinking."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 4."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 9 XP and at least 9 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-eyes-of-babel",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Olhos de Babel",
+        "en": "Eyes of Babel"
+      },
+      "aliases": [
+        "Olhos de Babel",
+        "Eyes of Babel"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "versions": [
+        {
+          "id": "core-v5-ritual-eyes-of-babel-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 277",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 279,
+              "printedPage": 277
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Ingerir um olho e a língua permite ler e falar os idiomas conhecidos pela vítima."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "10 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um olho e uma língua frescos de uma pessoa."
+              },
+              {
+                "title": "Processo",
+                "text": "Arranque, mastigue e engula os ingredientes; provavelmente causa uma Mácula. O Teste de Sangue dissolve-os sobrenaturalmente; depois role o Ritual."
+              },
+              {
+                "title": "Sistema",
+                "text": "Vitória concede todos os idiomas da vítima no mesmo grau de domínio."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma semana; um mês num crítico."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 3."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 6 XP e no mínimo 4 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Eating an eye and tongue grants reading and speech in the victim’s languages."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "10 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "One fresh human eye and tongue."
+              },
+              {
+                "title": "Process",
+                "text": "Remove, chew and swallow the ingredients, likely causing a Stain. The Rouse Check supernaturally dissolves them; then roll the Ritual."
+              },
+              {
+                "title": "System",
+                "text": "A win grants all the victim’s languages at the same proficiency."
+              },
+              {
+                "title": "Duration",
+                "text": "One week; one month on a critical."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 3."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 6 XP and at least 4 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-eyes-of-nighthawk",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Olhos do Falcão Noturno",
+        "en": "Eyes of the Nighthawk"
+      },
+      "aliases": [
+        "Olhos do Falcão Noturno",
+        "Eyes of the Nighthawk"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "versions": [
+        {
+          "id": "core-v5-ritual-eyes-of-nighthawk-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 279, 280",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 281,
+              "printedPage": 279
+            },
+            {
+              "pdfPage": 282,
+              "printedPage": 280
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Possui ave carnívora, como corvo ou ave de rapina, para guiá-la e ver por seus olhos. Papagaios e mainás não servem."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "20 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Os olhos da ave, arrancados ao concluir o uso."
+              },
+              {
+                "title": "Processo",
+                "text": "Alimente a ave com seu Sangue e entre em transe."
+              },
+              {
+                "title": "Sistema",
+                "text": "Vitória controla voo e visão. Crítico permite ações simples como pegar objetos ou girar chaves e botões. Pode usar a maioria das Disciplinas não físicas pela ave; Dominação exige Telepatia ou outro meio de comunicação não verbal. Não há limite de distância. Se não arrancar os olhos da ave ao fim da noite, o próprio conjurador fica cego nas três noites seguintes."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o fim da noite; a omissão do sacrifício dos olhos causa a cegueira indicada."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 5."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 12 XP e no mínimo 16 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Possesses a carnivorous bird such as a raven or raptor to guide it and see through its eyes. Parrots and mynahs cannot be used."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "20 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The bird’s eyes, removed at the end of use."
+              },
+              {
+                "title": "Process",
+                "text": "Feed the bird your Blood and enter a trance."
+              },
+              {
+                "title": "System",
+                "text": "A win controls flight and sight. A critical permits simple actions such as picking up objects or turning keys and dials. Most non-physical Disciplines can be used through the bird; Dominate requires Telepathy or another non-verbal communication method. No distance limit. Unless the bird’s eyes are removed at night’s end, the caster is blinded for the following three nights."
+              },
+              {
+                "title": "Duration",
+                "text": "Until night’s end; omitting the eye sacrifice causes the stated blindness."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 5."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 12 XP and at least 16 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-firewalker",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Andarilho do Fogo",
+        "en": "Firewalker"
+      },
+      "aliases": [
+        "Andarilho do Fogo",
+        "Firewalker"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "versions": [
+        {
+          "id": "core-v5-ritual-firewalker-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 278",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 280,
+              "printedPage": 278
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Protege o conjurador ou companheiros de fogo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "15 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Ponta de um dedo da mão do próprio conjurador, tigela ou cálice dourado."
+              },
+              {
+                "title": "Processo",
+                "text": "Arranque a ponta com Vigor + Determinação, Dificuldade 3, e queime-a com seu Sangue no recipiente. Chama azulada sinaliza o fim. A mutilação não causa dano suficiente para marcar a ficha, e regenera no sono diurno."
+              },
+              {
+                "title": "Sistema",
+                "text": "O alvo sofre metade do dano de fogo pelo resto da noite. Pode beneficiar terceiros, mas cada ponta sacrificada deve ser do conjurador."
+              },
+              {
+                "title": "Duração",
+                "text": "O restante da noite."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 4."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 9 XP e no mínimo 9 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Protects the caster or companions from fire."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "15 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A fingertip from the caster’s own hand and a golden bowl or chalice."
+              },
+              {
+                "title": "Process",
+                "text": "Remove the fingertip with Stamina + Resolve, Difficulty 3, and burn it with your Blood in the vessel. A blue flame signals completion. The mutilation causes no track damage and regenerates during day sleep."
+              },
+              {
+                "title": "System",
+                "text": "The target takes half fire damage for the rest of the night. Can benefit others, but every sacrificed fingertip must belong to the caster."
+              },
+              {
+                "title": "Duration",
+                "text": "The rest of the night."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 4."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 9 XP and at least 9 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-heart-of-stone",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Coração de Pedra",
+        "en": "Heart of Stone"
+      },
+      "aliases": [
+        "Coração de Pedra",
+        "Heart of Stone"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "versions": [
+        {
+          "id": "core-v5-ritual-heart-of-stone-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 280, 281",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 282,
+              "printedPage": 280
+            },
+            {
+              "pdfPage": 283,
+              "printedPage": 281
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Transforma o coração em pedra, impedindo estacamento e tornando o conjurador emocionalmente distante."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "Uma noite."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Laje de pedra e vela de cera encharcadas com seu Sangue."
+              },
+              {
+                "title": "Processo",
+                "text": "Deite-se na laje com a vela no peito e deixe-a queimar pela noite. Ao alcançar o peito, causa 1 dano agravado e exige resistir a Frenesi de Terror, Dificuldade 3. Falha encerra o Ritual. Se resistir, role o Ritual; crítico cura o dano da vela."
+              },
+              {
+                "title": "Sistema",
+                "text": "Estacas não penetram o coração e quebram quando forçadas. Subtraia 3 dados de Remorso e rolagens Sociais ativas (não de resistência), exceto Intimidação e Dominação. Não pode usar Presença; recebe +3 dados para resistir a ela."
+              },
+              {
+                "title": "Duração",
+                "text": "Indefinida; para reverter, repita o Ritual."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 6."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 15 XP e no mínimo 25 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Turns the heart to stone, preventing staking and making the caster emotionally detached."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "One night."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A stone slab and wax candle soaked with the caster’s Blood."
+              },
+              {
+                "title": "Process",
+                "text": "Lie on the slab with the candle on the chest and let it burn through the night. Reaching the chest inflicts 1 Aggravated damage and requires resisting terror frenzy at Difficulty 3. Failure ends the Ritual. If resisted, roll the Ritual; a critical heals the candle damage."
+              },
+              {
+                "title": "System",
+                "text": "Stakes cannot penetrate the heart and break when forced. Subtract 3 dice from Remorse and active Social rolls (not resistance), except Intimidation and Dominate. Cannot use Presence; gains +3 dice to resist it."
+              },
+              {
+                "title": "Duration",
+                "text": "Indefinite; repeat the Ritual to reverse it."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 6."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 15 XP and at least 25 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-illuminate-trail-of-prey",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Iluminar o Rastro da Presa",
+        "en": "Illuminate the Trail of Prey"
+      },
+      "aliases": [
+        "Iluminar o Rastro da Presa",
+        "Illuminate the Trail of Prey"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "versions": [
+        {
+          "id": "core-v5-ritual-illuminate-trail-of-prey-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 277",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 279,
+              "printedPage": 277
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Mostra uma trilha incandescente sutil, visível apenas ao conjurador, deixada por pessoa conhecida."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "10 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Fita de cetim branca."
+              },
+              {
+                "title": "Processo",
+                "text": "Embeba a fita no próprio Sangue e acenda-a. Vitória faz a fita molhada arder como rastilho; o efeito começa quando ela termina de queimar."
+              },
+              {
+                "title": "Sistema",
+                "text": "Siga o trajeto das últimas 24 horas, mesmo sem marcas físicas ou em cidade cheia. Para seguir, teste Inteligência + Sobrevivência com Dificuldade 6 menos a margem do Ritual."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite; duas num crítico."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 3."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 6 XP e no mínimo 4 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Shows a subtle glowing trail visible only to the caster, left by a known person."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "10 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A white satin ribbon."
+              },
+              {
+                "title": "Process",
+                "text": "Soak the ribbon in your Blood and ignite it. A win makes the wet ribbon burn like a fuse; the effect begins once consumed."
+              },
+              {
+                "title": "System",
+                "text": "Follow the target’s route over the last 24 hours, even without physical tracks or in crowded cities. Tracking uses Intelligence + Survival at Difficulty 6 minus the Ritual margin."
+              },
+              {
+                "title": "Duration",
+                "text": "One night; two on a critical."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 3."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 6 XP and at least 4 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-incorporeal-passage",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Passagem Incorpórea",
+        "en": "Incorporeal Passage"
+      },
+      "aliases": [
+        "Passagem Incorpórea",
+        "Incorporeal Passage"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "versions": [
+        {
+          "id": "core-v5-ritual-incorporeal-passage-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 280",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 282,
+              "printedPage": 280
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Torna-se incorpóreo e atravessa objetos, permanecendo visível e audível."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "20 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um espelho."
+              },
+              {
+                "title": "Processo",
+                "text": "Salpique Sangue no espelho, entoe o cântico e quebre-o."
+              },
+              {
+                "title": "Sistema",
+                "text": "Vitória mantém a forma enquanto segurar um caco. Imune a dano físico, exceto fogo, sol e armas arcanas ou Rituais que firam espíritos. Não interage fisicamente, não faz Impulso de Sangue e não entra em reinos espirituais. Atravessa matéria em linha reta, sem mudar direção dentro dela. Se voltar ao material dentro de sólido, o Narrador decide consequências, de inconveniência a destruição ou emparedamento."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até soltar o caco."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 5."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 12 XP e no mínimo 16 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Becomes incorporeal and passes through objects while remaining visible and audible."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "20 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A mirror."
+              },
+              {
+                "title": "Process",
+                "text": "Splash Blood onto the mirror, chant and break it."
+              },
+              {
+                "title": "System",
+                "text": "A win maintains the form while holding a shard. Immune to physical damage except fire, sunlight, arcane weapons or Rituals harming spirits. Cannot interact physically, Blood Surge or enter spirit realms. Passes through matter in a straight line without turning inside it. Returning to material form within solid matter has consequences decided by the Storyteller, from inconvenience to destruction or entombment."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until dropping the shard."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 5."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 12 XP and at least 16 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-shaft-of-belated-dissolution",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Fuste de Extinção Tardia",
+        "en": "Shaft of Belated Dissolution"
+      },
+      "aliases": [
+        "Fuste de Extinção Tardia",
+        "Shaft of Belated Dissolution"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "versions": [
+        {
+          "id": "core-v5-ritual-shaft-of-belated-dissolution-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 281, 282",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 283,
+              "printedPage": 281
+            },
+            {
+              "pdfPage": 284,
+              "printedPage": 282
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Cria estaca que busca o coração e causa Morte Final, podendo avançar como lasca dentro do corpo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Dois Testes de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "Cinco horas."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Estaca de sorveira inscrita com runas perniciosas e fogo de carvalho."
+              },
+              {
+                "title": "Processo",
+                "text": "Encharque a estaca com Sangue equivalente a dois Testes de Sangue, escurecendo-a no fogo e lendo encantos por cinco horas."
+              },
+              {
+                "title": "Sistema",
+                "text": "Concede +3 dados a qualquer tentativa de estacar, corpo a corpo, besta ou martelo em vítima adormecida; qualquer pessoa pode manejá-la. Acerto com margem 5 ou mais reduz o vampiro a pó num turno. Se acertar com margem menor, a estaca quebra na ferida e sua ponta avança ao coração ao longo de horas ou noites. Sem extração médica ou mística, a Morte Final é certa. Outra pessoa pode extraí-la com Destreza + Medicina, Dificuldade 6, em até quatro horas; amputar o membro afetado também a remove, desde que ainda não tenha alcançado o tronco."
+              },
+              {
+                "title": "Duração",
+                "text": "A fonte não define prazo de validade da estaca; a lasca permanece letal até extraída ou alcançar o coração."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 6."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 15 XP e no mínimo 25 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Creates a stake that seeks the heart and causes Final Death, potentially moving as a splinter inside the body."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Two Rouse Checks."
+              },
+              {
+                "title": "Casting time",
+                "text": "Five hours."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A rowan stake inscribed with baleful runes and an oak fire."
+              },
+              {
+                "title": "Process",
+                "text": "Soak the stake in Blood equivalent to two Rouse Checks while blackening it in the fire and reading incantations for five hours."
+              },
+              {
+                "title": "System",
+                "text": "Grants +3 dice to any staking attempt, by melee, crossbow or hammer against a sleeping victim; anyone can wield it. A hit with margin 5 or more turns the vampire to dust in one turn. A hit with lesser margin breaks the stake into the wound, its tip advancing toward the heart over hours or nights. Without medical or mystical removal, Final Death is certain. Another person can remove it with Dexterity + Medicine, Difficulty 6, taking up to four hours; amputating the affected limb also removes it unless it has reached the torso."
+              },
+              {
+                "title": "Duration",
+                "text": "The source gives no expiry for the stake; the splinter remains lethal until removed or reaching the heart."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 6."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 15 XP and at least 25 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-truth-of-blood",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Verdade do Sangue",
+        "en": "Truth of Blood"
+      },
+      "aliases": [
+        "Verdade do Sangue",
+        "Truth of Blood"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "versions": [
+        {
+          "id": "core-v5-ritual-truth-of-blood-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 277, 278",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 279,
+              "printedPage": 277
+            },
+            {
+              "pdfPage": 280,
+              "printedPage": 278
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Mistura de sangue distingue verdade e mentira, podendo revelar detalhes subconscientes."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "10 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Uma pitada de sangue do alvo."
+              },
+              {
+                "title": "Processo",
+                "text": "Misture seu Sangue ao do alvo num recipiente grande o suficiente para mergulhar um dedo."
+              },
+              {
+                "title": "Parada",
+                "text": "No lugar do teste de Ritual padrão, Determinação + Feitiçaria de Sangue contra Autocontrole + Ocultismo para cada afirmação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Mergulhe o dedo e confronte cada afirmação. Vitória revela se é verdade até onde o alvo sabe. Crítico o faz ampliar involuntariamente a resposta com detalhes antes apenas entrevistos ou subconscientes; o Narrador avisa se não houver mais informação. A primeira falha termina o Ritual. Não atravessa Nublar Memória, Mente Esquecida ou outros apagamentos: pode inferir a causa da lacuna, não recuperar a lembrança."
+              },
+              {
+                "title": "Duração",
+                "text": "Até a primeira falha ou fim da cena, quando a mistura que borbulha vira cinza."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 6 XP e no mínimo 4 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "A blood mixture distinguishes truth from lies and may reveal subconscious details."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "10 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A small amount of the target’s blood."
+              },
+              {
+                "title": "Process",
+                "text": "Mix your Blood with the target’s in a vessel large enough to dip a finger."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Instead of the standard Ritual roll, Resolve + Blood Sorcery opposed by Composure + Occult for each statement."
+              },
+              {
+                "title": "System",
+                "text": "Dip the finger and contest each statement. A win reveals truth as the target knows it. A critical makes them involuntarily expand the answer with half-glimpsed or subconscious details; the Storyteller says if none remain. The first failure ends the Ritual. It cannot penetrate Cloud Memory, The Forgetful Mind or other erasures: the cause of a gap may be inferred but the memory cannot be recovered."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the first failure or scene’s end, when the bubbling mixture becomes ash."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 6 XP and at least 4 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-ward-against-cainites",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Proteção contra Cainitas",
+        "en": "Ward Against Cainites"
+      },
+      "aliases": [
+        "Proteção contra Cainitas",
+        "Ward Against Cainites"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "versions": [
+        {
+          "id": "core-v5-ritual-ward-against-cainites-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 280",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 277,
+              "printedPage": 275
+            },
+            {
+              "pdfPage": 282,
+              "printedPage": 280
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Afeta todos os vampiros exceto o conjurador. O uso das cinzas arrisca Frenesi de Terror; não pode inscrever esta Proteção na noite em que sucumbiu a esse Frenesi. Vampiro que examine com Auspícios pode ler o nome do conjurador vencendo Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue dele."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "20 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Cinzas quentes de um fogo ainda aceso."
+              },
+              {
+                "title": "Processo",
+                "text": "Derrame Sangue no objeto e desenhe o glifo com dedo nu. Limpar o Sangue torna a Proteção invisível. Cobre aproximadamente um metro: pode proteger um volante, mas não um carro inteiro."
+              },
+              {
+                "title": "Sistema",
+                "text": "Não role até o primeiro intruso tocar a Proteção. Vitória causa 1 dano agravado à Vitalidade; crítico causa 3. A rolagem inicial vale para os demais intrusos. Quem já foi afetado precisa gastar 1 Vontade e vencer Vigor + Determinação, Dificuldade 4 (7 se a Proteção teve crítico), para tentar tocar de novo."
+              },
+              {
+                "title": "Exceções",
+                "text": "Contato forçado não ativa: golpear com espada protegida não aciona, tentar pegá-la aciona. Roupa e luvas não protegem. Sentir o Invisível detecta com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador. Conhecer a Proteção não concede seu Círculo, nem o inverso."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o objeto ser destruído ou quebrado fisicamente; o intruso não pode fazer isso."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 5."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 12 XP e no mínimo 16 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Affects all vampires except the caster. Handling the ashes risks terror frenzy; cannot inscribe this Ward on a night when the caster succumbed to that frenzy. A vampire examining it with Auspex can read the caster’s name by winning Intelligence + Auspex against their Intelligence + Blood Sorcery."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "20 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Hot ashes from a fire still burning."
+              },
+              {
+                "title": "Process",
+                "text": "Pour Blood onto the object and draw the glyph with a bare finger. Wiping away the Blood makes the Ward invisible. Covers approximately one meter: it can protect a steering wheel but not a whole car."
+              },
+              {
+                "title": "System",
+                "text": "Do not roll until the first intruder touches the Ward. A win inflicts 1 Aggravated Health damage; a critical inflicts 3. The initial roll applies to later intruders. An already affected intruder must spend 1 Willpower and win Stamina + Resolve, Difficulty 4 (7 if the Ward achieved a critical), to try touching it again."
+              },
+              {
+                "title": "Exceptions",
+                "text": "Forced contact does not trigger it: striking with a warded sword does not, attempting to pick it up does. Clothes and gloves offer no protection. Sense the Unseen detects it with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery. Knowing the Ward does not grant its Circle, or vice versa."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the object is physically destroyed or broken; the intruder cannot do this."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 5."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 12 XP and at least 16 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-ward-against-lupines",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Proteção contra Lupinos",
+        "en": "Ward Against Lupines"
+      },
+      "aliases": [
+        "Proteção contra Lupinos",
+        "Ward Against Lupines"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "versions": [
+        {
+          "id": "core-v5-ritual-ward-against-lupines-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 279",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 277,
+              "printedPage": 275
+            },
+            {
+              "pdfPage": 281,
+              "printedPage": 279
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Afeta lobisomens em qualquer forma; tentar tocar o objeto aciona a Proteção."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "15 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um punhado de prata em pó misturado com Sangue."
+              },
+              {
+                "title": "Processo",
+                "text": "Derrame Sangue no objeto e desenhe o glifo com dedo nu. Limpar o Sangue torna a Proteção invisível. Cobre aproximadamente um metro: pode proteger um volante, mas não um carro inteiro."
+              },
+              {
+                "title": "Sistema",
+                "text": "Não role até o primeiro intruso tocar a Proteção. Vitória causa 1 dano agravado à Vitalidade; crítico causa 3. A rolagem inicial vale para os demais intrusos. Quem já foi afetado precisa gastar 1 Vontade e vencer Vigor + Determinação, Dificuldade 4 (7 se a Proteção teve crítico), para tentar tocar de novo."
+              },
+              {
+                "title": "Exceções",
+                "text": "Contato forçado não ativa: golpear com espada protegida não aciona, tentar pegá-la aciona. Roupa e luvas não protegem. Sentir o Invisível detecta com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador. Conhecer a Proteção não concede seu Círculo, nem o inverso."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o objeto ser destruído ou quebrado fisicamente; o intruso não pode fazer isso."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 4."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 9 XP e no mínimo 9 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Affects werewolves in any form; attempting to touch the object triggers the Ward."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "15 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A handful of silver dust mixed with Blood."
+              },
+              {
+                "title": "Process",
+                "text": "Pour Blood onto the object and draw the glyph with a bare finger. Wiping away the Blood makes the Ward invisible. Covers approximately one meter: it can protect a steering wheel but not a whole car."
+              },
+              {
+                "title": "System",
+                "text": "Do not roll until the first intruder touches the Ward. A win inflicts 1 Aggravated Health damage; a critical inflicts 3. The initial roll applies to later intruders. An already affected intruder must spend 1 Willpower and win Stamina + Resolve, Difficulty 4 (7 if the Ward achieved a critical), to try touching it again."
+              },
+              {
+                "title": "Exceptions",
+                "text": "Forced contact does not trigger it: striking with a warded sword does not, attempting to pick it up does. Clothes and gloves offer no protection. Sense the Unseen detects it with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery. Knowing the Ward does not grant its Circle, or vice versa."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the object is physically destroyed or broken; the intruder cannot do this."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 4."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 9 XP and at least 9 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-ward-against-spirits",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Proteção contra Espíritos",
+        "en": "Ward Against Spirits"
+      },
+      "aliases": [
+        "Proteção contra Espíritos",
+        "Ward Against Spirits"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "versions": [
+        {
+          "id": "core-v5-ritual-ward-against-spirits-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 277",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 277,
+              "printedPage": 275
+            },
+            {
+              "pdfPage": 279,
+              "printedPage": 277
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Afeta aparições, fantasmas e espíritos elementais incorpóreos. Tentar manipular ou atravessar o objeto aciona a Proteção."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "10 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um punhado de sal, ou pó de tijolo em algumas versões, misturado com Sangue."
+              },
+              {
+                "title": "Processo",
+                "text": "Derrame Sangue no objeto e desenhe o glifo com dedo nu. Limpar o Sangue torna a Proteção invisível. Cobre aproximadamente um metro: pode proteger um volante, mas não um carro inteiro."
+              },
+              {
+                "title": "Sistema",
+                "text": "Não role até o primeiro intruso tocar a Proteção. Vitória causa 1 dano agravado à Vitalidade; crítico causa 3. A rolagem inicial vale para os demais intrusos. Quem já foi afetado precisa gastar 1 Vontade e vencer Vigor + Determinação, Dificuldade 4 (7 se a Proteção teve crítico), para tentar tocar de novo."
+              },
+              {
+                "title": "Exceções",
+                "text": "Contato forçado não ativa: golpear com espada protegida não aciona, tentar pegá-la aciona. Roupa e luvas não protegem. Sentir o Invisível detecta com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador. Conhecer a Proteção não concede seu Círculo, nem o inverso."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o objeto ser destruído ou quebrado fisicamente; o intruso não pode fazer isso."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 3."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 6 XP e no mínimo 4 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Affects incorporeal wraiths, ghosts and elemental spirits. Attempting to manipulate or pass through the object triggers the Ward."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Casting time",
+                "text": "10 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A handful of salt, or brick dust in some versions, mixed with Blood."
+              },
+              {
+                "title": "Process",
+                "text": "Pour Blood onto the object and draw the glyph with a bare finger. Wiping away the Blood makes the Ward invisible. Covers approximately one meter: it can protect a steering wheel but not a whole car."
+              },
+              {
+                "title": "System",
+                "text": "Do not roll until the first intruder touches the Ward. A win inflicts 1 Aggravated Health damage; a critical inflicts 3. The initial roll applies to later intruders. An already affected intruder must spend 1 Willpower and win Stamina + Resolve, Difficulty 4 (7 if the Ward achieved a critical), to try touching it again."
+              },
+              {
+                "title": "Exceptions",
+                "text": "Forced contact does not trigger it: striking with a warded sword does not, attempting to pick it up does. Clothes and gloves offer no protection. Sense the Unseen detects it with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery. Knowing the Ward does not grant its Circle, or vice versa."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the object is physically destroyed or broken; the intruder cannot do this."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery, Difficulty 3."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 6 XP and at least 4 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-warding-circle-against-cainites",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Círculo de Proteção contra Cainitas",
+        "en": "Warding Circle Against Cainites"
+      },
+      "aliases": [
+        "Círculo de Proteção contra Cainitas",
+        "Warding Circle Against Cainites"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "versions": [
+        {
+          "id": "core-v5-ritual-warding-circle-against-cainites-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 276, 280",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 277,
+              "printedPage": 275
+            },
+            {
+              "pdfPage": 278,
+              "printedPage": 276
+            },
+            {
+              "pdfPage": 282,
+              "printedPage": 280
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Impede que o tipo de intruso indicado no nome atravesse o círculo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Três Testes de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "25 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Desenhe com varinha de sorveira mergulhada em Sangue e cinzas de fogueira ainda acesa. Círculos exigem três vezes os ingredientes de uma Proteção comum do mesmo tipo."
+              },
+              {
+                "title": "Processo",
+                "text": "Pinte no chão ou solo um círculo de até três metros de raio, com Sangue e pentáculos. Normalmente impede entrada, não saída; inscreva apontando para dentro para prender intruso já cercado."
+              },
+              {
+                "title": "Sistema",
+                "text": "Quando o intruso cruza, confronte Inteligência + Feitiçaria de Sangue com a Vontade dele. Falha permite entrar. Vitória causa 3 danos superficiais à Vitalidade e impede a entrada; crítico causa 3 agravados. Intruso gasta 1 Vontade para tentar novamente. Se entrar e sair, repete sua metade do conflito para reentrar, mantendo o resultado inicial do conjurador. Pode usar o resultado anotado do Ritual original do círculo de longa duração."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o amanhecer; a versão de uma noite inteira de preparação e teste com Dificuldade +2 dura um ano e um dia."
+              },
+              {
+                "title": "Exceções",
+                "text": "Conhecer o círculo não concede a Proteção comum, nem o inverso. Sentir o Invisível detecta a Proteção com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador. Afeta todos os vampiros exceto o conjurador."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue contra Vontade do intruso. Para a versão de um ano e um dia, teste inicial de Ritual com Dificuldade 8."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 15 XP e no mínimo 25 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Prevents the intruder type named in the Ritual from crossing the circle."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Three Rouse Checks."
+              },
+              {
+                "title": "Casting time",
+                "text": "25 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Draw with a rowan wand dipped in Blood and ashes from a fire still burning. Circles require three times the ingredients of a regular Ward of that type."
+              },
+              {
+                "title": "Process",
+                "text": "Paint a circle up to three meters in radius on ground or floor using Blood and pentacles. Normally blocks entry, not exit; inscribe it inward-facing to trap an intruder already enclosed."
+              },
+              {
+                "title": "System",
+                "text": "When an intruder crosses, oppose Intelligence + Blood Sorcery with their Willpower. Failure allows entry. A win inflicts 3 Superficial Health damage and bars entry; a critical inflicts 3 Aggravated. The intruder spends 1 Willpower to try again. After entering and leaving, they repeat their half of the contest to reenter, retaining the caster’s original result. The recorded original Ritual result of a long-lasting circle may be used."
+              },
+              {
+                "title": "Duration",
+                "text": "Until dawn; spending an entire night preparing and rolling at +2 Difficulty makes it last a year and a day."
+              },
+              {
+                "title": "Exceptions",
+                "text": "Knowing the circle does not grant the regular Ward, or vice versa. Sense the Unseen detects the Ward with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery. Affects all vampires except the caster."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery opposed by the intruder’s Willpower. For the year-and-a-day version, initial Ritual roll at Difficulty 8."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 15 XP and at least 25 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-warding-circle-against-ghouls",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Círculo de Proteção contra Carniçais",
+        "en": "Warding Circle Against Ghouls"
+      },
+      "aliases": [
+        "Círculo de Proteção contra Carniçais",
+        "Warding Circle Against Ghouls"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "versions": [
+        {
+          "id": "core-v5-ritual-warding-circle-against-ghouls-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 276, 277",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 277,
+              "printedPage": 275
+            },
+            {
+              "pdfPage": 278,
+              "printedPage": 276
+            },
+            {
+              "pdfPage": 279,
+              "printedPage": 277
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Impede que o tipo de intruso indicado no nome atravesse o círculo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Três Testes de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "10 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Desenhe com um osso humano mergulhado em Sangue. Círculos exigem três vezes os ingredientes de uma Proteção comum do mesmo tipo."
+              },
+              {
+                "title": "Processo",
+                "text": "Pinte no chão ou solo um círculo de até três metros de raio, com Sangue e pentáculos. Normalmente impede entrada, não saída; inscreva apontando para dentro para prender intruso já cercado."
+              },
+              {
+                "title": "Sistema",
+                "text": "Quando o intruso cruza, confronte Inteligência + Feitiçaria de Sangue com a Vontade dele. Falha permite entrar. Vitória causa 3 danos superficiais à Vitalidade e impede a entrada; crítico causa 3 agravados. Intruso gasta 1 Vontade para tentar novamente. Se entrar e sair, repete sua metade do conflito para reentrar, mantendo o resultado inicial do conjurador. Pode usar o resultado anotado do Ritual original do círculo de longa duração."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o amanhecer; a versão de uma noite inteira de preparação e teste com Dificuldade +2 dura um ano e um dia."
+              },
+              {
+                "title": "Exceções",
+                "text": "Conhecer o círculo não concede a Proteção comum, nem o inverso. Sentir o Invisível detecta a Proteção com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue contra Vontade do intruso. Para a versão de um ano e um dia, teste inicial de Ritual com Dificuldade 5."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 6 XP e no mínimo 4 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Prevents the intruder type named in the Ritual from crossing the circle."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 2."
+              },
+              {
+                "title": "Cost",
+                "text": "Three Rouse Checks."
+              },
+              {
+                "title": "Casting time",
+                "text": "10 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Draw with a human bone dipped in Blood. Circles require three times the ingredients of a regular Ward of that type."
+              },
+              {
+                "title": "Process",
+                "text": "Paint a circle up to three meters in radius on ground or floor using Blood and pentacles. Normally blocks entry, not exit; inscribe it inward-facing to trap an intruder already enclosed."
+              },
+              {
+                "title": "System",
+                "text": "When an intruder crosses, oppose Intelligence + Blood Sorcery with their Willpower. Failure allows entry. A win inflicts 3 Superficial Health damage and bars entry; a critical inflicts 3 Aggravated. The intruder spends 1 Willpower to try again. After entering and leaving, they repeat their half of the contest to reenter, retaining the caster’s original result. The recorded original Ritual result of a long-lasting circle may be used."
+              },
+              {
+                "title": "Duration",
+                "text": "Until dawn; spending an entire night preparing and rolling at +2 Difficulty makes it last a year and a day."
+              },
+              {
+                "title": "Exceptions",
+                "text": "Knowing the circle does not grant the regular Ward, or vice versa. Sense the Unseen detects the Ward with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery opposed by the intruder’s Willpower. For the year-and-a-day version, initial Ritual roll at Difficulty 5."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 6 XP and at least 4 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-warding-circle-against-lupines",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Círculo de Proteção contra Lupinos",
+        "en": "Warding Circle Against Lupines"
+      },
+      "aliases": [
+        "Círculo de Proteção contra Lupinos",
+        "Warding Circle Against Lupines"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "versions": [
+        {
+          "id": "core-v5-ritual-warding-circle-against-lupines-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 276, 279",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 277,
+              "printedPage": 275
+            },
+            {
+              "pdfPage": 278,
+              "printedPage": 276
+            },
+            {
+              "pdfPage": 281,
+              "printedPage": 279
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Impede que o tipo de intruso indicado no nome atravesse o círculo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Três Testes de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "20 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Desenhe com faca de prata mergulhada em acônito e Sangue. Círculos exigem três vezes os ingredientes de uma Proteção comum do mesmo tipo."
+              },
+              {
+                "title": "Processo",
+                "text": "Pinte no chão ou solo um círculo de até três metros de raio, com Sangue e pentáculos. Normalmente impede entrada, não saída; inscreva apontando para dentro para prender intruso já cercado."
+              },
+              {
+                "title": "Sistema",
+                "text": "Quando o intruso cruza, confronte Inteligência + Feitiçaria de Sangue com a Vontade dele. Falha permite entrar. Vitória causa 3 danos superficiais à Vitalidade e impede a entrada; crítico causa 3 agravados. Intruso gasta 1 Vontade para tentar novamente. Se entrar e sair, repete sua metade do conflito para reentrar, mantendo o resultado inicial do conjurador. Pode usar o resultado anotado do Ritual original do círculo de longa duração."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o amanhecer; a versão de uma noite inteira de preparação e teste com Dificuldade +2 dura um ano e um dia."
+              },
+              {
+                "title": "Exceções",
+                "text": "Conhecer o círculo não concede a Proteção comum, nem o inverso. Sentir o Invisível detecta a Proteção com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador. Afeta lobisomens em qualquer forma."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue contra Vontade do intruso. Para a versão de um ano e um dia, teste inicial de Ritual com Dificuldade 7."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 12 XP e no mínimo 16 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Prevents the intruder type named in the Ritual from crossing the circle."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 4."
+              },
+              {
+                "title": "Cost",
+                "text": "Three Rouse Checks."
+              },
+              {
+                "title": "Casting time",
+                "text": "20 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Draw with a silver knife dipped in wolfsbane and Blood. Circles require three times the ingredients of a regular Ward of that type."
+              },
+              {
+                "title": "Process",
+                "text": "Paint a circle up to three meters in radius on ground or floor using Blood and pentacles. Normally blocks entry, not exit; inscribe it inward-facing to trap an intruder already enclosed."
+              },
+              {
+                "title": "System",
+                "text": "When an intruder crosses, oppose Intelligence + Blood Sorcery with their Willpower. Failure allows entry. A win inflicts 3 Superficial Health damage and bars entry; a critical inflicts 3 Aggravated. The intruder spends 1 Willpower to try again. After entering and leaving, they repeat their half of the contest to reenter, retaining the caster’s original result. The recorded original Ritual result of a long-lasting circle may be used."
+              },
+              {
+                "title": "Duration",
+                "text": "Until dawn; spending an entire night preparing and rolling at +2 Difficulty makes it last a year and a day."
+              },
+              {
+                "title": "Exceptions",
+                "text": "Knowing the circle does not grant the regular Ward, or vice versa. Sense the Unseen detects the Ward with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery. Affects werewolves in any form."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery opposed by the intruder’s Willpower. For the year-and-a-day version, initial Ritual roll at Difficulty 7."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 12 XP and at least 16 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-ritual-warding-circle-against-spirits",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Círculo de Proteção contra Espíritos",
+        "en": "Warding Circle Against Spirits"
+      },
+      "aliases": [
+        "Círculo de Proteção contra Espíritos",
+        "Warding Circle Against Spirits"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "versions": [
+        {
+          "id": "core-v5-ritual-warding-circle-against-spirits-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 276, 278",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 274,
+              "printedPage": 272
+            },
+            {
+              "pdfPage": 276,
+              "printedPage": 274
+            },
+            {
+              "pdfPage": 277,
+              "printedPage": 275
+            },
+            {
+              "pdfPage": 278,
+              "printedPage": 276
+            },
+            {
+              "pdfPage": 280,
+              "printedPage": 278
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Impede que o tipo de intruso indicado no nome atravesse o círculo. Um ocultista humano pode reconstruir uma versão funcional com Inteligência + Ocultismo, Dificuldade 6, mas não conjurá-la sem Vitae ou outra ajuda sobrenatural."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Três Testes de Sangue."
+              },
+              {
+                "title": "Tempo de realização",
+                "text": "15 minutos, salvo tempo específico no processo."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Desenhe com faca de ferro mergulhada em sal e Sangue. Círculos exigem três vezes os ingredientes de uma Proteção comum do mesmo tipo."
+              },
+              {
+                "title": "Processo",
+                "text": "Pinte no chão ou solo um círculo de até três metros de raio, com Sangue e pentáculos. Normalmente impede entrada, não saída; inscreva apontando para dentro para prender intruso já cercado."
+              },
+              {
+                "title": "Sistema",
+                "text": "Quando o intruso cruza, confronte Inteligência + Feitiçaria de Sangue com a Vontade dele. Falha permite entrar. Vitória causa 3 danos superficiais à Vitalidade e impede a entrada; crítico causa 3 agravados. Intruso gasta 1 Vontade para tentar novamente. Se entrar e sair, repete sua metade do conflito para reentrar, mantendo o resultado inicial do conjurador. Pode usar o resultado anotado do Ritual original do círculo de longa duração."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o amanhecer; a versão de uma noite inteira de preparação e teste com Dificuldade +2 dura um ano e um dia."
+              },
+              {
+                "title": "Exceções",
+                "text": "Conhecer o círculo não concede a Proteção comum, nem o inverso. Sentir o Invisível detecta a Proteção com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador. Afeta aparições, fantasmas e espíritos elementais incorpóreos."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue contra Vontade do intruso. Para a versão de um ano e um dia, teste inicial de Ritual com Dificuldade 6."
+              },
+              {
+                "title": "Aprendizado e limites gerais",
+                "text": "Custa 9 XP e no mínimo 9 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Prevents the intruder type named in the Ritual from crossing the circle. A human occultist can reconstruct a working version with Intelligence + Occult, Difficulty 6, but cannot cast it without Vitae or other supernatural assistance."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 3."
+              },
+              {
+                "title": "Cost",
+                "text": "Three Rouse Checks."
+              },
+              {
+                "title": "Casting time",
+                "text": "15 minutes unless the process specifies otherwise."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Draw with an iron knife dipped in salt and Blood. Circles require three times the ingredients of a regular Ward of that type."
+              },
+              {
+                "title": "Process",
+                "text": "Paint a circle up to three meters in radius on ground or floor using Blood and pentacles. Normally blocks entry, not exit; inscribe it inward-facing to trap an intruder already enclosed."
+              },
+              {
+                "title": "System",
+                "text": "When an intruder crosses, oppose Intelligence + Blood Sorcery with their Willpower. Failure allows entry. A win inflicts 3 Superficial Health damage and bars entry; a critical inflicts 3 Aggravated. The intruder spends 1 Willpower to try again. After entering and leaving, they repeat their half of the contest to reenter, retaining the caster’s original result. The recorded original Ritual result of a long-lasting circle may be used."
+              },
+              {
+                "title": "Duration",
+                "text": "Until dawn; spending an entire night preparing and rolling at +2 Difficulty makes it last a year and a day."
+              },
+              {
+                "title": "Exceptions",
+                "text": "Knowing the circle does not grant the regular Ward, or vice versa. Sense the Unseen detects the Ward with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery. Affects incorporeal wraiths, ghosts and elemental spirits."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Blood Sorcery opposed by the intruder’s Willpower. For the year-and-a-day version, initial Ritual roll at Difficulty 6."
+              },
+              {
+                "title": "Learning and general limits",
+                "text": "Costs 9 XP and at least 9 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

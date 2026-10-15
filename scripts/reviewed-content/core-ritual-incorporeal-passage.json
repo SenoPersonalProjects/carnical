@@ -1,0 +1,128 @@
+{
+  "id": "core-v5-ritual-incorporeal-passage",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Passagem Incorpórea",
+    "en": "Incorporeal Passage"
+  },
+  "aliases": [
+    "Passagem Incorpórea",
+    "Incorporeal Passage"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "core-v5-ritual-incorporeal-passage-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 280",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 282,
+          "printedPage": 280
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Torna-se incorpóreo e atravessa objetos, permanecendo visível e audível."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "20 minutos, salvo tempo específico no processo."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um espelho."
+          },
+          {
+            "title": "Processo",
+            "text": "Salpique Sangue no espelho, entoe o cântico e quebre-o."
+          },
+          {
+            "title": "Sistema",
+            "text": "Vitória mantém a forma enquanto segurar um caco. Imune a dano físico, exceto fogo, sol e armas arcanas ou Rituais que firam espíritos. Não interage fisicamente, não faz Impulso de Sangue e não entra em reinos espirituais. Atravessa matéria em linha reta, sem mudar direção dentro dela. Se voltar ao material dentro de sólido, o Narrador decide consequências, de inconveniência a destruição ou emparedamento."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até soltar o caco."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 5."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 12 XP e no mínimo 16 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Becomes incorporeal and passes through objects while remaining visible and audible."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "20 minutes unless the process specifies otherwise."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A mirror."
+          },
+          {
+            "title": "Process",
+            "text": "Splash Blood onto the mirror, chant and break it."
+          },
+          {
+            "title": "System",
+            "text": "A win maintains the form while holding a shard. Immune to physical damage except fire, sunlight, arcane weapons or Rituals harming spirits. Cannot interact physically, Blood Surge or enter spirit realms. Passes through matter in a straight line without turning inside it. Returning to material form within solid matter has consequences decided by the Storyteller, from inconvenience to destruction or entombment."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until dropping the shard."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 5."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 12 XP and at least 16 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

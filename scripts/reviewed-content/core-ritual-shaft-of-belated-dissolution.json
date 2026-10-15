@@ -1,0 +1,132 @@
+{
+  "id": "core-v5-ritual-shaft-of-belated-dissolution",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Fuste de Extinção Tardia",
+    "en": "Shaft of Belated Dissolution"
+  },
+  "aliases": [
+    "Fuste de Extinção Tardia",
+    "Shaft of Belated Dissolution"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "core-v5-ritual-shaft-of-belated-dissolution-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 281, 282",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 283,
+          "printedPage": 281
+        },
+        {
+          "pdfPage": 284,
+          "printedPage": 282
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Cria estaca que busca o coração e causa Morte Final, podendo avançar como lasca dentro do corpo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Dois Testes de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "Cinco horas."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Estaca de sorveira inscrita com runas perniciosas e fogo de carvalho."
+          },
+          {
+            "title": "Processo",
+            "text": "Encharque a estaca com Sangue equivalente a dois Testes de Sangue, escurecendo-a no fogo e lendo encantos por cinco horas."
+          },
+          {
+            "title": "Sistema",
+            "text": "Concede +3 dados a qualquer tentativa de estacar, corpo a corpo, besta ou martelo em vítima adormecida; qualquer pessoa pode manejá-la. Acerto com margem 5 ou mais reduz o vampiro a pó num turno. Se acertar com margem menor, a estaca quebra na ferida e sua ponta avança ao coração ao longo de horas ou noites. Sem extração médica ou mística, a Morte Final é certa. Outra pessoa pode extraí-la com Destreza + Medicina, Dificuldade 6, em até quatro horas; amputar o membro afetado também a remove, desde que ainda não tenha alcançado o tronco."
+          },
+          {
+            "title": "Duração",
+            "text": "A fonte não define prazo de validade da estaca; a lasca permanece letal até extraída ou alcançar o coração."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 6."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 15 XP e no mínimo 25 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Creates a stake that seeks the heart and causes Final Death, potentially moving as a splinter inside the body."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks."
+          },
+          {
+            "title": "Casting time",
+            "text": "Five hours."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A rowan stake inscribed with baleful runes and an oak fire."
+          },
+          {
+            "title": "Process",
+            "text": "Soak the stake in Blood equivalent to two Rouse Checks while blackening it in the fire and reading incantations for five hours."
+          },
+          {
+            "title": "System",
+            "text": "Grants +3 dice to any staking attempt, by melee, crossbow or hammer against a sleeping victim; anyone can wield it. A hit with margin 5 or more turns the vampire to dust in one turn. A hit with lesser margin breaks the stake into the wound, its tip advancing toward the heart over hours or nights. Without medical or mystical removal, Final Death is certain. Another person can remove it with Dexterity + Medicine, Difficulty 6, taking up to four hours; amputating the affected limb also removes it unless it has reached the torso."
+          },
+          {
+            "title": "Duration",
+            "text": "The source gives no expiry for the stake; the splinter remains lethal until removed or reaching the heart."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 6."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 15 XP and at least 25 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

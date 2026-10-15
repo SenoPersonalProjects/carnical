@@ -1,0 +1,140 @@
+{
+  "id": "core-v5-ritual-ward-against-cainites",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Proteção contra Cainitas",
+    "en": "Ward Against Cainites"
+  },
+  "aliases": [
+    "Proteção contra Cainitas",
+    "Ward Against Cainites"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "core-v5-ritual-ward-against-cainites-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 275, 280",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 277,
+          "printedPage": 275
+        },
+        {
+          "pdfPage": 282,
+          "printedPage": 280
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Afeta todos os vampiros exceto o conjurador. O uso das cinzas arrisca Frenesi de Terror; não pode inscrever esta Proteção na noite em que sucumbiu a esse Frenesi. Vampiro que examine com Auspícios pode ler o nome do conjurador vencendo Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue dele."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "20 minutos, salvo tempo específico no processo."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Cinzas quentes de um fogo ainda aceso."
+          },
+          {
+            "title": "Processo",
+            "text": "Derrame Sangue no objeto e desenhe o glifo com dedo nu. Limpar o Sangue torna a Proteção invisível. Cobre aproximadamente um metro: pode proteger um volante, mas não um carro inteiro."
+          },
+          {
+            "title": "Sistema",
+            "text": "Não role até o primeiro intruso tocar a Proteção. Vitória causa 1 dano agravado à Vitalidade; crítico causa 3. A rolagem inicial vale para os demais intrusos. Quem já foi afetado precisa gastar 1 Vontade e vencer Vigor + Determinação, Dificuldade 4 (7 se a Proteção teve crítico), para tentar tocar de novo."
+          },
+          {
+            "title": "Exceções",
+            "text": "Contato forçado não ativa: golpear com espada protegida não aciona, tentar pegá-la aciona. Roupa e luvas não protegem. Sentir o Invisível detecta com Inteligência + Auspícios contra Inteligência + Feitiçaria de Sangue do conjurador. Conhecer a Proteção não concede seu Círculo, nem o inverso."
+          },
+          {
+            "title": "Duração",
+            "text": "Até o objeto ser destruído ou quebrado fisicamente; o intruso não pode fazer isso."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 5."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 12 XP e no mínimo 16 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Affects all vampires except the caster. Handling the ashes risks terror frenzy; cannot inscribe this Ward on a night when the caster succumbed to that frenzy. A vampire examining it with Auspex can read the caster’s name by winning Intelligence + Auspex against their Intelligence + Blood Sorcery."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "20 minutes unless the process specifies otherwise."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Hot ashes from a fire still burning."
+          },
+          {
+            "title": "Process",
+            "text": "Pour Blood onto the object and draw the glyph with a bare finger. Wiping away the Blood makes the Ward invisible. Covers approximately one meter: it can protect a steering wheel but not a whole car."
+          },
+          {
+            "title": "System",
+            "text": "Do not roll until the first intruder touches the Ward. A win inflicts 1 Aggravated Health damage; a critical inflicts 3. The initial roll applies to later intruders. An already affected intruder must spend 1 Willpower and win Stamina + Resolve, Difficulty 4 (7 if the Ward achieved a critical), to try touching it again."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Forced contact does not trigger it: striking with a warded sword does not, attempting to pick it up does. Clothes and gloves offer no protection. Sense the Unseen detects it with Intelligence + Auspex opposed by the caster’s Intelligence + Blood Sorcery. Knowing the Ward does not grant its Circle, or vice versa."
+          },
+          {
+            "title": "Duration",
+            "text": "Until the object is physically destroyed or broken; the intruder cannot do this."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 5."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 12 XP and at least 16 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

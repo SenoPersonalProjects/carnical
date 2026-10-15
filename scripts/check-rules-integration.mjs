@@ -7,9 +7,10 @@ import ts from "typescript";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 function loadTypescript(relativePath) {
   const source = fs.readFileSync(path.join(root, relativePath), "utf8");
-  const compiled = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2022 } }).outputText;
+  if(relativePath.endsWith(".json"))return JSON.parse(source);
+  const compiled = ts.transpileModule(source, { compilerOptions: { module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2022, esModuleInterop:true } }).outputText;
   const loaded = { exports: {} };
-  new Function("module", "exports", "require", compiled)(loaded, loaded.exports, name => loadTypescript(path.join(path.dirname(relativePath), `${name}.ts`)));
+  new Function("module", "exports", "require", compiled)(loaded, loaded.exports, name => loadTypescript(path.join(path.dirname(relativePath), name.endsWith(".json")?name:`${name}.ts`)));
   return loaded.exports;
 }
 

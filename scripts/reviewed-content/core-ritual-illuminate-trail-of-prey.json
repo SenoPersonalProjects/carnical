@@ -1,0 +1,128 @@
+{
+  "id": "core-v5-ritual-illuminate-trail-of-prey",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Iluminar o Rastro da Presa",
+    "en": "Illuminate the Trail of Prey"
+  },
+  "aliases": [
+    "Iluminar o Rastro da Presa",
+    "Illuminate the Trail of Prey"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "core-v5-ritual-illuminate-trail-of-prey-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 277",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 279,
+          "printedPage": 277
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Mostra uma trilha incandescente sutil, visível apenas ao conjurador, deixada por pessoa conhecida."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "10 minutos, salvo tempo específico no processo."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Fita de cetim branca."
+          },
+          {
+            "title": "Processo",
+            "text": "Embeba a fita no próprio Sangue e acenda-a. Vitória faz a fita molhada arder como rastilho; o efeito começa quando ela termina de queimar."
+          },
+          {
+            "title": "Sistema",
+            "text": "Siga o trajeto das últimas 24 horas, mesmo sem marcas físicas ou em cidade cheia. Para seguir, teste Inteligência + Sobrevivência com Dificuldade 6 menos a margem do Ritual."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite; duas num crítico."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 3."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 6 XP e no mínimo 4 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Shows a subtle glowing trail visible only to the caster, left by a known person."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "10 minutes unless the process specifies otherwise."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A white satin ribbon."
+          },
+          {
+            "title": "Process",
+            "text": "Soak the ribbon in your Blood and ignite it. A win makes the wet ribbon burn like a fuse; the effect begins once consumed."
+          },
+          {
+            "title": "System",
+            "text": "Follow the target’s route over the last 24 hours, even without physical tracks or in crowded cities. Tracking uses Intelligence + Survival at Difficulty 6 minus the Ritual margin."
+          },
+          {
+            "title": "Duration",
+            "text": "One night; two on a critical."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 3."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 6 XP and at least 4 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "core-v5-ritual-truth-of-blood",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Verdade do Sangue",
+    "en": "Truth of Blood"
+  },
+  "aliases": [
+    "Verdade do Sangue",
+    "Truth of Blood"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "core-v5-ritual-truth-of-blood-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 277, 278",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 279,
+          "printedPage": 277
+        },
+        {
+          "pdfPage": 280,
+          "printedPage": 278
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Mistura de sangue distingue verdade e mentira, podendo revelar detalhes subconscientes."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "10 minutos, salvo tempo específico no processo."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma pitada de sangue do alvo."
+          },
+          {
+            "title": "Processo",
+            "text": "Misture seu Sangue ao do alvo num recipiente grande o suficiente para mergulhar um dedo."
+          },
+          {
+            "title": "Parada",
+            "text": "No lugar do teste de Ritual padrão, Determinação + Feitiçaria de Sangue contra Autocontrole + Ocultismo para cada afirmação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Mergulhe o dedo e confronte cada afirmação. Vitória revela se é verdade até onde o alvo sabe. Crítico o faz ampliar involuntariamente a resposta com detalhes antes apenas entrevistos ou subconscientes; o Narrador avisa se não houver mais informação. A primeira falha termina o Ritual. Não atravessa Nublar Memória, Mente Esquecida ou outros apagamentos: pode inferir a causa da lacuna, não recuperar a lembrança."
+          },
+          {
+            "title": "Duração",
+            "text": "Até a primeira falha ou fim da cena, quando a mistura que borbulha vira cinza."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 6 XP e no mínimo 4 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A blood mixture distinguishes truth from lies and may reveal subconscious details."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "10 minutes unless the process specifies otherwise."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A small amount of the target’s blood."
+          },
+          {
+            "title": "Process",
+            "text": "Mix your Blood with the target’s in a vessel large enough to dip a finger."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Instead of the standard Ritual roll, Resolve + Blood Sorcery opposed by Composure + Occult for each statement."
+          },
+          {
+            "title": "System",
+            "text": "Dip the finger and contest each statement. A win reveals truth as the target knows it. A critical makes them involuntarily expand the answer with half-glimpsed or subconscious details; the Storyteller says if none remain. The first failure ends the Ritual. It cannot penetrate Cloud Memory, The Forgetful Mind or other erasures: the cause of a gap may be inferred but the memory cannot be recovered."
+          },
+          {
+            "title": "Duration",
+            "text": "Until the first failure or scene’s end, when the bubbling mixture becomes ash."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 6 XP and at least 4 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}

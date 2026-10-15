@@ -1,0 +1,129 @@
+{
+  "id": "core-v5-ritual-communicate-with-kindred-sire",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Comunicação com o Senhor",
+    "en": "Communicate with Kindred Sire"
+  },
+  "aliases": [
+    "Comunicação com o Senhor",
+    "Communicate with Kindred Sire",
+    "Comunicação com o Senhor do Membro"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "core-v5-ritual-communicate-with-kindred-sire-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274, 277",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        },
+        {
+          "pdfPage": 279,
+          "printedPage": 277
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Usa o vínculo entre Senhor e cria para comunicação telepática distante."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Tempo de realização",
+            "text": "De 15 a 30 minutos conforme o resultado."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um objeto que pertenceu ao Senhor e tigela de prata com água limpa."
+          },
+          {
+            "title": "Processo",
+            "text": "Submerja o objeto, pingue seu Sangue e concentre-se na última lembrança do Senhor por até 30 minutos."
+          },
+          {
+            "title": "Sistema",
+            "text": "Role após 15 minutos. Vitória permite conversa silenciosa em mão dupla por dez minutos depois de mais 15 minutos; crítico inicia imediatamente. Perturbação importante em qualquer ponta rompe o vínculo."
+          },
+          {
+            "title": "Duração",
+            "text": "Dez minutos de comunicação, salvo interrupção."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue, Dificuldade 3."
+          },
+          {
+            "title": "Aprendizado e limites gerais",
+            "text": "Custa 6 XP e no mínimo 4 semanas para aprender, com Feitiçaria de Sangue ao menos igual ao nível do Ritual. Rituais são aprendidos separadamente dos poderes. Rituais benéficos normalmente afetam apenas o conjurador, salvo exceção explícita. Exigem os ingredientes e a concentração ininterrupta especificados, quando aplicável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Uses the sire–childe bond for distant telepathic communication."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Casting time",
+            "text": "15 to 30 minutes depending on the result."
+          },
+          {
+            "title": "Ingredients",
+            "text": "An object formerly owned by the sire and a silver bowl of clean water."
+          },
+          {
+            "title": "Process",
+            "text": "Submerge the object, drip your Blood and concentrate on the last memory of the sire for up to 30 minutes."
+          },
+          {
+            "title": "System",
+            "text": "Roll after 15 minutes. A win permits ten minutes of silent two-way conversation after another 15 minutes; a critical starts immediately. Major disturbance at either end breaks the connection."
+          },
+          {
+            "title": "Duration",
+            "text": "Ten minutes of communication unless interrupted."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery, Difficulty 3."
+          },
+          {
+            "title": "Learning and general limits",
+            "text": "Costs 6 XP and at least 4 weeks to learn, with Blood Sorcery at least equal to the Ritual level. Unlike Discipline powers, Rituals are learned separately. Beneficial Rituals normally affect only the caster unless explicitly stated otherwise. Requires the specified ingredients and uninterrupted concentration where applicable."
+          }
+        ]
+      }
+    }
+  ]
+}
