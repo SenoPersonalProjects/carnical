@@ -97,5 +97,6 @@ for id,pt,en,discipline,level,amalgam_pt,amalgam_en,prereq_pt,prereq_en,comp_pag
   source=next(item for item in manifest if item['id']==book)
   versions.append({'id':id+'-'+book,'book':book,'sourceTitle':('Player’s Guide V5' if book=='players-guide-v5' else 'Companion V5')+', pp. '+str(range_[0]-offset)+('–'+str(range_[1]-offset) if range_[1]!=range_[0] else ''),'sourceLanguage':'en' if book=='players-guide-v5' else 'pt-BR','pdfSha256':source['sha256'],'level':level,'pages':[{'pdfPage':n,'printedPage':n-offset} for n in range(range_[0],range_[1]+1)],'requirements':requirements,'descriptions':descriptions})
  entry={'id':id,'kind':'power','names':{'pt-BR':pt,'en':en},'aliases':[pt,en],'discipline':discipline,'level':level,'versions':versions}
+ if id=='unburdening-bestial-soul':entry['legacyIds']=['companion-v5-power-ausp-cios-aliviando-a-alma-bestial']
  (repo/'scripts/reviewed-content'/f'{id}.json').write_text(json.dumps(entry,ensure_ascii=False,indent=2),encoding='utf-8')
 print(f'{len(records)} paired powers, {len(records)*2} source versions compiled')

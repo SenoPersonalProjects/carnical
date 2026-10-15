@@ -24,6 +24,7 @@ for(const entry of guidePredators)for(const locale of ["pt-BR","en"]){
  assert.match(version.descriptions[locale].map(section=>section.text).join(" "),/\n- /);
 }
 const {contentById,resolveContent}=load("app/content/resolve.ts");
+assert.equal(contentById("companion-v5-power-ausp-cios-aliviando-a-alma-bestial").id,"unburdening-bestial-soul");
 for(const power of POWER_CATALOG.filter(power=>power.source.book==="players-guide-v5")){
  const entry=contentById(power.id)||resolveContent(power.name,{kind:power.kind||"power",discipline:power.discipline});
  assert.ok(entry?.versions.some(version=>version.book==="players-guide-v5"),`Guide option without reviewed description: ${power.name}`);

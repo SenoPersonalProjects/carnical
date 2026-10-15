@@ -704,6 +704,9 @@
         "players-guide-v5",
         "companion-v5"
       ],
+      "legacyIds": [
+        "companion-v5-power-ausp-cios-aliviando-a-alma-bestial"
+      ],
       "versions": [
         {
           "id": "unburdening-bestial-soul-players-guide-v5",
