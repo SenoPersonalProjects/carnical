@@ -1,0 +1,57 @@
+{
+  "id": "montero",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Montero",
+    "en": "Montero"
+  },
+  "aliases": [
+    "Montero",
+    "Montero"
+  ],
+  "versions": [
+    {
+      "id": "montero-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 110",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 110,
+          "printedPage": 108
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Mantém a tradição da montería espanhola: batedores conduzem a caça até o caçador. Lacaios levam suas vítimas até você por golpes elaborados, aglomerações, cerco a protestos, burocracia interminável ou perseguições de gangues aparentemente sem sentido."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização em Liderança (Matilha de Caça) ou Furtividade (Tocaia).\n- Um ponto em Dominação ou Ofuscação.\n- Recebe Lacaios 2.\n- Perde um ponto de Humanidade."
+          },
+          {
+            "title": "Parada de caça",
+            "text": "Inteligência + Furtividade para planejar com uma equipe experiente; Determinação + Furtividade para aguardar pacientemente as presas quando o plano já está bem ensaiado."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Since the Middle Ages, aristocratic Spaniards have mounted the montería: a deer hunt in which teams of beaters drive game onto the spears (and later the guns) of the montero, the huntsman. You carry on that tradition, using retainers to herd your victims to you for the kill. Your modern montería may take the form of a long con, a flash mob, a protest kettle, an endless bureaucratic shuffle, or a seemingly senseless gang pursuit."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- Add a specialty: Leadership (Hunting Pack) or Stealth (Stakeout) \n-  Gain one dot of Dominate or Obfuscate \n-  Gain two dots of Retainers \n-  Lose one dot of Humanity"
+          },
+          {
+            "title": "Hunting pool and exceptions",
+            "text": "With an experienced team of retainers, the hunt comes down to planning: Intelligence + Stealth. With a well-practiced plan, the hunt comes down to patiently waiting for the game to arrive: Resolve + Stealth."
+          }
+        ]
+      }
+    }
+  ]
+}

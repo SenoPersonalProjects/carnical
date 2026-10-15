@@ -1,0 +1,33 @@
+"""Six Guide Predator Types: prose, creation package and hunting pools."""
+import json,re,sys
+from pathlib import Path
+work=Path(sys.argv[1]);repo=Path(__file__).resolve().parent.parent
+source=next(x for x in json.loads((work/'pages/manifest.json').read_text(encoding='utf-8')) if x['id']=='players-guide-v5')
+data=[
+('extortionist','Extortionist','Extorsionista',[109],[
+('Descrição','Força vítimas a fornecer sangue em troca de serviços, como segurança ou vigilância. A necessidade de proteção pode ser real ou criada pelo próprio vampiro para tornar o acordo aceitável à vítima.'),('Escolhas e benefícios de criação','- Uma Especialização em Intimidação (Coerção) ou Ladroagem (Segurança).\n- Um ponto em Dominação ou Potência.\n- Distribua três pontos entre Contatos e Recursos.\n- Recebe Inimigo 2: a polícia ou uma vítima que escapou e agora busca vingança.'),('Parada de caça','Força ou Manipulação + Intimidação. Alimenta-se por coerção, sutil ou dolorosamente explícita.')]),
+('graverobber','Graverobber','Ladrão de Túmulos',[110],[
+('Descrição','Alimenta-se de cadáveres recentes, mas também de enlutados em cemitérios e de visitantes e pacientes de hospitais. Prefere a Ressonância melancólica. Esse estilo frequentemente exige um refúgio ou conexões numa igreja, hospital ou necrotério.'),('Escolhas e benefícios de criação','- Uma Especialização em Ocultismo (Rituais Funerários) ou Medicina (Cadáveres).\n- Um ponto em Fortitude ou Oblívio.\n- Recebe Esôfago de Ferro 3.\n- Recebe Refúgio 1.\n- Recebe o Defeito de Rebanho Predador Óbvio 2: sua frieza torna a caça profundamente perturbadora.'),('Parada de caça','Determinação + Medicina para procurar um cadáver com sangue rançoso. Manipulação + Sagacidade para encontrar uma vítima vulnerável entre mortais em sofrimento.'),('Cadáveres e Fome','Um cadáver frio sacia até três níveis de Fome, com as mesmas penalidades de sangue ensacado. Um corpo já usado por outro vampiro, drenado depois da morte ou com partes faltando sacia menos.')]),
+('grim-reaper','Grim Reaper','Ceifador',[110],[
+('Descrição','Também chamado de rato da peste, alimenta-se somente de quem está prestes a morrer. Procura cuidados paliativos, casas de repouso e abrigos; a busca constante de vítimas dificulta fixar-se num lugar.'),('Escolhas e benefícios de criação','- Uma Especialização em Percepção (Morte) ou Ladroagem (Falsificação).\n- Um ponto em Auspícios ou Oblívio.\n- Um ponto em Aliados ou Influência na comunidade médica.\n- Ganha um ponto de Humanidade.\n- Recebe Exclusão de Presa 1: mortais saudáveis.'),('Parada de caça','Inteligência + Percepção ou Medicina. Pode desenvolver gosto por doenças específicas e reconhecê-las facilmente pelo sabor.')]),
+('montero','Montero','Montero',[110],[
+('Descrição','Mantém a tradição da montería espanhola: batedores conduzem a caça até o caçador. Lacaios levam suas vítimas até você por golpes elaborados, aglomerações, cerco a protestos, burocracia interminável ou perseguições de gangues aparentemente sem sentido.'),('Escolhas e benefícios de criação','- Uma Especialização em Liderança (Matilha de Caça) ou Furtividade (Tocaia).\n- Um ponto em Dominação ou Ofuscação.\n- Recebe Lacaios 2.\n- Perde um ponto de Humanidade.'),('Parada de caça','Inteligência + Furtividade para planejar com uma equipe experiente; Determinação + Furtividade para aguardar pacientemente as presas quando o plano já está bem ensaiado.')]),
+('pursuer','Pursuer','Perseguidor',[110,111],[
+('Descrição','Estuda a rotina e os vínculos da vítima para saber quem não será ouvido ou de quem ninguém sentirá falta. Então a persegue pela noite, escolhendo o momento em que expectativa e Fome chegam ao auge.'),('Escolhas e benefícios de criação','- Uma Especialização em Investigação (Perfil Comportamental) ou Furtividade (Seguir Pessoas).\n- Um ponto em Animalismo ou Auspícios.\n- Recebe Faro para Sangue 1.\n- Recebe Contatos 1 entre pessoas moralmente flexíveis do território de caça, como seguranças, vigias de rua, vendedores noturnos ou traficantes, que respondem quando pergunta para onde alguém foi.\n- Perde um ponto de Humanidade.'),('Parada de caça','Inteligência + Investigação para encontrar uma vítima de quem ninguém sentirá falta; Vigor + Furtividade para longas perseguições de presas urbanas desprevenidas.')]),
+('trapdoor','Trapdoor','Armadilha',[111],[
+('Descrição','Como uma aranha de alçapão, prepara um ninho e atrai a presa. Pode usar uma atração de parque, banho turco, casa assombrada ou clube de luta. As vítimas chegam ao seu território, onde pode aterrorizá-las, aprisioná-las ou apenas beber e liberá-las.'),('Escolhas e benefícios de criação','- Uma Especialização em Persuasão (Marketing) ou Furtividade (Emboscadas ou Armadilhas).\n- Um ponto em Proteanismo ou Ofuscação.\n- Recebe Refúgio 1.\n- Mais um ponto em Lacaios, Rebanho ou Refúgio.\n- Recebe um Defeito de Refúgio: Assustador 1 ou Assombrado 1.'),('Parada de caça','Carisma + Furtividade quando as vítimas esperam uma noite divertida; Destreza + Furtividade para invasores, exploradores urbanos ou outros transeuntes.'),('Conhecimento do território','Navegar pelo labirinto de seu refúgio exige Raciocínio + Percepção; acrescente os pontos de Refúgio à parada por conhecer tão bem o lugar.')]),
+]
+boundaries=[row[1] for row in data]+['Backgrounds']
+for id,name,pt,numbers,rows in data:
+ text='\n\n'.join(json.loads((work/'pages/players-guide-v5'/f'{n:04}.json').read_text(encoding='utf-8'))['content'] for n in numbers)
+ text=text.split('## '+name+'\n',1)[1]
+ text=re.split(r'\n## (?:'+'|'.join(re.escape(t) for t in boundaries)+r')\n',text,1)[0]
+ text=re.sub(r'^##\s+', '',text,flags=re.M)
+ description,package=text.split('\u0083',1)
+ package,pool=package.split('Predator Pool:',1)
+ package='- '+package.strip().replace('\u0083','\n- ').strip()
+ english=[{'title':'Description','text':description.strip()},{'title':'Creation choices and benefits','text':package},{'title':'Hunting pool and exceptions','text':re.sub(r'\n\n(?=[a-z])',' ',pool.strip())}]
+ version={'id':id+'-players-guide-v5','book':'players-guide-v5','sourceTitle':'Guia do Jogador V5, PDF pp. '+', '.join(map(str,numbers)),'sourceLanguage':'en','pdfSha256':source['sha256'],'pages':[{'pdfPage':n,'printedPage':n-2} for n in numbers],'descriptions':{'pt-BR':[{'title':t,'text':v} for t,v in rows],'en':english}}
+ entry={'id':id,'kind':'predator','names':{'pt-BR':pt,'en':name},'aliases':[pt,name],'versions':[version]}
+ (repo/'scripts/reviewed-content'/f'{id}.json').write_text(json.dumps(entry,ensure_ascii=False,indent=2),encoding='utf-8')
+print('Six Guide Predator Types prepared')

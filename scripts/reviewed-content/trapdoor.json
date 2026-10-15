@@ -1,0 +1,61 @@
+{
+  "id": "trapdoor",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Armadilha",
+    "en": "Trapdoor"
+  },
+  "aliases": [
+    "Armadilha",
+    "Trapdoor"
+  ],
+  "versions": [
+    {
+      "id": "trapdoor-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 111",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 111,
+          "printedPage": 109
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Como uma aranha de alçapão, prepara um ninho e atrai a presa. Pode usar uma atração de parque, banho turco, casa assombrada ou clube de luta. As vítimas chegam ao seu território, onde pode aterrorizá-las, aprisioná-las ou apenas beber e liberá-las."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização em Persuasão (Marketing) ou Furtividade (Emboscadas ou Armadilhas).\n- Um ponto em Proteanismo ou Ofuscação.\n- Recebe Refúgio 1.\n- Mais um ponto em Lacaios, Rebanho ou Refúgio.\n- Recebe um Defeito de Refúgio: Assustador 1 ou Assombrado 1."
+          },
+          {
+            "title": "Parada de caça",
+            "text": "Carisma + Furtividade quando as vítimas esperam uma noite divertida; Destreza + Furtividade para invasores, exploradores urbanos ou outros transeuntes."
+          },
+          {
+            "title": "Conhecimento do território",
+            "text": "Navegar pelo labirinto de seu refúgio exige Raciocínio + Percepção; acrescente os pontos de Refúgio à parada por conhecer tão bem o lugar."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Like the trapdoor spider, you build your nest and lure your prey into it. You may lurk in an amusement park dark ride or a steamy Turkish bath, haunt a house or manage a fight club, but your victims come to your place of power. There you might toy with them in terror, imprison and drain them slowly, or just drink deep and send them on their way."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- Add a specialty: Persuasion (Marketing) or Stealth (Ambushes or Traps) \n-  Gain one dot of Protean or Obfuscate \n-  Gain one dot of the Haven Background \n-  Gain one dot of either Retainers (your roper, major-domo, etc.) or Herd (steady visitors for whatever reason), or a second Haven dot \n-  Gain one Haven Flaw: Creepy (•) or Haunted (•)"
+          },
+          {
+            "title": "Hunting pool and exceptions",
+            "text": "Charisma + Stealth if your victims enter your killing ground anticipating a fun night out, or Dexterity + Stealth if you feed on trespassers, urban explorers, or other passersby. Navigating the maze inside your den calls for Wits + Awareness (but you can add your Haven dots in dice to the pool since you know it so well)."
+          }
+        ]
+      }
+    }
+  ]
+}

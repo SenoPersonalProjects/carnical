@@ -14577,6 +14577,360 @@
           }
         }
       ]
+    },
+    {
+      "id": "extortionist",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Extorsionista",
+        "en": "Extortionist"
+      },
+      "aliases": [
+        "Extorsionista",
+        "Extortionist"
+      ],
+      "versions": [
+        {
+          "id": "extortionist-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 109",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 109,
+              "printedPage": 107
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Força vítimas a fornecer sangue em troca de serviços, como segurança ou vigilância. A necessidade de proteção pode ser real ou criada pelo próprio vampiro para tornar o acordo aceitável à vítima."
+              },
+              {
+                "title": "Escolhas e benefícios de criação",
+                "text": "- Uma Especialização em Intimidação (Coerção) ou Ladroagem (Segurança).\n- Um ponto em Dominação ou Potência.\n- Distribua três pontos entre Contatos e Recursos.\n- Recebe Inimigo 2: a polícia ou uma vítima que escapou e agora busca vingança."
+              },
+              {
+                "title": "Parada de caça",
+                "text": "Força ou Manipulação + Intimidação. Alimenta-se por coerção, sutil ou dolorosamente explícita."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The extortionist likes to force their victims to bleed for them. Ostensibly, the extortionist acquires blood in exchange for services such as security or surveillance, but as many times as the need for protection is real, it is just as often a fiction engineered to make the deal feel acceptable to the victim."
+              },
+              {
+                "title": "Creation choices and benefits",
+                "text": "- Add a specialty: Intimidation (Coercion) or Larceny (Security) \n-  Gain one dot of Dominate or Potence \n-  Distribute three dots between the Contacts and Resources Backgrounds \n-  Gain the Enemy Flaw: (••) the police or a victim who escaped your extortion and now wants revenge"
+              },
+              {
+                "title": "Hunting pool and exceptions",
+                "text": "Strength or Manipulation +\n\nIntimidation; you feed through coercion both subtle and painfully obvious."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "graverobber",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Ladrão de Túmulos",
+        "en": "Graverobber"
+      },
+      "aliases": [
+        "Ladrão de Túmulos",
+        "Graverobber"
+      ],
+      "versions": [
+        {
+          "id": "graverobber-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 110",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 110,
+              "printedPage": 108
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Alimenta-se de cadáveres recentes, mas também de enlutados em cemitérios e de visitantes e pacientes de hospitais. Prefere a Ressonância melancólica. Esse estilo frequentemente exige um refúgio ou conexões numa igreja, hospital ou necrotério."
+              },
+              {
+                "title": "Escolhas e benefícios de criação",
+                "text": "- Uma Especialização em Ocultismo (Rituais Funerários) ou Medicina (Cadáveres).\n- Um ponto em Fortitude ou Oblívio.\n- Recebe Esôfago de Ferro 3.\n- Recebe Refúgio 1.\n- Recebe o Defeito de Rebanho Predador Óbvio 2: sua frieza torna a caça profundamente perturbadora."
+              },
+              {
+                "title": "Parada de caça",
+                "text": "Determinação + Medicina para procurar um cadáver com sangue rançoso. Manipulação + Sagacidade para encontrar uma vítima vulnerável entre mortais em sofrimento."
+              },
+              {
+                "title": "Cadáveres e Fome",
+                "text": "Um cadáver frio sacia até três níveis de Fome, com as mesmas penalidades de sangue ensacado. Um corpo já usado por outro vampiro, drenado depois da morte ou com partes faltando sacia menos."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Graverobbers often feed from fresh corpses, but despite their name, they also feed from mourners in cemeteries and visitors and patients in hospitals. Melancholic Resonance in a victim’s blood appeals more than any other humor. This predator type often requires the vampire to hold a haven in or maintain connections to a church, hospital, or morgue."
+              },
+              {
+                "title": "Creation choices and benefits",
+                "text": "- Add a specialty: Occult (Grave Rituals) or Medicine (Cadavers) \n-  Gain one dot of Fortitude or Oblivion \n-  Gain the Feeding Merit: Iron Gullet ••• \n-  Gain one dot of the Haven Background \n-  Gain the Herd Flaw: (••) Obvious Predator (your cold nature makes you act in a deeply unsettling matter when hunting)"
+              },
+              {
+                "title": "Hunting pool and exceptions",
+                "text": "Resolve + Medicine, sifting through the quiet dead for a body bearing rancid blood. Moving among miserable mortals for a vulnerable bite uses Manipulation + Insight. A cold corpse can slake up to 3 Hunger, but suffers the same slake penalties as bagged blood. A body fed on by another vampire, drained of blood afterwards, or missing parts slakes less."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "grim-reaper",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Ceifador",
+        "en": "Grim Reaper"
+      },
+      "aliases": [
+        "Ceifador",
+        "Grim Reaper"
+      ],
+      "versions": [
+        {
+          "id": "grim-reaper-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 110",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 110,
+              "printedPage": 108
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Também chamado de rato da peste, alimenta-se somente de quem está prestes a morrer. Procura cuidados paliativos, casas de repouso e abrigos; a busca constante de vítimas dificulta fixar-se num lugar."
+              },
+              {
+                "title": "Escolhas e benefícios de criação",
+                "text": "- Uma Especialização em Percepção (Morte) ou Ladroagem (Falsificação).\n- Um ponto em Auspícios ou Oblívio.\n- Um ponto em Aliados ou Influência na comunidade médica.\n- Ganha um ponto de Humanidade.\n- Recebe Exclusão de Presa 1: mortais saudáveis."
+              },
+              {
+                "title": "Parada de caça",
+                "text": "Inteligência + Percepção ou Medicina. Pode desenvolver gosto por doenças específicas e reconhecê-las facilmente pelo sabor."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Also known as a plague rat, you only feed on those about to die. You seek out hospice care facilities, assisted living homes and shelters. This means you are constantly on the move looking for new victims near the end of their lives and often have a difficult time settling down yourself."
+              },
+              {
+                "title": "Creation choices and benefits",
+                "text": "- Add a specialty: Awareness (Death) or Larceny (Forgery) \n-  Gain one dot of Auspex or Oblivion \n-  Gain one dot of the Allies or Influence Background in the medical community \n-  Gain one dot of Humanity \n-  Gain the Feeding Flaw: (•) Prey Exclusion: Healthy Mortals"
+              },
+              {
+                "title": "Hunting pool and exceptions",
+                "text": "Intelligence + Awareness or Medicine.\n\nYou may also gain a taste for specific diseases, and have an easy time identifying them by taste."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "montero",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Montero",
+        "en": "Montero"
+      },
+      "aliases": [
+        "Montero",
+        "Montero"
+      ],
+      "versions": [
+        {
+          "id": "montero-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 110",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 110,
+              "printedPage": 108
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Mantém a tradição da montería espanhola: batedores conduzem a caça até o caçador. Lacaios levam suas vítimas até você por golpes elaborados, aglomerações, cerco a protestos, burocracia interminável ou perseguições de gangues aparentemente sem sentido."
+              },
+              {
+                "title": "Escolhas e benefícios de criação",
+                "text": "- Uma Especialização em Liderança (Matilha de Caça) ou Furtividade (Tocaia).\n- Um ponto em Dominação ou Ofuscação.\n- Recebe Lacaios 2.\n- Perde um ponto de Humanidade."
+              },
+              {
+                "title": "Parada de caça",
+                "text": "Inteligência + Furtividade para planejar com uma equipe experiente; Determinação + Furtividade para aguardar pacientemente as presas quando o plano já está bem ensaiado."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Since the Middle Ages, aristocratic Spaniards have mounted the montería: a deer hunt in which teams of beaters drive game onto the spears (and later the guns) of the montero, the huntsman. You carry on that tradition, using retainers to herd your victims to you for the kill. Your modern montería may take the form of a long con, a flash mob, a protest kettle, an endless bureaucratic shuffle, or a seemingly senseless gang pursuit."
+              },
+              {
+                "title": "Creation choices and benefits",
+                "text": "- Add a specialty: Leadership (Hunting Pack) or Stealth (Stakeout) \n-  Gain one dot of Dominate or Obfuscate \n-  Gain two dots of Retainers \n-  Lose one dot of Humanity"
+              },
+              {
+                "title": "Hunting pool and exceptions",
+                "text": "With an experienced team of retainers, the hunt comes down to planning: Intelligence + Stealth. With a well-practiced plan, the hunt comes down to patiently waiting for the game to arrive: Resolve + Stealth."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "pursuer",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Perseguidor",
+        "en": "Pursuer"
+      },
+      "aliases": [
+        "Perseguidor",
+        "Pursuer"
+      ],
+      "versions": [
+        {
+          "id": "pursuer-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 110, 111",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 110,
+              "printedPage": 108
+            },
+            {
+              "pdfPage": 111,
+              "printedPage": 109
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Estuda a rotina e os vínculos da vítima para saber quem não será ouvido ou de quem ninguém sentirá falta. Então a persegue pela noite, escolhendo o momento em que expectativa e Fome chegam ao auge."
+              },
+              {
+                "title": "Escolhas e benefícios de criação",
+                "text": "- Uma Especialização em Investigação (Perfil Comportamental) ou Furtividade (Seguir Pessoas).\n- Um ponto em Animalismo ou Auspícios.\n- Recebe Faro para Sangue 1.\n- Recebe Contatos 1 entre pessoas moralmente flexíveis do território de caça, como seguranças, vigias de rua, vendedores noturnos ou traficantes, que respondem quando pergunta para onde alguém foi.\n- Perde um ponto de Humanidade."
+              },
+              {
+                "title": "Parada de caça",
+                "text": "Inteligência + Investigação para encontrar uma vítima de quem ninguém sentirá falta; Vigor + Furtividade para longas perseguições de presas urbanas desprevenidas."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Some people will never be believed, while others will never be missed. You study your victim, learning their routine and whether they can disappear without raising a hue and cry. Then you stalk and pursue your victim throughout the night, only striking when your sensibility and your hunger reach their most delicious pitch."
+              },
+              {
+                "title": "Creation choices and benefits",
+                "text": "- Add a specialty: Investigation (Profiling) or Stealth (Shadowing) \n-  Gain one dot of Animalism or Auspex \n-  Gain the Merit: Bloodhound • \n-  Gain one dot of Contacts from among the morally flexible habitués of your hunting ground: club bouncers, homeless watchers, night vendors, street dealers, etc. Someone who answers when you ask “which way did she go?” \n-  Lose one dot of Humanity"
+              },
+              {
+                "title": "Hunting pool and exceptions",
+                "text": "Intelligence + Investigation to find a victim nobody misses, or Stamina + Stealth for long stalks of unknowing urban prey."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "trapdoor",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Armadilha",
+        "en": "Trapdoor"
+      },
+      "aliases": [
+        "Armadilha",
+        "Trapdoor"
+      ],
+      "versions": [
+        {
+          "id": "trapdoor-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 111",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 111,
+              "printedPage": 109
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Como uma aranha de alçapão, prepara um ninho e atrai a presa. Pode usar uma atração de parque, banho turco, casa assombrada ou clube de luta. As vítimas chegam ao seu território, onde pode aterrorizá-las, aprisioná-las ou apenas beber e liberá-las."
+              },
+              {
+                "title": "Escolhas e benefícios de criação",
+                "text": "- Uma Especialização em Persuasão (Marketing) ou Furtividade (Emboscadas ou Armadilhas).\n- Um ponto em Proteanismo ou Ofuscação.\n- Recebe Refúgio 1.\n- Mais um ponto em Lacaios, Rebanho ou Refúgio.\n- Recebe um Defeito de Refúgio: Assustador 1 ou Assombrado 1."
+              },
+              {
+                "title": "Parada de caça",
+                "text": "Carisma + Furtividade quando as vítimas esperam uma noite divertida; Destreza + Furtividade para invasores, exploradores urbanos ou outros transeuntes."
+              },
+              {
+                "title": "Conhecimento do território",
+                "text": "Navegar pelo labirinto de seu refúgio exige Raciocínio + Percepção; acrescente os pontos de Refúgio à parada por conhecer tão bem o lugar."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Like the trapdoor spider, you build your nest and lure your prey into it. You may lurk in an amusement park dark ride or a steamy Turkish bath, haunt a house or manage a fight club, but your victims come to your place of power. There you might toy with them in terror, imprison and drain them slowly, or just drink deep and send them on their way."
+              },
+              {
+                "title": "Creation choices and benefits",
+                "text": "- Add a specialty: Persuasion (Marketing) or Stealth (Ambushes or Traps) \n-  Gain one dot of Protean or Obfuscate \n-  Gain one dot of the Haven Background \n-  Gain one dot of either Retainers (your roper, major-domo, etc.) or Herd (steady visitors for whatever reason), or a second Haven dot \n-  Gain one Haven Flaw: Creepy (•) or Haunted (•)"
+              },
+              {
+                "title": "Hunting pool and exceptions",
+                "text": "Charisma + Stealth if your victims enter your killing ground anticipating a fun night out, or Dexterity + Stealth if you feed on trespassers, urban explorers, or other passersby. Navigating the maze inside your den calls for Wits + Awareness (but you can add your Haven dots in dice to the pool since you know it so well)."
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

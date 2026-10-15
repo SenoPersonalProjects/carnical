@@ -4438,6 +4438,138 @@
           }
         }
       ]
+    },
+    {
+      "id": "extortionist",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Extorsionista",
+        "en": "Extortionist"
+      },
+      "aliases": [
+        "Extorsionista",
+        "Extortionist"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "extortionist-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 109"
+        }
+      ]
+    },
+    {
+      "id": "graverobber",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Ladrão de Túmulos",
+        "en": "Graverobber"
+      },
+      "aliases": [
+        "Ladrão de Túmulos",
+        "Graverobber"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "graverobber-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 110"
+        }
+      ]
+    },
+    {
+      "id": "grim-reaper",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Ceifador",
+        "en": "Grim Reaper"
+      },
+      "aliases": [
+        "Ceifador",
+        "Grim Reaper"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "grim-reaper-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 110"
+        }
+      ]
+    },
+    {
+      "id": "montero",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Montero",
+        "en": "Montero"
+      },
+      "aliases": [
+        "Montero",
+        "Montero"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "montero-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 110"
+        }
+      ]
+    },
+    {
+      "id": "pursuer",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Perseguidor",
+        "en": "Pursuer"
+      },
+      "aliases": [
+        "Perseguidor",
+        "Pursuer"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "pursuer-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 110, 111"
+        }
+      ]
+    },
+    {
+      "id": "trapdoor",
+      "kind": "predator",
+      "names": {
+        "pt-BR": "Armadilha",
+        "en": "Trapdoor"
+      },
+      "aliases": [
+        "Armadilha",
+        "Trapdoor"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "trapdoor-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 111"
+        }
+      ]
     }
   ]
 }

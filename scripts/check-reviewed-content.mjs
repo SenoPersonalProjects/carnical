@@ -16,6 +16,13 @@ const read=file=>JSON.parse(fs.readFileSync(file,"utf8"));
 const catalog=read("app/content/catalog.json").entries,index=read("app/content/catalog-index.json").entries,pages=read("app/content/source-pages.json").books;
 const {clanSource}=load("app/content/clan-source.ts");
 const {xpCost}=load("app/experience.ts");
+const guidePredators=catalog.filter(entry=>entry.kind==="predator"&&entry.versions.some(version=>version.book==="players-guide-v5"));
+assert.equal(guidePredators.length,6);
+for(const entry of guidePredators)for(const locale of ["pt-BR","en"]){
+ const version=entry.versions.find(version=>version.book==="players-guide-v5");
+ assert.ok(version.descriptions[locale].some(section=>section.title===(locale==="en"?"Creation choices and benefits":"Escolhas e benefícios de criação")));
+ assert.match(version.descriptions[locale].map(section=>section.text).join(" "),/\n- /);
+}
 const {contentById,resolveContent}=load("app/content/resolve.ts");
 for(const power of POWER_CATALOG.filter(power=>power.source.book==="players-guide-v5")){
  const entry=contentById(power.id)||resolveContent(power.name,{kind:power.kind||"power",discipline:power.discipline});

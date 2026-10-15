@@ -1,0 +1,61 @@
+{
+  "id": "graverobber",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Ladrão de Túmulos",
+    "en": "Graverobber"
+  },
+  "aliases": [
+    "Ladrão de Túmulos",
+    "Graverobber"
+  ],
+  "versions": [
+    {
+      "id": "graverobber-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 110",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 110,
+          "printedPage": 108
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Alimenta-se de cadáveres recentes, mas também de enlutados em cemitérios e de visitantes e pacientes de hospitais. Prefere a Ressonância melancólica. Esse estilo frequentemente exige um refúgio ou conexões numa igreja, hospital ou necrotério."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização em Ocultismo (Rituais Funerários) ou Medicina (Cadáveres).\n- Um ponto em Fortitude ou Oblívio.\n- Recebe Esôfago de Ferro 3.\n- Recebe Refúgio 1.\n- Recebe o Defeito de Rebanho Predador Óbvio 2: sua frieza torna a caça profundamente perturbadora."
+          },
+          {
+            "title": "Parada de caça",
+            "text": "Determinação + Medicina para procurar um cadáver com sangue rançoso. Manipulação + Sagacidade para encontrar uma vítima vulnerável entre mortais em sofrimento."
+          },
+          {
+            "title": "Cadáveres e Fome",
+            "text": "Um cadáver frio sacia até três níveis de Fome, com as mesmas penalidades de sangue ensacado. Um corpo já usado por outro vampiro, drenado depois da morte ou com partes faltando sacia menos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Graverobbers often feed from fresh corpses, but despite their name, they also feed from mourners in cemeteries and visitors and patients in hospitals. Melancholic Resonance in a victim’s blood appeals more than any other humor. This predator type often requires the vampire to hold a haven in or maintain connections to a church, hospital, or morgue."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- Add a specialty: Occult (Grave Rituals) or Medicine (Cadavers) \n-  Gain one dot of Fortitude or Oblivion \n-  Gain the Feeding Merit: Iron Gullet ••• \n-  Gain one dot of the Haven Background \n-  Gain the Herd Flaw: (••) Obvious Predator (your cold nature makes you act in a deeply unsettling matter when hunting)"
+          },
+          {
+            "title": "Hunting pool and exceptions",
+            "text": "Resolve + Medicine, sifting through the quiet dead for a body bearing rancid blood. Moving among miserable mortals for a vulnerable bite uses Manipulation + Insight. A cold corpse can slake up to 3 Hunger, but suffers the same slake penalties as bagged blood. A body fed on by another vampire, drained of blood afterwards, or missing parts slakes less."
+          }
+        ]
+      }
+    }
+  ]
+}

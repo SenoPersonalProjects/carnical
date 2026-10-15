@@ -1,0 +1,57 @@
+{
+  "id": "grim-reaper",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Ceifador",
+    "en": "Grim Reaper"
+  },
+  "aliases": [
+    "Ceifador",
+    "Grim Reaper"
+  ],
+  "versions": [
+    {
+      "id": "grim-reaper-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 110",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 110,
+          "printedPage": 108
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Também chamado de rato da peste, alimenta-se somente de quem está prestes a morrer. Procura cuidados paliativos, casas de repouso e abrigos; a busca constante de vítimas dificulta fixar-se num lugar."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização em Percepção (Morte) ou Ladroagem (Falsificação).\n- Um ponto em Auspícios ou Oblívio.\n- Um ponto em Aliados ou Influência na comunidade médica.\n- Ganha um ponto de Humanidade.\n- Recebe Exclusão de Presa 1: mortais saudáveis."
+          },
+          {
+            "title": "Parada de caça",
+            "text": "Inteligência + Percepção ou Medicina. Pode desenvolver gosto por doenças específicas e reconhecê-las facilmente pelo sabor."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Also known as a plague rat, you only feed on those about to die. You seek out hospice care facilities, assisted living homes and shelters. This means you are constantly on the move looking for new victims near the end of their lives and often have a difficult time settling down yourself."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- Add a specialty: Awareness (Death) or Larceny (Forgery) \n-  Gain one dot of Auspex or Oblivion \n-  Gain one dot of the Allies or Influence Background in the medical community \n-  Gain one dot of Humanity \n-  Gain the Feeding Flaw: (•) Prey Exclusion: Healthy Mortals"
+          },
+          {
+            "title": "Hunting pool and exceptions",
+            "text": "Intelligence + Awareness or Medicine.\n\nYou may also gain a taste for specific diseases, and have an easy time identifying them by taste."
+          }
+        ]
+      }
+    }
+  ]
+}

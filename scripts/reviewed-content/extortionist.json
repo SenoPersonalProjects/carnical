@@ -1,0 +1,57 @@
+{
+  "id": "extortionist",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Extorsionista",
+    "en": "Extortionist"
+  },
+  "aliases": [
+    "Extorsionista",
+    "Extortionist"
+  ],
+  "versions": [
+    {
+      "id": "extortionist-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 109",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 109,
+          "printedPage": 107
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Força vítimas a fornecer sangue em troca de serviços, como segurança ou vigilância. A necessidade de proteção pode ser real ou criada pelo próprio vampiro para tornar o acordo aceitável à vítima."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização em Intimidação (Coerção) ou Ladroagem (Segurança).\n- Um ponto em Dominação ou Potência.\n- Distribua três pontos entre Contatos e Recursos.\n- Recebe Inimigo 2: a polícia ou uma vítima que escapou e agora busca vingança."
+          },
+          {
+            "title": "Parada de caça",
+            "text": "Força ou Manipulação + Intimidação. Alimenta-se por coerção, sutil ou dolorosamente explícita."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The extortionist likes to force their victims to bleed for them. Ostensibly, the extortionist acquires blood in exchange for services such as security or surveillance, but as many times as the need for protection is real, it is just as often a fiction engineered to make the deal feel acceptable to the victim."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- Add a specialty: Intimidation (Coercion) or Larceny (Security) \n-  Gain one dot of Dominate or Potence \n-  Distribute three dots between the Contacts and Resources Backgrounds \n-  Gain the Enemy Flaw: (••) the police or a victim who escaped your extortion and now wants revenge"
+          },
+          {
+            "title": "Hunting pool and exceptions",
+            "text": "Strength or Manipulation +\n\nIntimidation; you feed through coercion both subtle and painfully obvious."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "pursuer",
+  "kind": "predator",
+  "names": {
+    "pt-BR": "Perseguidor",
+    "en": "Pursuer"
+  },
+  "aliases": [
+    "Perseguidor",
+    "Pursuer"
+  ],
+  "versions": [
+    {
+      "id": "pursuer-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 110, 111",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 110,
+          "printedPage": 108
+        },
+        {
+          "pdfPage": 111,
+          "printedPage": 109
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Estuda a rotina e os vínculos da vítima para saber quem não será ouvido ou de quem ninguém sentirá falta. Então a persegue pela noite, escolhendo o momento em que expectativa e Fome chegam ao auge."
+          },
+          {
+            "title": "Escolhas e benefícios de criação",
+            "text": "- Uma Especialização em Investigação (Perfil Comportamental) ou Furtividade (Seguir Pessoas).\n- Um ponto em Animalismo ou Auspícios.\n- Recebe Faro para Sangue 1.\n- Recebe Contatos 1 entre pessoas moralmente flexíveis do território de caça, como seguranças, vigias de rua, vendedores noturnos ou traficantes, que respondem quando pergunta para onde alguém foi.\n- Perde um ponto de Humanidade."
+          },
+          {
+            "title": "Parada de caça",
+            "text": "Inteligência + Investigação para encontrar uma vítima de quem ninguém sentirá falta; Vigor + Furtividade para longas perseguições de presas urbanas desprevenidas."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Some people will never be believed, while others will never be missed. You study your victim, learning their routine and whether they can disappear without raising a hue and cry. Then you stalk and pursue your victim throughout the night, only striking when your sensibility and your hunger reach their most delicious pitch."
+          },
+          {
+            "title": "Creation choices and benefits",
+            "text": "- Add a specialty: Investigation (Profiling) or Stealth (Shadowing) \n-  Gain one dot of Animalism or Auspex \n-  Gain the Merit: Bloodhound • \n-  Gain one dot of Contacts from among the morally flexible habitués of your hunting ground: club bouncers, homeless watchers, night vendors, street dealers, etc. Someone who answers when you ask “which way did she go?” \n-  Lose one dot of Humanity"
+          },
+          {
+            "title": "Hunting pool and exceptions",
+            "text": "Intelligence + Investigation to find a victim nobody misses, or Stamina + Stealth for long stalks of unknowing urban prey."
+          }
+        ]
+      }
+    }
+  ]
+}
