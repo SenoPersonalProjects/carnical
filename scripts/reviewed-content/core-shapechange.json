@@ -1,0 +1,96 @@
+{
+  "id": "shapechange",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Mudança de Forma",
+    "en": "Shapechange"
+  },
+  "aliases": [
+    "Mudança de Forma",
+    "Shapechange"
+  ],
+  "discipline": "Proteanismo",
+  "level": 3,
+  "versions": [
+    {
+      "id": "shapechange-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 269, 270, 271",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 269
+        },
+        {
+          "pdfPage": 272,
+          "printedPage": 270
+        },
+        {
+          "pdfPage": 273,
+          "printedPage": 271
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Assume uma única forma animal de massa aproximadamente igual à original, normalmente lobo, grande felino ou cobra gigante, ligada ao clã ou presas. Parece exemplar magnífico da espécie, sem sinal sobrenatural evidente."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Proteanismo 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sem teste. Transformar leva um turno, sem outras ações nesse turno. Recebe Atributos Físicos, sentidos, Habilidades nativas e limitações do animal (p. 373), inclusive comunicação e manipulação de objetos; muitos só carregam algo na boca. Outras Disciplinas dependem do Narrador: geralmente Auspícios, Animalismo, Celeridade, Fortitude, Potência e Proteanismo funcionam; muitos poderes de Dominação, Ofuscação e Presença são problemáticos; Feitiçaria de Sangue é impossível."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até encerrar voluntariamente."
+          },
+          {
+            "title": "Limites de transformação",
+            "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Assumes one animal form of roughly the original mass, usually a wolf, large cat or giant snake associated with clan or prey. It looks like a magnificent specimen without obvious supernatural signs."
+          },
+          {
+            "title": "Requirements",
+            "text": "Protean 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "No roll. Transformation takes one turn with no other actions that turn. Gains the animal’s Physical Attributes, senses, native Skills and limitations (p. 373), including communication and object handling; many animals can carry something only in the mouth. Other Disciplines depend on the Storyteller: generally Auspex, Animalism, Celerity, Fortitude, Potence and Protean work; many Dominate, Obfuscate and Presence powers are problematic; Blood Sorcery is impossible."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until voluntarily ended."
+          },
+          {
+            "title": "Transformation limits",
+            "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+          }
+        ]
+      }
+    }
+  ]
+}

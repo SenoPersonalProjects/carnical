@@ -1,0 +1,100 @@
+{
+  "id": "dread-gaze",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Olhar Aterrorizante",
+    "en": "Dread Gaze"
+  },
+  "aliases": [
+    "Olhar Aterrorizante",
+    "Dread Gaze"
+  ],
+  "discipline": "Presença",
+  "level": 3,
+  "versions": [
+    {
+      "id": "dread-gaze-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 266, 267",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 266
+        },
+        {
+          "pdfPage": 269,
+          "printedPage": 267
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Mostra presas e expressão predatória para aterrorizar um alvo mortal ou vampiro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Carisma + Presença contra Autocontrole + Determinação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Falha: mortal recua e só pode defender-se por um turno; vampiro não é afetado. Vitória: mortal foge; vampiro só pode defender-se por um turno, a menos que gaste Vontade igual à margem do usuário, mínimo 1. Crítico: mortal congela ou se encolhe em posição fetal; vampiro testa Frenesi de Terror, Dificuldade 3, e mesmo se resistir sofre os efeitos de uma vitória normal."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno."
+          },
+          {
+            "title": "Regras gerais de Presença",
+            "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Bares fangs and a predatory expression to terrify one mortal or vampire."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Charisma + Presence opposed by Composure + Resolve."
+          },
+          {
+            "title": "System",
+            "text": "Failure: a mortal recoils and can only defend for one turn; a vampire is unaffected. Win: a mortal flees; a vampire can only defend for one turn unless spending Willpower equal to the user’s margin, minimum 1. Critical: a mortal freezes or curls into a fetal position; a vampire tests terror frenzy, Difficulty 3, and even on resistance suffers the ordinary-win effects."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn."
+          },
+          {
+            "title": "General Presence rules",
+            "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+          }
+        ]
+      }
+    }
+  ]
+}

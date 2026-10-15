@@ -1,0 +1,80 @@
+{
+  "id": "soaring-leap",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Salto Vertiginoso",
+    "en": "Soaring Leap"
+  },
+  "aliases": [
+    "Salto Vertiginoso",
+    "Soaring Leap"
+  ],
+  "discipline": "Potência",
+  "level": 1,
+  "versions": [
+    {
+      "id": "soaring-leap-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 264",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 266,
+          "printedPage": 264
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Força sobrenatural permite saltos muito além dos limites humanos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Salta verticalmente até três vezes Potência em metros e horizontalmente até cinco vezes Potência, sem precisar de impulso."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Supernatural strength allows leaps far beyond human limits."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Leaps vertically up to three times Potence in meters and horizontally up to five times Potence, with no running start."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          }
+        ]
+      }
+    }
+  ]
+}

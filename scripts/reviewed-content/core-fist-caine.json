@@ -1,0 +1,80 @@
+{
+  "id": "fist-caine",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Punho de Caim",
+    "en": "Fist of Caine"
+  },
+  "aliases": [
+    "Punho de Caim",
+    "Fist of Caine"
+  ],
+  "discipline": "Potência",
+  "level": 5,
+  "versions": [
+    {
+      "id": "fist-caine-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 265",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 267,
+          "printedPage": 265
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "As mãos vazias podem desmembrar, perfurar, empalar, decapitar ou arrancar o coração dos inimigos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Pode infligir dano agravado à Vitalidade de mortais e criaturas sobrenaturais com Briga durante a cena."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Bare hands can dismember, pierce, impale, decapitate or tear out an enemy’s heart."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "May inflict Aggravated Health damage on mortals and supernatural creatures with Brawl throughout the scene."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          }
+        ]
+      }
+    }
+  ]
+}

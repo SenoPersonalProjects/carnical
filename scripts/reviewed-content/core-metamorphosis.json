@@ -1,0 +1,103 @@
+{
+  "id": "metamorphosis",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Metamorfose",
+    "en": "Metamorphosis"
+  },
+  "aliases": [
+    "Metamorfose",
+    "Metamorphosis"
+  ],
+  "discipline": "Proteanismo",
+  "level": 4,
+  "versions": [
+    {
+      "id": "metamorphosis-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 269, 271",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 269
+        },
+        {
+          "pdfPage": 273,
+          "printedPage": 271
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 4
+        },
+        "prerequisites": [
+          "Mudança de Forma"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Concede uma forma animal adicional, agora permitindo mudar de tamanho, como morcego, rato, inseto extraordinariamente grande ou cobra."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Proteanismo 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Use as regras de Mudança de Forma: um turno para transformar-se sem outras ações, recebendo características e limitações do animal; outras Disciplinas dependem do Narrador e Feitiçaria de Sangue não funciona nessa forma."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até encerrar voluntariamente."
+          },
+          {
+            "title": "Poderes pré-requisitos",
+            "text": "Mudança de Forma."
+          },
+          {
+            "title": "Limites de transformação",
+            "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Grants an additional animal form, now allowing size changes, such as a bat, rat, unusually large insect or snake."
+          },
+          {
+            "title": "Requirements",
+            "text": "Protean 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Use Shapechange rules: one turn to transform with no other actions, gaining the animal’s traits and limitations; other Disciplines depend on the Storyteller and Blood Sorcery does not function in that form."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until voluntarily ended."
+          },
+          {
+            "title": "Prerequisite powers",
+            "text": "Mudança de Forma."
+          },
+          {
+            "title": "Transformation limits",
+            "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+          }
+        ]
+      }
+    }
+  ]
+}

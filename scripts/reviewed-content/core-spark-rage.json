@@ -1,0 +1,89 @@
+{
+  "id": "spark-rage",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Centelha de Fúria",
+    "en": "Spark of Rage"
+  },
+  "aliases": [
+    "Centelha de Fúria",
+    "Spark of Rage"
+  ],
+  "discipline": "Potência",
+  "level": 3,
+  "versions": [
+    {
+      "id": "spark-rage-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 264",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 266,
+          "printedPage": 264
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 3,
+          "Presença": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Combina Potência e Presença para incitar violência ou Frenesi. Uma multidão irritada pode voltar-se contra o usuário."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 3 e Presença 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Potência contra Autocontrole + Inteligência de outro vampiro."
+          },
+          {
+            "title": "Sistema",
+            "text": "Enquanto ativo, some Potência às tentativas de irritar ou incitar pessoa ou multidão à violência. Também pode ativar e vencer o conflito acima para obrigar outro vampiro a resistir a Frenesi de Fúria, Dificuldade 3."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Combines Potence and Presence to incite violence or frenzy. An enraged crowd may turn on the user."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 3 and Presence 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Potence opposed by another vampire’s Composure + Intelligence."
+          },
+          {
+            "title": "System",
+            "text": "While active, add Potence to attempts to anger or incite a person or crowd to violence. May also activate and win the contest above to force another vampire to resist fury frenzy at Difficulty 3."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          }
+        ]
+      }
+    }
+  ]
+}

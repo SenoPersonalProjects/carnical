@@ -1,0 +1,88 @@
+{
+  "id": "earthshock",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Terremoto",
+    "en": "Earthshock"
+  },
+  "aliases": [
+    "Terremoto",
+    "Earthshock"
+  ],
+  "discipline": "Potência",
+  "level": 5,
+  "versions": [
+    {
+      "id": "earthshock-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 265",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 267,
+          "printedPage": 265
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Golpeia o chão com punho ou pé para gerar uma onda de choque, com graves danos colaterais ao ambiente."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Dois Testes de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Não exige teste do usuário. Cada pessoa num raio de até cinco metros testa Destreza + Atletismo, Dificuldade 3."
+          },
+          {
+            "title": "Sistema",
+            "text": "Quem estiver preparado, como aliados avisados, melhora o resultado em um grau. Crítico: nenhum efeito. Vitória: perde o equilíbrio e a ação atual. Falha: cai, perde a ação atual e gasta um turno para levantar. Racha o solo, quebra móveis e espelhos; pisos acima do térreo podem desabar, derrubando os presentes ao andar inferior. Só pode ser usado uma vez por cena."
+          },
+          {
+            "title": "Duração",
+            "text": "Um uso."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Strikes the ground with fist or foot to create a shockwave with severe environmental collateral damage."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 5."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "No user roll. Everyone within up to five meters rolls Dexterity + Athletics, Difficulty 3."
+          },
+          {
+            "title": "System",
+            "text": "Prepared people, such as warned allies, improve the outcome by one step. Critical: unaffected. Win: loses balance and the current action. Failure: falls, loses the current action and spends a turn standing. Cracks earth and breaks furniture and mirrors; upper floors can collapse, dropping those present to the level below. Only usable once per scene."
+          },
+          {
+            "title": "Duration",
+            "text": "One use."
+          }
+        ]
+      }
+    }
+  ]
+}

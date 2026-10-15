@@ -1,0 +1,93 @@
+{
+  "id": "irresistible-voice",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Voz Irresistível",
+    "en": "Irresistible Voice"
+  },
+  "aliases": [
+    "Voz Irresistível",
+    "Irresistible Voice"
+  ],
+  "discipline": "Presença",
+  "level": 4,
+  "versions": [
+    {
+      "id": "irresistible-voice-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 266, 268",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 266
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 268
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 4,
+          "Dominação": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A voz torna-se um canal para Dominação, dispensando contato visual."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 4 e Dominação 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum custo adicional."
+          },
+          {
+            "title": "Sistema",
+            "text": "Basta que o alvo ouça a voz do usuário para aplicar Dominação. Não funciona com voz transmitida eletronicamente, como telefone, televisão ou interfone."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          },
+          {
+            "title": "Regras gerais de Presença",
+            "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The voice becomes a channel for Dominate, removing the need for eye contact."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 4 and Dominate 1."
+          },
+          {
+            "title": "Cost",
+            "text": "No additional cost."
+          },
+          {
+            "title": "System",
+            "text": "Hearing the user’s voice is enough to apply Dominate. Does not work through electronically transmitted voices such as phones, televisions or intercoms."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          },
+          {
+            "title": "General Presence rules",
+            "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+          }
+        ]
+      }
+    }
+  ]
+}

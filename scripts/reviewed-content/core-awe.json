@@ -1,0 +1,100 @@
+{
+  "id": "awe",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Fascínio",
+    "en": "Awe"
+  },
+  "aliases": [
+    "Fascínio",
+    "Awe"
+  ],
+  "discipline": "Presença",
+  "level": 1,
+  "versions": [
+    {
+      "id": "awe-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 266, 267",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 266
+        },
+        {
+          "pdfPage": 269,
+          "printedPage": 267
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Atrai atenção e torna quem o escuta mais receptivo, sem causar paixão arrebatadora. Ao terminar, as opiniões anteriores retornam."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Presença contra Autocontrole + Inteligência de quem percebe a influência e tenta resistir."
+          },
+          {
+            "title": "Sistema",
+            "text": "Some Presença a testes de Persuasão ou Performance e, a critério do Narrador, outras rolagens ligadas a Carisma. Quem sabe estar sendo afetado pode resistir no conflito acima: vitória o protege pela cena; crítico, pela noite. Não pode usar simultaneamente com Amedrontar."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até encerrar voluntariamente."
+          },
+          {
+            "title": "Regras gerais de Presença",
+            "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Draws attention and makes listeners more receptive without overwhelming infatuation. Their former opinions return when it ends."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Presence opposed by Composure + Intelligence for someone aware of the influence who tries to resist."
+          },
+          {
+            "title": "System",
+            "text": "Add Presence to Persuasion or Performance tests and, at the Storyteller’s discretion, other Charisma-related rolls. Someone aware of being affected may resist with the contest above: a win protects for the scene; a critical for the night. Cannot be used simultaneously with Daunt."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until voluntarily ended."
+          },
+          {
+            "title": "General Presence rules",
+            "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+          }
+        ]
+      }
+    }
+  ]
+}

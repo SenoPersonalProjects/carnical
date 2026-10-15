@@ -1,0 +1,101 @@
+{
+  "id": "unfettered-heart",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Coração Vagante",
+    "en": "The Unfettered Heart"
+  },
+  "aliases": [
+    "Coração Vagante",
+    "The Unfettered Heart",
+    "Unfettered Heart"
+  ],
+  "discipline": "Proteanismo",
+  "level": 5,
+  "versions": [
+    {
+      "id": "unfettered-heart-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 269, 271",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 269
+        },
+        {
+          "pdfPage": 273,
+          "printedPage": 271
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O coração move-se lentamente pelo peito, dificultando estacamento e permitindo expulsar uma estaca."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Proteanismo 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito para a proteção; um Teste de Sangue por tentativa de expulsar a estaca."
+          },
+          {
+            "title": "Parada",
+            "text": "Força + Determinação, Dificuldade 5, uma vez por hora para expulsar estaca; não pode tentar em Fome 5."
+          },
+          {
+            "title": "Sistema",
+            "text": "Aumente em 3 a Dificuldade de estacamento fora de combate. Em combate com Armas Brancas, só uma vitória crítica do atacante com estaca alcança o coração. Se já estacado, vencer o teste acima expulsa a estaca e encerra a paralisia."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          },
+          {
+            "title": "Limites de transformação",
+            "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The heart slowly moves within the chest, making staking harder and allowing a stake to be expelled."
+          },
+          {
+            "title": "Requirements",
+            "text": "Protean 5."
+          },
+          {
+            "title": "Cost",
+            "text": "Free protection; one Rouse Check per attempt to expel a stake."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Strength + Resolve, Difficulty 5, once per hour to expel a stake; cannot attempt at Hunger 5."
+          },
+          {
+            "title": "System",
+            "text": "Increase non-combat staking Difficulty by 3. In Melee combat, only a critical win by the stake-wielding attacker reaches the heart. If already staked, winning the roll above expels the stake and ends paralysis."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          },
+          {
+            "title": "Transformation limits",
+            "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+          }
+        ]
+      }
+    }
+  ]
+}

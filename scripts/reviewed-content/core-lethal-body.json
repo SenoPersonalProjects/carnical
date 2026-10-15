@@ -1,0 +1,80 @@
+{
+  "id": "lethal-body",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Corpo Letal",
+    "en": "Lethal Body"
+  },
+  "aliases": [
+    "Corpo Letal",
+    "Lethal Body"
+  ],
+  "discipline": "Potência",
+  "level": 1,
+  "versions": [
+    {
+      "id": "lethal-body-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 264",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 266,
+          "printedPage": 264
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Golpes desarmados rasgam a pele e quebram ossos de mortais."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Pode causar dano agravado à Vitalidade de mortais com ataques desarmados, se desejar. Ignora um nível de armadura por ponto de Potência."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Unarmed blows tear mortal flesh and break bones."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "May inflict Aggravated Health damage on mortals with unarmed attacks. Ignores one armor level per dot of Potence."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          }
+        ]
+      }
+    }
+  ]
+}

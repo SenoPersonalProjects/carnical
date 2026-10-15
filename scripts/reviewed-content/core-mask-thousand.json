@@ -1,0 +1,96 @@
+{
+  "id": "mask-thousand",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Máscara de Mil Faces",
+    "en": "Mask of a Thousand Faces"
+  },
+  "aliases": [
+    "Máscara de Mil Faces",
+    "Mask of a Thousand Faces"
+  ],
+  "discipline": "Ofuscação",
+  "level": 3,
+  "versions": [
+    {
+      "id": "mask-thousand-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 260, 261, 262",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 262,
+          "printedPage": 260
+        },
+        {
+          "pdfPage": 263,
+          "printedPage": 261
+        },
+        {
+          "pdfPage": 264,
+          "printedPage": 262
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Parece um estranho comum e esquecível, podendo interagir e falar. A presença precisa ser plausível: não engana quem não espera ninguém ou é hostil a qualquer estranho. Não fornece documentos ou meios de vencer verificação de identidade."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sem teste. Observadores veem um rosto comum do mesmo gênero, constituição e altura; roupas assumem neutralidade adequada ao ambiente, como vigia num escritório ou macacão numa fábrica. Sentir o Invisível penetra normalmente."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Ofuscação",
+            "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Appears as an ordinary, forgettable stranger while allowing interaction and speech. The presence must be plausible: it does not fool those expecting nobody or hostile to any stranger. It provides no documents or means to pass identity checks."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "No roll. Observers see an unremarkable face of the same gender, build and height; clothes take a neutral form appropriate to the setting, such as an office security guard or factory overalls. Sense the Unseen penetrates normally."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          },
+          {
+            "title": "General Obfuscate rules",
+            "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+          }
+        ]
+      }
+    }
+  ]
+}

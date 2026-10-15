@@ -1,0 +1,88 @@
+{
+  "id": "eyes-beast",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Olhos da Besta",
+    "en": "Eyes of the Beast"
+  },
+  "aliases": [
+    "Olhos da Besta",
+    "Eyes of the Beast"
+  ],
+  "discipline": "Proteanismo",
+  "level": 1,
+  "versions": [
+    {
+      "id": "eyes-beast-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 269",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 269
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Os olhos brilham de modo sobrenatural e permitem enxergar sem luz."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Proteanismo 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Não exige teste. Ignore penalidades visuais por escuridão, inclusive sobrenatural. Os olhos inumanos concedem +2 dados de Intimidação contra mortais."
+          },
+          {
+            "title": "Duração",
+            "text": "Quanto desejar."
+          },
+          {
+            "title": "Limites de transformação",
+            "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The eyes glow supernaturally, allowing sight without light."
+          },
+          {
+            "title": "Requirements",
+            "text": "Protean 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "No roll. Ignore visual penalties from darkness, including supernatural darkness. The inhuman eyes grant +2 Intimidation dice against mortals."
+          },
+          {
+            "title": "Duration",
+            "text": "As long as desired."
+          },
+          {
+            "title": "Transformation limits",
+            "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+          }
+        ]
+      }
+    }
+  ]
+}

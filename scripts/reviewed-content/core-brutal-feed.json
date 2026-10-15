@@ -1,0 +1,82 @@
+{
+  "id": "brutal-feed",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Alimentação Brutal",
+    "en": "Brutal Feed"
+  },
+  "aliases": [
+    "Alimentação Brutal",
+    "Brutal Feed",
+    "Beijo Selvagem",
+    "Savage Kiss"
+  ],
+  "discipline": "Potência",
+  "level": 3,
+  "versions": [
+    {
+      "id": "brutal-feed-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 264",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 266,
+          "printedPage": 264
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Também chamado Beijo Selvagem, drena uma vítima em segundos, muitas vezes num turno, provocando ferimentos internos destrutivos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Cada Fome saciada causa 1 dano agravado à Vitalidade de mortal; contra vampiro, apenas superficial. Em combate, aplique primeiro o dano da mordida; depois faça até Potência ações de alimentação automaticamente bem-sucedidas. Contra vampiros, esse número cai à metade, arredondada para baixo. Armadura não protege contra a alimentação, mas protege normalmente da mordida. O Narrador pode conceder Máculas pelo assassinato mutilador."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma alimentação."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Also called the Savage Kiss, drains a victim in seconds, often one turn, inflicting destructive internal injuries."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 3."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Each Hunger slaked inflicts 1 Aggravated Health damage on a mortal; only Superficial damage on a vampire. In combat, apply bite damage first, then up to Potence automatically successful feeding actions. Against vampires, halve that number, rounded down. Armor does not protect against the feeding but protects normally against the bite. The Storyteller may award Stains for the mutilating killing."
+          },
+          {
+            "title": "Duration",
+            "text": "One feeding."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "weight-feather",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Peso Pena",
+    "en": "Weight of the Feather"
+  },
+  "aliases": [
+    "Peso Pena",
+    "Weight of the Feather"
+  ],
+  "discipline": "Proteanismo",
+  "level": 1,
+  "versions": [
+    {
+      "id": "weight-feather-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 269",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 269
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Reduz massa e densidade efetivas quase a zero. Evita certos sensores de pressão e impactos; não amplia saltos, pois a força diminui proporcionalmente."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Proteanismo 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Sobrevivência, Dificuldade 3, para ativar como reação, por exemplo durante uma queda; com tempo para preparar, sem teste."
+          },
+          {
+            "title": "Sistema",
+            "text": "Enquanto ativo, é imune a dano de quedas, colisões e impacto por ser arremessado. Pode evitar dispositivos de pressão, conforme o Narrador."
+          },
+          {
+            "title": "Duração",
+            "text": "Quanto desejar."
+          },
+          {
+            "title": "Limites de transformação",
+            "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Reduces effective mass and density almost to zero. Avoids some pressure sensors and impacts; does not extend leaps because strength decreases proportionally."
+          },
+          {
+            "title": "Requirements",
+            "text": "Protean 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Wits + Survival, Difficulty 3, to activate as a reaction, such as while falling; no roll with preparation time."
+          },
+          {
+            "title": "System",
+            "text": "While active, immune to damage from falls, collisions and being thrown. May avoid pressure-triggered devices at the Storyteller’s discretion."
+          },
+          {
+            "title": "Duration",
+            "text": "As long as desired."
+          },
+          {
+            "title": "Transformation limits",
+            "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+          }
+        ]
+      }
+    }
+  ]
+}

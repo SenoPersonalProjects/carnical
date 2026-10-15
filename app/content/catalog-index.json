@@ -8280,6 +8280,979 @@
           }
         }
       ]
+    },
+    {
+      "id": "awe",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Fascínio",
+        "en": "Awe"
+      },
+      "aliases": [
+        "Fascínio",
+        "Awe"
+      ],
+      "discipline": "Presença",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "awe-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 267",
+          "requirements": {
+            "disciplines": {
+              "Presença": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "brutal-feed",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Alimentação Brutal",
+        "en": "Brutal Feed"
+      },
+      "aliases": [
+        "Alimentação Brutal",
+        "Brutal Feed",
+        "Beijo Selvagem",
+        "Savage Kiss"
+      ],
+      "discipline": "Potência",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "brutal-feed-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 264",
+          "requirements": {
+            "disciplines": {
+              "Potência": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cloak-gathering",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Ocultar o Grupo",
+        "en": "Cloak the Gathering"
+      },
+      "aliases": [
+        "Ocultar o Grupo",
+        "Cloak the Gathering"
+      ],
+      "discipline": "Ofuscação",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "cloak-gathering-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261, 263",
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cloak-shadows",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Manto de Sombras",
+        "en": "Cloak of Shadows"
+      },
+      "aliases": [
+        "Manto de Sombras",
+        "Cloak of Shadows"
+      ],
+      "discipline": "Ofuscação",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "cloak-shadows-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261",
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "daunt",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Amedrontar",
+        "en": "Daunt"
+      },
+      "aliases": [
+        "Amedrontar",
+        "Daunt"
+      ],
+      "discipline": "Presença",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "daunt-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266",
+          "requirements": {
+            "disciplines": {
+              "Presença": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "draught-might",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Potência Direto da Fonte",
+        "en": "Draught of Might"
+      },
+      "aliases": [
+        "Potência Direto da Fonte",
+        "Draught of Might"
+      ],
+      "discipline": "Potência",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "draught-might-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 265",
+          "requirements": {
+            "disciplines": {
+              "Potência": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "dread-gaze",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Olhar Aterrorizante",
+        "en": "Dread Gaze"
+      },
+      "aliases": [
+        "Olhar Aterrorizante",
+        "Dread Gaze"
+      ],
+      "discipline": "Presença",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "dread-gaze-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 267",
+          "requirements": {
+            "disciplines": {
+              "Presença": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "earthshock",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Terremoto",
+        "en": "Earthshock"
+      },
+      "aliases": [
+        "Terremoto",
+        "Earthshock"
+      ],
+      "discipline": "Potência",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "earthshock-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 265",
+          "requirements": {
+            "disciplines": {
+              "Potência": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "entrancement",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Transe",
+        "en": "Entrancement"
+      },
+      "aliases": [
+        "Transe",
+        "Entrancement"
+      ],
+      "discipline": "Presença",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "entrancement-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 267, 268",
+          "requirements": {
+            "disciplines": {
+              "Presença": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "eyes-beast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Olhos da Besta",
+        "en": "Eyes of the Beast"
+      },
+      "aliases": [
+        "Olhos da Besta",
+        "Eyes of the Beast"
+      ],
+      "discipline": "Proteanismo",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "eyes-beast-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269",
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "feral-weapons",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Armas Ferais",
+        "en": "Feral Weapons"
+      },
+      "aliases": [
+        "Armas Ferais",
+        "Feral Weapons"
+      ],
+      "discipline": "Proteanismo",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "feral-weapons-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269, 270",
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "fist-caine",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Punho de Caim",
+        "en": "Fist of Caine"
+      },
+      "aliases": [
+        "Punho de Caim",
+        "Fist of Caine"
+      ],
+      "discipline": "Potência",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "fist-caine-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 265",
+          "requirements": {
+            "disciplines": {
+              "Potência": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ghost-machine",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Fantasma na Máquina",
+        "en": "Ghost in the Machine"
+      },
+      "aliases": [
+        "Fantasma na Máquina",
+        "Ghost in the Machine"
+      ],
+      "discipline": "Ofuscação",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "ghost-machine-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261, 262",
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "impostors-guise",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Disfarce do Impostor",
+        "en": "Impostor’s Guise"
+      },
+      "aliases": [
+        "Disfarce do Impostor",
+        "Impostor’s Guise",
+        "Impostor's Guise"
+      ],
+      "discipline": "Ofuscação",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "impostors-guise-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261, 263",
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 5
+            },
+            "prerequisites": [
+              "Máscara de Mil Faces"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "irresistible-voice",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Voz Irresistível",
+        "en": "Irresistible Voice"
+      },
+      "aliases": [
+        "Voz Irresistível",
+        "Irresistible Voice"
+      ],
+      "discipline": "Presença",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "irresistible-voice-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 268",
+          "requirements": {
+            "disciplines": {
+              "Presença": 4,
+              "Dominação": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "lethal-body",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Corpo Letal",
+        "en": "Lethal Body"
+      },
+      "aliases": [
+        "Corpo Letal",
+        "Lethal Body"
+      ],
+      "discipline": "Potência",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "lethal-body-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 264",
+          "requirements": {
+            "disciplines": {
+              "Potência": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "lingering-kiss",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Beijo Persistente",
+        "en": "Lingering Kiss"
+      },
+      "aliases": [
+        "Beijo Persistente",
+        "Lingering Kiss",
+        "Beijo Indelével"
+      ],
+      "discipline": "Presença",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "lingering-kiss-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 267",
+          "requirements": {
+            "disciplines": {
+              "Presença": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "majesty",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Majestade",
+        "en": "Majesty"
+      },
+      "aliases": [
+        "Majestade",
+        "Majesty"
+      ],
+      "discipline": "Presença",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "majesty-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 268",
+          "requirements": {
+            "disciplines": {
+              "Presença": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mask-thousand",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Máscara de Mil Faces",
+        "en": "Mask of a Thousand Faces"
+      },
+      "aliases": [
+        "Máscara de Mil Faces",
+        "Mask of a Thousand Faces"
+      ],
+      "discipline": "Ofuscação",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "mask-thousand-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261, 262",
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "metamorphosis",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Metamorfose",
+        "en": "Metamorphosis"
+      },
+      "aliases": [
+        "Metamorfose",
+        "Metamorphosis"
+      ],
+      "discipline": "Proteanismo",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "metamorphosis-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269, 271",
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 4
+            },
+            "prerequisites": [
+              "Mudança de Forma"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mist-form",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Forma de Névoa",
+        "en": "Mist Form"
+      },
+      "aliases": [
+        "Forma de Névoa",
+        "Mist Form"
+      ],
+      "discipline": "Proteanismo",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "mist-form-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269, 271",
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "prowess",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Poderio",
+        "en": "Prowess"
+      },
+      "aliases": [
+        "Poderio",
+        "Prowess"
+      ],
+      "discipline": "Potência",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "prowess-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 264",
+          "requirements": {
+            "disciplines": {
+              "Potência": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "shapechange",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mudança de Forma",
+        "en": "Shapechange"
+      },
+      "aliases": [
+        "Mudança de Forma",
+        "Shapechange"
+      ],
+      "discipline": "Proteanismo",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "shapechange-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269, 270, 271",
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "silence-death",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Silêncio da Morte",
+        "en": "Silence of Death"
+      },
+      "aliases": [
+        "Silêncio da Morte",
+        "Silence of Death"
+      ],
+      "discipline": "Ofuscação",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "silence-death-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261",
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "soaring-leap",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Salto Vertiginoso",
+        "en": "Soaring Leap"
+      },
+      "aliases": [
+        "Salto Vertiginoso",
+        "Soaring Leap"
+      ],
+      "discipline": "Potência",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "soaring-leap-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 264",
+          "requirements": {
+            "disciplines": {
+              "Potência": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "spark-rage",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Centelha de Fúria",
+        "en": "Spark of Rage"
+      },
+      "aliases": [
+        "Centelha de Fúria",
+        "Spark of Rage"
+      ],
+      "discipline": "Potência",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "spark-rage-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 264",
+          "requirements": {
+            "disciplines": {
+              "Potência": 3,
+              "Presença": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "star-magnetism",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Magnetismo de Estrela",
+        "en": "Star Magnetism"
+      },
+      "aliases": [
+        "Magnetismo de Estrela",
+        "Star Magnetism"
+      ],
+      "discipline": "Presença",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "star-magnetism-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 268",
+          "requirements": {
+            "disciplines": {
+              "Presença": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "summon",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Convocar",
+        "en": "Summon"
+      },
+      "aliases": [
+        "Convocar",
+        "Summon"
+      ],
+      "discipline": "Presença",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "summon-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 268",
+          "requirements": {
+            "disciplines": {
+              "Presença": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "uncanny-grip",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Pegada Sobrenatural",
+        "en": "Uncanny Grip"
+      },
+      "aliases": [
+        "Pegada Sobrenatural",
+        "Uncanny Grip"
+      ],
+      "discipline": "Potência",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "uncanny-grip-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 265",
+          "requirements": {
+            "disciplines": {
+              "Potência": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "unfettered-heart",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Coração Vagante",
+        "en": "The Unfettered Heart"
+      },
+      "aliases": [
+        "Coração Vagante",
+        "The Unfettered Heart",
+        "Unfettered Heart"
+      ],
+      "discipline": "Proteanismo",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "unfettered-heart-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269, 271",
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "unseen-passage",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Passagem Invisível",
+        "en": "Unseen Passage"
+      },
+      "aliases": [
+        "Passagem Invisível",
+        "Unseen Passage"
+      ],
+      "discipline": "Ofuscação",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "unseen-passage-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261",
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "vanish",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Desaparecer",
+        "en": "Vanish"
+      },
+      "aliases": [
+        "Desaparecer",
+        "Vanish"
+      ],
+      "discipline": "Ofuscação",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "vanish-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261, 262",
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 4
+            },
+            "prerequisites": [
+              "Cloak of Shadows"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "weight-feather",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Peso Pena",
+        "en": "Weight of the Feather"
+      },
+      "aliases": [
+        "Peso Pena",
+        "Weight of the Feather"
+      ],
+      "discipline": "Proteanismo",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "weight-feather-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269",
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 1
+            }
+          }
+        }
+      ]
     }
   ]
 }

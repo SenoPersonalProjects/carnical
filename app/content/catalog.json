@@ -26113,6 +26113,3078 @@
           }
         }
       ]
+    },
+    {
+      "id": "awe",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Fascínio",
+        "en": "Awe"
+      },
+      "aliases": [
+        "Fascínio",
+        "Awe"
+      ],
+      "discipline": "Presença",
+      "level": 1,
+      "versions": [
+        {
+          "id": "awe-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 267",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 268,
+              "printedPage": 266
+            },
+            {
+              "pdfPage": 269,
+              "printedPage": 267
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Atrai atenção e torna quem o escuta mais receptivo, sem causar paixão arrebatadora. Ao terminar, as opiniões anteriores retornam."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Parada",
+                "text": "Manipulação + Presença contra Autocontrole + Inteligência de quem percebe a influência e tenta resistir."
+              },
+              {
+                "title": "Sistema",
+                "text": "Some Presença a testes de Persuasão ou Performance e, a critério do Narrador, outras rolagens ligadas a Carisma. Quem sabe estar sendo afetado pode resistir no conflito acima: vitória o protege pela cena; crítico, pela noite. Não pode usar simultaneamente com Amedrontar."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até encerrar voluntariamente."
+              },
+              {
+                "title": "Regras gerais de Presença",
+                "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Draws attention and makes listeners more receptive without overwhelming infatuation. Their former opinions return when it ends."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Manipulation + Presence opposed by Composure + Intelligence for someone aware of the influence who tries to resist."
+              },
+              {
+                "title": "System",
+                "text": "Add Presence to Persuasion or Performance tests and, at the Storyteller’s discretion, other Charisma-related rolls. Someone aware of being affected may resist with the contest above: a win protects for the scene; a critical for the night. Cannot be used simultaneously with Daunt."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until voluntarily ended."
+              },
+              {
+                "title": "General Presence rules",
+                "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "brutal-feed",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Alimentação Brutal",
+        "en": "Brutal Feed"
+      },
+      "aliases": [
+        "Alimentação Brutal",
+        "Brutal Feed",
+        "Beijo Selvagem",
+        "Savage Kiss"
+      ],
+      "discipline": "Potência",
+      "level": 3,
+      "versions": [
+        {
+          "id": "brutal-feed-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 264",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 266,
+              "printedPage": 264
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Também chamado Beijo Selvagem, drena uma vítima em segundos, muitas vezes num turno, provocando ferimentos internos destrutivos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Cada Fome saciada causa 1 dano agravado à Vitalidade de mortal; contra vampiro, apenas superficial. Em combate, aplique primeiro o dano da mordida; depois faça até Potência ações de alimentação automaticamente bem-sucedidas. Contra vampiros, esse número cai à metade, arredondada para baixo. Armadura não protege contra a alimentação, mas protege normalmente da mordida. O Narrador pode conceder Máculas pelo assassinato mutilador."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma alimentação."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Also called the Savage Kiss, drains a victim in seconds, often one turn, inflicting destructive internal injuries."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 3."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "Each Hunger slaked inflicts 1 Aggravated Health damage on a mortal; only Superficial damage on a vampire. In combat, apply bite damage first, then up to Potence automatically successful feeding actions. Against vampires, halve that number, rounded down. Armor does not protect against the feeding but protects normally against the bite. The Storyteller may award Stains for the mutilating killing."
+              },
+              {
+                "title": "Duration",
+                "text": "One feeding."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "cloak-gathering",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Ocultar o Grupo",
+        "en": "Cloak the Gathering"
+      },
+      "aliases": [
+        "Ocultar o Grupo",
+        "Cloak the Gathering"
+      ],
+      "discipline": "Ofuscação",
+      "level": 5,
+      "versions": [
+        {
+          "id": "cloak-gathering-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261, 263",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 262,
+              "printedPage": 260
+            },
+            {
+              "pdfPage": 263,
+              "printedPage": 261
+            },
+            {
+              "pdfPage": 265,
+              "printedPage": 263
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Estende um poder conhecido de Ofuscação a companheiros voluntários."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Ofuscação 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue além do custo do poder estendido; mais um alvo por Teste de Sangue adicional."
+              },
+              {
+                "title": "Sistema",
+                "text": "Afeta um número adicional de alvos voluntários igual ao Raciocínio do usuário, ampliável como acima. Cada um conta como usuário do poder, usando a Ofuscação do vampiro quando houver teste. Todos percebem uns aos outros. Revelar um companheiro não revela os demais; revelar o usuário revela todo o grupo."
+              },
+              {
+                "title": "Duração",
+                "text": "A do poder estendido."
+              },
+              {
+                "title": "Regras gerais de Ofuscação",
+                "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Extends one known Obfuscate power to willing companions."
+              },
+              {
+                "title": "Requirements",
+                "text": "Obfuscate 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check in addition to the extended power’s cost; one more target per additional Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Affects additional willing targets equal to the user’s Wits, expandable as above. Each counts as using the power, using the vampire’s Obfuscate rating when a roll is needed. They perceive each other. Revealing a companion does not reveal the rest; revealing the user reveals the entire group."
+              },
+              {
+                "title": "Duration",
+                "text": "As the extended power."
+              },
+              {
+                "title": "General Obfuscate rules",
+                "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "cloak-shadows",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Manto de Sombras",
+        "en": "Cloak of Shadows"
+      },
+      "aliases": [
+        "Manto de Sombras",
+        "Cloak of Shadows"
+      ],
+      "discipline": "Ofuscação",
+      "level": 1,
+      "versions": [
+        {
+          "id": "cloak-shadows-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 262,
+              "printedPage": 260
+            },
+            {
+              "pdfPage": 263,
+              "printedPage": 261
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Mistura-se aos arredores enquanto fica perfeitamente parado e silencioso, com alguma cobertura."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Ofuscação 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Use as regras gerais de Ofuscação. Só meios mecânicos ou sobrenaturais podem detectá-lo enquanto as condições forem mantidas. Mover-se ou ser detectado encerra o efeito."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena, ou até mover-se ou ser detectado."
+              },
+              {
+                "title": "Regras gerais de Ofuscação",
+                "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Blends into the surroundings while completely motionless and silent, with some cover."
+              },
+              {
+                "title": "Requirements",
+                "text": "Obfuscate 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "Use the general Obfuscate rules. Only mechanical or supernatural means can detect the user while the conditions hold. Moving or being detected ends the effect."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene, or until moving or detection."
+              },
+              {
+                "title": "General Obfuscate rules",
+                "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "daunt",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Amedrontar",
+        "en": "Daunt"
+      },
+      "aliases": [
+        "Amedrontar",
+        "Daunt"
+      ],
+      "discipline": "Presença",
+      "level": 1,
+      "versions": [
+        {
+          "id": "daunt-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 268,
+              "printedPage": 266
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Uma aura ameaçadora repele mortais e faz vampiros hesitarem antes de agir contra o usuário."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Some Presença às rolagens de Intimidação. Atacar o usuário exige Determinação + Autocontrole, Dificuldade 2. Não pode usar simultaneamente com Fascínio."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até encerrar voluntariamente."
+              },
+              {
+                "title": "Regras gerais de Presença",
+                "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "A threatening aura repels mortals and makes vampires hesitate before acting against the user."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "Add Presence to Intimidation rolls. Attacking the user requires Resolve + Composure, Difficulty 2. Cannot be used simultaneously with Awe."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until voluntarily ended."
+              },
+              {
+                "title": "General Presence rules",
+                "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "draught-might",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Potência Direto da Fonte",
+        "en": "Draught of Might"
+      },
+      "aliases": [
+        "Potência Direto da Fonte",
+        "Draught of Might"
+      ],
+      "discipline": "Potência",
+      "level": 4,
+      "versions": [
+        {
+          "id": "draught-might-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 265",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 267,
+              "printedPage": 265
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O Sangue transmite temporariamente parte da Potência do doador, como Elegância Direto da Fonte transmite Celeridade."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Beber diretamente quantidade equivalente a um Teste de Sangue concede Potência igual à metade da do doador, arredondada para baixo, e os mesmos poderes dele até esse nível."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite; para vampiros, até a próxima alimentação ou Fome 5."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The Blood temporarily transmits part of the donor’s Potence, as Draught of Elegance transmits Celerity."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Drinking directly an amount equivalent to one Rouse Check grants Potence equal to half the donor’s rating, rounded down, and their same powers up to that level."
+              },
+              {
+                "title": "Duration",
+                "text": "One night; for vampires, until the next feeding or Hunger 5."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "dread-gaze",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Olhar Aterrorizante",
+        "en": "Dread Gaze"
+      },
+      "aliases": [
+        "Olhar Aterrorizante",
+        "Dread Gaze"
+      ],
+      "discipline": "Presença",
+      "level": 3,
+      "versions": [
+        {
+          "id": "dread-gaze-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 267",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 268,
+              "printedPage": 266
+            },
+            {
+              "pdfPage": 269,
+              "printedPage": 267
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Mostra presas e expressão predatória para aterrorizar um alvo mortal ou vampiro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Carisma + Presença contra Autocontrole + Determinação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Falha: mortal recua e só pode defender-se por um turno; vampiro não é afetado. Vitória: mortal foge; vampiro só pode defender-se por um turno, a menos que gaste Vontade igual à margem do usuário, mínimo 1. Crítico: mortal congela ou se encolhe em posição fetal; vampiro testa Frenesi de Terror, Dificuldade 3, e mesmo se resistir sofre os efeitos de uma vitória normal."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno."
+              },
+              {
+                "title": "Regras gerais de Presença",
+                "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Bares fangs and a predatory expression to terrify one mortal or vampire."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Charisma + Presence opposed by Composure + Resolve."
+              },
+              {
+                "title": "System",
+                "text": "Failure: a mortal recoils and can only defend for one turn; a vampire is unaffected. Win: a mortal flees; a vampire can only defend for one turn unless spending Willpower equal to the user’s margin, minimum 1. Critical: a mortal freezes or curls into a fetal position; a vampire tests terror frenzy, Difficulty 3, and even on resistance suffers the ordinary-win effects."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn."
+              },
+              {
+                "title": "General Presence rules",
+                "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "earthshock",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Terremoto",
+        "en": "Earthshock"
+      },
+      "aliases": [
+        "Terremoto",
+        "Earthshock"
+      ],
+      "discipline": "Potência",
+      "level": 5,
+      "versions": [
+        {
+          "id": "earthshock-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 265",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 267,
+              "printedPage": 265
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Golpeia o chão com punho ou pé para gerar uma onda de choque, com graves danos colaterais ao ambiente."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Dois Testes de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Não exige teste do usuário. Cada pessoa num raio de até cinco metros testa Destreza + Atletismo, Dificuldade 3."
+              },
+              {
+                "title": "Sistema",
+                "text": "Quem estiver preparado, como aliados avisados, melhora o resultado em um grau. Crítico: nenhum efeito. Vitória: perde o equilíbrio e a ação atual. Falha: cai, perde a ação atual e gasta um turno para levantar. Racha o solo, quebra móveis e espelhos; pisos acima do térreo podem desabar, derrubando os presentes ao andar inferior. Só pode ser usado uma vez por cena."
+              },
+              {
+                "title": "Duração",
+                "text": "Um uso."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Strikes the ground with fist or foot to create a shockwave with severe environmental collateral damage."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Two Rouse Checks."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "No user roll. Everyone within up to five meters rolls Dexterity + Athletics, Difficulty 3."
+              },
+              {
+                "title": "System",
+                "text": "Prepared people, such as warned allies, improve the outcome by one step. Critical: unaffected. Win: loses balance and the current action. Failure: falls, loses the current action and spends a turn standing. Cracks earth and breaks furniture and mirrors; upper floors can collapse, dropping those present to the level below. Only usable once per scene."
+              },
+              {
+                "title": "Duration",
+                "text": "One use."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "entrancement",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Transe",
+        "en": "Entrancement"
+      },
+      "aliases": [
+        "Transe",
+        "Entrancement"
+      ],
+      "discipline": "Presença",
+      "level": 3,
+      "versions": [
+        {
+          "id": "entrancement-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 267, 268",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 268,
+              "printedPage": 266
+            },
+            {
+              "pdfPage": 269,
+              "printedPage": 267
+            },
+            {
+              "pdfPage": 270,
+              "printedPage": 268
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Concentra atração sobrenatural numa pessoa, que procura agradar o usuário sem ferir a si ou a entes queridos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Carisma + Presença contra Autocontrole + Raciocínio."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ganhe a atenção e vença o conflito. Some Presença às paradas Sociais contra o alvo. Pode renovar indefinidamente, mas falha encerra o poder e torna o alvo imune pelo resto da noite. Pedidos de dano evidente ao alvo ou entes queridos, ou contrários aos Princípios dele, falham e exigem imediatamente novo conflito para manter o encantamento; sem mantê-lo, o efeito termina."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma hora mais uma por ponto de margem."
+              },
+              {
+                "title": "Regras gerais de Presença",
+                "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Focuses supernatural attraction on one person, who seeks to please the user without harming themselves or loved ones."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Charisma + Presence opposed by Composure + Wits."
+              },
+              {
+                "title": "System",
+                "text": "Gain attention and win the contest. Add Presence to Social pools against the target. May renew indefinitely, but failure ends the power and makes the target immune for the rest of the night. Requests for obvious harm to the target or loved ones, or against their Tenets, fail and immediately require another contest to maintain the enchantment; otherwise it ends."
+              },
+              {
+                "title": "Duration",
+                "text": "One hour plus one per point of margin."
+              },
+              {
+                "title": "General Presence rules",
+                "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "eyes-beast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Olhos da Besta",
+        "en": "Eyes of the Beast"
+      },
+      "aliases": [
+        "Olhos da Besta",
+        "Eyes of the Beast"
+      ],
+      "discipline": "Proteanismo",
+      "level": 1,
+      "versions": [
+        {
+          "id": "eyes-beast-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 271,
+              "printedPage": 269
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Os olhos brilham de modo sobrenatural e permitem enxergar sem luz."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Proteanismo 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Não exige teste. Ignore penalidades visuais por escuridão, inclusive sobrenatural. Os olhos inumanos concedem +2 dados de Intimidação contra mortais."
+              },
+              {
+                "title": "Duração",
+                "text": "Quanto desejar."
+              },
+              {
+                "title": "Limites de transformação",
+                "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The eyes glow supernaturally, allowing sight without light."
+              },
+              {
+                "title": "Requirements",
+                "text": "Protean 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "No roll. Ignore visual penalties from darkness, including supernatural darkness. The inhuman eyes grant +2 Intimidation dice against mortals."
+              },
+              {
+                "title": "Duration",
+                "text": "As long as desired."
+              },
+              {
+                "title": "Transformation limits",
+                "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "feral-weapons",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Armas Ferais",
+        "en": "Feral Weapons"
+      },
+      "aliases": [
+        "Armas Ferais",
+        "Feral Weapons"
+      ],
+      "discipline": "Proteanismo",
+      "level": 2,
+      "versions": [
+        {
+          "id": "feral-weapons-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269, 270",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 271,
+              "printedPage": 269
+            },
+            {
+              "pdfPage": 272,
+              "printedPage": 270
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Alonga armas naturais em garras ou presas monstruosas."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Proteanismo 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Sem teste de Habilidade para ativar. A arma natural torna-se arma de Briga leve e perfurante com modificador de dano +2. Mordidas vampíricas continuam causando apenas 2 danos agravados, independentemente dos sucessos, mas dispensam a penalidade de ataque localizado. Dano superficial causado por essas armas naturais não é reduzido à metade."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Limites de transformação",
+                "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Extends natural weapons into monstrous claws or fangs."
+              },
+              {
+                "title": "Requirements",
+                "text": "Protean 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "No Skill roll to activate. The natural weapon becomes a light piercing Brawl weapon with a +2 damage modifier. Vampire bites still inflict only 2 Aggravated damage regardless of successes, but remove the called-shot penalty. Superficial damage inflicted by these natural weapons is not halved."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              },
+              {
+                "title": "Transformation limits",
+                "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "fist-caine",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Punho de Caim",
+        "en": "Fist of Caine"
+      },
+      "aliases": [
+        "Punho de Caim",
+        "Fist of Caine"
+      ],
+      "discipline": "Potência",
+      "level": 5,
+      "versions": [
+        {
+          "id": "fist-caine-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 265",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 267,
+              "printedPage": 265
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "As mãos vazias podem desmembrar, perfurar, empalar, decapitar ou arrancar o coração dos inimigos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Pode infligir dano agravado à Vitalidade de mortais e criaturas sobrenaturais com Briga durante a cena."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Bare hands can dismember, pierce, impale, decapitate or tear out an enemy’s heart."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "May inflict Aggravated Health damage on mortals and supernatural creatures with Brawl throughout the scene."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ghost-machine",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Fantasma na Máquina",
+        "en": "Ghost in the Machine"
+      },
+      "aliases": [
+        "Fantasma na Máquina",
+        "Ghost in the Machine"
+      ],
+      "discipline": "Ofuscação",
+      "level": 3,
+      "versions": [
+        {
+          "id": "ghost-machine-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261, 262",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 262,
+              "printedPage": 260
+            },
+            {
+              "pdfPage": 263,
+              "printedPage": 261
+            },
+            {
+              "pdfPage": 264,
+              "printedPage": 262
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Estende Ofuscação a imagens eletrônicas ao vivo. Gravações e fotos posteriores ficam indistintas, e sistemas automáticos tendem a falhar perto do usuário."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Ofuscação 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Nenhum custo adicional."
+              },
+              {
+                "title": "Sistema",
+                "text": "Transmissão ao vivo não exige teste extra: trate quem observa a tela como presente no local. Aumente em 3 a Dificuldade para identificar o usuário em fotos, filmes e gravações feitos com Ofuscação ativa. Adicione 3 dados às paradas usadas para contornar vigilância eletrônica automatizada e contramedidas."
+              },
+              {
+                "title": "Duração",
+                "text": "A do poder utilizado."
+              },
+              {
+                "title": "Regras gerais de Ofuscação",
+                "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Extends Obfuscate to live electronic images. Later recordings and photographs look indistinct, and automated systems tend to malfunction nearby."
+              },
+              {
+                "title": "Requirements",
+                "text": "Obfuscate 3."
+              },
+              {
+                "title": "Cost",
+                "text": "No additional cost."
+              },
+              {
+                "title": "System",
+                "text": "Live transmission requires no extra roll: treat screen observers as physically present. Increase the Difficulty to identify the user in photographs, film or recordings made while Obfuscated by 3. Add 3 dice to pools used to bypass automated electronic surveillance and countermeasures."
+              },
+              {
+                "title": "Duration",
+                "text": "As the power used."
+              },
+              {
+                "title": "General Obfuscate rules",
+                "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "impostors-guise",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Disfarce do Impostor",
+        "en": "Impostor’s Guise"
+      },
+      "aliases": [
+        "Disfarce do Impostor",
+        "Impostor’s Guise",
+        "Impostor's Guise"
+      ],
+      "discipline": "Ofuscação",
+      "level": 5,
+      "versions": [
+        {
+          "id": "impostors-guise-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261, 263",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 262,
+              "printedPage": 260
+            },
+            {
+              "pdfPage": 263,
+              "printedPage": 261
+            },
+            {
+              "pdfPage": 265,
+              "printedPage": 263
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 5
+            },
+            "prerequisites": [
+              "Máscara de Mil Faces"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Imita um indivíduo humano específico de qualquer gênero ou constituição, após observá-lo cuidadosamente. Não copia aparência animal."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Ofuscação 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Raciocínio + Ofuscação, Dificuldade 4, em segredo pelo Narrador; Manipulação + Performance para voz e maneirismos."
+              },
+              {
+                "title": "Sistema",
+                "text": "Estude o rosto por pelo menos cinco minutos sob ângulos diferentes; mais dez minutos permitem estudar voz e maneirismos. Falha produz semelhança pouco convincente, percebida automaticamente por conhecidos próximos. Vitória cria ilusão convincente, mas exige Manipulação + Performance para personificar a fala e os modos. Um crítico produz ilusão perfeita sem outras rolagens. Sentir o Invisível penetra conforme as regras gerais."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Poderes pré-requisitos",
+                "text": "Máscara de Mil Faces."
+              },
+              {
+                "title": "Regras gerais de Ofuscação",
+                "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Impersonates a specific human individual of any gender or build after careful observation. Cannot copy animal appearance."
+              },
+              {
+                "title": "Requirements",
+                "text": "Obfuscate 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Wits + Obfuscate, Difficulty 4, secretly rolled by the Storyteller; Manipulation + Performance for voice and mannerisms."
+              },
+              {
+                "title": "System",
+                "text": "Study the face for at least five minutes from different angles; another ten minutes allows studying voice and mannerisms. Failure produces an unconvincing likeness automatically noticed by close acquaintances. A win creates a convincing illusion but requires Manipulation + Performance for speech and behavior. A critical creates a perfect illusion without further rolls. Sense the Unseen penetrates under the general rules."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              },
+              {
+                "title": "Prerequisite powers",
+                "text": "Máscara de Mil Faces."
+              },
+              {
+                "title": "General Obfuscate rules",
+                "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "irresistible-voice",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Voz Irresistível",
+        "en": "Irresistible Voice"
+      },
+      "aliases": [
+        "Voz Irresistível",
+        "Irresistible Voice"
+      ],
+      "discipline": "Presença",
+      "level": 4,
+      "versions": [
+        {
+          "id": "irresistible-voice-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 268",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 268,
+              "printedPage": 266
+            },
+            {
+              "pdfPage": 270,
+              "printedPage": 268
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 4,
+              "Dominação": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A voz torna-se um canal para Dominação, dispensando contato visual."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 4 e Dominação 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Nenhum custo adicional."
+              },
+              {
+                "title": "Sistema",
+                "text": "Basta que o alvo ouça a voz do usuário para aplicar Dominação. Não funciona com voz transmitida eletronicamente, como telefone, televisão ou interfone."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              },
+              {
+                "title": "Regras gerais de Presença",
+                "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The voice becomes a channel for Dominate, removing the need for eye contact."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 4 and Dominate 1."
+              },
+              {
+                "title": "Cost",
+                "text": "No additional cost."
+              },
+              {
+                "title": "System",
+                "text": "Hearing the user’s voice is enough to apply Dominate. Does not work through electronically transmitted voices such as phones, televisions or intercoms."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              },
+              {
+                "title": "General Presence rules",
+                "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lethal-body",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Corpo Letal",
+        "en": "Lethal Body"
+      },
+      "aliases": [
+        "Corpo Letal",
+        "Lethal Body"
+      ],
+      "discipline": "Potência",
+      "level": 1,
+      "versions": [
+        {
+          "id": "lethal-body-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 264",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 266,
+              "printedPage": 264
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Golpes desarmados rasgam a pele e quebram ossos de mortais."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Pode causar dano agravado à Vitalidade de mortais com ataques desarmados, se desejar. Ignora um nível de armadura por ponto de Potência."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Unarmed blows tear mortal flesh and break bones."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "May inflict Aggravated Health damage on mortals with unarmed attacks. Ignores one armor level per dot of Potence."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lingering-kiss",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Beijo Persistente",
+        "en": "Lingering Kiss"
+      },
+      "aliases": [
+        "Beijo Persistente",
+        "Lingering Kiss",
+        "Beijo Indelével"
+      ],
+      "discipline": "Presença",
+      "level": 2,
+      "versions": [
+        {
+          "id": "lingering-kiss-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 267",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 268,
+              "printedPage": 266
+            },
+            {
+              "pdfPage": 269,
+              "printedPage": 267
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Torna o Beijo fortalecedor e viciante. A vítima pode perseguir o usuário por nova alimentação, colocando-o em risco de Laço quando a vítima é vampira."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Escolha ativar a cada alimentação que sacie ao menos 1 Fome. A vítima escolhe um Atributo Social e recebe bônus igual à metade da Presença do usuário, arredondada para cima, por uma noite. Depois sofre abstinência: ações que não busquem nova dose recebem penalidade igual ao bônus inicial. Pode gastar Vontade para ignorar a penalidade por uma cena. A abstinência desaparece após noites iguais à Presença do usuário. Usuário Enlaçado só pode afetar mortais, não vampiros. Vampiros com a Qualidade À Prova de Laço não podem adquirir este poder."
+              },
+              {
+                "title": "Duração",
+                "text": "Bônus por uma noite; duração indicada do poder: noites iguais à Presença, com a abstinência descrita acima."
+              },
+              {
+                "title": "Regras gerais de Presença",
+                "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Makes the Kiss empowering and addictive. A victim may pursue the user for another feeding, risking a Blood Bond when the victim is a vampire."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 2."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "Choose whether to activate at each feeding that slakes at least 1 Hunger. The victim chooses a Social Attribute and gains a bonus equal to half the user’s Presence, rounded up, for one night. Withdrawal then penalizes all actions not seeking another dose by the same amount. Willpower can ignore the penalty for one scene. Withdrawal ends after nights equal to the user’s Presence. A Blood Bound user can affect mortals only, not vampires. Vampires with the Unbondable Merit cannot acquire this power."
+              },
+              {
+                "title": "Duration",
+                "text": "One-night bonus; the listed power duration is nights equal to Presence, with withdrawal as described above."
+              },
+              {
+                "title": "General Presence rules",
+                "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "majesty",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Majestade",
+        "en": "Majesty"
+      },
+      "aliases": [
+        "Majestade",
+        "Majesty"
+      ],
+      "discipline": "Presença",
+      "level": 5,
+      "versions": [
+        {
+          "id": "majesty-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 268",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 268,
+              "printedPage": 266
+            },
+            {
+              "pdfPage": 270,
+              "printedPage": 268
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Beleza, monstruosidade ou autoridade sobrenaturais deixam observadores incapazes de falar ou agir contra o usuário."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Dois Testes de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Carisma + Presença contra Autocontrole + Determinação de quem tenta opor-se."
+              },
+              {
+                "title": "Sistema",
+                "text": "Presentes só podem contemplar ou desviar o olhar com medo e submissão. Para agir contra o usuário, exceto por autopreservação, é preciso vencer o conflito de Autocontrole + Determinação contra Carisma + Presença. Vitória dá um turno livre mais um por ponto de margem; somente crítico resiste pela cena inteira."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Presença",
+                "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Supernatural beauty, monstrosity or authority leaves observers unable to speak or act against the user."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Two Rouse Checks."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Charisma + Presence opposed by Composure + Resolve of someone attempting opposition."
+              },
+              {
+                "title": "System",
+                "text": "Those present can only stare or avert their gaze in fear and submission. Acting against the user, except for self-preservation, requires winning Composure + Resolve against Charisma + Presence. A win gives one free turn plus one per point of margin; only a critical resists for the entire scene."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              },
+              {
+                "title": "General Presence rules",
+                "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mask-thousand",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Máscara de Mil Faces",
+        "en": "Mask of a Thousand Faces"
+      },
+      "aliases": [
+        "Máscara de Mil Faces",
+        "Mask of a Thousand Faces"
+      ],
+      "discipline": "Ofuscação",
+      "level": 3,
+      "versions": [
+        {
+          "id": "mask-thousand-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261, 262",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 262,
+              "printedPage": 260
+            },
+            {
+              "pdfPage": 263,
+              "printedPage": 261
+            },
+            {
+              "pdfPage": 264,
+              "printedPage": 262
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Parece um estranho comum e esquecível, podendo interagir e falar. A presença precisa ser plausível: não engana quem não espera ninguém ou é hostil a qualquer estranho. Não fornece documentos ou meios de vencer verificação de identidade."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Ofuscação 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Sem teste. Observadores veem um rosto comum do mesmo gênero, constituição e altura; roupas assumem neutralidade adequada ao ambiente, como vigia num escritório ou macacão numa fábrica. Sentir o Invisível penetra normalmente."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Ofuscação",
+                "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Appears as an ordinary, forgettable stranger while allowing interaction and speech. The presence must be plausible: it does not fool those expecting nobody or hostile to any stranger. It provides no documents or means to pass identity checks."
+              },
+              {
+                "title": "Requirements",
+                "text": "Obfuscate 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "No roll. Observers see an unremarkable face of the same gender, build and height; clothes take a neutral form appropriate to the setting, such as an office security guard or factory overalls. Sense the Unseen penetrates normally."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              },
+              {
+                "title": "General Obfuscate rules",
+                "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "metamorphosis",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Metamorfose",
+        "en": "Metamorphosis"
+      },
+      "aliases": [
+        "Metamorfose",
+        "Metamorphosis"
+      ],
+      "discipline": "Proteanismo",
+      "level": 4,
+      "versions": [
+        {
+          "id": "metamorphosis-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269, 271",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 271,
+              "printedPage": 269
+            },
+            {
+              "pdfPage": 273,
+              "printedPage": 271
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 4
+            },
+            "prerequisites": [
+              "Mudança de Forma"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Concede uma forma animal adicional, agora permitindo mudar de tamanho, como morcego, rato, inseto extraordinariamente grande ou cobra."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Proteanismo 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Use as regras de Mudança de Forma: um turno para transformar-se sem outras ações, recebendo características e limitações do animal; outras Disciplinas dependem do Narrador e Feitiçaria de Sangue não funciona nessa forma."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até encerrar voluntariamente."
+              },
+              {
+                "title": "Poderes pré-requisitos",
+                "text": "Mudança de Forma."
+              },
+              {
+                "title": "Limites de transformação",
+                "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Grants an additional animal form, now allowing size changes, such as a bat, rat, unusually large insect or snake."
+              },
+              {
+                "title": "Requirements",
+                "text": "Protean 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Use Shapechange rules: one turn to transform with no other actions, gaining the animal’s traits and limitations; other Disciplines depend on the Storyteller and Blood Sorcery does not function in that form."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until voluntarily ended."
+              },
+              {
+                "title": "Prerequisite powers",
+                "text": "Mudança de Forma."
+              },
+              {
+                "title": "Transformation limits",
+                "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mist-form",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Forma de Névoa",
+        "en": "Mist Form"
+      },
+      "aliases": [
+        "Forma de Névoa",
+        "Mist Form"
+      ],
+      "discipline": "Proteanismo",
+      "level": 5,
+      "versions": [
+        {
+          "id": "mist-form-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269, 271",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 271,
+              "printedPage": 269
+            },
+            {
+              "pdfPage": 273,
+              "printedPage": 271
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Vira névoa visível que passa por canos e fendas. Ventos fortes afetam seu movimento, mas forças naturais não a dispersam."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Proteanismo 5."
+              },
+              {
+                "title": "Custo",
+                "text": "De um a três Testes de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Sem teste de Habilidade. Transformar leva três turnos; cada Teste de Sangue adicional reduz em um turno. Move-se à velocidade de caminhada e percebe os arredores misticamente como no corpo original. Não fala nem faz contato visual. Só usa Disciplinas sem forma ou presença física, conforme o Narrador. Só sofre dano de luz solar, fogo e ataques sobrenaturais imateriais, como certos Rituais."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até encerrar voluntariamente."
+              },
+              {
+                "title": "Limites de transformação",
+                "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Becomes visible mist that passes through pipes and cracks. Strong winds affect movement but natural forces cannot disperse it."
+              },
+              {
+                "title": "Requirements",
+                "text": "Protean 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One to three Rouse Checks."
+              },
+              {
+                "title": "System",
+                "text": "No Skill roll. Transformation takes three turns; each additional Rouse Check reduces it by one turn. Moves at walking speed and mystically perceives surroundings as in the original body. Cannot speak or make eye contact. Only Disciplines requiring no physical form or presence are available, as the Storyteller decides. Only sunlight, fire and immaterial supernatural attacks such as certain Rituals inflict damage."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until voluntarily ended."
+              },
+              {
+                "title": "Transformation limits",
+                "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "prowess",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Poderio",
+        "en": "Prowess"
+      },
+      "aliases": [
+        "Poderio",
+        "Prowess"
+      ],
+      "discipline": "Potência",
+      "level": 2,
+      "versions": [
+        {
+          "id": "prowess-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 264",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 266,
+              "printedPage": 264
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Amplifica a força obtida do Sangue."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Some Potência ao dano desarmado e a feitos de Força; some metade de Potência, arredondada para cima, ao dano com Armas Brancas."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Amplifies the strength drawn from the Blood."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Add Potence to unarmed damage and feats of Strength; add half Potence, rounded up, to Melee damage."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "shapechange",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mudança de Forma",
+        "en": "Shapechange"
+      },
+      "aliases": [
+        "Mudança de Forma",
+        "Shapechange"
+      ],
+      "discipline": "Proteanismo",
+      "level": 3,
+      "versions": [
+        {
+          "id": "shapechange-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269, 270, 271",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 271,
+              "printedPage": 269
+            },
+            {
+              "pdfPage": 272,
+              "printedPage": 270
+            },
+            {
+              "pdfPage": 273,
+              "printedPage": 271
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Assume uma única forma animal de massa aproximadamente igual à original, normalmente lobo, grande felino ou cobra gigante, ligada ao clã ou presas. Parece exemplar magnífico da espécie, sem sinal sobrenatural evidente."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Proteanismo 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Sem teste. Transformar leva um turno, sem outras ações nesse turno. Recebe Atributos Físicos, sentidos, Habilidades nativas e limitações do animal (p. 373), inclusive comunicação e manipulação de objetos; muitos só carregam algo na boca. Outras Disciplinas dependem do Narrador: geralmente Auspícios, Animalismo, Celeridade, Fortitude, Potência e Proteanismo funcionam; muitos poderes de Dominação, Ofuscação e Presença são problemáticos; Feitiçaria de Sangue é impossível."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até encerrar voluntariamente."
+              },
+              {
+                "title": "Limites de transformação",
+                "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Assumes one animal form of roughly the original mass, usually a wolf, large cat or giant snake associated with clan or prey. It looks like a magnificent specimen without obvious supernatural signs."
+              },
+              {
+                "title": "Requirements",
+                "text": "Protean 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "No roll. Transformation takes one turn with no other actions that turn. Gains the animal’s Physical Attributes, senses, native Skills and limitations (p. 373), including communication and object handling; many animals can carry something only in the mouth. Other Disciplines depend on the Storyteller: generally Auspex, Animalism, Celerity, Fortitude, Potence and Protean work; many Dominate, Obfuscate and Presence powers are problematic; Blood Sorcery is impossible."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until voluntarily ended."
+              },
+              {
+                "title": "Transformation limits",
+                "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "silence-death",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Silêncio da Morte",
+        "en": "Silence of Death"
+      },
+      "aliases": [
+        "Silêncio da Morte",
+        "Silence of Death"
+      ],
+      "discipline": "Ofuscação",
+      "level": 1,
+      "versions": [
+        {
+          "id": "silence-death-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 262,
+              "printedPage": 260
+            },
+            {
+              "pdfPage": 263,
+              "printedPage": 261
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Silencia os sons pessoais. Afeta somente a audição de pessoas a alcance de escuta e não engana microfones ou detectores eletrônicos; exige muito ruído para romper o silêncio."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Ofuscação 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Abafa passos, roupas, pequenas colisões e sons produzidos no próprio espaço pessoal. Fica indetectável para quem só poderia notá-lo por som, como alguém noutro andar. Não abafa sons gerados fora do espaço pessoal, como objetos arremessados ou derrubados e portas batendo. Fora essas exceções, só Sentir o Invisível detecta o usuário por esse meio."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Ofuscação",
+                "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Silences personal sounds. Affects only the hearing of people within earshot and does not fool microphones or electronic detectors; substantial noise is needed to break the silence."
+              },
+              {
+                "title": "Requirements",
+                "text": "Obfuscate 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "Muffles footsteps, clothing, minor collisions and sounds within personal space. The user is undetectable to someone who could notice them only by sound, such as a witness on another floor. It does not silence sounds generated outside personal space, such as thrown or dropped objects and slamming doors. Apart from these exceptions, only Sense the Unseen detects the user through that medium."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              },
+              {
+                "title": "General Obfuscate rules",
+                "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "soaring-leap",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Salto Vertiginoso",
+        "en": "Soaring Leap"
+      },
+      "aliases": [
+        "Salto Vertiginoso",
+        "Soaring Leap"
+      ],
+      "discipline": "Potência",
+      "level": 1,
+      "versions": [
+        {
+          "id": "soaring-leap-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 264",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 266,
+              "printedPage": 264
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Força sobrenatural permite saltos muito além dos limites humanos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Salta verticalmente até três vezes Potência em metros e horizontalmente até cinco vezes Potência, sem precisar de impulso."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Supernatural strength allows leaps far beyond human limits."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "Leaps vertically up to three times Potence in meters and horizontally up to five times Potence, with no running start."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "spark-rage",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Centelha de Fúria",
+        "en": "Spark of Rage"
+      },
+      "aliases": [
+        "Centelha de Fúria",
+        "Spark of Rage"
+      ],
+      "discipline": "Potência",
+      "level": 3,
+      "versions": [
+        {
+          "id": "spark-rage-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 264",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 266,
+              "printedPage": 264
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 3,
+              "Presença": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Combina Potência e Presença para incitar violência ou Frenesi. Uma multidão irritada pode voltar-se contra o usuário."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 3 e Presença 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Manipulação + Potência contra Autocontrole + Inteligência de outro vampiro."
+              },
+              {
+                "title": "Sistema",
+                "text": "Enquanto ativo, some Potência às tentativas de irritar ou incitar pessoa ou multidão à violência. Também pode ativar e vencer o conflito acima para obrigar outro vampiro a resistir a Frenesi de Fúria, Dificuldade 3."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Combines Potence and Presence to incite violence or frenzy. An enraged crowd may turn on the user."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 3 and Presence 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Manipulation + Potence opposed by another vampire’s Composure + Intelligence."
+              },
+              {
+                "title": "System",
+                "text": "While active, add Potence to attempts to anger or incite a person or crowd to violence. May also activate and win the contest above to force another vampire to resist fury frenzy at Difficulty 3."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "star-magnetism",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Magnetismo de Estrela",
+        "en": "Star Magnetism"
+      },
+      "aliases": [
+        "Magnetismo de Estrela",
+        "Star Magnetism"
+      ],
+      "discipline": "Presença",
+      "level": 5,
+      "versions": [
+        {
+          "id": "star-magnetism-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 268",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 268,
+              "printedPage": 266
+            },
+            {
+              "pdfPage": 270,
+              "printedPage": 268
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Permite afetar pessoas por transmissão ao vivo ou telefone, mas não por imagens ou mensagens gravadas."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue adicional ao poder usado."
+              },
+              {
+                "title": "Sistema",
+                "text": "Fascínio, Amedrontar e Transe funcionam por transmissão ao vivo ou telefone. Para Transe, pronuncie claramente o nome da vítima, pois afeta uma pessoa por vez. Os demais espectadores acham o usuário atraente de modo apenas natural."
+              },
+              {
+                "title": "Duração",
+                "text": "A do poder usado."
+              },
+              {
+                "title": "Regras gerais de Presença",
+                "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Affects people through live broadcasts or telephone, but not recorded images or messages."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One additional Rouse Check beyond the power used."
+              },
+              {
+                "title": "System",
+                "text": "Awe, Daunt and Entrancement work through live broadcasts or telephone. For Entrancement, clearly speak the victim’s name because it affects one person at a time. Other viewers find the user attractive only in a mundane way."
+              },
+              {
+                "title": "Duration",
+                "text": "As the power used."
+              },
+              {
+                "title": "General Presence rules",
+                "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "summon",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Convocar",
+        "en": "Summon"
+      },
+      "aliases": [
+        "Convocar",
+        "Summon"
+      ],
+      "discipline": "Presença",
+      "level": 4,
+      "versions": [
+        {
+          "id": "summon-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 266, 268",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 268,
+              "printedPage": 266
+            },
+            {
+              "pdfPage": 270,
+              "printedPage": 268
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Convoca mortal ou vampiro que já tenha sido afetado por seu Fascínio, Transe ou Majestade, ou provado seu Sangue. O alvo conhece a identidade e localização atual do convocador."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Manipulação + Presença contra Autocontrole + Inteligência."
+              },
+              {
+                "title": "Sistema",
+                "text": "Concentre-se por cinco minutos pensando no alvo e teste. Vitória faz o alvo ouvir o chamado, podendo ou não atendê-lo. Crítico o faz chegar o mais rápido possível, salvo risco imediato ao bem-estar. Sente atração para ir, mas não assume perigo físico ou financeiro: não vende a casa, compra passagem ou falta a reunião vital, embora possa faltar ao trabalho ou compromisso social. Pode repetir noite após noite, inclusive para alvos distantes ou relutantes."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite; depois a influência diminui."
+              },
+              {
+                "title": "Regras gerais de Presença",
+                "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Calls a mortal or vampire previously affected by your Awe, Entrancement or Majesty, or who has tasted your Blood. The target knows the summoner’s identity and current location."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Manipulation + Presence opposed by Composure + Intelligence."
+              },
+              {
+                "title": "System",
+                "text": "Concentrate for five minutes on the target and roll. A win makes them hear the call, which they may or may not heed. A critical brings them as quickly as possible unless their immediate well-being is at risk. They feel drawn to come but avoid physical or financial danger: they do not sell their house, buy a ticket or miss a vital meeting, though work or social obligations may be missed. May repeat night after night for distant or reluctant targets."
+              },
+              {
+                "title": "Duration",
+                "text": "One night, after which the influence fades."
+              },
+              {
+                "title": "General Presence rules",
+                "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "uncanny-grip",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Pegada Sobrenatural",
+        "en": "Uncanny Grip"
+      },
+      "aliases": [
+        "Pegada Sobrenatural",
+        "Uncanny Grip"
+      ],
+      "discipline": "Potência",
+      "level": 3,
+      "versions": [
+        {
+          "id": "uncanny-grip-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 265",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 267,
+              "printedPage": 265
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Crava dedos das mãos ou pés em superfícies para escalar ou ficar pendurado, deixando marcas evidentes de força bruta."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Sucesso automático em testes de Habilidade para escalar superfícies não metálicas. Cobre, bronze e metais macios podem ser permitidos pelo Narrador. Vidro fino pode quebrar, normalmente não o de fachadas comerciais modernas. Pode permanecer pendurado numa parede ou teto por uma cena; usar os pés exige estar descalço. Rastros são detectáveis com Inteligência + Investigação, Dificuldade 2; no vidro, não exige teste."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Digs fingers or toes into surfaces to climb or hang, leaving obvious marks of brute force."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Automatically succeeds on Skill tests to climb non-metal surfaces. Copper, bronze and soft metals may be allowed by the Storyteller. Thin glass may break, generally not modern commercial facade glass. Can hang from a wall or ceiling for a scene; using feet requires being barefoot. Traces are detected with Intelligence + Investigation, Difficulty 2; traces on glass need no roll."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "unfettered-heart",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Coração Vagante",
+        "en": "The Unfettered Heart"
+      },
+      "aliases": [
+        "Coração Vagante",
+        "The Unfettered Heart",
+        "Unfettered Heart"
+      ],
+      "discipline": "Proteanismo",
+      "level": 5,
+      "versions": [
+        {
+          "id": "unfettered-heart-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269, 271",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 271,
+              "printedPage": 269
+            },
+            {
+              "pdfPage": 273,
+              "printedPage": 271
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O coração move-se lentamente pelo peito, dificultando estacamento e permitindo expulsar uma estaca."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Proteanismo 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito para a proteção; um Teste de Sangue por tentativa de expulsar a estaca."
+              },
+              {
+                "title": "Parada",
+                "text": "Força + Determinação, Dificuldade 5, uma vez por hora para expulsar estaca; não pode tentar em Fome 5."
+              },
+              {
+                "title": "Sistema",
+                "text": "Aumente em 3 a Dificuldade de estacamento fora de combate. Em combate com Armas Brancas, só uma vitória crítica do atacante com estaca alcança o coração. Se já estacado, vencer o teste acima expulsa a estaca e encerra a paralisia."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              },
+              {
+                "title": "Limites de transformação",
+                "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The heart slowly moves within the chest, making staking harder and allowing a stake to be expelled."
+              },
+              {
+                "title": "Requirements",
+                "text": "Protean 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Free protection; one Rouse Check per attempt to expel a stake."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Strength + Resolve, Difficulty 5, once per hour to expel a stake; cannot attempt at Hunger 5."
+              },
+              {
+                "title": "System",
+                "text": "Increase non-combat staking Difficulty by 3. In Melee combat, only a critical win by the stake-wielding attacker reaches the heart. If already staked, winning the roll above expels the stake and ends paralysis."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              },
+              {
+                "title": "Transformation limits",
+                "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "unseen-passage",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Passagem Invisível",
+        "en": "Unseen Passage"
+      },
+      "aliases": [
+        "Passagem Invisível",
+        "Unseen Passage"
+      ],
+      "discipline": "Ofuscação",
+      "level": 2,
+      "versions": [
+        {
+          "id": "unseen-passage-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 262,
+              "printedPage": 260
+            },
+            {
+              "pdfPage": 263,
+              "printedPage": 261
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Permite movimentar-se funcionalmente invisível dentro dos limites de Ofuscação."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Ofuscação 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Funciona automaticamente enquanto não emitir odor predominante ou som mais alto que um sussurro. Só um observador cuja atenção seja atraída pode testar detecção; Sentir o Invisível funciona normalmente. Não pode ativar para desaparecer enquanto estiver sendo observado: nesse caso falha automaticamente."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até ser detectado."
+              },
+              {
+                "title": "Regras gerais de Ofuscação",
+                "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Allows moving about while functionally invisible within Obfuscate’s limits."
+              },
+              {
+                "title": "Requirements",
+                "text": "Obfuscate 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Works automatically while producing neither an overpowering odor nor sound louder than a whisper. Only an observer whose attention is drawn can roll for detection; Sense the Unseen works normally. It cannot be activated to disappear while observed: that attempt automatically fails."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until detected."
+              },
+              {
+                "title": "General Obfuscate rules",
+                "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "vanish",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Desaparecer",
+        "en": "Vanish"
+      },
+      "aliases": [
+        "Desaparecer",
+        "Vanish"
+      ],
+      "discipline": "Ofuscação",
+      "level": 4,
+      "versions": [
+        {
+          "id": "vanish-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260, 261, 262",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 262,
+              "printedPage": 260
+            },
+            {
+              "pdfPage": 263,
+              "printedPage": 261
+            },
+            {
+              "pdfPage": 264,
+              "printedPage": 262
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 4
+            },
+            "prerequisites": [
+              "Cloak of Shadows"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Permite ativar Manto de Sombras ou Passagem Invisível enquanto observado e torna nebulosa a lembrança do encontro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Ofuscação 4."
+              },
+              {
+                "title": "Custo",
+                "text": "O custo do poder ampliado."
+              },
+              {
+                "title": "Parada",
+                "text": "Raciocínio + Ofuscação contra Raciocínio + Percepção."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ao sumir diante de um mortal, uma vitória faz o observador questionar se o usuário esteve ali e embaralha a memória; um crítico apaga completamente sua lembrança. Não altera memórias de vampiros, mas qualquer vitória o oculta como se não estivesse observado. Só uma vez por cena."
+              },
+              {
+                "title": "Duração",
+                "text": "A do poder ampliado."
+              },
+              {
+                "title": "Poderes pré-requisitos",
+                "text": "Cloak of Shadows."
+              },
+              {
+                "title": "Regras gerais de Ofuscação",
+                "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Allows activating Cloak of Shadows or Unseen Passage while observed and clouds memory of the encounter."
+              },
+              {
+                "title": "Requirements",
+                "text": "Obfuscate 4."
+              },
+              {
+                "title": "Cost",
+                "text": "The amplified power’s cost."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Wits + Obfuscate opposed by Wits + Awareness."
+              },
+              {
+                "title": "System",
+                "text": "When vanishing before a mortal, a win makes the observer question whether the user was there and clouds the memory; a critical completely erases their recollection. It does not change vampire memories, but any win conceals the user as if unobserved. Only once per scene."
+              },
+              {
+                "title": "Duration",
+                "text": "As the amplified power."
+              },
+              {
+                "title": "Prerequisite powers",
+                "text": "Cloak of Shadows."
+              },
+              {
+                "title": "General Obfuscate rules",
+                "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "weight-feather",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Peso Pena",
+        "en": "Weight of the Feather"
+      },
+      "aliases": [
+        "Peso Pena",
+        "Weight of the Feather"
+      ],
+      "discipline": "Proteanismo",
+      "level": 1,
+      "versions": [
+        {
+          "id": "weight-feather-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 269",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 271,
+              "printedPage": 269
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Reduz massa e densidade efetivas quase a zero. Evita certos sensores de pressão e impactos; não amplia saltos, pois a força diminui proporcionalmente."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Proteanismo 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Parada",
+                "text": "Raciocínio + Sobrevivência, Dificuldade 3, para ativar como reação, por exemplo durante uma queda; com tempo para preparar, sem teste."
+              },
+              {
+                "title": "Sistema",
+                "text": "Enquanto ativo, é imune a dano de quedas, colisões e impacto por ser arremessado. Pode evitar dispositivos de pressão, conforme o Narrador."
+              },
+              {
+                "title": "Duração",
+                "text": "Quanto desejar."
+              },
+              {
+                "title": "Limites de transformação",
+                "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Reduces effective mass and density almost to zero. Avoids some pressure sensors and impacts; does not extend leaps because strength decreases proportionally."
+              },
+              {
+                "title": "Requirements",
+                "text": "Protean 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Wits + Survival, Difficulty 3, to activate as a reaction, such as while falling; no roll with preparation time."
+              },
+              {
+                "title": "System",
+                "text": "While active, immune to damage from falls, collisions and being thrown. May avoid pressure-triggered devices at the Storyteller’s discretion."
+              },
+              {
+                "title": "Duration",
+                "text": "As long as desired."
+              },
+              {
+                "title": "Transformation limits",
+                "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

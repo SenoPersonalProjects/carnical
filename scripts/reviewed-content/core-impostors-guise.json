@@ -1,0 +1,116 @@
+{
+  "id": "impostors-guise",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Disfarce do Impostor",
+    "en": "Impostor’s Guise"
+  },
+  "aliases": [
+    "Disfarce do Impostor",
+    "Impostor’s Guise",
+    "Impostor's Guise"
+  ],
+  "discipline": "Ofuscação",
+  "level": 5,
+  "versions": [
+    {
+      "id": "impostors-guise-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 260, 261, 263",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 262,
+          "printedPage": 260
+        },
+        {
+          "pdfPage": 263,
+          "printedPage": 261
+        },
+        {
+          "pdfPage": 265,
+          "printedPage": 263
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 5
+        },
+        "prerequisites": [
+          "Máscara de Mil Faces"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Imita um indivíduo humano específico de qualquer gênero ou constituição, após observá-lo cuidadosamente. Não copia aparência animal."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Ofuscação, Dificuldade 4, em segredo pelo Narrador; Manipulação + Performance para voz e maneirismos."
+          },
+          {
+            "title": "Sistema",
+            "text": "Estude o rosto por pelo menos cinco minutos sob ângulos diferentes; mais dez minutos permitem estudar voz e maneirismos. Falha produz semelhança pouco convincente, percebida automaticamente por conhecidos próximos. Vitória cria ilusão convincente, mas exige Manipulação + Performance para personificar a fala e os modos. Um crítico produz ilusão perfeita sem outras rolagens. Sentir o Invisível penetra conforme as regras gerais."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Poderes pré-requisitos",
+            "text": "Máscara de Mil Faces."
+          },
+          {
+            "title": "Regras gerais de Ofuscação",
+            "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Impersonates a specific human individual of any gender or build after careful observation. Cannot copy animal appearance."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Wits + Obfuscate, Difficulty 4, secretly rolled by the Storyteller; Manipulation + Performance for voice and mannerisms."
+          },
+          {
+            "title": "System",
+            "text": "Study the face for at least five minutes from different angles; another ten minutes allows studying voice and mannerisms. Failure produces an unconvincing likeness automatically noticed by close acquaintances. A win creates a convincing illusion but requires Manipulation + Performance for speech and behavior. A critical creates a perfect illusion without further rolls. Sense the Unseen penetrates under the general rules."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          },
+          {
+            "title": "Prerequisite powers",
+            "text": "Máscara de Mil Faces."
+          },
+          {
+            "title": "General Obfuscate rules",
+            "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+          }
+        ]
+      }
+    }
+  ]
+}

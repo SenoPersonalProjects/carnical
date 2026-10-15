@@ -1,0 +1,115 @@
+{
+  "id": "vanish",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Desaparecer",
+    "en": "Vanish"
+  },
+  "aliases": [
+    "Desaparecer",
+    "Vanish"
+  ],
+  "discipline": "Ofuscação",
+  "level": 4,
+  "versions": [
+    {
+      "id": "vanish-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 260, 261, 262",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 262,
+          "printedPage": 260
+        },
+        {
+          "pdfPage": 263,
+          "printedPage": 261
+        },
+        {
+          "pdfPage": 264,
+          "printedPage": 262
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 4
+        },
+        "prerequisites": [
+          "Cloak of Shadows"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite ativar Manto de Sombras ou Passagem Invisível enquanto observado e torna nebulosa a lembrança do encontro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 4."
+          },
+          {
+            "title": "Custo",
+            "text": "O custo do poder ampliado."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Ofuscação contra Raciocínio + Percepção."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao sumir diante de um mortal, uma vitória faz o observador questionar se o usuário esteve ali e embaralha a memória; um crítico apaga completamente sua lembrança. Não altera memórias de vampiros, mas qualquer vitória o oculta como se não estivesse observado. Só uma vez por cena."
+          },
+          {
+            "title": "Duração",
+            "text": "A do poder ampliado."
+          },
+          {
+            "title": "Poderes pré-requisitos",
+            "text": "Cloak of Shadows."
+          },
+          {
+            "title": "Regras gerais de Ofuscação",
+            "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Allows activating Cloak of Shadows or Unseen Passage while observed and clouds memory of the encounter."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 4."
+          },
+          {
+            "title": "Cost",
+            "text": "The amplified power’s cost."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Wits + Obfuscate opposed by Wits + Awareness."
+          },
+          {
+            "title": "System",
+            "text": "When vanishing before a mortal, a win makes the observer question whether the user was there and clouds the memory; a critical completely erases their recollection. It does not change vampire memories, but any win conceals the user as if unobserved. Only once per scene."
+          },
+          {
+            "title": "Duration",
+            "text": "As the amplified power."
+          },
+          {
+            "title": "Prerequisite powers",
+            "text": "Cloak of Shadows."
+          },
+          {
+            "title": "General Obfuscate rules",
+            "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+          }
+        ]
+      }
+    }
+  ]
+}

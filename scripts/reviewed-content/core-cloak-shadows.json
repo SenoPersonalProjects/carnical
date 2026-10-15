@@ -1,0 +1,92 @@
+{
+  "id": "cloak-shadows",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Manto de Sombras",
+    "en": "Cloak of Shadows"
+  },
+  "aliases": [
+    "Manto de Sombras",
+    "Cloak of Shadows"
+  ],
+  "discipline": "Ofuscação",
+  "level": 1,
+  "versions": [
+    {
+      "id": "cloak-shadows-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 260, 261",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 262,
+          "printedPage": 260
+        },
+        {
+          "pdfPage": 263,
+          "printedPage": 261
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Mistura-se aos arredores enquanto fica perfeitamente parado e silencioso, com alguma cobertura."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Use as regras gerais de Ofuscação. Só meios mecânicos ou sobrenaturais podem detectá-lo enquanto as condições forem mantidas. Mover-se ou ser detectado encerra o efeito."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena, ou até mover-se ou ser detectado."
+          },
+          {
+            "title": "Regras gerais de Ofuscação",
+            "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Blends into the surroundings while completely motionless and silent, with some cover."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Use the general Obfuscate rules. Only mechanical or supernatural means can detect the user while the conditions hold. Moving or being detected ends the effect."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene, or until moving or detection."
+          },
+          {
+            "title": "General Obfuscate rules",
+            "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+          }
+        ]
+      }
+    }
+  ]
+}

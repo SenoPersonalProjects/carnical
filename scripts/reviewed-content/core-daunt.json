@@ -1,0 +1,88 @@
+{
+  "id": "daunt",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Amedrontar",
+    "en": "Daunt"
+  },
+  "aliases": [
+    "Amedrontar",
+    "Daunt"
+  ],
+  "discipline": "Presença",
+  "level": 1,
+  "versions": [
+    {
+      "id": "daunt-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 266",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 266
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Uma aura ameaçadora repele mortais e faz vampiros hesitarem antes de agir contra o usuário."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Some Presença às rolagens de Intimidação. Atacar o usuário exige Determinação + Autocontrole, Dificuldade 2. Não pode usar simultaneamente com Fascínio."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até encerrar voluntariamente."
+          },
+          {
+            "title": "Regras gerais de Presença",
+            "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A threatening aura repels mortals and makes vampires hesitate before acting against the user."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Add Presence to Intimidation rolls. Attacking the user requires Resolve + Composure, Difficulty 2. Cannot be used simultaneously with Awe."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until voluntarily ended."
+          },
+          {
+            "title": "General Presence rules",
+            "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+          }
+        ]
+      }
+    }
+  ]
+}

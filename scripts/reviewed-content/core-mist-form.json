@@ -1,0 +1,92 @@
+{
+  "id": "mist-form",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Forma de Névoa",
+    "en": "Mist Form"
+  },
+  "aliases": [
+    "Forma de Névoa",
+    "Mist Form"
+  ],
+  "discipline": "Proteanismo",
+  "level": 5,
+  "versions": [
+    {
+      "id": "mist-form-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 269, 271",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 269
+        },
+        {
+          "pdfPage": 273,
+          "printedPage": 271
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Vira névoa visível que passa por canos e fendas. Ventos fortes afetam seu movimento, mas forças naturais não a dispersam."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Proteanismo 5."
+          },
+          {
+            "title": "Custo",
+            "text": "De um a três Testes de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sem teste de Habilidade. Transformar leva três turnos; cada Teste de Sangue adicional reduz em um turno. Move-se à velocidade de caminhada e percebe os arredores misticamente como no corpo original. Não fala nem faz contato visual. Só usa Disciplinas sem forma ou presença física, conforme o Narrador. Só sofre dano de luz solar, fogo e ataques sobrenaturais imateriais, como certos Rituais."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até encerrar voluntariamente."
+          },
+          {
+            "title": "Limites de transformação",
+            "text": "Poderes de Proteanismo que alteram ou transformam o corpo também afetam roupas, objetos engolidos e itens de vestuário que pesem no máximo algumas gramas. Objetos carregados maiores, incluindo mochilas e outras bolsas, não são transformados."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Becomes visible mist that passes through pipes and cracks. Strong winds affect movement but natural forces cannot disperse it."
+          },
+          {
+            "title": "Requirements",
+            "text": "Protean 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One to three Rouse Checks."
+          },
+          {
+            "title": "System",
+            "text": "No Skill roll. Transformation takes three turns; each additional Rouse Check reduces it by one turn. Moves at walking speed and mystically perceives surroundings as in the original body. Cannot speak or make eye contact. Only Disciplines requiring no physical form or presence are available, as the Storyteller decides. Only sunlight, fire and immaterial supernatural attacks such as certain Rituals inflict damage."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until voluntarily ended."
+          },
+          {
+            "title": "Transformation limits",
+            "text": "Protean powers that alter or transform the body also affect clothing, swallowed objects and worn items weighing at most a few grams. Larger carried objects, including backpacks and other bags, are not transformed."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "lingering-kiss",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Beijo Persistente",
+    "en": "Lingering Kiss"
+  },
+  "aliases": [
+    "Beijo Persistente",
+    "Lingering Kiss",
+    "Beijo Indelével"
+  ],
+  "discipline": "Presença",
+  "level": 2,
+  "versions": [
+    {
+      "id": "lingering-kiss-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 266, 267",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 266
+        },
+        {
+          "pdfPage": 269,
+          "printedPage": 267
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Torna o Beijo fortalecedor e viciante. A vítima pode perseguir o usuário por nova alimentação, colocando-o em risco de Laço quando a vítima é vampira."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Escolha ativar a cada alimentação que sacie ao menos 1 Fome. A vítima escolhe um Atributo Social e recebe bônus igual à metade da Presença do usuário, arredondada para cima, por uma noite. Depois sofre abstinência: ações que não busquem nova dose recebem penalidade igual ao bônus inicial. Pode gastar Vontade para ignorar a penalidade por uma cena. A abstinência desaparece após noites iguais à Presença do usuário. Usuário Enlaçado só pode afetar mortais, não vampiros. Vampiros com a Qualidade À Prova de Laço não podem adquirir este poder."
+          },
+          {
+            "title": "Duração",
+            "text": "Bônus por uma noite; duração indicada do poder: noites iguais à Presença, com a abstinência descrita acima."
+          },
+          {
+            "title": "Regras gerais de Presença",
+            "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Makes the Kiss empowering and addictive. A victim may pursue the user for another feeding, risking a Blood Bond when the victim is a vampire."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 2."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Choose whether to activate at each feeding that slakes at least 1 Hunger. The victim chooses a Social Attribute and gains a bonus equal to half the user’s Presence, rounded up, for one night. Withdrawal then penalizes all actions not seeking another dose by the same amount. Willpower can ignore the penalty for one scene. Withdrawal ends after nights equal to the user’s Presence. A Blood Bound user can affect mortals only, not vampires. Vampires with the Unbondable Merit cannot acquire this power."
+          },
+          {
+            "title": "Duration",
+            "text": "One-night bonus; the listed power duration is nights equal to Presence, with withdrawal as described above."
+          },
+          {
+            "title": "General Presence rules",
+            "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+          }
+        ]
+      }
+    }
+  ]
+}

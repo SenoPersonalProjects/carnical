@@ -1,0 +1,100 @@
+{
+  "id": "summon",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Convocar",
+    "en": "Summon"
+  },
+  "aliases": [
+    "Convocar",
+    "Summon"
+  ],
+  "discipline": "Presença",
+  "level": 4,
+  "versions": [
+    {
+      "id": "summon-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 266, 268",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 266
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 268
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Convoca mortal ou vampiro que já tenha sido afetado por seu Fascínio, Transe ou Majestade, ou provado seu Sangue. O alvo conhece a identidade e localização atual do convocador."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Presença contra Autocontrole + Inteligência."
+          },
+          {
+            "title": "Sistema",
+            "text": "Concentre-se por cinco minutos pensando no alvo e teste. Vitória faz o alvo ouvir o chamado, podendo ou não atendê-lo. Crítico o faz chegar o mais rápido possível, salvo risco imediato ao bem-estar. Sente atração para ir, mas não assume perigo físico ou financeiro: não vende a casa, compra passagem ou falta a reunião vital, embora possa faltar ao trabalho ou compromisso social. Pode repetir noite após noite, inclusive para alvos distantes ou relutantes."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite; depois a influência diminui."
+          },
+          {
+            "title": "Regras gerais de Presença",
+            "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Calls a mortal or vampire previously affected by your Awe, Entrancement or Majesty, or who has tasted your Blood. The target knows the summoner’s identity and current location."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Presence opposed by Composure + Intelligence."
+          },
+          {
+            "title": "System",
+            "text": "Concentrate for five minutes on the target and roll. A win makes them hear the call, which they may or may not heed. A critical brings them as quickly as possible unless their immediate well-being is at risk. They feel drawn to come but avoid physical or financial danger: they do not sell their house, buy a ticket or miss a vital meeting, though work or social obligations may be missed. May repeat night after night for distant or reluctant targets."
+          },
+          {
+            "title": "Duration",
+            "text": "One night, after which the influence fades."
+          },
+          {
+            "title": "General Presence rules",
+            "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+          }
+        ]
+      }
+    }
+  ]
+}

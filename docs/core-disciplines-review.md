@@ -33,3 +33,28 @@ trabalho pendente.
 Gerador editorial: `scripts/review-core-disciplines.py`. Verificação das regras
 de seleção e preservação das 213 entradas anteriores:
 `scripts/check-core-disciplines.mjs`.
+
+## Segundo bloco: 33 poderes
+
+PDF 262–273 (impressas 260–271): oito poderes de Ofuscação, nove de Potência,
+nove de Presença e sete de Proteanismo. Fusão com a Terra já estava revisada e
+foi preservada. Os nomes do livro “Beijo Indelével” e “Beijo Selvagem” foram
+incluídos como alternativas para os nomes existentes. As regras gerais de
+Ofuscação, Presença e transformação de Proteanismo acompanham as entradas.
+
+Desaparecer exige Manto de Sombras; Disfarce do Impostor exige Máscara de Mil
+Faces; Metamorfose exige Mudança de Forma. Os requisitos aceitam nomes nos dois
+idiomas. Centelha de Fúria exige Presença 3 e Voz Irresistível exige Dominação 1.
+“Manto de Sombras” de Oblívio (Shadow Cloak) não satisfaz o requisito de
+Desaparecer: ele exige o de Ofuscação (Cloak of Shadows). A verificação resolve
+nomes também pela Disciplina em que a escolha foi registrada.
+
+Ocultar continua pendente: o texto fornecido permite esconder um carro e depois
+proíbe “qualquer automóvel (como um carro em movimento)”. Foi solicitado ao
+usuário o original em inglês ou errata. Fortificar a Fachada Interior também
+aguarda confirmação da frase sobre a parada usada para “acionar” o poder
+adversário. Nenhuma interpretação desses trechos foi publicada como regra.
+
+Geradores: `review-core-shadow-strength.py` e `review-core-presence-protean.py`.
+Verificação: `check-core-shadow-strength.mjs`, incluindo preservação das 249
+entradas publicadas anteriormente.

@@ -1,0 +1,100 @@
+{
+  "id": "majesty",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Majestade",
+    "en": "Majesty"
+  },
+  "aliases": [
+    "Majestade",
+    "Majesty"
+  ],
+  "discipline": "Presença",
+  "level": 5,
+  "versions": [
+    {
+      "id": "majesty-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 266, 268",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 266
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 268
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Beleza, monstruosidade ou autoridade sobrenaturais deixam observadores incapazes de falar ou agir contra o usuário."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Dois Testes de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Carisma + Presença contra Autocontrole + Determinação de quem tenta opor-se."
+          },
+          {
+            "title": "Sistema",
+            "text": "Presentes só podem contemplar ou desviar o olhar com medo e submissão. Para agir contra o usuário, exceto por autopreservação, é preciso vencer o conflito de Autocontrole + Determinação contra Carisma + Presença. Vitória dá um turno livre mais um por ponto de margem; somente crítico resiste pela cena inteira."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Presença",
+            "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Supernatural beauty, monstrosity or authority leaves observers unable to speak or act against the user."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 5."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Charisma + Presence opposed by Composure + Resolve of someone attempting opposition."
+          },
+          {
+            "title": "System",
+            "text": "Those present can only stare or avert their gaze in fear and submission. Acting against the user, except for self-preservation, requires winning Composure + Resolve against Charisma + Presence. A win gives one free turn plus one per point of margin; only a critical resists for the entire scene."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          },
+          {
+            "title": "General Presence rules",
+            "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+          }
+        ]
+      }
+    }
+  ]
+}

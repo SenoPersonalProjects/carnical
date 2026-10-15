@@ -1,0 +1,92 @@
+{
+  "id": "star-magnetism",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Magnetismo de Estrela",
+    "en": "Star Magnetism"
+  },
+  "aliases": [
+    "Magnetismo de Estrela",
+    "Star Magnetism"
+  ],
+  "discipline": "Presença",
+  "level": 5,
+  "versions": [
+    {
+      "id": "star-magnetism-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 266, 268",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 266
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 268
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite afetar pessoas por transmissão ao vivo ou telefone, mas não por imagens ou mensagens gravadas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue adicional ao poder usado."
+          },
+          {
+            "title": "Sistema",
+            "text": "Fascínio, Amedrontar e Transe funcionam por transmissão ao vivo ou telefone. Para Transe, pronuncie claramente o nome da vítima, pois afeta uma pessoa por vez. Os demais espectadores acham o usuário atraente de modo apenas natural."
+          },
+          {
+            "title": "Duração",
+            "text": "A do poder usado."
+          },
+          {
+            "title": "Regras gerais de Presença",
+            "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Affects people through live broadcasts or telephone, but not recorded images or messages."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One additional Rouse Check beyond the power used."
+          },
+          {
+            "title": "System",
+            "text": "Awe, Daunt and Entrancement work through live broadcasts or telephone. For Entrancement, clearly speak the victim’s name because it affects one person at a time. Other viewers find the user attractive only in a mundane way."
+          },
+          {
+            "title": "Duration",
+            "text": "As the power used."
+          },
+          {
+            "title": "General Presence rules",
+            "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+          }
+        ]
+      }
+    }
+  ]
+}

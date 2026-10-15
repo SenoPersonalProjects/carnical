@@ -1,0 +1,92 @@
+{
+  "id": "silence-death",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Silêncio da Morte",
+    "en": "Silence of Death"
+  },
+  "aliases": [
+    "Silêncio da Morte",
+    "Silence of Death"
+  ],
+  "discipline": "Ofuscação",
+  "level": 1,
+  "versions": [
+    {
+      "id": "silence-death-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 260, 261",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 262,
+          "printedPage": 260
+        },
+        {
+          "pdfPage": 263,
+          "printedPage": 261
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Silencia os sons pessoais. Afeta somente a audição de pessoas a alcance de escuta e não engana microfones ou detectores eletrônicos; exige muito ruído para romper o silêncio."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Abafa passos, roupas, pequenas colisões e sons produzidos no próprio espaço pessoal. Fica indetectável para quem só poderia notá-lo por som, como alguém noutro andar. Não abafa sons gerados fora do espaço pessoal, como objetos arremessados ou derrubados e portas batendo. Fora essas exceções, só Sentir o Invisível detecta o usuário por esse meio."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Ofuscação",
+            "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Silences personal sounds. Affects only the hearing of people within earshot and does not fool microphones or electronic detectors; substantial noise is needed to break the silence."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Muffles footsteps, clothing, minor collisions and sounds within personal space. The user is undetectable to someone who could notice them only by sound, such as a witness on another floor. It does not silence sounds generated outside personal space, such as thrown or dropped objects and slamming doors. Apart from these exceptions, only Sense the Unseen detects the user through that medium."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          },
+          {
+            "title": "General Obfuscate rules",
+            "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+          }
+        ]
+      }
+    }
+  ]
+}

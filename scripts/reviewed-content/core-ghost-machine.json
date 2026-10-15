@@ -1,0 +1,96 @@
+{
+  "id": "ghost-machine",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Fantasma na Máquina",
+    "en": "Ghost in the Machine"
+  },
+  "aliases": [
+    "Fantasma na Máquina",
+    "Ghost in the Machine"
+  ],
+  "discipline": "Ofuscação",
+  "level": 3,
+  "versions": [
+    {
+      "id": "ghost-machine-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 260, 261, 262",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 262,
+          "printedPage": 260
+        },
+        {
+          "pdfPage": 263,
+          "printedPage": 261
+        },
+        {
+          "pdfPage": 264,
+          "printedPage": 262
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Estende Ofuscação a imagens eletrônicas ao vivo. Gravações e fotos posteriores ficam indistintas, e sistemas automáticos tendem a falhar perto do usuário."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum custo adicional."
+          },
+          {
+            "title": "Sistema",
+            "text": "Transmissão ao vivo não exige teste extra: trate quem observa a tela como presente no local. Aumente em 3 a Dificuldade para identificar o usuário em fotos, filmes e gravações feitos com Ofuscação ativa. Adicione 3 dados às paradas usadas para contornar vigilância eletrônica automatizada e contramedidas."
+          },
+          {
+            "title": "Duração",
+            "text": "A do poder utilizado."
+          },
+          {
+            "title": "Regras gerais de Ofuscação",
+            "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Extends Obfuscate to live electronic images. Later recordings and photographs look indistinct, and automated systems tend to malfunction nearby."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 3."
+          },
+          {
+            "title": "Cost",
+            "text": "No additional cost."
+          },
+          {
+            "title": "System",
+            "text": "Live transmission requires no extra roll: treat screen observers as physically present. Increase the Difficulty to identify the user in photographs, film or recordings made while Obfuscated by 3. Add 3 dice to pools used to bypass automated electronic surveillance and countermeasures."
+          },
+          {
+            "title": "Duration",
+            "text": "As the power used."
+          },
+          {
+            "title": "General Obfuscate rules",
+            "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+          }
+        ]
+      }
+    }
+  ]
+}

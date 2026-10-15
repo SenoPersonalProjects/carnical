@@ -2,7 +2,7 @@ import type {PowerRule} from "../game-rules";
 import {sourcebookForLibraryId} from "../creation-sources";
 import {contentById,resolveContent,sameContent} from "./resolve";
 export function knowsPower(known:Record<string,string[]>,required:string){
-  return Object.values(known).some(names=>names.some(name=>sameContent(name,required,{kind:"power"})));
+  return Object.entries(known).some(([discipline,names])=>names.some(name=>sameContent(name,required,{kind:"power",discipline})));
 }
 export function powerRequirementReasons(power:PowerRule,known:Record<string,string[]>,clan?:string){
   const reasons:string[]=[];

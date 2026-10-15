@@ -1,0 +1,104 @@
+{
+  "id": "entrancement",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Transe",
+    "en": "Entrancement"
+  },
+  "aliases": [
+    "Transe",
+    "Entrancement"
+  ],
+  "discipline": "Presença",
+  "level": 3,
+  "versions": [
+    {
+      "id": "entrancement-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 266, 267, 268",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 266
+        },
+        {
+          "pdfPage": 269,
+          "printedPage": 267
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 268
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Concentra atração sobrenatural numa pessoa, que procura agradar o usuário sem ferir a si ou a entes queridos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Carisma + Presença contra Autocontrole + Raciocínio."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ganhe a atenção e vença o conflito. Some Presença às paradas Sociais contra o alvo. Pode renovar indefinidamente, mas falha encerra o poder e torna o alvo imune pelo resto da noite. Pedidos de dano evidente ao alvo ou entes queridos, ou contrários aos Princípios dele, falham e exigem imediatamente novo conflito para manter o encantamento; sem mantê-lo, o efeito termina."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma hora mais uma por ponto de margem."
+          },
+          {
+            "title": "Regras gerais de Presença",
+            "text": "Presença afeta emoções sem controlar diretamente pensamentos ou ações; vítimas continuam conscientes e podem agir imprevisivelmente. O alvo precisa estar fisicamente presente ou ao menos ouvir o usuário. Transmissão eletrônica exige Magnetismo de Estrela. Sentir o Invisível pode detectar a influência sutil, sobretudo numa busca deliberada. Benefícios de vários poderes de Presença não se acumulam na mesma rolagem. Em combate, apenas Olhar Aterrorizante e Majestade têm efeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Focuses supernatural attraction on one person, who seeks to please the user without harming themselves or loved ones."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Charisma + Presence opposed by Composure + Wits."
+          },
+          {
+            "title": "System",
+            "text": "Gain attention and win the contest. Add Presence to Social pools against the target. May renew indefinitely, but failure ends the power and makes the target immune for the rest of the night. Requests for obvious harm to the target or loved ones, or against their Tenets, fail and immediately require another contest to maintain the enchantment; otherwise it ends."
+          },
+          {
+            "title": "Duration",
+            "text": "One hour plus one per point of margin."
+          },
+          {
+            "title": "General Presence rules",
+            "text": "Presence affects emotions, not direct control of thoughts or actions; victims remain conscious and can behave unpredictably. The target must be physically present or at least hear the user. Electronic transmission requires Star Magnetism. Sense the Unseen may detect its subtle influence, especially when deliberately searching. Benefits from multiple Presence powers do not stack on the same roll. In combat only Dread Gaze and Majesty have effect."
+          }
+        ]
+      }
+    }
+  ]
+}

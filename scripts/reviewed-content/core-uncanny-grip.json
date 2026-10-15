@@ -1,0 +1,80 @@
+{
+  "id": "uncanny-grip",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Pegada Sobrenatural",
+    "en": "Uncanny Grip"
+  },
+  "aliases": [
+    "Pegada Sobrenatural",
+    "Uncanny Grip"
+  ],
+  "discipline": "Potência",
+  "level": 3,
+  "versions": [
+    {
+      "id": "uncanny-grip-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 265",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 267,
+          "printedPage": 265
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Crava dedos das mãos ou pés em superfícies para escalar ou ficar pendurado, deixando marcas evidentes de força bruta."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sucesso automático em testes de Habilidade para escalar superfícies não metálicas. Cobre, bronze e metais macios podem ser permitidos pelo Narrador. Vidro fino pode quebrar, normalmente não o de fachadas comerciais modernas. Pode permanecer pendurado numa parede ou teto por uma cena; usar os pés exige estar descalço. Rastros são detectáveis com Inteligência + Investigação, Dificuldade 2; no vidro, não exige teste."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Digs fingers or toes into surfaces to climb or hang, leaving obvious marks of brute force."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Automatically succeeds on Skill tests to climb non-metal surfaces. Copper, bronze and soft metals may be allowed by the Storyteller. Thin glass may break, generally not modern commercial facade glass. Can hang from a wall or ceiling for a scene; using feet requires being barefoot. Traces are detected with Intelligence + Investigation, Difficulty 2; traces on glass need no roll."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          }
+        ]
+      }
+    }
+  ]
+}

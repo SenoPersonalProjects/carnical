@@ -1,0 +1,96 @@
+{
+  "id": "cloak-gathering",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Ocultar o Grupo",
+    "en": "Cloak the Gathering"
+  },
+  "aliases": [
+    "Ocultar o Grupo",
+    "Cloak the Gathering"
+  ],
+  "discipline": "Ofuscação",
+  "level": 5,
+  "versions": [
+    {
+      "id": "cloak-gathering-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 260, 261, 263",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 262,
+          "printedPage": 260
+        },
+        {
+          "pdfPage": 263,
+          "printedPage": 261
+        },
+        {
+          "pdfPage": 265,
+          "printedPage": 263
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Estende um poder conhecido de Ofuscação a companheiros voluntários."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue além do custo do poder estendido; mais um alvo por Teste de Sangue adicional."
+          },
+          {
+            "title": "Sistema",
+            "text": "Afeta um número adicional de alvos voluntários igual ao Raciocínio do usuário, ampliável como acima. Cada um conta como usuário do poder, usando a Ofuscação do vampiro quando houver teste. Todos percebem uns aos outros. Revelar um companheiro não revela os demais; revelar o usuário revela todo o grupo."
+          },
+          {
+            "title": "Duração",
+            "text": "A do poder estendido."
+          },
+          {
+            "title": "Regras gerais de Ofuscação",
+            "text": "Ofuscação faz observadores ignorarem mentalmente o usuário e normalmente afeta os cinco sentidos. Pessoas desviam inconscientemente, mas não podem ignorar uma passagem bloqueada ou serem encurraladas. Violência, gritaria, furto fracassado e armas prontas para atacar rompem a ilusão; sussurrar é possível. Normalmente não vence vigilância automatizada, embora operadores humanos tenham dificuldade para apontar câmeras. Sentir o Invisível detecta com Raciocínio ou Determinação + Auspícios contra Raciocínio + Ofuscação. Qualquer pessoa cuja atenção seja atraída pode perceber uma revelação acidental com Raciocínio + Percepção (Determinação + Percepção numa busca) contra Raciocínio + Furtividade. Vítimas de ataque surpresa sempre têm chance de sentir o perigo antes do golpe."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Extends one known Obfuscate power to willing companions."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check in addition to the extended power’s cost; one more target per additional Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Affects additional willing targets equal to the user’s Wits, expandable as above. Each counts as using the power, using the vampire’s Obfuscate rating when a roll is needed. They perceive each other. Revealing a companion does not reveal the rest; revealing the user reveals the entire group."
+          },
+          {
+            "title": "Duration",
+            "text": "As the extended power."
+          },
+          {
+            "title": "General Obfuscate rules",
+            "text": "Obfuscate makes observers mentally ignore the user; it normally affects all five senses. People unconsciously avoid the user but cannot ignore a blocked passage or being cornered. Violence, shouting, failed pickpocketing and weapons readied to attack break the deception; whispering is possible. It normally does not defeat automated surveillance, though human operators struggle to aim cameras. Sense the Unseen detects it with Wits or Resolve + Auspex opposed by Wits + Obfuscate. Anyone whose attention is drawn to the user can detect an accidental revelation with Wits + Awareness (Resolve + Awareness when searching) opposed by Wits + Stealth. Surprise-attack victims always have a chance to sense danger just before the blow."
+          }
+        ]
+      }
+    }
+  ]
+}
