@@ -1,0 +1,85 @@
+{
+  "id": "earths-perseverance",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Perseverança da Terra",
+    "en": "Earth’s Perseverance"
+  },
+  "aliases": [
+    "Perseverança da Terra",
+    "Earth’s Perseverance"
+  ],
+  "discipline": "Fortitude",
+  "level": 2,
+  "versions": [
+    {
+      "id": "earths-perseverance-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 76, 77",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 76,
+          "printedPage": 74
+        },
+        {
+          "pdfPage": 77,
+          "printedPage": 75
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Extrai a permanência da terra para permanecer enraizado e quase impossível de deslocar."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Enquanto o poder estiver ativo, só se move se escolher fazê-lo por conta própria. Isso não oferece resistência a dano: ainda pode ser esmagado, despedaçado ou dilacerado, assim como o piso em que está apoiado."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até encerrar o poder."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A vampire with this power is almost impossible to move when it is active. The vampire draws upon the strength of the earth, grounding themselves and drawing upon its permanence to keep them rooted in place."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse check"
+          },
+          {
+            "title": "System",
+            "text": "When this power is activated, the only way the vampire moves is if they choose to do so independently. This doesn’t make them resistant to damage, and a vampire can still be crushed, ripped apart, or torn to shreds, as can the floor they’re standing on."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until lapsed by user"
+          }
+        ]
+      }
+    }
+  ]
+}

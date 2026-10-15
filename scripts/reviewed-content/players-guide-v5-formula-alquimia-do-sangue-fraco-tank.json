@@ -1,0 +1,92 @@
+{
+  "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-tank",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Tanque",
+    "en": "Tank"
+  },
+  "aliases": [
+    "Tanque",
+    "Tank"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-tank-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 107",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 107,
+          "printedPage": 105
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 3
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Protege contra o primeiro dano sofrido durante a cena."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue colérico, vinho envelhecido em carvalho ou bourbon, fibras de Kevlar, cimento ou casco de tartaruga moído."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Reduz em cinco o primeiro dano sofrido na cena. A proteção se encerra imediatamente depois."
+          },
+          {
+            "title": "Duração",
+            "text": "Até sofrer dano ou até o fim da cena, o que ocorrer primeiro."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The alchemist can use this formula to help strengthen their resistance against damage, albeit only temporarily."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s Blood, choleric blood, oaked wine or bourbon, and Kevlar fibers or cement or ground tortoiseshell."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "The first time the alchemist sustains damage in a scene, reduce the damage by five. The formula then expires."
+          },
+          {
+            "title": "Duration",
+            "text": "Until the alchemist takes damage or the scene ends."
+          }
+        ]
+      }
+    }
+  ]
+}

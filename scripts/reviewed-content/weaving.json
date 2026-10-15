@@ -1,0 +1,91 @@
+{
+  "id": "weaving",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Esquiva Veloz",
+    "en": "Weaving"
+  },
+  "aliases": [
+    "Esquiva Veloz",
+    "Weaving"
+  ],
+  "discipline": "Celeridade",
+  "level": 3,
+  "versions": [
+    {
+      "id": "weaving-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 74",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 74,
+          "printedPage": 72
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Celeridade": 3
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Reflexos Rápidos",
+            "Rapid Reflexes"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Percebe facas arremessadas e balas como projéteis lentos, conseguindo desviar-se deles."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Celeridade 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Requisitos adicionais",
+            "text": "Reflexos Rápidos."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao defender-se de múltiplos ataques à distância com Destreza + Atletismo, não sofre redução progressiva da parada. Acrescenta também seu nível de Celeridade a todas essas defesas enquanto o poder estiver ativo."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Rapid Reflexes A vampire with this power moves fast enough to perceive projectiles such as throwing knives or bullets as slow, and can sidestep them at leisure."
+          },
+          {
+            "title": "Requirements",
+            "text": "Celerity 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: N/A"
+          },
+          {
+            "title": "System",
+            "text": "The user does not suffer diminishing dice pools when defending against multiple ranged attacks using Dexterity + Athletics. They can also add their Celerity rating to all such attempts while this power is active."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

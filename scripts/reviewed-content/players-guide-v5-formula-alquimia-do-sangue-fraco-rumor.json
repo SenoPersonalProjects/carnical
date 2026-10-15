@@ -1,0 +1,100 @@
+{
+  "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-rumor",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Rumor",
+    "en": "Rumor"
+  },
+  "aliases": [
+    "Rumor",
+    "Rumor"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-rumor-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 107",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 107,
+          "printedPage": 105
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 3
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Inclina uma pessoa a concordar com uma afirmação em uma negociação; observadores atentos podem perceber a influência."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue fleumático, pimenta, óleo e grafite ou mercúrio."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Manipulação + Alquimia contra Raciocínio + Percepção."
+          },
+          {
+            "title": "Sistema",
+            "text": "Faça uma afirmação que convide à concordância. Uma vitória faz o alvo concordar, acreditando que escolheu livremente. Convencê-lo a agir normalmente exige outra disputa, como Manipulação + Subterfúgio; adicione a margem de vitória da Alquimia à parada desse teste."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena, e depois dela até que a afirmação seja contradita de maneira convincente."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Alchemists frequently use this formula during negotiations to try and sway at least one person to their side; however, it can be easy to spot if anyone is paying close enough attention. Rumor allows the alchemist to make a statement and convince one person to agree with them on that statement."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s blood, phlegmatic blood, pepper, oil, and graphite or mercury."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Alchemy vs Wits + Awareness"
+          },
+          {
+            "title": "System",
+            "text": "Upon activation, the alchemist makes a statement and invites the target to agree, e.g. “I heard you plan to invest in the new mortuary downtown. Is that true?” On a win, the target agrees and continues to believe they agreed to the statement of their own free will. To get the target to actually act on their agreement (e.g., sign investment papers) usually requires a further Manipulation + Subterfuge (or similar) contest, but the alchemist can add their margin on the Alchemy contest to their pool in that contest."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene, and thereafter until something (or someone) persuasively contradicts the target’s agreement (“I would never have agreed to that! I must have been drugged!”)."
+          }
+        ]
+      }
+    }
+  ]
+}

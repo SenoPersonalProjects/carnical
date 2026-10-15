@@ -2205,7 +2205,8 @@
       },
       "aliases": [
         "Um com a Terra",
-        "One with the Land"
+        "One with the Land",
+        "Uno com a Terra"
       ],
       "discipline": "Proteanismo",
       "level": 5,
@@ -2213,10 +2214,10 @@
         {
           "id": "players-guide-v5-power-proteanismo-one-with-the-land-players-guide-v5",
           "book": "players-guide-v5",
-          "sourceTitle": "Player’s Guide V5, pp. 83–84",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 85, 86",
           "sourceLanguage": "en",
           "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
-          "level": 5,
           "pages": [
             {
               "pdfPage": 85,
@@ -2232,41 +2233,48 @@
               "Proteanismo": 5,
               "Animalismo": 2
             },
-            "prerequisites": [
-              "Fusão com a Terra"
+            "prerequisiteAlternatives": [
+              [
+                "Fusão com a Terra",
+                "Earth Meld"
+              ]
             ]
           },
           "descriptions": {
             "pt-BR": [
               {
                 "title": "Descrição",
-                "text": "O Membro domina tanto sua própria forma que passa a ser capaz de estendê-la ao seu domínio. O vampiro não só consegue afundar na terra, como possui uma percepção sobrenatural dos eventos que se passam na região."
+                "text": "Estende o próprio corpo ao domínio, fundindo-se a ele e percebendo acontecimentos pelos sentidos dos animais locais."
               },
               {
                 "title": "Requisitos",
-                "text": "Amálgama: Animalismo 2. Pré-requisito: Fusão com a Terra."
+                "text": "Proteanismo 5; Animalismo 2. Poder: Fusão com a Terra."
               },
               {
                 "title": "Custo",
-                "text": "Duas Checagens de Sangue"
+                "text": "Dois Testes de Sangue."
               },
               {
                 "title": "Sistema",
-                "text": "Igual a Fusão com a Terra (consulte a pág. 270 de Vampiro: A Máscara), exceto pelo fato de o vampiro não estar limitado pela composição da superfície com que se funde. Alguns vampiros são famosos por terem se fundido com as paredes dos seus refúgios, enquanto outros escondem-se embaixo de assoalhos empenados ou sob água empoçada. Além disso, o vampiro pode escolher experimentar qualquer estímulo sensorial dentro de uma área de aproximadamente um quilômetro a partir do ponto onde se tornou Um com a Terra, como escutar uma conversa, usufruir fisicamente do encontro amoroso de um casal, ou sentir o cheiro de um incêndio iniciado por uma multidão enfurecida. O vampiro tem essas experiências através dos sentidos de animais que se encontram nas proximidades dos eventos. No caso de eventos discretos ou intencionalmente escondidos, um teste de Raciocínio + Animalismo vs. a parada de dados oposta relevante é exigido. Despertar desse estado antes do cair da noite do dia seguinte requer um teste de Determinação + Proteanismo com Dificuldade 4, e mesmo assim pode demorar até uma hora para o vampiro reemergir por completo. Uma vitória crítica permite o despertar instantâneo."
+                "text": "Como Fusão com a Terra, mas sem limitação pela composição da superfície: pode integrar-se a paredes, esconder-se sob tábuas ou sob água parada. Num raio aproximado de um quilômetro, pode escolher vivenciar estímulos sensoriais por meio dos animais presentes, por menores que sejam, como conversas, sensações físicas e cheiros. Eventos discretos ou intencionalmente ocultos exigem Raciocínio + Animalismo contra a parada oposta pertinente."
+              },
+              {
+                "title": "Despertar antes da noite seguinte",
+                "text": "Emergir antes do anoitecer do dia posterior à entrada exige Determinação + Proteanismo, Dificuldade 4. Mesmo com sucesso, pode levar até uma hora para emergir completamente; uma vitória crítica permite sair imediatamente."
               },
               {
                 "title": "Duração",
-                "text": "Um dia ou mais, ou até o usuário ser perturbado fisicamente"
+                "text": "Um dia ou mais, ou até sofrer perturbação física."
               }
             ],
             "en": [
               {
                 "title": "Description",
-                "text": "The Kindred possesses such mastery over their own form that they may extend it even into their domain itself. Not only may the vampire sink into the very earth, they maintain a preternatural awareness of events transpiring within the domain."
+                "text": "Amalgam: Animalism 2\n\nPrerequisite: Earth Meld The Kindred possesses such mastery over their own form that they may extend it even into their domain itself. Not only may the vampire sink into the very earth, they maintain a preternatural awareness of events transpiring within the domain."
               },
               {
                 "title": "Requirements",
-                "text": "Amalgam: Animalism 2. Prerequisite: Earth Meld."
+                "text": "Protean 5; Animalism 2."
               },
               {
                 "title": "Cost",
@@ -2274,7 +2282,7 @@
               },
               {
                 "title": "System",
-                "text": "As with Earth Meld (Vampire: The\n\n## Masquerade, p. 270), except the vampire is not\n\nlimited by the makeup of the surface where they take their rest. Some vampires have been known to suffuse themselves into the walls of their manors while others secrete themselves beneath the warped floorboards of a squat, or even hide beneath a shallow pool of “dead water.” Additionally, in a distance of roughly one kilometer in any direction from where the vampire’s body has become One with the Land, the vampire may elect to experience any sensory stimuli within that area, such as listening to a conversation therein, physically enjoying a lovers’ tryst, or catching the scent of a fire that an unruly mob may be stoking. The vampire experiences these senses through the presence of animals, however minute, in the vicinity of the events. If the events are discreet or intentionally hidden, a Wits + Animalism test vs. the relevant opposing dice pool used is required. Rising from this state before nightfall the day after\n\nit has been entered requires a Resolve + Protean test at Difficulty 4, and even then it can take up to an hour for the vampire to fully reemerge. A critical win allows them to rise instantly, however."
+                "text": "As with Earth Meld (Vampire: The Masquerade, p. 270), except the vampire is not limited by the makeup of the surface where they take their rest. Some vampires have been known to suffuse themselves into the walls of their manors while others secrete themselves beneath the warped floorboards of a squat, or even hide beneath a shallow pool of “dead water.” Additionally, in a distance of roughly one kilometer in any direction from where the vampire’s body has become One with the Land, the vampire may elect to experience any sensory stimuli within that area, such as listening to a conversation therein, physically enjoying a lovers’ tryst, or catching the scent of a fire that an unruly mob may be stoking. The vampire experiences these senses through the presence of animals, however minute, in the vicinity of the events. If the events are discreet or intentionally hidden, a Wits + Animalism test vs. the relevant opposing dice pool used is required. Rising from this state before nightfall the day after it has been entered requires a Resolve + Protean test at Difficulty 4, and even then it can take up to an hour for the vampire to fully reemerge. A critical win allows them to rise instantly, however."
               },
               {
                 "title": "Duration",
@@ -2343,7 +2351,7 @@
               },
               {
                 "title": "System",
-                "text": "As with Earth Meld (Vampire: The\n\n## Masquerade, p. 270), except the vampire is not\n\nlimited by the makeup of the surface where they take their rest. Some vampires have been known to suffuse themselves into the walls of their manors while others secrete themselves beneath the warped floorboards of a squat, or even hide beneath a shallow pool of “dead water.” Additionally, in a distance of 1.6 kilometers in any direction from where the vampire’s body has become One with the Land, the vampire may elect to experience any sensory stimuli within that area, such as listening to a conversation therein, physically enjoying a lovers’ tryst, or catching the scent of a fire that an unruly mob may be stoking. The vampire experiences these senses through the presence of animals, however minute, in the vicinity of the events. If the events are discreet or intentionally hidden, a Wits + Animalism test vs. the relevant opposing dice pool used is required. Rising from this state before nightfall the day after\n\nit has been entered requires a Resolve + Protean test at Difficulty 4, and even then it can take up to an hour for the vampire to fully reemerge. A critical win allows them to rise instantly, however."
+                "text": "As with Earth Meld (Vampire: The Masquerade, p. 270), except the vampire is not limited by the makeup of the surface where they take their rest. Some vampires have been known to suffuse themselves into the walls of their manors while others secrete themselves beneath the warped floorboards of a squat, or even hide beneath a shallow pool of “dead water.” Additionally, in a distance of 1.6 kilometers in any direction from where the vampire’s body has become One with the Land, the vampire may elect to experience any sensory stimuli within that area, such as listening to a conversation therein, physically enjoying a lovers’ tryst, or catching the scent of a fire that an unruly mob may be stoking. The vampire experiences these senses through the presence of animals, however minute, in the vicinity of the events. If the events are discreet or intentionally hidden, a Wits + Animalism test vs. the relevant opposing dice pool used is required. Rising from this state before nightfall the day after it has been entered requires a Resolve + Protean test at Difficulty 4, and even then it can take up to an hour for the vampire to fully reemerge. A critical win allows them to rise instantly, however."
               },
               {
                 "title": "Duration",
@@ -11213,6 +11221,3357 @@
               {
                 "title": "General ritual rules",
                 "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-flowering-amaranth",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Amaranto Florescente",
+        "en": "Flowering Amaranth"
+      },
+      "aliases": [
+        "Amaranto Florescente",
+        "Flowering Amaranth"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 5,
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-flowering-amaranth-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 108",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 108,
+              "printedPage": 106
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 5
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Permite compartilhar entre sangues-ralos uma parte do poder de um vampiro de Sangue pleno por meio da Diablerie."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Alquimia do Sangue-Fraco 5."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Sangue do alquimista e dos demais sangues-ralos participantes, até três no total; suco de flores vermelhas de amaranto cultivadas com sangue como fertilizante; sanguessugas pulverizadas, sulfeto de hidrogênio e neônio."
+              },
+              {
+                "title": "Custo",
+                "text": "Cada participante faz um Teste de Sangue."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Determinação + Alquimia contra a parada de Força de Vontade + Potência de Sangue da vítima."
+              },
+              {
+                "title": "Sistema",
+                "text": "O alquimista e até dois participantes amarram cordões de seda nos pulsos, formando um triângulo; a vítima de Sangue pleno também é amarrada. Cada participante adicional pode gastar dois pontos de Força de Vontade para acrescentar um dado ao teste do alquimista. Uma vitória concede a cada sangue-ralo participante um ponto em uma Disciplina aleatória de clã da vítima. Numa vitória crítica, o alquimista escolhe a Disciplina."
+              },
+              {
+                "title": "Exceções",
+                "text": "Não podem aprender ou comprar níveis dessa Disciplina acima do primeiro ponto; fora isso, usam-na como um vampiro de Sangue pleno. Não há ganho de Geração. Ainda perdem um ponto de Humanidade e recebem a aura de Diablerie com veios negros."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This form of shared diablerie draws virtue from the vitae of a full-blooded Kindred into the alchemist and their assistants."
+              },
+              {
+                "title": "Requirements",
+                "text": "Thin-Blood Alchemy 5."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Blood from the alchemist and participating thin-bloods (up to three thin-bloods total), juice of red amaranth flowers from a plant fertilized with blood, pulverized leeches, hydrogen sulfide, and neon."
+              },
+              {
+                "title": "Activation Cost",
+                "text": "Everyone participating must roll one Rouse Check"
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Alchemy vs. Willpower pool + Blood Potency"
+              },
+              {
+                "title": "System",
+                "text": "The alchemist and up to two other participants tie a silk cord around their wrists, connecting them in a triangle surrounding a fullblooded Kindred target, also so bound. The alchemist rolls Resolve + Alchemy; each additional thin-blood participant can add one die to the pool by spending 2 Willpower. If the full-blood resists, they use their Willpower pool + Blood Potency. On a win, the participating thin-bloods gain one dot in one of the target’s core clan Disciplines, determined randomly. (On a critical win, the alchemist can choose the Discipline.) They cannot learn or purchase this Discipline higher than the first dot, but in other respects can use it as though they were full-blooded Kindred. They do not gain generation, but still lose 1 Humanity and gain the black-veined aura of diablerie."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-friends-list",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Lista de Amigos",
+        "en": "Friends List"
+      },
+      "aliases": [
+        "Lista de Amigos",
+        "Friends List"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-friends-list-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 106",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 106,
+              "printedPage": 104
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 2
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Enxerga as conexões entre mortais e Membros como fios prateados finos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Alquimia do Sangue-Fraco 2."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Sangue do alquimista, sangue fleumático, olhos de bacurau, coruja ou outra ave noturna e fio de prata."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Alquimia."
+              },
+              {
+                "title": "Sistema",
+                "text": "Um sucesso revela um fio ligando um mortal a um vampiro com quem tenha relação. Sem relação não há fio. Pode seguir o fio se o vampiro não estiver próximo. Relações fortes exigem menos sucessos: um carniçal exige um; um contato ou aliado distante pode exigir até cinco. As relações mais fortes aparecem primeiro; com sucessos suficientes, percebe múltiplas relações."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This formula allows the alchemist to see the connections between mortals and Kindred. This shows as a thin, silver thread that connects between them, giving the alchemist an idea of whom a mortal may have a connection to."
+              },
+              {
+                "title": "Requirements",
+                "text": "Thin-Blood Alchemy 2."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The alchemist’s Blood, phlegmatic blood, the eyes of a whippoorwill or owl or other nocturnal bird, and a silver thread."
+              },
+              {
+                "title": "Activation Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Alchemy"
+              },
+              {
+                "title": "System",
+                "text": "Upon activating this power, the alchemist makes an Intelligence + Alchemy test to see a thin, silver thread connecting a mortal to a vampire they have some sort of connection with. (Obviously, no thread is shown if the mortal isn’t connected to Kindred.) If the vampire is not physically close the alchemist can follow the thread. Stronger connections require fewer successes to see – a ghoul might only require one success, but a distant contact or ally up to five. A mortal with multiple vampire relationships displays the strongest thread first, but the alchemist can see all of them with enough successes."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mandagloire",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Mandagloire",
+        "en": "Mandagloire"
+      },
+      "aliases": [
+        "Mandagloire",
+        "Mandagloire"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mandagloire-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 106, 107",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 106,
+              "printedPage": 104
+            },
+            {
+              "pdfPage": 107,
+              "printedPage": 105
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Também chamada de “The Funk”, emite um gás nauseante capaz de paralisar mortais e afetar criaturas sobrenaturais."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Alquimia do Sangue-Fraco 3."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Sangue do alquimista, sangue fleumático, gordura humana, cera de vela, éter, óleo de gergelim, sulfato de ferro ou azinhavre e bórax."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Vigor + Alquimia contra Vigor + Determinação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ao abrir uma veia do recipiente alquímico, libera o fedor, que preenche um cômodo, ou uma casa numa vitória crítica. Mortais que falham sofrem paralisia completa, em coma desperto pelo restante da cena. Criaturas sobrenaturais que falham sofrem rigidez e −2 dados nas paradas Físicas. Em Fixatio, pode contaminar comida ou bebida, ou queimar como fragrância paralisante."
+              },
+              {
+                "title": "Duração e exceção da fonte",
+                "text": "A linha de Duração indica três turnos. O Sistema descreve a paralisia mortal pelo restante da cena. A fonte contém essas duas durações; a aplicação dessa divergência exige decisão do Narrador."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Also called “The Funk” by alchemists who copy and adjust the formula. The alchemist is able to make their blood emit a noxious gas that causes a rigid paralysis to mortals and supernatural creatures alike."
+              },
+              {
+                "title": "Requirements",
+                "text": "Thin-Blood Alchemy 3."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The alchemist’s blood, phlegmatic blood, human fat, candle wax, ether, sesame oil, iron sulfate or verdigris, and borax."
+              },
+              {
+                "title": "Activation Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Stamina + Alchemy vs. Stamina + Resolve"
+              },
+              {
+                "title": "System",
+                "text": "Tapping the athanor’s vein emits a pungent stench when spilled that fills a room (or a house on a critical win). Mortals who fail to resist enter a full-body paralysis state, a waking coma, for the rest of the scene. Supernatural creatures who fail feel the effects of rigor mortis: a two-dice penalty on all Physical rolls from intense cramping."
+              },
+              {
+                "title": "Fixatio",
+                "text": "The potion can be slipped into a drink or meal as a poison, or burned to act as a paralyzing fragrance, above."
+              },
+              {
+                "title": "Duration",
+                "text": "Three turns"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mercurian-tongue",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Língua Mercuriana",
+        "en": "Mercurian Tongue"
+      },
+      "aliases": [
+        "Língua Mercuriana",
+        "Mercurian Tongue"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mercurian-tongue-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 105",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 105,
+              "printedPage": 103
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Permite falar a língua nativa do mortal cujo sangue foi usado na fórmula."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Alquimia do Sangue-Fraco 1."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Sangue do alquimista, sangue de um mortal com língua nativa diferente da sua, língua de peixe ou ave, molho de pimenta de outro país e limalha de cobre."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Fala a língua nativa do mortal usado na fórmula. Gastando um ponto de Força de Vontade e alimentando-se de outro mortal, pode substituir a língua adquirida pela língua nativa desse mortal."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite, ou até alimentar-se de alguém com a mesma língua nativa do alquimista."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The alchemist can speak the native language of the mortal whose blood they used in the formula, and the native languages of those they feed from until they next sleep."
+              },
+              {
+                "title": "Requirements",
+                "text": "Thin-Blood Alchemy 1."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The alchemist’s Blood, blood of a mortal who speaks a different native language than the alchemist, the tongue of a fish or bird, hot sauce from another country, and copper filings."
+              },
+              {
+                "title": "Activation Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "The alchemist can speak the native language of the mortal whose blood they used in the formula. By spending a Willpower point and feeding from a mortal, they can switch their new language to that mortal’s native language."
+              },
+              {
+                "title": "Duration",
+                "text": "One night, or until the alchemist feeds from someone with the same native language as the alchemist."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-moment-of-clarity",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Momento de Clareza",
+        "en": "Moment of Clarity"
+      },
+      "aliases": [
+        "Momento de Clareza",
+        "Moment of Clarity"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 5,
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-moment-of-clarity-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 108",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 108,
+              "printedPage": 106
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 5
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Submerge a Besta para favorecer a acuidade mental e evitar interferências bestiais."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Alquimia do Sangue-Fraco 5."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Sangue do alquimista, sangue fleumático, cádmio, nootrópicos e cinzas de um texto significativo queimado, como escritura religiosa ou livro favorito da infância."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Acrescenta quatro dados às paradas de Habilidades Mentais ou de Disciplinas, inclusive à resistência mental contra Dominação, Animalismo, Presença, Auspícios e seus Amálgamas. Torna o usuário imune a Críticos Bestiais e a Frenesi, caso seja suscetível a ele."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The alchemist is able to temporarily submerge their vampiric instincts, harnessing the power of the Beast to support, rather than disturb, their mental acumen. For a short while they can reach superhuman levels of intellect and concentration while also avoiding bestial interference in their actions."
+              },
+              {
+                "title": "Requirements",
+                "text": "Thin-Blood Alchemy 5."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The alchemist’s Blood, phlegmatic blood, cadmium, nootropics, and ash from burned pages of a meaningful text to the alchemist (scripture, favorite childhood novel)."
+              },
+              {
+                "title": "Activation Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "Upon activation, the alchemist gains mental clarity, their wits sharpen, and the Beast is temporarily sated. They add four dice to Mental or Discipline Skill pools, and can add four dice to Mental resistance checks against Disciplines requiring them: Dominate, Animalism, Presence, Auspex, and their amalgams. They are also immune to Messy Criticals and frenzy, if susceptible to the latter."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-plug-in",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Conexão Elétrica",
+        "en": "Plug-In"
+      },
+      "aliases": [
+        "Conexão Elétrica",
+        "Plug-In"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-plug-in-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 105, 106",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 105,
+              "printedPage": 103
+            },
+            {
+              "pdfPage": 106,
+              "printedPage": 104
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Produz uma corrente elétrica fraca pelo corpo para alimentar lâmpadas, carregadores e outros aparelhos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Alquimia do Sangue-Fraco 1."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Sangue do alquimista, sangue sanguíneo, nitrogênio líquido, raspas de tungstênio e uma bateria quebrada."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Alquimia, Dificuldade 2."
+              },
+              {
+                "title": "Sistema",
+                "text": "Com sucesso, alimenta pelo toque aparelhos pequenos, como smartphone, computador ou lâmpada. Interromper o contato interrompe a alimentação elétrica."
+              },
+              {
+                "title": "Duração",
+                "text": "Iluminação de um cômodo por uma cena; aparelhos são carregados até metade da capacidade de sua bateria."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The alchemist is able to produce a low-level electrical current from their body, powering lights, chargers, or other devices."
+              },
+              {
+                "title": "Requirements",
+                "text": "Thin-Blood Alchemy 1."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The alchemist’s blood, sanguine blood, liquid nitrogen, tungsten shavings, and a broken battery."
+              },
+              {
+                "title": "Activation Cost",
+                "text": "One Rouse check"
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Alchemy"
+              },
+              {
+                "title": "System",
+                "text": "Make a Resolve + Alchemy test (Difficulty 2). On a success, the alchemist fills with electrical currents that can be used to power small devices, such as a smartphone, a personal computer, or a light bulb. These currents power the item by touch; it loses power when contact stops."
+              },
+              {
+                "title": "Duration",
+                "text": "If lighting a room: one scene. If powering a device, until it reaches half battery charge."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-rumor",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Rumor",
+        "en": "Rumor"
+      },
+      "aliases": [
+        "Rumor",
+        "Rumor"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-rumor-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 107",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 107,
+              "printedPage": 105
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Inclina uma pessoa a concordar com uma afirmação em uma negociação; observadores atentos podem perceber a influência."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Alquimia do Sangue-Fraco 3."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Sangue do alquimista, sangue fleumático, pimenta, óleo e grafite ou mercúrio."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Manipulação + Alquimia contra Raciocínio + Percepção."
+              },
+              {
+                "title": "Sistema",
+                "text": "Faça uma afirmação que convide à concordância. Uma vitória faz o alvo concordar, acreditando que escolheu livremente. Convencê-lo a agir normalmente exige outra disputa, como Manipulação + Subterfúgio; adicione a margem de vitória da Alquimia à parada desse teste."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena, e depois dela até que a afirmação seja contradita de maneira convincente."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Alchemists frequently use this formula during negotiations to try and sway at least one person to their side; however, it can be easy to spot if anyone is paying close enough attention. Rumor allows the alchemist to make a statement and convince one person to agree with them on that statement."
+              },
+              {
+                "title": "Requirements",
+                "text": "Thin-Blood Alchemy 3."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The alchemist’s blood, phlegmatic blood, pepper, oil, and graphite or mercury."
+              },
+              {
+                "title": "Activation Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Manipulation + Alchemy vs Wits + Awareness"
+              },
+              {
+                "title": "System",
+                "text": "Upon activation, the alchemist makes a statement and invites the target to agree, e.g. “I heard you plan to invest in the new mortuary downtown. Is that true?” On a win, the target agrees and continues to believe they agreed to the statement of their own free will. To get the target to actually act on their agreement (e.g., sign investment papers) usually requires a further Manipulation + Subterfuge (or similar) contest, but the alchemist can add their margin on the Alchemy contest to their pool in that contest."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene, and thereafter until something (or someone) persuasively contradicts the target’s agreement (“I would never have agreed to that! I must have been drugged!”)."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-short-circuit",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Curto-Circuito",
+        "en": "Short Circuit"
+      },
+      "aliases": [
+        "Curto-Circuito",
+        "Short Circuit"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-short-circuit-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 107",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 107,
+              "printedPage": 105
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Sobrecarrega baterias e equipamentos elétricos, inclusive baterias de carros e fusíveis de edifícios."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Alquimia do Sangue-Fraco 4."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Sangue do alquimista, ácido de bateria, sangue melancólico e água salgada."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ao tocar o equipamento ou metal conectado a ele, causa um curto-circuito automático e silencioso. Pode apagar a energia de um edifício tocando uma tomada ou afetar um carro encostando em sua carroceria."
+              },
+              {
+                "title": "Duração",
+                "text": "Não se aplica."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "An alchemist can use this formula to overload the batteries in any electronic or electrical equipment, including car batteries or the fuses of a building."
+              },
+              {
+                "title": "Requirements",
+                "text": "Thin-Blood Alchemy 4."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The alchemist’s Blood, battery acid, melancholy blood, and salt water."
+              },
+              {
+                "title": "Activation Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "By making a Rouse Check and touching the equipment (or metal connected to it) the alchemist automatically and silently shorts it out. This allows an alchemist to, for example, cause a blackout of an entire building by touching a power outlet, or a car by brushing against its body."
+              },
+              {
+                "title": "Duration",
+                "text": "N/A"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-tank",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Tanque",
+        "en": "Tank"
+      },
+      "aliases": [
+        "Tanque",
+        "Tank"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-tank-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 107",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 107,
+              "printedPage": 105
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Protege contra o primeiro dano sofrido durante a cena."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Alquimia do Sangue-Fraco 3."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Sangue do alquimista, sangue colérico, vinho envelhecido em carvalho ou bourbon, fibras de Kevlar, cimento ou casco de tartaruga moído."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Reduz em cinco o primeiro dano sofrido na cena. A proteção se encerra imediatamente depois."
+              },
+              {
+                "title": "Duração",
+                "text": "Até sofrer dano ou até o fim da cena, o que ocorrer primeiro."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The alchemist can use this formula to help strengthen their resistance against damage, albeit only temporarily."
+              },
+              {
+                "title": "Requirements",
+                "text": "Thin-Blood Alchemy 3."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The alchemist’s Blood, choleric blood, oaked wine or bourbon, and Kevlar fibers or cement or ground tortoiseshell."
+              },
+              {
+                "title": "Activation Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "The first time the alchemist sustains damage in a scene, reduce the damage by five. The formula then expires."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the alchemist takes damage or the scene ends."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-toxic-personality",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Personalidade Tóxica",
+        "en": "Toxic Personality"
+      },
+      "aliases": [
+        "Personalidade Tóxica",
+        "Toxic Personality"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-toxic-personality-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 107, 108",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 107,
+              "printedPage": 105
+            },
+            {
+              "pdfPage": 108,
+              "printedPage": 106
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Secreta bile cáustica por poros e orifícios, corroendo metal, madeira e tecidos vivos. O alquimista é imune à própria bile."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Alquimia do Sangue-Fraco 4."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Sangue do alquimista, sangue colérico, potassa ou lixívia, baço de animal, tecido de queijo e iodo."
+              },
+              {
+                "title": "Custo",
+                "text": "Um ou dois Testes de Sangue."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Força ou Destreza + Alquimia contra Destreza + Atletismo."
+              },
+              {
+                "title": "Sistema",
+                "text": "O contato corrói materiais em segundos e acrescenta dois ao dano de Briga pelo toque ácido. O controle da secreção normalmente preserva suas roupas. O Narrador determina a extensão da corrosão, superior à de Vitae Corrosiva. Um segundo Teste de Sangue permite projetar vômito: Força + Alquimia em corpo a corpo ou Destreza + Alquimia à distância. Causa margem + 3 de dano superficial à Vitalidade, agravado para mortais."
+              },
+              {
+                "title": "Exceções dos métodos",
+                "text": "Em Athanor Corporis ou Calcinatio, pode guardar a fórmula destilada por uma semana antes de adquirir aparência doentia, com veias azuladas, pele pálida ou flácida. Após um mês sem extrair o produto, a bile corrói o recipiente de Calcinatio. Em Fixatio, corrói completamente o recipiente em Alquimia + 4 semanas."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The alchemist secretes powerful, caustic bile from their pores and orifices, corroding metals, wood, and living tissue. The alchemist activating this ability may touch and manipulate the bile while not being affected by it."
+              },
+              {
+                "title": "Requirements",
+                "text": "Thin-Blood Alchemy 4."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The alchemist’s Blood, choleric blood, potash or lye, animal spleen, cheesecloth, and iodine."
+              },
+              {
+                "title": "Activation Cost",
+                "text": "One or two Rouse Checks"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Strength or Dexterity + Alchemy vs. Dexterity + Athletics"
+              },
+              {
+                "title": "System",
+                "text": "When active, the power allows the alchemist to corrode any material in seconds by simply making contact with it and gains +2 damage on brawl attacks as their mere touch becomes acid. (As the alchemist controls how and where they excrete the acid their own clothes are usually unaffected.) The Storyteller is the final arbiter on the extent of damage caused but the acid is supernaturally strong and far more potent than that produced by Corrosive Vitae (see Vampire: The Masquerade, p. 273).\n\nThe alchemist may make a second Rouse check to projectile vomit the bile as an attack (Strength + Alchemy during melee, Dexterity + Alchemy for a ranged spitting attack). On a win, the bile does the margin +3 in Superficial Health damage (Aggravated to mortals)."
+              },
+              {
+                "title": "Athanor Corporis or Calcinatio",
+                "text": "The alchemist or vessel can only hold this formula after distillation for a week before they begin to look sickly: blue veins popping against their pale skin, and the skin itself sagging low on their bodies. After a month, the bile corrodes the Calcinatio vessel if not tapped."
+              },
+              {
+                "title": "Fixatio",
+                "text": "The container of the bile slowly corrodes, falling completely apart in Alchemy + 4 weeks."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "animal-messenger",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mensageiro Animal",
+        "en": "Animal Messenger"
+      },
+      "aliases": [
+        "Mensageiro Animal",
+        "Animal Messenger"
+      ],
+      "discipline": "Animalismo",
+      "level": 2,
+      "versions": [
+        {
+          "id": "animal-messenger-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 71",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 71,
+              "printedPage": 69
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 2,
+              "Auspícios": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O Famulus leva uma mensagem curta a uma pessoa designada pelo mestre, se conseguir alcançá-la. Quem estiver perto ouve a mensagem como se o animal falasse com a voz do mestre."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 2; Auspícios 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue por noite."
+              },
+              {
+                "title": "Parada",
+                "text": "Sem teste de ativação. Se não souber onde está o destinatário, o Famulus testa Determinação + Manha ou Sobrevivência, ou equivalente, Dificuldade 2. Um alvo que esteja se escondendo, do Famulus ou de outras ameaças, resiste com Inteligência + Manha ou Sobrevivência."
+              },
+              {
+                "title": "Sistema",
+                "text": "Sussurre uma única frase ao Famulus e indique o destinatário. Pode tentar localizá-lo uma vez por noite. A mensagem é transmitida assim que o animal faz contato visual com o alvo, e depois ele retorna ao mestre."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma ou mais noites, dependendo do tempo da busca."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Amalgam: Auspex 1 The vampire’s Famulus can carry a short message to a person designated by its master, assuming they can reach them. Those within earshot hear the message as if the Famulus was speaking with their master’s voice."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 2; Auspex 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check for each night.\n\n Dice Pools: None, though the Famulus must test Resolve + Streetwise / Survival (or equivalent) if the target’s location is unknown."
+              },
+              {
+                "title": "System",
+                "text": "The vampire whispers a single sentence to the Famulus and states the target. If the location of the recipient is unknown the Famulus must track them down, making a tracking test (see above) at a Difficulty of 2, or resisted by the target’s Intelligence + Streetwise / Survival if they are actively trying to hide (from the famulus or from other perceived threats). The attempt can be made once per night. The message is delivered as soon as the Famulus makes eye contact with the target, at which point they return to their master."
+              },
+              {
+                "title": "Duration",
+                "text": "One or more nights depending in length of search"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "coax-bestial-temper",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Instigar o Temperamento Bestial",
+        "en": "Coax the Bestial Temper"
+      },
+      "aliases": [
+        "Instigar o Temperamento Bestial",
+        "Coax the Bestial Temper"
+      ],
+      "discipline": "Animalismo",
+      "level": 5,
+      "versions": [
+        {
+          "id": "coax-bestial-temper-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 72",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 72,
+              "printedPage": 70
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Cantarola, canta ou rosna baixinho para agitar ou acalmar a Besta dos demais vampiros ao alcance da voz."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Manipulação + Animalismo, Dificuldade 3."
+              },
+              {
+                "title": "Sistema",
+                "text": "Escolha agitar ou acalmar. Cada sucesso de margem aumenta ou reduz em um a Dificuldade de resistir ao Frenesi para todos os outros vampiros que o ouçam. Ao reduzir a Dificuldade, vampiros já em Frenesi podem testar novamente e encerrá-lo se vencerem."
+              },
+              {
+                "title": "Duração",
+                "text": "Enquanto continuar cantarolando."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire exerts a subtle influence on the Beast of all vampires present and is able to rile or subdue the vampiric instincts on all Kindred in close proximity. By singing, humming, or growling softly the user plucks at the strings of all Beasts, and tempers rise or fall depending on their whim."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: Manipulation + Animalism"
+              },
+              {
+                "title": "System",
+                "text": "The vampire decides whether they want to agitate or calm, hums a wordless melody or similar subtle sound, and makes a Manipulation + Animalism test at Difficulty 3. Each success in the margin raises or lowers the Difficulty to resist frenzy by one for all other vampires within earshot. If the difficulty is lowered, all vampires already in frenzy can make a new test to resist it, snapping out of their Frenzy if they succeed."
+              },
+              {
+                "title": "Duration",
+                "text": "As long as the user keeps humming"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "fatal-flaw",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Falha Fatal",
+        "en": "Fatal Flaw"
+      },
+      "aliases": [
+        "Falha Fatal",
+        "Fatal Flaw"
+      ],
+      "discipline": "Auspícios",
+      "level": 3,
+      "versions": [
+        {
+          "id": "fatal-flaw-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 73",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 73,
+              "printedPage": 71
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 3,
+              "Oblívio": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Observa os sinais sutis de entropia para descobrir uma vulnerabilidade mental ou física, desde uma fissura na fachada emocional até uma falha na armadura."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 3; Oblívio 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Inteligência + Auspícios contra Autocontrole + Subterfúgio para fraquezas mentais, ou Vigor + Subterfúgio para fraquezas físicas."
+              },
+              {
+                "title": "Sistema",
+                "text": "Passe um turno observando atentamente o alvo. Uma vitória revela a menor parada defensiva na categoria escolhida e concede dois dados extras a ataques contra ela. Quem receber do usuário a informação sobre essa vulnerabilidade recebe um dado extra."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Amalgam: Oblivion 1 Everything breaks, and the vampire using this power can see the signs before they happen. By observing the subtle work of entropy the vampire can glean the Achilles’ heel of a target, whether it is a crack in their mental facade or a weakness in their actual armor."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 3; Oblivion 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: Intelligence + Auspex vs Composure or Stamina + Subterfuge"
+              },
+              {
+                "title": "System",
+                "text": "The user spends a turn intently observing the target, looking for a flaw in their defenses, and tests Intelligence + Auspex against the target’s Composure (for mental weaknesses) or Stamina (for physical ones) + Subterfuge. A win shows how they best attack their target, revealing the lowest defense pool in either category, and provides a twodice bonus to attacks against that pool. If the user informs anyone about said weakness they gain a one-die bonus."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "messengers-command",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Comando do Mensageiro",
+        "en": "Messenger’s Command"
+      },
+      "aliases": [
+        "Comando do Mensageiro",
+        "Messenger’s Command"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "versions": [
+        {
+          "id": "messengers-command-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 71",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 71,
+              "printedPage": 69
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3,
+              "Dominação": 1
+            },
+            "prerequisites": [
+              "Animal Messenger"
+            ],
+            "prerequisiteAlternatives": [
+              [
+                "Compelir",
+                "Compel",
+                "Mesmerismo",
+                "Mesmerize"
+              ]
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A mensagem levada pelo Famulus pode transmitir Compelir ou Mesmerismo, impondo a vontade do vampiro ao destinatário."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 3; Dominação 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Nenhum custo adicional ao Mensageiro Animal."
+              },
+              {
+                "title": "Parada",
+                "text": "A de Compelir ou Mesmerismo, mas o nível de Dominação usado não pode superar o de Animalismo."
+              },
+              {
+                "title": "Sistema",
+                "text": "Use Mensageiro Animal e faça o teste de Compelir ou Mesmerismo assim que o Famulus estabelecer contato visual com o destinatário."
+              },
+              {
+                "title": "Requisitos adicionais",
+                "text": "Mensageiro Animal e pelo menos um dos poderes Compelir ou Mesmerismo."
+              },
+              {
+                "title": "Duração",
+                "text": "A de Mensageiro Animal."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Prerequisite: Animal Messenger, Compel or Mesmerize\n\nAmalgam: Dominate 1 The vampire is able to use Compel or Mesmerize with a command carried by the Famulus, enforcing their will upon the target of the message."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 3; Dominate 1."
+              },
+              {
+                "title": "Cost",
+                "text": "None\n\n Dice Pools: See Compel or Mesmerize, but the\n\nDominate rating cannot exceed the user’s Animalism."
+              },
+              {
+                "title": "System",
+                "text": "See Animal Messenger, above. Make the Compel or Mesmerize test as soon as the Famulus makes eye contact with the target."
+              },
+              {
+                "title": "Duration",
+                "text": "See Animal Messenger"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "plague-of-beasts",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Praga de Feras",
+        "en": "Plague of Beasts"
+      },
+      "aliases": [
+        "Praga de Feras",
+        "Plague of Beasts"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "versions": [
+        {
+          "id": "plague-of-beasts-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 71",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 71,
+              "printedPage": 69
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Marca um indivíduo para atrair a atenção hostil de animais e vermes locais. Eles latem, bicam e arranham, mas preservam o instinto de sobrevivência."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Manipulação + Animalismo contra Autocontrole + Empatia com Animais."
+              },
+              {
+                "title": "Sistema",
+                "text": "Escolha um alvo à vista. Numa vitória, animais próximos o perseguem pelo restante da noite. Sofre uma penalidade igual à margem nas paradas de Habilidades, salvo se conseguir isolar-se fisicamente da fauna local. Perseguidores recebem um bônus de rastreamento igual à margem. A penalidade não se aplica a conflitos físicos: os animais fogem da violência e retornam quando ela termina."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire can mark an individual, making them the target of focused animal attention. Whatever beasts or vermin are in the area seek the target out to bark, peck, scratch, and generally make their night miserable. While the animals retain enough instincts to not entirely threaten their self-preservation, they make it very hard for the victim to do anything but fend them off."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: Manipulation + Animalism vs Composure + Animal Ken"
+              },
+              {
+                "title": "System",
+                "text": "The vampire picks a target within their line of sight and tests Manipulation + Animalism against the target’s Composure + Animal Ken. On a win the target becomes the focus of attention for all animals in their vicinity for the rest of the night, suffering a dice penalty to all Skill pools equal to the margin on the win unless they can physically isolate themselves from the local wildlife. The target also becomes easier to track, with any pursuer receiving a bonus equal to the same margin. The Skill penalty does not apply to physical conflicts, as the animals aren’t suicidal enough to stick around when fists and bullets start flying, though they return once the dust settles."
+              },
+              {
+                "title": "Duration",
+                "text": "One night"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "reveal-temperament",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Revelar Temperamento",
+        "en": "Reveal Temperament"
+      },
+      "aliases": [
+        "Revelar Temperamento",
+        "Reveal Temperament"
+      ],
+      "discipline": "Auspícios",
+      "level": 2,
+      "versions": [
+        {
+          "id": "reveal-temperament-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 72, 73",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 72,
+              "printedPage": 70
+            },
+            {
+              "pdfPage": 73,
+              "printedPage": 71
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Fareja a Ressonância e eventuais Discrasias no sangue de um mortal. Num vampiro, percebe a Ressonância da última vítima da qual se alimentou."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Inteligência + Auspícios contra Autocontrole + Subterfúgio."
+              },
+              {
+                "title": "Sistema",
+                "text": "Com o poder ativo, uma vitória revela a Ressonância e particularidades como Discrasias de um mortal observado. Uma vitória crítica concede dois dados extras em interações com ele durante a cena, por adaptar a abordagem ao seu estado emocional. Contra vampiros, uma vitória revela a Ressonância do último mortal de que se alimentaram; um crítico também revela o método de alimentação e o Tipo de Predador do vampiro."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire can smell the Resonance of the target, as well as any Dyscrasia they harbor in their blood. They can also smell if another vampire has recently fed as well as the Resonance (if any) of their latest victim."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: Intelligence + Auspex vs Composure + Subterfuge"
+              },
+              {
+                "title": "System",
+                "text": "When the power is active the user can test Intelligence + Auspex vs a target’s Composure + Subterfuge. A win reveals the Resonance of the mortal observed as well as any other particulars of their blood, such as Dyscrasias. On a critical win the user also gains a two-dice bonus to interaction with the target for the duration of the scene as they are able to adapt their approach to the emotional state of the mortal. Versus a vampire, a win reveals the Resonance of the last mortal they fed upon, and a critical win provides a more nuanced picture of the vessel at time of feeding, revealing the method and Predator Type of the vampire."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sway-the-flock",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Influenciar o Bando",
+        "en": "Sway the Flock"
+      },
+      "aliases": [
+        "Influenciar o Bando",
+        "Sway the Flock"
+      ],
+      "discipline": "Animalismo",
+      "level": 4,
+      "versions": [
+        {
+          "id": "sway-the-flock-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 71, 72",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 71,
+              "printedPage": 69
+            },
+            {
+              "pdfPage": 72,
+              "printedPage": 70
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Influencia o humor geral dos animais numa área ampla, da indiferença sonolenta à agressividade indiscriminada, sem controlar suas ações específicas."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um ou mais Testes de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Autocontrole + Animalismo."
+              },
+              {
+                "title": "Sistema",
+                "text": "Escolha o comportamento desejado. Com um sucesso, o efeito é quase imperceptível; com cinco, o impulso domina os animais, fazendo os acalmados dormir ou os agitados atacar sem provocação. Tentativas mundanas de controlá-los aumentam de Dificuldade em um por sucesso obtido. A área inicial equivale aproximadamente a um campo de futebol; Testes de Sangue adicionais a ampliam, até cinco para uma cidade pequena."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire can influence the general mood of animals over a wide area. While they cannot control the specific actions of the beasts, they can steer their behavior toward anything from sleepy indifference to indiscriminate aggression. Use of this power can be subtle, with nothing to show but a lack of birdsong, or it can be pure bedlam, with people barricading themselves indoors, carcasses littering the ground as beasts rip anything that moves apart in a frenzy."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One or more Rouse Checks\n\n Dice Pools: Composure + Animalism"
+              },
+              {
+                "title": "System",
+                "text": "The vampire decides on the behavior they want to encourage in the local animals and makes a Composure + Animalism test. The effect scales with the number of successes: At one success animals aren’t noticeably affected, while at five their behavior will be completely dominated by the desired impulse, with calmed animals falling asleep or riled ones attacking anyone or each other with no provocation. Any mundane attempt to control the animals increases in Difficulty equal to the number of successes on the test. The size of the area affected is roughly the size of a football field, though it can be extended with additional Rouse Checks, up to five for a small town."
+              },
+              {
+                "title": "Duration",
+                "text": "One night"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "blurred-momentum",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Movimento Borrado",
+        "en": "Blurred Momentum"
+      },
+      "aliases": [
+        "Movimento Borrado",
+        "Blurred Momentum"
+      ],
+      "discipline": "Celeridade",
+      "level": 4,
+      "versions": [
+        {
+          "id": "blurred-momentum-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 74",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 74,
+              "printedPage": 72
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Move-se como um borrão irregular, difícil de atingir mesmo quando não percebe o oponente ou não se defende ativamente."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue por turno."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ataques com menos sucessos que o nível de Celeridade do usuário sempre erram, independentemente do resultado de sua defesa ou esquiva, se houver. Também funciona contra ataques surpresa e ataques que impedem defesa, como Golpe Relâmpago. Ativar exige um Teste de Sangue, e cada turno adicional exige outro."
+              },
+              {
+                "title": "Duração",
+                "text": "Até o usuário deixar de manter o poder."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire’s movement becomes a jittering blur, making it extremely difficult to land attacks on them even when they are not aware of the opponent or actively defending."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check per turn\n\n Dice Pools: N/A"
+              },
+              {
+                "title": "System",
+                "text": "Attacks that achieve fewer successes than the user’s Celerity rating always miss, no matter the result of a defense or dodge test (if any). This also works against surprise attacks or other attacks that disallow defense tests, such as Lightning Strike. Activating this power requires one Rouse Check and extending it requires an additional Check for each turn it is kept active."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the user lets it lapse"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "earths-perseverance",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Perseverança da Terra",
+        "en": "Earth’s Perseverance"
+      },
+      "aliases": [
+        "Perseverança da Terra",
+        "Earth’s Perseverance"
+      ],
+      "discipline": "Fortitude",
+      "level": 2,
+      "versions": [
+        {
+          "id": "earths-perseverance-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 76, 77",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 76,
+              "printedPage": 74
+            },
+            {
+              "pdfPage": 77,
+              "printedPage": 75
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Extrai a permanência da terra para permanecer enraizado e quase impossível de deslocar."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Fortitude 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Enquanto o poder estiver ativo, só se move se escolher fazê-lo por conta própria. Isso não oferece resistência a dano: ainda pode ser esmagado, despedaçado ou dilacerado, assim como o piso em que está apoiado."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até encerrar o poder."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "A vampire with this power is almost impossible to move when it is active. The vampire draws upon the strength of the earth, grounding themselves and drawing upon its permanence to keep them rooted in place."
+              },
+              {
+                "title": "Requirements",
+                "text": "Fortitude 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse check"
+              },
+              {
+                "title": "System",
+                "text": "When this power is activated, the only way the vampire moves is if they choose to do so independently. This doesn’t make them resistant to damage, and a vampire can still be crushed, ripped apart, or torn to shreds, as can the floor they’re standing on."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until lapsed by user"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gorgons-scales",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Escamas da Górgona",
+        "en": "Gorgon’s Scales"
+      },
+      "aliases": [
+        "Escamas da Górgona",
+        "Gorgon’s Scales"
+      ],
+      "discipline": "Fortitude",
+      "level": 4,
+      "versions": [
+        {
+          "id": "gorgons-scales-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 77, 78",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 77,
+              "printedPage": 75
+            },
+            {
+              "pdfPage": 78,
+              "printedPage": 76
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A Ressonância do sangue da última alimentação oferece defesas contra poderes e fraquezas vampíricas. Alguns vampiros mantêm vítimas com emoções manipuladas para dispor de diferentes Ressonâncias."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Fortitude 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ao ativar, recebe a proteção correspondente à Ressonância da última vítima, conforme a tabela. A Ressonância é consumida nas condições indicadas."
+              },
+              {
+                "title": "Proteções",
+                "text": "| Ressonância | Efeito | Quando a Ressonância é perdida |\n| --- | --- | --- |\n| Colérica | Uma estaca cravada no coração apodrece ou vira cinzas ao fim da cena, libertando o vampiro da paralisia | Ao libertar o vampiro |\n| Melancólica | Dano agravado de Vitalidade causado por fogo torna-se superficial | Após reduzir quatro níveis |\n| Fleumática | Quatro dados extras para resistir a poderes de Auspícios que revelem informações sobre o vampiro ou seu conhecimento | Ao fim da cena |\n| Sanguínea | Dano agravado de Vitalidade causado por luz solar torna-se superficial | Após reduzir quatro níveis |"
+              },
+              {
+                "title": "Duração",
+                "text": "Até o fim da cena ou até perder a Ressonância, o que ocorrer primeiro."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The Resonance of the blood in the vampire’s system grants them various defenses against the powers of other Kindred, or protects them from common vampire weaknesses. Finding the right vessel to respond to an immediate defensive requirement is not always easy, but especially callous vampires have been known to keep vessels with different Resonances in ready supply, using elaborate manipulative schemes or plain drugs to keep their emotions vivid and ready to tap."
+              },
+              {
+                "title": "Requirements",
+                "text": "Fortitude 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: N/A"
+              },
+              {
+                "title": "System",
+                "text": "On activation the vampire gains a set of immunities or resistances dependent on the Resonance of the blood they most recently fed upon.\n\n\n- \n\nCholeric: A stake driven through the vampire’s heart is consumed with decay or turns to ash at the end of the scene, immediately freeing the vampire from paralysis. The Resonance is then lost.\n\n\n- \n\nMelancholy: Aggravated Health damage caused by fire is reduced to Superficial. The Resonance is lost after reducing four levels of damage.\n\n\n- \n\nPhlegmatic: The vampire gains a four-dice bonus to resist Auspex powers that would reveal anything about them or what they know. Once the power is activated it lasts for a scene, at which point the Resonance is lost.\n\n\n- \n\nSanguine: Aggravated Health damage caused by sunlight is reduced to Superficial. The Resonance is lost after reducing four levels of damage."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the scene ends or the Resonance is lost, whichever comes first."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "invigorating-vitae",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Vitae Revigorante",
+        "en": "Invigorating Vitae"
+      },
+      "aliases": [
+        "Vitae Revigorante",
+        "Invigorating Vitae"
+      ],
+      "discipline": "Fortitude",
+      "level": 2,
+      "versions": [
+        {
+          "id": "invigorating-vitae-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 77",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 77,
+              "printedPage": 75
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 2,
+              "Auspícios": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Fortalece o poder do próprio Sangue para regenerar carne mortal e curar enfermidades de seres vivos que o bebam."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Fortitude 2; Auspícios 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Nenhum além dos Testes de Sangue por fornecer vitae."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ao usar vitae para curar vivos, conforme a p. 139 do Guia, cura três níveis de dano agravado por Teste de Sangue, em vez de um. Os outros efeitos, como tornar-se carniçal e arriscar Laço de Sangue, permanecem."
+              },
+              {
+                "title": "Duração",
+                "text": "Passivo."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Amalgam: Auspex 1 The vampire is able to strengthen their Blood’s capacity to knit mortal flesh and heal ailments. Living beings that partake of their vitae recover their health at surprising speed."
+              },
+              {
+                "title": "Requirements",
+                "text": "Fortitude 2; Auspex 1."
+              },
+              {
+                "title": "Cost",
+                "text": "None beyond Rouse Checks for giving Blood\n\n Dice Pools: N/A"
+              },
+              {
+                "title": "System",
+                "text": "Using vitae to heal the living (see p. 139) heals three levels of Aggravated Damage per Rouse Check rather than just one. Other effects (becoming a ghoul, risking Blood Bond) remain unchanged."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-celeridade-unseen-strike",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Golpe Invisível",
+        "en": "Unseen Strike"
+      },
+      "aliases": [
+        "Golpe Invisível",
+        "Unseen Strike"
+      ],
+      "discipline": "Celeridade",
+      "level": 5,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-celeridade-unseen-strike-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 75",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 75,
+              "printedPage": 73
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 5,
+              "Ofuscação": 4
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Piscar",
+                "Blink"
+              ]
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Desaparece à vista e desloca-se instantaneamente até um inimigo para atacar, combinando Piscar com elementos de Desaparecer."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 5; Ofuscação 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Dois Testes de Sangue."
+              },
+              {
+                "title": "Requisitos adicionais",
+                "text": "Piscar."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Destreza + Celeridade contra Raciocínio + Percepção."
+              },
+              {
+                "title": "Sistema",
+                "text": "O alvo é surpreendido e, salvo se vencer a disputa de percepção, não pode defender-se: o ataque é feito contra Dificuldade 1, conforme ataques surpresa do Livro Básico inglês, p. 300. Se o usuário falhar nessa disputa, ainda realiza um ataque normal conforme Piscar, p. 253. O deslocamento tem as mesmas restrições de Piscar."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Prerequisite: Blink\n\nAmalgam: Obfuscate 4 This lethal power not only allows the vampire to vanish from plain sight but to instantly move to an enemy and deliver a fatal strike. A vampire skilled in this art can quickly turn the tables as they disappear in front of pursuers, escaping not only with their lives but with that of their prey as well."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 5; Obfuscate 4."
+              },
+              {
+                "title": "Cost",
+                "text": "Two Rouse Checks\n\n Dice Pools: Dexterity + Celerity vs Wits + Awareness"
+              },
+              {
+                "title": "System",
+                "text": "This power combines effects of Blink with elements of the Obfuscate power of Vanish. To onlookers the vampire appears to disappear and the target is caught unawares, becoming subject to surprise attack. Unless the victim can react by beating the user’s Dexterity + Celerity with their Wits + Awareness in a contest, they are unable to defend against the attack and it is made against a set Difficulty of 1. (See Surprise Attacks in Vampire: The Masquerade, p. 300). If the attacker fails this test they still perform a regular attack, as per Blink power (Vampire: The Masquerade, p. 253), and Unseen Strike is also subject to the same movement restrictions as Blink."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-domina-o-ancestral-dominion",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Domínio Ancestral",
+        "en": "Ancestral Dominion"
+      },
+      "aliases": [
+        "Domínio Ancestral",
+        "Ancestral Dominion"
+      ],
+      "discipline": "Dominação",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-domina-o-ancestral-dominion-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 76",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 76,
+              "printedPage": 74
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 4,
+              "Feitiçaria de Sangue": 2
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Mesmerismo",
+                "Mesmerize"
+              ]
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Transmite uma ordem pelo Sangue a um descendente, dispensando fala e contato visual. A vítima sabe instintivamente que um ancestral a manipula."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 4; Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Requisitos adicionais",
+                "text": "Mesmerismo."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Manipulação + Dominação contra Determinação + Ocultismo."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória leva o descendente a cumprir o pedido, desde que não envolva ferir a si mesmo. O alvo recebe um dado extra de resistência por Geração que o separe do usuário: um descendente de 11ª Geração recebe dois dados contra um ancestral de 9ª. A ordem passa silenciosamente de Sangue para Sangue, mas todas as demais limitações de Dominação se aplicam."
+              },
+              {
+                "title": "Duração",
+                "text": "Até cumprir a ordem ou o fim da cena, o que ocorrer primeiro."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Prerequisite: Mesmerize\n\nAmalgam: Blood Sorcery 2 Vampires of great age and potency find it possible to exert their will via the Blood, without the traditional need for eye contact and verbal communication with their target. This power enables a Kindred to compel a descendant by Blood to take an action on their behalf, even if it’s one the target would normally be opposed to. Vampires instinctively know an ancestor is manipulating them when subject to this power."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 4; Blood Sorcery 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: Manipulation + Dominate vs. Resolve + Occult"
+              },
+              {
+                "title": "System",
+                "text": "On a successful test of Manipulation + Dominate against Resolve + Occult, the victim acts to fulfill the dominating ancestor’s request, provided it doesn’t entail harming themself. For every generation separating the user of this power from their target, the resisting vampire gains an additional die to their roll. For example, when a ninth generation vampire attempts to use this power on an eleventh generation descendant, the descendant gains two extra dice in defense. The power needs neither eye contact nor verbal command — the request is silently transmitted from Blood to Blood — but it is subject to all other Dominate limitations."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the command is carried out or the scene ends, whichever comes first."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-domina-o-implant-suggestion",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Implantar Sugestão",
+        "en": "Implant Suggestion"
+      },
+      "aliases": [
+        "Implantar Sugestão",
+        "Implant Suggestion"
+      ],
+      "discipline": "Dominação",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-domina-o-implant-suggestion-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 76",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 76,
+              "printedPage": 74
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 4,
+              "Presença": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Altera temporariamente intenções, paixões, opiniões ou personalidade, em vez de apenas conduzir uma vítima sem vontade. Pode suscitar desejos, desconfiança ou abandono de vínculos; seu uso indiscriminado inspira repulsa e medo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 4; Presença 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Manipulação + Dominação contra Autocontrole + Determinação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Não exige teste contra mortais desprevenidos. Mortais preparados ou vampiros resistem pela disputa indicada. Mudanças radicais em crenças centrais, como fazer um vegano desejar carne ou um pacifista desejar violência, também permitem resistência a mortais desprevenidos. Ao fim da cena, o alvo sai desse estado."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Amalgam: Presence 1 The vampire possesses the power to change the very personality or opinions of a subject, at least temporarily. While other powers enable them to puppeteer mindless victims, this power lets them alter the intents or passions of a victim instead. They can make someone desire a stranger, abandon their family, distrust their own beliefs, or simply want a beer. Vampires known to utilize this power indiscriminately often find themselves shunned by their peers, whether from disdain or utter fear."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 4; Presença 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: Manipulation + Dominate vs Composure + Resolve"
+              },
+              {
+                "title": "System",
+                "text": "No test is required against an unprepared mortal victim, but a prepared mortal or another vampire requires a test of Manipulation + Dominate against Composure + Resolve. Radical changes to core beliefs – making a vegan crave a steak or making a pacifist violent, for example – also merit an attempt to resist, even by unprepared mortals. The suggestion remains in effect for a scene, at which point the victim snaps out of it."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-domina-o-slavish-devotion",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Devoção Servil",
+        "en": "Slavish Devotion"
+      },
+      "aliases": [
+        "Devoção Servil",
+        "Slavish Devotion"
+      ],
+      "discipline": "Dominação",
+      "level": 1,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-domina-o-slavish-devotion-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 75",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 75,
+              "printedPage": 73
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 1,
+              "Fortitude": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Fortalece a mente de quem já está sob sua Dominação contra interferência de outros vampiros."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 1; Fortitude 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Nenhum custo adicional."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma terceira pessoa que tente usar Dominação num personagem já sob a Dominação do usuário sofre uma penalidade de dados igual à Fortitude dele."
+              },
+              {
+                "title": "Duração",
+                "text": "Passivo."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Amalgam: Fortitude 1 Those already under the mental dominion of the vampire have their minds strengthened against interference from other Kindred."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 1; Fortitude 1."
+              },
+              {
+                "title": "Cost",
+                "text": "No additional cost"
+              },
+              {
+                "title": "System",
+                "text": "Any attempt by a third party to use Dominate on a character already under the influence of the vampire’s Dominate suffers a dice penalty equal to the Fortitude of the vampire."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "rush-job",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Trabalho Acelerado",
+        "en": "Rush Job"
+      },
+      "aliases": [
+        "Trabalho Acelerado",
+        "Rush Job"
+      ],
+      "discipline": "Celeridade",
+      "level": 2,
+      "versions": [
+        {
+          "id": "rush-job-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 74",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 74,
+              "printedPage": 72
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Executa tarefas demoradas com mãos e dedos rápidos demais para acompanhar. A concentração permite fins não violentos mesmo sob pressão ou ataque."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Tarefas de Habilidade que exigiriam turnos inteiros podem ser realizadas em segundos. Pode tratar uma ação completa como ação menor, conforme o Livro Básico inglês, p. 298. Não acelera ataques, defesas nem outras tarefas ativamente resistidas. Por exemplo, pode abrir uma fechadura e disparar uma arma, aplicando ao disparo a penalidade de dois dados da ação menor."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire can perform time-consuming tasks with blinding speed, their fingers and hands blurring as they write, repair, or build things in record time. While the concentration required prohibits them from employing this speed on the offense, it does allow them to achieve non-violent ends faster when under duress or outright attack."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: N/A"
+              },
+              {
+                "title": "System",
+                "text": "When active, this power lets the vampire complete Skill-related tasks that would otherwise take whole turns in the span of a few seconds, and can treat a full action as a minor action (Vampire: The Masquerade, p. 298). The power cannot be used to speed up attacks, defenses, or to perform any other actively resisted task but it does allow the vampire to, for example, jimmy a lock and fire a gun (the latter with a two-dice penalty, as per the minor action rules.)"
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "weaving",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Esquiva Veloz",
+        "en": "Weaving"
+      },
+      "aliases": [
+        "Esquiva Veloz",
+        "Weaving"
+      ],
+      "discipline": "Celeridade",
+      "level": 3,
+      "versions": [
+        {
+          "id": "weaving-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 74",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 74,
+              "printedPage": 72
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 3
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Reflexos Rápidos",
+                "Rapid Reflexes"
+              ]
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Percebe facas arremessadas e balas como projéteis lentos, conseguindo desviar-se deles."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Requisitos adicionais",
+                "text": "Reflexos Rápidos."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ao defender-se de múltiplos ataques à distância com Destreza + Atletismo, não sofre redução progressiva da parada. Acrescenta também seu nível de Celeridade a todas essas defesas enquanto o poder estiver ativo."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Prerequisite: Rapid Reflexes A vampire with this power moves fast enough to perceive projectiles such as throwing knives or bullets as slow, and can sidestep them at leisure."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: N/A"
+              },
+              {
+                "title": "System",
+                "text": "The user does not suffer diminishing dice pools when defending against multiple ranged attacks using Dexterity + Athletics. They can also add their Celerity rating to all such attempts while this power is active."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-ofusca-o-mind-masque",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Máscara Mental",
+        "en": "Mind Masque"
+      },
+      "aliases": [
+        "Máscara Mental",
+        "Mind Masque"
+      ],
+      "discipline": "Ofuscação",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-ofusca-o-mind-masque-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 80, 81",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 80,
+              "printedPage": 78
+            },
+            {
+              "pdfPage": 81,
+              "printedPage": 79
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 4,
+              "Dominação": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Cria uma personalidade ilusória para ocultar pensamentos e sentimentos de leituras sobrenaturais de mente, aura ou estado emocional."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Ofuscação 4; Dominação 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Ofuscação, Dificuldade de 1 a 3 ou mais conforme a elaboração: 1 para mascarar emoções; 3 ou mais para uma personalidade completa com pensamentos e lembranças falsos."
+              },
+              {
+                "title": "Sistema",
+                "text": "Acrescente a margem de vitória à Dificuldade de qualquer leitura sobrenatural. Quem não alcançar a Dificuldade aumentada, mas alcançar a normal, vê somente a personalidade falsa, sem perceber a fraude. Quem nem alcançar a Dificuldade normal não obtém informação alguma."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Amalgam: Dominate 2 The vampire can craft the illusion of a completely different persona, hiding their true thoughts and feelings to anyone who uses supernatural abilities to read their mental state, aura, thoughts, or similar. Those who look into their mind see only what the user wants them to see, and only the most accomplished scryers can pierce this elaborate facade."
+              },
+              {
+                "title": "Requirements",
+                "text": "Obfuscate 4; Dominate 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: Intelligence + Obfuscate"
+              },
+              {
+                "title": "System",
+                "text": "The user rolls Intelligence + Obfuscate against a Difficulty of 1 to 3 (or more), depending on the sophistication of the ruse they want to enact, with 1 representing a simple masking of their emotional state to 3 and beyond for elaborate alternate personas complete with false thoughts and memories. The margin on the win is added as Difficulty to any attempt to “read” them. Failing to reach the added Difficulty lets the reader see only the false personality the user has crafted, without any hint that the reader is being misled. (Failing to reach even the standard Difficulty yields nothing, as normal, so as not to let on that a false personality is present.)"
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-pot-ncia-crash-down",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Queda Devastadora",
+        "en": "Crash Down"
+      },
+      "aliases": [
+        "Queda Devastadora",
+        "Crash Down"
+      ],
+      "discipline": "Potência",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-pot-ncia-crash-down-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 81",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 81,
+              "printedPage": 79
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 4
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Salto Vertiginoso",
+                "Soaring Leap"
+              ]
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Transforma a aterrissagem de Salto Vertiginoso num impacto que atinge os que estiverem ao redor."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 4. Poder: Salto Vertiginoso."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Força + Potência contra Destreza + Atletismo."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ao usar Salto Vertiginoso, pode ativar este poder. Cada pessoa num raio de três metros sofre um ataque pela parada indicada, recebendo dano superficial igual à margem. Quem sofrer três ou mais níveis de dano ou uma falha total na defesa é derrubado, conforme a p. 122 do Livro Básico inglês."
+              },
+              {
+                "title": "Duração",
+                "text": "Não se aplica."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Prerequisite: Soaring Leap Having honed their capabilities, the vampire now sticks the landing on their Soaring Leap in a big way. The vampire can come to an unstoppable halt at their location, causing damage to anyone they land on or around."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Strength + Potence"
+              },
+              {
+                "title": "System",
+                "text": "Upon using Soaring Leap, the vampire may activate Crash Down, and deal damage to a small area of effect. Anyone within a three-meter radius is subject to an attack roll of the user’s Strength + Potence against their Dexterity + Athletics, suffering Superficial Damage equal to the margin. Anyone suffering three or more levels of damage or a total failure on their defense test is knocked down (see Vampire: The Masquerade, p. 122)."
+              },
+              {
+                "title": "Duration",
+                "text": "N/A"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-pot-ncia-relentless-grasp",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Agarre Implacável",
+        "en": "Relentless Grasp"
+      },
+      "aliases": [
+        "Agarre Implacável",
+        "Relentless Grasp"
+      ],
+      "discipline": "Potência",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-pot-ncia-relentless-grasp-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 81",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 81,
+              "printedPage": 79
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A força do aperto torna quase impossível soltar o vampiro à força sem desmembrá-lo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Acrescenta seu nível de Potência como sucessos automáticos em tentativas de segurar algo. Inclui manter um agarrão, mas não o teste inicial para agarrar."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire’s grip becomes impossibly strong and once they get a good hold of something they are almost impossible to dislodge, short of dismemberment."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: N/A"
+              },
+              {
+                "title": "System",
+                "text": "The vampire adds their Potence rating as automatic successes to any attempt that involves holding on to something. This includes attempts to maintain a grapple, though the initial grapple test does not benefit from this bonus."
+              },
+              {
+                "title": "Duration",
+                "text": "One Scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-pot-ncia-subtle-hammer",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Martelo Sutil",
+        "en": "Subtle Hammer"
+      },
+      "aliases": [
+        "Martelo Sutil",
+        "Subtle Hammer"
+      ],
+      "discipline": "Potência",
+      "level": 5,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-pot-ncia-subtle-hammer-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 81, 82",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 81,
+              "printedPage": 79
+            },
+            {
+              "pdfPage": 82,
+              "printedPage": 80
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Concentra a força do corpo inteiro em movimentos mínimos, como um toque de dedo ou de pé. Não aumenta a força em si, mas permite aplicá-la sem movimentos amplos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ataques desarmados de corpo a corpo e proezas de força passam a contar como ações menores de dois dados, conforme o Livro Básico inglês, p. 298. Só pode realizar uma ação menor deste poder por turno e não pode fazer outros ataques nesse turno. Proezas de força com movimento limitado, como escapar de amarras, recebem quatro dados extras ou mais, a critério do Narrador."
+              },
+              {
+                "title": "Duração",
+                "text": "Passivo."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Suffused by inhuman prowess, every part of the vampire’s body becomes able to project the sum of their strength. A flick of their finger can be made to convey the power of a full-body punch, and a punt of the toe becomes a concreteshattering kick. Note that this power does not make the vampire stronger, but they are able to use what strength they have through minor, subtle movements."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Free\n\n Dice Pools: N/A"
+              },
+              {
+                "title": "System",
+                "text": "Performing unarmed melee attacks or feats of strength now counts as two-dice minor actions (see Minor Actions in Vampire: The Masquerade, p. 298). A character can perform only one Subtle Hammer minor action per turn, though, and cannot make further attacks in the same turn. The ability to concentrate one’s full strength into any part of the body also has other benefits, and any feat of strength where the user’s movement is limited (such as breaking out of bonds) receives a four-dice bonus or more, at the Storyteller’s discretion."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-pot-ncia-wrecker",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Demolidor",
+        "en": "Wrecker"
+      },
+      "aliases": [
+        "Demolidor",
+        "Wrecker"
+      ],
+      "discipline": "Potência",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-pot-ncia-wrecker-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 81",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 81,
+              "printedPage": 79
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Potência": 3
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Poderio",
+                "Prowess"
+              ]
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Concentra força destrutiva contra objetos estáticos, como portas, carros ou estátuas. A preparação impede o uso em combate."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Potência 3. Poder: Poderio."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Conte duas vezes o nível de Potência ao usar Poderio para proezas de força que danifiquem ou destruam um objeto inanimado."
+              },
+              {
+                "title": "Duração",
+                "text": "A de Poderio."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Prerequisite: Prowess The vampire is able to exert violent, indiscriminate force on a static object in order to shatter, smash, and destroy it. While the lead-up time to summon this strength makes the ability useless in a fight, it comes in handy whenever a door bars the way, a car needs immobilizing, or an example needs to be made of an offending statue."
+              },
+              {
+                "title": "Requirements",
+                "text": "Potence 3."
+              },
+              {
+                "title": "Cost",
+                "text": "Free\n\n Dice Pools: N/A"
+              },
+              {
+                "title": "System",
+                "text": "The user counts their Potence rating twice when using Prowess for feats of strength that involve damage or destruction of an inanimate object."
+              },
+              {
+                "title": "Duration",
+                "text": "As Prowess"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-presen-a-eyes-of-the-serpent",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Olhos da Serpente",
+        "en": "Eyes of the Serpent"
+      },
+      "aliases": [
+        "Olhos da Serpente",
+        "Eyes of the Serpent"
+      ],
+      "discipline": "Presença",
+      "level": 1,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-presen-a-eyes-of-the-serpent-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 82",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 82,
+              "printedPage": 80
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 1,
+              "Proteanismo": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Olhos de pupilas reptilianas paralisam um mortal que encontre seu olhar. Também pode paralisar vampiros por pouco tempo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 1; Proteanismo 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Carisma + Presença contra Raciocínio + Autocontrole, apenas para alvos vampiros."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ao captar o olhar de um mortal, mantém-no imóvel enquanto sustentar o contato visual. Só afeta um alvo por vez; dano ou remoção à força encerram o efeito. A vítima ainda pode falar, mas não gritar. Contra vampiros, exige vitória na disputa; depois do primeiro turno, a vítima vampira pode gastar um ponto de Força de Vontade para libertar-se em qualquer turno."
+              },
+              {
+                "title": "Duração",
+                "text": "Até romper o contato visual ou o fim da cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Amalgam: Protean 1 The eyes of the vampire turn into slitted, serpentlike orbs able to freeze a mortal meeting the vampire’s gaze in place. The user can even mesmerize other vampires with this power, though the effect is short-lived and likely to rouse the victim’s ire."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 1; Protean 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free\n\n Dice Pools: Charisma + Presence vs. Wits + Composure"
+              },
+              {
+                "title": "System",
+                "text": "By catching the eye of a mortal (Vampire: The Masquerade, p. 255) the vampire can immobilize a victim, keeping them frozen in place as long as they themselves maintain eye contact. The effect can only be maintained on a single victim at a time, and ends if they suffer damage or are forcibly removed. The victim is still capable of speech, though not shouting. In order to paralyze a vampire in the same way, the user must win a contest of Charisma + Presence vs. Wits + Composure. The vampire victim can escape paralysis on any turn after the first by spending a point of Willpower."
+              },
+              {
+                "title": "Duration",
+                "text": "Until eye contact is broken or the scene ends."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-presen-a-melpominee",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Melpominee",
+        "en": "Melpominee"
+      },
+      "aliases": [
+        "Melpominee"
+      ],
+      "discipline": "Presença",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-presen-a-melpominee-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 82",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 82,
+              "printedPage": 80
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A voz encanta ou aterroriza por si só quem puder ouvi-la, mesmo sem ver o vampiro. Gravações e transmissões eletrônicas não conservam o efeito."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Pode usar Fascínio, Amedrontar, Olhar Aterrorizante, Transe e Majestade somente pela voz. Usuário e alvo não precisam enxergar um ao outro; o alvo precisa estar perto o bastante para ouvi-lo."
+              },
+              {
+                "title": "Duração",
+                "text": "Não se aplica; use a duração do poder transmitido."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The voice of the user becomes like that of a siren, able to entrance or terrify by itself, without the user having to be present. The voice can affect anyone within earshot but does not retain its ability if recorded or electronically transmitted."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 2."
+              },
+              {
+                "title": "Cost",
+                "text": "Free\n\n Dice Pools: N/A"
+              },
+              {
+                "title": "System",
+                "text": "The vampire is able to use Awe, Daunt, Dread Gaze, Entrance, and Majesty through their voice alone. They do not need to see the target, and the target does not have to be in their presence save to be close enough to hear their voice."
+              },
+              {
+                "title": "Duration",
+                "text": "N/A"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-presen-a-suffuse-the-edifice",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Impregnar o Edifício",
+        "en": "Suffuse the Edifice"
+      },
+      "aliases": [
+        "Impregnar o Edifício",
+        "Suffuse the Edifice"
+      ],
+      "discipline": "Presença",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-presen-a-suffuse-the-edifice-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 82, 83",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 82,
+              "printedPage": 80
+            },
+            {
+              "pdfPage": 83,
+              "printedPage": 81
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Enquanto estiver num edifício ou local semelhante, transmite Fascínio, Amedrontar ou Majestade pela estrutura. Quem estiver dentro ou olhando para ela reage como se fosse o vampiro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Não se aplica; siga o poder transmitido."
+              },
+              {
+                "title": "Parada",
+                "text": "A do poder transmitido."
+              },
+              {
+                "title": "Sistema",
+                "text": "Pessoas dentro ou que vejam o edifício de fora resistem como se o vampiro estivesse presente. Se puderem ver o próprio vampiro, ele se torna o foco. Como edifícios normalmente não fazem testes de Habilidade, aplique os bônus às reações do alvo ao local. Fascínio pode atrair filas para uma casa noturna, e Amedrontar pode afastar investigadores de um refúgio. Majestade exige cuidado extremo: os efeitos podem ser espetaculares e voláteis."
+              },
+              {
+                "title": "Duração",
+                "text": "A do poder transmitido."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "While present in a building or similar locale the vampire is able to extend the powers of Awe, Daunt, and Majesty through the very structure of the building. Anybody in the building or looking at it will be affected by these powers, reacting to the building as if the vampire themself is present."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 4."
+              },
+              {
+                "title": "Cost",
+                "text": "N/A"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "As power transmitted"
+              },
+              {
+                "title": "System",
+                "text": "Anyone seeing the building from outside or who are present inside it needs to resist the power used as if the vampire was present, unless the vampire is within eyesight, at which point they themselves becomes the focus. As a building does not generally make Skill checks, apply the bonuses instead to any reaction the victim has to the place. A nightclub under the influence of Awe will have queues stretching around the block, while a haven under Daunt will turn away all but the most staunch investigators. Use of Majesty has to be done with extreme caution, as the results can be spectacular and volatile, far exceeding the effect of the more subtle powers."
+              },
+              {
+                "title": "Duration",
+                "text": "As power transmitted"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-presen-a-thrown-voice",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Voz Projetada",
+        "en": "Thrown Voice"
+      },
+      "aliases": [
+        "Voz Projetada",
+        "Thrown Voice"
+      ],
+      "discipline": "Presença",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-presen-a-thrown-voice-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 82",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 82,
+              "printedPage": 80
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Presença": 3,
+              "Auspícios": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Faz a voz surgir de qualquer ponto à vista, como sussurro ou grito. Pode deixá-la num local, atraindo ou aterrorizando quem se aproxime conforme o poder associado."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Presença 3; Auspícios 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Nenhum teste além do Teste de Sangue. Com Voz Irresistível, Melpominee ou poderes semelhantes, faça os testes desses poderes normalmente. A voz soa como se o vampiro estivesse no ponto escolhido, e seu alcance depende do volume."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Amalgam: Auspex 1 The vampire can cause their voice to emanate from any point within sight, whether as a whisper or shout. The voice is audible as if the vampire was standing in that spot and can be heard by anyone within earshot, depending on strength. The voice can also be left in a location, continuing to lure or terrify those who stray, depending on the power used."
+              },
+              {
+                "title": "Requirements",
+                "text": "Presence 3; Auspex 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check\n\n Dice Pools: N/A"
+              },
+              {
+                "title": "System",
+                "text": "No roll is required, apart from the Rouse Check. If using this power in combination with Irresistible Voice, Melpominee, or similar powers, they must roll as usual."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mental-maze",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Labirinto Mental",
+        "en": "Mental Maze"
+      },
+      "aliases": [
+        "Labirinto Mental",
+        "Mental Maze"
+      ],
+      "discipline": "Ofuscação",
+      "level": 3,
+      "versions": [
+        {
+          "id": "mental-maze-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 79, 80",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 79,
+              "printedPage": 77
+            },
+            {
+              "pdfPage": 80,
+              "printedPage": 78
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 3,
+              "Dominação": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Remove a orientação da vítima e a aprisiona no ambiente atual, como casa, boate ou porão. Sua percepção dos cômodos muda, fazendo saídas parecerem conduzir mais fundo ao labirinto e levando ao pânico."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Ofuscação 3; Dominação 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue; três para afetar um único cômodo ou um ambiente externo denso, como floresta ou canteiro de obras."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Carisma + Ofuscação contra Raciocínio + Determinação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Exige contato visual. Vampiros de Geração mais baixa podem gastar um ponto de Força de Vontade para anular a rolagem, conforme as características de Dominação. Numa vitória, a vítima não consegue sair do edifício. Mortais não podem tentar escapar. Criaturas sobrenaturais podem testar Determinação + Percepção a cada cena, com Dificuldade igual aos sucessos iniciais do usuário; falhar causa um dano superficial de Força de Vontade por sucesso faltante. Esse teste não recebe Trabalho em Equipe: orientações externas não correspondem ao que a vítima vê. O efeito acaba se o ambiente se tornar perigoso, como num incêndio, salvo se o usuário possuir Decreto Terminal."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Amalgam: Dominate 1 Mental Maze is the ability to remove all sense of direction and location from a victim, allowing the vampire to make their target a prisoner in their current environment, such as a home, a nightclub, or a vampire’s cellar. The victim finds their location folding back on itself, subtly altering their perception of previously visited rooms, convincing them that an actual exit only leads deeper into the maze, and eventually breaking them down into a state of panic and fragility."
+              },
+              {
+                "title": "Requirements",
+                "text": "Obfuscate 3; Dominate 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One or Three Rouse Checks\n\n Dice Pools: Charisma + Obfuscate vs. Wits + Resolve"
+              },
+              {
+                "title": "System",
+                "text": "The vampire makes eye contact with their victim and rolls Charisma + Obfuscate versus the target’s Wits + Resolve, with lower Generation vampires being able to negate the roll with a Willpower point as per Dominate’s characteristics (Vampire: The Masquerade, p. 255). On a win, the victim struggles to find their way out of the building they’re in. An additional two Rouse Checks allows this power to be used in a single room or a densely packed outdoor environment (such as a construction site or forest). Mortals cannot attempt to escape but supernatural creatures can make a Resolve + Awareness test each scene using the vampire’s initial successes as the Difficulty, suffering a point of Superficial Willpower damage for every missing success if they fail. This roll cannot benefit from Teamwork, as any guidance given does not match what the victim sees. This power ends if the environment becomes dangerous (e.g. the building catches fire), unless the vampire has Terminal Decree (Vampire: The Masquerade, p. 257)."
+              },
+              {
+                "title": "Duration",
+                "text": "One night"
               }
             ]
           }

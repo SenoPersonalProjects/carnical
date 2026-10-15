@@ -1,0 +1,92 @@
+{
+  "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mercurian-tongue",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Língua Mercuriana",
+    "en": "Mercurian Tongue"
+  },
+  "aliases": [
+    "Língua Mercuriana",
+    "Mercurian Tongue"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 1,
+  "versions": [
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mercurian-tongue-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 105",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 105,
+          "printedPage": 103
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite falar a língua nativa do mortal cujo sangue foi usado na fórmula."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue de um mortal com língua nativa diferente da sua, língua de peixe ou ave, molho de pimenta de outro país e limalha de cobre."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Fala a língua nativa do mortal usado na fórmula. Gastando um ponto de Força de Vontade e alimentando-se de outro mortal, pode substituir a língua adquirida pela língua nativa desse mortal."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite, ou até alimentar-se de alguém com a mesma língua nativa do alquimista."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The alchemist can speak the native language of the mortal whose blood they used in the formula, and the native languages of those they feed from until they next sleep."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s Blood, blood of a mortal who speaks a different native language than the alchemist, the tongue of a fish or bird, hot sauce from another country, and copper filings."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "The alchemist can speak the native language of the mortal whose blood they used in the formula. By spending a Willpower point and feeding from a mortal, they can switch their new language to that mortal’s native language."
+          },
+          {
+            "title": "Duration",
+            "text": "One night, or until the alchemist feeds from someone with the same native language as the alchemist."
+          }
+        ]
+      }
+    }
+  ]
+}

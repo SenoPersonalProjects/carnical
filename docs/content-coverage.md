@@ -7,7 +7,7 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 86 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 123 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
@@ -15,7 +15,7 @@ na mesma entrada quando sua identificação é inequívoca.
 | --- | --- | --- |
 | Livro Básico | 5 rituais de nível 1 e Fusão com a Terra | Pendente |
 | Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
-| Guia do Jogador | Versões dos poderes, Qualidades de Coterie e Defeitos correspondentes; Contenção dos Salubri; Lasombra; 18 poderes e 9 Cerimônias de Oblívio; 2 poderes e 12 Rituais de Feitiçaria de Sangue | Demais Disciplinas, fórmulas e outras seções pendentes |
+| Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas, incluindo duas fórmulas de nível 5 antes ausentes; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; Lasombra | Clãs restantes, Predadores, Vantagens, Defeitos, loresheets e demais seções pendentes |
 | Cultos dos Deuses de Sangue | 3 Cerimônias Shalimitas | Pendente |
 | Let the Streets Run Red | Assassino de Estrada | Pendente |
 | Chicago by Night | Lasombra e os nove poderes de Oblívio, incluindo as regras gerais da Disciplina | Loresheets e demais opções pendentes |

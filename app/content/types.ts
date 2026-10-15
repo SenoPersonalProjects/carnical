@@ -7,7 +7,7 @@ export type ContentVersion = {
   id:string;book:string;sourceTitle:string;pages:Array<{pdfPage:number;printedPage:number|null}>;
   descriptions:Record<Locale,RuleSection[]>;
   pdfSha256?:string;sourceLanguage?:Locale;
-  requirements?:{disciplines?:Record<string,number>;prerequisites?:string[];clans?:string[];characterTypes?:Array<"vampire"|"ghoul"|"mortal">;creationOnly?:boolean;storytellerApproval?:boolean};
+  requirements?:{disciplines?:Record<string,number>;prerequisites?:string[];prerequisiteAlternatives?:string[][];clans?:string[];characterTypes?:Array<"vampire"|"ghoul"|"mortal">;creationOnly?:boolean;storytellerApproval?:boolean};
 };
 export type ContentEntry = {
   id:string;legacyIds?:string[];kind:ContentKind;names:Record<Locale,string>;aliases:string[];discipline?:string;level?:number;versions:ContentVersion[];

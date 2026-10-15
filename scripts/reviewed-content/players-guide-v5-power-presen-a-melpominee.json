@@ -1,0 +1,80 @@
+{
+  "id": "players-guide-v5-power-presen-a-melpominee",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Melpominee",
+    "en": "Melpominee"
+  },
+  "aliases": [
+    "Melpominee"
+  ],
+  "discipline": "Presença",
+  "level": 2,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-presen-a-melpominee-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 82",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 82,
+          "printedPage": 80
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A voz encanta ou aterroriza por si só quem puder ouvi-la, mesmo sem ver o vampiro. Gravações e transmissões eletrônicas não conservam o efeito."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Pode usar Fascínio, Amedrontar, Olhar Aterrorizante, Transe e Majestade somente pela voz. Usuário e alvo não precisam enxergar um ao outro; o alvo precisa estar perto o bastante para ouvi-lo."
+          },
+          {
+            "title": "Duração",
+            "text": "Não se aplica; use a duração do poder transmitido."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The voice of the user becomes like that of a siren, able to entrance or terrify by itself, without the user having to be present. The voice can affect anyone within earshot but does not retain its ability if recorded or electronically transmitted."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 2."
+          },
+          {
+            "title": "Cost",
+            "text": "Free\n\n Dice Pools: N/A"
+          },
+          {
+            "title": "System",
+            "text": "The vampire is able to use Awe, Daunt, Dread Gaze, Entrance, and Majesty through their voice alone. They do not need to see the target, and the target does not have to be in their presence save to be close enough to hear their voice."
+          },
+          {
+            "title": "Duration",
+            "text": "N/A"
+          }
+        ]
+      }
+    }
+  ]
+}

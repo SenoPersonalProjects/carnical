@@ -1,0 +1,96 @@
+{
+  "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-flowering-amaranth",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Amaranto Florescente",
+    "en": "Flowering Amaranth"
+  },
+  "aliases": [
+    "Amaranto Florescente",
+    "Flowering Amaranth"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 5,
+  "versions": [
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-flowering-amaranth-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 108",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 108,
+          "printedPage": 106
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 5
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite compartilhar entre sangues-ralos uma parte do poder de um vampiro de Sangue pleno por meio da Diablerie."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 5."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista e dos demais sangues-ralos participantes, até três no total; suco de flores vermelhas de amaranto cultivadas com sangue como fertilizante; sanguessugas pulverizadas, sulfeto de hidrogênio e neônio."
+          },
+          {
+            "title": "Custo",
+            "text": "Cada participante faz um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Determinação + Alquimia contra a parada de Força de Vontade + Potência de Sangue da vítima."
+          },
+          {
+            "title": "Sistema",
+            "text": "O alquimista e até dois participantes amarram cordões de seda nos pulsos, formando um triângulo; a vítima de Sangue pleno também é amarrada. Cada participante adicional pode gastar dois pontos de Força de Vontade para acrescentar um dado ao teste do alquimista. Uma vitória concede a cada sangue-ralo participante um ponto em uma Disciplina aleatória de clã da vítima. Numa vitória crítica, o alquimista escolhe a Disciplina."
+          },
+          {
+            "title": "Exceções",
+            "text": "Não podem aprender ou comprar níveis dessa Disciplina acima do primeiro ponto; fora isso, usam-na como um vampiro de Sangue pleno. Não há ganho de Geração. Ainda perdem um ponto de Humanidade e recebem a aura de Diablerie com veios negros."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This form of shared diablerie draws virtue from the vitae of a full-blooded Kindred into the alchemist and their assistants."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 5."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Blood from the alchemist and participating thin-bloods (up to three thin-bloods total), juice of red amaranth flowers from a plant fertilized with blood, pulverized leeches, hydrogen sulfide, and neon."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "Everyone participating must roll one Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Alchemy vs. Willpower pool + Blood Potency"
+          },
+          {
+            "title": "System",
+            "text": "The alchemist and up to two other participants tie a silk cord around their wrists, connecting them in a triangle surrounding a fullblooded Kindred target, also so bound. The alchemist rolls Resolve + Alchemy; each additional thin-blood participant can add one die to the pool by spending 2 Willpower. If the full-blood resists, they use their Willpower pool + Blood Potency. On a win, the participating thin-bloods gain one dot in one of the target’s core clan Disciplines, determined randomly. (On a critical win, the alchemist can choose the Discipline.) They cannot learn or purchase this Discipline higher than the first dot, but in other respects can use it as though they were full-blooded Kindred. They do not gain generation, but still lose 1 Humanity and gain the black-veined aura of diablerie."
+          }
+        ]
+      }
+    }
+  ]
+}

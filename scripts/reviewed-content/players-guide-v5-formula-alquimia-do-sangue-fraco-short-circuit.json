@@ -1,0 +1,92 @@
+{
+  "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-short-circuit",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Curto-Circuito",
+    "en": "Short Circuit"
+  },
+  "aliases": [
+    "Curto-Circuito",
+    "Short Circuit"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-short-circuit-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 107",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 107,
+          "printedPage": 105
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 4
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Sobrecarrega baterias e equipamentos elétricos, inclusive baterias de carros e fusíveis de edifícios."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, ácido de bateria, sangue melancólico e água salgada."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao tocar o equipamento ou metal conectado a ele, causa um curto-circuito automático e silencioso. Pode apagar a energia de um edifício tocando uma tomada ou afetar um carro encostando em sua carroceria."
+          },
+          {
+            "title": "Duração",
+            "text": "Não se aplica."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "An alchemist can use this formula to overload the batteries in any electronic or electrical equipment, including car batteries or the fuses of a building."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s Blood, battery acid, melancholy blood, and salt water."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "By making a Rouse Check and touching the equipment (or metal connected to it) the alchemist automatically and silently shorts it out. This allows an alchemist to, for example, cause a blackout of an entire building by touching a power outlet, or a car by brushing against its body."
+          },
+          {
+            "title": "Duration",
+            "text": "N/A"
+          }
+        ]
+      }
+    }
+  ]
+}

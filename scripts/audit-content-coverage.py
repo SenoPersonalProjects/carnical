@@ -13,7 +13,7 @@ for source in sources:
  assert sorted(numbers)==list(range(1,source['pages']+1)),f"Missing or duplicate source pages: {source['id']}"
  reviewed=[entry for entry in catalog if any(version['book']==source['id'] for version in entry['versions'])]
  indexed=[entry for entry in candidates if entry['book']==source['id']]
- pending=[entry['id'] for entry in indexed if not any(item['id']==entry['id'] and any(version['book']==source['id'] for version in item['versions']) for item in reviewed)]
+ pending=[entry['id'] for entry in indexed if not any((item['id']==entry['id'] or entry['id'] in item.get('legacyIds',[])) and any(version['book']==source['id'] for version in item['versions']) for item in reviewed)]
  rows.append({'book':source['id'],'pdfSha256':source['sha256'],'pdfPages':source['pages'],'extractedPages':len(numbers),'reviewedEntries':len(reviewed),'reviewedKinds':dict(collections.Counter(entry['kind'] for entry in reviewed)),'seededDescriptionCandidates':len(indexed),'seededCandidatesAwaitingReview':len(pending),'pendingSeededIds':pending,'inventoryStatus':'incomplete','libraryTranslationStatus':'awaiting-editorial-review'})
 report={'status':'incomplete','sources':rows,'uniqueReviewedEntries':len(catalog),'notes':['Seeded candidates cover the existing power catalog only; they are not a complete inventory of character options.','Extracted pages are not editorially verified pages.','Unreviewed translations and descriptions are excluded from the published shared catalog.','No source has been declared fully covered. Narrative exclusions still require inventory and justification.']}
 (work/'coverage-review.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')

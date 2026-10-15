@@ -1,0 +1,89 @@
+{
+  "id": "reveal-temperament",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Revelar Temperamento",
+    "en": "Reveal Temperament"
+  },
+  "aliases": [
+    "Revelar Temperamento",
+    "Reveal Temperament"
+  ],
+  "discipline": "Auspícios",
+  "level": 2,
+  "versions": [
+    {
+      "id": "reveal-temperament-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 72, 73",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 72,
+          "printedPage": 70
+        },
+        {
+          "pdfPage": 73,
+          "printedPage": 71
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Fareja a Ressonância e eventuais Discrasias no sangue de um mortal. Num vampiro, percebe a Ressonância da última vítima da qual se alimentou."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Inteligência + Auspícios contra Autocontrole + Subterfúgio."
+          },
+          {
+            "title": "Sistema",
+            "text": "Com o poder ativo, uma vitória revela a Ressonância e particularidades como Discrasias de um mortal observado. Uma vitória crítica concede dois dados extras em interações com ele durante a cena, por adaptar a abordagem ao seu estado emocional. Contra vampiros, uma vitória revela a Ressonância do último mortal de que se alimentaram; um crítico também revela o método de alimentação e o Tipo de Predador do vampiro."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire can smell the Resonance of the target, as well as any Dyscrasia they harbor in their blood. They can also smell if another vampire has recently fed as well as the Resonance (if any) of their latest victim."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: Intelligence + Auspex vs Composure + Subterfuge"
+          },
+          {
+            "title": "System",
+            "text": "When the power is active the user can test Intelligence + Auspex vs a target’s Composure + Subterfuge. A win reveals the Resonance of the mortal observed as well as any other particulars of their blood, such as Dyscrasias. On a critical win the user also gains a two-dice bonus to interaction with the target for the duration of the scene as they are able to adapt their approach to the emotional state of the mortal. Versus a vampire, a win reveals the Resonance of the last mortal they fed upon, and a critical win provides a more nuanced picture of the vessel at time of feeding, revealing the method and Predator Type of the vampire."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

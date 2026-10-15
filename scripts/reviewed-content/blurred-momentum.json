@@ -1,0 +1,81 @@
+{
+  "id": "blurred-momentum",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Movimento Borrado",
+    "en": "Blurred Momentum"
+  },
+  "aliases": [
+    "Movimento Borrado",
+    "Blurred Momentum"
+  ],
+  "discipline": "Celeridade",
+  "level": 4,
+  "versions": [
+    {
+      "id": "blurred-momentum-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 74",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 74,
+          "printedPage": 72
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Celeridade": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Move-se como um borrão irregular, difícil de atingir mesmo quando não percebe o oponente ou não se defende ativamente."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Celeridade 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue por turno."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ataques com menos sucessos que o nível de Celeridade do usuário sempre erram, independentemente do resultado de sua defesa ou esquiva, se houver. Também funciona contra ataques surpresa e ataques que impedem defesa, como Golpe Relâmpago. Ativar exige um Teste de Sangue, e cada turno adicional exige outro."
+          },
+          {
+            "title": "Duração",
+            "text": "Até o usuário deixar de manter o poder."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire’s movement becomes a jittering blur, making it extremely difficult to land attacks on them even when they are not aware of the opponent or actively defending."
+          },
+          {
+            "title": "Requirements",
+            "text": "Celerity 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check per turn\n\n Dice Pools: N/A"
+          },
+          {
+            "title": "System",
+            "text": "Attacks that achieve fewer successes than the user’s Celerity rating always miss, no matter the result of a defense or dodge test (if any). This also works against surprise attacks or other attacks that disallow defense tests, such as Lightning Strike. Activating this power requires one Rouse Check and extending it requires an additional Check for each turn it is kept active."
+          },
+          {
+            "title": "Duration",
+            "text": "Until the user lets it lapse"
+          }
+        ]
+      }
+    }
+  ]
+}

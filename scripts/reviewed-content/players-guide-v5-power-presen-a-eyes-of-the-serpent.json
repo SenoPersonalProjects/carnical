@@ -1,0 +1,86 @@
+{
+  "id": "players-guide-v5-power-presen-a-eyes-of-the-serpent",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Olhos da Serpente",
+    "en": "Eyes of the Serpent"
+  },
+  "aliases": [
+    "Olhos da Serpente",
+    "Eyes of the Serpent"
+  ],
+  "discipline": "Presença",
+  "level": 1,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-presen-a-eyes-of-the-serpent-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 82",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 82,
+          "printedPage": 80
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 1,
+          "Proteanismo": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Olhos de pupilas reptilianas paralisam um mortal que encontre seu olhar. Também pode paralisar vampiros por pouco tempo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 1; Proteanismo 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Carisma + Presença contra Raciocínio + Autocontrole, apenas para alvos vampiros."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao captar o olhar de um mortal, mantém-no imóvel enquanto sustentar o contato visual. Só afeta um alvo por vez; dano ou remoção à força encerram o efeito. A vítima ainda pode falar, mas não gritar. Contra vampiros, exige vitória na disputa; depois do primeiro turno, a vítima vampira pode gastar um ponto de Força de Vontade para libertar-se em qualquer turno."
+          },
+          {
+            "title": "Duração",
+            "text": "Até romper o contato visual ou o fim da cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Protean 1 The eyes of the vampire turn into slitted, serpentlike orbs able to freeze a mortal meeting the vampire’s gaze in place. The user can even mesmerize other vampires with this power, though the effect is short-lived and likely to rouse the victim’s ire."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 1; Protean 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free\n\n Dice Pools: Charisma + Presence vs. Wits + Composure"
+          },
+          {
+            "title": "System",
+            "text": "By catching the eye of a mortal (Vampire: The Masquerade, p. 255) the vampire can immobilize a victim, keeping them frozen in place as long as they themselves maintain eye contact. The effect can only be maintained on a single victim at a time, and ends if they suffer damage or are forcibly removed. The victim is still capable of speech, though not shouting. In order to paralyze a vampire in the same way, the user must win a contest of Charisma + Presence vs. Wits + Composure. The vampire victim can escape paralysis on any turn after the first by spending a point of Willpower."
+          },
+          {
+            "title": "Duration",
+            "text": "Until eye contact is broken or the scene ends."
+          }
+        ]
+      }
+    }
+  ]
+}

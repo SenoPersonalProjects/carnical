@@ -1,0 +1,90 @@
+{
+  "id": "players-guide-v5-power-ofusca-o-mind-masque",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Máscara Mental",
+    "en": "Mind Masque"
+  },
+  "aliases": [
+    "Máscara Mental",
+    "Mind Masque"
+  ],
+  "discipline": "Ofuscação",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-ofusca-o-mind-masque-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 80, 81",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 80,
+          "printedPage": 78
+        },
+        {
+          "pdfPage": 81,
+          "printedPage": 79
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 4,
+          "Dominação": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Cria uma personalidade ilusória para ocultar pensamentos e sentimentos de leituras sobrenaturais de mente, aura ou estado emocional."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 4; Dominação 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Ofuscação, Dificuldade de 1 a 3 ou mais conforme a elaboração: 1 para mascarar emoções; 3 ou mais para uma personalidade completa com pensamentos e lembranças falsos."
+          },
+          {
+            "title": "Sistema",
+            "text": "Acrescente a margem de vitória à Dificuldade de qualquer leitura sobrenatural. Quem não alcançar a Dificuldade aumentada, mas alcançar a normal, vê somente a personalidade falsa, sem perceber a fraude. Quem nem alcançar a Dificuldade normal não obtém informação alguma."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Dominate 2 The vampire can craft the illusion of a completely different persona, hiding their true thoughts and feelings to anyone who uses supernatural abilities to read their mental state, aura, thoughts, or similar. Those who look into their mind see only what the user wants them to see, and only the most accomplished scryers can pierce this elaborate facade."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 4; Dominate 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: Intelligence + Obfuscate"
+          },
+          {
+            "title": "System",
+            "text": "The user rolls Intelligence + Obfuscate against a Difficulty of 1 to 3 (or more), depending on the sophistication of the ruse they want to enact, with 1 representing a simple masking of their emotional state to 3 and beyond for elaborate alternate personas complete with false thoughts and memories. The margin on the win is added as Difficulty to any attempt to “read” them. Failing to reach the added Difficulty lets the reader see only the false personality the user has crafted, without any hint that the reader is being misled. (Failing to reach even the standard Difficulty yields nothing, as normal, so as not to let on that a false personality is present.)"
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

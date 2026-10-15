@@ -1,0 +1,81 @@
+{
+  "id": "rush-job",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Trabalho Acelerado",
+    "en": "Rush Job"
+  },
+  "aliases": [
+    "Trabalho Acelerado",
+    "Rush Job"
+  ],
+  "discipline": "Celeridade",
+  "level": 2,
+  "versions": [
+    {
+      "id": "rush-job-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 74",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 74,
+          "printedPage": 72
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Celeridade": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Executa tarefas demoradas com mãos e dedos rápidos demais para acompanhar. A concentração permite fins não violentos mesmo sob pressão ou ataque."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Celeridade 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Tarefas de Habilidade que exigiriam turnos inteiros podem ser realizadas em segundos. Pode tratar uma ação completa como ação menor, conforme o Livro Básico inglês, p. 298. Não acelera ataques, defesas nem outras tarefas ativamente resistidas. Por exemplo, pode abrir uma fechadura e disparar uma arma, aplicando ao disparo a penalidade de dois dados da ação menor."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire can perform time-consuming tasks with blinding speed, their fingers and hands blurring as they write, repair, or build things in record time. While the concentration required prohibits them from employing this speed on the offense, it does allow them to achieve non-violent ends faster when under duress or outright attack."
+          },
+          {
+            "title": "Requirements",
+            "text": "Celerity 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: N/A"
+          },
+          {
+            "title": "System",
+            "text": "When active, this power lets the vampire complete Skill-related tasks that would otherwise take whole turns in the span of a few seconds, and can treat a full action as a minor action (Vampire: The Masquerade, p. 298). The power cannot be used to speed up attacks, defenses, or to perform any other actively resisted task but it does allow the vampire to, for example, jimmy a lock and fire a gun (the latter with a two-dice penalty, as per the minor action rules.)"
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

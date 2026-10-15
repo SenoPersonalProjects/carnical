@@ -1,0 +1,87 @@
+{
+  "id": "players-guide-v5-power-pot-ncia-wrecker",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Demolidor",
+    "en": "Wrecker"
+  },
+  "aliases": [
+    "Demolidor",
+    "Wrecker"
+  ],
+  "discipline": "Potência",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-pot-ncia-wrecker-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 81",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 81,
+          "printedPage": 79
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 3
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Poderio",
+            "Prowess"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Concentra força destrutiva contra objetos estáticos, como portas, carros ou estátuas. A preparação impede o uso em combate."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 3. Poder: Poderio."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Conte duas vezes o nível de Potência ao usar Poderio para proezas de força que danifiquem ou destruam um objeto inanimado."
+          },
+          {
+            "title": "Duração",
+            "text": "A de Poderio."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Prowess The vampire is able to exert violent, indiscriminate force on a static object in order to shatter, smash, and destroy it. While the lead-up time to summon this strength makes the ability useless in a fight, it comes in handy whenever a door bars the way, a car needs immobilizing, or an example needs to be made of an offending statue."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 3."
+          },
+          {
+            "title": "Cost",
+            "text": "Free\n\n Dice Pools: N/A"
+          },
+          {
+            "title": "System",
+            "text": "The user counts their Potence rating twice when using Prowess for feats of strength that involve damage or destruction of an inanimate object."
+          },
+          {
+            "title": "Duration",
+            "text": "As Prowess"
+          }
+        ]
+      }
+    }
+  ]
+}

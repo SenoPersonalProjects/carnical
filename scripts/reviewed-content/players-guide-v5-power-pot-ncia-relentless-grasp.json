@@ -1,0 +1,81 @@
+{
+  "id": "players-guide-v5-power-pot-ncia-relentless-grasp",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Agarre Implacável",
+    "en": "Relentless Grasp"
+  },
+  "aliases": [
+    "Agarre Implacável",
+    "Relentless Grasp"
+  ],
+  "discipline": "Potência",
+  "level": 2,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-pot-ncia-relentless-grasp-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 81",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 81,
+          "printedPage": 79
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A força do aperto torna quase impossível soltar o vampiro à força sem desmembrá-lo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Acrescenta seu nível de Potência como sucessos automáticos em tentativas de segurar algo. Inclui manter um agarrão, mas não o teste inicial para agarrar."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire’s grip becomes impossibly strong and once they get a good hold of something they are almost impossible to dislodge, short of dismemberment."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: N/A"
+          },
+          {
+            "title": "System",
+            "text": "The vampire adds their Potence rating as automatic successes to any attempt that involves holding on to something. This includes attempts to maintain a grapple, though the initial grapple test does not benefit from this bonus."
+          },
+          {
+            "title": "Duration",
+            "text": "One Scene"
+          }
+        ]
+      }
+    }
+  ]
+}

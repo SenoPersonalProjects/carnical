@@ -1,0 +1,86 @@
+{
+  "id": "players-guide-v5-power-domina-o-implant-suggestion",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Implantar Sugestão",
+    "en": "Implant Suggestion"
+  },
+  "aliases": [
+    "Implantar Sugestão",
+    "Implant Suggestion"
+  ],
+  "discipline": "Dominação",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-domina-o-implant-suggestion-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 76",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 76,
+          "printedPage": 74
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 4,
+          "Presença": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Altera temporariamente intenções, paixões, opiniões ou personalidade, em vez de apenas conduzir uma vítima sem vontade. Pode suscitar desejos, desconfiança ou abandono de vínculos; seu uso indiscriminado inspira repulsa e medo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 4; Presença 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Manipulação + Dominação contra Autocontrole + Determinação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Não exige teste contra mortais desprevenidos. Mortais preparados ou vampiros resistem pela disputa indicada. Mudanças radicais em crenças centrais, como fazer um vegano desejar carne ou um pacifista desejar violência, também permitem resistência a mortais desprevenidos. Ao fim da cena, o alvo sai desse estado."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Presence 1 The vampire possesses the power to change the very personality or opinions of a subject, at least temporarily. While other powers enable them to puppeteer mindless victims, this power lets them alter the intents or passions of a victim instead. They can make someone desire a stranger, abandon their family, distrust their own beliefs, or simply want a beer. Vampires known to utilize this power indiscriminately often find themselves shunned by their peers, whether from disdain or utter fear."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 4; Presença 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: Manipulation + Dominate vs Composure + Resolve"
+          },
+          {
+            "title": "System",
+            "text": "No test is required against an unprepared mortal victim, but a prepared mortal or another vampire requires a test of Manipulation + Dominate against Composure + Resolve. Radical changes to core beliefs – making a vegan crave a steak or making a pacifist violent, for example – also merit an attempt to resist, even by unprepared mortals. The suggestion remains in effect for a scene, at which point the victim snaps out of it."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

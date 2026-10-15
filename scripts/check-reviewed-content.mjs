@@ -16,8 +16,44 @@ const read=file=>JSON.parse(fs.readFileSync(file,"utf8"));
 const catalog=read("app/content/catalog.json").entries,index=read("app/content/catalog-index.json").entries,pages=read("app/content/source-pages.json").books;
 const {clanSource}=load("app/content/clan-source.ts");
 const {xpCost}=load("app/experience.ts");
+const {contentById,resolveContent}=load("app/content/resolve.ts");
+for(const power of POWER_CATALOG.filter(power=>power.source.book==="players-guide-v5")){
+ const entry=contentById(power.id)||resolveContent(power.name,{kind:power.kind||"power",discipline:power.discipline});
+ assert.ok(entry?.versions.some(version=>version.book==="players-guide-v5"),`Guide option without reviewed description: ${power.name}`);
+}
 const guideCeremonies=catalog.filter(entry=>entry.kind==="ceremony"&&entry.versions.some(version=>version.book==="players-guide-v5"));
 const guideRituals=catalog.filter(entry=>entry.kind==="ritual"&&entry.versions.some(version=>version.book==="players-guide-v5"));
+const guideFormulae=catalog.filter(entry=>entry.kind==="formula"&&entry.versions.some(version=>version.book==="players-guide-v5"));
+assert.equal(guideFormulae.length,10,"All ten Guide formulae must have bilingual descriptions");
+for(const name of ["Flowering Amaranth","Moment of Clarity"]){
+  const entry=guideFormulae.find(entry=>entry.names.en===name);
+  assert.ok(entry,`${name} missing from reviewed catalog`);
+  const power=POWER_CATALOG.find(power=>power.id===entry.id);
+  assert.ok(power,`${name} missing from selectable catalog`);
+  assert.equal(power.level,5);
+  const formulaSources=new Set([sourcebookForLibraryId("players-guide-v5")]);
+  assert.equal(powerEligibility(power,{"Alquimia do Sangue-Fraco":4},{},formulaSources,"Sangue-Ralo").allowed,false);
+  assert.equal(powerEligibility(power,{"Alquimia do Sangue-Fraco":5},{},formulaSources,"Sangue-Ralo").allowed,true);
+  assert.equal(xpCost("formula",5,"new_level"),15);
+  assert.equal(xpCost("formula",5,"current_level"),15);
+}
+const mandagloire=guideFormulae.find(entry=>entry.names.en==="Mandagloire");
+assert.match(mandagloire.versions[0].descriptions["pt-BR"].at(-1).text,/três turnos.*restante da cena/s);
+const guideSourcesForPrereqs=new Set([sourcebookForLibraryId("players-guide-v5")]);
+const messenger=POWER_CATALOG.find(power=>power.id==="messengers-command");
+const messengerDisciplines={Animalismo:3,"Auspícios":1,"Dominação":2};
+for(const option of ["Compelir","Compel","Mesmerismo","Mesmerize"]){
+  const known={Animalismo:["Mensageiro Animal"],"Dominação":[option]};
+  assert.equal(powerEligibility(messenger,messengerDisciplines,known,guideSourcesForPrereqs).allowed,true);
+}
+assert.equal(powerEligibility(messenger,messengerDisciplines,{Animalismo:["Animal Messenger"]},guideSourcesForPrereqs).allowed,false);
+assert.equal(powerEligibility(messenger,messengerDisciplines,{"Dominação":["Compelir"]},guideSourcesForPrereqs).allowed,false);
+for(const [id,required] of [["weaving","Reflexos Rápidos"],["players-guide-v5-power-celeridade-unseen-strike","Piscar"],["players-guide-v5-power-domina-o-ancestral-dominion","Mesmerismo"]]){
+  const power=POWER_CATALOG.find(power=>power.id===id);
+  const disciplines={Celeridade:5,"Ofuscação":4,"Dominação":4,"Feitiçaria de Sangue":2};
+  assert.equal(powerEligibility(power,disciplines,{},guideSourcesForPrereqs).allowed,false);
+  assert.equal(powerEligibility(power,disciplines,{Known:[required]},guideSourcesForPrereqs).allowed,true);
+}
 assert.equal(guideCeremonies.length,9);assert.equal(guideRituals.length,12);
 for(const entry of guideCeremonies){
  const version=entry.versions.find(version=>version.book==="players-guide-v5"),required=version.requirements.prerequisites[0];

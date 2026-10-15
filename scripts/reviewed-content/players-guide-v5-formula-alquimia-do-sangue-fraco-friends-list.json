@@ -1,0 +1,100 @@
+{
+  "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-friends-list",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Lista de Amigos",
+    "en": "Friends List"
+  },
+  "aliases": [
+    "Lista de Amigos",
+    "Friends List"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 2,
+  "versions": [
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-friends-list-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 106",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 106,
+          "printedPage": 104
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 2
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Enxerga as conexões entre mortais e Membros como fios prateados finos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue fleumático, olhos de bacurau, coruja ou outra ave noturna e fio de prata."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Alquimia."
+          },
+          {
+            "title": "Sistema",
+            "text": "Um sucesso revela um fio ligando um mortal a um vampiro com quem tenha relação. Sem relação não há fio. Pode seguir o fio se o vampiro não estiver próximo. Relações fortes exigem menos sucessos: um carniçal exige um; um contato ou aliado distante pode exigir até cinco. As relações mais fortes aparecem primeiro; com sucessos suficientes, percebe múltiplas relações."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This formula allows the alchemist to see the connections between mortals and Kindred. This shows as a thin, silver thread that connects between them, giving the alchemist an idea of whom a mortal may have a connection to."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s Blood, phlegmatic blood, the eyes of a whippoorwill or owl or other nocturnal bird, and a silver thread."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Alchemy"
+          },
+          {
+            "title": "System",
+            "text": "Upon activating this power, the alchemist makes an Intelligence + Alchemy test to see a thin, silver thread connecting a mortal to a vampire they have some sort of connection with. (Obviously, no thread is shown if the mortal isn’t connected to Kindred.) If the vampire is not physically close the alchemist can follow the thread. Stronger connections require fewer successes to see – a ghoul might only require one success, but a distant contact or ally up to five. A mortal with multiple vampire relationships displays the strongest thread first, but the alchemist can see all of them with enough successes."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

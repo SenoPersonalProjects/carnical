@@ -1,0 +1,90 @@
+{
+  "id": "mental-maze",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Labirinto Mental",
+    "en": "Mental Maze"
+  },
+  "aliases": [
+    "Labirinto Mental",
+    "Mental Maze"
+  ],
+  "discipline": "Ofuscação",
+  "level": 3,
+  "versions": [
+    {
+      "id": "mental-maze-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 79, 80",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 79,
+          "printedPage": 77
+        },
+        {
+          "pdfPage": 80,
+          "printedPage": 78
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 3,
+          "Dominação": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Remove a orientação da vítima e a aprisiona no ambiente atual, como casa, boate ou porão. Sua percepção dos cômodos muda, fazendo saídas parecerem conduzir mais fundo ao labirinto e levando ao pânico."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 3; Dominação 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue; três para afetar um único cômodo ou um ambiente externo denso, como floresta ou canteiro de obras."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Carisma + Ofuscação contra Raciocínio + Determinação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Exige contato visual. Vampiros de Geração mais baixa podem gastar um ponto de Força de Vontade para anular a rolagem, conforme as características de Dominação. Numa vitória, a vítima não consegue sair do edifício. Mortais não podem tentar escapar. Criaturas sobrenaturais podem testar Determinação + Percepção a cada cena, com Dificuldade igual aos sucessos iniciais do usuário; falhar causa um dano superficial de Força de Vontade por sucesso faltante. Esse teste não recebe Trabalho em Equipe: orientações externas não correspondem ao que a vítima vê. O efeito acaba se o ambiente se tornar perigoso, como num incêndio, salvo se o usuário possuir Decreto Terminal."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Dominate 1 Mental Maze is the ability to remove all sense of direction and location from a victim, allowing the vampire to make their target a prisoner in their current environment, such as a home, a nightclub, or a vampire’s cellar. The victim finds their location folding back on itself, subtly altering their perception of previously visited rooms, convincing them that an actual exit only leads deeper into the maze, and eventually breaking them down into a state of panic and fragility."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 3; Dominate 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One or Three Rouse Checks\n\n Dice Pools: Charisma + Obfuscate vs. Wits + Resolve"
+          },
+          {
+            "title": "System",
+            "text": "The vampire makes eye contact with their victim and rolls Charisma + Obfuscate versus the target’s Wits + Resolve, with lower Generation vampires being able to negate the roll with a Willpower point as per Dominate’s characteristics (Vampire: The Masquerade, p. 255). On a win, the victim struggles to find their way out of the building they’re in. An additional two Rouse Checks allows this power to be used in a single room or a densely packed outdoor environment (such as a construction site or forest). Mortals cannot attempt to escape but supernatural creatures can make a Resolve + Awareness test each scene using the vampire’s initial successes as the Difficulty, suffering a point of Superficial Willpower damage for every missing success if they fail. This roll cannot benefit from Teamwork, as any guidance given does not match what the victim sees. This power ends if the environment becomes dangerous (e.g. the building catches fire), unless the vampire has Terminal Decree (Vampire: The Masquerade, p. 257)."
+          },
+          {
+            "title": "Duration",
+            "text": "One night"
+          }
+        ]
+      }
+    }
+  ]
+}

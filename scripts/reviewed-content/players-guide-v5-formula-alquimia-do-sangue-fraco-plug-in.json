@@ -1,0 +1,104 @@
+{
+  "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-plug-in",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Conexão Elétrica",
+    "en": "Plug-In"
+  },
+  "aliases": [
+    "Conexão Elétrica",
+    "Plug-In"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 1,
+  "versions": [
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-plug-in-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 105, 106",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 105,
+          "printedPage": 103
+        },
+        {
+          "pdfPage": 106,
+          "printedPage": 104
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Produz uma corrente elétrica fraca pelo corpo para alimentar lâmpadas, carregadores e outros aparelhos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue sanguíneo, nitrogênio líquido, raspas de tungstênio e uma bateria quebrada."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Alquimia, Dificuldade 2."
+          },
+          {
+            "title": "Sistema",
+            "text": "Com sucesso, alimenta pelo toque aparelhos pequenos, como smartphone, computador ou lâmpada. Interromper o contato interrompe a alimentação elétrica."
+          },
+          {
+            "title": "Duração",
+            "text": "Iluminação de um cômodo por uma cena; aparelhos são carregados até metade da capacidade de sua bateria."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The alchemist is able to produce a low-level electrical current from their body, powering lights, chargers, or other devices."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s blood, sanguine blood, liquid nitrogen, tungsten shavings, and a broken battery."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Alchemy"
+          },
+          {
+            "title": "System",
+            "text": "Make a Resolve + Alchemy test (Difficulty 2). On a success, the alchemist fills with electrical currents that can be used to power small devices, such as a smartphone, a personal computer, or a light bulb. These currents power the item by touch; it loses power when contact stops."
+          },
+          {
+            "title": "Duration",
+            "text": "If lighting a room: one scene. If powering a device, until it reaches half battery charge."
+          }
+        ]
+      }
+    }
+  ]
+}

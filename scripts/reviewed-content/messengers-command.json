@@ -1,0 +1,101 @@
+{
+  "id": "messengers-command",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Comando do Mensageiro",
+    "en": "Messenger’s Command"
+  },
+  "aliases": [
+    "Comando do Mensageiro",
+    "Messenger’s Command"
+  ],
+  "discipline": "Animalismo",
+  "level": 3,
+  "versions": [
+    {
+      "id": "messengers-command-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 71",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 71,
+          "printedPage": 69
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 3,
+          "Dominação": 1
+        },
+        "prerequisites": [
+          "Animal Messenger"
+        ],
+        "prerequisiteAlternatives": [
+          [
+            "Compelir",
+            "Compel",
+            "Mesmerismo",
+            "Mesmerize"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A mensagem levada pelo Famulus pode transmitir Compelir ou Mesmerismo, impondo a vontade do vampiro ao destinatário."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 3; Dominação 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum custo adicional ao Mensageiro Animal."
+          },
+          {
+            "title": "Parada",
+            "text": "A de Compelir ou Mesmerismo, mas o nível de Dominação usado não pode superar o de Animalismo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Use Mensageiro Animal e faça o teste de Compelir ou Mesmerismo assim que o Famulus estabelecer contato visual com o destinatário."
+          },
+          {
+            "title": "Requisitos adicionais",
+            "text": "Mensageiro Animal e pelo menos um dos poderes Compelir ou Mesmerismo."
+          },
+          {
+            "title": "Duração",
+            "text": "A de Mensageiro Animal."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Animal Messenger, Compel or Mesmerize\n\nAmalgam: Dominate 1 The vampire is able to use Compel or Mesmerize with a command carried by the Famulus, enforcing their will upon the target of the message."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 3; Dominate 1."
+          },
+          {
+            "title": "Cost",
+            "text": "None\n\n Dice Pools: See Compel or Mesmerize, but the\n\nDominate rating cannot exceed the user’s Animalism."
+          },
+          {
+            "title": "System",
+            "text": "See Animal Messenger, above. Make the Compel or Mesmerize test as soon as the Famulus makes eye contact with the target."
+          },
+          {
+            "title": "Duration",
+            "text": "See Animal Messenger"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-toxic-personality",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Personalidade Tóxica",
+    "en": "Toxic Personality"
+  },
+  "aliases": [
+    "Personalidade Tóxica",
+    "Toxic Personality"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-toxic-personality-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 107, 108",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 107,
+          "printedPage": 105
+        },
+        {
+          "pdfPage": 108,
+          "printedPage": 106
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 4
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Secreta bile cáustica por poros e orifícios, corroendo metal, madeira e tecidos vivos. O alquimista é imune à própria bile."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue colérico, potassa ou lixívia, baço de animal, tecido de queijo e iodo."
+          },
+          {
+            "title": "Custo",
+            "text": "Um ou dois Testes de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Força ou Destreza + Alquimia contra Destreza + Atletismo."
+          },
+          {
+            "title": "Sistema",
+            "text": "O contato corrói materiais em segundos e acrescenta dois ao dano de Briga pelo toque ácido. O controle da secreção normalmente preserva suas roupas. O Narrador determina a extensão da corrosão, superior à de Vitae Corrosiva. Um segundo Teste de Sangue permite projetar vômito: Força + Alquimia em corpo a corpo ou Destreza + Alquimia à distância. Causa margem + 3 de dano superficial à Vitalidade, agravado para mortais."
+          },
+          {
+            "title": "Exceções dos métodos",
+            "text": "Em Athanor Corporis ou Calcinatio, pode guardar a fórmula destilada por uma semana antes de adquirir aparência doentia, com veias azuladas, pele pálida ou flácida. Após um mês sem extrair o produto, a bile corrói o recipiente de Calcinatio. Em Fixatio, corrói completamente o recipiente em Alquimia + 4 semanas."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The alchemist secretes powerful, caustic bile from their pores and orifices, corroding metals, wood, and living tissue. The alchemist activating this ability may touch and manipulate the bile while not being affected by it."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s Blood, choleric blood, potash or lye, animal spleen, cheesecloth, and iodine."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One or two Rouse Checks"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Strength or Dexterity + Alchemy vs. Dexterity + Athletics"
+          },
+          {
+            "title": "System",
+            "text": "When active, the power allows the alchemist to corrode any material in seconds by simply making contact with it and gains +2 damage on brawl attacks as their mere touch becomes acid. (As the alchemist controls how and where they excrete the acid their own clothes are usually unaffected.) The Storyteller is the final arbiter on the extent of damage caused but the acid is supernaturally strong and far more potent than that produced by Corrosive Vitae (see Vampire: The Masquerade, p. 273).\n\nThe alchemist may make a second Rouse check to projectile vomit the bile as an attack (Strength + Alchemy during melee, Dexterity + Alchemy for a ranged spitting attack). On a win, the bile does the margin +3 in Superficial Health damage (Aggravated to mortals)."
+          },
+          {
+            "title": "Athanor Corporis or Calcinatio",
+            "text": "The alchemist or vessel can only hold this formula after distillation for a week before they begin to look sickly: blue veins popping against their pale skin, and the skin itself sagging low on their bodies. After a month, the bile corrodes the Calcinatio vessel if not tapped."
+          },
+          {
+            "title": "Fixatio",
+            "text": "The container of the bile slowly corrodes, falling completely apart in Alchemy + 4 weeks."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

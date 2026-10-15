@@ -1,0 +1,95 @@
+{
+  "id": "players-guide-v5-power-pot-ncia-crash-down",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Queda Devastadora",
+    "en": "Crash Down"
+  },
+  "aliases": [
+    "Queda Devastadora",
+    "Crash Down"
+  ],
+  "discipline": "Potência",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-pot-ncia-crash-down-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 81",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 81,
+          "printedPage": 79
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 4
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Salto Vertiginoso",
+            "Soaring Leap"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Transforma a aterrissagem de Salto Vertiginoso num impacto que atinge os que estiverem ao redor."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 4. Poder: Salto Vertiginoso."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Força + Potência contra Destreza + Atletismo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao usar Salto Vertiginoso, pode ativar este poder. Cada pessoa num raio de três metros sofre um ataque pela parada indicada, recebendo dano superficial igual à margem. Quem sofrer três ou mais níveis de dano ou uma falha total na defesa é derrubado, conforme a p. 122 do Livro Básico inglês."
+          },
+          {
+            "title": "Duração",
+            "text": "Não se aplica."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Soaring Leap Having honed their capabilities, the vampire now sticks the landing on their Soaring Leap in a big way. The vampire can come to an unstoppable halt at their location, causing damage to anyone they land on or around."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Strength + Potence"
+          },
+          {
+            "title": "System",
+            "text": "Upon using Soaring Leap, the vampire may activate Crash Down, and deal damage to a small area of effect. Anyone within a three-meter radius is subject to an attack roll of the user’s Strength + Potence against their Dexterity + Athletics, suffering Superficial Damage equal to the margin. Anyone suffering three or more levels of damage or a total failure on their defense test is knocked down (see Vampire: The Masquerade, p. 122)."
+          },
+          {
+            "title": "Duration",
+            "text": "N/A"
+          }
+        ]
+      }
+    }
+  ]
+}

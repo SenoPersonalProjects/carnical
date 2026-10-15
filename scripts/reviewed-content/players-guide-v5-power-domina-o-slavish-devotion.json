@@ -1,0 +1,82 @@
+{
+  "id": "players-guide-v5-power-domina-o-slavish-devotion",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Devoção Servil",
+    "en": "Slavish Devotion"
+  },
+  "aliases": [
+    "Devoção Servil",
+    "Slavish Devotion"
+  ],
+  "discipline": "Dominação",
+  "level": 1,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-domina-o-slavish-devotion-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 75",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 75,
+          "printedPage": 73
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 1,
+          "Fortitude": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Fortalece a mente de quem já está sob sua Dominação contra interferência de outros vampiros."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 1; Fortitude 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum custo adicional."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma terceira pessoa que tente usar Dominação num personagem já sob a Dominação do usuário sofre uma penalidade de dados igual à Fortitude dele."
+          },
+          {
+            "title": "Duração",
+            "text": "Passivo."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Fortitude 1 Those already under the mental dominion of the vampire have their minds strengthened against interference from other Kindred."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 1; Fortitude 1."
+          },
+          {
+            "title": "Cost",
+            "text": "No additional cost"
+          },
+          {
+            "title": "System",
+            "text": "Any attempt by a third party to use Dominate on a character already under the influence of the vampire’s Dominate suffers a dice penalty equal to the Fortitude of the vampire."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive"
+          }
+        ]
+      }
+    }
+  ]
+}

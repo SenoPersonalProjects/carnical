@@ -1,0 +1,108 @@
+{
+  "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mandagloire",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Mandagloire",
+    "en": "Mandagloire"
+  },
+  "aliases": [
+    "Mandagloire",
+    "Mandagloire"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mandagloire-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 106, 107",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 106,
+          "printedPage": 104
+        },
+        {
+          "pdfPage": 107,
+          "printedPage": 105
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 3
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Também chamada de “The Funk”, emite um gás nauseante capaz de paralisar mortais e afetar criaturas sobrenaturais."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue fleumático, gordura humana, cera de vela, éter, óleo de gergelim, sulfato de ferro ou azinhavre e bórax."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Vigor + Alquimia contra Vigor + Determinação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao abrir uma veia do recipiente alquímico, libera o fedor, que preenche um cômodo, ou uma casa numa vitória crítica. Mortais que falham sofrem paralisia completa, em coma desperto pelo restante da cena. Criaturas sobrenaturais que falham sofrem rigidez e −2 dados nas paradas Físicas. Em Fixatio, pode contaminar comida ou bebida, ou queimar como fragrância paralisante."
+          },
+          {
+            "title": "Duração e exceção da fonte",
+            "text": "A linha de Duração indica três turnos. O Sistema descreve a paralisia mortal pelo restante da cena. A fonte contém essas duas durações; a aplicação dessa divergência exige decisão do Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Also called “The Funk” by alchemists who copy and adjust the formula. The alchemist is able to make their blood emit a noxious gas that causes a rigid paralysis to mortals and supernatural creatures alike."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s blood, phlegmatic blood, human fat, candle wax, ether, sesame oil, iron sulfate or verdigris, and borax."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Stamina + Alchemy vs. Stamina + Resolve"
+          },
+          {
+            "title": "System",
+            "text": "Tapping the athanor’s vein emits a pungent stench when spilled that fills a room (or a house on a critical win). Mortals who fail to resist enter a full-body paralysis state, a waking coma, for the rest of the scene. Supernatural creatures who fail feel the effects of rigor mortis: a two-dice penalty on all Physical rolls from intense cramping."
+          },
+          {
+            "title": "Fixatio",
+            "text": "The potion can be slipped into a drink or meal as a poison, or burned to act as a paralyzing fragrance, above."
+          },
+          {
+            "title": "Duration",
+            "text": "Three turns"
+          }
+        ]
+      }
+    }
+  ]
+}

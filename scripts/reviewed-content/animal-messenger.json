@@ -1,0 +1,86 @@
+{
+  "id": "animal-messenger",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Mensageiro Animal",
+    "en": "Animal Messenger"
+  },
+  "aliases": [
+    "Mensageiro Animal",
+    "Animal Messenger"
+  ],
+  "discipline": "Animalismo",
+  "level": 2,
+  "versions": [
+    {
+      "id": "animal-messenger-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 71",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 71,
+          "printedPage": 69
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 2,
+          "Auspícios": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O Famulus leva uma mensagem curta a uma pessoa designada pelo mestre, se conseguir alcançá-la. Quem estiver perto ouve a mensagem como se o animal falasse com a voz do mestre."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 2; Auspícios 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue por noite."
+          },
+          {
+            "title": "Parada",
+            "text": "Sem teste de ativação. Se não souber onde está o destinatário, o Famulus testa Determinação + Manha ou Sobrevivência, ou equivalente, Dificuldade 2. Um alvo que esteja se escondendo, do Famulus ou de outras ameaças, resiste com Inteligência + Manha ou Sobrevivência."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sussurre uma única frase ao Famulus e indique o destinatário. Pode tentar localizá-lo uma vez por noite. A mensagem é transmitida assim que o animal faz contato visual com o alvo, e depois ele retorna ao mestre."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma ou mais noites, dependendo do tempo da busca."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Auspex 1 The vampire’s Famulus can carry a short message to a person designated by its master, assuming they can reach them. Those within earshot hear the message as if the Famulus was speaking with their master’s voice."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 2; Auspex 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check for each night.\n\n Dice Pools: None, though the Famulus must test Resolve + Streetwise / Survival (or equivalent) if the target’s location is unknown."
+          },
+          {
+            "title": "System",
+            "text": "The vampire whispers a single sentence to the Famulus and states the target. If the location of the recipient is unknown the Famulus must track them down, making a tracking test (see above) at a Difficulty of 2, or resisted by the target’s Intelligence + Streetwise / Survival if they are actively trying to hide (from the famulus or from other perceived threats). The attempt can be made once per night. The message is delivered as soon as the Famulus makes eye contact with the target, at which point they return to their master."
+          },
+          {
+            "title": "Duration",
+            "text": "One or more nights depending in length of search"
+          }
+        ]
+      }
+    }
+  ]
+}

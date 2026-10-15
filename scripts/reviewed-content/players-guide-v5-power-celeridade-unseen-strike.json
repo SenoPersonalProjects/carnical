@@ -1,0 +1,96 @@
+{
+  "id": "players-guide-v5-power-celeridade-unseen-strike",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Golpe Invisível",
+    "en": "Unseen Strike"
+  },
+  "aliases": [
+    "Golpe Invisível",
+    "Unseen Strike"
+  ],
+  "discipline": "Celeridade",
+  "level": 5,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-celeridade-unseen-strike-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 75",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 75,
+          "printedPage": 73
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Celeridade": 5,
+          "Ofuscação": 4
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Piscar",
+            "Blink"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Desaparece à vista e desloca-se instantaneamente até um inimigo para atacar, combinando Piscar com elementos de Desaparecer."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Celeridade 5; Ofuscação 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Dois Testes de Sangue."
+          },
+          {
+            "title": "Requisitos adicionais",
+            "text": "Piscar."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Destreza + Celeridade contra Raciocínio + Percepção."
+          },
+          {
+            "title": "Sistema",
+            "text": "O alvo é surpreendido e, salvo se vencer a disputa de percepção, não pode defender-se: o ataque é feito contra Dificuldade 1, conforme ataques surpresa do Livro Básico inglês, p. 300. Se o usuário falhar nessa disputa, ainda realiza um ataque normal conforme Piscar, p. 253. O deslocamento tem as mesmas restrições de Piscar."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Blink\n\nAmalgam: Obfuscate 4 This lethal power not only allows the vampire to vanish from plain sight but to instantly move to an enemy and deliver a fatal strike. A vampire skilled in this art can quickly turn the tables as they disappear in front of pursuers, escaping not only with their lives but with that of their prey as well."
+          },
+          {
+            "title": "Requirements",
+            "text": "Celerity 5; Obfuscate 4."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks\n\n Dice Pools: Dexterity + Celerity vs Wits + Awareness"
+          },
+          {
+            "title": "System",
+            "text": "This power combines effects of Blink with elements of the Obfuscate power of Vanish. To onlookers the vampire appears to disappear and the target is caught unawares, becoming subject to surprise attack. Unless the victim can react by beating the user’s Dexterity + Celerity with their Wits + Awareness in a contest, they are unable to defend against the attack and it is made against a set Difficulty of 1. (See Surprise Attacks in Vampire: The Masquerade, p. 300). If the attacker fails this test they still perform a regular attack, as per Blink power (Vampire: The Masquerade, p. 253), and Unseen Strike is also subject to the same movement restrictions as Blink."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn"
+          }
+        ]
+      }
+    }
+  ]
+}

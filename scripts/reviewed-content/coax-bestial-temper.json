@@ -1,0 +1,85 @@
+{
+  "id": "coax-bestial-temper",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Instigar o Temperamento Bestial",
+    "en": "Coax the Bestial Temper"
+  },
+  "aliases": [
+    "Instigar o Temperamento Bestial",
+    "Coax the Bestial Temper"
+  ],
+  "discipline": "Animalismo",
+  "level": 5,
+  "versions": [
+    {
+      "id": "coax-bestial-temper-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 72",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 72,
+          "printedPage": 70
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Cantarola, canta ou rosna baixinho para agitar ou acalmar a Besta dos demais vampiros ao alcance da voz."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Animalismo, Dificuldade 3."
+          },
+          {
+            "title": "Sistema",
+            "text": "Escolha agitar ou acalmar. Cada sucesso de margem aumenta ou reduz em um a Dificuldade de resistir ao Frenesi para todos os outros vampiros que o ouçam. Ao reduzir a Dificuldade, vampiros já em Frenesi podem testar novamente e encerrá-lo se vencerem."
+          },
+          {
+            "title": "Duração",
+            "text": "Enquanto continuar cantarolando."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire exerts a subtle influence on the Beast of all vampires present and is able to rile or subdue the vampiric instincts on all Kindred in close proximity. By singing, humming, or growling softly the user plucks at the strings of all Beasts, and tempers rise or fall depending on their whim."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: Manipulation + Animalism"
+          },
+          {
+            "title": "System",
+            "text": "The vampire decides whether they want to agitate or calm, hums a wordless melody or similar subtle sound, and makes a Manipulation + Animalism test at Difficulty 3. Each success in the margin raises or lowers the Difficulty to resist frenzy by one for all other vampires within earshot. If the difficulty is lowered, all vampires already in frenzy can make a new test to resist it, snapping out of their Frenzy if they succeed."
+          },
+          {
+            "title": "Duration",
+            "text": "As long as the user keeps humming"
+          }
+        ]
+      }
+    }
+  ]
+}

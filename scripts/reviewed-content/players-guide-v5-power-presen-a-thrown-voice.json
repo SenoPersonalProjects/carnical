@@ -1,0 +1,82 @@
+{
+  "id": "players-guide-v5-power-presen-a-thrown-voice",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Voz Projetada",
+    "en": "Thrown Voice"
+  },
+  "aliases": [
+    "Voz Projetada",
+    "Thrown Voice"
+  ],
+  "discipline": "Presença",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-presen-a-thrown-voice-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 82",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 82,
+          "printedPage": 80
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 3,
+          "Auspícios": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Faz a voz surgir de qualquer ponto à vista, como sussurro ou grito. Pode deixá-la num local, atraindo ou aterrorizando quem se aproxime conforme o poder associado."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 3; Auspícios 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Nenhum teste além do Teste de Sangue. Com Voz Irresistível, Melpominee ou poderes semelhantes, faça os testes desses poderes normalmente. A voz soa como se o vampiro estivesse no ponto escolhido, e seu alcance depende do volume."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Auspex 1 The vampire can cause their voice to emanate from any point within sight, whether as a whisper or shout. The voice is audible as if the vampire was standing in that spot and can be heard by anyone within earshot, depending on strength. The voice can also be left in a location, continuing to lure or terrify those who stray, depending on the power used."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 3; Auspex 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: N/A"
+          },
+          {
+            "title": "System",
+            "text": "No roll is required, apart from the Rouse Check. If using this power in combination with Irresistible Voice, Melpominee, or similar powers, they must roll as usual."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "players-guide-v5-power-pot-ncia-subtle-hammer",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Martelo Sutil",
+    "en": "Subtle Hammer"
+  },
+  "aliases": [
+    "Martelo Sutil",
+    "Subtle Hammer"
+  ],
+  "discipline": "Potência",
+  "level": 5,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-pot-ncia-subtle-hammer-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 81, 82",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 81,
+          "printedPage": 79
+        },
+        {
+          "pdfPage": 82,
+          "printedPage": 80
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Potência": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Concentra a força do corpo inteiro em movimentos mínimos, como um toque de dedo ou de pé. Não aumenta a força em si, mas permite aplicá-la sem movimentos amplos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Potência 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ataques desarmados de corpo a corpo e proezas de força passam a contar como ações menores de dois dados, conforme o Livro Básico inglês, p. 298. Só pode realizar uma ação menor deste poder por turno e não pode fazer outros ataques nesse turno. Proezas de força com movimento limitado, como escapar de amarras, recebem quatro dados extras ou mais, a critério do Narrador."
+          },
+          {
+            "title": "Duração",
+            "text": "Passivo."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Suffused by inhuman prowess, every part of the vampire’s body becomes able to project the sum of their strength. A flick of their finger can be made to convey the power of a full-body punch, and a punt of the toe becomes a concreteshattering kick. Note that this power does not make the vampire stronger, but they are able to use what strength they have through minor, subtle movements."
+          },
+          {
+            "title": "Requirements",
+            "text": "Potence 5."
+          },
+          {
+            "title": "Cost",
+            "text": "Free\n\n Dice Pools: N/A"
+          },
+          {
+            "title": "System",
+            "text": "Performing unarmed melee attacks or feats of strength now counts as two-dice minor actions (see Minor Actions in Vampire: The Masquerade, p. 298). A character can perform only one Subtle Hammer minor action per turn, though, and cannot make further attacks in the same turn. The ability to concentrate one’s full strength into any part of the body also has other benefits, and any feat of strength where the user’s movement is limited (such as breaking out of bonds) receives a four-dice bonus or more, at the Storyteller’s discretion."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -598,7 +598,8 @@
       },
       "aliases": [
         "Um com a Terra",
-        "One with the Land"
+        "One with the Land",
+        "Uno com a Terra"
       ],
       "discipline": "Proteanismo",
       "level": 5,
@@ -610,15 +611,18 @@
         {
           "id": "players-guide-v5-power-proteanismo-one-with-the-land-players-guide-v5",
           "book": "players-guide-v5",
-          "sourceTitle": "Player’s Guide V5, pp. 83–84",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 85, 86",
           "level": 5,
           "requirements": {
             "disciplines": {
               "Proteanismo": 5,
               "Animalismo": 2
             },
-            "prerequisites": [
-              "Fusão com a Terra"
+            "prerequisiteAlternatives": [
+              [
+                "Fusão com a Terra",
+                "Earth Meld"
+              ]
             ]
           }
         },
@@ -3239,6 +3243,1198 @@
             "characterTypes": [
               "vampire"
             ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-flowering-amaranth",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Amaranto Florescente",
+        "en": "Flowering Amaranth"
+      },
+      "aliases": [
+        "Amaranto Florescente",
+        "Flowering Amaranth"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-flowering-amaranth-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 108",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 5
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-friends-list",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Lista de Amigos",
+        "en": "Friends List"
+      },
+      "aliases": [
+        "Lista de Amigos",
+        "Friends List"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-friends-list-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 106",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 2
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mandagloire",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Mandagloire",
+        "en": "Mandagloire"
+      },
+      "aliases": [
+        "Mandagloire",
+        "Mandagloire"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mandagloire-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 106, 107",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mercurian-tongue",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Língua Mercuriana",
+        "en": "Mercurian Tongue"
+      },
+      "aliases": [
+        "Língua Mercuriana",
+        "Mercurian Tongue"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-mercurian-tongue-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 105",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-moment-of-clarity",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Momento de Clareza",
+        "en": "Moment of Clarity"
+      },
+      "aliases": [
+        "Momento de Clareza",
+        "Moment of Clarity"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-moment-of-clarity-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 108",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 5
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-plug-in",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Conexão Elétrica",
+        "en": "Plug-In"
+      },
+      "aliases": [
+        "Conexão Elétrica",
+        "Plug-In"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-plug-in-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 105, 106",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-rumor",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Rumor",
+        "en": "Rumor"
+      },
+      "aliases": [
+        "Rumor",
+        "Rumor"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-rumor-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 107",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-short-circuit",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Curto-Circuito",
+        "en": "Short Circuit"
+      },
+      "aliases": [
+        "Curto-Circuito",
+        "Short Circuit"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-short-circuit-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 107",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-tank",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Tanque",
+        "en": "Tank"
+      },
+      "aliases": [
+        "Tanque",
+        "Tank"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-tank-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 107",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-toxic-personality",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Personalidade Tóxica",
+        "en": "Toxic Personality"
+      },
+      "aliases": [
+        "Personalidade Tóxica",
+        "Toxic Personality"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-toxic-personality-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 107, 108",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "animal-messenger",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mensageiro Animal",
+        "en": "Animal Messenger"
+      },
+      "aliases": [
+        "Mensageiro Animal",
+        "Animal Messenger"
+      ],
+      "discipline": "Animalismo",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "animal-messenger-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 71",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 2,
+              "Auspícios": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "coax-bestial-temper",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Instigar o Temperamento Bestial",
+        "en": "Coax the Bestial Temper"
+      },
+      "aliases": [
+        "Instigar o Temperamento Bestial",
+        "Coax the Bestial Temper"
+      ],
+      "discipline": "Animalismo",
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "coax-bestial-temper-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 72",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "fatal-flaw",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Falha Fatal",
+        "en": "Fatal Flaw"
+      },
+      "aliases": [
+        "Falha Fatal",
+        "Fatal Flaw"
+      ],
+      "discipline": "Auspícios",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "fatal-flaw-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 73",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 3,
+              "Oblívio": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "messengers-command",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Comando do Mensageiro",
+        "en": "Messenger’s Command"
+      },
+      "aliases": [
+        "Comando do Mensageiro",
+        "Messenger’s Command"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "messengers-command-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 71",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3,
+              "Dominação": 1
+            },
+            "prerequisites": [
+              "Animal Messenger"
+            ],
+            "prerequisiteAlternatives": [
+              [
+                "Compelir",
+                "Compel",
+                "Mesmerismo",
+                "Mesmerize"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "plague-of-beasts",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Praga de Feras",
+        "en": "Plague of Beasts"
+      },
+      "aliases": [
+        "Praga de Feras",
+        "Plague of Beasts"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "plague-of-beasts-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 71",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "reveal-temperament",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Revelar Temperamento",
+        "en": "Reveal Temperament"
+      },
+      "aliases": [
+        "Revelar Temperamento",
+        "Reveal Temperament"
+      ],
+      "discipline": "Auspícios",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "reveal-temperament-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 72, 73",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sway-the-flock",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Influenciar o Bando",
+        "en": "Sway the Flock"
+      },
+      "aliases": [
+        "Influenciar o Bando",
+        "Sway the Flock"
+      ],
+      "discipline": "Animalismo",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "sway-the-flock-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 71, 72",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "blurred-momentum",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Movimento Borrado",
+        "en": "Blurred Momentum"
+      },
+      "aliases": [
+        "Movimento Borrado",
+        "Blurred Momentum"
+      ],
+      "discipline": "Celeridade",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "blurred-momentum-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 74",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "earths-perseverance",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Perseverança da Terra",
+        "en": "Earth’s Perseverance"
+      },
+      "aliases": [
+        "Perseverança da Terra",
+        "Earth’s Perseverance"
+      ],
+      "discipline": "Fortitude",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "earths-perseverance-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 76, 77",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gorgons-scales",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Escamas da Górgona",
+        "en": "Gorgon’s Scales"
+      },
+      "aliases": [
+        "Escamas da Górgona",
+        "Gorgon’s Scales"
+      ],
+      "discipline": "Fortitude",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "gorgons-scales-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 77, 78",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "invigorating-vitae",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Vitae Revigorante",
+        "en": "Invigorating Vitae"
+      },
+      "aliases": [
+        "Vitae Revigorante",
+        "Invigorating Vitae"
+      ],
+      "discipline": "Fortitude",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "invigorating-vitae-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 77",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 2,
+              "Auspícios": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-celeridade-unseen-strike",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Golpe Invisível",
+        "en": "Unseen Strike"
+      },
+      "aliases": [
+        "Golpe Invisível",
+        "Unseen Strike"
+      ],
+      "discipline": "Celeridade",
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-celeridade-unseen-strike-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 75",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 5,
+              "Ofuscação": 4
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Piscar",
+                "Blink"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-domina-o-ancestral-dominion",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Domínio Ancestral",
+        "en": "Ancestral Dominion"
+      },
+      "aliases": [
+        "Domínio Ancestral",
+        "Ancestral Dominion"
+      ],
+      "discipline": "Dominação",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-domina-o-ancestral-dominion-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 76",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Dominação": 4,
+              "Feitiçaria de Sangue": 2
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Mesmerismo",
+                "Mesmerize"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-domina-o-implant-suggestion",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Implantar Sugestão",
+        "en": "Implant Suggestion"
+      },
+      "aliases": [
+        "Implantar Sugestão",
+        "Implant Suggestion"
+      ],
+      "discipline": "Dominação",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-domina-o-implant-suggestion-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 76",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Dominação": 4,
+              "Presença": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-domina-o-slavish-devotion",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Devoção Servil",
+        "en": "Slavish Devotion"
+      },
+      "aliases": [
+        "Devoção Servil",
+        "Slavish Devotion"
+      ],
+      "discipline": "Dominação",
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-domina-o-slavish-devotion-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 75",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Dominação": 1,
+              "Fortitude": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "rush-job",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Trabalho Acelerado",
+        "en": "Rush Job"
+      },
+      "aliases": [
+        "Trabalho Acelerado",
+        "Rush Job"
+      ],
+      "discipline": "Celeridade",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "rush-job-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 74",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "weaving",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Esquiva Veloz",
+        "en": "Weaving"
+      },
+      "aliases": [
+        "Esquiva Veloz",
+        "Weaving"
+      ],
+      "discipline": "Celeridade",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "weaving-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 74",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 3
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Reflexos Rápidos",
+                "Rapid Reflexes"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-ofusca-o-mind-masque",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Máscara Mental",
+        "en": "Mind Masque"
+      },
+      "aliases": [
+        "Máscara Mental",
+        "Mind Masque"
+      ],
+      "discipline": "Ofuscação",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-ofusca-o-mind-masque-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 80, 81",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 4,
+              "Dominação": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-pot-ncia-crash-down",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Queda Devastadora",
+        "en": "Crash Down"
+      },
+      "aliases": [
+        "Queda Devastadora",
+        "Crash Down"
+      ],
+      "discipline": "Potência",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-pot-ncia-crash-down-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 81",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Potência": 4
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Salto Vertiginoso",
+                "Soaring Leap"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-pot-ncia-relentless-grasp",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Agarre Implacável",
+        "en": "Relentless Grasp"
+      },
+      "aliases": [
+        "Agarre Implacável",
+        "Relentless Grasp"
+      ],
+      "discipline": "Potência",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-pot-ncia-relentless-grasp-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 81",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Potência": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-pot-ncia-subtle-hammer",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Martelo Sutil",
+        "en": "Subtle Hammer"
+      },
+      "aliases": [
+        "Martelo Sutil",
+        "Subtle Hammer"
+      ],
+      "discipline": "Potência",
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-pot-ncia-subtle-hammer-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 81, 82",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Potência": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-pot-ncia-wrecker",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Demolidor",
+        "en": "Wrecker"
+      },
+      "aliases": [
+        "Demolidor",
+        "Wrecker"
+      ],
+      "discipline": "Potência",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-pot-ncia-wrecker-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 81",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Potência": 3
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Poderio",
+                "Prowess"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-presen-a-eyes-of-the-serpent",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Olhos da Serpente",
+        "en": "Eyes of the Serpent"
+      },
+      "aliases": [
+        "Olhos da Serpente",
+        "Eyes of the Serpent"
+      ],
+      "discipline": "Presença",
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-presen-a-eyes-of-the-serpent-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 82",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Presença": 1,
+              "Proteanismo": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-presen-a-melpominee",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Melpominee",
+        "en": "Melpominee"
+      },
+      "aliases": [
+        "Melpominee"
+      ],
+      "discipline": "Presença",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-presen-a-melpominee-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 82",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Presença": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-presen-a-suffuse-the-edifice",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Impregnar o Edifício",
+        "en": "Suffuse the Edifice"
+      },
+      "aliases": [
+        "Impregnar o Edifício",
+        "Suffuse the Edifice"
+      ],
+      "discipline": "Presença",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-presen-a-suffuse-the-edifice-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 82, 83",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Presença": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-presen-a-thrown-voice",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Voz Projetada",
+        "en": "Thrown Voice"
+      },
+      "aliases": [
+        "Voz Projetada",
+        "Thrown Voice"
+      ],
+      "discipline": "Presença",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-presen-a-thrown-voice-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 82",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Presença": 3,
+              "Auspícios": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mental-maze",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Labirinto Mental",
+        "en": "Mental Maze"
+      },
+      "aliases": [
+        "Labirinto Mental",
+        "Mental Maze"
+      ],
+      "discipline": "Ofuscação",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "mental-maze-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 79, 80",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 3,
+              "Dominação": 1
+            }
           }
         }
       ]

@@ -1,0 +1,85 @@
+{
+  "id": "plague-of-beasts",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Praga de Feras",
+    "en": "Plague of Beasts"
+  },
+  "aliases": [
+    "Praga de Feras",
+    "Plague of Beasts"
+  ],
+  "discipline": "Animalismo",
+  "level": 3,
+  "versions": [
+    {
+      "id": "plague-of-beasts-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 71",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 71,
+          "printedPage": 69
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Marca um indivíduo para atrair a atenção hostil de animais e vermes locais. Eles latem, bicam e arranham, mas preservam o instinto de sobrevivência."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Manipulação + Animalismo contra Autocontrole + Empatia com Animais."
+          },
+          {
+            "title": "Sistema",
+            "text": "Escolha um alvo à vista. Numa vitória, animais próximos o perseguem pelo restante da noite. Sofre uma penalidade igual à margem nas paradas de Habilidades, salvo se conseguir isolar-se fisicamente da fauna local. Perseguidores recebem um bônus de rastreamento igual à margem. A penalidade não se aplica a conflitos físicos: os animais fogem da violência e retornam quando ela termina."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire can mark an individual, making them the target of focused animal attention. Whatever beasts or vermin are in the area seek the target out to bark, peck, scratch, and generally make their night miserable. While the animals retain enough instincts to not entirely threaten their self-preservation, they make it very hard for the victim to do anything but fend them off."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: Manipulation + Animalism vs Composure + Animal Ken"
+          },
+          {
+            "title": "System",
+            "text": "The vampire picks a target within their line of sight and tests Manipulation + Animalism against the target’s Composure + Animal Ken. On a win the target becomes the focus of attention for all animals in their vicinity for the rest of the night, suffering a dice penalty to all Skill pools equal to the margin on the win unless they can physically isolate themselves from the local wildlife. The target also becomes easier to track, with any pursuer receiving a bonus equal to the same margin. The Skill penalty does not apply to physical conflicts, as the animals aren’t suicidal enough to stick around when fists and bullets start flying, though they return once the dust settles."
+          },
+          {
+            "title": "Duration",
+            "text": "One night"
+          }
+        ]
+      }
+    }
+  ]
+}

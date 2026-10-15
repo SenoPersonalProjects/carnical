@@ -1,0 +1,92 @@
+{
+  "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-moment-of-clarity",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Momento de Clareza",
+    "en": "Moment of Clarity"
+  },
+  "aliases": [
+    "Momento de Clareza",
+    "Moment of Clarity"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 5,
+  "versions": [
+    {
+      "id": "players-guide-v5-formula-alquimia-do-sangue-fraco-moment-of-clarity-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 108",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 108,
+          "printedPage": 106
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 5
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Submerge a Besta para favorecer a acuidade mental e evitar interferências bestiais."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 5."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue fleumático, cádmio, nootrópicos e cinzas de um texto significativo queimado, como escritura religiosa ou livro favorito da infância."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Acrescenta quatro dados às paradas de Habilidades Mentais ou de Disciplinas, inclusive à resistência mental contra Dominação, Animalismo, Presença, Auspícios e seus Amálgamas. Torna o usuário imune a Críticos Bestiais e a Frenesi, caso seja suscetível a ele."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The alchemist is able to temporarily submerge their vampiric instincts, harnessing the power of the Beast to support, rather than disturb, their mental acumen. For a short while they can reach superhuman levels of intellect and concentration while also avoiding bestial interference in their actions."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 5."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s Blood, phlegmatic blood, cadmium, nootropics, and ash from burned pages of a meaningful text to the alchemist (scripture, favorite childhood novel)."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "Upon activation, the alchemist gains mental clarity, their wits sharpen, and the Beast is temporarily sated. They add four dice to Mental or Discipline Skill pools, and can add four dice to Mental resistance checks against Disciplines requiring them: Dominate, Animalism, Presence, Auspex, and their amalgams. They are also immune to Messy Criticals and frenzy, if susceptible to the latter."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

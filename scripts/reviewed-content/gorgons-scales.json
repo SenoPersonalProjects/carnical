@@ -1,0 +1,89 @@
+{
+  "id": "gorgons-scales",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Escamas da Górgona",
+    "en": "Gorgon’s Scales"
+  },
+  "aliases": [
+    "Escamas da Górgona",
+    "Gorgon’s Scales"
+  ],
+  "discipline": "Fortitude",
+  "level": 4,
+  "versions": [
+    {
+      "id": "gorgons-scales-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 77, 78",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 77,
+          "printedPage": 75
+        },
+        {
+          "pdfPage": 78,
+          "printedPage": 76
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A Ressonância do sangue da última alimentação oferece defesas contra poderes e fraquezas vampíricas. Alguns vampiros mantêm vítimas com emoções manipuladas para dispor de diferentes Ressonâncias."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao ativar, recebe a proteção correspondente à Ressonância da última vítima, conforme a tabela. A Ressonância é consumida nas condições indicadas."
+          },
+          {
+            "title": "Proteções",
+            "text": "| Ressonância | Efeito | Quando a Ressonância é perdida |\n| --- | --- | --- |\n| Colérica | Uma estaca cravada no coração apodrece ou vira cinzas ao fim da cena, libertando o vampiro da paralisia | Ao libertar o vampiro |\n| Melancólica | Dano agravado de Vitalidade causado por fogo torna-se superficial | Após reduzir quatro níveis |\n| Fleumática | Quatro dados extras para resistir a poderes de Auspícios que revelem informações sobre o vampiro ou seu conhecimento | Ao fim da cena |\n| Sanguínea | Dano agravado de Vitalidade causado por luz solar torna-se superficial | Após reduzir quatro níveis |"
+          },
+          {
+            "title": "Duração",
+            "text": "Até o fim da cena ou até perder a Ressonância, o que ocorrer primeiro."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The Resonance of the blood in the vampire’s system grants them various defenses against the powers of other Kindred, or protects them from common vampire weaknesses. Finding the right vessel to respond to an immediate defensive requirement is not always easy, but especially callous vampires have been known to keep vessels with different Resonances in ready supply, using elaborate manipulative schemes or plain drugs to keep their emotions vivid and ready to tap."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: N/A"
+          },
+          {
+            "title": "System",
+            "text": "On activation the vampire gains a set of immunities or resistances dependent on the Resonance of the blood they most recently fed upon.\n\n\n- \n\nCholeric: A stake driven through the vampire’s heart is consumed with decay or turns to ash at the end of the scene, immediately freeing the vampire from paralysis. The Resonance is then lost.\n\n\n- \n\nMelancholy: Aggravated Health damage caused by fire is reduced to Superficial. The Resonance is lost after reducing four levels of damage.\n\n\n- \n\nPhlegmatic: The vampire gains a four-dice bonus to resist Auspex powers that would reveal anything about them or what they know. Once the power is activated it lasts for a scene, at which point the Resonance is lost.\n\n\n- \n\nSanguine: Aggravated Health damage caused by sunlight is reduced to Superficial. The Resonance is lost after reducing four levels of damage."
+          },
+          {
+            "title": "Duration",
+            "text": "Until the scene ends or the Resonance is lost, whichever comes first."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "invigorating-vitae",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Vitae Revigorante",
+    "en": "Invigorating Vitae"
+  },
+  "aliases": [
+    "Vitae Revigorante",
+    "Invigorating Vitae"
+  ],
+  "discipline": "Fortitude",
+  "level": 2,
+  "versions": [
+    {
+      "id": "invigorating-vitae-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 77",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 77,
+          "printedPage": 75
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 2,
+          "Auspícios": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Fortalece o poder do próprio Sangue para regenerar carne mortal e curar enfermidades de seres vivos que o bebam."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 2; Auspícios 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum além dos Testes de Sangue por fornecer vitae."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao usar vitae para curar vivos, conforme a p. 139 do Guia, cura três níveis de dano agravado por Teste de Sangue, em vez de um. Os outros efeitos, como tornar-se carniçal e arriscar Laço de Sangue, permanecem."
+          },
+          {
+            "title": "Duração",
+            "text": "Passivo."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Auspex 1 The vampire is able to strengthen their Blood’s capacity to knit mortal flesh and heal ailments. Living beings that partake of their vitae recover their health at surprising speed."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 2; Auspex 1."
+          },
+          {
+            "title": "Cost",
+            "text": "None beyond Rouse Checks for giving Blood\n\n Dice Pools: N/A"
+          },
+          {
+            "title": "System",
+            "text": "Using vitae to heal the living (see p. 139) heals three levels of Aggravated Damage per Rouse Check rather than just one. Other effects (becoming a ghoul, risking Blood Bond) remain unchanged."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive"
+          }
+        ]
+      }
+    }
+  ]
+}

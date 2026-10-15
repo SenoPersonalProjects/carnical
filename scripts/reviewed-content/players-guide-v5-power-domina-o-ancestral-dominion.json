@@ -1,0 +1,96 @@
+{
+  "id": "players-guide-v5-power-domina-o-ancestral-dominion",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Domínio Ancestral",
+    "en": "Ancestral Dominion"
+  },
+  "aliases": [
+    "Domínio Ancestral",
+    "Ancestral Dominion"
+  ],
+  "discipline": "Dominação",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-domina-o-ancestral-dominion-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 76",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 76,
+          "printedPage": 74
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 4,
+          "Feitiçaria de Sangue": 2
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Mesmerismo",
+            "Mesmerize"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Transmite uma ordem pelo Sangue a um descendente, dispensando fala e contato visual. A vítima sabe instintivamente que um ancestral a manipula."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 4; Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Requisitos adicionais",
+            "text": "Mesmerismo."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Manipulação + Dominação contra Determinação + Ocultismo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória leva o descendente a cumprir o pedido, desde que não envolva ferir a si mesmo. O alvo recebe um dado extra de resistência por Geração que o separe do usuário: um descendente de 11ª Geração recebe dois dados contra um ancestral de 9ª. A ordem passa silenciosamente de Sangue para Sangue, mas todas as demais limitações de Dominação se aplicam."
+          },
+          {
+            "title": "Duração",
+            "text": "Até cumprir a ordem ou o fim da cena, o que ocorrer primeiro."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Mesmerize\n\nAmalgam: Blood Sorcery 2 Vampires of great age and potency find it possible to exert their will via the Blood, without the traditional need for eye contact and verbal communication with their target. This power enables a Kindred to compel a descendant by Blood to take an action on their behalf, even if it’s one the target would normally be opposed to. Vampires instinctively know an ancestor is manipulating them when subject to this power."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 4; Blood Sorcery 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: Manipulation + Dominate vs. Resolve + Occult"
+          },
+          {
+            "title": "System",
+            "text": "On a successful test of Manipulation + Dominate against Resolve + Occult, the victim acts to fulfill the dominating ancestor’s request, provided it doesn’t entail harming themself. For every generation separating the user of this power from their target, the resisting vampire gains an additional die to their roll. For example, when a ninth generation vampire attempts to use this power on an eleventh generation descendant, the descendant gains two extra dice in defense. The power needs neither eye contact nor verbal command — the request is silently transmitted from Blood to Blood — but it is subject to all other Dominate limitations."
+          },
+          {
+            "title": "Duration",
+            "text": "Until the command is carried out or the scene ends, whichever comes first."
+          }
+        ]
+      }
+    }
+  ]
+}

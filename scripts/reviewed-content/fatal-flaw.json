@@ -1,0 +1,86 @@
+{
+  "id": "fatal-flaw",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Falha Fatal",
+    "en": "Fatal Flaw"
+  },
+  "aliases": [
+    "Falha Fatal",
+    "Fatal Flaw"
+  ],
+  "discipline": "Auspícios",
+  "level": 3,
+  "versions": [
+    {
+      "id": "fatal-flaw-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 73",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 73,
+          "printedPage": 71
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 3,
+          "Oblívio": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Observa os sinais sutis de entropia para descobrir uma vulnerabilidade mental ou física, desde uma fissura na fachada emocional até uma falha na armadura."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 3; Oblívio 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Inteligência + Auspícios contra Autocontrole + Subterfúgio para fraquezas mentais, ou Vigor + Subterfúgio para fraquezas físicas."
+          },
+          {
+            "title": "Sistema",
+            "text": "Passe um turno observando atentamente o alvo. Uma vitória revela a menor parada defensiva na categoria escolhida e concede dois dados extras a ataques contra ela. Quem receber do usuário a informação sobre essa vulnerabilidade recebe um dado extra."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Oblivion 1 Everything breaks, and the vampire using this power can see the signs before they happen. By observing the subtle work of entropy the vampire can glean the Achilles’ heel of a target, whether it is a crack in their mental facade or a weakness in their actual armor."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 3; Oblivion 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: Intelligence + Auspex vs Composure or Stamina + Subterfuge"
+          },
+          {
+            "title": "System",
+            "text": "The user spends a turn intently observing the target, looking for a flaw in their defenses, and tests Intelligence + Auspex against the target’s Composure (for mental weaknesses) or Stamina (for physical ones) + Subterfuge. A win shows how they best attack their target, revealing the lowest defense pool in either category, and provides a twodice bonus to attacks against that pool. If the user informs anyone about said weakness they gain a one-die bonus."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

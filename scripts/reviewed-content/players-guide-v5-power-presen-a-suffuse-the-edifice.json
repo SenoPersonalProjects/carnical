@@ -1,0 +1,93 @@
+{
+  "id": "players-guide-v5-power-presen-a-suffuse-the-edifice",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Impregnar o Edifício",
+    "en": "Suffuse the Edifice"
+  },
+  "aliases": [
+    "Impregnar o Edifício",
+    "Suffuse the Edifice"
+  ],
+  "discipline": "Presença",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-presen-a-suffuse-the-edifice-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 82, 83",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 82,
+          "printedPage": 80
+        },
+        {
+          "pdfPage": 83,
+          "printedPage": 81
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Presença": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Enquanto estiver num edifício ou local semelhante, transmite Fascínio, Amedrontar ou Majestade pela estrutura. Quem estiver dentro ou olhando para ela reage como se fosse o vampiro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Presença 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Não se aplica; siga o poder transmitido."
+          },
+          {
+            "title": "Parada",
+            "text": "A do poder transmitido."
+          },
+          {
+            "title": "Sistema",
+            "text": "Pessoas dentro ou que vejam o edifício de fora resistem como se o vampiro estivesse presente. Se puderem ver o próprio vampiro, ele se torna o foco. Como edifícios normalmente não fazem testes de Habilidade, aplique os bônus às reações do alvo ao local. Fascínio pode atrair filas para uma casa noturna, e Amedrontar pode afastar investigadores de um refúgio. Majestade exige cuidado extremo: os efeitos podem ser espetaculares e voláteis."
+          },
+          {
+            "title": "Duração",
+            "text": "A do poder transmitido."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "While present in a building or similar locale the vampire is able to extend the powers of Awe, Daunt, and Majesty through the very structure of the building. Anybody in the building or looking at it will be affected by these powers, reacting to the building as if the vampire themself is present."
+          },
+          {
+            "title": "Requirements",
+            "text": "Presence 4."
+          },
+          {
+            "title": "Cost",
+            "text": "N/A"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "As power transmitted"
+          },
+          {
+            "title": "System",
+            "text": "Anyone seeing the building from outside or who are present inside it needs to resist the power used as if the vampire was present, unless the vampire is within eyesight, at which point they themselves becomes the focus. As a building does not generally make Skill checks, apply the bonuses instead to any reaction the victim has to the place. A nightclub under the influence of Awe will have queues stretching around the block, while a haven under Daunt will turn away all but the most staunch investigators. Use of Majesty has to be done with extreme caution, as the results can be spectacular and volatile, far exceeding the effect of the more subtle powers."
+          },
+          {
+            "title": "Duration",
+            "text": "As power transmitted"
+          }
+        ]
+      }
+    }
+  ]
+}

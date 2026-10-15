@@ -29,6 +29,10 @@ export function powerEligibility(power:PowerRule,disciplines:Record<string,numbe
     for(const part of parts){const match=part.trim().match(/^(.+?)\s+(\d+)$/);if(match&&(disciplines[match[1]]||0)<Number(match[2]))reasons.push(`Amálgama: ${match[1]} ${match[2]}`)}
   }
   if(power.prerequisite&&!knowsPower(known,power.prerequisite))reasons.push(`Exige o poder ${power.prerequisite}`);
+  const entry=contentById(power.id)||resolveContent(power.name,{kind:power.kind||"power",discipline:power.discipline});
+  const requirements=entry?.versions?.find(version=>version.book===power.source.book)?.requirements;
+  for(const required of requirements?.prerequisites||[])if(required!==power.prerequisite&&!knowsPower(known,required))reasons.push(`Exige o poder ${required}`);
+  for(const alternatives of requirements?.prerequisiteAlternatives||[])if(!alternatives.some(required=>knowsPower(known,required)))reasons.push(`Exige um dos poderes: ${alternatives.join(" / ")}`);
   return {allowed:reasons.length===0,reasons};
 }
 
