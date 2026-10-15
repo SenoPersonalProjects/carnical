@@ -1,0 +1,100 @@
+{
+  "id": "animal-dominion",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Controle Animal",
+    "en": "Animal Dominion"
+  },
+  "aliases": [
+    "Controle Animal",
+    "Animal Dominion"
+  ],
+  "discipline": "Animalismo",
+  "level": 5,
+  "versions": [
+    {
+      "id": "animal-dominion-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 245, 247",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 247,
+          "printedPage": 245
+        },
+        {
+          "pdfPage": 249,
+          "printedPage": 247
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Comanda bandos de animais como extensões do próprio corpo, podendo exigir até que se sacrifiquem."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Dois Testes de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Carisma + Animalismo; Dificuldade conforme os animais e a ordem."
+          },
+          {
+            "title": "Sistema",
+            "text": "Escolha um tipo de animal presente. Mandar corvos procurar alguém que possam identificar tem Dificuldade 3; mandar cães num ataque suicida contra um vampiro tem Dificuldade 5. O poder não convoca animais, mas obriga os presentes a obedecer. Pode ordenar o retorno após a tarefa, se tiverem meios de voltar."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até cumprir a ordem, o que ocorrer primeiro."
+          },
+          {
+            "title": "Exceções da Disciplina",
+            "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Commands groups of animals as extensions of the user’s body, even ordering their sacrifice."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 5."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Charisma + Animalism; Difficulty depends on animals and command."
+          },
+          {
+            "title": "System",
+            "text": "Choose one animal type present. Sending crows to search for someone they can identify is Difficulty 3; ordering dogs into a suicidal attack on a vampire is Difficulty 5. The power does not summon animals but compels those present to obey. They can be ordered to return after the task if able to do so."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until the command is fulfilled, whichever comes first."
+          },
+          {
+            "title": "Discipline exceptions",
+            "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+          }
+        ]
+      }
+    }
+  ]
+}

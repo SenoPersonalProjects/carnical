@@ -22771,6 +22771,3348 @@
           }
         }
       ]
+    },
+    {
+      "id": "animal-dominion",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Controle Animal",
+        "en": "Animal Dominion"
+      },
+      "aliases": [
+        "Controle Animal",
+        "Animal Dominion"
+      ],
+      "discipline": "Animalismo",
+      "level": 5,
+      "versions": [
+        {
+          "id": "animal-dominion-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 247",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 247,
+              "printedPage": 245
+            },
+            {
+              "pdfPage": 249,
+              "printedPage": 247
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Comanda bandos de animais como extensões do próprio corpo, podendo exigir até que se sacrifiquem."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Dois Testes de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Carisma + Animalismo; Dificuldade conforme os animais e a ordem."
+              },
+              {
+                "title": "Sistema",
+                "text": "Escolha um tipo de animal presente. Mandar corvos procurar alguém que possam identificar tem Dificuldade 3; mandar cães num ataque suicida contra um vampiro tem Dificuldade 5. O poder não convoca animais, mas obriga os presentes a obedecer. Pode ordenar o retorno após a tarefa, se tiverem meios de voltar."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até cumprir a ordem, o que ocorrer primeiro."
+              },
+              {
+                "title": "Exceções da Disciplina",
+                "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Commands groups of animals as extensions of the user’s body, even ordering their sacrifice."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Two Rouse Checks."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Charisma + Animalism; Difficulty depends on animals and command."
+              },
+              {
+                "title": "System",
+                "text": "Choose one animal type present. Sending crows to search for someone they can identify is Difficulty 3; ordering dogs into a suicidal attack on a vampire is Difficulty 5. The power does not summon animals but compels those present to obey. They can be ordered to return after the task if able to do so."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until the command is fulfilled, whichever comes first."
+              },
+              {
+                "title": "Discipline exceptions",
+                "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "animal-succulence",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Suculência Animal",
+        "en": "Animal Succulence"
+      },
+      "aliases": [
+        "Suculência Animal",
+        "Animal Succulence"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "versions": [
+        {
+          "id": "animal-succulence-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 247",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 247,
+              "printedPage": 245
+            },
+            {
+              "pdfPage": 249,
+              "printedPage": 247
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Obtém mais sustento do sangue animal e absorve temporariamente uma característica ao consumir o próprio fâmulo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Alimentar-se de animais sacia 1 Fome adicional; considere sua Potência de Sangue dois níveis abaixo ao determinar penalidades para saciar Fome com sangue animal. Consumir o próprio fâmulo sacia 4 Fome, qualquer que seja seu tamanho, mas nunca o último ponto. Isso também aumenta em 2 o Atributo mais associado ao animal, escolhido pelo Narrador: um gato pode dar Destreza ou Autocontrole; um cão, Carisma ou Determinação. O Narrador pode variar a recompensa, como +2 ao Atributo de paradas de percepção ou sabedoria ao consumir uma coruja."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva. O bônus do fâmulo termina na próxima alimentação ou ao alcançar Fome 5."
+              },
+              {
+                "title": "Exceções da Disciplina",
+                "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Gains extra nourishment from animal blood and temporarily absorbs a characteristic by consuming your own famulus."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 3."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "Feeding on animals slakes 1 additional Hunger; treat Blood Potency as two levels lower for penalties to slaking Hunger with animal blood. Consuming your own famulus slakes 4 Hunger regardless of size, but never the last point. It also increases the Attribute most associated with that animal by 2, chosen by the Storyteller: a cat might grant Dexterity or Composure; a dog, Charisma or Resolve. The Storyteller may vary the reward, such as +2 to the Attribute in perception or wisdom pools for an owl."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive. The famulus bonus ends at the next feeding or upon reaching Hunger 5."
+              },
+              {
+                "title": "Discipline exceptions",
+                "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bond-famulus",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Enlaçar Fâmulo",
+        "en": "Bond Famulus"
+      },
+      "aliases": [
+        "Enlaçar Fâmulo",
+        "Bond Famulus",
+        "Famulus Enlaçado",
+        "Fâmulo Enlaçado"
+      ],
+      "discipline": "Animalismo",
+      "level": 1,
+      "versions": [
+        {
+          "id": "bond-famulus-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 247,
+              "printedPage": 245
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Cria um vínculo mental com um animal transformado em fâmulo. Ele segue comandos verbais simples, como ficar ou vir, e defende a si e ao mestre; este poder sozinho não permite comunicação em mão dupla nem o obriga a atacar algo que normalmente evitaria."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Alimente o animal com seu Sangue em três noites distintas, fazendo um Teste de Sangue em cada uma. Depois, a quantidade para sustentar seu estado de carniçal é insignificante. Quem começa o jogo com o poder já concluiu o processo e pode escolher um fâmulo."
+              },
+              {
+                "title": "Parada",
+                "text": "Carisma + Empatia com Animais, Dificuldade 2 para ordens simples sem Sussurros Selvagens; ordens mais complexas aumentam a Dificuldade."
+              },
+              {
+                "title": "Sistema",
+                "text": "Só pode ter um fâmulo, mas pode criar outro se ele morrer. Sussurros Selvagens e Comunhão de Espíritos não custam Sangue quando usados no próprio fâmulo."
+              },
+              {
+                "title": "Duração",
+                "text": "Só a morte desfaz o vínculo. O fâmulo não envelhece enquanto receber Sangue vampírico regularmente."
+              },
+              {
+                "title": "Exceções da Disciplina",
+                "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Creates a mental bond with an animal famulus. It follows simple spoken commands such as stay or come and defends itself and its master. This power alone does not allow two-way communication or make it attack something it would normally avoid."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Feed the animal your Blood on three separate nights, making one Rouse Check each night. Maintenance thereafter takes an insignificant amount of Blood. Characters starting with this power have already completed this process and may choose a famulus."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Charisma + Animal Ken, Difficulty 2 for simple commands without Feral Whispers; complex commands raise the Difficulty."
+              },
+              {
+                "title": "System",
+                "text": "Only one famulus at a time; another can be created if it dies. Using Feral Whispers or Subsume the Spirit on your own famulus has no Blood cost."
+              },
+              {
+                "title": "Duration",
+                "text": "Only death releases the bond. The famulus does not age while regularly receiving vampiric Blood."
+              },
+              {
+                "title": "Discipline exceptions",
+                "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "clairvoyance",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Clarividência",
+        "en": "Clairvoyance"
+      },
+      "aliases": [
+        "Clarividência",
+        "Clairvoyance"
+      ],
+      "discipline": "Auspícios",
+      "level": 5,
+      "versions": [
+        {
+          "id": "clairvoyance-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 251",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 253,
+              "printedPage": 251
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Em transe leve e de olhos fechados, reúne em minutos informações sobre aproximadamente uma quadra, ou área maior ao ar livre ou menos populosa, e pode acompanhar acontecimentos incomuns."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Auspícios; Dificuldade conforme segurança e atividade da área. Some o valor base de Refúgio ao usar no próprio refúgio."
+              },
+              {
+                "title": "Sistema",
+                "text": "Na própria mansão, Dificuldade 3; numa área urbana desconhecida e tumultuada, 7 ou mais. O Narrador responde aproximadamente uma pergunta por ponto de margem sobre movimento, o que foi visto ou ouvido, fofocas, surpresas e impressões. Informação deliberadamente escondida pode consumir mais de um ponto. Um crítico revela algo importante, independentemente das perguntas, se existir algo a revelar. Também pode vigiar eventos em curso, mas precisa permanecer na área enquanto o fizer."
+              },
+              {
+                "title": "Duração",
+                "text": "Alguns minutos para obter informações; até uma noite para vigilância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "With eyes closed in a light trance, gathers information in minutes about roughly a city block, or a larger outdoor or less populated area, and can monitor unusual events."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Auspex; Difficulty depends on local security and activity. Add the base Haven rating when using it in your own haven."
+              },
+              {
+                "title": "System",
+                "text": "Your own mansion might be Difficulty 3; an unfamiliar, tumultuous urban area, 7 or more. The Storyteller answers approximately one question per point of margin about movement, sights or sounds, gossip, surprises and impressions. Deliberately hidden information may consume more than one point. A critical reveals something major independently of the questions, if anything exists to reveal. Ongoing events can also be monitored, but the user must remain in the area throughout."
+              },
+              {
+                "title": "Duration",
+                "text": "A few minutes for information gathering; up to one night for surveillance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "drawing-out-beast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Expulsar a Besta",
+        "en": "Drawing Out the Beast"
+      },
+      "aliases": [
+        "Expulsar a Besta",
+        "Drawing Out the Beast"
+      ],
+      "discipline": "Animalismo",
+      "level": 5,
+      "versions": [
+        {
+          "id": "drawing-out-beast-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 247, 248",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 247,
+              "printedPage": 245
+            },
+            {
+              "pdfPage": 249,
+              "printedPage": 247
+            },
+            {
+              "pdfPage": 250,
+              "printedPage": 248
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Projeta a própria Besta num mortal ou vampiro próximo, transferindo um Frenesi de Fúria ou Terror."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Raciocínio + Animalismo contra Autocontrole + Determinação do alvo, no lugar do teste de Vontade para resistir ao Frenesi."
+              },
+              {
+                "title": "Sistema",
+                "text": "Sucesso faz o alvo entrar no Frenesi em seu lugar, atacando ou fugindo conforme o gatilho. Falha faz o usuário entrar em Frenesi como numa falha de resistência normal. Novos estímulos ainda podem provocar seu Frenesi; pode repetir enquanto puder fazer Testes de Sangue e houver alvos. Não transfere Frenesi de Fome."
+              },
+              {
+                "title": "Duração",
+                "text": "A duração do Frenesi (p. 220)."
+              },
+              {
+                "title": "Exceções da Disciplina",
+                "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Projects the user’s Beast into a nearby mortal or vampire, transferring a fury or terror frenzy."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Wits + Animalism opposed by the target’s Composure + Resolve, replacing the Willpower roll to resist frenzy."
+              },
+              {
+                "title": "System",
+                "text": "Success makes the target frenzy instead, attacking or fleeing according to the trigger. Failure makes the user frenzy as if the normal resistance roll had failed. Further stimuli can still trigger the user; the power can be repeated while Rouse Checks and targets remain available. It cannot transfer hunger frenzy."
+              },
+              {
+                "title": "Duration",
+                "text": "The duration of the frenzy (p. 220)."
+              },
+              {
+                "title": "Discipline exceptions",
+                "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "feral-whispers",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Sussurros Selvagens",
+        "en": "Feral Whispers"
+      },
+      "aliases": [
+        "Sussurros Selvagens",
+        "Feral Whispers"
+      ],
+      "discipline": "Animalismo",
+      "level": 2,
+      "versions": [
+        {
+          "id": "feral-whispers-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 246",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 247,
+              "printedPage": 245
+            },
+            {
+              "pdfPage": 248,
+              "printedPage": 246
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Permite conversar com animais e tentar persuadi-los a ajudar ou convocar um tipo de animal presente na região. Eles entendem assuntos dentro de sua experiência, raramente aceitam tarefas contrárias à natureza ou perigosas e se dispersam ou atacam se ameaçados."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue por tipo de animal escolhido na cena: inclui uma convocação e comunicação ilimitada. Gratuito no próprio fâmulo."
+              },
+              {
+                "title": "Parada",
+                "text": "Manipulação + Animalismo para persuadir; Carisma + Animalismo para convocar. Comunicação simples não exige teste."
+              },
+              {
+                "title": "Sistema",
+                "text": "A Dificuldade de persuadir depende da tarefa: vigiar quem entra num parque, 3; defender um local com a própria vida, 6. Convocar depende da escassez local: só animais que estejam presentes podem responder. A margem determina a quantidade; um crítico chama a maioria ou todos os animais daquele tipo na região. Os convocados escutam o usuário."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Exceções da Disciplina",
+                "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Allows two-way conversation with animals, persuasion to perform services, or summoning one type of animal already in the area. Animals understand matters within their experience, rarely accept unnatural or dangerous tasks, and scatter or attack if threatened."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check per animal type chosen for the scene, including one summoning and unlimited communication. Free on your own famulus."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Manipulation + Animalism to persuade; Charisma + Animalism to summon. Simple communication needs no roll."
+              },
+              {
+                "title": "System",
+                "text": "Persuasion Difficulty depends on the task: watching who enters a park, 3; defending a place with its life, 6. Summoning Difficulty depends on local scarcity; only animals actually present can respond. The margin determines their number, with a critical summoning most or all of that type in the area. Summoned animals listen to the user."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              },
+              {
+                "title": "Discipline exceptions",
+                "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "heightened-senses",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Sentidos Aguçados",
+        "en": "Heightened Senses"
+      },
+      "aliases": [
+        "Sentidos Aguçados",
+        "Heightened Senses"
+      ],
+      "discipline": "Auspícios",
+      "level": 1,
+      "versions": [
+        {
+          "id": "heightened-senses-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 249",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 251,
+              "printedPage": 249
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Aguça os sentidos a níveis sobrenaturais, permitindo enxergar na escuridão total, ouvir ultrassons e farejar medo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito; o uso prolongado pode exigir Vontade, a critério do Narrador."
+              },
+              {
+                "title": "Parada",
+                "text": "Raciocínio + Determinação, Dificuldade 3 ou mais, para amortecer os sentidos diante de estímulos extremos."
+              },
+              {
+                "title": "Sistema",
+                "text": "Adicione Auspícios a todas as rolagens de percepção. Estampidos, clarões ou odores pungentes exigem o teste acima; falha causa −3 dados em todas as rolagens de percepção pelo resto da cena."
+              },
+              {
+                "title": "Duração",
+                "text": "Até desativar. Manter por mais de uma cena sem descanso, sobretudo em ambiente muito estimulante, pode custar Vontade."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Sharpens the senses supernaturally, allowing sight in total darkness, ultrasonic hearing and smelling fear."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free; prolonged use may require Willpower at the Storyteller’s discretion."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Wits + Resolve, Difficulty 3 or higher, to dampen the senses against extreme stimuli."
+              },
+              {
+                "title": "System",
+                "text": "Add Auspex to all perception rolls. Loud bangs, flashes or pungent odors require the roll above; failure inflicts −3 dice on all perception rolls for the rest of the scene."
+              },
+              {
+                "title": "Duration",
+                "text": "Until deactivated. Use beyond one scene without rest, especially in highly stimulating surroundings, may cost Willpower."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "possession",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Possessão",
+        "en": "Possession"
+      },
+      "aliases": [
+        "Possessão",
+        "Possession"
+      ],
+      "discipline": "Auspícios",
+      "level": 5,
+      "versions": [
+        {
+          "id": "possession-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 251",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 253,
+              "printedPage": 251
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 5,
+              "Dominação": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Toma o corpo de um mortal, deixando a mente dele inacessível e o próprio corpo em transe. Só funciona em mortais; carniçais precisam estar Enlaçados ao usuário."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 5 e Dominação 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Dois Testes de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Auspícios contra Determinação + Inteligência, com contato visual inicial conforme Dominação (p. 254)."
+              },
+              {
+                "title": "Sistema",
+                "text": "Falha total torna a vítima imune a novas tentativas pelo restante da história. O corpo vampírico fica inconsciente dos arredores e de sua condição, exceto dano agravado, que encerra o efeito. Pode usar Auspícios, Presença e Dominação pelo hospedeiro. Permanecer durante o dia exige ficar acordado (p. 219); falha encerra a possessão. Quando o hospedeiro sofre dano agravado, teste Determinação + Auspícios, Dificuldade 2 + dano sofrido, para manter o controle. A morte dele causa imediatamente 3 danos agravados em Vontade ao usuário. Não lê pensamentos nem adquire Habilidades ou maneirismos: usa as próprias Habilidades. Para imitar a vítima, Manipulação + Performance contra Raciocínio + Sagacidade. O Narrador deve considerar Máculas pela violação da vítima."
+              },
+              {
+                "title": "Duração",
+                "text": "Até terminar voluntariamente ou por uma das condições acima."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Takes over a mortal body while leaving its mind inaccessible and the vampire’s own body in a trance. Only works on mortals; ghouls must be Blood Bound to the user."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 5 and Dominate 3."
+              },
+              {
+                "title": "Cost",
+                "text": "Two Rouse Checks."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Auspex opposed by Resolve + Intelligence, initially requiring eye contact under Dominate (p. 254)."
+              },
+              {
+                "title": "System",
+                "text": "A total failure makes the victim immune to further attempts for the rest of the story. The vampire’s body is unaware of surroundings or condition except Aggravated damage, which ends possession. Auspex, Presence and Dominate can be used through the host. Continuing by day requires staying awake (p. 219); failure ends possession. When the host takes Aggravated damage, roll Resolve + Auspex, Difficulty 2 + damage suffered, to retain control. The host’s death immediately inflicts 3 Aggravated Willpower damage on the user. It grants no mind reading, Skills or mannerisms: use your own Skills. Impersonation uses Manipulation + Performance opposed by Wits + Insight. The Storyteller should consider Stains for violating the victim."
+              },
+              {
+                "title": "Duration",
+                "text": "Until voluntarily ended or interrupted by the conditions above."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "premonition",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Premonição",
+        "en": "Premonition"
+      },
+      "aliases": [
+        "Premonição",
+        "Premonition"
+      ],
+      "discipline": "Auspícios",
+      "level": 2,
+      "versions": [
+        {
+          "id": "premonition-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 249, 250",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 251,
+              "printedPage": 249
+            },
+            {
+              "pdfPage": 252,
+              "printedPage": 250
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Oferece pressentimentos, inspirações ou visões imprecisas que revelam uma pista, verdade ou perigo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito quando o Narrador concede a visão; um Teste de Sangue para provocá-la."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Auspícios ao provocar a visão."
+              },
+              {
+                "title": "Sistema",
+                "text": "O Narrador concede uma dica quando apropriado e pode usá-la para mover a história ou revelar uma pista ignorada. O limite sugerido é uma premonição por cena, mesmo se vários personagens tiverem o poder. Para provocá-la, concentre-se num alvo, faça o Teste de Sangue e role; os sucessos determinam a profundidade da revelação sobre ele, se houver alguma."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Offers hunches, sudden insights or imprecise visions revealing a clue, truth or danger."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 2."
+              },
+              {
+                "title": "Cost",
+                "text": "Free when granted by the Storyteller; one Rouse Check to provoke a vision."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Auspex when provoking a vision."
+              },
+              {
+                "title": "System",
+                "text": "The Storyteller grants a helpful hint when appropriate, allowing the story to move or an overlooked clue to emerge. The suggested limit is one premonition per scene even with multiple characters possessing the power. To provoke one, concentrate on a target, make the Rouse Check and roll; successes determine the depth of revelation about it, if any."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "quell-the-beast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Subjugar a Besta",
+        "en": "Quell the Beast"
+      },
+      "aliases": [
+        "Subjugar a Besta",
+        "Quell the Beast"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "versions": [
+        {
+          "id": "quell-the-beast-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 246, 247",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 247,
+              "printedPage": 245
+            },
+            {
+              "pdfPage": 248,
+              "printedPage": 246
+            },
+            {
+              "pdfPage": 249,
+              "printedPage": 247
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Com contato visual, intimida e adormece temporariamente a Besta do alvo. Mortais ficam apáticos e vampiros têm os impulsos bestiais suprimidos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Carisma + Animalismo contra Vigor + Determinação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória incapacita um mortal pela cena: ele só age para preservar a própria vida, sem agir contra o usuário ou outra pessoa. Um vampiro afetado não usa Impulso de Sangue e fica imune a críticos bestiais. Uma vitória crítica contra vampiro também encerra seu Frenesi."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena contra mortais; um turno mais a margem de vitória contra vampiros."
+              },
+              {
+                "title": "Exceções da Disciplina",
+                "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Eye contact intimidates the target’s Beast into temporary slumber. Mortals become apathetic and vampires have their bestial impulses suppressed."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Charisma + Animalism opposed by Stamina + Resolve."
+              },
+              {
+                "title": "System",
+                "text": "A win incapacitates a mortal for the scene: they act only to preserve their life, not against the user or anyone else. An affected vampire cannot Blood Surge and is immune to messy criticals. A critical win against a vampire also ends their frenzy."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene for mortals; one turn plus the winning margin for vampires."
+              },
+              {
+                "title": "Discipline exceptions",
+                "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "scry-soul",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Perscrutar a Alma",
+        "en": "Scry the Soul"
+      },
+      "aliases": [
+        "Perscrutar a Alma",
+        "Scry the Soul"
+      ],
+      "discipline": "Auspícios",
+      "level": 3,
+      "versions": [
+        {
+          "id": "scry-soul-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 250",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 252,
+              "printedPage": 250
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Examina a aura de uma pessoa para descobrir emoções, Ressonância e características sobrenaturais. Pode procurar uma condição específica numa multidão, mas nesse caso não recebe outros tipos de informação."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Auspícios contra Autocontrole + Subterfúgio; ao examinar multidão, Dificuldade conforme quantidade de pessoas, distrações e característica procurada."
+              },
+              {
+                "title": "Sistema",
+                "text": "Numa vitória, o Narrador responde com verdade a uma pergunta por ponto de margem sobre a aura ou psique: estado emocional; Ressonância do sangue; natureza sobrenatural (vampiro, lobisomem, carniçal etc.); influência de Feitiçaria de Sangue ou outra magia; Diablerie no último ano. Um crítico revela algo inesperado escolhido pelo Narrador. Numa multidão, achar um vampiro numa sala pode ser Dificuldade 3; a pessoa mais inquieta numa rave, 6 ou mais."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno, ou conforme o Narrador."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Examines a person’s aura for emotions, Resonance and supernatural traits. A crowd can be scanned for one specific condition, but that scan provides no other information."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Auspex opposed by Composure + Subterfuge; for crowds, Difficulty depends on numbers, distractions and the trait sought."
+              },
+              {
+                "title": "System",
+                "text": "On a win, the Storyteller truthfully answers one question per point of margin about aura or psyche: emotional state; blood Resonance; supernatural nature (vampire, werewolf, ghoul, etc.); influence of Blood Sorcery or other magic; diablerie within the last year. A critical reveals something unexpected chosen by the Storyteller. In a crowd, finding a vampire in a room might be Difficulty 3; finding the most agitated person at a rave, 6 or more."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn, or as determined by the Storyteller."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sense-the-beast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Sentir a Besta",
+        "en": "Sense the Beast"
+      },
+      "aliases": [
+        "Sentir a Besta",
+        "Sense the Beast"
+      ],
+      "discipline": "Animalismo",
+      "level": 1,
+      "versions": [
+        {
+          "id": "sense-the-beast-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 247,
+              "printedPage": 245
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Percebe a Besta de mortais, vampiros e outros seres, revelando hostilidade e natureza sobrenatural."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Animalismo contra Autocontrole + Subterfúgio."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória revela se o alvo está pronto ou determinado a causar mal e se abriga uma Besta sobrenatural. Um crítico identifica o tipo exato de criatura, sua Fome ou equivalente e Ressonância. Pode ser usado ativamente ou avisar passivamente sobre intenções agressivas próximas."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              },
+              {
+                "title": "Exceções da Disciplina",
+                "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Senses the Beast in mortals, vampires and other beings, revealing hostility and supernatural nature."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Animalism opposed by Composure + Subterfuge."
+              },
+              {
+                "title": "System",
+                "text": "A win reveals whether the target is ready or determined to cause harm and whether it harbors a supernatural Beast. A critical identifies the exact creature type, its Hunger or equivalent, and Resonance. The power can be used actively or passively warn of nearby aggressive intent."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              },
+              {
+                "title": "Discipline exceptions",
+                "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sense-unseen",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Sentir o Invisível",
+        "en": "Sense the Unseen"
+      },
+      "aliases": [
+        "Sentir o Invisível",
+        "Sense the Unseen"
+      ],
+      "discipline": "Auspícios",
+      "level": 1,
+      "versions": [
+        {
+          "id": "sense-unseen-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 249",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 251,
+              "printedPage": 249
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Detecta presenças sobrenaturais escondidas, como Ofuscação, observadores com Auspícios e fantasmas. O Narrador pode permitir detectar também feitiços ou rituais inativos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Parada",
+                "text": "Raciocínio + Auspícios passivamente; Determinação + Auspícios ao procurar ativamente."
+              },
+              {
+                "title": "Sistema",
+                "text": "O Narrador faz um teste oculto quando algo sobrenatural se esconde à vista, com Dificuldade escolhida por ele. Contra alguém tentando ocultar-se, pode pedir uma rolagem cega em conflito com a parada relevante: contra Ofuscação, por exemplo, Raciocínio + Auspícios contra Raciocínio + Ofuscação."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Detects hidden supernatural presences such as Obfuscate, Auspex observers and ghosts. The Storyteller may also allow detection of inactive spells or rituals."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Wits + Auspex passively; Resolve + Auspex when actively searching."
+              },
+              {
+                "title": "System",
+                "text": "The Storyteller makes a hidden roll when something supernatural hides in plain sight, setting the Difficulty. Against an entity actively concealing itself, a blind roll may oppose its relevant pool: detecting Obfuscate, for example, uses Wits + Auspex against Wits + Obfuscate."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "share-senses",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Compartilhar os Sentidos",
+        "en": "Share the Senses"
+      },
+      "aliases": [
+        "Compartilhar os Sentidos",
+        "Share the Senses"
+      ],
+      "discipline": "Auspícios",
+      "level": 3,
+      "versions": [
+        {
+          "id": "share-senses-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 250",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 252,
+              "printedPage": 250
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Percebe por um, vários ou todos os sentidos de outro mortal ou vampiro, conservando a percepção dos próprios arredores. Exige linha de visão para iniciar num estranho; pode funcionar à distância em quem ainda tenha seu Sangue no corpo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Auspícios, Dificuldade 3; pode aumentar por distrações, distância ou quantidade de Sangue restante no alvo."
+              },
+              {
+                "title": "Sistema",
+                "text": "O alvo normalmente ignora a intrusão, mas Sentir o Invisível pode detectá-la. Para expulsar o passageiro, vence um conflito de Raciocínio + Determinação contra Raciocínio + Determinação. Se expulso, o usuário não pode tentar compartilhar os sentidos novamente até a próxima noite."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Experiences one, several or all senses of another mortal or vampire while retaining awareness of the user’s own surroundings. Starting on a stranger requires line of sight; it can work at range on someone still carrying the user’s Blood."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Auspex, Difficulty 3; distractions, distance or the remaining amount of Blood in the target can raise it."
+              },
+              {
+                "title": "System",
+                "text": "The target is usually unaware, but Sense the Unseen can detect the intrusion. To expel the passenger, win a Wits + Resolve versus Wits + Resolve contest. An expelled user cannot attempt to share senses again until the next night."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "spirits-touch",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Toque do Espírito",
+        "en": "Spirit’s Touch"
+      },
+      "aliases": [
+        "Toque do Espírito",
+        "Spirit’s Touch",
+        "Spirit's Touch"
+      ],
+      "discipline": "Auspícios",
+      "level": 4,
+      "versions": [
+        {
+          "id": "spirits-touch-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 250",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 252,
+              "printedPage": 250
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Tocar um objeto inanimado ou o chão de um local revela resíduos emocionais de quem o manuseou ou visitou, incluindo ações e circunstâncias. As impressões raramente são claras, mas vão além da perícia forense comum."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Auspícios, Dificuldade conforme a informação procurada."
+              },
+              {
+                "title": "Sistema",
+                "text": "Perceber a emoção de quem usou uma arma de assassinato há poucos dias pode ter Dificuldade 3; o ambiente de escrita de uma carta de 300 anos, 6 ou mais. Cada ponto de margem permite sentir aproximadamente mais um portador anterior e um conjunto adicional de circunstâncias, retrocedendo a partir do mais recente."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Touching an inanimate object or the ground at a location reveals emotional residue of handlers or visitors, including actions and circumstances. Impressions are rarely clear but go beyond ordinary forensic examination."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Intelligence + Auspex, Difficulty based on the information sought."
+              },
+              {
+                "title": "System",
+                "text": "Sensing the emotion of someone who used a murder weapon days ago might be Difficulty 3; the setting where a 300-year-old letter was written, 6 or more. Each point of margin reveals approximately one additional previous handler and set of circumstances, working backward from the most recent."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "subsume-spirit",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Comunhão de Espíritos",
+        "en": "Subsume the Spirit"
+      },
+      "aliases": [
+        "Comunhão de Espíritos",
+        "Subsume the Spirit"
+      ],
+      "discipline": "Animalismo",
+      "level": 4,
+      "versions": [
+        {
+          "id": "subsume-spirit-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 247",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 247,
+              "printedPage": 245
+            },
+            {
+              "pdfPage": 249,
+              "printedPage": 247
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Transfere a mente para um animal, controlando-o e usando seus sentidos. O corpo vampírico fica imóvel como em Torpor."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue; gratuito no próprio fâmulo."
+              },
+              {
+                "title": "Parada",
+                "text": "Manipulação + Animalismo, Dificuldade 4."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória permite habitar o animal por uma cena; um crítico, indefinidamente. Para continuar durante o dia, é preciso permanecer acordado (p. 219). Ver o sol exige resistência ao Frenesi de Terror, embora a luz não fira o animal. O vampiro não percebe seu corpo, mas dano nele encerra o transe. A morte do animal também encerra o efeito e causa 1 dano agravado em Vontade ao usuário."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena; indefinida com vitória crítica, sujeita às condições acima."
+              },
+              {
+                "title": "Exceções da Disciplina",
+                "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Transfers the mind into an animal, controlling it and using its senses. The vampire’s body remains motionless as if in torpor."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check; free on your own famulus."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Manipulation + Animalism, Difficulty 4."
+              },
+              {
+                "title": "System",
+                "text": "A win allows inhabiting the animal for one scene; a critical, indefinitely. Continuing by day requires staying awake (p. 219). Seeing the sun requires resisting terror frenzy, though sunlight does not harm the animal. The vampire is unaware of their body, but damage to it breaks the trance. The animal’s death also ends the power and inflicts 1 Aggravated Willpower damage on the user."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene; indefinite on a critical win, subject to the conditions above."
+              },
+              {
+                "title": "Discipline exceptions",
+                "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "telepathy",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Telepatia",
+        "en": "Telepathy"
+      },
+      "aliases": [
+        "Telepatia",
+        "Telepathy"
+      ],
+      "discipline": "Auspícios",
+      "level": 5,
+      "versions": [
+        {
+          "id": "telepathy-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 252",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 254,
+              "printedPage": 252
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Lê pensamentos e projeta os próprios pensamentos noutras mentes. Mentes vampíricas involuntárias exigem esforço adicional."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Auspícios 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue; mais 1 Vontade antes de rolar contra vampiro involuntário."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Auspícios contra Raciocínio + Subterfúgio para ler uma mente involuntária."
+              },
+              {
+                "title": "Sistema",
+                "text": "Projetar pensamentos em mortal ou vampiro não exige rolagem, mas requer linha de visão. Ler um mortal à vista exige contato visual e o conflito acima, salvo se ele consentir, quando não há rolagem. Uma vitória revela pensamentos superficiais como imagens; margens maiores permitem buscar lembranças distantes ou enterradas. Um crítico fornece uma visão coerente dos pensamentos e intenções atuais. Contra vampiro involuntário, pague também a Vontade antes do conflito."
+              },
+              {
+                "title": "Duração",
+                "text": "Aproximadamente um minuto por Teste de Sangue; uma cena completa com alvo voluntário."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Reads thoughts and projects the user’s own thoughts into other minds. Unwilling vampiric minds require additional effort."
+              },
+              {
+                "title": "Requirements",
+                "text": "Auspex 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check; additionally spend 1 Willpower before rolling against an unwilling vampire."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Resolve + Auspex opposed by Wits + Subterfuge to read an unwilling mind."
+              },
+              {
+                "title": "System",
+                "text": "Projecting thoughts to a mortal or vampire requires no roll but needs line of sight. Reading a visible mortal requires eye contact and the contest above, unless they consent, in which case no roll is needed. A win reveals surface thoughts as images; greater margins allow probing distant or buried memories. A critical gives a coherent overview of current thoughts and intentions. Against an unwilling vampire, also pay the Willpower before the contest."
+              },
+              {
+                "title": "Duration",
+                "text": "Approximately one minute per Rouse Check; a full scene with a willing target."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "unliving-hive",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Enxame Não Vivo",
+        "en": "Unliving Hive"
+      },
+      "aliases": [
+        "Enxame Não Vivo",
+        "Unliving Hive"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "versions": [
+        {
+          "id": "unliving-hive-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 246",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 247,
+              "printedPage": 245
+            },
+            {
+              "pdfPage": 248,
+              "printedPage": 246
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3,
+              "Ofuscação": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Estende a influência sobre animais a enxames de insetos, inclusive permitindo um enxame como fâmulo e abrigando-o dentro do corpo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Animalismo 3 e Ofuscação 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Nenhum custo adicional."
+              },
+              {
+                "title": "Sistema",
+                "text": "Os poderes anteriores restritos a vertebrados passam a tratar um enxame de insetos como uma criatura. Um enxame enlaçado pode viver nas cavidades do corpo, oculto exceto a raios X, bebendo quantidades ínfimas de Sangue para sustentar-se indefinidamente. Tem Vitalidade 5 e 8 dados para resistir a ataques; Briga causa dano superficial, fogo e inseticida causam agravado. Causa pouco dano em combate, mas pode espionar, distrair uma pessoa envolta pelo enxame (−2 dados a qualquer rolagem) ou intimidar mortais (+1 a +3 dados de Intimidação conforme os insetos e as fobias do alvo). Outros usos criativos cabem ao grupo."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              },
+              {
+                "title": "Exceções da Disciplina",
+                "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Extends animal influence to insect swarms, including bonding a swarm as a famulus and housing it inside the body."
+              },
+              {
+                "title": "Requirements",
+                "text": "Animalism 3 and Obfuscate 2."
+              },
+              {
+                "title": "Cost",
+                "text": "No additional cost."
+              },
+              {
+                "title": "System",
+                "text": "Earlier powers limited to vertebrates treat an insect swarm as one creature. A bonded swarm can nest in bodily cavities, hidden except from X-rays, taking tiny amounts of Blood to sustain itself indefinitely. It has Health 5 and 8 dice to resist attacks; Brawl inflicts Superficial damage, while fire and insecticide inflict Aggravated damage. It does little combat damage but can spy, distract one person surrounded by it (−2 dice to any roll), or intimidate mortals (+1 to +3 Intimidation dice depending on insects and phobias). The group can devise further creative uses."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              },
+              {
+                "title": "Discipline exceptions",
+                "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "blink",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Piscar",
+        "en": "Blink"
+      },
+      "aliases": [
+        "Piscar",
+        "Blink",
+        "Piscadela"
+      ],
+      "discipline": "Celeridade",
+      "level": 3,
+      "versions": [
+        {
+          "id": "blink-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 253",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 255,
+              "printedPage": 253
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Avança ou foge num piscar, parecendo quase teleportar-se e deixando só uma rajada de vento."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Destreza + Atletismo em terreno perigoso; outras disputas conforme o Narrador."
+              },
+              {
+                "title": "Sistema",
+                "text": "Percorra até 50 metros em linha reta até um alvo e ainda realize uma ação no turno. Terreno perigoso exige teste para não tropeçar e parar no caminho. Disputas podem decidir uma corrida por objeto ou ação. Ao avançar para atacar, age como se já estivesse em combate com o inimigo no início do turno. Exemplo: cruzar terreno perigoso antes do tiro pode exigir Destreza + Atletismo contra Destreza + Armas de Fogo; o vencedor age primeiro e o outro age depois."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Closes distance or escapes in a blink, almost appearing to teleport and leaving a gust of wind."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Dexterity + Athletics on dangerous terrain; other contests as needed by the Storyteller."
+              },
+              {
+                "title": "System",
+                "text": "Move up to 50 meters in a straight line to a target and still perform an action that turn. Dangerous terrain requires a roll to avoid stumbling and stopping en route. Contests may decide races for an object or action. When moving to attack, act as though already engaged with that enemy at the turn’s start. For example, crossing dangerous ground before a shot may use Dexterity + Athletics against Dexterity + Firearms; the winner acts first and the other acts afterward."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "cats-grace",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Graça Felina",
+        "en": "Cat’s Grace"
+      },
+      "aliases": [
+        "Graça Felina",
+        "Cat’s Grace",
+        "Cat's Grace"
+      ],
+      "discipline": "Celeridade",
+      "level": 1,
+      "versions": [
+        {
+          "id": "cats-grace-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 252",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 254,
+              "printedPage": 252
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Equilíbrio e graça sobrenaturais permitem correr sobre saliências, cabos e suportes estreitos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Sucesso automático em testes de Destreza ou Atletismo para manter o equilíbrio. O suporte ainda precisa aguentar seu peso."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Supernatural balance and grace allow running along ledges, wires and narrow supports."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "Automatically succeeds on Dexterity or Athletics rolls to maintain balance. The support must still bear the user’s weight."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "cloud-memory",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Nublar Memória",
+        "en": "Cloud Memory"
+      },
+      "aliases": [
+        "Nublar Memória",
+        "Cloud Memory"
+      ],
+      "discipline": "Dominação",
+      "level": 1,
+      "versions": [
+        {
+          "id": "cloud-memory-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 257,
+              "printedPage": 255
+            },
+            {
+              "pdfPage": 258,
+              "printedPage": 256
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Ao dizer “Esqueça!”, apaga o momento atual e os últimos minutos, o bastante para ocultar uma alimentação superficial ou encontro casual. Não cria lembranças novas; se pressionada, a vítima percebe o apagão."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Parada",
+                "text": "Carisma + Dominação contra Raciocínio + Determinação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Não exige teste contra mortal despreparado. Vítima resistente ou vampiro exige o conflito acima."
+              },
+              {
+                "title": "Duração",
+                "text": "Indefinida."
+              },
+              {
+                "title": "Regras gerais de Dominação",
+                "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Saying “Forget!” erases the current moment and the last few minutes, enough to hide a shallow feeding or casual encounter. It creates no replacement memories; questioning reveals a blackout."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Charisma + Dominate opposed by Wits + Resolve."
+              },
+              {
+                "title": "System",
+                "text": "No roll against an unprepared mortal. A resisting victim or vampire requires the contest above."
+              },
+              {
+                "title": "Duration",
+                "text": "Indefinite."
+              },
+              {
+                "title": "General Dominate rules",
+                "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "compel",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Compelir",
+        "en": "Compel"
+      },
+      "aliases": [
+        "Compelir",
+        "Compel"
+      ],
+      "discipline": "Dominação",
+      "level": 1,
+      "versions": [
+        {
+          "id": "compel-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 257,
+              "printedPage": 255
+            },
+            {
+              "pdfPage": 258,
+              "printedPage": 256
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Após contato visual, emite uma ordem de até uma frase curta, com uma ação executável em um turno e obedecida literalmente. Ambiguidade pode produzir resultado inesperado ou apenas confundir e falhar, conforme o Narrador."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Parada",
+                "text": "Carisma + Dominação contra Inteligência + Determinação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Não exige teste contra mortal despreparado. Há conflito contra vítima resistente, vampiro ou alguém já Dominado na mesma cena, e para ordens contrárias à natureza da vítima."
+              },
+              {
+                "title": "Duração",
+                "text": "No máximo uma cena; a ação ordenada deve caber num turno."
+              },
+              {
+                "title": "Regras gerais de Dominação",
+                "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "After eye contact, issues a command no longer than a short sentence, containing one action achievable in a turn and obeyed literally. Ambiguity can produce unexpected results or simply confuse and fail, as the Storyteller decides."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Charisma + Dominate opposed by Intelligence + Resolve."
+              },
+              {
+                "title": "System",
+                "text": "No roll against an unprepared mortal. A contest is required against a resisting victim, vampire, someone already Dominated that scene, or for commands contrary to the victim’s nature."
+              },
+              {
+                "title": "Duration",
+                "text": "No more than one scene; the commanded action must fit in one turn."
+              },
+              {
+                "title": "General Dominate rules",
+                "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "dementation",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Dementação",
+        "en": "Dementation"
+      },
+      "aliases": [
+        "Dementação",
+        "Dementation"
+      ],
+      "discipline": "Dominação",
+      "level": 2,
+      "versions": [
+        {
+          "id": "dementation-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 257,
+              "printedPage": 255
+            },
+            {
+              "pdfPage": 258,
+              "printedPage": 256
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 2,
+              "Ofuscação": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Uma conversa casual esconde influência que faz os conflitos internos da vítima consumirem sua razão."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 2 e Ofuscação 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue por cena; cada vítima adicional exige seu próprio Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Manipulação + Dominação contra Autocontrole + Inteligência."
+              },
+              {
+                "title": "Sistema",
+                "text": "Depois de começar a conversa, pode atacar um indivíduo por turno nesse conflito, causando dano superficial em Vontade. Mortal Debilitado pelo poder sofre crise nervosa ou surto psicótico conforme sua personalidade e talvez Ressonância. Vampiro Debilitado sofre imediatamente uma Compulsão escolhida pelo usuário."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Dominação",
+                "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "A casual conversation conceals influence that lets the victim’s inner conflicts overwhelm their reason."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 2 and Obfuscate 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check per scene; each additional victim requires their own Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Manipulation + Dominate opposed by Composure + Intelligence."
+              },
+              {
+                "title": "System",
+                "text": "After starting a conversation, attack one individual per turn with this contest, inflicting Superficial Willpower damage. A mortal Impaired by the power suffers a nervous breakdown or psychotic episode shaped by personality and possibly Resonance. A vampire Impaired by it immediately suffers a Compulsion chosen by the user."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              },
+              {
+                "title": "General Dominate rules",
+                "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "draught-elegance",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Elegância Direto da Fonte",
+        "en": "Draught of Elegance"
+      },
+      "aliases": [
+        "Elegância Direto da Fonte",
+        "Draught of Elegance"
+      ],
+      "discipline": "Celeridade",
+      "level": 4,
+      "versions": [
+        {
+          "id": "draught-elegance-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 254",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 256,
+              "printedPage": 254
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O Sangue concede Celeridade temporária a quem o bebe. Beber diretamente também representa um passo para o Laço de Sangue."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Quem bebe diretamente uma quantidade equivalente a um Teste de Sangue recebe Celeridade igual à metade da Celeridade do doador, arredondada para baixo. Recebe os mesmos poderes não amálgama do doador até esse nível."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite; para vampiros, até a próxima alimentação ou Fome 5."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The Blood grants temporary Celerity to its drinker. Drinking directly also takes a step toward a Blood Bond."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Drinking directly an amount equivalent to one Rouse Check grants Celerity equal to half the donor’s rating, rounded down. The drinker gains the donor’s same non-Amalgam powers up to that level."
+              },
+              {
+                "title": "Duration",
+                "text": "One night; for vampires, until their next feeding or Hunger 5."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "fleetness",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Rapidez",
+        "en": "Fleetness"
+      },
+      "aliases": [
+        "Rapidez",
+        "Fleetness"
+      ],
+      "discipline": "Celeridade",
+      "level": 2,
+      "versions": [
+        {
+          "id": "fleetness-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 253",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 255,
+              "printedPage": 253
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Move-se e reage com velocidade espantosa."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Some Celeridade a testes de Destreza fora de combate. Uma vez por turno, também pode somá-la à defesa com Destreza + Atletismo."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Moves and reacts with astonishing speed."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Add Celerity to non-combat Dexterity tests. Once per turn, also add it when defending with Dexterity + Athletics."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "forgetful-mind",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mente Esquecida",
+        "en": "The Forgetful Mind"
+      },
+      "aliases": [
+        "Mente Esquecida",
+        "The Forgetful Mind",
+        "A Mente Esquecida"
+      ],
+      "discipline": "Dominação",
+      "level": 3,
+      "versions": [
+        {
+          "id": "forgetful-mind-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 257,
+              "printedPage": 255
+            },
+            {
+              "pdfPage": 258,
+              "printedPage": 256
+            },
+            {
+              "pdfPage": 259,
+              "printedPage": 257
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Reescreve fragmentos de memória enquanto mantém o olhar e a atenção total, sem interrupções. Descreve verbalmente novas lembranças aceitas como próprias pela vítima; não permite consultar as memórias verdadeiras."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Manipulação + Dominação contra Inteligência + Determinação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Cada ponto de margem permite adicionar ou remover uma memória extra. Edições comuns são vagas e podem ser desmascaradas sob interrogatório minucioso. Um crítico cria uma gravação impecável, tão real quanto uma lembrança verdadeira."
+              },
+              {
+                "title": "Duração",
+                "text": "Indefinida."
+              },
+              {
+                "title": "Regras gerais de Dominação",
+                "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Rewrites fragments of memory while holding the victim’s gaze and full uninterrupted attention. Verbally described replacement memories are accepted as their own; it cannot inspect true memories."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Manipulation + Dominate opposed by Intelligence + Resolve."
+              },
+              {
+                "title": "System",
+                "text": "Each point of margin allows adding or removing an additional memory. Ordinary edits are vague and can be exposed by close questioning. A critical produces a flawless recording as real as a genuine memory."
+              },
+              {
+                "title": "Duration",
+                "text": "Indefinite."
+              },
+              {
+                "title": "General Dominate rules",
+                "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lightning-strike",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Golpe Relâmpago",
+        "en": "Lightning Strike"
+      },
+      "aliases": [
+        "Golpe Relâmpago",
+        "Lightning Strike"
+      ],
+      "discipline": "Celeridade",
+      "level": 5,
+      "versions": [
+        {
+          "id": "lightning-strike-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 254",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 256,
+              "printedPage": 254
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Ataca com punhos ou armas brancas rápido demais para o oponente se defender."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ative antes de atacar com Briga ou Armas Brancas. O alvo não rola defesa ou esquiva; faça o ataque contra Dificuldade 1. Um oponente com Celeridade 5 pode anular isso com seu próprio Teste de Sangue e defender-se normalmente."
+              },
+              {
+                "title": "Duração",
+                "text": "Um ataque."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Strikes with fists or melee weapons too fast for the opponent to defend."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Activate before a Brawl or Melee attack. The target makes no defense or dodge roll; attack at Difficulty 1. An opponent with Celerity 5 can negate this with their own Rouse Check and defend normally."
+              },
+              {
+                "title": "Duration",
+                "text": "One attack."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mass-manipulation",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Manipulação em Massa",
+        "en": "Mass Manipulation"
+      },
+      "aliases": [
+        "Manipulação em Massa",
+        "Mass Manipulation"
+      ],
+      "discipline": "Dominação",
+      "level": 5,
+      "versions": [
+        {
+          "id": "mass-manipulation-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 257,
+              "printedPage": 255
+            },
+            {
+              "pdfPage": 258,
+              "printedPage": 256
+            },
+            {
+              "pdfPage": 259,
+              "printedPage": 257
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Amplia outros poderes de Dominação para ordenar grupos inteiros de mortais ou vampiros e manipular suas memórias."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue além do custo do poder ampliado."
+              },
+              {
+                "title": "Sistema",
+                "text": "Todas as vítimas precisam ver os olhos do usuário. Faça os testes exigidos pelo poder contra o oponente mais forte do grupo."
+              },
+              {
+                "title": "Duração",
+                "text": "A mesma do poder ampliado."
+              },
+              {
+                "title": "Regras gerais de Dominação",
+                "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Extends other Dominate powers to command groups of mortals or vampires and manipulate their memories."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check in addition to the amplified power’s cost."
+              },
+              {
+                "title": "System",
+                "text": "Every victim must see the user’s eyes. Make any rolls required by the power against the strongest opponent in the group."
+              },
+              {
+                "title": "Duration",
+                "text": "As the amplified power."
+              },
+              {
+                "title": "General Dominate rules",
+                "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mesmerize",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mesmerismo",
+        "en": "Mesmerize"
+      },
+      "aliases": [
+        "Mesmerismo",
+        "Mesmerize"
+      ],
+      "discipline": "Dominação",
+      "level": 2,
+      "versions": [
+        {
+          "id": "mesmerize-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 257,
+              "printedPage": 255
+            },
+            {
+              "pdfPage": 258,
+              "printedPage": 256
+            },
+            {
+              "pdfPage": 259,
+              "printedPage": 257
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Dá ordens complexas enquanto mantém o olhar da vítima e há silêncio para ouvi-las. Ela executa imediatamente o melhor que puder; condições futuras não são permitidas, pois exigem cognição."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Manipulação + Dominação contra Inteligência + Determinação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Não exige teste contra mortal despreparado. Exige conflito contra vítima resistente ou vampiro, e para comandos contrários à natureza da vítima."
+              },
+              {
+                "title": "Duração",
+                "text": "Até cumprir a ordem ou terminar a cena, o que ocorrer primeiro."
+              },
+              {
+                "title": "Regras gerais de Dominação",
+                "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Gives complex commands while holding the victim’s gaze and with enough quiet to be heard. They immediately perform them as best they can; future conditions are not allowed because they require cognition."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Manipulation + Dominate opposed by Intelligence + Resolve."
+              },
+              {
+                "title": "System",
+                "text": "No roll against an unprepared mortal. A contest is required against a resisting victim or vampire, and for commands contrary to the victim’s nature."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the command is completed or the scene ends, whichever comes first."
+              },
+              {
+                "title": "General Dominate rules",
+                "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "rapid-reflexes",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Reflexos Rápidos",
+        "en": "Rapid Reflexes"
+      },
+      "aliases": [
+        "Reflexos Rápidos",
+        "Rapid Reflexes"
+      ],
+      "discipline": "Celeridade",
+      "level": 1,
+      "versions": [
+        {
+          "id": "rapid-reflexes-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 252, 253",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 254,
+              "printedPage": 252
+            },
+            {
+              "pdfPage": 255,
+              "printedPage": 253
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Percepção e reação sobre-humanas permitem acompanhar projéteis e reagir mesmo sem cobertura."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Não sofre penalidade na parada de defesa por falta de cobertura contra Armas de Fogo. Pode realizar gratuitamente uma ação menor de até dois dados por turno, como preparar ou recarregar arma (p. 298)."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Superhuman perception and reaction allow tracking projectiles and reacting without cover."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free."
+              },
+              {
+                "title": "System",
+                "text": "Takes no defense-pool penalty for lacking cover against Firearms. May freely perform one minor action worth up to two dice per turn, such as readying or reloading a weapon (p. 298)."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "rationalize",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Racionalizar",
+        "en": "Rationalize"
+      },
+      "aliases": [
+        "Racionalizar",
+        "Rationalize"
+      ],
+      "discipline": "Dominação",
+      "level": 4,
+      "versions": [
+        {
+          "id": "rationalize-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 257,
+              "printedPage": 255
+            },
+            {
+              "pdfPage": 258,
+              "printedPage": 256
+            },
+            {
+              "pdfPage": 259,
+              "printedPage": 257
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A vítima acredita ter agido por vontade própria sob Dominação e defende até ações absurdas. Exposição prolongada pode provocar traumas mentais graves."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Nenhum custo adicional."
+              },
+              {
+                "title": "Parada",
+                "text": "Raciocínio + Percepção, Dificuldade 5, para a vítima pressionada sobre a crença."
+              },
+              {
+                "title": "Sistema",
+                "text": "Sucesso nesse teste faz a vítima questionar a própria afirmação e, possivelmente, sua sanidade."
+              },
+              {
+                "title": "Duração",
+                "text": "Indefinida."
+              },
+              {
+                "title": "Regras gerais de Dominação",
+                "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The victim believes actions taken under Dominate were their own choice and defends even absurd behavior. Prolonged exposure can cause severe mental trauma."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 4."
+              },
+              {
+                "title": "Cost",
+                "text": "No additional cost."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Wits + Awareness, Difficulty 5, for a victim pressed about the belief."
+              },
+              {
+                "title": "System",
+                "text": "Success makes the victim question their claim and possibly their sanity."
+              },
+              {
+                "title": "Duration",
+                "text": "Indefinite."
+              },
+              {
+                "title": "General Dominate rules",
+                "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "split-second",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Fração de Segundo",
+        "en": "Split Second"
+      },
+      "aliases": [
+        "Fração de Segundo",
+        "Split Second"
+      ],
+      "discipline": "Celeridade",
+      "level": 5,
+      "versions": [
+        {
+          "id": "split-second-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 254",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 256,
+              "printedPage": 254
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A velocidade física acompanha a percepção acelerada, permitindo reagir imediatamente a acontecimentos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Dentro do razoável, pode substituir a narração de eventos: passar por uma porta antes de fechar, evitar uma emboscada já iniciada ou sair de uma explosão. A ação deve ser plausível e levar no máximo alguns segundos reais. O Narrador determina quais testes de Habilidade, se houver, são necessários para realizá-la."
+              },
+              {
+                "title": "Duração",
+                "text": "Aproximadamente uma ação, conforme o Narrador."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Physical speed matches accelerated perception, allowing immediate reactions to events."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Within reason, override the narration of events: pass a door before it closes, evade an ambush already begun, or move clear of an explosion. The action must be plausible and take no more than a few real seconds. The Storyteller decides which Skill rolls, if any, are needed to accomplish it."
+              },
+              {
+                "title": "Duration",
+                "text": "Approximately one action, as determined by the Storyteller."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "submerged-directive",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Diretriz Submersa",
+        "en": "Submerged Directive"
+      },
+      "aliases": [
+        "Diretriz Submersa",
+        "Submerged Directive"
+      ],
+      "discipline": "Dominação",
+      "level": 3,
+      "versions": [
+        {
+          "id": "submerged-directive-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 257,
+              "printedPage": 255
+            },
+            {
+              "pdfPage": 258,
+              "printedPage": 256
+            },
+            {
+              "pdfPage": 259,
+              "printedPage": 257
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Permite implantar, com Mesmerismo, uma sugestão pós-hipnótica dormente até um gatilho, como data, pessoa ou frase. Só uma sugestão por vítima; ela não expira e pode permanecer por anos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Nenhum custo adicional ao Mesmerismo."
+              },
+              {
+                "title": "Parada",
+                "text": "Como Mesmerismo: Manipulação + Dominação contra Inteligência + Determinação, quando necessário."
+              },
+              {
+                "title": "Sistema",
+                "text": "Use as regras de Mesmerismo. O Narrador pode rolar em segredo: não há como saber se funcionou antes de o gatilho ocorrer."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva; a sugestão permanece até seu gatilho."
+              },
+              {
+                "title": "Regras gerais de Dominação",
+                "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Allows Mesmerize to implant a dormant post-hypnotic suggestion triggered by a date, person, phrase or other condition. Only one suggestion per victim; it never expires and may remain for years."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 3."
+              },
+              {
+                "title": "Cost",
+                "text": "No additional cost beyond Mesmerize."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "As Mesmerize: Manipulation + Dominate opposed by Intelligence + Resolve when needed."
+              },
+              {
+                "title": "System",
+                "text": "Use Mesmerize rules. The Storyteller may roll secretly: success cannot be known until the trigger occurs."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive; the suggestion persists until triggered."
+              },
+              {
+                "title": "General Dominate rules",
+                "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "terminal-decree",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Decreto Terminal",
+        "en": "Terminal Decree"
+      },
+      "aliases": [
+        "Decreto Terminal",
+        "Terminal Decree"
+      ],
+      "discipline": "Dominação",
+      "level": 5,
+      "versions": [
+        {
+          "id": "terminal-decree-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 257,
+              "printedPage": 255
+            },
+            {
+              "pdfPage": 258,
+              "printedPage": 256
+            },
+            {
+              "pdfPage": 259,
+              "printedPage": 257
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Dominação": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Remove a barreira de autopreservação: pode ordenar ferimentos ou morte, inclusive exposição de vampiros a fogo ou sol."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Dominação 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Nenhum custo adicional de Fome; o custo em Humanidade pode ser grave."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ordens terminais passam a permitir resistência conforme a parada de cada poder usado, em vez de falharem automaticamente."
+              },
+              {
+                "title": "Duração",
+                "text": "Passiva."
+              },
+              {
+                "title": "Regras gerais de Dominação",
+                "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Removes the self-preservation barrier, allowing orders of injury or death, including exposing vampires to fire or sunlight."
+              },
+              {
+                "title": "Requirements",
+                "text": "Dominate 5."
+              },
+              {
+                "title": "Cost",
+                "text": "No additional Hunger cost; the Humanity cost can be severe."
+              },
+              {
+                "title": "System",
+                "text": "Terminal commands now allow resistance using the individual power’s pool instead of automatically failing."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive."
+              },
+              {
+                "title": "General Dominate rules",
+                "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "traversal",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Travessia",
+        "en": "Traversal"
+      },
+      "aliases": [
+        "Travessia",
+        "Traversal"
+      ],
+      "discipline": "Celeridade",
+      "level": 3,
+      "versions": [
+        {
+          "id": "traversal-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 253, 254",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 255,
+              "printedPage": 253
+            },
+            {
+              "pdfPage": 256,
+              "printedPage": 254
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Corre ou escala superfícies verticais e até líquidos com impulso. Não permite caminhar sobre água nem concede aderência de inseto."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Destreza + Atletismo, Dificuldade 3 (inclinação com tração) a 6 (vertical lisa ou água), conforme superfície e ângulo."
+              },
+              {
+                "title": "Sistema",
+                "text": "A margem amplia a distância: 0 alcança alvo próximo; 1 alcança alvo mais distante, e assim por diante. O Narrador deve avisar antes se estiver longe demais. Como referência, mais de 60 metros sobre água ou 30 andares provavelmente excedem o alcance."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Runs or climbs vertical surfaces and even liquids with a running start. It grants neither walking on water nor insect-like adhesion."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "Dice Pool",
+                "text": "Dexterity + Athletics, Difficulty 3 (incline with traction) to 6 (smooth vertical surface or water), depending on surface and angle."
+              },
+              {
+                "title": "System",
+                "text": "Margin increases distance: 0 reaches a nearby target; 1 a more distant target, and so on. The Storyteller must warn beforehand if a target is too far. As a guideline, more than 60 meters over water or 30 building stories probably exceeds its range."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "unerring-aim",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mira Infalível",
+        "en": "Unerring Aim"
+      },
+      "aliases": [
+        "Mira Infalível",
+        "Unerring Aim"
+      ],
+      "discipline": "Celeridade",
+      "level": 4,
+      "versions": [
+        {
+          "id": "unerring-aim-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 254",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 256,
+              "printedPage": 254
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 4,
+              "Auspícios": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Mira e dispara ou arremessa como se o alvo estivesse parado."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Celeridade 4 e Auspícios 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ative antes de um ataque à distância. O alvo não rola defesa ou esquiva; faça o ataque contra Dificuldade 1. Um oponente com Celeridade 5 pode anular isso com seu próprio Teste de Sangue e defender-se normalmente."
+              },
+              {
+                "title": "Duração",
+                "text": "Um ataque."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Aims and fires or throws as though the target were motionless."
+              },
+              {
+                "title": "Requirements",
+                "text": "Celerity 4 and Auspex 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "Activate before a ranged attack. The target makes no defense or dodge roll; attack at Difficulty 1. An opponent with Celerity 5 can negate this with their own Rouse Check and defend normally."
+              },
+              {
+                "title": "Duration",
+                "text": "One attack."
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

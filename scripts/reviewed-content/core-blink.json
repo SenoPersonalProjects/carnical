@@ -1,0 +1,89 @@
+{
+  "id": "blink",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Piscar",
+    "en": "Blink"
+  },
+  "aliases": [
+    "Piscar",
+    "Blink",
+    "Piscadela"
+  ],
+  "discipline": "Celeridade",
+  "level": 3,
+  "versions": [
+    {
+      "id": "blink-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 253",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 255,
+          "printedPage": 253
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Celeridade": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Avança ou foge num piscar, parecendo quase teleportar-se e deixando só uma rajada de vento."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Celeridade 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Destreza + Atletismo em terreno perigoso; outras disputas conforme o Narrador."
+          },
+          {
+            "title": "Sistema",
+            "text": "Percorra até 50 metros em linha reta até um alvo e ainda realize uma ação no turno. Terreno perigoso exige teste para não tropeçar e parar no caminho. Disputas podem decidir uma corrida por objeto ou ação. Ao avançar para atacar, age como se já estivesse em combate com o inimigo no início do turno. Exemplo: cruzar terreno perigoso antes do tiro pode exigir Destreza + Atletismo contra Destreza + Armas de Fogo; o vencedor age primeiro e o outro age depois."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Closes distance or escapes in a blink, almost appearing to teleport and leaving a gust of wind."
+          },
+          {
+            "title": "Requirements",
+            "text": "Celerity 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Dexterity + Athletics on dangerous terrain; other contests as needed by the Storyteller."
+          },
+          {
+            "title": "System",
+            "text": "Move up to 50 meters in a straight line to a target and still perform an action that turn. Dangerous terrain requires a roll to avoid stumbling and stopping en route. Contests may decide races for an object or action. When moving to attack, act as though already engaged with that enemy at the turn’s start. For example, crossing dangerous ground before a shot may use Dexterity + Athletics against Dexterity + Firearms; the winner acts first and the other acts afterward."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "quell-the-beast",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Subjugar a Besta",
+    "en": "Quell the Beast"
+  },
+  "aliases": [
+    "Subjugar a Besta",
+    "Quell the Beast"
+  ],
+  "discipline": "Animalismo",
+  "level": 3,
+  "versions": [
+    {
+      "id": "quell-the-beast-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 245, 246, 247",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 247,
+          "printedPage": 245
+        },
+        {
+          "pdfPage": 248,
+          "printedPage": 246
+        },
+        {
+          "pdfPage": 249,
+          "printedPage": 247
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Com contato visual, intimida e adormece temporariamente a Besta do alvo. Mortais ficam apáticos e vampiros têm os impulsos bestiais suprimidos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Carisma + Animalismo contra Vigor + Determinação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória incapacita um mortal pela cena: ele só age para preservar a própria vida, sem agir contra o usuário ou outra pessoa. Um vampiro afetado não usa Impulso de Sangue e fica imune a críticos bestiais. Uma vitória crítica contra vampiro também encerra seu Frenesi."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena contra mortais; um turno mais a margem de vitória contra vampiros."
+          },
+          {
+            "title": "Exceções da Disciplina",
+            "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Eye contact intimidates the target’s Beast into temporary slumber. Mortals become apathetic and vampires have their bestial impulses suppressed."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Charisma + Animalism opposed by Stamina + Resolve."
+          },
+          {
+            "title": "System",
+            "text": "A win incapacitates a mortal for the scene: they act only to preserve their life, not against the user or anyone else. An affected vampire cannot Blood Surge and is immune to messy criticals. A critical win against a vampire also ends their frenzy."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene for mortals; one turn plus the winning margin for vampires."
+          },
+          {
+            "title": "Discipline exceptions",
+            "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+          }
+        ]
+      }
+    }
+  ]
+}

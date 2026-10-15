@@ -1,0 +1,96 @@
+{
+  "id": "mass-manipulation",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Manipulação em Massa",
+    "en": "Mass Manipulation"
+  },
+  "aliases": [
+    "Manipulação em Massa",
+    "Mass Manipulation"
+  ],
+  "discipline": "Dominação",
+  "level": 5,
+  "versions": [
+    {
+      "id": "mass-manipulation-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 257,
+          "printedPage": 255
+        },
+        {
+          "pdfPage": 258,
+          "printedPage": 256
+        },
+        {
+          "pdfPage": 259,
+          "printedPage": 257
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Amplia outros poderes de Dominação para ordenar grupos inteiros de mortais ou vampiros e manipular suas memórias."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue além do custo do poder ampliado."
+          },
+          {
+            "title": "Sistema",
+            "text": "Todas as vítimas precisam ver os olhos do usuário. Faça os testes exigidos pelo poder contra o oponente mais forte do grupo."
+          },
+          {
+            "title": "Duração",
+            "text": "A mesma do poder ampliado."
+          },
+          {
+            "title": "Regras gerais de Dominação",
+            "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Extends other Dominate powers to command groups of mortals or vampires and manipulate their memories."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check in addition to the amplified power’s cost."
+          },
+          {
+            "title": "System",
+            "text": "Every victim must see the user’s eyes. Make any rolls required by the power against the strongest opponent in the group."
+          },
+          {
+            "title": "Duration",
+            "text": "As the amplified power."
+          },
+          {
+            "title": "General Dominate rules",
+            "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+          }
+        ]
+      }
+    }
+  ]
+}

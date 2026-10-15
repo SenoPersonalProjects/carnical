@@ -117,7 +117,9 @@ export async function createCharacterPdf(snapshot:ExportSnapshot,locale:Locale) 
       return {id,name:selectedPower.name,source:selectedPower.source.label,sections} satisfies ExportRule;
     }
     if(!response.ok)throw new Error("Missing item rules");
-    return await response.json() as ExportRule;
+    const rule=await response.json() as ExportRule&{pages?:Array<{pdfPage:number;printedPage:number|null;url:string}>};
+    const references=(rule.pages||[]).filter(page=>page.url.startsWith("/rules/source?")).map(page=>`- [${locale==="en"?"Original page":"Página original"} ${page.printedPage??page.pdfPage} (PDF ${page.pdfPage})](${page.url})`).join("\n");
+    return references?{...rule,sections:[...rule.sections,{title:locale==="en"?"Original source pages":"Páginas da fonte original",text:references}]}:rule;
   }));
   return pdf(<CharacterPdfDocument snapshot={snapshot} locale={locale} rules={rules}/>).toBlob();
 }

@@ -1,0 +1,96 @@
+{
+  "id": "sense-the-beast",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Sentir a Besta",
+    "en": "Sense the Beast"
+  },
+  "aliases": [
+    "Sentir a Besta",
+    "Sense the Beast"
+  ],
+  "discipline": "Animalismo",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sense-the-beast-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 245",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 247,
+          "printedPage": 245
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Percebe a Besta de mortais, vampiros e outros seres, revelando hostilidade e natureza sobrenatural."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Animalismo contra Autocontrole + Subterfúgio."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória revela se o alvo está pronto ou determinado a causar mal e se abriga uma Besta sobrenatural. Um crítico identifica o tipo exato de criatura, sua Fome ou equivalente e Ressonância. Pode ser usado ativamente ou avisar passivamente sobre intenções agressivas próximas."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          },
+          {
+            "title": "Exceções da Disciplina",
+            "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Senses the Beast in mortals, vampires and other beings, revealing hostility and supernatural nature."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Animalism opposed by Composure + Subterfuge."
+          },
+          {
+            "title": "System",
+            "text": "A win reveals whether the target is ready or determined to cause harm and whether it harbors a supernatural Beast. A critical identifies the exact creature type, its Hunger or equivalent, and Resonance. The power can be used actively or passively warn of nearby aggressive intent."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          },
+          {
+            "title": "Discipline exceptions",
+            "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+          }
+        ]
+      }
+    }
+  ]
+}

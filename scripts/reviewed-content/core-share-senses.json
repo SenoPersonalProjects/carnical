@@ -1,0 +1,88 @@
+{
+  "id": "share-senses",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Compartilhar os Sentidos",
+    "en": "Share the Senses"
+  },
+  "aliases": [
+    "Compartilhar os Sentidos",
+    "Share the Senses"
+  ],
+  "discipline": "Auspícios",
+  "level": 3,
+  "versions": [
+    {
+      "id": "share-senses-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 250",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 252,
+          "printedPage": 250
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Percebe por um, vários ou todos os sentidos de outro mortal ou vampiro, conservando a percepção dos próprios arredores. Exige linha de visão para iniciar num estranho; pode funcionar à distância em quem ainda tenha seu Sangue no corpo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Auspícios, Dificuldade 3; pode aumentar por distrações, distância ou quantidade de Sangue restante no alvo."
+          },
+          {
+            "title": "Sistema",
+            "text": "O alvo normalmente ignora a intrusão, mas Sentir o Invisível pode detectá-la. Para expulsar o passageiro, vence um conflito de Raciocínio + Determinação contra Raciocínio + Determinação. Se expulso, o usuário não pode tentar compartilhar os sentidos novamente até a próxima noite."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Experiences one, several or all senses of another mortal or vampire while retaining awareness of the user’s own surroundings. Starting on a stranger requires line of sight; it can work at range on someone still carrying the user’s Blood."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Auspex, Difficulty 3; distractions, distance or the remaining amount of Blood in the target can raise it."
+          },
+          {
+            "title": "System",
+            "text": "The target is usually unaware, but Sense the Unseen can detect the intrusion. To expel the passenger, win a Wits + Resolve versus Wits + Resolve contest. An expelled user cannot attempt to share senses again until the next night."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          }
+        ]
+      }
+    }
+  ]
+}

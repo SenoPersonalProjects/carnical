@@ -1,0 +1,100 @@
+{
+  "id": "feral-whispers",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Sussurros Selvagens",
+    "en": "Feral Whispers"
+  },
+  "aliases": [
+    "Sussurros Selvagens",
+    "Feral Whispers"
+  ],
+  "discipline": "Animalismo",
+  "level": 2,
+  "versions": [
+    {
+      "id": "feral-whispers-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 245, 246",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 247,
+          "printedPage": 245
+        },
+        {
+          "pdfPage": 248,
+          "printedPage": 246
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite conversar com animais e tentar persuadi-los a ajudar ou convocar um tipo de animal presente na região. Eles entendem assuntos dentro de sua experiência, raramente aceitam tarefas contrárias à natureza ou perigosas e se dispersam ou atacam se ameaçados."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue por tipo de animal escolhido na cena: inclui uma convocação e comunicação ilimitada. Gratuito no próprio fâmulo."
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Animalismo para persuadir; Carisma + Animalismo para convocar. Comunicação simples não exige teste."
+          },
+          {
+            "title": "Sistema",
+            "text": "A Dificuldade de persuadir depende da tarefa: vigiar quem entra num parque, 3; defender um local com a própria vida, 6. Convocar depende da escassez local: só animais que estejam presentes podem responder. A margem determina a quantidade; um crítico chama a maioria ou todos os animais daquele tipo na região. Os convocados escutam o usuário."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Exceções da Disciplina",
+            "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Allows two-way conversation with animals, persuasion to perform services, or summoning one type of animal already in the area. Animals understand matters within their experience, rarely accept unnatural or dangerous tasks, and scatter or attack if threatened."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check per animal type chosen for the scene, including one summoning and unlimited communication. Free on your own famulus."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Animalism to persuade; Charisma + Animalism to summon. Simple communication needs no roll."
+          },
+          {
+            "title": "System",
+            "text": "Persuasion Difficulty depends on the task: watching who enters a park, 3; defending a place with its life, 6. Summoning Difficulty depends on local scarcity; only animals actually present can respond. The margin determines their number, with a critical summoning most or all of that type in the area. Summoned animals listen to the user."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          },
+          {
+            "title": "Discipline exceptions",
+            "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+          }
+        ]
+      }
+    }
+  ]
+}

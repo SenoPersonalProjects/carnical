@@ -1,0 +1,88 @@
+{
+  "id": "heightened-senses",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Sentidos Aguçados",
+    "en": "Heightened Senses"
+  },
+  "aliases": [
+    "Sentidos Aguçados",
+    "Heightened Senses"
+  ],
+  "discipline": "Auspícios",
+  "level": 1,
+  "versions": [
+    {
+      "id": "heightened-senses-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 249",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 251,
+          "printedPage": 249
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Aguça os sentidos a níveis sobrenaturais, permitindo enxergar na escuridão total, ouvir ultrassons e farejar medo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito; o uso prolongado pode exigir Vontade, a critério do Narrador."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Determinação, Dificuldade 3 ou mais, para amortecer os sentidos diante de estímulos extremos."
+          },
+          {
+            "title": "Sistema",
+            "text": "Adicione Auspícios a todas as rolagens de percepção. Estampidos, clarões ou odores pungentes exigem o teste acima; falha causa −3 dados em todas as rolagens de percepção pelo resto da cena."
+          },
+          {
+            "title": "Duração",
+            "text": "Até desativar. Manter por mais de uma cena sem descanso, sobretudo em ambiente muito estimulante, pode custar Vontade."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Sharpens the senses supernaturally, allowing sight in total darkness, ultrasonic hearing and smelling fear."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free; prolonged use may require Willpower at the Storyteller’s discretion."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Wits + Resolve, Difficulty 3 or higher, to dampen the senses against extreme stimuli."
+          },
+          {
+            "title": "System",
+            "text": "Add Auspex to all perception rolls. Loud bangs, flashes or pungent odors require the roll above; failure inflicts −3 dice on all perception rolls for the rest of the scene."
+          },
+          {
+            "title": "Duration",
+            "text": "Until deactivated. Use beyond one scene without rest, especially in highly stimulating surroundings, may cost Willpower."
+          }
+        ]
+      }
+    }
+  ]
+}

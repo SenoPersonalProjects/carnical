@@ -1,0 +1,81 @@
+{
+  "id": "cats-grace",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Graça Felina",
+    "en": "Cat’s Grace"
+  },
+  "aliases": [
+    "Graça Felina",
+    "Cat’s Grace",
+    "Cat's Grace"
+  ],
+  "discipline": "Celeridade",
+  "level": 1,
+  "versions": [
+    {
+      "id": "cats-grace-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 252",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 254,
+          "printedPage": 252
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Celeridade": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Equilíbrio e graça sobrenaturais permitem correr sobre saliências, cabos e suportes estreitos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Celeridade 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sucesso automático em testes de Destreza ou Atletismo para manter o equilíbrio. O suporte ainda precisa aguentar seu peso."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Supernatural balance and grace allow running along ledges, wires and narrow supports."
+          },
+          {
+            "title": "Requirements",
+            "text": "Celerity 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Automatically succeeds on Dexterity or Athletics rolls to maintain balance. The support must still bear the user’s weight."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          }
+        ]
+      }
+    }
+  ]
+}

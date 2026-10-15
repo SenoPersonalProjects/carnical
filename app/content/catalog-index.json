@@ -7226,6 +7226,1060 @@
           }
         }
       ]
+    },
+    {
+      "id": "animal-dominion",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Controle Animal",
+        "en": "Animal Dominion"
+      },
+      "aliases": [
+        "Controle Animal",
+        "Animal Dominion"
+      ],
+      "discipline": "Animalismo",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "animal-dominion-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 247",
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "animal-succulence",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Suculência Animal",
+        "en": "Animal Succulence"
+      },
+      "aliases": [
+        "Suculência Animal",
+        "Animal Succulence"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "animal-succulence-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 247",
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bond-famulus",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Enlaçar Fâmulo",
+        "en": "Bond Famulus"
+      },
+      "aliases": [
+        "Enlaçar Fâmulo",
+        "Bond Famulus",
+        "Famulus Enlaçado",
+        "Fâmulo Enlaçado"
+      ],
+      "discipline": "Animalismo",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "bond-famulus-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245",
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "clairvoyance",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Clarividência",
+        "en": "Clairvoyance"
+      },
+      "aliases": [
+        "Clarividência",
+        "Clairvoyance"
+      ],
+      "discipline": "Auspícios",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "clairvoyance-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 251",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "drawing-out-beast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Expulsar a Besta",
+        "en": "Drawing Out the Beast"
+      },
+      "aliases": [
+        "Expulsar a Besta",
+        "Drawing Out the Beast"
+      ],
+      "discipline": "Animalismo",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "drawing-out-beast-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 247, 248",
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "feral-whispers",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Sussurros Selvagens",
+        "en": "Feral Whispers"
+      },
+      "aliases": [
+        "Sussurros Selvagens",
+        "Feral Whispers"
+      ],
+      "discipline": "Animalismo",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "feral-whispers-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 246",
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "heightened-senses",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Sentidos Aguçados",
+        "en": "Heightened Senses"
+      },
+      "aliases": [
+        "Sentidos Aguçados",
+        "Heightened Senses"
+      ],
+      "discipline": "Auspícios",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "heightened-senses-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 249",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "possession",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Possessão",
+        "en": "Possession"
+      },
+      "aliases": [
+        "Possessão",
+        "Possession"
+      ],
+      "discipline": "Auspícios",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "possession-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 251",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 5,
+              "Dominação": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "premonition",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Premonição",
+        "en": "Premonition"
+      },
+      "aliases": [
+        "Premonição",
+        "Premonition"
+      ],
+      "discipline": "Auspícios",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "premonition-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 249, 250",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "quell-the-beast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Subjugar a Besta",
+        "en": "Quell the Beast"
+      },
+      "aliases": [
+        "Subjugar a Besta",
+        "Quell the Beast"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "quell-the-beast-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 246, 247",
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "scry-soul",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Perscrutar a Alma",
+        "en": "Scry the Soul"
+      },
+      "aliases": [
+        "Perscrutar a Alma",
+        "Scry the Soul"
+      ],
+      "discipline": "Auspícios",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "scry-soul-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 250",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sense-the-beast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Sentir a Besta",
+        "en": "Sense the Beast"
+      },
+      "aliases": [
+        "Sentir a Besta",
+        "Sense the Beast"
+      ],
+      "discipline": "Animalismo",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "sense-the-beast-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245",
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sense-unseen",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Sentir o Invisível",
+        "en": "Sense the Unseen"
+      },
+      "aliases": [
+        "Sentir o Invisível",
+        "Sense the Unseen"
+      ],
+      "discipline": "Auspícios",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "sense-unseen-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 249",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "share-senses",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Compartilhar os Sentidos",
+        "en": "Share the Senses"
+      },
+      "aliases": [
+        "Compartilhar os Sentidos",
+        "Share the Senses"
+      ],
+      "discipline": "Auspícios",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "share-senses-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 250",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "spirits-touch",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Toque do Espírito",
+        "en": "Spirit’s Touch"
+      },
+      "aliases": [
+        "Toque do Espírito",
+        "Spirit’s Touch",
+        "Spirit's Touch"
+      ],
+      "discipline": "Auspícios",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "spirits-touch-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 250",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "subsume-spirit",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Comunhão de Espíritos",
+        "en": "Subsume the Spirit"
+      },
+      "aliases": [
+        "Comunhão de Espíritos",
+        "Subsume the Spirit"
+      ],
+      "discipline": "Animalismo",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "subsume-spirit-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 247",
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "telepathy",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Telepatia",
+        "en": "Telepathy"
+      },
+      "aliases": [
+        "Telepatia",
+        "Telepathy"
+      ],
+      "discipline": "Auspícios",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "telepathy-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 252",
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "unliving-hive",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Enxame Não Vivo",
+        "en": "Unliving Hive"
+      },
+      "aliases": [
+        "Enxame Não Vivo",
+        "Unliving Hive"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "unliving-hive-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 245, 246",
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3,
+              "Ofuscação": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "blink",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Piscar",
+        "en": "Blink"
+      },
+      "aliases": [
+        "Piscar",
+        "Blink",
+        "Piscadela"
+      ],
+      "discipline": "Celeridade",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "blink-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 253",
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cats-grace",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Graça Felina",
+        "en": "Cat’s Grace"
+      },
+      "aliases": [
+        "Graça Felina",
+        "Cat’s Grace",
+        "Cat's Grace"
+      ],
+      "discipline": "Celeridade",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "cats-grace-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 252",
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cloud-memory",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Nublar Memória",
+        "en": "Cloud Memory"
+      },
+      "aliases": [
+        "Nublar Memória",
+        "Cloud Memory"
+      ],
+      "discipline": "Dominação",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "cloud-memory-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "compel",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Compelir",
+        "en": "Compel"
+      },
+      "aliases": [
+        "Compelir",
+        "Compel"
+      ],
+      "discipline": "Dominação",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "compel-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "dementation",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Dementação",
+        "en": "Dementation"
+      },
+      "aliases": [
+        "Dementação",
+        "Dementation"
+      ],
+      "discipline": "Dominação",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "dementation-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 2,
+              "Ofuscação": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "draught-elegance",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Elegância Direto da Fonte",
+        "en": "Draught of Elegance"
+      },
+      "aliases": [
+        "Elegância Direto da Fonte",
+        "Draught of Elegance"
+      ],
+      "discipline": "Celeridade",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "draught-elegance-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 254",
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "fleetness",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Rapidez",
+        "en": "Fleetness"
+      },
+      "aliases": [
+        "Rapidez",
+        "Fleetness"
+      ],
+      "discipline": "Celeridade",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "fleetness-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 253",
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "forgetful-mind",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mente Esquecida",
+        "en": "The Forgetful Mind"
+      },
+      "aliases": [
+        "Mente Esquecida",
+        "The Forgetful Mind",
+        "A Mente Esquecida"
+      ],
+      "discipline": "Dominação",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "forgetful-mind-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "lightning-strike",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Golpe Relâmpago",
+        "en": "Lightning Strike"
+      },
+      "aliases": [
+        "Golpe Relâmpago",
+        "Lightning Strike"
+      ],
+      "discipline": "Celeridade",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "lightning-strike-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 254",
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mass-manipulation",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Manipulação em Massa",
+        "en": "Mass Manipulation"
+      },
+      "aliases": [
+        "Manipulação em Massa",
+        "Mass Manipulation"
+      ],
+      "discipline": "Dominação",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "mass-manipulation-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "mesmerize",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mesmerismo",
+        "en": "Mesmerize"
+      },
+      "aliases": [
+        "Mesmerismo",
+        "Mesmerize"
+      ],
+      "discipline": "Dominação",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "mesmerize-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "rapid-reflexes",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Reflexos Rápidos",
+        "en": "Rapid Reflexes"
+      },
+      "aliases": [
+        "Reflexos Rápidos",
+        "Rapid Reflexes"
+      ],
+      "discipline": "Celeridade",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "rapid-reflexes-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 252, 253",
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "rationalize",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Racionalizar",
+        "en": "Rationalize"
+      },
+      "aliases": [
+        "Racionalizar",
+        "Rationalize"
+      ],
+      "discipline": "Dominação",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "rationalize-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "split-second",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Fração de Segundo",
+        "en": "Split Second"
+      },
+      "aliases": [
+        "Fração de Segundo",
+        "Split Second"
+      ],
+      "discipline": "Celeridade",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "split-second-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 254",
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "submerged-directive",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Diretriz Submersa",
+        "en": "Submerged Directive"
+      },
+      "aliases": [
+        "Diretriz Submersa",
+        "Submerged Directive"
+      ],
+      "discipline": "Dominação",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "submerged-directive-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "terminal-decree",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Decreto Terminal",
+        "en": "Terminal Decree"
+      },
+      "aliases": [
+        "Decreto Terminal",
+        "Terminal Decree"
+      ],
+      "discipline": "Dominação",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "terminal-decree-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+          "requirements": {
+            "disciplines": {
+              "Dominação": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "traversal",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Travessia",
+        "en": "Traversal"
+      },
+      "aliases": [
+        "Travessia",
+        "Traversal"
+      ],
+      "discipline": "Celeridade",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "traversal-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 253, 254",
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "unerring-aim",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mira Infalível",
+        "en": "Unerring Aim"
+      },
+      "aliases": [
+        "Mira Infalível",
+        "Unerring Aim"
+      ],
+      "discipline": "Celeridade",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "unerring-aim-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 254",
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 4,
+              "Auspícios": 2
+            }
+          }
+        }
+      ]
     }
   ]
 }

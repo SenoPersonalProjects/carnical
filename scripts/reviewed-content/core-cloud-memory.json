@@ -1,0 +1,100 @@
+{
+  "id": "cloud-memory",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Nublar Memória",
+    "en": "Cloud Memory"
+  },
+  "aliases": [
+    "Nublar Memória",
+    "Cloud Memory"
+  ],
+  "discipline": "Dominação",
+  "level": 1,
+  "versions": [
+    {
+      "id": "cloud-memory-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 255, 256",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 257,
+          "printedPage": 255
+        },
+        {
+          "pdfPage": 258,
+          "printedPage": 256
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Ao dizer “Esqueça!”, apaga o momento atual e os últimos minutos, o bastante para ocultar uma alimentação superficial ou encontro casual. Não cria lembranças novas; se pressionada, a vítima percebe o apagão."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Parada",
+            "text": "Carisma + Dominação contra Raciocínio + Determinação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Não exige teste contra mortal despreparado. Vítima resistente ou vampiro exige o conflito acima."
+          },
+          {
+            "title": "Duração",
+            "text": "Indefinida."
+          },
+          {
+            "title": "Regras gerais de Dominação",
+            "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Saying “Forget!” erases the current moment and the last few minutes, enough to hide a shallow feeding or casual encounter. It creates no replacement memories; questioning reveals a blackout."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Charisma + Dominate opposed by Wits + Resolve."
+          },
+          {
+            "title": "System",
+            "text": "No roll against an unprepared mortal. A resisting victim or vampire requires the contest above."
+          },
+          {
+            "title": "Duration",
+            "text": "Indefinite."
+          },
+          {
+            "title": "General Dominate rules",
+            "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+          }
+        ]
+      }
+    }
+  ]
+}

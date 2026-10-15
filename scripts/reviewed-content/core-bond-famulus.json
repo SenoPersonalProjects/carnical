@@ -1,0 +1,98 @@
+{
+  "id": "bond-famulus",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Enlaçar Fâmulo",
+    "en": "Bond Famulus"
+  },
+  "aliases": [
+    "Enlaçar Fâmulo",
+    "Bond Famulus",
+    "Famulus Enlaçado",
+    "Fâmulo Enlaçado"
+  ],
+  "discipline": "Animalismo",
+  "level": 1,
+  "versions": [
+    {
+      "id": "bond-famulus-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 245",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 247,
+          "printedPage": 245
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Cria um vínculo mental com um animal transformado em fâmulo. Ele segue comandos verbais simples, como ficar ou vir, e defende a si e ao mestre; este poder sozinho não permite comunicação em mão dupla nem o obriga a atacar algo que normalmente evitaria."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Alimente o animal com seu Sangue em três noites distintas, fazendo um Teste de Sangue em cada uma. Depois, a quantidade para sustentar seu estado de carniçal é insignificante. Quem começa o jogo com o poder já concluiu o processo e pode escolher um fâmulo."
+          },
+          {
+            "title": "Parada",
+            "text": "Carisma + Empatia com Animais, Dificuldade 2 para ordens simples sem Sussurros Selvagens; ordens mais complexas aumentam a Dificuldade."
+          },
+          {
+            "title": "Sistema",
+            "text": "Só pode ter um fâmulo, mas pode criar outro se ele morrer. Sussurros Selvagens e Comunhão de Espíritos não custam Sangue quando usados no próprio fâmulo."
+          },
+          {
+            "title": "Duração",
+            "text": "Só a morte desfaz o vínculo. O fâmulo não envelhece enquanto receber Sangue vampírico regularmente."
+          },
+          {
+            "title": "Exceções da Disciplina",
+            "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Creates a mental bond with an animal famulus. It follows simple spoken commands such as stay or come and defends itself and its master. This power alone does not allow two-way communication or make it attack something it would normally avoid."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Feed the animal your Blood on three separate nights, making one Rouse Check each night. Maintenance thereafter takes an insignificant amount of Blood. Characters starting with this power have already completed this process and may choose a famulus."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Charisma + Animal Ken, Difficulty 2 for simple commands without Feral Whispers; complex commands raise the Difficulty."
+          },
+          {
+            "title": "System",
+            "text": "Only one famulus at a time; another can be created if it dies. Using Feral Whispers or Subsume the Spirit on your own famulus has no Blood cost."
+          },
+          {
+            "title": "Duration",
+            "text": "Only death releases the bond. The famulus does not age while regularly receiving vampiric Blood."
+          },
+          {
+            "title": "Discipline exceptions",
+            "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+          }
+        ]
+      }
+    }
+  ]
+}

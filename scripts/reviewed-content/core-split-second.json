@@ -1,0 +1,80 @@
+{
+  "id": "split-second",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Fração de Segundo",
+    "en": "Split Second"
+  },
+  "aliases": [
+    "Fração de Segundo",
+    "Split Second"
+  ],
+  "discipline": "Celeridade",
+  "level": 5,
+  "versions": [
+    {
+      "id": "split-second-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 254",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 256,
+          "printedPage": 254
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Celeridade": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A velocidade física acompanha a percepção acelerada, permitindo reagir imediatamente a acontecimentos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Celeridade 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Dentro do razoável, pode substituir a narração de eventos: passar por uma porta antes de fechar, evitar uma emboscada já iniciada ou sair de uma explosão. A ação deve ser plausível e levar no máximo alguns segundos reais. O Narrador determina quais testes de Habilidade, se houver, são necessários para realizá-la."
+          },
+          {
+            "title": "Duração",
+            "text": "Aproximadamente uma ação, conforme o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Physical speed matches accelerated perception, allowing immediate reactions to events."
+          },
+          {
+            "title": "Requirements",
+            "text": "Celerity 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Within reason, override the narration of events: pass a door before it closes, evade an ambush already begun, or move clear of an explosion. The action must be plausible and take no more than a few real seconds. The Storyteller decides which Skill rolls, if any, are needed to accomplish it."
+          },
+          {
+            "title": "Duration",
+            "text": "Approximately one action, as determined by the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

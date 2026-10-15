@@ -1,0 +1,104 @@
+{
+  "id": "submerged-directive",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Diretriz Submersa",
+    "en": "Submerged Directive"
+  },
+  "aliases": [
+    "Diretriz Submersa",
+    "Submerged Directive"
+  ],
+  "discipline": "Dominação",
+  "level": 3,
+  "versions": [
+    {
+      "id": "submerged-directive-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 257,
+          "printedPage": 255
+        },
+        {
+          "pdfPage": 258,
+          "printedPage": 256
+        },
+        {
+          "pdfPage": 259,
+          "printedPage": 257
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite implantar, com Mesmerismo, uma sugestão pós-hipnótica dormente até um gatilho, como data, pessoa ou frase. Só uma sugestão por vítima; ela não expira e pode permanecer por anos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum custo adicional ao Mesmerismo."
+          },
+          {
+            "title": "Parada",
+            "text": "Como Mesmerismo: Manipulação + Dominação contra Inteligência + Determinação, quando necessário."
+          },
+          {
+            "title": "Sistema",
+            "text": "Use as regras de Mesmerismo. O Narrador pode rolar em segredo: não há como saber se funcionou antes de o gatilho ocorrer."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva; a sugestão permanece até seu gatilho."
+          },
+          {
+            "title": "Regras gerais de Dominação",
+            "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Allows Mesmerize to implant a dormant post-hypnotic suggestion triggered by a date, person, phrase or other condition. Only one suggestion per victim; it never expires and may remain for years."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 3."
+          },
+          {
+            "title": "Cost",
+            "text": "No additional cost beyond Mesmerize."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "As Mesmerize: Manipulation + Dominate opposed by Intelligence + Resolve when needed."
+          },
+          {
+            "title": "System",
+            "text": "Use Mesmerize rules. The Storyteller may roll secretly: success cannot be known until the trigger occurs."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive; the suggestion persists until triggered."
+          },
+          {
+            "title": "General Dominate rules",
+            "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+          }
+        ]
+      }
+    }
+  ]
+}

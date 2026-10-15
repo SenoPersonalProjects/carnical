@@ -1,0 +1,104 @@
+{
+  "id": "rationalize",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Racionalizar",
+    "en": "Rationalize"
+  },
+  "aliases": [
+    "Racionalizar",
+    "Rationalize"
+  ],
+  "discipline": "Dominação",
+  "level": 4,
+  "versions": [
+    {
+      "id": "rationalize-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 257,
+          "printedPage": 255
+        },
+        {
+          "pdfPage": 258,
+          "printedPage": 256
+        },
+        {
+          "pdfPage": 259,
+          "printedPage": 257
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A vítima acredita ter agido por vontade própria sob Dominação e defende até ações absurdas. Exposição prolongada pode provocar traumas mentais graves."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum custo adicional."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Percepção, Dificuldade 5, para a vítima pressionada sobre a crença."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sucesso nesse teste faz a vítima questionar a própria afirmação e, possivelmente, sua sanidade."
+          },
+          {
+            "title": "Duração",
+            "text": "Indefinida."
+          },
+          {
+            "title": "Regras gerais de Dominação",
+            "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The victim believes actions taken under Dominate were their own choice and defends even absurd behavior. Prolonged exposure can cause severe mental trauma."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 4."
+          },
+          {
+            "title": "Cost",
+            "text": "No additional cost."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Wits + Awareness, Difficulty 5, for a victim pressed about the belief."
+          },
+          {
+            "title": "System",
+            "text": "Success makes the victim question their claim and possibly their sanity."
+          },
+          {
+            "title": "Duration",
+            "text": "Indefinite."
+          },
+          {
+            "title": "General Dominate rules",
+            "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+          }
+        ]
+      }
+    }
+  ]
+}

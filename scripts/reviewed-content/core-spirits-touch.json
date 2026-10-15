@@ -1,0 +1,89 @@
+{
+  "id": "spirits-touch",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Toque do Espírito",
+    "en": "Spirit’s Touch"
+  },
+  "aliases": [
+    "Toque do Espírito",
+    "Spirit’s Touch",
+    "Spirit's Touch"
+  ],
+  "discipline": "Auspícios",
+  "level": 4,
+  "versions": [
+    {
+      "id": "spirits-touch-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 250",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 252,
+          "printedPage": 250
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Tocar um objeto inanimado ou o chão de um local revela resíduos emocionais de quem o manuseou ou visitou, incluindo ações e circunstâncias. As impressões raramente são claras, mas vão além da perícia forense comum."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Auspícios, Dificuldade conforme a informação procurada."
+          },
+          {
+            "title": "Sistema",
+            "text": "Perceber a emoção de quem usou uma arma de assassinato há poucos dias pode ter Dificuldade 3; o ambiente de escrita de uma carta de 300 anos, 6 ou mais. Cada ponto de margem permite sentir aproximadamente mais um portador anterior e um conjunto adicional de circunstâncias, retrocedendo a partir do mais recente."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Touching an inanimate object or the ground at a location reveals emotional residue of handlers or visitors, including actions and circumstances. Impressions are rarely clear but go beyond ordinary forensic examination."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Auspex, Difficulty based on the information sought."
+          },
+          {
+            "title": "System",
+            "text": "Sensing the emotion of someone who used a murder weapon days ago might be Difficulty 3; the setting where a 300-year-old letter was written, 6 or more. Each point of margin reveals approximately one additional previous handler and set of circumstances, working backward from the most recent."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn."
+          }
+        ]
+      }
+    }
+  ]
+}

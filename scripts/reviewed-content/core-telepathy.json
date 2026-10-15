@@ -1,0 +1,88 @@
+{
+  "id": "telepathy",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Telepatia",
+    "en": "Telepathy"
+  },
+  "aliases": [
+    "Telepatia",
+    "Telepathy"
+  ],
+  "discipline": "Auspícios",
+  "level": 5,
+  "versions": [
+    {
+      "id": "telepathy-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 252",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 254,
+          "printedPage": 252
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Lê pensamentos e projeta os próprios pensamentos noutras mentes. Mentes vampíricas involuntárias exigem esforço adicional."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue; mais 1 Vontade antes de rolar contra vampiro involuntário."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Auspícios contra Raciocínio + Subterfúgio para ler uma mente involuntária."
+          },
+          {
+            "title": "Sistema",
+            "text": "Projetar pensamentos em mortal ou vampiro não exige rolagem, mas requer linha de visão. Ler um mortal à vista exige contato visual e o conflito acima, salvo se ele consentir, quando não há rolagem. Uma vitória revela pensamentos superficiais como imagens; margens maiores permitem buscar lembranças distantes ou enterradas. Um crítico fornece uma visão coerente dos pensamentos e intenções atuais. Contra vampiro involuntário, pague também a Vontade antes do conflito."
+          },
+          {
+            "title": "Duração",
+            "text": "Aproximadamente um minuto por Teste de Sangue; uma cena completa com alvo voluntário."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Reads thoughts and projects the user’s own thoughts into other minds. Unwilling vampiric minds require additional effort."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check; additionally spend 1 Willpower before rolling against an unwilling vampire."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Auspex opposed by Wits + Subterfuge to read an unwilling mind."
+          },
+          {
+            "title": "System",
+            "text": "Projecting thoughts to a mortal or vampire requires no roll but needs line of sight. Reading a visible mortal requires eye contact and the contest above, unless they consent, in which case no roll is needed. A win reveals surface thoughts as images; greater margins allow probing distant or buried memories. A critical gives a coherent overview of current thoughts and intentions. Against an unwilling vampire, also pay the Willpower before the contest."
+          },
+          {
+            "title": "Duration",
+            "text": "Approximately one minute per Rouse Check; a full scene with a willing target."
+          }
+        ]
+      }
+    }
+  ]
+}

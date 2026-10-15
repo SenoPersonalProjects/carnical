@@ -1,0 +1,89 @@
+{
+  "id": "possession",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Possessão",
+    "en": "Possession"
+  },
+  "aliases": [
+    "Possessão",
+    "Possession"
+  ],
+  "discipline": "Auspícios",
+  "level": 5,
+  "versions": [
+    {
+      "id": "possession-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 251",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 253,
+          "printedPage": 251
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 5,
+          "Dominação": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Toma o corpo de um mortal, deixando a mente dele inacessível e o próprio corpo em transe. Só funciona em mortais; carniçais precisam estar Enlaçados ao usuário."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 5 e Dominação 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Dois Testes de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Auspícios contra Determinação + Inteligência, com contato visual inicial conforme Dominação (p. 254)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Falha total torna a vítima imune a novas tentativas pelo restante da história. O corpo vampírico fica inconsciente dos arredores e de sua condição, exceto dano agravado, que encerra o efeito. Pode usar Auspícios, Presença e Dominação pelo hospedeiro. Permanecer durante o dia exige ficar acordado (p. 219); falha encerra a possessão. Quando o hospedeiro sofre dano agravado, teste Determinação + Auspícios, Dificuldade 2 + dano sofrido, para manter o controle. A morte dele causa imediatamente 3 danos agravados em Vontade ao usuário. Não lê pensamentos nem adquire Habilidades ou maneirismos: usa as próprias Habilidades. Para imitar a vítima, Manipulação + Performance contra Raciocínio + Sagacidade. O Narrador deve considerar Máculas pela violação da vítima."
+          },
+          {
+            "title": "Duração",
+            "text": "Até terminar voluntariamente ou por uma das condições acima."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Takes over a mortal body while leaving its mind inaccessible and the vampire’s own body in a trance. Only works on mortals; ghouls must be Blood Bound to the user."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 5 and Dominate 3."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Auspex opposed by Resolve + Intelligence, initially requiring eye contact under Dominate (p. 254)."
+          },
+          {
+            "title": "System",
+            "text": "A total failure makes the victim immune to further attempts for the rest of the story. The vampire’s body is unaware of surroundings or condition except Aggravated damage, which ends possession. Auspex, Presence and Dominate can be used through the host. Continuing by day requires staying awake (p. 219); failure ends possession. When the host takes Aggravated damage, roll Resolve + Auspex, Difficulty 2 + damage suffered, to retain control. The host’s death immediately inflicts 3 Aggravated Willpower damage on the user. It grants no mind reading, Skills or mannerisms: use your own Skills. Impersonation uses Manipulation + Performance opposed by Wits + Insight. The Storyteller should consider Stains for violating the victim."
+          },
+          {
+            "title": "Duration",
+            "text": "Until voluntarily ended or interrupted by the conditions above."
+          }
+        ]
+      }
+    }
+  ]
+}

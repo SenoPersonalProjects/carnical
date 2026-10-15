@@ -1,0 +1,92 @@
+{
+  "id": "traversal",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Travessia",
+    "en": "Traversal"
+  },
+  "aliases": [
+    "Travessia",
+    "Traversal"
+  ],
+  "discipline": "Celeridade",
+  "level": 3,
+  "versions": [
+    {
+      "id": "traversal-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 253, 254",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 255,
+          "printedPage": 253
+        },
+        {
+          "pdfPage": 256,
+          "printedPage": 254
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Celeridade": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Corre ou escala superfícies verticais e até líquidos com impulso. Não permite caminhar sobre água nem concede aderência de inseto."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Celeridade 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Destreza + Atletismo, Dificuldade 3 (inclinação com tração) a 6 (vertical lisa ou água), conforme superfície e ângulo."
+          },
+          {
+            "title": "Sistema",
+            "text": "A margem amplia a distância: 0 alcança alvo próximo; 1 alcança alvo mais distante, e assim por diante. O Narrador deve avisar antes se estiver longe demais. Como referência, mais de 60 metros sobre água ou 30 andares provavelmente excedem o alcance."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Runs or climbs vertical surfaces and even liquids with a running start. It grants neither walking on water nor insect-like adhesion."
+          },
+          {
+            "title": "Requirements",
+            "text": "Celerity 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Dexterity + Athletics, Difficulty 3 (incline with traction) to 6 (smooth vertical surface or water), depending on surface and angle."
+          },
+          {
+            "title": "System",
+            "text": "Margin increases distance: 0 reaches a nearby target; 1 a more distant target, and so on. The Storyteller must warn beforehand if a target is too far. As a guideline, more than 60 meters over water or 30 building stories probably exceeds its range."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn."
+          }
+        ]
+      }
+    }
+  ]
+}

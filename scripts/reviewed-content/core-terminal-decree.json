@@ -1,0 +1,96 @@
+{
+  "id": "terminal-decree",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Decreto Terminal",
+    "en": "Terminal Decree"
+  },
+  "aliases": [
+    "Decreto Terminal",
+    "Terminal Decree"
+  ],
+  "discipline": "Dominação",
+  "level": 5,
+  "versions": [
+    {
+      "id": "terminal-decree-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 255, 256, 257",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 257,
+          "printedPage": 255
+        },
+        {
+          "pdfPage": 258,
+          "printedPage": 256
+        },
+        {
+          "pdfPage": 259,
+          "printedPage": 257
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Remove a barreira de autopreservação: pode ordenar ferimentos ou morte, inclusive exposição de vampiros a fogo ou sol."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum custo adicional de Fome; o custo em Humanidade pode ser grave."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ordens terminais passam a permitir resistência conforme a parada de cada poder usado, em vez de falharem automaticamente."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          },
+          {
+            "title": "Regras gerais de Dominação",
+            "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Removes the self-preservation barrier, allowing orders of injury or death, including exposing vampires to fire or sunlight."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 5."
+          },
+          {
+            "title": "Cost",
+            "text": "No additional Hunger cost; the Humanity cost can be severe."
+          },
+          {
+            "title": "System",
+            "text": "Terminal commands now allow resistance using the individual power’s pool instead of automatically failing."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          },
+          {
+            "title": "General Dominate rules",
+            "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+          }
+        ]
+      }
+    }
+  ]
+}

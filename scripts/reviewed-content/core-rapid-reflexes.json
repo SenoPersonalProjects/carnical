@@ -1,0 +1,84 @@
+{
+  "id": "rapid-reflexes",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Reflexos Rápidos",
+    "en": "Rapid Reflexes"
+  },
+  "aliases": [
+    "Reflexos Rápidos",
+    "Rapid Reflexes"
+  ],
+  "discipline": "Celeridade",
+  "level": 1,
+  "versions": [
+    {
+      "id": "rapid-reflexes-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 252, 253",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 254,
+          "printedPage": 252
+        },
+        {
+          "pdfPage": 255,
+          "printedPage": 253
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Celeridade": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Percepção e reação sobre-humanas permitem acompanhar projéteis e reagir mesmo sem cobertura."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Celeridade 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Não sofre penalidade na parada de defesa por falta de cobertura contra Armas de Fogo. Pode realizar gratuitamente uma ação menor de até dois dados por turno, como preparar ou recarregar arma (p. 298)."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Superhuman perception and reaction allow tracking projectiles and reacting without cover."
+          },
+          {
+            "title": "Requirements",
+            "text": "Celerity 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Takes no defense-pool penalty for lacking cover against Firearms. May freely perform one minor action worth up to two dice per turn, such as readying or reloading a weapon (p. 298)."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          }
+        ]
+      }
+    }
+  ]
+}

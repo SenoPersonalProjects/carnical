@@ -1,0 +1,88 @@
+{
+  "id": "scry-soul",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Perscrutar a Alma",
+    "en": "Scry the Soul"
+  },
+  "aliases": [
+    "Perscrutar a Alma",
+    "Scry the Soul"
+  ],
+  "discipline": "Auspícios",
+  "level": 3,
+  "versions": [
+    {
+      "id": "scry-soul-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 250",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 252,
+          "printedPage": 250
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Examina a aura de uma pessoa para descobrir emoções, Ressonância e características sobrenaturais. Pode procurar uma condição específica numa multidão, mas nesse caso não recebe outros tipos de informação."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Auspícios contra Autocontrole + Subterfúgio; ao examinar multidão, Dificuldade conforme quantidade de pessoas, distrações e característica procurada."
+          },
+          {
+            "title": "Sistema",
+            "text": "Numa vitória, o Narrador responde com verdade a uma pergunta por ponto de margem sobre a aura ou psique: estado emocional; Ressonância do sangue; natureza sobrenatural (vampiro, lobisomem, carniçal etc.); influência de Feitiçaria de Sangue ou outra magia; Diablerie no último ano. Um crítico revela algo inesperado escolhido pelo Narrador. Numa multidão, achar um vampiro numa sala pode ser Dificuldade 3; a pessoa mais inquieta numa rave, 6 ou mais."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno, ou conforme o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Examines a person’s aura for emotions, Resonance and supernatural traits. A crowd can be scanned for one specific condition, but that scan provides no other information."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Auspex opposed by Composure + Subterfuge; for crowds, Difficulty depends on numbers, distractions and the trait sought."
+          },
+          {
+            "title": "System",
+            "text": "On a win, the Storyteller truthfully answers one question per point of margin about aura or psyche: emotional state; blood Resonance; supernatural nature (vampire, werewolf, ghoul, etc.); influence of Blood Sorcery or other magic; diablerie within the last year. A critical reveals something unexpected chosen by the Storyteller. In a crowd, finding a vampire in a room might be Difficulty 3; finding the most agitated person at a rave, 6 or more."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn, or as determined by the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "drawing-out-beast",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Expulsar a Besta",
+    "en": "Drawing Out the Beast"
+  },
+  "aliases": [
+    "Expulsar a Besta",
+    "Drawing Out the Beast"
+  ],
+  "discipline": "Animalismo",
+  "level": 5,
+  "versions": [
+    {
+      "id": "drawing-out-beast-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 245, 247, 248",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 247,
+          "printedPage": 245
+        },
+        {
+          "pdfPage": 249,
+          "printedPage": 247
+        },
+        {
+          "pdfPage": 250,
+          "printedPage": 248
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Projeta a própria Besta num mortal ou vampiro próximo, transferindo um Frenesi de Fúria ou Terror."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Animalismo contra Autocontrole + Determinação do alvo, no lugar do teste de Vontade para resistir ao Frenesi."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sucesso faz o alvo entrar no Frenesi em seu lugar, atacando ou fugindo conforme o gatilho. Falha faz o usuário entrar em Frenesi como numa falha de resistência normal. Novos estímulos ainda podem provocar seu Frenesi; pode repetir enquanto puder fazer Testes de Sangue e houver alvos. Não transfere Frenesi de Fome."
+          },
+          {
+            "title": "Duração",
+            "text": "A duração do Frenesi (p. 220)."
+          },
+          {
+            "title": "Exceções da Disciplina",
+            "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Projects the user’s Beast into a nearby mortal or vampire, transferring a fury or terror frenzy."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Wits + Animalism opposed by the target’s Composure + Resolve, replacing the Willpower roll to resist frenzy."
+          },
+          {
+            "title": "System",
+            "text": "Success makes the target frenzy instead, attacking or fleeing according to the trigger. Failure makes the user frenzy as if the normal resistance roll had failed. Further stimuli can still trigger the user; the power can be repeated while Rouse Checks and targets remain available. It cannot transfer hunger frenzy."
+          },
+          {
+            "title": "Duration",
+            "text": "The duration of the frenzy (p. 220)."
+          },
+          {
+            "title": "Discipline exceptions",
+            "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+          }
+        ]
+      }
+    }
+  ]
+}

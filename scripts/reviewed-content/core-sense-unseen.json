@@ -1,0 +1,88 @@
+{
+  "id": "sense-unseen",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Sentir o Invisível",
+    "en": "Sense the Unseen"
+  },
+  "aliases": [
+    "Sentir o Invisível",
+    "Sense the Unseen"
+  ],
+  "discipline": "Auspícios",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sense-unseen-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 249",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 251,
+          "printedPage": 249
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Detecta presenças sobrenaturais escondidas, como Ofuscação, observadores com Auspícios e fantasmas. O Narrador pode permitir detectar também feitiços ou rituais inativos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Auspícios passivamente; Determinação + Auspícios ao procurar ativamente."
+          },
+          {
+            "title": "Sistema",
+            "text": "O Narrador faz um teste oculto quando algo sobrenatural se esconde à vista, com Dificuldade escolhida por ele. Contra alguém tentando ocultar-se, pode pedir uma rolagem cega em conflito com a parada relevante: contra Ofuscação, por exemplo, Raciocínio + Auspícios contra Raciocínio + Ofuscação."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Detects hidden supernatural presences such as Obfuscate, Auspex observers and ghosts. The Storyteller may also allow detection of inactive spells or rituals."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Wits + Auspex passively; Resolve + Auspex when actively searching."
+          },
+          {
+            "title": "System",
+            "text": "The Storyteller makes a hidden roll when something supernatural hides in plain sight, setting the Difficulty. Against an entity actively concealing itself, a blind roll may oppose its relevant pool: detecting Obfuscate, for example, uses Wits + Auspex against Wits + Obfuscate."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          }
+        ]
+      }
+    }
+  ]
+}

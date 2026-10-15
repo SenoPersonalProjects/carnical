@@ -1,0 +1,88 @@
+{
+  "id": "clairvoyance",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Clarividência",
+    "en": "Clairvoyance"
+  },
+  "aliases": [
+    "Clarividência",
+    "Clairvoyance"
+  ],
+  "discipline": "Auspícios",
+  "level": 5,
+  "versions": [
+    {
+      "id": "clairvoyance-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 251",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 253,
+          "printedPage": 251
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Em transe leve e de olhos fechados, reúne em minutos informações sobre aproximadamente uma quadra, ou área maior ao ar livre ou menos populosa, e pode acompanhar acontecimentos incomuns."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Auspícios; Dificuldade conforme segurança e atividade da área. Some o valor base de Refúgio ao usar no próprio refúgio."
+          },
+          {
+            "title": "Sistema",
+            "text": "Na própria mansão, Dificuldade 3; numa área urbana desconhecida e tumultuada, 7 ou mais. O Narrador responde aproximadamente uma pergunta por ponto de margem sobre movimento, o que foi visto ou ouvido, fofocas, surpresas e impressões. Informação deliberadamente escondida pode consumir mais de um ponto. Um crítico revela algo importante, independentemente das perguntas, se existir algo a revelar. Também pode vigiar eventos em curso, mas precisa permanecer na área enquanto o fizer."
+          },
+          {
+            "title": "Duração",
+            "text": "Alguns minutos para obter informações; até uma noite para vigilância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "With eyes closed in a light trance, gathers information in minutes about roughly a city block, or a larger outdoor or less populated area, and can monitor unusual events."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Auspex; Difficulty depends on local security and activity. Add the base Haven rating when using it in your own haven."
+          },
+          {
+            "title": "System",
+            "text": "Your own mansion might be Difficulty 3; an unfamiliar, tumultuous urban area, 7 or more. The Storyteller answers approximately one question per point of margin about movement, sights or sounds, gossip, surprises and impressions. Deliberately hidden information may consume more than one point. A critical reveals something major independently of the questions, if anything exists to reveal. Ongoing events can also be monitored, but the user must remain in the area throughout."
+          },
+          {
+            "title": "Duration",
+            "text": "A few minutes for information gathering; up to one night for surveillance."
+          }
+        ]
+      }
+    }
+  ]
+}

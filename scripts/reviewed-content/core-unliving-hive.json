@@ -1,0 +1,93 @@
+{
+  "id": "unliving-hive",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Enxame Não Vivo",
+    "en": "Unliving Hive"
+  },
+  "aliases": [
+    "Enxame Não Vivo",
+    "Unliving Hive"
+  ],
+  "discipline": "Animalismo",
+  "level": 3,
+  "versions": [
+    {
+      "id": "unliving-hive-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 245, 246",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 247,
+          "printedPage": 245
+        },
+        {
+          "pdfPage": 248,
+          "printedPage": 246
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 3,
+          "Ofuscação": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Estende a influência sobre animais a enxames de insetos, inclusive permitindo um enxame como fâmulo e abrigando-o dentro do corpo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 3 e Ofuscação 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum custo adicional."
+          },
+          {
+            "title": "Sistema",
+            "text": "Os poderes anteriores restritos a vertebrados passam a tratar um enxame de insetos como uma criatura. Um enxame enlaçado pode viver nas cavidades do corpo, oculto exceto a raios X, bebendo quantidades ínfimas de Sangue para sustentar-se indefinidamente. Tem Vitalidade 5 e 8 dados para resistir a ataques; Briga causa dano superficial, fogo e inseticida causam agravado. Causa pouco dano em combate, mas pode espionar, distrair uma pessoa envolta pelo enxame (−2 dados a qualquer rolagem) ou intimidar mortais (+1 a +3 dados de Intimidação conforme os insetos e as fobias do alvo). Outros usos criativos cabem ao grupo."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          },
+          {
+            "title": "Exceções da Disciplina",
+            "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Extends animal influence to insect swarms, including bonding a swarm as a famulus and housing it inside the body."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 3 and Obfuscate 2."
+          },
+          {
+            "title": "Cost",
+            "text": "No additional cost."
+          },
+          {
+            "title": "System",
+            "text": "Earlier powers limited to vertebrates treat an insect swarm as one creature. A bonded swarm can nest in bodily cavities, hidden except from X-rays, taking tiny amounts of Blood to sustain itself indefinitely. It has Health 5 and 8 dice to resist attacks; Brawl inflicts Superficial damage, while fire and insecticide inflict Aggravated damage. It does little combat damage but can spy, distract one person surrounded by it (−2 dice to any roll), or intimidate mortals (+1 to +3 Intimidation dice depending on insects and phobias). The group can devise further creative uses."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          },
+          {
+            "title": "Discipline exceptions",
+            "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "subsume-spirit",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Comunhão de Espíritos",
+    "en": "Subsume the Spirit"
+  },
+  "aliases": [
+    "Comunhão de Espíritos",
+    "Subsume the Spirit"
+  ],
+  "discipline": "Animalismo",
+  "level": 4,
+  "versions": [
+    {
+      "id": "subsume-spirit-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 245, 247",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 247,
+          "printedPage": 245
+        },
+        {
+          "pdfPage": 249,
+          "printedPage": 247
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Transfere a mente para um animal, controlando-o e usando seus sentidos. O corpo vampírico fica imóvel como em Torpor."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue; gratuito no próprio fâmulo."
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Animalismo, Dificuldade 4."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória permite habitar o animal por uma cena; um crítico, indefinidamente. Para continuar durante o dia, é preciso permanecer acordado (p. 219). Ver o sol exige resistência ao Frenesi de Terror, embora a luz não fira o animal. O vampiro não percebe seu corpo, mas dano nele encerra o transe. A morte do animal também encerra o efeito e causa 1 dano agravado em Vontade ao usuário."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena; indefinida com vitória crítica, sujeita às condições acima."
+          },
+          {
+            "title": "Exceções da Disciplina",
+            "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Transfers the mind into an animal, controlling it and using its senses. The vampire’s body remains motionless as if in torpor."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check; free on your own famulus."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Animalism, Difficulty 4."
+          },
+          {
+            "title": "System",
+            "text": "A win allows inhabiting the animal for one scene; a critical, indefinitely. Continuing by day requires staying awake (p. 219). Seeing the sun requires resisting terror frenzy, though sunlight does not harm the animal. The vampire is unaware of their body, but damage to it breaks the trance. The animal’s death also ends the power and inflicts 1 Aggravated Willpower damage on the user."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene; indefinite on a critical win, subject to the conditions above."
+          },
+          {
+            "title": "Discipline exceptions",
+            "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+          }
+        ]
+      }
+    }
+  ]
+}

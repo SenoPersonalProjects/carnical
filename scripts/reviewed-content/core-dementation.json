@@ -1,0 +1,101 @@
+{
+  "id": "dementation",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Dementação",
+    "en": "Dementation"
+  },
+  "aliases": [
+    "Dementação",
+    "Dementation"
+  ],
+  "discipline": "Dominação",
+  "level": 2,
+  "versions": [
+    {
+      "id": "dementation-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 255, 256",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 257,
+          "printedPage": 255
+        },
+        {
+          "pdfPage": 258,
+          "printedPage": 256
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 2,
+          "Ofuscação": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Uma conversa casual esconde influência que faz os conflitos internos da vítima consumirem sua razão."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 2 e Ofuscação 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue por cena; cada vítima adicional exige seu próprio Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Manipulação + Dominação contra Autocontrole + Inteligência."
+          },
+          {
+            "title": "Sistema",
+            "text": "Depois de começar a conversa, pode atacar um indivíduo por turno nesse conflito, causando dano superficial em Vontade. Mortal Debilitado pelo poder sofre crise nervosa ou surto psicótico conforme sua personalidade e talvez Ressonância. Vampiro Debilitado sofre imediatamente uma Compulsão escolhida pelo usuário."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Dominação",
+            "text": "A maioria dos poderes exige contato visual, mantido até a ordem salvo interrupção. Capturar um olhar que o evita exige Determinação + Intimidação contra Raciocínio + Percepção; olhos fechados ou vendados não podem ser capturados. Em combate ou tumulto, o alvo precisa estar atacando ou interagindo diretamente com o usuário. Ordens normalmente precisam ser faladas, ouvidas e compreendidas, salvo meio sobrenatural como Telepatia. Sem Decreto Terminal, morte óbvia ou ferimento grave fazem a ordem falhar automaticamente. Outros prejuízos, violar Convicções ou prejudicar Pilares e seus relacionamentos permitem resistência conforme o poder. Não extrai informações nem obriga ações impossíveis por instrução comum, como dormir sob comando. Vampiro de geração menor pode gastar 1 Vontade para anular completamente Dominação de geração maior. Falha total impede Dominar aquele alvo pelo resto da história. O uso pode causar Máculas conforme os Princípios."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A casual conversation conceals influence that lets the victim’s inner conflicts overwhelm their reason."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 2 and Obfuscate 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check per scene; each additional victim requires their own Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Dominate opposed by Composure + Intelligence."
+          },
+          {
+            "title": "System",
+            "text": "After starting a conversation, attack one individual per turn with this contest, inflicting Superficial Willpower damage. A mortal Impaired by the power suffers a nervous breakdown or psychotic episode shaped by personality and possibly Resonance. A vampire Impaired by it immediately suffers a Compulsion chosen by the user."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          },
+          {
+            "title": "General Dominate rules",
+            "text": "Most powers require eye contact, held until the command is given unless interrupted. Catching an avoiding gaze uses Resolve + Intimidation against Wits + Awareness; closed or covered eyes cannot be caught. In combat or turmoil, targets must be attacking or directly interacting with the user. Commands must normally be spoken, heard and understood, unless a supernatural method such as Telepathy permits otherwise. Without Terminal Decree, obvious death or grave harm automatically fails. Other harmful commands, violations of Convictions, or harm to Touchstones and those relationships allow resistance under the individual power. Dominate cannot extract information or make someone do what ordinary instructions cannot achieve, such as sleep on command. A lower-generation vampire can spend 1 Willpower to completely negate Dominate by a higher-generation vampire. Total failure prevents the user from Dominating that target for the rest of the story. Use may cause Stains depending on Tenets."
+          }
+        ]
+      }
+    }
+  ]
+}

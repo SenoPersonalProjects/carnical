@@ -1,0 +1,92 @@
+{
+  "id": "animal-succulence",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Suculência Animal",
+    "en": "Animal Succulence"
+  },
+  "aliases": [
+    "Suculência Animal",
+    "Animal Succulence"
+  ],
+  "discipline": "Animalismo",
+  "level": 3,
+  "versions": [
+    {
+      "id": "animal-succulence-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 245, 247",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 247,
+          "printedPage": 245
+        },
+        {
+          "pdfPage": 249,
+          "printedPage": 247
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Obtém mais sustento do sangue animal e absorve temporariamente uma característica ao consumir o próprio fâmulo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Alimentar-se de animais sacia 1 Fome adicional; considere sua Potência de Sangue dois níveis abaixo ao determinar penalidades para saciar Fome com sangue animal. Consumir o próprio fâmulo sacia 4 Fome, qualquer que seja seu tamanho, mas nunca o último ponto. Isso também aumenta em 2 o Atributo mais associado ao animal, escolhido pelo Narrador: um gato pode dar Destreza ou Autocontrole; um cão, Carisma ou Determinação. O Narrador pode variar a recompensa, como +2 ao Atributo de paradas de percepção ou sabedoria ao consumir uma coruja."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva. O bônus do fâmulo termina na próxima alimentação ou ao alcançar Fome 5."
+          },
+          {
+            "title": "Exceções da Disciplina",
+            "text": "Poderes de Animalismo que envolvem animais normalmente só afetam vertebrados. Usar um poder em herbívoros aumenta em 1 a Dificuldade dos testes de Habilidades envolvidos. Enxame Não Vivo estende os poderes anteriores a enxames de insetos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Gains extra nourishment from animal blood and temporarily absorbs a characteristic by consuming your own famulus."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 3."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Feeding on animals slakes 1 additional Hunger; treat Blood Potency as two levels lower for penalties to slaking Hunger with animal blood. Consuming your own famulus slakes 4 Hunger regardless of size, but never the last point. It also increases the Attribute most associated with that animal by 2, chosen by the Storyteller: a cat might grant Dexterity or Composure; a dog, Charisma or Resolve. The Storyteller may vary the reward, such as +2 to the Attribute in perception or wisdom pools for an owl."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive. The famulus bonus ends at the next feeding or upon reaching Hunger 5."
+          },
+          {
+            "title": "Discipline exceptions",
+            "text": "Animalism powers involving animals normally affect vertebrates only. Using a power on herbivores adds 1 to the Difficulty of the associated Skill rolls. Unliving Hive extends earlier powers to insect swarms."
+          }
+        ]
+      }
+    }
+  ]
+}

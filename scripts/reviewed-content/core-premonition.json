@@ -1,0 +1,92 @@
+{
+  "id": "premonition",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Premonição",
+    "en": "Premonition"
+  },
+  "aliases": [
+    "Premonição",
+    "Premonition"
+  ],
+  "discipline": "Auspícios",
+  "level": 2,
+  "versions": [
+    {
+      "id": "premonition-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 249, 250",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 251,
+          "printedPage": 249
+        },
+        {
+          "pdfPage": 252,
+          "printedPage": 250
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Oferece pressentimentos, inspirações ou visões imprecisas que revelam uma pista, verdade ou perigo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito quando o Narrador concede a visão; um Teste de Sangue para provocá-la."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Auspícios ao provocar a visão."
+          },
+          {
+            "title": "Sistema",
+            "text": "O Narrador concede uma dica quando apropriado e pode usá-la para mover a história ou revelar uma pista ignorada. O limite sugerido é uma premonição por cena, mesmo se vários personagens tiverem o poder. Para provocá-la, concentre-se num alvo, faça o Teste de Sangue e role; os sucessos determinam a profundidade da revelação sobre ele, se houver alguma."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Offers hunches, sudden insights or imprecise visions revealing a clue, truth or danger."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 2."
+          },
+          {
+            "title": "Cost",
+            "text": "Free when granted by the Storyteller; one Rouse Check to provoke a vision."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Auspex when provoking a vision."
+          },
+          {
+            "title": "System",
+            "text": "The Storyteller grants a helpful hint when appropriate, allowing the story to move or an overlooked clue to emerge. The suggested limit is one premonition per scene even with multiple characters possessing the power. To provoke one, concentrate on a target, make the Rouse Check and roll; successes determine the depth of revelation about it, if any."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          }
+        ]
+      }
+    }
+  ]
+}

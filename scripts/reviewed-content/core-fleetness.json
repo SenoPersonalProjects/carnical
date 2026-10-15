@@ -1,0 +1,80 @@
+{
+  "id": "fleetness",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Rapidez",
+    "en": "Fleetness"
+  },
+  "aliases": [
+    "Rapidez",
+    "Fleetness"
+  ],
+  "discipline": "Celeridade",
+  "level": 2,
+  "versions": [
+    {
+      "id": "fleetness-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 253",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 255,
+          "printedPage": 253
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Celeridade": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Move-se e reage com velocidade espantosa."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Celeridade 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Some Celeridade a testes de Destreza fora de combate. Uma vez por turno, também pode somá-la à defesa com Destreza + Atletismo."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Moves and reacts with astonishing speed."
+          },
+          {
+            "title": "Requirements",
+            "text": "Celerity 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Add Celerity to non-combat Dexterity tests. Once per turn, also add it when defending with Dexterity + Athletics."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          }
+        ]
+      }
+    }
+  ]
+}
