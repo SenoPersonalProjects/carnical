@@ -1,0 +1,97 @@
+{
+  "id": "taste-blood",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Um Gosto por Sangue",
+    "en": "A Taste for Blood"
+  },
+  "aliases": [
+    "Um Gosto por Sangue",
+    "A Taste for Blood",
+    "Taste for Blood"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "taste-blood-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Provar uma gota de sangue revela traços do doador."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Feitiçaria de Sangue, Dificuldade 3."
+          },
+          {
+            "title": "Sistema",
+            "text": "Coloque o sangue na língua e teste. Vitória revela Ressonância e intensidade do sangue humano; identifica mortal, carniçal, vampiro ou outra criatura sobrenatural, sem necessariamente dizer o tipo desta última. Vitae revela a Potência de Sangue relativa e a faixa de geração. Crítico revela Diablerie e geração com margem de erro de um nível; também identifica outro tipo sobrenatural se o usuário já o conhecer."
+          },
+          {
+            "title": "Duração",
+            "text": "Não aplicável."
+          },
+          {
+            "title": "Aprendizado e Rituais",
+            "text": "Feitiçaria de Sangue exige professores e permite aprender Rituais até o nível da Disciplina. Carniçais e sangues-ralos com poderes temporários não recebem Rituais. Na criação, ao menos um ponto concede um Ritual de nível 1. Cada novo Ritual custa nível × 3 XP e exige no mínimo o quadrado do nível em semanas de aprendizado."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Tasting a drop of blood reveals traits of its donor."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Blood Sorcery, Difficulty 3."
+          },
+          {
+            "title": "System",
+            "text": "Place the blood on the tongue and roll. A win reveals human blood’s Resonance and intensity, and identifies mortal, ghoul, vampire or another supernatural creature without necessarily identifying that last type. Vitae reveals relative Blood Potency and generation range. A critical reveals diablerie and generation within one level of error; it also identifies another supernatural type if already familiar to the user."
+          },
+          {
+            "title": "Duration",
+            "text": "Not applicable."
+          },
+          {
+            "title": "Learning and rituals",
+            "text": "Blood Sorcery requires teachers and grants access to Rituals up to the user’s Discipline rating. Ghouls and thin-bloods with temporary powers do not gain Rituals. At creation, at least one dot grants one level 1 Ritual. Each new Ritual costs its level × 3 XP and takes at least level squared weeks to learn."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "extinguish-vitae",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Extinguir Vitae",
+    "en": "Extinguish Vitae"
+  },
+  "aliases": [
+    "Extinguir Vitae",
+    "Extinguish Vitae"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "extinguish-vitae-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 273",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 275,
+          "printedPage": 273
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Coagula parte do Sangue de outro vampiro, tornando-o impotente para sustentar a não vida e elevando sua Fome."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Feitiçaria de Sangue contra Vigor + Autocontrole."
+          },
+          {
+            "title": "Sistema",
+            "text": "Concentre-se por um turno e gesticule discretamente para um vampiro à vista. Vitória aumenta sua Fome em 1; crítico, em 2. Se puder ver o usuário, a vítima pode reconhecê-lo como agressor com Inteligência + Ocultismo contra Raciocínio + Subterfúgio."
+          },
+          {
+            "title": "Duração",
+            "text": "Não aplicável."
+          },
+          {
+            "title": "Aprendizado e Rituais",
+            "text": "Feitiçaria de Sangue exige professores e permite aprender Rituais até o nível da Disciplina. Carniçais e sangues-ralos com poderes temporários não recebem Rituais. Na criação, ao menos um ponto concede um Ritual de nível 1. Cada novo Ritual custa nível × 3 XP e exige no mínimo o quadrado do nível em semanas de aprendizado."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Coagulates part of another vampire’s Blood, making it unable to sustain unlife and increasing Hunger."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Blood Sorcery opposed by Stamina + Composure."
+          },
+          {
+            "title": "System",
+            "text": "Concentrate for one turn and gesture subtly at a vampire in sight. A win increases their Hunger by 1; a critical by 2. If able to see the user, the victim can identify the aggressor with Intelligence + Occult opposed by Wits + Subterfuge."
+          },
+          {
+            "title": "Duration",
+            "text": "Not applicable."
+          },
+          {
+            "title": "Learning and rituals",
+            "text": "Blood Sorcery requires teachers and grants access to Rituals up to the user’s Discipline rating. Ghouls and thin-bloods with temporary powers do not gain Rituals. At creation, at least one dot grants one level 1 Ritual. Each new Ritual costs its level × 3 XP and takes at least level squared weeks to learn."
+          }
+        ]
+      }
+    }
+  ]
+}

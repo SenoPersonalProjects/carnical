@@ -1,0 +1,100 @@
+{
+  "id": "cauldron-blood",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Caldeirão de Sangue",
+    "en": "Cauldron of Blood"
+  },
+  "aliases": [
+    "Caldeirão de Sangue",
+    "Cauldron of Blood"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "cauldron-blood-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Ferve o sangue dentro das veias da vítima, causando dor e destruição extremas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue e uma ou mais Máculas."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Feitiçaria de Sangue contra Autocontrole + Ocultismo; vampiros podem substituir Ocultismo por Fortitude."
+          },
+          {
+            "title": "Sistema",
+            "text": "Pague o custo e toque a vítima, com Destreza + Atletismo em combate ou situação semelhante. Cada ponto de margem do conflito causa 1 dano agravado. Mortal que sofre ao menos 1 dano morre. Vampiros ganham 1 Fome por dano causado, até Fome 5."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno."
+          },
+          {
+            "title": "Aprendizado e Rituais",
+            "text": "Feitiçaria de Sangue exige professores e permite aprender Rituais até o nível da Disciplina. Carniçais e sangues-ralos com poderes temporários não recebem Rituais. Na criação, ao menos um ponto concede um Ritual de nível 1. Cada novo Ritual custa nível × 3 XP e exige no mínimo o quadrado do nível em semanas de aprendizado."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Boils blood within the victim’s veins, causing extreme pain and destruction."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check and one or more Stains."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Blood Sorcery opposed by Composure + Occult; vampires may replace Occult with Fortitude."
+          },
+          {
+            "title": "System",
+            "text": "Pay the cost and touch the victim, using Dexterity + Athletics in combat or similar circumstances. Each point of contest margin inflicts 1 Aggravated damage. A mortal suffering at least 1 damage dies. Vampires gain 1 Hunger per damage inflicted, up to Hunger 5."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn."
+          },
+          {
+            "title": "Learning and rituals",
+            "text": "Blood Sorcery requires teachers and grants access to Rituals up to the user’s Discipline rating. Ghouls and thin-bloods with temporary powers do not gain Rituals. At creation, at least one dot grants one level 1 Ritual. Each new Ritual costs its level × 3 XP and takes at least level squared weeks to learn."
+          }
+        ]
+      }
+    }
+  ]
+}

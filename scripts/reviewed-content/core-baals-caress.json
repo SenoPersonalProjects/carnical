@@ -1,0 +1,105 @@
+{
+  "id": "baals-caress",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Carícia de Baal",
+    "en": "Baal’s Caress"
+  },
+  "aliases": [
+    "Carícia de Baal",
+    "Baal’s Caress",
+    "Baal's Caress"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "baals-caress-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 273, 274",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 275,
+          "printedPage": 273
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Transforma o Sangue em veneno letal para mortais e Membros, usando o processo e as restrições de Picada de Escorpião."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um ou mais Testes de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Após acertar, Força + Feitiçaria de Sangue contra Vigor + Ocultismo; vampiros podem substituir Ocultismo por Fortitude."
+          },
+          {
+            "title": "Sistema",
+            "text": "Concentre-se por um turno e faça Sangue sair por ferida aberta, normalmente autoinfligida. Cada Teste de Sangue produz em um turno veneno para uma lâmina de Armas Brancas ou uma boca cheia para cuspir. Cuspir exige Destreza + Atletismo, com esquiva como ataque à distância; contato por beijo também é possível. Beber o veneno diretamente da veia transmite seus efeitos, inclusive contra diableristas. É veneno de contato que se perde em líquidos e é viscoso demais para seringa: não envenena bebidas nem é injetado por mordida. Flechas e balas levam quantidade insuficiente; dura pouco demais para preparar balas ocas. Vitória no conflito do veneno causa a margem em dano agravado à Vitalidade tanto em mortais quanto em vampiros. Mortal que sofra ao menos 1 dano morre instantaneamente. Se causar dano agravado a vampiro, repita o conflito; outra vitória faz a vítima entrar em Torpor na próxima vez que dormir."
+          },
+          {
+            "title": "Duração",
+            "text": "O veneno permanece ativo por uma cena."
+          },
+          {
+            "title": "Aprendizado e Rituais",
+            "text": "Feitiçaria de Sangue exige professores e permite aprender Rituais até o nível da Disciplina. Carniçais e sangues-ralos com poderes temporários não recebem Rituais. Na criação, ao menos um ponto concede um Ritual de nível 1. Cada novo Ritual custa nível × 3 XP e exige no mínimo o quadrado do nível em semanas de aprendizado."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Transforms Blood into venom lethal to mortals and Kindred, using Scorpion’s Touch’s process and restrictions."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One or more Rouse Checks."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "After hitting, Strength + Blood Sorcery opposed by Stamina + Occult; vampires may replace Occult with Fortitude."
+          },
+          {
+            "title": "System",
+            "text": "Concentrate for one turn and force Blood through an open wound, usually self-inflicted. Each Rouse Check produces in one turn enough venom for a Melee blade or a mouthful to spit. Spitting uses Dexterity + Athletics and can be dodged as a ranged attack; contact through a kiss is also possible. Drinking directly from the vein transmits its effects, including against diablerists. It is a contact poison that dissipates in liquids and is too viscous for a syringe: it cannot poison drinks or be injected by a bite. Arrows and bullets carry too little; it lasts too briefly to prepare hollow bullets. Winning the venom contest inflicts the margin as Aggravated Health damage on both mortals and vampires. A mortal suffering at least 1 damage dies instantly. If a vampire takes Aggravated damage, repeat the contest; another win puts the victim into torpor the next time they sleep."
+          },
+          {
+            "title": "Duration",
+            "text": "The venom remains active for one scene."
+          },
+          {
+            "title": "Learning and rituals",
+            "text": "Blood Sorcery requires teachers and grants access to Rituals up to the user’s Discipline rating. Ghouls and thin-bloods with temporary powers do not gain Rituals. At creation, at least one dot grants one level 1 Ritual. Each new Ritual costs its level × 3 XP and takes at least level squared weeks to learn."
+          }
+        ]
+      }
+    }
+  ]
+}

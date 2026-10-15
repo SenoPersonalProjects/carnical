@@ -9,7 +9,7 @@ const {POWER_CATALOG}=load("app/game-rules.ts"),{powersForSources,powerEligibili
 const catalog=load("app/content/catalog.json").entries,sources=new Set([sourcebookForLibraryId("core-v5")]),powers=powersForSources(POWER_CATALOG,sources);
 const previous=JSON.parse(execFileSync("git",["show","baa6fdb:app/content/catalog.json"],{encoding:"utf8",maxBuffer:20e6})).entries;
 for(const old of previous)assert.deepEqual(catalog.find(e=>e.id===old.id),old,old.id);
-const added=catalog.filter(e=>!previous.some(old=>old.id===e.id));assert.equal(added.length,33);
+const added=catalog.filter(e=>e.kind==="power"&&["Ofuscação","Potência","Presença","Proteanismo"].includes(e.discipline)&&!previous.some(old=>old.id===e.id));assert.equal(added.length,33);
 for(const [discipline,count] of [["Ofuscação",8],["Potência",9],["Presença",9],["Proteanismo",7]])assert.equal(added.filter(e=>e.discipline===discipline).length,count);
 assert.ok(!catalog.some(e=>e.id==="conceal"),"Conceal translation is awaiting clarification");
 for(const entry of added){

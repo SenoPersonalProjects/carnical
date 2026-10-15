@@ -1,0 +1,80 @@
+{
+  "id": "resilience",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Resiliência",
+    "en": "Resilience"
+  },
+  "aliases": [
+    "Resiliência",
+    "Resilience"
+  ],
+  "discipline": "Fortitude",
+  "level": 1,
+  "versions": [
+    {
+      "id": "resilience-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 258",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 260,
+          "printedPage": 258
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Resistência sobrenatural fortalece a capacidade de suportar ferimentos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Adicione Fortitude à trilha de Vitalidade."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Supernatural endurance increases the capacity to withstand injury."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Add Fortitude to the Health track."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          }
+        ]
+      }
+    }
+  ]
+}

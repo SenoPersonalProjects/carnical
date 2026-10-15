@@ -1,0 +1,88 @@
+{
+  "id": "defy-bane",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Desafio à Perdição",
+    "en": "Defy Bane"
+  },
+  "aliases": [
+    "Desafio à Perdição",
+    "Defy Bane"
+  ],
+  "discipline": "Fortitude",
+  "level": 3,
+  "versions": [
+    {
+      "id": "defy-bane-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 259",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 261,
+          "printedPage": 259
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Resiste temporariamente a fogo, luz solar e outras fontes de dano agravado."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue; pode renovar o poder esgotado com outro Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Sobrevivência, Dificuldade 3, para ativar como reflexo ao sofrer dano agravado inesperado. Falha não ativa; sucesso exige pagar o Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Converta dano agravado em superficial até um total igual à Fortitude por ativação durante a cena, não por ataque ou ferimento. O dano convertido não pode ser curado no restante da cena. Exemplo: Fortitude 3 pode converter 2 pontos num ataque e mais 1 depois, esgotando a proteção."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até esgotar a proteção, o que ocorrer primeiro."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Temporarily resists fire, sunlight and other sources of Aggravated damage."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check; an exhausted power can be renewed with another Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Wits + Survival, Difficulty 3, to activate reflexively against unexpected Aggravated damage. Failure does not activate it; success requires paying the Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Convert Aggravated damage to Superficial up to a total equal to Fortitude per activation during the scene, not per attack or injury. Converted damage cannot be mended for the rest of the scene. For example, Fortitude 3 can convert 2 points from one attack and 1 later, exhausting protection."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until protection is exhausted, whichever comes first."
+          }
+        ]
+      }
+    }
+  ]
+}

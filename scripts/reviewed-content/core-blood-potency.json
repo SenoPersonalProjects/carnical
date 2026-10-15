@@ -1,0 +1,100 @@
+{
+  "id": "blood-potency",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Sangue Potente",
+    "en": "Blood of Potency"
+  },
+  "aliases": [
+    "Sangue Potente",
+    "Blood of Potency"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "blood-potency-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 273",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 275,
+          "printedPage": 273
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Concentra o Sangue para aumentar temporariamente sua Potência."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Feitiçaria de Sangue, Dificuldade 2 + Potência de Sangue atual."
+          },
+          {
+            "title": "Sistema",
+            "text": "Vitória aumenta a Potência em 1; crítico, em 2. Pode ultrapassar o limite de Potência da geração enquanto durar."
+          },
+          {
+            "title": "Duração",
+            "text": "A linha de Duração do PDF diz “Uma cena ou uma noite”; o parágrafo de Sistema diz “naquela cena”. A divergência é preservada para consulta à fonte, sem fixar uma duração alternativa automaticamente."
+          },
+          {
+            "title": "Aprendizado e Rituais",
+            "text": "Feitiçaria de Sangue exige professores e permite aprender Rituais até o nível da Disciplina. Carniçais e sangues-ralos com poderes temporários não recebem Rituais. Na criação, ao menos um ponto concede um Ritual de nível 1. Cada novo Ritual custa nível × 3 XP e exige no mínimo o quadrado do nível em semanas de aprendizado."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Concentrates the Blood to temporarily increase Blood Potency."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Blood Sorcery, Difficulty 2 + current Blood Potency."
+          },
+          {
+            "title": "System",
+            "text": "A win increases Potency by 1; a critical by 2. May exceed the generation’s Blood Potency limit while active."
+          },
+          {
+            "title": "Duration",
+            "text": "The supplied PDF’s Duration line says “one scene or one night”; its System paragraph says “for that scene.” This discrepancy is preserved for source consultation, without automatically selecting an alternative duration."
+          },
+          {
+            "title": "Learning and rituals",
+            "text": "Blood Sorcery requires teachers and grants access to Rituals up to the user’s Discipline rating. Ghouls and thin-bloods with temporary powers do not gain Rituals. At creation, at least one dot grants one level 1 Ritual. Each new Ritual costs its level × 3 XP and takes at least level squared weeks to learn."
+          }
+        ]
+      }
+    }
+  ]
+}

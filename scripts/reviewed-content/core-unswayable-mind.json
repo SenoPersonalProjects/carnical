@@ -1,0 +1,80 @@
+{
+  "id": "unswayable-mind",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Mente Inescrutável",
+    "en": "Unswayable Mind"
+  },
+  "aliases": [
+    "Mente Inescrutável",
+    "Unswayable Mind"
+  ],
+  "discipline": "Fortitude",
+  "level": 1,
+  "versions": [
+    {
+      "id": "unswayable-mind-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 258",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 260,
+          "printedPage": 258
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Resiste a encantos, coerção e artimanhas com calma ou obstinação sobrenatural."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Some Fortitude a todas as rolagens para resistir a coerção, intimidação, sedução ou outra tentativa de influenciá-lo contra a vontade. Também funciona contra poderes como Dominação e Presença."
+          },
+          {
+            "title": "Duração",
+            "text": "Passiva."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Resists charm, coercion and trickery with supernatural calm or stubbornness."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free."
+          },
+          {
+            "title": "System",
+            "text": "Add Fortitude to all rolls resisting coercion, intimidation, seduction or other attempts to influence you against your will. Also works against powers such as Dominate and Presence."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive."
+          }
+        ]
+      }
+    }
+  ]
+}

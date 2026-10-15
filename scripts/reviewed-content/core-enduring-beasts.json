@@ -1,0 +1,89 @@
+{
+  "id": "enduring-beasts",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Feras Tenazes",
+    "en": "Enduring Beasts"
+  },
+  "aliases": [
+    "Feras Tenazes",
+    "Enduring Beasts"
+  ],
+  "discipline": "Fortitude",
+  "level": 2,
+  "versions": [
+    {
+      "id": "enduring-beasts-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 258",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 260,
+          "printedPage": 258
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 2,
+          "Animalismo": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Compartilha resistência com animais afetados por seu Animalismo, de enxames a grandes feras."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 2 e Animalismo 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito e automático no próprio fâmulo; um Teste de Sangue para outros animais."
+          },
+          {
+            "title": "Parada",
+            "text": "Vigor + Animalismo, Dificuldade 3, para animais que não sejam o próprio fâmulo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Cada animal recebe Vitalidade adicional igual à Fortitude do usuário. Fora o fâmulo, pode fortalecer um animal por ponto de margem. Ao terminar, remova primeiro caixas sem dano; a redução pode matar o animal."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Shares endurance with animals affected by the user’s Animalism, from swarms to large beasts."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 2 and Animalism 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free and automatic on your own famulus; one Rouse Check for other animals."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Stamina + Animalism, Difficulty 3, for animals other than your own famulus."
+          },
+          {
+            "title": "System",
+            "text": "Each animal gains additional Health equal to the user’s Fortitude. Outside the famulus, fortify one animal per point of margin. When it ends, remove undamaged boxes first; the reduction can kill the animal."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          }
+        ]
+      }
+    }
+  ]
+}

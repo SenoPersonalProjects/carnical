@@ -1,0 +1,84 @@
+{
+  "id": "toughness",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Tenacidade",
+    "en": "Toughness"
+  },
+  "aliases": [
+    "Tenacidade",
+    "Toughness"
+  ],
+  "discipline": "Fortitude",
+  "level": 2,
+  "versions": [
+    {
+      "id": "toughness-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 258, 259",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 260,
+          "printedPage": 258
+        },
+        {
+          "pdfPage": 261,
+          "printedPage": 259
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Ignora parte de ferimentos superficiais, sem proteger diretamente contra dano agravado."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Subtraia Fortitude de todo dano superficial sofrido, antes de reduzir à metade. Essa subtração não pode reduzir o dano a menos de 1."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Ignores part of superficial injuries without directly protecting against Aggravated damage."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Subtract Fortitude from all Superficial damage suffered before halving it. This subtraction cannot reduce damage below 1."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          }
+        ]
+      }
+    }
+  ]
+}

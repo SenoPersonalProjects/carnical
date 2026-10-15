@@ -9253,6 +9253,474 @@
           }
         }
       ]
+    },
+    {
+      "id": "baals-caress",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Carícia de Baal",
+        "en": "Baal’s Caress"
+      },
+      "aliases": [
+        "Carícia de Baal",
+        "Baal’s Caress",
+        "Baal's Caress"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "baals-caress-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 273, 274",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "blood-potency",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Sangue Potente",
+        "en": "Blood of Potency"
+      },
+      "aliases": [
+        "Sangue Potente",
+        "Blood of Potency"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "blood-potency-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 273",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cauldron-blood",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Caldeirão de Sangue",
+        "en": "Cauldron of Blood"
+      },
+      "aliases": [
+        "Caldeirão de Sangue",
+        "Cauldron of Blood"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "cauldron-blood-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "corrosive-vitae",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Vitae Corrosivo",
+        "en": "Corrosive Vitae"
+      },
+      "aliases": [
+        "Vitae Corrosivo",
+        "Corrosive Vitae"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "corrosive-vitae-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 273",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "defy-bane",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Desafio à Perdição",
+        "en": "Defy Bane"
+      },
+      "aliases": [
+        "Desafio à Perdição",
+        "Defy Bane"
+      ],
+      "discipline": "Fortitude",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "defy-bane-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 259",
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "draught-endurance",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Resistência Direto da Fonte",
+        "en": "Draught of Endurance"
+      },
+      "aliases": [
+        "Resistência Direto da Fonte",
+        "Draught of Endurance"
+      ],
+      "discipline": "Fortitude",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "draught-endurance-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 259",
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "enduring-beasts",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Feras Tenazes",
+        "en": "Enduring Beasts"
+      },
+      "aliases": [
+        "Feras Tenazes",
+        "Enduring Beasts"
+      ],
+      "discipline": "Fortitude",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "enduring-beasts-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 258",
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 2,
+              "Animalismo": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "extinguish-vitae",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Extinguir Vitae",
+        "en": "Extinguish Vitae"
+      },
+      "aliases": [
+        "Extinguir Vitae",
+        "Extinguish Vitae"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "extinguish-vitae-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 273",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "flesh-marble",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Pele de Mármore",
+        "en": "Flesh of Marble"
+      },
+      "aliases": [
+        "Pele de Mármore",
+        "Flesh of Marble"
+      ],
+      "discipline": "Fortitude",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "flesh-marble-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 259",
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "prowess-pain",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Poder Vindo da Dor",
+        "en": "Prowess from Pain"
+      },
+      "aliases": [
+        "Poder Vindo da Dor",
+        "Prowess from Pain"
+      ],
+      "discipline": "Fortitude",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "prowess-pain-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 260",
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "resilience",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Resiliência",
+        "en": "Resilience"
+      },
+      "aliases": [
+        "Resiliência",
+        "Resilience"
+      ],
+      "discipline": "Fortitude",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "resilience-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 258",
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "scorpions-touch",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Picada de Escorpião",
+        "en": "Scorpion’s Touch"
+      },
+      "aliases": [
+        "Picada de Escorpião",
+        "Scorpion’s Touch",
+        "Scorpion's Touch"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "scorpions-touch-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 273",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "taste-blood",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Um Gosto por Sangue",
+        "en": "A Taste for Blood"
+      },
+      "aliases": [
+        "Um Gosto por Sangue",
+        "A Taste for Blood",
+        "Taste for Blood"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "taste-blood-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "theft-vitae",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Roubo de Vitae",
+        "en": "Theft of Vitae"
+      },
+      "aliases": [
+        "Roubo de Vitae",
+        "Theft of Vitae"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "theft-vitae-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 272, 274",
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "toughness",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Tenacidade",
+        "en": "Toughness"
+      },
+      "aliases": [
+        "Tenacidade",
+        "Toughness"
+      ],
+      "discipline": "Fortitude",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "toughness-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 258, 259",
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "unswayable-mind",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mente Inescrutável",
+        "en": "Unswayable Mind"
+      },
+      "aliases": [
+        "Mente Inescrutável",
+        "Unswayable Mind"
+      ],
+      "discipline": "Fortitude",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "unswayable-mind-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 258",
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 1
+            }
+          }
+        }
+      ]
     }
   ]
 }

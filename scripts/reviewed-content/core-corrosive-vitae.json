@@ -1,0 +1,92 @@
+{
+  "id": "corrosive-vitae",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Vitae Corrosivo",
+    "en": "Corrosive Vitae"
+  },
+  "aliases": [
+    "Vitae Corrosivo",
+    "Corrosive Vitae"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "corrosive-vitae-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 273",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 275,
+          "printedPage": 273
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Torna uma porção de Vitae corrosiva contra matéria inanimada, exceto carne não viva como a vampírica."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um ou mais Testes de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sem teste adicional de Habilidade. Concentre-se por um turno e faça o Sangue sair por ferida aberta, normalmente autoinfligida, derramando-o no objeto. Cada Teste de Sangue corrói aproximadamente 35 cm em todas as direções a partir do impacto, conforme a medida impressa no PDF fornecido. Leva cerca de cinco minutos, mais em metais como cobre ou ferro fundido. Ligas duras e aço ficam marcados e afinados; o Narrador decide se enfraquecem significativamente. Com tempo e Vitae, pode corroer correntes de algemas."
+          },
+          {
+            "title": "Duração",
+            "text": "Não aplicável."
+          },
+          {
+            "title": "Aprendizado e Rituais",
+            "text": "Feitiçaria de Sangue exige professores e permite aprender Rituais até o nível da Disciplina. Carniçais e sangues-ralos com poderes temporários não recebem Rituais. Na criação, ao menos um ponto concede um Ritual de nível 1. Cada novo Ritual custa nível × 3 XP e exige no mínimo o quadrado do nível em semanas de aprendizado."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Makes a portion of Vitae corrosive to inanimate matter, except unliving flesh such as vampire flesh."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One or more Rouse Checks."
+          },
+          {
+            "title": "System",
+            "text": "No additional Skill roll. Concentrate for one turn and force Blood through an open wound, usually self-inflicted, onto the object. Each Rouse Check corrodes approximately 35 cm in every direction from the impact, as printed in the supplied Portuguese PDF. Takes about five minutes, longer for metals such as copper or cast iron. Hard alloys and steel are scarred and thinned; the Storyteller decides whether significantly weakened. With time and Vitae, handcuff chains can be dissolved."
+          },
+          {
+            "title": "Duration",
+            "text": "Not applicable."
+          },
+          {
+            "title": "Learning and rituals",
+            "text": "Blood Sorcery requires teachers and grants access to Rituals up to the user’s Discipline rating. Ghouls and thin-bloods with temporary powers do not gain Rituals. At creation, at least one dot grants one level 1 Ritual. Each new Ritual costs its level × 3 XP and takes at least level squared weeks to learn."
+          }
+        ]
+      }
+    }
+  ]
+}

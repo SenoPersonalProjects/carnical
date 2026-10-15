@@ -58,3 +58,23 @@ adversário. Nenhuma interpretação desses trechos foi publicada como regra.
 Geradores: `review-core-shadow-strength.py` e `review-core-presence-protean.py`.
 Verificação: `check-core-shadow-strength.mjs`, incluindo preservação das 249
 entradas publicadas anteriormente.
+
+## Terceiro bloco: 16 poderes
+
+PDF 260–262 e 274–276: oito de Fortitude (exceto Fortificar a Fachada Interior)
+e os oito poderes de Feitiçaria de Sangue. Preservam limites por cena, ordem de
+redução do dano, riscos dos animais fortalecidos, resistência com Fortitude,
+restrições de transmissão dos venenos e Torpor causado por Carícia de Baal.
+
+O exemplo de Poder Vindo da Dor usa a tabela oficial de Potência corrigida:
+Potência 3 dá Impulso 3, produzindo limite 9 pela fórmula Impulso + 6. O exemplo
+do PDF diz Impulso 2 e limite 9, apesar da incompatibilidade aritmética. O poder
+não foi automatizado. Sangue Potente preserva a divergência da própria fonte:
+o Sistema fala em cena e a linha de Duração diz “uma cena ou uma noite”.
+Vitae Corrosivo preserva os 35 cm efetivamente impressos no PDF recebido,
+explicitando a edição de origem dessa medida.
+
+Gerador: `review-core-fortitude-sorcery.py`. Verificação:
+`check-core-fortitude-sorcery.mjs`, incluindo preservação das 282 entradas
+anteriores. Este bloco não conclui o inventário de Rituais, fórmulas, Vantagens,
+Defeitos e demais opções do Livro Básico.

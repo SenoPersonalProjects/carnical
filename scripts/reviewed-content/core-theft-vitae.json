@@ -1,0 +1,100 @@
+{
+  "id": "theft-vitae",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Roubo de Vitae",
+    "en": "Theft of Vitae"
+  },
+  "aliases": [
+    "Roubo de Vitae",
+    "Theft of Vitae"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "theft-vitae-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 272, 274",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 272
+        },
+        {
+          "pdfPage": 276,
+          "printedPage": 274
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Abre misticamente uma artéria de mortal e leva o jato de sangue até a boca do usuário, subjugando-o como no Beijo. A ferida se fecha ao terminar, mesmo se a vítima morrer; o uso visível pode violar a Máscara."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Feitiçaria de Sangue contra Raciocínio + Ocultismo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Acene para mortal à vista e vença o conflito para alimentar-se do outro lado do aposento. Proteção que cubra o corpo inteiro, como traje contra riscos químicos e biológicos, retém o sangue dentro do traje enquanto o alvo fica em êxtase. O usuário não pode fazer outra ação enquanto se alimenta. A alimentação ocorre ao dobro da velocidade normal, ou triplo num crítico."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma alimentação."
+          },
+          {
+            "title": "Aprendizado e Rituais",
+            "text": "Feitiçaria de Sangue exige professores e permite aprender Rituais até o nível da Disciplina. Carniçais e sangues-ralos com poderes temporários não recebem Rituais. Na criação, ao menos um ponto concede um Ritual de nível 1. Cada novo Ritual custa nível × 3 XP e exige no mínimo o quadrado do nível em semanas de aprendizado."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Mystically opens a mortal artery and draws the blood stream into the user’s mouth, subduing the victim as with the Kiss. The wound closes when it ends even if the victim dies; visible use may violate the Masquerade."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Wits + Blood Sorcery opposed by Wits + Occult."
+          },
+          {
+            "title": "System",
+            "text": "Gesture at a mortal in sight and win the contest to feed across the room. Full-body protection such as a chemical or biological hazard suit keeps the blood inside while the target experiences ecstasy. The user can take no other action while feeding. Feeding occurs at twice normal speed, or three times on a critical."
+          },
+          {
+            "title": "Duration",
+            "text": "One feeding."
+          },
+          {
+            "title": "Learning and rituals",
+            "text": "Blood Sorcery requires teachers and grants access to Rituals up to the user’s Discipline rating. Ghouls and thin-bloods with temporary powers do not gain Rituals. At creation, at least one dot grants one level 1 Ritual. Each new Ritual costs its level × 3 XP and takes at least level squared weeks to learn."
+          }
+        ]
+      }
+    }
+  ]
+}

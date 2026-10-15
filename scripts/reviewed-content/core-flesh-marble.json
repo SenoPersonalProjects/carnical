@@ -1,0 +1,80 @@
+{
+  "id": "flesh-marble",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Pele de Mármore",
+    "en": "Flesh of Marble"
+  },
+  "aliases": [
+    "Pele de Mármore",
+    "Flesh of Marble"
+  ],
+  "discipline": "Fortitude",
+  "level": 5,
+  "versions": [
+    {
+      "id": "flesh-marble-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 259",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 261,
+          "printedPage": 259
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A pele ganha brilho de mármore e bloqueia golpes antes de romper-se momentaneamente e recompor-se."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Dois Testes de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ignore a primeira fonte de dano físico de cada turno, inclusive fogo, mas não luz solar. Em caso de dúvida sobre a primeira fonte, o Narrador decide pela narrativa ou ignora-se a única fonte de maior dano daquele turno. Uma vitória crítica numa rolagem de ataque supera a proteção."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The skin gains a marble sheen and stops blows before briefly breaking and reforming."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 5."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks."
+          },
+          {
+            "title": "System",
+            "text": "Ignore the first source of physical damage each turn, including fire but not sunlight. If the first source is unclear, the Storyteller decides from the narrative or ignores the single greatest damage source that turn. A critical win on an attack roll overcomes the protection."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          }
+        ]
+      }
+    }
+  ]
+}
