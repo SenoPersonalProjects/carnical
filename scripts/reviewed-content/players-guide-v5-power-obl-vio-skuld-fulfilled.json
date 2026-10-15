@@ -1,0 +1,105 @@
+{
+  "id": "players-guide-v5-power-obl-vio-skuld-fulfilled",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Destino de Skuld",
+    "en": "Skuld Fulfilled"
+  },
+  "aliases": [
+    "Destino de Skuld",
+    "Skuld Fulfilled"
+  ],
+  "discipline": "Oblívio",
+  "level": 5,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-obl-vio-skuld-fulfilled-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 93",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Faz retornar doenças curadas, fraturas consolidadas e a idade de carniçais protegidos pela vitae. Não funciona em vampiros e não exige contato com o alvo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Dois Testes de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Vigor + Oblívio contra Vigor × 2, ou Vigor + Fortitude para quem possui a Disciplina."
+          },
+          {
+            "title": "Sistema",
+            "text": "O usuário cobre ambas as palmas e o rosto com sangue, lembrando o rosto do alvo. Se vencer a disputa, uma condição grave que a vítima já sofreu e superou retorna imediatamente, com todos os efeitos debilitantes: câncer tratado, osso quebrado, doença ou mesmo Praga Necrótica. O Narrador define efeitos severos, podendo usar a tabela de ferimentos incapacitantes do Livro Básico inglês, p. 303.\n\nNum carniçal, remove a imunidade ao envelhecimento e elimina toda a vitae do organismo; carniçais antigos podem morrer ou desintegrar-se no local. Numa vitória crítica, o usuário pode matar o alvo parando seu coração. Numa falha total, o vampiro não pode voltar a usar este poder naquele indivíduo."
+          },
+          {
+            "title": "Duração",
+            "text": "Variável, conforme a condição possa ou não ser tratada."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This power enables a vampire to reintroduce illnesses to victims who recovered from them, break bones long-since healed, and revoke a ghoul’s immunity to aging. While this power doesn’t work on vampires, it is an effective way of cutting through their servants and ensuring debts to fate are repaid, without having to come into contact with the recipient."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 5."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Stamina + Oblivion vs. Stamina + Stamina or Fortitude"
+          },
+          {
+            "title": "System",
+            "text": "The vampire makes two Rouse Checks as they expend sufficient vitae to coat both their palms and their face with blood, recalling the faces of their targets. If the user succeeds in a contest of Stamina + Oblivion vs. the victim’s Stamina x 2 (those with Fortitude may resist with Stamina + Fortitude), the targeted individual is affected by a serious condition they’ve historically suffered and recovered from, such as treated cancer, a broken bone, or a disease — including one gained through Necrotic Plague (p. 90) — with any debilitating effects from this condition occurring immediately. The condition’s effects are for the Storyteller to determine, but they should be severe (See the Crippling Injuries table for inspiration, Vampire: The Masquerade, p. 303). If the victim is a ghoul, this power removes their immunity to aging and eliminates any vitae in their system, potentially resulting in older ghouls dying or even disintegrating where they stand. On a critical win, this power may kill the victim by stopping their heart completely if the user wishes. On a total failure, the vampire cannot use this power against that individual again."
+          },
+          {
+            "title": "Duration",
+            "text": "Variable, dependent on whether the condition is treatable"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

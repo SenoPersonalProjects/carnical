@@ -1,0 +1,149 @@
+{
+  "id": "clan-lasombra",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Lasombra",
+    "en": "Lasombra"
+  },
+  "aliases": [
+    "Lasombra",
+    "Magisters",
+    "Keepers"
+  ],
+  "versions": [
+    {
+      "id": "clan-lasombra-chicago-by-night-v5",
+      "book": "chicago-by-night-v5",
+      "sourceTitle": "Chicago by Night, PDF pp. 292, 293",
+      "pages": [
+        {
+          "pdfPage": 292,
+          "printedPage": 291
+        },
+        {
+          "pdfPage": 293,
+          "printedPage": 292
+        }
+      ],
+      "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+      "sourceLanguage": "en",
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Os Lasombra, também chamados de Magistrados ou Guardiões, cultivam excelência e ambição e procuram o poder político, religioso, financeiro ou pessoal. Preferem triunfar a simplesmente competir. Sua influência sobre vontades e sombras permite observar, subjugar, atacar e escapar."
+          },
+          {
+            "title": "Disciplinas",
+            "text": "Dominação, Oblívio e Potência. Dominação impõe obediência e altera memórias; Oblívio manipula sombras como armas, ferramentas, meios de observação e passagem; Potência concede força física sobrenatural."
+          },
+          {
+            "title": "Perdição",
+            "text": "Em reflexos ou gravações, ao vivo ou não, a imagem do Lasombra aparece distorcida e às vezes quase invisível. Quem conhece os sinais pode reconhecê-lo como vampiro; outros percebem algo errado e podem culpar a superfície ou a gravação. Isso não oculta sua identidade com segurança: ele pode ser identificado por câmeras tanto quanto qualquer outro vampiro.\n\nUsar tecnologia moderna de comunicação, inclusive uma ligação telefônica simples, exige um teste de Tecnologia com Dificuldade 2 + Gravidade da Perdição. Microfones têm problemas com sua voz, assim como câmeras com sua imagem. Evitar sistemas eletrônicos de detecção de vampiros sofre uma penalidade igual à Gravidade da Perdição."
+          },
+          {
+            "title": "Compulsão: Implacabilidade",
+            "text": "O Sangue trata fracassos como intoleráveis e impele o Lasombra a recorrer a métodos cada vez mais implacáveis. Na próxima vez em que falhar numa ação, sofre uma penalidade de dois dados em todos os testes até obter sucesso numa nova tentativa da mesma ação. A penalidade também vale para as novas tentativas da própria ação que a desencadeou."
+          },
+          {
+            "title": "Tecnologia e interpretação",
+            "text": "Telas sensíveis ao toque, comandos de voz e canetas eletrônicas podem falhar ou funcionar de forma irregular para os Lasombra. É comum recrutar mortais ou criar carniçais para lidar com chamadas, transporte e tarefas semelhantes. O texto descreve essa interação problemática; não acrescenta um teste numérico além das regras da Perdição acima."
+          },
+          {
+            "title": "Diferença entre fontes",
+            "text": "Nesta versão de Chicago, o texto não encerra automaticamente a Compulsão ao fim da cena. O Guia do Jogador inclui esse encerramento; consulte a versão usada pela crônica."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The Lasombra, also called Magisters or Keepers, cultivate excellence and ambition in political, religious, financial or personal power. They value victory over merely competing. Their influence over wills and shadows lets them observe, subjugate, strike and escape."
+          },
+          {
+            "title": "Disciplines",
+            "text": "Dominate, Oblivion and Potence. Dominate commands obedience and alters memories; Oblivion manipulates shadows as weapons, tools and means of observation or travel; Potence grants supernatural physical strength."
+          },
+          {
+            "title": "Bane",
+            "text": "A Lasombra’s reflection or recording, live or otherwise, is distorted and sometimes almost invisible. A viewer familiar with the signs can recognize the vampire; an uninformed viewer notices something wrong and may blame the reflective surface or recording. This does not reliably conceal identity: surveillance can catch a Lasombra as readily as any other vampire.\n\nUsing modern communication technology, including a simple phone call, requires a Technology test at Difficulty 2 + Bane Severity. Microphones have problems with their voice as cameras do with their image. Avoiding electronic vampire detection systems takes a penalty equal to Bane Severity."
+          },
+          {
+            "title": "Compulsion: Ruthlessness",
+            "text": "Failure is intolerable and the Blood urges increasingly ruthless methods. The next time the vampire fails an action, they take a two-dice penalty to every roll until a later attempt at that same action succeeds. The penalty also applies to later attempts at the triggering action itself."
+          },
+          {
+            "title": "Technology and portrayal",
+            "text": "Touchscreens, voice activation and styluses can glitch or respond unreliably to Lasombra. Many recruit mortals or enthrall ghouls to handle calls, transportation and similar tasks. The text describes unreliable interaction; it does not establish an additional numerical test beyond the Bane rules above."
+          },
+          {
+            "title": "Edition difference",
+            "text": "Chicago does not state that this Compulsion automatically ends with the scene. The Player’s Guide adds that endpoint; use the version selected for the chronicle."
+          }
+        ]
+      }
+    },
+    {
+      "id": "clan-lasombra-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 31, 32",
+      "pages": [
+        {
+          "pdfPage": 31,
+          "printedPage": 29
+        },
+        {
+          "pdfPage": 32,
+          "printedPage": 30
+        }
+      ],
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "sourceLanguage": "en",
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Os Lasombra, também chamados de Magistrados ou Guardiões, cultivam excelência e ambição e procuram o poder político, religioso, financeiro ou pessoal. Preferem triunfar a simplesmente competir. Sua influência sobre vontades e sombras permite observar, subjugar, atacar e escapar."
+          },
+          {
+            "title": "Disciplinas",
+            "text": "Dominação, Oblívio e Potência. Dominação impõe obediência e altera memórias; Oblívio manipula sombras como armas, ferramentas, meios de observação e passagem; Potência concede força física sobrenatural."
+          },
+          {
+            "title": "Perdição",
+            "text": "Em reflexos ou gravações, ao vivo ou não, a imagem do Lasombra aparece distorcida e às vezes quase invisível. Quem conhece os sinais pode reconhecê-lo como vampiro; outros percebem algo errado e podem culpar a superfície ou a gravação. Isso não oculta sua identidade com segurança: ele pode ser identificado por câmeras tanto quanto qualquer outro vampiro.\n\nUsar tecnologia moderna de comunicação, inclusive uma ligação telefônica simples, exige um teste de Tecnologia com Dificuldade 2 + Gravidade da Perdição. Microfones têm problemas com sua voz, assim como câmeras com sua imagem. Evitar sistemas eletrônicos de detecção de vampiros sofre uma penalidade igual à Gravidade da Perdição."
+          },
+          {
+            "title": "Compulsão: Implacabilidade",
+            "text": "O Sangue trata fracassos como intoleráveis e impele o Lasombra a recorrer a métodos cada vez mais implacáveis. Na próxima vez em que falhar numa ação, sofre uma penalidade de dois dados em todos os testes até obter sucesso numa nova tentativa da mesma ação ou a cena terminar. A penalidade também vale para as novas tentativas da própria ação que a desencadeou."
+          },
+          {
+            "title": "Tecnologia e interpretação",
+            "text": "Telas sensíveis ao toque, comandos de voz e canetas eletrônicas podem falhar ou funcionar de forma irregular para os Lasombra. É comum recrutar mortais ou criar carniçais para lidar com chamadas, transporte e tarefas semelhantes. O texto descreve essa interação problemática; não acrescenta um teste numérico além das regras da Perdição acima."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The Lasombra, also called Magisters or Keepers, cultivate excellence and ambition in political, religious, financial or personal power. They value victory over merely competing. Their influence over wills and shadows lets them observe, subjugate, strike and escape."
+          },
+          {
+            "title": "Disciplines",
+            "text": "Dominate, Oblivion and Potence. Dominate commands obedience and alters memories; Oblivion manipulates shadows as weapons, tools and means of observation or travel; Potence grants supernatural physical strength."
+          },
+          {
+            "title": "Bane",
+            "text": "A Lasombra’s reflection or recording, live or otherwise, is distorted and sometimes almost invisible. A viewer familiar with the signs can recognize the vampire; an uninformed viewer notices something wrong and may blame the reflective surface or recording. This does not reliably conceal identity: surveillance can catch a Lasombra as readily as any other vampire.\n\nUsing modern communication technology, including a simple phone call, requires a Technology test at Difficulty 2 + Bane Severity. Microphones have problems with their voice as cameras do with their image. Avoiding electronic vampire detection systems takes a penalty equal to Bane Severity."
+          },
+          {
+            "title": "Compulsion: Ruthlessness",
+            "text": "Failure is intolerable and the Blood urges increasingly ruthless methods. The next time the vampire fails an action, they take a two-dice penalty to every roll until a later attempt at that same action succeeds or the scene ends. The penalty also applies to later attempts at the triggering action itself."
+          },
+          {
+            "title": "Technology and portrayal",
+            "text": "Touchscreens, voice activation and styluses can glitch or respond unreliably to Lasombra. Many recruit mortals or enthrall ghouls to handle calls, transportation and similar tasks. The text describes unreliable interaction; it does not establish an additional numerical test beyond the Bane rules above."
+          }
+        ]
+      }
+    }
+  ]
+}

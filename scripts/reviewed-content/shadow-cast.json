@@ -1,0 +1,174 @@
+{
+  "id": "shadow-cast",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Projetar Sombra",
+    "en": "Shadow Cast"
+  },
+  "aliases": [
+    "Projetar Sombra",
+    "Shadow Cast"
+  ],
+  "discipline": "Oblívio",
+  "level": 2,
+  "versions": [
+    {
+      "id": "shadow-cast-chicago-by-night-v5",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "sourceTitle": "Chicago by Night, PDF pp. 294, 295",
+      "pages": [
+        {
+          "pdfPage": 294,
+          "printedPage": 293
+        },
+        {
+          "pdfPage": 295,
+          "printedPage": 294
+        }
+      ],
+      "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+      "sourceLanguage": "en",
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A ausência de sombras pode frustrar Oblívio. Este poder projeta a escuridão interior do vampiro como uma sombra sobrenatural, da qual outros poderes podem se manifestar, independentemente da iluminação ambiente. Ela normalmente acompanha a forma e os movimentos do usuário, mas pode ficar distorcida ou monstruosa conforme seu temperamento."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "A sombra surge do corpo do vampiro e só pode ser removida por luz solar direta enquanto o poder durar. Uma testemunha percebe que ela não corresponde a uma fonte de luz visível com Raciocínio + Percepção, Dificuldade 3. O usuário pode alongá-la e distorcê-la, mas não separá-la de si; a critério do Narrador, às vezes ela age por conta própria. Para outros poderes, como Perspectiva Sombria, pode atingir até duas vezes o nível de Oblívio do usuário em metros. Quem estiver ao alcance dessa sombra sofre mais um ponto de dano à Força de Vontade proveniente de conflito social."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Oblivion is powerful but can often be foiled by the simple lack of appropriate shadows from which to summon it. This power draws upon the darkness within the user to project a supernatural shadow from which to manifest other powers, no matter the ambient lightning. This shadow usually mimics the movement and shape of the user but can sometimes grow distorted and even\n\nmonstrous, resonating with the current temperament of its owner."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "Activating the power conjures a supernatural shadow from the vampire’s body. As long as the power is active, the user casts this shadow, which cannot be removed except by direct sunlight. Anyone witnessing the practitioner notices the shadow cast from no visible light source on a Wits + Awareness roll (Difficulty 3). The vampire can direct their shadow, elongating or distorting (but not detaching) it at will, though it can sometimes act on its own accord, at the Storyteller’s discretion. For the purposes of other powers such as Shadow Perspective, the shadow can be lengthened to up to twice the practitioner’s Oblivion rating in yards/meters. For anyone stood within the shadow’s reach, the Willpower damage from social conflict increases by 1. Standing in a Oblivion’s shadow is a terrifying prospect."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "shadow-cast-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 89",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 89,
+          "printedPage": 87
+        }
+      ],
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "sourceLanguage": "en",
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A ausência de sombras pode frustrar Oblívio. Este poder projeta a escuridão interior do vampiro como uma sombra sobrenatural, da qual outros poderes podem se manifestar, independentemente da iluminação ambiente. Ela normalmente acompanha a forma e os movimentos do usuário, mas pode ficar distorcida ou monstruosa conforme seu temperamento."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "A sombra surge do corpo do vampiro e só pode ser removida por luz solar direta enquanto o poder durar. Uma testemunha percebe que ela não corresponde a uma fonte de luz visível com Raciocínio + Percepção, Dificuldade 3. O usuário pode alongá-la e distorcê-la, mas não separá-la de si; a critério do Narrador, às vezes ela age por conta própria. Para outros poderes, como Perspectiva Sombria, pode atingir até duas vezes o nível de Oblívio do usuário em metros. Quem estiver ao alcance dessa sombra sofre mais um ponto de dano à Força de Vontade proveniente de conflito social. Nesta edição, acrescente esse ponto depois de reduzir pela metade o dano superficial."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Oblivion is powerful but can often be foiled by the simple lack of appropriate shadows from which to summon its manifestations. This power draws upon the dark within the user to project a supernatural shadow from which to manifest other powers, no matter the ambient lightning. This shadow usually mimics the movement and shape of the user but can sometimes grow distorted and even monstrous, resonating with the current temperament of its owner."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "Activating the power conjures a supernatural shadow from the vampire’s body. As long as the power is active, the user casts this shadow, which cannot be removed except by direct sunlight. Anyone witnessing the practitioner notices the shadow cast from no visible light source on a Wits + Awareness roll (Difficulty 3). The vampire can direct their shadow, elongating or distorting (but not detaching) it at will, though it can sometimes act on its own accord, at the Storyteller’s discretion. For the purposes of other powers such as Shadow Perspective, the practitioner can lengthen the shadow to up to twice the practitioner’s Oblivion rating in yards/meters. For anyone standing within the shadow’s reach, the Willpower damage from social conflict increases by 1 (after halving for Superficial damage). Standing in Oblivion’s shadow is a terrifying prospect."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

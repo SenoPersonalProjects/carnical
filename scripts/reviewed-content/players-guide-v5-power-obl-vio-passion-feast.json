@@ -1,0 +1,110 @@
+{
+  "id": "players-guide-v5-power-obl-vio-passion-feast",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Banquete de Paixões",
+    "en": "Passion Feast"
+  },
+  "aliases": [
+    "Banquete de Paixões",
+    "Passion Feast"
+  ],
+  "discipline": "Oblívio",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-obl-vio-passion-feast-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 90, 91",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 90,
+          "printedPage": 88
+        },
+        {
+          "pdfPage": 91,
+          "printedPage": 89
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 3,
+          "Fortitude": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite subsistir das paixões de aparições em vez de sangue, seja para permanecer no mundo dos mortos, seja para atormentar um espírito."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 3. Amálgama: Fortitude 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Oblívio contra Determinação + Autocontrole da aparição."
+          },
+          {
+            "title": "Sistema",
+            "text": "A até três metros da aparição, o vampiro disputa as paradas indicadas. Se vencer, causa um dano agravado à Força de Vontade da aparição e reduz sua própria Fome em um. O Narrador pode atribuir uma Mácula: consumir a paixão enfraquece a razão de existir do espírito e pode levá-lo à autodestruição. O Narrador determina quantas paixões a aparição possui; cinco ou mais são raras. Quando todas são consumidas, pode decidir que o espírito se torna um espectro assassino e incontrolável."
+          },
+          {
+            "title": "Duração",
+            "text": "Passivo."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "When a vampire needs to spend an extended period in the lands of the dead, or wishes to torment a spirit, this Oblivion power allows them to subsist on the passions of wraiths rather than blood. An accomplished necromancer can feed on these passions, enabling them to go without blood for longer than their fellow Kindred."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 3. Amalgam: Fortitude 2."
+          },
+          {
+            "title": "Cost",
+            "text": "Free"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Resolve + Oblivion vs. Resolve + Composure"
+          },
+          {
+            "title": "System",
+            "text": "A vampire with this power can drain a wraith of their passion. While in close proximity\n\n(three yards/meters or closer) to the wraith, they may roll a contest of Resolve + Oblivion vs. the wraith’s Resolve + Composure. A win for the vampire inflicts one Aggravated Willpower damage to the wraith and reduces the vampire’s Hunger by one. Feeding from a wraith may merit a Stain at the Storyteller’s discretion, as the consumed passion dulls the wraith’s reason for being, likely sending them down a path to self-destructive acts. The Storyteller determines the number of passions a wraith possesses (though five or more is rare), and may deem that the wraith becomes an uncontrollable, murderous spectre once all passions have been consumed."
+          },
+          {
+            "title": "Duration",
+            "text": "Passive"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -5982,6 +5982,2723 @@
           "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311"
         }
       ]
+    },
+    {
+      "id": "arms-of-ahriman",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Braços de Ahriman",
+        "en": "Arms of Ahriman"
+      },
+      "aliases": [
+        "Braços de Ahriman",
+        "Arms of Ahriman"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "versions": [
+        {
+          "id": "arms-of-ahriman-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "level": 2,
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 295",
+          "pages": [
+            {
+              "pdfPage": 294,
+              "printedPage": 293
+            },
+            {
+              "pdfPage": 295,
+              "printedPage": 294
+            }
+          ],
+          "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2,
+              "Potência": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro invoca apêndices abissais de pontos sem iluminação que estejam à vista. Sombras locais se distorcem em tentáculos e convergem sobre uma ou mais vítimas, deslizando por seus corpos ou agarrando suas sombras para imobilizá-las ou sufocá-las."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 2. Amálgama: Potência 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Raciocínio + Oblívio."
+              },
+              {
+                "title": "Sistema",
+                "text": "O usuário gasta um turno e paga o custo para invocar os apêndices. Nos turnos seguintes, pode realizar ataques contundentes ou agarrões à distância. Pode dividir a parada para criar braços adicionais e enfrentar vários oponentes, conforme a regra de múltiplos adversários do Livro Básico, p. 125 na edição inglesa. Usa Raciocínio + Oblívio para atacar, causar dano superficial ou agarrar; adiciona metade da Potência, arredondada para cima, como bônus de dano. Enquanto controla os braços, não pode fazer mais nada. Eles podem abrir portas e puxar alavancas, mas não digitar nem dirigir veículos. O alcance é duas vezes o nível de Oblívio em metros, medido ao longo de superfícies, nunca pelo ar."
+              },
+              {
+                "title": "Resistência e dano aos braços",
+                "text": "Os braços possuem três níveis de Vitalidade e usam Raciocínio + Oblívio do dono para evitar ou suportar ataques. Como sombras bidimensionais, só podem ser feridos por luz forte, como uma lanterna potente ou luz diurna. O teste de Raciocínio + Oblívio permite buscar cantos escuros ou sobrepujar a luz por um turno, sofrendo um nível de dano e continuando o ataque. Uma vítima constrita deve obter mais sucessos em Determinação + Autocontrole do que o atacante para atravessar os tentáculos sem sofrer dano. Isso não dissipa os braços: eles podem atacar novamente num turno seguinte se o usuário desejar e a vítima continuar ao alcance."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até o poder ser encerrado ou destruído."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire summons abyssal appendages from unlit spots in the area, within line of sight. Local shadows distort as murky tentacles snake out from them and converge on one or more hapless victims. Whether by gliding up the body of the victim or engaging in a mystic grapple with the victim’s own shadow, the arms are able to hold them in place or smother them."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 2. Amalgam: Potence 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Wits + Oblivion"
+              },
+              {
+                "title": "System",
+                "text": "The user takes one turn and pays the cost, summoning the shadow appendages. Using these, the vampire can perform bludgeoning and grappling attacks against distant targets every subsequent turn. Additional arms can be created by splitting the dice pool, enabling the user to engage multiple opponents. (see Vampire: The Masquerade p. 125). The arms use the vampire’s\n\nWits + Oblivion to attack and deal Superficial damage or grapple, adding half the user’s Potence rating (round up) as a damage bonus. The vampire can do nothing else except control the arms while this power is active. They can also be used to perform simple actions (such as opening doors and pulling levers) but nothing as advanced as typing or controlling vehicles. The arms have a length (in yards/meters) equal to twice the Oblivion dots of the user. (Note that the arms, being shadows, move across surfaces, not air, and any distances must take this into account.)\n\nThe arms have three health levels and use their owner’s Wits + Oblivion to avoid and endure attacks. As two-dimensional shadows, they can only be harmed by bright light, such as from a powerful torch or daylight. The Wits + Oblivion roll allows the tendrils to attempt to snake into the dark corners of a room or overpower the light for a turn, taking a health level of damage but continuing the assault. As the shadow tendrils constrict and assault victims via magical means, it takes an act of will to escape them. A constricted victim must roll Resolve + Composure and achieve more successes than the attacker to simply pass through the tendrils incurring no harm. This action does not dissipate the Arms of Ahriman, which can attack again on a subsequent turn if the wielder wishes it and the target is still within reach."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until ended or destroyed"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        },
+        {
+          "id": "arms-of-ahriman-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 88, 89",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 88,
+              "printedPage": 86
+            },
+            {
+              "pdfPage": 89,
+              "printedPage": 87
+            }
+          ],
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2,
+              "Potência": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro invoca extensões sombrias de pontos sem iluminação que estejam à vista. Elas fluem pelas paredes e pelo chão e convergem sobre uma ou mais vítimas, imobilizando-as ou sufocando-as, seja envolvendo seus corpos, seja agarrando misticamente suas sombras."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 2. Amálgama: Potência 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Raciocínio + Oblívio."
+              },
+              {
+                "title": "Sistema",
+                "text": "O usuário gasta um turno e paga o custo para invocar os apêndices. Nos turnos seguintes, pode realizar ataques contundentes ou agarrões à distância. Pode dividir a parada para criar braços adicionais e enfrentar vários oponentes, conforme a regra de múltiplos adversários do Livro Básico, p. 125 na edição inglesa. Usa Raciocínio + Oblívio para atacar, causar dano superficial ou agarrar; adiciona metade da Potência, arredondada para cima, como bônus de dano. Enquanto controla os braços, não pode fazer mais nada. Eles podem abrir portas e puxar alavancas, mas não digitar nem dirigir veículos. O alcance é duas vezes o nível de Oblívio em metros, medido ao longo de superfícies, nunca pelo ar."
+              },
+              {
+                "title": "Resistência e dano aos braços",
+                "text": "Somente luz forte, como uma lanterna potente ou luz diurna, pode banir os braços. Um teste bem-sucedido de Raciocínio + Oblívio, Dificuldade 3, permite que as sombras evitem a luz por um turno. Esta versão não atribui três níveis de Vitalidade aos braços nem estabelece o teste especial de Determinação + Autocontrole para escapar presente em Chicago; não acrescente essas regras à versão do Guia."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até o poder ser encerrado ou destruído."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire summons shadowy extensions from unlit spots in the area, within line of sight. Local shadows distort as they flow across walls and floors and converge on one or more hapless victims. Whether by gliding up the body of the victim or engaging in a mystic grapple with the victim’s own shadow, the arms are able to hold them in place or smother them."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 2. Amalgam: Potence 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Wits + Oblivion"
+              },
+              {
+                "title": "System",
+                "text": "The user takes one turn and pays the cost, summoning the extensions. Using these, the vampire can perform bludgeoning and grappling attacks against distant targets every subsequent turn. Additional arms can be created by splitting the dice pool, enabling the user to engage multiple opponents. (Vampire: The Masquerade, p. 125). The shadows use the vampire’s Wits + Oblivion to attack and deal Superficial damage or grapple, adding half the user’s Potence rating (round up) as a damage bonus. The vampire can do nothing else except control the shadows while this power is active. They can also use the shadows to perform simple actions (such as opening doors and pulling levers) but nothing as advanced as typing or controlling vehicles. The extrusions have a length (in yards/ meters) equal to twice the Oblivion dots of the user. (Note that they, being shadows, move across surfaces, not air, and any distances must take this into account.) The shadow arms can only be banished by bright light, such as from a powerful torch or daylight, but a successful Wits + Oblivion roll against Difficulty 3\n\nallows the shadows to avoid the light for a turn."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until ended or destroyed"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "clan-lasombra",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Lasombra",
+        "en": "Lasombra"
+      },
+      "aliases": [
+        "Lasombra",
+        "Magisters",
+        "Keepers"
+      ],
+      "versions": [
+        {
+          "id": "clan-lasombra-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 292, 293",
+          "pages": [
+            {
+              "pdfPage": 292,
+              "printedPage": 291
+            },
+            {
+              "pdfPage": 293,
+              "printedPage": 292
+            }
+          ],
+          "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+          "sourceLanguage": "en",
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Os Lasombra, também chamados de Magistrados ou Guardiões, cultivam excelência e ambição e procuram o poder político, religioso, financeiro ou pessoal. Preferem triunfar a simplesmente competir. Sua influência sobre vontades e sombras permite observar, subjugar, atacar e escapar."
+              },
+              {
+                "title": "Disciplinas",
+                "text": "Dominação, Oblívio e Potência. Dominação impõe obediência e altera memórias; Oblívio manipula sombras como armas, ferramentas, meios de observação e passagem; Potência concede força física sobrenatural."
+              },
+              {
+                "title": "Perdição",
+                "text": "Em reflexos ou gravações, ao vivo ou não, a imagem do Lasombra aparece distorcida e às vezes quase invisível. Quem conhece os sinais pode reconhecê-lo como vampiro; outros percebem algo errado e podem culpar a superfície ou a gravação. Isso não oculta sua identidade com segurança: ele pode ser identificado por câmeras tanto quanto qualquer outro vampiro.\n\nUsar tecnologia moderna de comunicação, inclusive uma ligação telefônica simples, exige um teste de Tecnologia com Dificuldade 2 + Gravidade da Perdição. Microfones têm problemas com sua voz, assim como câmeras com sua imagem. Evitar sistemas eletrônicos de detecção de vampiros sofre uma penalidade igual à Gravidade da Perdição."
+              },
+              {
+                "title": "Compulsão: Implacabilidade",
+                "text": "O Sangue trata fracassos como intoleráveis e impele o Lasombra a recorrer a métodos cada vez mais implacáveis. Na próxima vez em que falhar numa ação, sofre uma penalidade de dois dados em todos os testes até obter sucesso numa nova tentativa da mesma ação. A penalidade também vale para as novas tentativas da própria ação que a desencadeou."
+              },
+              {
+                "title": "Tecnologia e interpretação",
+                "text": "Telas sensíveis ao toque, comandos de voz e canetas eletrônicas podem falhar ou funcionar de forma irregular para os Lasombra. É comum recrutar mortais ou criar carniçais para lidar com chamadas, transporte e tarefas semelhantes. O texto descreve essa interação problemática; não acrescenta um teste numérico além das regras da Perdição acima."
+              },
+              {
+                "title": "Diferença entre fontes",
+                "text": "Nesta versão de Chicago, o texto não encerra automaticamente a Compulsão ao fim da cena. O Guia do Jogador inclui esse encerramento; consulte a versão usada pela crônica."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The Lasombra, also called Magisters or Keepers, cultivate excellence and ambition in political, religious, financial or personal power. They value victory over merely competing. Their influence over wills and shadows lets them observe, subjugate, strike and escape."
+              },
+              {
+                "title": "Disciplines",
+                "text": "Dominate, Oblivion and Potence. Dominate commands obedience and alters memories; Oblivion manipulates shadows as weapons, tools and means of observation or travel; Potence grants supernatural physical strength."
+              },
+              {
+                "title": "Bane",
+                "text": "A Lasombra’s reflection or recording, live or otherwise, is distorted and sometimes almost invisible. A viewer familiar with the signs can recognize the vampire; an uninformed viewer notices something wrong and may blame the reflective surface or recording. This does not reliably conceal identity: surveillance can catch a Lasombra as readily as any other vampire.\n\nUsing modern communication technology, including a simple phone call, requires a Technology test at Difficulty 2 + Bane Severity. Microphones have problems with their voice as cameras do with their image. Avoiding electronic vampire detection systems takes a penalty equal to Bane Severity."
+              },
+              {
+                "title": "Compulsion: Ruthlessness",
+                "text": "Failure is intolerable and the Blood urges increasingly ruthless methods. The next time the vampire fails an action, they take a two-dice penalty to every roll until a later attempt at that same action succeeds. The penalty also applies to later attempts at the triggering action itself."
+              },
+              {
+                "title": "Technology and portrayal",
+                "text": "Touchscreens, voice activation and styluses can glitch or respond unreliably to Lasombra. Many recruit mortals or enthrall ghouls to handle calls, transportation and similar tasks. The text describes unreliable interaction; it does not establish an additional numerical test beyond the Bane rules above."
+              },
+              {
+                "title": "Edition difference",
+                "text": "Chicago does not state that this Compulsion automatically ends with the scene. The Player’s Guide adds that endpoint; use the version selected for the chronicle."
+              }
+            ]
+          }
+        },
+        {
+          "id": "clan-lasombra-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 31, 32",
+          "pages": [
+            {
+              "pdfPage": 31,
+              "printedPage": 29
+            },
+            {
+              "pdfPage": 32,
+              "printedPage": 30
+            }
+          ],
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "sourceLanguage": "en",
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Os Lasombra, também chamados de Magistrados ou Guardiões, cultivam excelência e ambição e procuram o poder político, religioso, financeiro ou pessoal. Preferem triunfar a simplesmente competir. Sua influência sobre vontades e sombras permite observar, subjugar, atacar e escapar."
+              },
+              {
+                "title": "Disciplinas",
+                "text": "Dominação, Oblívio e Potência. Dominação impõe obediência e altera memórias; Oblívio manipula sombras como armas, ferramentas, meios de observação e passagem; Potência concede força física sobrenatural."
+              },
+              {
+                "title": "Perdição",
+                "text": "Em reflexos ou gravações, ao vivo ou não, a imagem do Lasombra aparece distorcida e às vezes quase invisível. Quem conhece os sinais pode reconhecê-lo como vampiro; outros percebem algo errado e podem culpar a superfície ou a gravação. Isso não oculta sua identidade com segurança: ele pode ser identificado por câmeras tanto quanto qualquer outro vampiro.\n\nUsar tecnologia moderna de comunicação, inclusive uma ligação telefônica simples, exige um teste de Tecnologia com Dificuldade 2 + Gravidade da Perdição. Microfones têm problemas com sua voz, assim como câmeras com sua imagem. Evitar sistemas eletrônicos de detecção de vampiros sofre uma penalidade igual à Gravidade da Perdição."
+              },
+              {
+                "title": "Compulsão: Implacabilidade",
+                "text": "O Sangue trata fracassos como intoleráveis e impele o Lasombra a recorrer a métodos cada vez mais implacáveis. Na próxima vez em que falhar numa ação, sofre uma penalidade de dois dados em todos os testes até obter sucesso numa nova tentativa da mesma ação ou a cena terminar. A penalidade também vale para as novas tentativas da própria ação que a desencadeou."
+              },
+              {
+                "title": "Tecnologia e interpretação",
+                "text": "Telas sensíveis ao toque, comandos de voz e canetas eletrônicas podem falhar ou funcionar de forma irregular para os Lasombra. É comum recrutar mortais ou criar carniçais para lidar com chamadas, transporte e tarefas semelhantes. O texto descreve essa interação problemática; não acrescenta um teste numérico além das regras da Perdição acima."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The Lasombra, also called Magisters or Keepers, cultivate excellence and ambition in political, religious, financial or personal power. They value victory over merely competing. Their influence over wills and shadows lets them observe, subjugate, strike and escape."
+              },
+              {
+                "title": "Disciplines",
+                "text": "Dominate, Oblivion and Potence. Dominate commands obedience and alters memories; Oblivion manipulates shadows as weapons, tools and means of observation or travel; Potence grants supernatural physical strength."
+              },
+              {
+                "title": "Bane",
+                "text": "A Lasombra’s reflection or recording, live or otherwise, is distorted and sometimes almost invisible. A viewer familiar with the signs can recognize the vampire; an uninformed viewer notices something wrong and may blame the reflective surface or recording. This does not reliably conceal identity: surveillance can catch a Lasombra as readily as any other vampire.\n\nUsing modern communication technology, including a simple phone call, requires a Technology test at Difficulty 2 + Bane Severity. Microphones have problems with their voice as cameras do with their image. Avoiding electronic vampire detection systems takes a penalty equal to Bane Severity."
+              },
+              {
+                "title": "Compulsion: Ruthlessness",
+                "text": "Failure is intolerable and the Blood urges increasingly ruthless methods. The next time the vampire fails an action, they take a two-dice penalty to every roll until a later attempt at that same action succeeds or the scene ends. The penalty also applies to later attempts at the triggering action itself."
+              },
+              {
+                "title": "Technology and portrayal",
+                "text": "Touchscreens, voice activation and styluses can glitch or respond unreliably to Lasombra. Many recruit mortals or enthrall ghouls to handle calls, transportation and similar tasks. The text describes unreliable interaction; it does not establish an additional numerical test beyond the Bane rules above."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "oblivions-sight",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Visão de Oblívio",
+        "en": "Oblivion’s Sight"
+      },
+      "aliases": [
+        "Visão de Oblívio",
+        "Oblivion’s Sight"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "versions": [
+        {
+          "id": "oblivions-sight-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "level": 1,
+          "sourceTitle": "Chicago by Night, PDF pp. 294",
+          "pages": [
+            {
+              "pdfPage": 294,
+              "printedPage": 293
+            }
+          ],
+          "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro fecha os olhos e os reabre com íris negras contra o branco da esclera. Enxerga em escuridão total e percebe fantasmas que não estejam ocultando ativamente a presença."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ignora todas as penalidades por pouca luz, inclusive de origem sobrenatural. Ainda precisa dos olhos: vendas e obstruções semelhantes funcionam normalmente. Fantasmas que não estejam usando Furtividade ou um poder de ocultação ficam visíveis. Eles aparecem como desejam: humanos com ferimentos da morte, monstruosidades espectrais ou cadáveres impecáveis. Não percebem automaticamente que foram vistos; se perceberem, podem reagir com medo ou raiva. O poder não permite tocar fisicamente em fantasmas."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire closes their eyes. Upon opening them, the irises of their eyes are black against the white of their sclera, and they can now see clearly within pitch blackness, and can perceive ghosts who are not actively hiding their presence."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free"
+              },
+              {
+                "title": "System",
+                "text": "On activation, the user’s eyes become supernaturally attuned to darkness, allowing them to ignore all low-light penalties, including those of supernatural origin. They still need their eyes to see and are affected by blindfolds and the like as usual. If a ghost is present and not attempting stealth or using a power to conceal its presence, the spirit becomes visible to the vampire using Oblivion’s Sight. In such cases, ghosts appear as they wish to appear, whether as humans bearing the wounds that caused their death, as spectral monstrosities, or as perfectly immaculate corpses. Ghosts do not automatically realize when a vampire spots them, but if they do, many react with fear or anger rather than passivity. This power does not grant the ability to make physical contact with ghosts."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        },
+        {
+          "id": "oblivions-sight-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            }
+          ],
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro fecha os olhos e os reabre com íris negras contra o branco da esclera. Enxerga em escuridão total e percebe fantasmas que não estejam ocultando ativamente a presença."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ignora todas as penalidades por pouca luz, inclusive de origem sobrenatural. Ainda precisa dos olhos: vendas e obstruções semelhantes funcionam normalmente. Fantasmas que não estejam usando Furtividade ou um poder de ocultação ficam visíveis. Eles aparecem como desejam: humanos com ferimentos da morte, monstruosidades espectrais ou cadáveres impecáveis. Não percebem automaticamente que foram vistos; se perceberem, podem reagir com medo ou raiva. O poder não permite tocar fisicamente em fantasmas. Os olhos totalmente negros impõem uma penalidade de dois dados em interações sociais com mortais enquanto o poder estiver ativo."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire’s eyes turn black, allowing them to see clearly within pitch darkness and to perceive ghosts who are not actively hiding their presence."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free"
+              },
+              {
+                "title": "System",
+                "text": "On activation, the user’s eyes become supernaturally attuned to darkness, allowing them to ignore all low-light penalties, including those of supernatural origin. They still need their eyes to see and are affected by blindfolds and the like as usual. If a ghost is present and not attempting stealth or using a power to conceal its presence, the spirit becomes visible to the vampire using Oblivion’s Sight. In such cases, ghosts appear as they wish to appear, whether as humans bearing the wounds that caused their death, as spectral monstrosities, or as perfectly immaculate corpses. Ghosts do not automatically realize when a vampire spots them, but if they do, many react with fear or anger rather than passivity. This power does not grant the ability to make physical contact with ghosts, and the pitch-black eyes incur a two-dice penalty to social interactions with mortals while active."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "shadow-cast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Projetar Sombra",
+        "en": "Shadow Cast"
+      },
+      "aliases": [
+        "Projetar Sombra",
+        "Shadow Cast"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "versions": [
+        {
+          "id": "shadow-cast-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "level": 2,
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 295",
+          "pages": [
+            {
+              "pdfPage": 294,
+              "printedPage": 293
+            },
+            {
+              "pdfPage": 295,
+              "printedPage": 294
+            }
+          ],
+          "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A ausência de sombras pode frustrar Oblívio. Este poder projeta a escuridão interior do vampiro como uma sombra sobrenatural, da qual outros poderes podem se manifestar, independentemente da iluminação ambiente. Ela normalmente acompanha a forma e os movimentos do usuário, mas pode ficar distorcida ou monstruosa conforme seu temperamento."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "A sombra surge do corpo do vampiro e só pode ser removida por luz solar direta enquanto o poder durar. Uma testemunha percebe que ela não corresponde a uma fonte de luz visível com Raciocínio + Percepção, Dificuldade 3. O usuário pode alongá-la e distorcê-la, mas não separá-la de si; a critério do Narrador, às vezes ela age por conta própria. Para outros poderes, como Perspectiva Sombria, pode atingir até duas vezes o nível de Oblívio do usuário em metros. Quem estiver ao alcance dessa sombra sofre mais um ponto de dano à Força de Vontade proveniente de conflito social."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Oblivion is powerful but can often be foiled by the simple lack of appropriate shadows from which to summon it. This power draws upon the darkness within the user to project a supernatural shadow from which to manifest other powers, no matter the ambient lightning. This shadow usually mimics the movement and shape of the user but can sometimes grow distorted and even\n\nmonstrous, resonating with the current temperament of its owner."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "Activating the power conjures a supernatural shadow from the vampire’s body. As long as the power is active, the user casts this shadow, which cannot be removed except by direct sunlight. Anyone witnessing the practitioner notices the shadow cast from no visible light source on a Wits + Awareness roll (Difficulty 3). The vampire can direct their shadow, elongating or distorting (but not detaching) it at will, though it can sometimes act on its own accord, at the Storyteller’s discretion. For the purposes of other powers such as Shadow Perspective, the shadow can be lengthened to up to twice the practitioner’s Oblivion rating in yards/meters. For anyone stood within the shadow’s reach, the Willpower damage from social conflict increases by 1. Standing in a Oblivion’s shadow is a terrifying prospect."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        },
+        {
+          "id": "shadow-cast-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 89",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 89,
+              "printedPage": 87
+            }
+          ],
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A ausência de sombras pode frustrar Oblívio. Este poder projeta a escuridão interior do vampiro como uma sombra sobrenatural, da qual outros poderes podem se manifestar, independentemente da iluminação ambiente. Ela normalmente acompanha a forma e os movimentos do usuário, mas pode ficar distorcida ou monstruosa conforme seu temperamento."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "A sombra surge do corpo do vampiro e só pode ser removida por luz solar direta enquanto o poder durar. Uma testemunha percebe que ela não corresponde a uma fonte de luz visível com Raciocínio + Percepção, Dificuldade 3. O usuário pode alongá-la e distorcê-la, mas não separá-la de si; a critério do Narrador, às vezes ela age por conta própria. Para outros poderes, como Perspectiva Sombria, pode atingir até duas vezes o nível de Oblívio do usuário em metros. Quem estiver ao alcance dessa sombra sofre mais um ponto de dano à Força de Vontade proveniente de conflito social. Nesta edição, acrescente esse ponto depois de reduzir pela metade o dano superficial."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Oblivion is powerful but can often be foiled by the simple lack of appropriate shadows from which to summon its manifestations. This power draws upon the dark within the user to project a supernatural shadow from which to manifest other powers, no matter the ambient lightning. This shadow usually mimics the movement and shape of the user but can sometimes grow distorted and even monstrous, resonating with the current temperament of its owner."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "Activating the power conjures a supernatural shadow from the vampire’s body. As long as the power is active, the user casts this shadow, which cannot be removed except by direct sunlight. Anyone witnessing the practitioner notices the shadow cast from no visible light source on a Wits + Awareness roll (Difficulty 3). The vampire can direct their shadow, elongating or distorting (but not detaching) it at will, though it can sometimes act on its own accord, at the Storyteller’s discretion. For the purposes of other powers such as Shadow Perspective, the practitioner can lengthen the shadow to up to twice the practitioner’s Oblivion rating in yards/meters. For anyone standing within the shadow’s reach, the Willpower damage from social conflict increases by 1 (after halving for Superficial damage). Standing in Oblivion’s shadow is a terrifying prospect."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "shadow-cloak",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Manto de Sombras",
+        "en": "Shadow Cloak"
+      },
+      "aliases": [
+        "Manto de Sombras",
+        "Shadow Cloak"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "versions": [
+        {
+          "id": "shadow-cloak-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "level": 1,
+          "sourceTitle": "Chicago by Night, PDF pp. 294",
+          "pages": [
+            {
+              "pdfPage": 294,
+              "printedPage": 293
+            }
+          ],
+          "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Aplicando sutilmente a influência de Oblívio às sombras ao redor, o usuário disfarça a aparência ou parece mais sinistro e ameaçador."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "O vampiro recebe dois dados de bônus em testes de Furtividade e em Intimidação contra mortais."
+              },
+              {
+                "title": "Duração",
+                "text": "Passivo."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Subtly applying the influence of Oblivion on ambient shadows, the user masks their appearance or seems more sinister and threatening."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free"
+              },
+              {
+                "title": "System",
+                "text": "The vampire gains a two-dice bonus to Stealth rolls, as well as on Intimidation versus mortals."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        },
+        {
+          "id": "shadow-cloak-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 88",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 88,
+              "printedPage": 86
+            }
+          ],
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Aplicando sutilmente a influência de Oblívio às sombras ao redor, o usuário disfarça a aparência ou parece mais sinistro e ameaçador."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Sistema",
+                "text": "O vampiro recebe dois dados de bônus em testes de Furtividade e em Intimidação contra mortais."
+              },
+              {
+                "title": "Duração",
+                "text": "Passivo."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Subtly applying the influence of Oblivion on ambient shadows, the user masks their appearance or seems more sinister and threatening."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free"
+              },
+              {
+                "title": "System",
+                "text": "The vampire gains a two-dice bonus to Stealth rolls, as well as on Intimidation versus mortals."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "shadow-perspective",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Perspectiva Sombria",
+        "en": "Shadow Perspective"
+      },
+      "aliases": [
+        "Perspectiva Sombria",
+        "Shadow Perspective"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "versions": [
+        {
+          "id": "shadow-perspective-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "level": 3,
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 295",
+          "pages": [
+            {
+              "pdfPage": 294,
+              "printedPage": 293
+            },
+            {
+              "pdfPage": 295,
+              "printedPage": 294
+            }
+          ],
+          "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro projeta seus sentidos em qualquer sombra à vista, vendo e ouvindo como se estivesse escondido em qualquer parte dela. Isso inclui a própria sombra manipulada por Projetar Sombra."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "A presença dos sentidos do vampiro na sombra só pode ser detectada por meios sobrenaturais, como Sentir o Invisível. O usuário continua percebendo seus arredores e também o que chega da sombra, como se olhasse por uma tela ou abertura."
+              },
+              {
+                "title": "Duração",
+                "text": "Até uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire can project their senses into any shadow within line of sight, seeing and hearing as if they were hiding within any part of it. This includes their own shadow, as manipulated by Shadow Cast."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "Following a Rouse Check, the presence of the vampire in the shadow is undetectable by anything but supernatural means. (Sense the Unseen, for example). While this power is active the vampire perceives both their surroundings as well as what can be gleaned from the Shadow Perspective, as if looking through a screen or hole."
+              },
+              {
+                "title": "Duration",
+                "text": "Up to one scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        },
+        {
+          "id": "shadow-perspective-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 91,
+              "printedPage": 89
+            }
+          ],
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro projeta seus sentidos em qualquer sombra à vista, vendo e ouvindo como se estivesse escondido em qualquer parte dela. Isso inclui a própria sombra manipulada por Projetar Sombra."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "A presença dos sentidos do vampiro na sombra só pode ser detectada por meios sobrenaturais, como Sentir o Invisível. O usuário continua percebendo seus arredores e também o que chega da sombra, como se olhasse por uma tela ou abertura."
+              },
+              {
+                "title": "Duração",
+                "text": "Até uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire can project their senses into any shadow within line of sight, seeing and hearing as if they were hiding within any part of it. This includes their own shadow, as manipulated by Shadow Cast (p. 87)."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "Following a Rouse Check, the presence of the vampire’s senses in the shadow is undetectable by anything but supernatural means. (Sense the Unseen, for example). While this power is active the vampire perceives both their surroundings as well as what can be gleaned from the Shadow Perspective, as if looking through a screen or hole."
+              },
+              {
+                "title": "Duration",
+                "text": "Up to one scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "shadow-step",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Passo das Sombras",
+        "en": "Shadow Step"
+      },
+      "aliases": [
+        "Passo das Sombras",
+        "Shadow Step"
+      ],
+      "discipline": "Oblívio",
+      "level": 5,
+      "versions": [
+        {
+          "id": "shadow-step-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "level": 5,
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 296",
+          "pages": [
+            {
+              "pdfPage": 294,
+              "printedPage": 293
+            },
+            {
+              "pdfPage": 296,
+              "printedPage": 295
+            }
+          ],
+          "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Entrando numa sombra próxima, o usuário desaparece e ressurge da mesma sombra ou de outra mais distante. Lasombra e Hecata discutem se ele entra no Labirinto ou apenas passa por sua superfície; o dano espiritual possível sugere contato com algo impuro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "O vampiro entra numa sombra grande o suficiente para cobri-lo e sai de outra um turno depois. A sombra de destino deve estar à vista, inclusive por meios místicos como Perspectiva Sombria. Pode levar outra pessoa; se ela não concordar, precisa estar presa por um agarrão bem-sucedido. Se o uso causar uma Mácula, o passageiro também recebe uma."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Stepping into a nearby shadow, the user disappears only to reappear from the same or another shadow further away. Whether they enter the Labyrinth or merely pass along its surface is a source of conjecture among many Lasombra and Hecata, but the spiritual damage with which they can emerge implies they are touching something foul as they use this power."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "The vampire must enter a shadow large enough to cover them, and emerge from another one turn later. The target shadow must be within sight, though it can be perceived by mystical means, such as Shadow Perspective, if desired. It is possible to bring another through the passage, but unless that person is willing, they must be held by a successful grapple. If a Stain is incurred as a result of using this power, the passenger also receives one."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        },
+        {
+          "id": "shadow-step-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 92, 93",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 92,
+              "printedPage": 90
+            },
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            }
+          ],
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Entrando numa sombra próxima, o usuário desaparece e ressurge da mesma sombra ou de outra mais distante. Lasombra e Hecata discutem se ele entra no Labirinto ou apenas passa por sua superfície; o dano espiritual possível sugere contato com algo impuro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "O vampiro entra numa sombra grande o suficiente para cobri-lo e sai de outra um turno depois. A sombra de destino deve estar à vista, inclusive por meios místicos como Perspectiva Sombria. Pode levar outra pessoa; se ela não concordar, precisa estar presa por um agarrão bem-sucedido. Se o uso causar uma Mácula, o passageiro também recebe uma."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Stepping into a nearby shadow, the user disappears only to reappear from the same or another shadow further away. Whether they enter the Labyrinth or merely pass along its surface is a source of conjecture among many Lasombra and Hecata, but the spiritual damage with which they can emerge implies they are touching something foul as they use this power."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 5."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "The vampire must enter a shadow large enough to cover them, and emerge from another one turn later. The target shadow must be within sight, though it can be perceived by mystical means, such as Shadow Perspective, if desired. It is possible to bring another through the passage, but unless that person is willing, they must be held\n\nby a successful grapple. If a Stain is incurred as a result of using this power, the passenger also receives one."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "stygian-shroud",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mortalha Estígia",
+        "en": "Stygian Shroud"
+      },
+      "aliases": [
+        "Mortalha Estígia",
+        "Stygian Shroud"
+      ],
+      "discipline": "Oblívio",
+      "level": 4,
+      "versions": [
+        {
+          "id": "stygian-shroud-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "level": 4,
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 296",
+          "pages": [
+            {
+              "pdfPage": 294,
+              "printedPage": 293
+            },
+            {
+              "pdfPage": 296,
+              "printedPage": 295
+            }
+          ],
+          "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A escuridão se derrama de uma sombra próxima e cobre a área com um breu de noite sem lua; os sons ficam abafados e indistintos. De fora, vê-se a sombra se expandir por superfícies e pelos corpos presentes. Além do invocador, os afetados têm dificuldade para ver e ouvir, e mortais perdem vitalidade pelo efeito sufocante."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "O usuário paga o custo e concentra-se por um turno para espalhar a sombra. A área circular tem raio igual a duas vezes seu nível de Oblívio em metros, centrada nele ou num ponto à vista. Quem estiver na Mortalha sofre uma penalidade de três dados em todos os testes, a menos que enxergue através de escuridão sobrenatural. Mortais sofrem um ponto de dano superficial por turno dentro da área devido ao sufocamento."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Darkness spews out of a nearby shadow as the vampire blankets the area around them in gloom equivalent to a moonless night, while sounds are muffled and indistinct. Anyone viewing the effect from without see it as a shadow expanding over every surface, including the bodies of any victims, in the area. Those apart from the invoker caught in the effects find themselves struggling to see and hear their surroundings, and mortals are drained of their very life by the suffocating power."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "The user makes a Rouse Check and spends a turn concentrating, spreading the shadow over the desired surfaces. The effect covers a circular area with a radius equal to twice the user’s Oblivion rating in yards/ meters. The area is centered on the user or a spot in their line of sight. Anyone caught in the Stygian Shroud receives a three-dice penalty to all rolls, unless they possess the ability to see through supernatural darkness. Any mortals caught in the Stygian Shroud suffer one level of Superficial damage for every turn they remain within it, due to the power’s suffocating effects."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        },
+        {
+          "id": "stygian-shroud-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 92",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 92,
+              "printedPage": 90
+            }
+          ],
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A escuridão se derrama de uma sombra próxima e cobre a área com um breu de noite sem lua; os sons ficam abafados e indistintos. De fora, vê-se a sombra se expandir por superfícies e pelos corpos presentes. Além do invocador, os afetados têm dificuldade para ver e ouvir, e mortais perdem vitalidade pelo efeito sufocante."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "O usuário paga o custo e concentra-se por um turno para espalhar a sombra. A área circular tem raio igual a duas vezes seu nível de Oblívio em metros, centrada nele ou num ponto à vista. Quem estiver na Mortalha sofre uma penalidade de três dados em todos os testes, a menos que enxergue através de escuridão sobrenatural. Mortais sofrem um ponto de dano superficial por turno dentro da área devido ao sufocamento."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Nearby shadows spread outwards as the vampire blankets the area in a layer of darkness, while sounds become muffled and indistinct. Anyone viewing the effect from without sees it as a shadow expanding over every surface, including the bodies of any victims, in the area. Those apart from the invoker caught in the effects find themselves struggling to see and hear their surroundings, and mortals are drained of their very life by the suffocating power."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check."
+              },
+              {
+                "title": "System",
+                "text": "The user makes a Rouse Check and spends a turn concentrating, spreading the shadow over the desired surfaces. The effect covers a circular area with a radius equal to twice the user’s Oblivion rating in yards/meters. The area is centered on the user or a spot in their line of sight. Anyone caught in the Stygian Shroud receives a three-dice penalty to all rolls, unless they possess the ability to see through supernatural darkness. Any mortals caught in the Stygian Shroud suffer one level of Superficial damage for every turn they remain within it, due to the power’s suffocating effects."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenebrous-avatar",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Avatar Tenebroso",
+        "en": "Tenebrous Avatar"
+      },
+      "aliases": [
+        "Avatar Tenebroso",
+        "Tenebrous Avatar"
+      ],
+      "discipline": "Oblívio",
+      "level": 5,
+      "versions": [
+        {
+          "id": "tenebrous-avatar-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "level": 5,
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 296",
+          "pages": [
+            {
+              "pdfPage": 294,
+              "printedPage": 293
+            },
+            {
+              "pdfPage": 296,
+              "printedPage": 295
+            }
+          ],
+          "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro transforma sua substância na de uma sombra bidimensional, deslizando por superfícies e por frestas minúsculas. Nessa forma, só fogo e luz solar o ferem."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Dois Testes de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "A transformação exige um turno, durante o qual o vampiro não pode fazer mais nada. Depois, desloca-se em velocidade de caminhada pelo chão ou pelas paredes; apenas barreiras hermeticamente vedadas o impedem. Pode envolver vítimas, impondo uma penalidade de três dados a todas as suas paradas e sufocando mortais como Mortalha Estígia. Ao envolver um mortal, pode alimentar-se sem perfurar sua pele com as presas. Não sofre dano de fontes físicas, mas fogo e luz solar o afetam normalmente. Pode usar Disciplinas mentais a critério do Narrador."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até ser encerrado."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire gains the ability to change their very substance into that of a shadow, becoming a two-dimensional patch of darkness able to slither over any surface and through miniscule gaps and cracks. While in this form the vampire is only harmed by fire and sunlight."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Two Rouse Checks."
+              },
+              {
+                "title": "System",
+                "text": "The transformation takes one turn, during which the vampire is unable to do anything else. Once the transformation is complete the vampire can move at walking pace across the ground or along walls, hampered only by hermetically sealed barriers. Vampires using Tenebrous Avatar can envelop victims, causing the victim to reduce all their dice pools by three and suffocating mortals as with Stygian Shroud, above. If surrounding a mortal, the vampire can feed from them without penetrating the skin with fangs. Practitioners of this power take no damage from physical sources but can be harmed by fire and sunlight as normal. Mental Disciplines can still be used at the Storyteller’s discretion."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until ended"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        },
+        {
+          "id": "tenebrous-avatar-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 93",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            }
+          ],
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro transforma sua substância na de uma sombra bidimensional, deslizando por superfícies e por frestas minúsculas. Nessa forma, só fogo e luz solar o ferem."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Dois Testes de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "A transformação exige um turno, durante o qual o vampiro não pode fazer mais nada. Depois, desloca-se em velocidade de caminhada pelo chão ou pelas paredes; apenas barreiras hermeticamente vedadas o impedem. Pode envolver vítimas, impondo uma penalidade de três dados a todas as suas paradas e sufocando mortais como Mortalha Estígia. Ao envolver um mortal, pode alimentar-se sem perfurar sua pele com as presas. Não sofre dano de fontes físicas, mas fogo e luz solar o afetam normalmente. Pode usar Disciplinas mentais a critério do Narrador."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até ser encerrado."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire gains the ability to change their very\n\nsubstance into that of a shadow, becoming a two-dimensional patch of darkness able to slither over any surface and through miniscule gaps and cracks. While in this form the vampire is only harmed by fire and sunlight."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Two Rouse Checks."
+              },
+              {
+                "title": "System",
+                "text": "The transformation takes one turn, during which the vampire is unable to do anything else. Once the transformation is complete the vampire can move at walking pace across the ground or along walls, hampered only by hermetically sealed barriers. Vampires using Tenebrous Avatar can envelop victims, causing the victim to reduce all their dice pools by three and suffocating mortals as with Stygian Shroud, above. If surrounding a mortal, the vampire can feed from them without penetrating the skin with fangs. Practitioners of this power take no damage from physical sources but can be harmed by fire and sunlight as normal. Mental Disciplines can still be used at the Storyteller’s discretion."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until ended"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "touch-of-oblivion",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Toque de Oblívio",
+        "en": "Touch of Oblivion"
+      },
+      "aliases": [
+        "Toque de Oblívio",
+        "Touch of Oblivion"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "versions": [
+        {
+          "id": "touch-of-oblivion-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "level": 3,
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 295, 296",
+          "pages": [
+            {
+              "pdfPage": 294,
+              "printedPage": 293
+            },
+            {
+              "pdfPage": 295,
+              "printedPage": 294
+            },
+            {
+              "pdfPage": 296,
+              "printedPage": 295
+            }
+          ],
+          "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O usuário canaliza Oblívio através da vitae. Ao tocar a vítima, a força aniquiladora atravessa seu corpo e faz a área tocada definhar: músculos encolhem, tendões se rompem e ossos ficam frágeis, como se aquela região envelhecesse catastroficamente. Pode inutilizar membros, a garganta ou os olhos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Força + Briga para agarrar uma vítima que tente evitar o contato; o texto não estabelece um teste separado de Oblívio."
+              },
+              {
+                "title": "Sistema",
+                "text": "Após pagar o custo, o vampiro segura a vítima. Ela sofre dois pontos de dano agravado e um ferimento incapacitante. Um braço ou perna atingido fica inutilizado; mortais precisam de reabilitação prolongada, enquanto vampiros podem reparar o dano como dano agravado normal. O poder também pode tornar a vítima muda, surda ou cega."
+              },
+              {
+                "title": "Referência do ferimento",
+                "text": "A edição de Chicago apresenta uma remissão sem número de página para as regras de ferimentos incapacitantes do Livro Básico. Consulte a tabela no seu exemplar; nenhum número foi presumido."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire using Touch of Oblivion channels the power through their vitae. When they make physical contact with a victim, the annihilating element runs through the vampire and into their prey like an electric current, except the effect is to physically wither the target area. Effective on any part of the body, the touch shrinks and shortens muscles, snaps tendons, and makes bones brittle, effectively aging the affected part catastrophically. Its main use is in withering a limb, choking a throat, or blinding a pair of eyes."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "Following a Rouse Check, the vampire grips their victim (requiring a Strength + Brawl roll if the victim is trying to avoid the vampire), with the victim suffering two levels of Aggravated damage as well as a crippling injury. If this injury is inflicted to an arm or leg, the targeted limb is rendered crippled and will in the case of mortals require lengthy rehabilitation, while vampires can mend the damage as regular Aggravated damage. Likewise, Touch of Oblivion may render a target mute, deaf, or blind. See crippling injuries in Vampire: The Masquerade (the source’s cross-reference has no page number) for details on the mechanical effects\n\nof crippled limbs."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        },
+        {
+          "id": "touch-of-oblivion-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 91,
+              "printedPage": 89
+            }
+          ],
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "sourceLanguage": "en",
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O usuário canaliza Oblívio através da vitae. Ao tocar a vítima, a força aniquiladora atravessa seu corpo e faz a área tocada definhar: músculos encolhem, tendões se rompem e ossos ficam frágeis, como se aquela região envelhecesse catastroficamente. Pode inutilizar membros, a garganta ou os olhos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Força + Briga para agarrar uma vítima que tente evitar o contato; o texto não estabelece um teste separado de Oblívio."
+              },
+              {
+                "title": "Sistema",
+                "text": "Após pagar o custo, o vampiro segura a vítima. Ela sofre dois pontos de dano agravado e um ferimento incapacitante. Um braço ou perna atingido fica inutilizado; mortais precisam de reabilitação prolongada, enquanto vampiros podem reparar o dano como dano agravado normal. O poder também pode tornar a vítima muda, surda ou cega."
+              },
+              {
+                "title": "Referência do ferimento",
+                "text": "O Guia remete à tabela de ferimentos incapacitantes do Livro Básico, p. 303 da edição inglesa. O Narrador pode decidir que causar essa mutilação merece Máculas."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire using Touch of Oblivion can harm and cripple with a single touch, aging the affected body part catastrophically. It can be used to wither a limb, crumple a throat, or to blind a pair of eyes."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "Following a Rouse Check, the vampire grips their victim, requiring a Strength + Brawl roll if the victim is trying to avoid the vampire. Once gripped, the victim suffers two levels of Aggravated damage as well as a crippling injury. If this injury is inflicted to an arm or leg, the targeted limb is rendered crippled and in the case of mortals requires lengthy rehabilitation, while vampires can mend the damage as regular Aggravated damage. Likewise, Touch of Oblivion may render a target mute, deaf, or blind. See crippling injuries (Vampire: The Masquerade, p. 303) for mechanical details.\n\nStorytellers may decide that inflicting such mutilation warrants Stains."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-ashes-to-ashes",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Cinzas às Cinzas",
+        "en": "Ashes to Ashes"
+      },
+      "aliases": [
+        "Cinzas às Cinzas",
+        "Ashes to Ashes"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-ashes-to-ashes-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Destrói as evidências de alimentação ao introduzir vitae num cadáver recente ou antigo. Não funciona em vampiros; cadáveres animados podem ser afetados a critério do Narrador."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "O cabeçalho da fonte indica Vigor + Oblívio contra Vigor + Medicina ou Fortitude. No Sistema, o cadáver animado resiste com Vigor, ou Vigor + Fortitude se possuir essa Disciplina. A divergência do cabeçalho é preservada, sem presumir uma correção."
+              },
+              {
+                "title": "Sistema",
+                "text": "O vampiro paga o custo e introduz a vitae no cadáver. Um corpo não animado se desintegra em três turnos, sem teste adicional. Contra um cadáver animado, disputa Vigor + Oblívio contra a resistência indicada no Sistema acima. Se vencer, o corpo se dissolve em cinco turnos menos a margem, mínimo de um; enquanto se desintegra, sofre Debilitação física. Uma vitória crítica o desintegra imediatamente. Numa falha total, aquele cadáver fica imune ao poder de qualquer usuário."
+              },
+              {
+                "title": "Duração",
+                "text": "Variável, conforme o resultado e a animação do cadáver."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Destroying evidence of feeding is a necessity among vampires who leave dead bodies in their wake. This power enables a vampire to destroy a corpse — fresh or long dead — by introducing their vitae to its body. This power does not work on vampires, but can work on animated cadavers, at the Storyteller’s discretion."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Stamina + Oblivion vs. Stamina + Medicine or Fortitude"
+              },
+              {
+                "title": "System",
+                "text": "The vampire makes a Rouse Check to expend vitae, and introduces the vitae to the corpse. Unless the corpse is animated, the body disintegrates over three turns with no test necessary. If it is, the user rolls a contest of Stamina + Oblivion against Stamina. (Corpses with Fortitude may resist with Stamina + Fortitude.) If the user wins, the animated corpse dissolves in five turns, minus the margin (minimum one, and disintegrating corpses suffer physical Impairment). On a critical win, the corpse disintegrates immediately. On a total failure, the corpse is subsequently immune to this power from any user."
+              },
+              {
+                "title": "Duration",
+                "text": "Variable"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-aura-of-decay",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Aura de Decadência",
+        "en": "Aura of Decay"
+      },
+      "aliases": [
+        "Aura de Decadência",
+        "Aura of Decay"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-aura-of-decay-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 90",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 90,
+              "printedPage": 88
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A conexão com Oblívio faz plantas murcharem, animais e humanos adoecerem e alimentos estragarem. O texto afirma que não acelera a decomposição de coisas mortas; o Sistema, entretanto, também inclui efeitos em materiais inorgânicos, como tijolos. Essas duas afirmações da fonte são mantidas."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 3."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Vigor + Oblívio, Dificuldade 3 para ativar. O cabeçalho lista resistência de Vigor + Medicina ou Fortitude; o Sistema descreve a disputa de seres vivos como Vigor + Medicina. Nenhuma resistência adicional foi inventada para resolver essa diferença."
+              },
+              {
+                "title": "Sistema",
+                "text": "Após pagar o custo e vencer o teste de ativação, materiais orgânicos e inorgânicos não inteligentes a até cinco metros sofrem deterioração: plantas morrem, comida apodrece e tijolos começam a ruir. Alimentos e água afetados podem se tornar tóxicos. Consumir esse material causa dois danos superficiais à Vitalidade na cena seguinte e em cada cena posterior até um tratamento com Inteligência + Medicina, Dificuldade 3.\n\nSeres vivos na aura disputam Vigor + Medicina contra o teste de ativação do vampiro. Cada ponto de margem do vampiro causa um dano superficial à Vitalidade, sem redução pela metade, aplicado gradualmente durante a cena. Reaplicar o poder na mesma cena não causa novo dano à Vitalidade de mortais já afetados. Quem tem olfato percebe o odor de podridão emanado do vampiro, que sofre uma penalidade de dois dados em todos os testes sociais enquanto a aura estiver ativa."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Kindred with a strong connection to Oblivion can affect the world around them, making plants wilt, animals and humans grow sick, and food go bad. Some harness this aura as a power, polluting vitality with rot, and speeding up the erosion of life. This power does not speed up the decay of dead things, though."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 3."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Stamina + Oblivion vs. Stamina + Medicine or Fortitude"
+              },
+              {
+                "title": "System",
+                "text": "The vampire makes a Rouse Check. Following a win on a Stamina + Oblivion roll (Difficulty 3), unintelligent organic and inorganic material within five yards/ meters of them suffers — plants turn black and die, food rots in its packaging, and even bricks start crumbling. Material affected in this way can become toxic to ingest, if for instance this power is used in a kitchen or a water supply. Such toxic food and drink, if consumed, can be expected to inflict two Superficial Health damage in the following scene to the individual who eats it, and for each scene thereafter until treated with an Intelligence + Medicine roll (Difficulty 3). If anything living is caught in the aura, it makes a Stamina + Medicine contest against the vampire’s activation roll. For every point of margin the vampire has, the victim suffers one point of unhalved Superficial Health damage. This damage is slowly applied throughout the scene. Repeated applications of the power in the same scene have no effect on the Health of mortals already affected. The power is an aura that lasts for an entire scene before it fades away. Anyone with a sense of smell can detect a rotting odor emanating from the vampire during the time the power is active, inflicting a two-dice penalty to any Social rolls the vampire makes."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-fatal-prediction",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Predição Fatal",
+        "en": "Fatal Prediction"
+      },
+      "aliases": [
+        "Predição Fatal",
+        "Fatal Prediction"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-fatal-prediction-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 89",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 89,
+              "printedPage": 87
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2,
+              "Auspícios": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro liga fios invisíveis de entropia a um mortal, aumentando a possibilidade de dano ou morte durante a noite e o dia seguintes. Não pode interferir com a vítima sem arriscar romper o efeito."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 2. Amálgama: Auspícios 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Oblívio contra Raciocínio + Ocultismo da vítima."
+              },
+              {
+                "title": "Sistema",
+                "text": "Cada sucesso de margem causa um ponto de dano agravado à vítima em algum momento das próximas 24 horas. A causa pode ser uma doença repentina ou um acidente improvável. O vampiro não deve interagir direta ou indiretamente com o alvo, pois isso pode anular o poder. O Narrador define o limite da interação indireta; enviar subordinados para apressar o resultado certamente viola essa condição. O uso é invisível, mas uma testemunha pode perceber indícios de algo sinistro com Raciocínio + Ocultismo, Dificuldade 3. Só mortais, incluindo carniçais, são afetados; vampiros já estão mortos e resistem a essa manipulação da entropia."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite e um dia: 24 horas."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire can knit invisible strands of entropy to a target mortal, increasing the odds of them suffering harm or even death within the span of a night and a day. The effect resembles that of a curse, but the vampire is unable to interfere with the doomed mortal lest the effect be broken."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 2. Amalgam: Auspex 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Resolve + Oblivion vs Wits + Occult"
+              },
+              {
+                "title": "System",
+                "text": "The vampire makes a Resolve + Oblivion test against the mortal target’s Wits + Occult. For every success in the margin, the target suffers one point of Aggravated damage at some point during the next 24 hours. The source can be anything from sudden illness to freak accidents, but at no point must the vampire interact, directly or indirectly, with the victim as doing so risks negating the power. (The Storyteller decides exactly where the line is drawn on “indirect” interaction, but things like sending flunkies to “hasten” the outcome is definitely on the list.) Use of this power is invisible, though an onlooker can detect some sense of foul play on a Wits + Occult test at Difficulty 3. Only mortals (including ghouls) can be affected by this power, as vampires are dead already and far more resistant to these kinds of entropy manipulations."
+              },
+              {
+                "title": "Duration",
+                "text": "A night and a day – 24 hours"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-necrotic-plague",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Praga Necrótica",
+        "en": "Necrotic Plague"
+      },
+      "aliases": [
+        "Praga Necrótica",
+        "Necrotic Plague"
+      ],
+      "discipline": "Oblívio",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-necrotic-plague-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91, 92",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 91,
+              "printedPage": 89
+            },
+            {
+              "pdfPage": 92,
+              "printedPage": 90
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Pelo toque, o vampiro envenena o sangue de uma vítima mortal com uma doença sobrenatural. Pode torná-la contagiosa. Conhecimento de Medicina permite imitar doenças específicas, inclusive algumas consideradas extintas."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Oblívio contra a resistência da vítima. O cabeçalho apresenta Vigor + Vigor ou Fortitude; o Sistema especifica um teste de Vigor, ou Vigor + Fortitude para quem possui a Disciplina. O texto da fonte é preservado sem automatizar uma escolha entre essas redações."
+              },
+              {
+                "title": "Sistema",
+                "text": "O vampiro paga o custo e rola Inteligência + Oblívio enquanto toca a vítima mortal. Alvos debilitados — bebês, idosos, doentes, convalescentes, moribundos ou com três ou menos caixas de Vitalidade não marcadas — são infectados automaticamente. Alvos saudáveis fazem a resistência descrita no Sistema; só evitam a doença se obtiverem mais sucessos que o vampiro.\n\nA vítima sofre um dano agravado à Vitalidade no início de cada cena após a infecção, durante um número de cenas igual ao nível de Oblívio do usuário. Tratamento médico não cura esse dano sobrenatural, mas beber vitae pode curá-lo. Numa vitória crítica, o usuário pode tornar a doença transmissível por toque. Cada novo infectado sofre a doença por um turno a menos que quem o infectou: essa é a unidade usada pela fonte, embora a duração principal esteja em cenas. O Narrador decide sobre Máculas por usar o poder."
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno para ativar; duração variável da doença."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Through touch alone, the vampire can poison a mortal victim’s blood, imbuing them with a disease that wracks and ravages their body. This disease can also be made contagious and transmit the same harm to other mortals. Oblivion practitioners schooled in medicine often have enough talent to make this power appear in the form of specific illnesses, sometimes including some believed extinct."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Intelligence + Oblivion vs. Stamina + Stamina or Fortitude"
+              },
+              {
+                "title": "System",
+                "text": "The user makes a Rouse Check and then rolls Intelligence + Oblivion while touching their mortal victim. If the victim is weak (a baby, elderly, unwell, recovering from an illness, dying, or with 3 unmarked Health boxes or less), they are automatically infected. If the victim is healthy, they make a Stamina test (those with Fortitude may resist with Stamina + Fortitude), resisting the disease if they roll more successes than the vampire. Victims of the disease take one Aggravated Health damage at the start of every scene following their infection. The victim suffers from the disease for a number of scenes equal to the user’s Oblivion rating. This damage cannot be medically treated, as it is supernatural in origin, but it can be healed through drinking vitae. If the player rolls a critical win when activating this power, they can choose to make the disease communicable via touch, with subsequent recipients suffering the disease for one turn fewer than the victim by whom they were infected. Use of this power warrants Stains, at the Storyteller’s discretion."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn to activate, variable length of condition"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-passion-feast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Banquete de Paixões",
+        "en": "Passion Feast"
+      },
+      "aliases": [
+        "Banquete de Paixões",
+        "Passion Feast"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-passion-feast-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 90, 91",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 90,
+              "printedPage": 88
+            },
+            {
+              "pdfPage": 91,
+              "printedPage": 89
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3,
+              "Fortitude": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Permite subsistir das paixões de aparições em vez de sangue, seja para permanecer no mundo dos mortos, seja para atormentar um espírito."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 3. Amálgama: Fortitude 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Parada",
+                "text": "Determinação + Oblívio contra Determinação + Autocontrole da aparição."
+              },
+              {
+                "title": "Sistema",
+                "text": "A até três metros da aparição, o vampiro disputa as paradas indicadas. Se vencer, causa um dano agravado à Força de Vontade da aparição e reduz sua própria Fome em um. O Narrador pode atribuir uma Mácula: consumir a paixão enfraquece a razão de existir do espírito e pode levá-lo à autodestruição. O Narrador determina quantas paixões a aparição possui; cinco ou mais são raras. Quando todas são consumidas, pode decidir que o espírito se torna um espectro assassino e incontrolável."
+              },
+              {
+                "title": "Duração",
+                "text": "Passivo."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "When a vampire needs to spend an extended period in the lands of the dead, or wishes to torment a spirit, this Oblivion power allows them to subsist on the passions of wraiths rather than blood. An accomplished necromancer can feed on these passions, enabling them to go without blood for longer than their fellow Kindred."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 3. Amalgam: Fortitude 2."
+              },
+              {
+                "title": "Cost",
+                "text": "Free"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Resolve + Oblivion vs. Resolve + Composure"
+              },
+              {
+                "title": "System",
+                "text": "A vampire with this power can drain a wraith of their passion. While in close proximity\n\n(three yards/meters or closer) to the wraith, they may roll a contest of Resolve + Oblivion vs. the wraith’s Resolve + Composure. A win for the vampire inflicts one Aggravated Willpower damage to the wraith and reduces the vampire’s Hunger by one. Feeding from a wraith may merit a Stain at the Storyteller’s discretion, as the consumed passion dulls the wraith’s reason for being, likely sending them down a path to self-destructive acts. The Storyteller determines the number of passions a wraith possesses (though five or more is rare), and may deem that the wraith becomes an uncontrollable, murderous spectre once all passions have been consumed."
+              },
+              {
+                "title": "Duration",
+                "text": "Passive"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-shadow-servant",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Servo Sombrio",
+        "en": "Shadow Servant"
+      },
+      "aliases": [
+        "Servo Sombrio",
+        "Shadow Servant"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-shadow-servant-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 91,
+              "printedPage": 89
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3,
+              "Auspícios": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "O vampiro dá vida independente a parte da própria sombra para espionar ou inquietar inimigos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 3. Amálgama: Auspícios 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Nenhuma para ativar; Raciocínio + Oblívio, Dificuldade 3, para evitar luz forte por um turno."
+              },
+              {
+                "title": "Sistema",
+                "text": "O servo não tem mente própria e segue comandos mentais do criador. Move-se em velocidade de corrida, passa sob portas, escala paredes e atravessa frestas minúsculas, mas não suporta áreas muito iluminadas. Pode agarrar-se a veículos em movimento; seu alcance se limita à distância que consegue percorrer numa noite. Vê e ouve os arredores e transmite as informações assim que é reabsorvido pela sombra do criador. Apenas luz forte, como uma lanterna potente ou luz diurna, pode bani-lo; o teste indicado permite evitá-la por um turno."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire gives independent life to a part of their shadow and can use it to spy on or unnerve their enemies."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 3. Amalgam: Auspex 1."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "None"
+              },
+              {
+                "title": "System",
+                "text": "The servant has no mind of its own, but follows its creator’s mental commands The shadow travels at running speed and can effortlessly slip under doors, climb walls, or slip into or through the smallest cracks, although it cannot endure brightly\n\nlit areas. It can also cling to moving vehicles, and its range is limited only by how far it can travel in one night. It hears and sees everything in its vicinity and can convey the information as soon as it is reabsorbed into its creator’s shadow. The shadow servant can only be banished by bright light, such as from a powerful torch or daylight, but a successful Wits + Oblivion roll against Difficulty 3 allows the servant to avoid the light for a turn."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-skuld-fulfilled",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Destino de Skuld",
+        "en": "Skuld Fulfilled"
+      },
+      "aliases": [
+        "Destino de Skuld",
+        "Skuld Fulfilled"
+      ],
+      "discipline": "Oblívio",
+      "level": 5,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-skuld-fulfilled-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 93",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Faz retornar doenças curadas, fraturas consolidadas e a idade de carniçais protegidos pela vitae. Não funciona em vampiros e não exige contato com o alvo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 5."
+              },
+              {
+                "title": "Custo",
+                "text": "Dois Testes de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Vigor + Oblívio contra Vigor × 2, ou Vigor + Fortitude para quem possui a Disciplina."
+              },
+              {
+                "title": "Sistema",
+                "text": "O usuário cobre ambas as palmas e o rosto com sangue, lembrando o rosto do alvo. Se vencer a disputa, uma condição grave que a vítima já sofreu e superou retorna imediatamente, com todos os efeitos debilitantes: câncer tratado, osso quebrado, doença ou mesmo Praga Necrótica. O Narrador define efeitos severos, podendo usar a tabela de ferimentos incapacitantes do Livro Básico inglês, p. 303.\n\nNum carniçal, remove a imunidade ao envelhecimento e elimina toda a vitae do organismo; carniçais antigos podem morrer ou desintegrar-se no local. Numa vitória crítica, o usuário pode matar o alvo parando seu coração. Numa falha total, o vampiro não pode voltar a usar este poder naquele indivíduo."
+              },
+              {
+                "title": "Duração",
+                "text": "Variável, conforme a condição possa ou não ser tratada."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This power enables a vampire to reintroduce illnesses to victims who recovered from them, break bones long-since healed, and revoke a ghoul’s immunity to aging. While this power doesn’t work on vampires, it is an effective way of cutting through their servants and ensuring debts to fate are repaid, without having to come into contact with the recipient."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 5."
+              },
+              {
+                "title": "Cost",
+                "text": "Two Rouse Checks"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Stamina + Oblivion vs. Stamina + Stamina or Fortitude"
+              },
+              {
+                "title": "System",
+                "text": "The vampire makes two Rouse Checks as they expend sufficient vitae to coat both their palms and their face with blood, recalling the faces of their targets. If the user succeeds in a contest of Stamina + Oblivion vs. the victim’s Stamina x 2 (those with Fortitude may resist with Stamina + Fortitude), the targeted individual is affected by a serious condition they’ve historically suffered and recovered from, such as treated cancer, a broken bone, or a disease — including one gained through Necrotic Plague (p. 90) — with any debilitating effects from this condition occurring immediately. The condition’s effects are for the Storyteller to determine, but they should be severe (See the Crippling Injuries table for inspiration, Vampire: The Masquerade, p. 303). If the victim is a ghoul, this power removes their immunity to aging and eliminates any vitae in their system, potentially resulting in older ghouls dying or even disintegrating where they stand. On a critical win, this power may kill the victim by stopping their heart completely if the user wishes. On a total failure, the vampire cannot use this power against that individual again."
+              },
+              {
+                "title": "Duration",
+                "text": "Variable, dependent on whether the condition is treatable"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-the-binding-fetter",
+      "kind": "power",
+      "names": {
+        "pt-BR": "A Âncora Vinculante",
+        "en": "The Binding Fetter"
+      },
+      "aliases": [
+        "A Âncora Vinculante",
+        "The Binding Fetter"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-the-binding-fetter-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Identifica objetos, locais e até pessoas importantes para fantasmas, suas âncoras de existência. Conhecê-las permite ao necromante manipular melhor o espírito. As auras podem irradiar vitalidade e luz dourada, decadência ou cheiros significativos, como pão recém-assado, gasolina ou fumaça de cigarro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 1."
+              },
+              {
+                "title": "Custo",
+                "text": "Gratuito."
+              },
+              {
+                "title": "Parada",
+                "text": "Raciocínio + Oblívio, conforme o cabeçalho. O Sistema não determina uma Dificuldade nem exige explicitamente um teste de ativação."
+              },
+              {
+                "title": "Sistema",
+                "text": "Os sentidos ficam afinados às energias das âncoras, identificando suas auras por visão, olfato e outros sentidos. O vampiro fica distraído e sofre uma penalidade de dois dados em testes de Destreza e Raciocínio enquanto mantiver o poder."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire can identify objects or locations important to ghosts. These “fetters” act as icons that bind the dead to their existence. A fetter might be an object, a building, or even a person. Knowing if an object is a fetter allows a necromancer to better manipulate the ghost. Fetters emanate variable auras, some bursting with vitality and glowing gold light,\n\nothers radiating decay, or odors important to the bound wraith, such as the smell of freshly baked bread, gasoline, or cigarette smoke."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 1."
+              },
+              {
+                "title": "Cost",
+                "text": "Free"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Wits + Oblivion"
+              },
+              {
+                "title": "System",
+                "text": "On activation, the user’s senses become supernaturally attuned to the energies of fetters, and they may identify these auras by sight, smell, and their other senses. While this power is in use, the vampire is distracted from other activity around them, conveying a −2 penalty to Dexterity and Wits rolls."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-where-the-veil-thins",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Onde o Véu se Afina",
+        "en": "Where the Veil Thins"
+      },
+      "aliases": [
+        "Onde o Véu se Afina",
+        "Where the Veil Thins"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-where-the-veil-thins-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 89, 90",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 86,
+              "printedPage": 84
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            },
+            {
+              "pdfPage": 89,
+              "printedPage": 87
+            },
+            {
+              "pdfPage": 90,
+              "printedPage": 88
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            }
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Percebe onde o véu entre vivos e mortos é mais fino, sem revelar por que isso acontece. Nos locais mais tênues, a saúde dos mortais sofre e Oblívio se torna mais fácil."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Oblívio, Dificuldade 3."
+              },
+              {
+                "title": "Sistema",
+                "text": "Após pagar o custo, uma vitória revela a densidade do véu nas proximidades, até a extensão de um edifício ou marco geográfico inteiro. Uma vitória crítica também revela se a densidade mudou recentemente. Numa falha total, o poder fornece uma leitura falsa. Sem usar este poder, o praticante não se beneficia do véu tênue, embora penalidades possam ser aplicadas a critério do Narrador."
+              },
+              {
+                "title": "Densidade do Véu",
+                "text": "| Densidade | Causas possíveis | Efeito |\n| --- | --- | --- |\n| Impenetrável | Nenhuma morte no local; solo sagrado | Fantasmas não podem atravessar aqui |\n| Espesso | Morte antiga; lugar de alegria | Nenhum efeito |\n| Fino | Morte recente; passagem de mortais melancólicos | −1 na Dificuldade de testes de Cerimônias de Oblívio |\n| Desgastado | Série de mortes; Cerimônias frequentes | −2 na Dificuldade de testes de Cerimônias de Oblívio |\n| Ausente | Uso de Romper o Véu; travessia frequente de aparições | −2 na Dificuldade de Cerimônias; aparições passam livremente entre os mundos; mortais sofrem dois danos superficiais à Vitalidade, que não podem curar até sair |"
+              },
+              {
+                "title": "Duração",
+                "text": "Um turno."
+              },
+              {
+                "title": "Regras gerais de Oblívio nesta fonte",
+                "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Vampires with an affinity for Oblivion can sense where the veil between the world of the living and the world of the dead is the weakest. This power doesn’t tell a vampire why the veil between worlds is thin in a certain place, though. In locations where the veil is thinnest, mortal health suffers and use of the Oblivion Discipline becomes easier."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "Dice Pools",
+                "text": "Intelligence + Oblivion"
+              },
+              {
+                "title": "System",
+                "text": "Following a Rouse Check, the player rolls Intelligence + Oblivion (Difficulty 3) and on a win may determine the density of the veil in their nearby area, as large as an entire building or landmark. On a critical win, this roll reveals whether the veil density recently changed. On a total failure, the power backfires and gives a false reading. Without use of this power, Oblivion users cannot benefit from a thinning of the veil, though penalties apply at the Storyteller’s discretion."
+              },
+              {
+                "title": "Duration",
+                "text": "One turn"
+              },
+              {
+                "title": "Density of the Veil",
+                "text": "| Density | Possible causes | Effect |\n| --- | --- | --- |\n| Impenetrable | No deaths here; sacred ground | Wraiths cannot cross here |\n| Thick | A death long ago; a place of joy | No effect |\n| Thin | Recent death; melancholic mortals pass through | −1 Difficulty on Oblivion Ceremony rolls |\n| Frayed | A series of deaths; frequent Ceremonies | −2 Difficulty on Oblivion Ceremony rolls |\n| Absent | Split the Veil used here; wraiths regularly cross | −2 Difficulty on Ceremonies; wraiths pass freely between worlds; mortals suffer two Superficial Health damage that cannot be healed until they leave |"
+              },
+              {
+                "title": "General Oblivion rules in this source",
+                "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

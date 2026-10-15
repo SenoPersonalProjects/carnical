@@ -1,0 +1,106 @@
+{
+  "id": "players-guide-v5-power-obl-vio-fatal-prediction",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Predição Fatal",
+    "en": "Fatal Prediction"
+  },
+  "aliases": [
+    "Predição Fatal",
+    "Fatal Prediction"
+  ],
+  "discipline": "Oblívio",
+  "level": 2,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-obl-vio-fatal-prediction-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 89",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 89,
+          "printedPage": 87
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 2,
+          "Auspícios": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro liga fios invisíveis de entropia a um mortal, aumentando a possibilidade de dano ou morte durante a noite e o dia seguintes. Não pode interferir com a vítima sem arriscar romper o efeito."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 2. Amálgama: Auspícios 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Oblívio contra Raciocínio + Ocultismo da vítima."
+          },
+          {
+            "title": "Sistema",
+            "text": "Cada sucesso de margem causa um ponto de dano agravado à vítima em algum momento das próximas 24 horas. A causa pode ser uma doença repentina ou um acidente improvável. O vampiro não deve interagir direta ou indiretamente com o alvo, pois isso pode anular o poder. O Narrador define o limite da interação indireta; enviar subordinados para apressar o resultado certamente viola essa condição. O uso é invisível, mas uma testemunha pode perceber indícios de algo sinistro com Raciocínio + Ocultismo, Dificuldade 3. Só mortais, incluindo carniçais, são afetados; vampiros já estão mortos e resistem a essa manipulação da entropia."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite e um dia: 24 horas."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire can knit invisible strands of entropy to a target mortal, increasing the odds of them suffering harm or even death within the span of a night and a day. The effect resembles that of a curse, but the vampire is unable to interfere with the doomed mortal lest the effect be broken."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 2. Amalgam: Auspex 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Resolve + Oblivion vs Wits + Occult"
+          },
+          {
+            "title": "System",
+            "text": "The vampire makes a Resolve + Oblivion test against the mortal target’s Wits + Occult. For every success in the margin, the target suffers one point of Aggravated damage at some point during the next 24 hours. The source can be anything from sudden illness to freak accidents, but at no point must the vampire interact, directly or indirectly, with the victim as doing so risks negating the power. (The Storyteller decides exactly where the line is drawn on “indirect” interaction, but things like sending flunkies to “hasten” the outcome is definitely on the list.) Use of this power is invisible, though an onlooker can detect some sense of foul play on a Wits + Occult test at Difficulty 3. Only mortals (including ghouls) can be affected by this power, as vampires are dead already and far more resistant to these kinds of entropy manipulations."
+          },
+          {
+            "title": "Duration",
+            "text": "A night and a day – 24 hours"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

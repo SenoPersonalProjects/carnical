@@ -7,7 +7,7 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 44 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 63 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
@@ -15,10 +15,10 @@ na mesma entrada quando sua identificação é inequívoca.
 | --- | --- | --- |
 | Livro Básico | 5 rituais de nível 1 e Fusão com a Terra | Pendente |
 | Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
-| Guia do Jogador | Versões dos poderes, Qualidades de Coterie e Defeitos correspondentes; Contenção dos Salubri | Pendente |
+| Guia do Jogador | Versões dos poderes, Qualidades de Coterie e Defeitos correspondentes; Contenção dos Salubri; Lasombra e todos os 18 poderes de Oblívio | Cerimônias e demais seções pendentes |
 | Cultos dos Deuses de Sangue | 3 Cerimônias Shalimitas | Pendente |
 | Let the Streets Run Red | Assassino de Estrada | Pendente |
-| Chicago by Night | Nenhuma descrição revisada no novo catálogo | Pendente |
+| Chicago by Night | Lasombra e os nove poderes de Oblívio, incluindo as regras gerais da Disciplina | Loresheets e demais opções pendentes |
 | Camarilla | Nenhuma descrição revisada no novo catálogo | Pendente |
 | Anarch | Nenhuma descrição revisada no novo catálogo | Pendente |
 | Sabbat | Nenhuma descrição revisada no novo catálogo | Pendente |
@@ -39,6 +39,15 @@ permitindo tentar novamente. Itens personalizados mantêm as informações da fi
 
 ## Versões e escolhas gratuitas
 
+- Os nove poderes de Oblívio de Chicago e do Guia mantêm regras próprias para
+  iluminação, Máculas e as diferenças específicas de cada poder. Braços de
+  Ahriman do Guia não herda Vitalidade nem o escape especial da versão Chicago.
+  Visão de Oblívio do Guia inclui a penalidade social; Projetar Sombra especifica
+  o acréscimo de dano após a redução de dano superficial.
+- Lasombra pode ser selecionado com o Guia habilitado mesmo sem Chicago. A
+  descrição e o PDF respeitam a fonte registrada, inclusive o encerramento da
+  Compulsão ao fim da cena no Guia. Fichas antigas não são reescritas ao trocar
+  fontes. A remissão sem número em Chicago é indicada como falha da fonte.
 - Obeah e Panacea são versões do mesmo poder. O seletor oferece uma escolha;
   os nomes antigos das fichas continuam reconhecidos sem alteração dos dados.
 - Qualidades de Coterie respeitam clã, fonte, custo e restrição de criação.

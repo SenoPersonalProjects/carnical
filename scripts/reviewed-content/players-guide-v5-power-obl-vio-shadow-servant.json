@@ -1,0 +1,106 @@
+{
+  "id": "players-guide-v5-power-obl-vio-shadow-servant",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Servo Sombrio",
+    "en": "Shadow Servant"
+  },
+  "aliases": [
+    "Servo Sombrio",
+    "Shadow Servant"
+  ],
+  "discipline": "Oblívio",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-obl-vio-shadow-servant-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 91,
+          "printedPage": 89
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 3,
+          "Auspícios": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro dá vida independente a parte da própria sombra para espionar ou inquietar inimigos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 3. Amálgama: Auspícios 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Nenhuma para ativar; Raciocínio + Oblívio, Dificuldade 3, para evitar luz forte por um turno."
+          },
+          {
+            "title": "Sistema",
+            "text": "O servo não tem mente própria e segue comandos mentais do criador. Move-se em velocidade de corrida, passa sob portas, escala paredes e atravessa frestas minúsculas, mas não suporta áreas muito iluminadas. Pode agarrar-se a veículos em movimento; seu alcance se limita à distância que consegue percorrer numa noite. Vê e ouve os arredores e transmite as informações assim que é reabsorvido pela sombra do criador. Apenas luz forte, como uma lanterna potente ou luz diurna, pode bani-lo; o teste indicado permite evitá-la por um turno."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire gives independent life to a part of their shadow and can use it to spy on or unnerve their enemies."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 3. Amalgam: Auspex 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "None"
+          },
+          {
+            "title": "System",
+            "text": "The servant has no mind of its own, but follows its creator’s mental commands The shadow travels at running speed and can effortlessly slip under doors, climb walls, or slip into or through the smallest cracks, although it cannot endure brightly\n\nlit areas. It can also cling to moving vehicles, and its range is limited only by how far it can travel in one night. It hears and sees everything in its vicinity and can convey the information as soon as it is reabsorbed into its creator’s shadow. The shadow servant can only be banished by bright light, such as from a powerful torch or daylight, but a successful Wits + Oblivion roll against Difficulty 3 allows the servant to avoid the light for a turn."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

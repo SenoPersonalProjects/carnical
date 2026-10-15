@@ -44,6 +44,10 @@ try{
  const requested=[];
  globalThis.fetch=async url=>{const params=new URL(url,"http://fixture.local").searchParams;requested.push(Object.fromEntries(params));assert.equal(params.get("id"),item.id);assert.equal(params.get("version"),version.id);assert.equal(params.get("book"),version.book);return Response.json({id:item.id,name:item.names.en,source:version.sourceTitle,sections:version.descriptions.en})};
  await createCharacterPdf(characterSnapshot(versioned),"en");assert.equal(requested.length,1);assert.equal(versioned.data.merits[0].name,item.names["pt-BR"]);
+ versioned.data.merits=[];versioned.clan="Lasombra";versioned.sourcebook="players_guide_v5";
+ const clan=catalog.entries.find(entry=>entry.id==="clan-lasombra"),clanVersion=clan.versions.find(version=>version.book==="players-guide-v5");let clanRequests=0;
+ globalThis.fetch=async url=>{const params=new URL(url,"http://fixture.local").searchParams;clanRequests++;assert.equal(params.get("id"),clan.id);assert.equal(params.get("book"),clanVersion.book);return Response.json({id:clan.id,name:clan.names.en,source:clanVersion.sourceTitle,sections:clanVersion.descriptions.en})};
+ await createCharacterPdf(characterSnapshot(versioned),"en");assert.equal(clanRequests,1);
  globalThis.fetch=async()=>new Response("Unavailable",{status:503});await assert.rejects(()=>createCharacterPdf(characterSnapshot(value),"en"),/Missing item rules/);
  globalThis.fetch=async()=>new Response("Not reviewed",{status:404});
  const legacy=structuredClone(value);legacy.data.disciplinePowers={"Auspícios":["Sentidos Aguçados"]};

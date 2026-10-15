@@ -1774,6 +1774,688 @@
           }
         }
       ]
+    },
+    {
+      "id": "arms-of-ahriman",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Braços de Ahriman",
+        "en": "Arms of Ahriman"
+      },
+      "aliases": [
+        "Braços de Ahriman",
+        "Arms of Ahriman"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "books": [
+        "chicago-by-night-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "arms-of-ahriman-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 295",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2,
+              "Potência": 2
+            }
+          }
+        },
+        {
+          "id": "arms-of-ahriman-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 88, 89",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2,
+              "Potência": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "clan-lasombra",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Lasombra",
+        "en": "Lasombra"
+      },
+      "aliases": [
+        "Lasombra",
+        "Magisters",
+        "Keepers"
+      ],
+      "books": [
+        "chicago-by-night-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-lasombra-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 292, 293"
+        },
+        {
+          "id": "clan-lasombra-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 31, 32"
+        }
+      ]
+    },
+    {
+      "id": "oblivions-sight",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Visão de Oblívio",
+        "en": "Oblivion’s Sight"
+      },
+      "aliases": [
+        "Visão de Oblívio",
+        "Oblivion’s Sight"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "books": [
+        "chicago-by-night-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "oblivions-sight-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 294",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          }
+        },
+        {
+          "id": "oblivions-sight-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "shadow-cast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Projetar Sombra",
+        "en": "Shadow Cast"
+      },
+      "aliases": [
+        "Projetar Sombra",
+        "Shadow Cast"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "books": [
+        "chicago-by-night-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "shadow-cast-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 295",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            }
+          }
+        },
+        {
+          "id": "shadow-cast-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 89",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "shadow-cloak",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Manto de Sombras",
+        "en": "Shadow Cloak"
+      },
+      "aliases": [
+        "Manto de Sombras",
+        "Shadow Cloak"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "books": [
+        "chicago-by-night-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "shadow-cloak-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 294",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          }
+        },
+        {
+          "id": "shadow-cloak-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 88",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "shadow-perspective",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Perspectiva Sombria",
+        "en": "Shadow Perspective"
+      },
+      "aliases": [
+        "Perspectiva Sombria",
+        "Shadow Perspective"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "books": [
+        "chicago-by-night-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "shadow-perspective-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 295",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            }
+          }
+        },
+        {
+          "id": "shadow-perspective-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "shadow-step",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Passo das Sombras",
+        "en": "Shadow Step"
+      },
+      "aliases": [
+        "Passo das Sombras",
+        "Shadow Step"
+      ],
+      "discipline": "Oblívio",
+      "level": 5,
+      "books": [
+        "chicago-by-night-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "shadow-step-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 296",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            }
+          }
+        },
+        {
+          "id": "shadow-step-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 92, 93",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "stygian-shroud",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mortalha Estígia",
+        "en": "Stygian Shroud"
+      },
+      "aliases": [
+        "Mortalha Estígia",
+        "Stygian Shroud"
+      ],
+      "discipline": "Oblívio",
+      "level": 4,
+      "books": [
+        "chicago-by-night-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "stygian-shroud-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 296",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            }
+          }
+        },
+        {
+          "id": "stygian-shroud-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 92",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "tenebrous-avatar",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Avatar Tenebroso",
+        "en": "Tenebrous Avatar"
+      },
+      "aliases": [
+        "Avatar Tenebroso",
+        "Tenebrous Avatar"
+      ],
+      "discipline": "Oblívio",
+      "level": 5,
+      "books": [
+        "chicago-by-night-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "tenebrous-avatar-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 296",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            }
+          }
+        },
+        {
+          "id": "tenebrous-avatar-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 93",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "touch-of-oblivion",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Toque de Oblívio",
+        "en": "Touch of Oblivion"
+      },
+      "aliases": [
+        "Toque de Oblívio",
+        "Touch of Oblivion"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "books": [
+        "chicago-by-night-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "touch-of-oblivion-chicago-by-night-v5",
+          "book": "chicago-by-night-v5",
+          "sourceTitle": "Chicago by Night, PDF pp. 294, 295, 296",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            }
+          }
+        },
+        {
+          "id": "touch-of-oblivion-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-ashes-to-ashes",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Cinzas às Cinzas",
+        "en": "Ashes to Ashes"
+      },
+      "aliases": [
+        "Cinzas às Cinzas",
+        "Ashes to Ashes"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-ashes-to-ashes-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-aura-of-decay",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Aura de Decadência",
+        "en": "Aura of Decay"
+      },
+      "aliases": [
+        "Aura de Decadência",
+        "Aura of Decay"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-aura-of-decay-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 90",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-fatal-prediction",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Predição Fatal",
+        "en": "Fatal Prediction"
+      },
+      "aliases": [
+        "Predição Fatal",
+        "Fatal Prediction"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-fatal-prediction-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 89",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2,
+              "Auspícios": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-necrotic-plague",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Praga Necrótica",
+        "en": "Necrotic Plague"
+      },
+      "aliases": [
+        "Praga Necrótica",
+        "Necrotic Plague"
+      ],
+      "discipline": "Oblívio",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-necrotic-plague-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91, 92",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-passion-feast",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Banquete de Paixões",
+        "en": "Passion Feast"
+      },
+      "aliases": [
+        "Banquete de Paixões",
+        "Passion Feast"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-passion-feast-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 90, 91",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3,
+              "Fortitude": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-shadow-servant",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Servo Sombrio",
+        "en": "Shadow Servant"
+      },
+      "aliases": [
+        "Servo Sombrio",
+        "Shadow Servant"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-shadow-servant-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3,
+              "Auspícios": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-skuld-fulfilled",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Destino de Skuld",
+        "en": "Skuld Fulfilled"
+      },
+      "aliases": [
+        "Destino de Skuld",
+        "Skuld Fulfilled"
+      ],
+      "discipline": "Oblívio",
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-skuld-fulfilled-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 93",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-the-binding-fetter",
+      "kind": "power",
+      "names": {
+        "pt-BR": "A Âncora Vinculante",
+        "en": "The Binding Fetter"
+      },
+      "aliases": [
+        "A Âncora Vinculante",
+        "The Binding Fetter"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-the-binding-fetter-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-obl-vio-where-the-veil-thins",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Onde o Véu se Afina",
+        "en": "Where the Veil Thins"
+      },
+      "aliases": [
+        "Onde o Véu se Afina",
+        "Where the Veil Thins"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-obl-vio-where-the-veil-thins-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 89, 90",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            }
+          }
+        }
+      ]
     }
   ]
 }

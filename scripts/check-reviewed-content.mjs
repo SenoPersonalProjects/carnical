@@ -14,6 +14,34 @@ function load(file){
 const {POWER_CATALOG}=load("app/game-rules.ts"),{creationMagicEligibility,powerForSources,powerEligibility}=load("app/content/power-eligibility.ts"),{sourcebookForLibraryId}=load("app/creation-sources.ts");
 const read=file=>JSON.parse(fs.readFileSync(file,"utf8"));
 const catalog=read("app/content/catalog.json").entries,index=read("app/content/catalog-index.json").entries,pages=read("app/content/source-pages.json").books;
+const {clanSource}=load("app/content/clan-source.ts");
+assert.equal(clanSource("Lasombra","chicago_by_night_v5",new Set(["players_guide_v5"])),"players_guide_v5");
+assert.equal(clanSource("Lasombra","chicago_by_night_v5",new Set(["players_guide_v5","chicago_by_night_v5"]),"players_guide_v5"),"players_guide_v5");
+assert.equal(clanSource("Lasombra","chicago_by_night_v5",new Set(["core_v5_ptbr"])),"chicago_by_night_v5");
+const editionText=(id,book,locale)=>catalog.find(entry=>entry.id===id).versions.find(version=>version.book===book).descriptions[locale].map(section=>section.text).join("\n");
+const guideOblivion=catalog.filter(entry=>entry.kind==="power"&&entry.discipline==="Oblívio"&&entry.versions.some(version=>version.book==="players-guide-v5"));
+assert.equal(guideOblivion.length,18);
+const veil=guideOblivion.find(entry=>entry.names.en==="Where the Veil Thins"),aura=guideOblivion.find(entry=>entry.names.en==="Aura of Decay"),feast=guideOblivion.find(entry=>entry.names.en==="Passion Feast");
+for(const locale of ["pt-BR","en"]){
+ const table=veil.versions[0].descriptions[locale].find(section=>section.text.includes("| --- |"));assert.equal(table.text.split("\n").length,7);
+ assert.doesNotMatch(aura.versions[0].descriptions[locale].map(section=>section.text).join(" "),/Impenetrable|Impenetrável/);
+}
+assert.match(aura.versions[0].descriptions.en.find(section=>section.title==="System").text,/against the vampire’s activation roll/);
+assert.equal(feast.versions[0].requirements.disciplines.Fortitude,2);
+assert.match(editionText("arms-of-ahriman","chicago-by-night-v5","en"),/three health levels/);
+assert.doesNotMatch(editionText("arms-of-ahriman","players-guide-v5","en"),/three health levels|Resolve \+ Composure/);
+assert.match(editionText("arms-of-ahriman","players-guide-v5","en"),/Difficulty 3/);
+assert.match(editionText("oblivions-sight","players-guide-v5","en"),/two-dice penalty to social/);
+assert.doesNotMatch(editionText("oblivions-sight","chicago-by-night-v5","en"),/penalty to social/);
+assert.match(editionText("shadow-cast","players-guide-v5","en"),/after halving/);
+assert.match(editionText("shadow-cloak","chicago-by-night-v5","en"),/add one to the Difficulty/);
+assert.match(editionText("shadow-cloak","players-guide-v5","en"),/one-die penalty/);
+assert.doesNotMatch(editionText("clan-lasombra","chicago-by-night-v5","en").split("Chicago does not")[0],/or the scene ends/);
+assert.match(editionText("clan-lasombra","players-guide-v5","en"),/or the scene ends/);
+for(const power of POWER_CATALOG.filter(power=>power.source.book==="chicago-by-night-v5")){
+ const selected=powerForSources(power,new Set(["players_guide_v5"]));assert.equal(selected.source.book,"players-guide-v5");
+ assert.equal(powerEligibility(selected,{"Oblívio":5,"Potência":2},{},new Set(["players_guide_v5"])).allowed,true);
+}
 assert.equal(new Set(catalog.map(entry=>entry.id)).size,catalog.length,"Unique catalog identifiers");
 assert.deepEqual(index.map(entry=>entry.id).sort(),catalog.map(entry=>entry.id).sort());
 for(const entry of catalog){

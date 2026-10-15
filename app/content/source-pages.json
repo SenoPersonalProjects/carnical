@@ -242,6 +242,20 @@
       "title": "vampiro-a-mascara---chicago-by-night-v5",
       "pages": [
         {
+          "pdfPage": 292,
+          "printedPage": 291,
+          "image": "/source-pages/chicago-by-night-v5/0292.webp",
+          "width": 1500,
+          "height": 1948
+        },
+        {
+          "pdfPage": 293,
+          "printedPage": 292,
+          "image": "/source-pages/chicago-by-night-v5/0293.webp",
+          "width": 1500,
+          "height": 1948
+        },
+        {
           "pdfPage": 294,
           "printedPage": 293,
           "image": "/source-pages/chicago-by-night-v5/0294.webp",
@@ -552,6 +566,20 @@
       "id": "players-guide-v5",
       "title": "VTM 5e - Player's Guide",
       "pages": [
+        {
+          "pdfPage": 31,
+          "printedPage": 29,
+          "image": "/source-pages/players-guide-v5/0031.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 32,
+          "printedPage": 30,
+          "image": "/source-pages/players-guide-v5/0032.webp",
+          "width": 1500,
+          "height": 1920
+        },
         {
           "pdfPage": 71,
           "printedPage": 69,

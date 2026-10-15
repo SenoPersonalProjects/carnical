@@ -1,0 +1,204 @@
+{
+  "id": "arms-of-ahriman",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Braços de Ahriman",
+    "en": "Arms of Ahriman"
+  },
+  "aliases": [
+    "Braços de Ahriman",
+    "Arms of Ahriman"
+  ],
+  "discipline": "Oblívio",
+  "level": 2,
+  "versions": [
+    {
+      "id": "arms-of-ahriman-chicago-by-night-v5",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "sourceTitle": "Chicago by Night, PDF pp. 294, 295",
+      "pages": [
+        {
+          "pdfPage": 294,
+          "printedPage": 293
+        },
+        {
+          "pdfPage": 295,
+          "printedPage": 294
+        }
+      ],
+      "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+      "sourceLanguage": "en",
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 2,
+          "Potência": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro invoca apêndices abissais de pontos sem iluminação que estejam à vista. Sombras locais se distorcem em tentáculos e convergem sobre uma ou mais vítimas, deslizando por seus corpos ou agarrando suas sombras para imobilizá-las ou sufocá-las."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 2. Amálgama: Potência 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Oblívio."
+          },
+          {
+            "title": "Sistema",
+            "text": "O usuário gasta um turno e paga o custo para invocar os apêndices. Nos turnos seguintes, pode realizar ataques contundentes ou agarrões à distância. Pode dividir a parada para criar braços adicionais e enfrentar vários oponentes, conforme a regra de múltiplos adversários do Livro Básico, p. 125 na edição inglesa. Usa Raciocínio + Oblívio para atacar, causar dano superficial ou agarrar; adiciona metade da Potência, arredondada para cima, como bônus de dano. Enquanto controla os braços, não pode fazer mais nada. Eles podem abrir portas e puxar alavancas, mas não digitar nem dirigir veículos. O alcance é duas vezes o nível de Oblívio em metros, medido ao longo de superfícies, nunca pelo ar."
+          },
+          {
+            "title": "Resistência e dano aos braços",
+            "text": "Os braços possuem três níveis de Vitalidade e usam Raciocínio + Oblívio do dono para evitar ou suportar ataques. Como sombras bidimensionais, só podem ser feridos por luz forte, como uma lanterna potente ou luz diurna. O teste de Raciocínio + Oblívio permite buscar cantos escuros ou sobrepujar a luz por um turno, sofrendo um nível de dano e continuando o ataque. Uma vítima constrita deve obter mais sucessos em Determinação + Autocontrole do que o atacante para atravessar os tentáculos sem sofrer dano. Isso não dissipa os braços: eles podem atacar novamente num turno seguinte se o usuário desejar e a vítima continuar ao alcance."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até o poder ser encerrado ou destruído."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire summons abyssal appendages from unlit spots in the area, within line of sight. Local shadows distort as murky tentacles snake out from them and converge on one or more hapless victims. Whether by gliding up the body of the victim or engaging in a mystic grapple with the victim’s own shadow, the arms are able to hold them in place or smother them."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 2. Amalgam: Potence 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Wits + Oblivion"
+          },
+          {
+            "title": "System",
+            "text": "The user takes one turn and pays the cost, summoning the shadow appendages. Using these, the vampire can perform bludgeoning and grappling attacks against distant targets every subsequent turn. Additional arms can be created by splitting the dice pool, enabling the user to engage multiple opponents. (see Vampire: The Masquerade p. 125). The arms use the vampire’s\n\nWits + Oblivion to attack and deal Superficial damage or grapple, adding half the user’s Potence rating (round up) as a damage bonus. The vampire can do nothing else except control the arms while this power is active. They can also be used to perform simple actions (such as opening doors and pulling levers) but nothing as advanced as typing or controlling vehicles. The arms have a length (in yards/meters) equal to twice the Oblivion dots of the user. (Note that the arms, being shadows, move across surfaces, not air, and any distances must take this into account.)\n\nThe arms have three health levels and use their owner’s Wits + Oblivion to avoid and endure attacks. As two-dimensional shadows, they can only be harmed by bright light, such as from a powerful torch or daylight. The Wits + Oblivion roll allows the tendrils to attempt to snake into the dark corners of a room or overpower the light for a turn, taking a health level of damage but continuing the assault. As the shadow tendrils constrict and assault victims via magical means, it takes an act of will to escape them. A constricted victim must roll Resolve + Composure and achieve more successes than the attacker to simply pass through the tendrils incurring no harm. This action does not dissipate the Arms of Ahriman, which can attack again on a subsequent turn if the wielder wishes it and the target is still within reach."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until ended or destroyed"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "arms-of-ahriman-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 88, 89",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 88,
+          "printedPage": 86
+        },
+        {
+          "pdfPage": 89,
+          "printedPage": 87
+        }
+      ],
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "sourceLanguage": "en",
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 2,
+          "Potência": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro invoca extensões sombrias de pontos sem iluminação que estejam à vista. Elas fluem pelas paredes e pelo chão e convergem sobre uma ou mais vítimas, imobilizando-as ou sufocando-as, seja envolvendo seus corpos, seja agarrando misticamente suas sombras."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 2. Amálgama: Potência 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Oblívio."
+          },
+          {
+            "title": "Sistema",
+            "text": "O usuário gasta um turno e paga o custo para invocar os apêndices. Nos turnos seguintes, pode realizar ataques contundentes ou agarrões à distância. Pode dividir a parada para criar braços adicionais e enfrentar vários oponentes, conforme a regra de múltiplos adversários do Livro Básico, p. 125 na edição inglesa. Usa Raciocínio + Oblívio para atacar, causar dano superficial ou agarrar; adiciona metade da Potência, arredondada para cima, como bônus de dano. Enquanto controla os braços, não pode fazer mais nada. Eles podem abrir portas e puxar alavancas, mas não digitar nem dirigir veículos. O alcance é duas vezes o nível de Oblívio em metros, medido ao longo de superfícies, nunca pelo ar."
+          },
+          {
+            "title": "Resistência e dano aos braços",
+            "text": "Somente luz forte, como uma lanterna potente ou luz diurna, pode banir os braços. Um teste bem-sucedido de Raciocínio + Oblívio, Dificuldade 3, permite que as sombras evitem a luz por um turno. Esta versão não atribui três níveis de Vitalidade aos braços nem estabelece o teste especial de Determinação + Autocontrole para escapar presente em Chicago; não acrescente essas regras à versão do Guia."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até o poder ser encerrado ou destruído."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire summons shadowy extensions from unlit spots in the area, within line of sight. Local shadows distort as they flow across walls and floors and converge on one or more hapless victims. Whether by gliding up the body of the victim or engaging in a mystic grapple with the victim’s own shadow, the arms are able to hold them in place or smother them."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 2. Amalgam: Potence 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Wits + Oblivion"
+          },
+          {
+            "title": "System",
+            "text": "The user takes one turn and pays the cost, summoning the extensions. Using these, the vampire can perform bludgeoning and grappling attacks against distant targets every subsequent turn. Additional arms can be created by splitting the dice pool, enabling the user to engage multiple opponents. (Vampire: The Masquerade, p. 125). The shadows use the vampire’s Wits + Oblivion to attack and deal Superficial damage or grapple, adding half the user’s Potence rating (round up) as a damage bonus. The vampire can do nothing else except control the shadows while this power is active. They can also use the shadows to perform simple actions (such as opening doors and pulling levers) but nothing as advanced as typing or controlling vehicles. The extrusions have a length (in yards/ meters) equal to twice the Oblivion dots of the user. (Note that they, being shadows, move across surfaces, not air, and any distances must take this into account.) The shadow arms can only be banished by bright light, such as from a powerful torch or daylight, but a successful Wits + Oblivion roll against Difficulty 3\n\nallows the shadows to avoid the light for a turn."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until ended or destroyed"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

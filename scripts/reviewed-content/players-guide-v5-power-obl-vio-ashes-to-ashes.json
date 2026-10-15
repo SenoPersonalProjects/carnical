@@ -1,0 +1,101 @@
+{
+  "id": "players-guide-v5-power-obl-vio-ashes-to-ashes",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Cinzas às Cinzas",
+    "en": "Ashes to Ashes"
+  },
+  "aliases": [
+    "Cinzas às Cinzas",
+    "Ashes to Ashes"
+  ],
+  "discipline": "Oblívio",
+  "level": 1,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-obl-vio-ashes-to-ashes-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Destrói as evidências de alimentação ao introduzir vitae num cadáver recente ou antigo. Não funciona em vampiros; cadáveres animados podem ser afetados a critério do Narrador."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "O cabeçalho da fonte indica Vigor + Oblívio contra Vigor + Medicina ou Fortitude. No Sistema, o cadáver animado resiste com Vigor, ou Vigor + Fortitude se possuir essa Disciplina. A divergência do cabeçalho é preservada, sem presumir uma correção."
+          },
+          {
+            "title": "Sistema",
+            "text": "O vampiro paga o custo e introduz a vitae no cadáver. Um corpo não animado se desintegra em três turnos, sem teste adicional. Contra um cadáver animado, disputa Vigor + Oblívio contra a resistência indicada no Sistema acima. Se vencer, o corpo se dissolve em cinco turnos menos a margem, mínimo de um; enquanto se desintegra, sofre Debilitação física. Uma vitória crítica o desintegra imediatamente. Numa falha total, aquele cadáver fica imune ao poder de qualquer usuário."
+          },
+          {
+            "title": "Duração",
+            "text": "Variável, conforme o resultado e a animação do cadáver."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Destroying evidence of feeding is a necessity among vampires who leave dead bodies in their wake. This power enables a vampire to destroy a corpse — fresh or long dead — by introducing their vitae to its body. This power does not work on vampires, but can work on animated cadavers, at the Storyteller’s discretion."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Stamina + Oblivion vs. Stamina + Medicine or Fortitude"
+          },
+          {
+            "title": "System",
+            "text": "The vampire makes a Rouse Check to expend vitae, and introduces the vitae to the corpse. Unless the corpse is animated, the body disintegrates over three turns with no test necessary. If it is, the user rolls a contest of Stamina + Oblivion against Stamina. (Corpses with Fortitude may resist with Stamina + Fortitude.) If the user wins, the animated corpse dissolves in five turns, minus the margin (minimum one, and disintegrating corpses suffer physical Impairment). On a critical win, the corpse disintegrates immediately. On a total failure, the corpse is subsequently immune to this power from any user."
+          },
+          {
+            "title": "Duration",
+            "text": "Variable"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

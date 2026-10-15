@@ -1,0 +1,109 @@
+{
+  "id": "players-guide-v5-power-obl-vio-necrotic-plague",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Praga Necrótica",
+    "en": "Necrotic Plague"
+  },
+  "aliases": [
+    "Praga Necrótica",
+    "Necrotic Plague"
+  ],
+  "discipline": "Oblívio",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-obl-vio-necrotic-plague-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91, 92",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 91,
+          "printedPage": 89
+        },
+        {
+          "pdfPage": 92,
+          "printedPage": 90
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Pelo toque, o vampiro envenena o sangue de uma vítima mortal com uma doença sobrenatural. Pode torná-la contagiosa. Conhecimento de Medicina permite imitar doenças específicas, inclusive algumas consideradas extintas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Oblívio contra a resistência da vítima. O cabeçalho apresenta Vigor + Vigor ou Fortitude; o Sistema especifica um teste de Vigor, ou Vigor + Fortitude para quem possui a Disciplina. O texto da fonte é preservado sem automatizar uma escolha entre essas redações."
+          },
+          {
+            "title": "Sistema",
+            "text": "O vampiro paga o custo e rola Inteligência + Oblívio enquanto toca a vítima mortal. Alvos debilitados — bebês, idosos, doentes, convalescentes, moribundos ou com três ou menos caixas de Vitalidade não marcadas — são infectados automaticamente. Alvos saudáveis fazem a resistência descrita no Sistema; só evitam a doença se obtiverem mais sucessos que o vampiro.\n\nA vítima sofre um dano agravado à Vitalidade no início de cada cena após a infecção, durante um número de cenas igual ao nível de Oblívio do usuário. Tratamento médico não cura esse dano sobrenatural, mas beber vitae pode curá-lo. Numa vitória crítica, o usuário pode tornar a doença transmissível por toque. Cada novo infectado sofre a doença por um turno a menos que quem o infectou: essa é a unidade usada pela fonte, embora a duração principal esteja em cenas. O Narrador decide sobre Máculas por usar o poder."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno para ativar; duração variável da doença."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Through touch alone, the vampire can poison a mortal victim’s blood, imbuing them with a disease that wracks and ravages their body. This disease can also be made contagious and transmit the same harm to other mortals. Oblivion practitioners schooled in medicine often have enough talent to make this power appear in the form of specific illnesses, sometimes including some believed extinct."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Intelligence + Oblivion vs. Stamina + Stamina or Fortitude"
+          },
+          {
+            "title": "System",
+            "text": "The user makes a Rouse Check and then rolls Intelligence + Oblivion while touching their mortal victim. If the victim is weak (a baby, elderly, unwell, recovering from an illness, dying, or with 3 unmarked Health boxes or less), they are automatically infected. If the victim is healthy, they make a Stamina test (those with Fortitude may resist with Stamina + Fortitude), resisting the disease if they roll more successes than the vampire. Victims of the disease take one Aggravated Health damage at the start of every scene following their infection. The victim suffers from the disease for a number of scenes equal to the user’s Oblivion rating. This damage cannot be medically treated, as it is supernatural in origin, but it can be healed through drinking vitae. If the player rolls a critical win when activating this power, they can choose to make the disease communicable via touch, with subsequent recipients suffering the disease for one turn fewer than the victim by whom they were infected. Use of this power warrants Stains, at the Storyteller’s discretion."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn to activate, variable length of condition"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

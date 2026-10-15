@@ -19,6 +19,7 @@ import AnchorEditor from "./anchor-editor";
 import { powerEligibility, creationMagicEligibility, powersForSources } from "./content/power-eligibility";
 import ContentDetails from "./content/content-details";
 import KnownContentDetails from "./content/known-content-details";
+import {clanSource} from "./content/clan-source";
 import CreationItemPicker,{type CatalogItem} from "./content/creation-item-picker";
 import type {ItemContext} from "./content/item-eligibility";
 import {CONTENT_INDEX,contentName,sameContent} from "./content/resolve";
@@ -99,11 +100,12 @@ export default function CharacterStudio({displayName,signOutPath,previewMode=fal
   const toggleSourcebook=(source:string)=>{if(source==="core_v5_ptbr")return;setCharacter(current=>{const selected=new Set(normalizeActiveSourcebooks(current.data.activeSourcebooks));if(selected.has(source))selected.delete(source);else selected.add(source);return{...current,data:{...current.data,activeSourcebooks:normalizeActiveSourcebooks([...selected])}}})};
   const baseAttributes=purchasedLevels(character.data.attributes,character.data.xpPurchases,"attribute");
   const attrCounts=Object.values(baseAttributes).reduce<Values>((a,v)=>{a[v]=(a[v]||0)+1;return a},{});
-  const clanInfo=CLANS.find(([name])=>name===character.clan),selectedSource=clanInfo?.[1]??(character.clan==="Personalizado"?"custom":character.sourcebook);
   const activeSources=new Set(normalizeActiveSourcebooks(character.data.activeSourcebooks));
+  const sourcedClans:[string,string,string[]][]=CLANS.map(([name,source,disciplines])=>[name,clanSource(name,source,activeSources,name===character.clan?character.sourcebook:undefined),disciplines]);
+  const clanInfo=sourcedClans.find(([name])=>name===character.clan),selectedSource=clanInfo?.[1]??(character.clan==="Personalizado"?"custom":character.sourcebook);
   const itemContext:ItemContext={phase:"creation",clan:character.clan,activeSources,disciplines:character.data.disciplines,powers:character.data.disciplinePowers};
   const addCatalogItem=(key:"merits"|"flawItems",item:CatalogItem)=>setCharacter(current=>current.data[key].some(existing=>existing.catalogId===item.catalogId)?current:{...current,data:{...current.data,[key]:[...current.data[key],item]}});
-  const enabledClans=CLANS.filter(([name,source])=>activeSources.has(source)||name===character.clan);
+  const enabledClans=sourcedClans.filter(([name,source])=>activeSources.has(source)||name===character.clan);
   const enabledPredators=PREDATOR_RULES.filter(rule=>activeSources.has(sourcebookForLibraryId(rule.source.book)??"")||rule.name===character.data.predator);
   const clanSourceInactive=!!clanInfo&&!activeSources.has(clanInfo[1]);
   const predatorSourceInactive=!!character.data.predator&&!activeSources.has(sourcebookForLibraryId(PREDATOR_RULES.find(rule=>rule.name===character.data.predator)?.source.book??"")??"");
@@ -125,7 +127,7 @@ export default function CharacterStudio({displayName,signOutPath,previewMode=fal
   const selectClan=(name:string,source:string,disciplines:string[])=>setCharacter(current=>{
     const chosen={...current.data.disciplines};for(const discipline of disciplines.filter(item=>!item.includes("quaisquer")&&!item.includes("intrínsecas")))chosen[discipline]??=0;
     if(name==="Sangue-Ralo")chosen["Alquimia do Sangue-Fraco"]??=0;
-    return {...current,clan:name,sourcebook:source,data:{...current.data,disciplines:chosen,clanBane:name==="Lasombra"?"Reflexos e gravações ficam distorcidos; tecnologia de comunicação exige teste de Tecnologia com dificuldade 2 + Severidade da Fraqueza.":current.data.clanBane,clanCompulsion:name==="Lasombra"?"Implacabilidade: após falhar, sofre penalidade de dois dados até ter sucesso em nova tentativa da mesma ação.":current.data.clanCompulsion}}
+    return {...current,clan:name,sourcebook:source,data:{...current.data,disciplines:chosen,clanBane:name==="Lasombra"?"Reflexos e gravações ficam distorcidos; tecnologia de comunicação exige teste de Tecnologia com dificuldade 2 + Severidade da Fraqueza. Evitar detecção eletrônica de vampiros sofre penalidade igual à Severidade da Fraqueza.":current.data.clanBane,clanCompulsion:name==="Lasombra"?`Implacabilidade: após falhar, sofre penalidade de dois dados em todos os testes, inclusive novas tentativas da mesma ação, até obter sucesso nela${source==="players_guide_v5"?" ou a cena terminar":""}.`:current.data.clanCompulsion}}
   });
   const updateMerit=(key:"merits"|"flawItems",index:number,patch:Partial<Merit>)=>setData(key,character.data[key].map((m,i)=>i===index?{...m,...patch}:m)),addMerit=(key:"merits"|"flawItems")=>setData(key,[...character.data[key],{name:"",dots:1,source:"core_v5_ptbr",notes:""}]),removeMerit=(key:"merits"|"flawItems",index:number)=>setData(key,character.data[key].filter((_,i)=>i!==index));
   const changePredatorOption=(key:"predatorDiscipline"|"predatorSpecialty"|"predatorSpecialtyName",value:string)=>setCharacter(current=>{
@@ -276,7 +278,7 @@ function MeritEditor({title,items,onAdd,onUpdate,onRemove,activeSources,predator
 function SourceSettingsSheet({open,onOpenChange,activeSources,onToggle}:{open:boolean;onOpenChange:(open:boolean)=>void;activeSources:ReadonlySet<string>;onToggle:(source:string)=>void}){
   const en=usePreferredLocale()==="en";
   return <Sheet open={open} onOpenChange={onOpenChange}><SheetContent className="source-sheet source-config-sheet sm:max-w-xl"><SheetHeader><SheetTitle><UiText text="Fontes da ficha"/></SheetTitle><SheetDescription><UiText text="Escolha os livros usados nas opções desta ficha. O Livro Básico permanece ativo. Desativar uma fonte não apaga escolhas já registradas."/></SheetDescription></SheetHeader><div className="source-scroll"><p className="source-config-intro"><UiText text="Clãs, tipos de Predador, poderes e origens de itens seguem esta seleção. As 27 Habilidades básicas continuam disponíveis; novos livros acrescentam escolhas de Especialização por meio dos tipos de Predador."/></p><div className="source-toggle-list">{SOURCEBOOKS.map(source=>{
-    const clans=CLANS.filter(([,value])=>value===source.value).length;
+    const clans=CLANS.filter(([name,primary])=>clanSource(name,primary,new Set([source.value]))===source.value).length;
     const predators=PREDATOR_RULES.filter(rule=>sourcebookForLibraryId(rule.source.book)===source.value).length;
     const powers=powersForSources(POWER_CATALOG,new Set([source.value])).filter(power=>power.source.book===source.libraryId).length;
     const items=CONTENT_INDEX.filter(entry=>["merit","flaw","background","loresheet"].includes(entry.kind)&&entry.books.includes(source.libraryId)).length;

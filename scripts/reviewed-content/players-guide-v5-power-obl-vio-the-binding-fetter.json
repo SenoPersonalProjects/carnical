@@ -1,0 +1,101 @@
+{
+  "id": "players-guide-v5-power-obl-vio-the-binding-fetter",
+  "kind": "power",
+  "names": {
+    "pt-BR": "A Âncora Vinculante",
+    "en": "The Binding Fetter"
+  },
+  "aliases": [
+    "A Âncora Vinculante",
+    "The Binding Fetter"
+  ],
+  "discipline": "Oblívio",
+  "level": 1,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-obl-vio-the-binding-fetter-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Identifica objetos, locais e até pessoas importantes para fantasmas, suas âncoras de existência. Conhecê-las permite ao necromante manipular melhor o espírito. As auras podem irradiar vitalidade e luz dourada, decadência ou cheiros significativos, como pão recém-assado, gasolina ou fumaça de cigarro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Parada",
+            "text": "Raciocínio + Oblívio, conforme o cabeçalho. O Sistema não determina uma Dificuldade nem exige explicitamente um teste de ativação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Os sentidos ficam afinados às energias das âncoras, identificando suas auras por visão, olfato e outros sentidos. O vampiro fica distraído e sofre uma penalidade de dois dados em testes de Destreza e Raciocínio enquanto mantiver o poder."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire can identify objects or locations important to ghosts. These “fetters” act as icons that bind the dead to their existence. A fetter might be an object, a building, or even a person. Knowing if an object is a fetter allows a necromancer to better manipulate the ghost. Fetters emanate variable auras, some bursting with vitality and glowing gold light,\n\nothers radiating decay, or odors important to the bound wraith, such as the smell of freshly baked bread, gasoline, or cigarette smoke."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Wits + Oblivion"
+          },
+          {
+            "title": "System",
+            "text": "On activation, the user’s senses become supernaturally attuned to the energies of fetters, and they may identify these auras by sight, smell, and their other senses. While this power is in use, the vampire is distracted from other activity around them, conveying a −2 penalty to Dexterity and Wits rolls."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": "stygian-shroud",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Mortalha Estígia",
+    "en": "Stygian Shroud"
+  },
+  "aliases": [
+    "Mortalha Estígia",
+    "Stygian Shroud"
+  ],
+  "discipline": "Oblívio",
+  "level": 4,
+  "versions": [
+    {
+      "id": "stygian-shroud-chicago-by-night-v5",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "sourceTitle": "Chicago by Night, PDF pp. 294, 296",
+      "pages": [
+        {
+          "pdfPage": 294,
+          "printedPage": 293
+        },
+        {
+          "pdfPage": 296,
+          "printedPage": 295
+        }
+      ],
+      "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+      "sourceLanguage": "en",
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A escuridão se derrama de uma sombra próxima e cobre a área com um breu de noite sem lua; os sons ficam abafados e indistintos. De fora, vê-se a sombra se expandir por superfícies e pelos corpos presentes. Além do invocador, os afetados têm dificuldade para ver e ouvir, e mortais perdem vitalidade pelo efeito sufocante."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "O usuário paga o custo e concentra-se por um turno para espalhar a sombra. A área circular tem raio igual a duas vezes seu nível de Oblívio em metros, centrada nele ou num ponto à vista. Quem estiver na Mortalha sofre uma penalidade de três dados em todos os testes, a menos que enxergue através de escuridão sobrenatural. Mortais sofrem um ponto de dano superficial por turno dentro da área devido ao sufocamento."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Darkness spews out of a nearby shadow as the vampire blankets the area around them in gloom equivalent to a moonless night, while sounds are muffled and indistinct. Anyone viewing the effect from without see it as a shadow expanding over every surface, including the bodies of any victims, in the area. Those apart from the invoker caught in the effects find themselves struggling to see and hear their surroundings, and mortals are drained of their very life by the suffocating power."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "The user makes a Rouse Check and spends a turn concentrating, spreading the shadow over the desired surfaces. The effect covers a circular area with a radius equal to twice the user’s Oblivion rating in yards/ meters. The area is centered on the user or a spot in their line of sight. Anyone caught in the Stygian Shroud receives a three-dice penalty to all rolls, unless they possess the ability to see through supernatural darkness. Any mortals caught in the Stygian Shroud suffer one level of Superficial damage for every turn they remain within it, due to the power’s suffocating effects."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "stygian-shroud-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 92",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 92,
+          "printedPage": 90
+        }
+      ],
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "sourceLanguage": "en",
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A escuridão se derrama de uma sombra próxima e cobre a área com um breu de noite sem lua; os sons ficam abafados e indistintos. De fora, vê-se a sombra se expandir por superfícies e pelos corpos presentes. Além do invocador, os afetados têm dificuldade para ver e ouvir, e mortais perdem vitalidade pelo efeito sufocante."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "O usuário paga o custo e concentra-se por um turno para espalhar a sombra. A área circular tem raio igual a duas vezes seu nível de Oblívio em metros, centrada nele ou num ponto à vista. Quem estiver na Mortalha sofre uma penalidade de três dados em todos os testes, a menos que enxergue através de escuridão sobrenatural. Mortais sofrem um ponto de dano superficial por turno dentro da área devido ao sufocamento."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Nearby shadows spread outwards as the vampire blankets the area in a layer of darkness, while sounds become muffled and indistinct. Anyone viewing the effect from without sees it as a shadow expanding over every surface, including the bodies of any victims, in the area. Those apart from the invoker caught in the effects find themselves struggling to see and hear their surroundings, and mortals are drained of their very life by the suffocating power."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "The user makes a Rouse Check and spends a turn concentrating, spreading the shadow over the desired surfaces. The effect covers a circular area with a radius equal to twice the user’s Oblivion rating in yards/meters. The area is centered on the user or a spot in their line of sight. Anyone caught in the Stygian Shroud receives a three-dice penalty to all rolls, unless they possess the ability to see through supernatural darkness. Any mortals caught in the Stygian Shroud suffer one level of Superficial damage for every turn they remain within it, due to the power’s suffocating effects."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

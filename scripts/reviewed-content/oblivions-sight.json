@@ -1,0 +1,166 @@
+{
+  "id": "oblivions-sight",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Visão de Oblívio",
+    "en": "Oblivion’s Sight"
+  },
+  "aliases": [
+    "Visão de Oblívio",
+    "Oblivion’s Sight"
+  ],
+  "discipline": "Oblívio",
+  "level": 1,
+  "versions": [
+    {
+      "id": "oblivions-sight-chicago-by-night-v5",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "sourceTitle": "Chicago by Night, PDF pp. 294",
+      "pages": [
+        {
+          "pdfPage": 294,
+          "printedPage": 293
+        }
+      ],
+      "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+      "sourceLanguage": "en",
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro fecha os olhos e os reabre com íris negras contra o branco da esclera. Enxerga em escuridão total e percebe fantasmas que não estejam ocultando ativamente a presença."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ignora todas as penalidades por pouca luz, inclusive de origem sobrenatural. Ainda precisa dos olhos: vendas e obstruções semelhantes funcionam normalmente. Fantasmas que não estejam usando Furtividade ou um poder de ocultação ficam visíveis. Eles aparecem como desejam: humanos com ferimentos da morte, monstruosidades espectrais ou cadáveres impecáveis. Não percebem automaticamente que foram vistos; se perceberem, podem reagir com medo ou raiva. O poder não permite tocar fisicamente em fantasmas."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire closes their eyes. Upon opening them, the irises of their eyes are black against the white of their sclera, and they can now see clearly within pitch blackness, and can perceive ghosts who are not actively hiding their presence."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free"
+          },
+          {
+            "title": "System",
+            "text": "On activation, the user’s eyes become supernaturally attuned to darkness, allowing them to ignore all low-light penalties, including those of supernatural origin. They still need their eyes to see and are affected by blindfolds and the like as usual. If a ghost is present and not attempting stealth or using a power to conceal its presence, the spirit becomes visible to the vampire using Oblivion’s Sight. In such cases, ghosts appear as they wish to appear, whether as humans bearing the wounds that caused their death, as spectral monstrosities, or as perfectly immaculate corpses. Ghosts do not automatically realize when a vampire spots them, but if they do, many react with fear or anger rather than passivity. This power does not grant the ability to make physical contact with ghosts."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "oblivions-sight-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        }
+      ],
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "sourceLanguage": "en",
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O vampiro fecha os olhos e os reabre com íris negras contra o branco da esclera. Enxerga em escuridão total e percebe fantasmas que não estejam ocultando ativamente a presença."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Gratuito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ignora todas as penalidades por pouca luz, inclusive de origem sobrenatural. Ainda precisa dos olhos: vendas e obstruções semelhantes funcionam normalmente. Fantasmas que não estejam usando Furtividade ou um poder de ocultação ficam visíveis. Eles aparecem como desejam: humanos com ferimentos da morte, monstruosidades espectrais ou cadáveres impecáveis. Não percebem automaticamente que foram vistos; se perceberem, podem reagir com medo ou raiva. O poder não permite tocar fisicamente em fantasmas. Os olhos totalmente negros impõem uma penalidade de dois dados em interações sociais com mortais enquanto o poder estiver ativo."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire’s eyes turn black, allowing them to see clearly within pitch darkness and to perceive ghosts who are not actively hiding their presence."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 1."
+          },
+          {
+            "title": "Cost",
+            "text": "Free"
+          },
+          {
+            "title": "System",
+            "text": "On activation, the user’s eyes become supernaturally attuned to darkness, allowing them to ignore all low-light penalties, including those of supernatural origin. They still need their eyes to see and are affected by blindfolds and the like as usual. If a ghost is present and not attempting stealth or using a power to conceal its presence, the spirit becomes visible to the vampire using Oblivion’s Sight. In such cases, ghosts appear as they wish to appear, whether as humans bearing the wounds that caused their death, as spectral monstrosities, or as perfectly immaculate corpses. Ghosts do not automatically realize when a vampire spots them, but if they do, many react with fear or anger rather than passivity. This power does not grant the ability to make physical contact with ghosts, and the pitch-black eyes incur a two-dice penalty to social interactions with mortals while active."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

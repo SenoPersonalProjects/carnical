@@ -1,0 +1,194 @@
+{
+  "id": "touch-of-oblivion",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Toque de Oblívio",
+    "en": "Touch of Oblivion"
+  },
+  "aliases": [
+    "Toque de Oblívio",
+    "Touch of Oblivion"
+  ],
+  "discipline": "Oblívio",
+  "level": 3,
+  "versions": [
+    {
+      "id": "touch-of-oblivion-chicago-by-night-v5",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "sourceTitle": "Chicago by Night, PDF pp. 294, 295, 296",
+      "pages": [
+        {
+          "pdfPage": 294,
+          "printedPage": 293
+        },
+        {
+          "pdfPage": 295,
+          "printedPage": 294
+        },
+        {
+          "pdfPage": 296,
+          "printedPage": 295
+        }
+      ],
+      "pdfSha256": "b568a3d3de0b718d6fcab76537d1d5d2e250dae4a52b1c72ea2d052415361d0a",
+      "sourceLanguage": "en",
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O usuário canaliza Oblívio através da vitae. Ao tocar a vítima, a força aniquiladora atravessa seu corpo e faz a área tocada definhar: músculos encolhem, tendões se rompem e ossos ficam frágeis, como se aquela região envelhecesse catastroficamente. Pode inutilizar membros, a garganta ou os olhos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Força + Briga para agarrar uma vítima que tente evitar o contato; o texto não estabelece um teste separado de Oblívio."
+          },
+          {
+            "title": "Sistema",
+            "text": "Após pagar o custo, o vampiro segura a vítima. Ela sofre dois pontos de dano agravado e um ferimento incapacitante. Um braço ou perna atingido fica inutilizado; mortais precisam de reabilitação prolongada, enquanto vampiros podem reparar o dano como dano agravado normal. O poder também pode tornar a vítima muda, surda ou cega."
+          },
+          {
+            "title": "Referência do ferimento",
+            "text": "A edição de Chicago apresenta uma remissão sem número de página para as regras de ferimentos incapacitantes do Livro Básico. Consulte a tabela no seu exemplar; nenhum número foi presumido."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados aumentam em um a Dificuldade do teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire using Touch of Oblivion channels the power through their vitae. When they make physical contact with a victim, the annihilating element runs through the vampire and into their prey like an electric current, except the effect is to physically wither the target area. Effective on any part of the body, the touch shrinks and shortens muscles, snaps tendons, and makes bones brittle, effectively aging the affected part catastrophically. Its main use is in withering a limb, choking a throat, or blinding a pair of eyes."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "Following a Rouse Check, the vampire grips their victim (requiring a Strength + Brawl roll if the victim is trying to avoid the vampire), with the victim suffering two levels of Aggravated damage as well as a crippling injury. If this injury is inflicted to an arm or leg, the targeted limb is rendered crippled and will in the case of mortals require lengthy rehabilitation, while vampires can mend the damage as regular Aggravated damage. Likewise, Touch of Oblivion may render a target mute, deaf, or blind. See crippling injuries in Vampire: The Masquerade (the source’s cross-reference has no page number) for details on the mechanical effects\n\nof crippled limbs."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms add one to the Difficulty of the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "touch-of-oblivion-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 91",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 91,
+          "printedPage": 89
+        }
+      ],
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "sourceLanguage": "en",
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O usuário canaliza Oblívio através da vitae. Ao tocar a vítima, a força aniquiladora atravessa seu corpo e faz a área tocada definhar: músculos encolhem, tendões se rompem e ossos ficam frágeis, como se aquela região envelhecesse catastroficamente. Pode inutilizar membros, a garganta ou os olhos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Força + Briga para agarrar uma vítima que tente evitar o contato; o texto não estabelece um teste separado de Oblívio."
+          },
+          {
+            "title": "Sistema",
+            "text": "Após pagar o custo, o vampiro segura a vítima. Ela sofre dois pontos de dano agravado e um ferimento incapacitante. Um braço ou perna atingido fica inutilizado; mortais precisam de reabilitação prolongada, enquanto vampiros podem reparar o dano como dano agravado normal. O poder também pode tornar a vítima muda, surda ou cega."
+          },
+          {
+            "title": "Referência do ferimento",
+            "text": "O Guia remete à tabela de ferimentos incapacitantes do Livro Básico, p. 303 da edição inglesa. O Narrador pode decidir que causar essa mutilação merece Máculas."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire using Touch of Oblivion can harm and cripple with a single touch, aging the affected body part catastrophically. It can be used to wither a limb, crumple a throat, or to blind a pair of eyes."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "Following a Rouse Check, the vampire grips their victim, requiring a Strength + Brawl roll if the victim is trying to avoid the vampire. Once gripped, the victim suffers two levels of Aggravated damage as well as a crippling injury. If this injury is inflicted to an arm or leg, the targeted limb is rendered crippled and in the case of mortals requires lengthy rehabilitation, while vampires can mend the damage as regular Aggravated damage. Likewise, Touch of Oblivion may render a target mute, deaf, or blind. See crippling injuries (Vampire: The Masquerade, p. 303) for mechanical details.\n\nStorytellers may decide that inflicting such mutilation warrants Stains."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

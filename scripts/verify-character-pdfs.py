@@ -18,6 +18,7 @@ for file in sorted(root.glob('*-small.pdf'))+sorted(root.glob('*-large.pdf'))+so
   assert 'FIM DO CONCEITO EXTENSO' in body,file.name
   assert body.count('Investigador dedicado aos mistérios de Fortaleza.')==200,(file.name,'concept duplicated or lost during pagination')
  assert not re.search(r'[\x00-\x08\x0b\x0c\x0e-\x1f\ufffd]',text),(file.name,'invalid glyph')
+ assert not re.search(r'\|\s*---\s*\|',text),(file.name,'unrendered Markdown table')
  thumbs=[]
  for index,page in enumerate(doc):
   for block in page.get_text('dict')['blocks']:

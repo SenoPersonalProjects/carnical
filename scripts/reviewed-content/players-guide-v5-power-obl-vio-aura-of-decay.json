@@ -1,0 +1,105 @@
+{
+  "id": "players-guide-v5-power-obl-vio-aura-of-decay",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Aura de Decadência",
+    "en": "Aura of Decay"
+  },
+  "aliases": [
+    "Aura de Decadência",
+    "Aura of Decay"
+  ],
+  "discipline": "Oblívio",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-obl-vio-aura-of-decay-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 90",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 90,
+          "printedPage": 88
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A conexão com Oblívio faz plantas murcharem, animais e humanos adoecerem e alimentos estragarem. O texto afirma que não acelera a decomposição de coisas mortas; o Sistema, entretanto, também inclui efeitos em materiais inorgânicos, como tijolos. Essas duas afirmações da fonte são mantidas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Vigor + Oblívio, Dificuldade 3 para ativar. O cabeçalho lista resistência de Vigor + Medicina ou Fortitude; o Sistema descreve a disputa de seres vivos como Vigor + Medicina. Nenhuma resistência adicional foi inventada para resolver essa diferença."
+          },
+          {
+            "title": "Sistema",
+            "text": "Após pagar o custo e vencer o teste de ativação, materiais orgânicos e inorgânicos não inteligentes a até cinco metros sofrem deterioração: plantas morrem, comida apodrece e tijolos começam a ruir. Alimentos e água afetados podem se tornar tóxicos. Consumir esse material causa dois danos superficiais à Vitalidade na cena seguinte e em cada cena posterior até um tratamento com Inteligência + Medicina, Dificuldade 3.\n\nSeres vivos na aura disputam Vigor + Medicina contra o teste de ativação do vampiro. Cada ponto de margem do vampiro causa um dano superficial à Vitalidade, sem redução pela metade, aplicado gradualmente durante a cena. Reaplicar o poder na mesma cena não causa novo dano à Vitalidade de mortais já afetados. Quem tem olfato percebe o odor de podridão emanado do vampiro, que sofre uma penalidade de dois dados em todos os testes sociais enquanto a aura estiver ativa."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Kindred with a strong connection to Oblivion can affect the world around them, making plants wilt, animals and humans grow sick, and food go bad. Some harness this aura as a power, polluting vitality with rot, and speeding up the erosion of life. This power does not speed up the decay of dead things, though."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Stamina + Oblivion vs. Stamina + Medicine or Fortitude"
+          },
+          {
+            "title": "System",
+            "text": "The vampire makes a Rouse Check. Following a win on a Stamina + Oblivion roll (Difficulty 3), unintelligent organic and inorganic material within five yards/ meters of them suffers — plants turn black and die, food rots in its packaging, and even bricks start crumbling. Material affected in this way can become toxic to ingest, if for instance this power is used in a kitchen or a water supply. Such toxic food and drink, if consumed, can be expected to inflict two Superficial Health damage in the following scene to the individual who eats it, and for each scene thereafter until treated with an Intelligence + Medicine roll (Difficulty 3). If anything living is caught in the aura, it makes a Stamina + Medicine contest against the vampire’s activation roll. For every point of margin the vampire has, the victim suffers one point of unhalved Superficial Health damage. This damage is slowly applied throughout the scene. Repeated applications of the power in the same scene have no effect on the Health of mortals already affected. The power is an aura that lasts for an entire scene before it fades away. Anyone with a sense of smell can detect a rotting odor emanating from the vampire during the time the power is active, inflicting a two-dice penalty to any Social rolls the vampire makes."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}

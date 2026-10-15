@@ -1,0 +1,117 @@
+{
+  "id": "players-guide-v5-power-obl-vio-where-the-veil-thins",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Onde o Véu se Afina",
+    "en": "Where the Veil Thins"
+  },
+  "aliases": [
+    "Onde o Véu se Afina",
+    "Where the Veil Thins"
+  ],
+  "discipline": "Oblívio",
+  "level": 2,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-obl-vio-where-the-veil-thins-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 86, 87, 89, 90",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 86,
+          "printedPage": 84
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 89,
+          "printedPage": 87
+        },
+        {
+          "pdfPage": 90,
+          "printedPage": 88
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Percebe onde o véu entre vivos e mortos é mais fino, sem revelar por que isso acontece. Nos locais mais tênues, a saúde dos mortais sofre e Oblívio se torna mais fácil."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Oblívio, Dificuldade 3."
+          },
+          {
+            "title": "Sistema",
+            "text": "Após pagar o custo, uma vitória revela a densidade do véu nas proximidades, até a extensão de um edifício ou marco geográfico inteiro. Uma vitória crítica também revela se a densidade mudou recentemente. Numa falha total, o poder fornece uma leitura falsa. Sem usar este poder, o praticante não se beneficia do véu tênue, embora penalidades possam ser aplicadas a critério do Narrador."
+          },
+          {
+            "title": "Densidade do Véu",
+            "text": "| Densidade | Causas possíveis | Efeito |\n| --- | --- | --- |\n| Impenetrável | Nenhuma morte no local; solo sagrado | Fantasmas não podem atravessar aqui |\n| Espesso | Morte antiga; lugar de alegria | Nenhum efeito |\n| Fino | Morte recente; passagem de mortais melancólicos | −1 na Dificuldade de testes de Cerimônias de Oblívio |\n| Desgastado | Série de mortes; Cerimônias frequentes | −2 na Dificuldade de testes de Cerimônias de Oblívio |\n| Ausente | Uso de Romper o Véu; travessia frequente de aparições | −2 na Dificuldade de Cerimônias; aparições passam livremente entre os mundos; mortais sofrem dois danos superficiais à Vitalidade, que não podem curar até sair |"
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno."
+          },
+          {
+            "title": "Regras gerais de Oblívio nesta fonte",
+            "text": "As manifestações de Oblívio são sombras bidimensionais que se deslocam por superfícies; ataques físicos normalmente atingem apenas a superfície, não a manifestação. Projeções e espíritos sofrem dano por fogo e luz solar como vampiros de Potência de Sangue 1, além de um ponto de dano agravado por turno sob luz forte e direta. Armas e artefatos abençoados também podem causar dano superficial ou agravado, conforme a bênção e a Fé Verdadeira. Poderes específicos podem estabelecer exceções.\n\nLuz diurna e ambientes sem sombras impedem o funcionamento da Disciplina; ultravioleta e infravermelho, por si, não a restringem. Ambientes moderadamente iluminados impõem uma penalidade de um dado ao teste de Disciplina envolvido.\n\nAo fazer um Teste de Sangue para um poder de Oblívio, obter 1 ou 10 causa uma Mácula, além da Fome que eventualmente aumente. Se a Potência de Sangue permitir rerrolar esse teste, o usuário pode escolher um dos dois resultados. Tipo: Mental. Ameaça à Máscara: média a alta; as sombras aparecem mal em câmeras, mas são evidentemente sobrenaturais ao vivo. Ressonância: psicopatas, pessoas emocionalmente distantes e sangue vazio de Ressonância."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Vampires with an affinity for Oblivion can sense where the veil between the world of the living and the world of the dead is the weakest. This power doesn’t tell a vampire why the veil between worlds is thin in a certain place, though. In locations where the veil is thinnest, mortal health suffers and use of the Oblivion Discipline becomes easier."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Intelligence + Oblivion"
+          },
+          {
+            "title": "System",
+            "text": "Following a Rouse Check, the player rolls Intelligence + Oblivion (Difficulty 3) and on a win may determine the density of the veil in their nearby area, as large as an entire building or landmark. On a critical win, this roll reveals whether the veil density recently changed. On a total failure, the power backfires and gives a false reading. Without use of this power, Oblivion users cannot benefit from a thinning of the veil, though penalties apply at the Storyteller’s discretion."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn"
+          },
+          {
+            "title": "Density of the Veil",
+            "text": "| Density | Possible causes | Effect |\n| --- | --- | --- |\n| Impenetrable | No deaths here; sacred ground | Wraiths cannot cross here |\n| Thick | A death long ago; a place of joy | No effect |\n| Thin | Recent death; melancholic mortals pass through | −1 Difficulty on Oblivion Ceremony rolls |\n| Frayed | A series of deaths; frequent Ceremonies | −2 Difficulty on Oblivion Ceremony rolls |\n| Absent | Split the Veil used here; wraiths regularly cross | −2 Difficulty on Ceremonies; wraiths pass freely between worlds; mortals suffer two Superficial Health damage that cannot be healed until they leave |"
+          },
+          {
+            "title": "General Oblivion rules in this source",
+            "text": "Oblivion manifestations are two-dimensional shadows moving across surfaces; physical attacks ordinarily hit the surface rather than the manifestation. Projections and spirits take fire and sunlight damage as Blood Potency 1 vampires, and one Aggravated damage per round from bright, direct light. Blessed weapons and artifacts may also cause Superficial or Aggravated damage depending on the blessing and True Faith. Individual powers may state exceptions.\n\nDaylight and rooms without shadows prevent the Discipline from functioning. Ultraviolet and infrared light alone do not restrict it. Moderately lit rooms apply a one-die penalty to the Discipline roll involved.\n\nA Rouse Check for an Oblivion power causes a Stain on a result of 1 or 10, in addition to any Hunger gained. When Blood Potency permits a Rouse reroll, the user may choose either result. Type: Mental. Masquerade threat: Medium-High; the shadows rarely appear well on cameras but are clearly unnatural in person. Blood Resonance: psychopaths, the emotionally detached, and Blood empty of Resonance."
+          }
+        ]
+      }
+    }
+  ]
+}
