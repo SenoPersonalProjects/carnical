@@ -1,0 +1,100 @@
+{
+  "id": "players-guide-v5-ritual-feiti-aria-de-sangue-feast-of-ashes",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Banquete de Cinzas",
+    "en": "Feast of Ashes"
+  },
+  "aliases": [
+    "Banquete de Cinzas",
+    "Feast of Ashes"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-feast-of-ashes-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 103",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 103,
+          "printedPage": 101
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Impede um vampiro de beber sangue por uma noite, como se o sangue em sua boca virasse cinzas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um pergaminho com o nome do alvo, queimado, e suas cinzas."
+          },
+          {
+            "title": "Processo",
+            "text": "Escreva o nome no pergaminho e queime-o. Misture as cinzas ao próprio Sangue para escrever os sigilos do Ritual."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Inteligência + Feitiçaria de Sangue contra Determinação + Força de Vontade do alvo, conforme a redação da fonte."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória impede o alvo de consumir sangue por uma noite: ele o vomita como comida ou bebida mortal. Só cinzas saciam sua Fome, e nunca abaixo de 3. Poucas vítimas pensam em comê-las sem receber explicação do feitiço."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "What better way to torment a rival than by turning the blood in their mouth to ashes? Kindred affected by this Ritual cannot drink blood for one night."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A piece of parchment with the name of the target written on it and burned, and ashes from the burned scroll."
+          },
+          {
+            "title": "Process",
+            "text": "The caster writes the name of their target on a piece of parchment and burns it. They collect the ashes and use their own Blood mixed with the ashes to write the sigils required to perform the Ritual."
+          },
+          {
+            "title": "System",
+            "text": "Make a Ritual roll versus the target’s Resolve + Willpower. On a successful roll, the target cannot consume blood for one night, vomiting it up as if it were mortal food and drink. Only ashes sate their Hunger and cannot bring it lower than 3, though few victims think of eating ashes unless told of the spell."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "players-guide-v5-ritual-feiti-aria-de-sangue-seal-the-brand",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Selar a Marca",
+    "en": "Seal the Brand"
+  },
+  "aliases": [
+    "Selar a Marca",
+    "Seal the Brand"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-seal-the-brand-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 101, 102",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 101,
+          "printedPage": 99
+        },
+        {
+          "pdfPage": 102,
+          "printedPage": 100
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Dá permanência a tatuagens, cicatrizes e outras modificações do corpo vampírico que normalmente desaparecem durante o sono diurno."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Prata derretida derramada sobre a tatuagem, marca ou outra modificação corporal."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador derrama prata derretida na modificação do alvo. A prata causa dano, mas, depois de reparado, a modificação permanece."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória torna a modificação permanente, parte do corpo imortal do alvo, sem possibilidade de remoção por outros meios. A prata causa um ponto de dano superficial, que pode ser reparado normalmente."
+          },
+          {
+            "title": "Duração",
+            "text": "Permanente."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Normally tattoos, scars, and other changes to vampire flesh fade during the day’s sleep. Yet some Kindred seek to make a mark on their own flesh, and give that mark permanence."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Molten silver poured over a tattoo, brand, or other body modification."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire casting the ritual pours the molten silver over the target’s tattoo, brand, or body modification. The target suffers damage from the molten silver, but once mended, the affected modification remains permanent."
+          },
+          {
+            "title": "System",
+            "text": "A successful Ritual yields a permanent body modification for the target. This modification cannot be removed by any other means and is now considered part of the target’s undying body. Pouring the molten silver onto the body modification inflicts one point of Superficial damage, which may be mended as normal."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

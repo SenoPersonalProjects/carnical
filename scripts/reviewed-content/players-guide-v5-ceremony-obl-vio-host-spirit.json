@@ -1,0 +1,123 @@
+{
+  "id": "players-guide-v5-ceremony-obl-vio-host-spirit",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Hospedar Espírito",
+    "en": "Host Spirit"
+  },
+  "aliases": [
+    "Hospedar Espírito",
+    "Host Spirit"
+  ],
+  "discipline": "Oblívio",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-host-spirit-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 96, 97",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        },
+        {
+          "pdfPage": 94,
+          "printedPage": 92
+        },
+        {
+          "pdfPage": 96,
+          "printedPage": 94
+        },
+        {
+          "pdfPage": 97,
+          "printedPage": 95
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 3
+        },
+        "prerequisites": [
+          "Aura of Decay"
+        ],
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Abre o corpo do vampiro à possessão de uma aparição. Ela pode oferecer aprimoramento físico, memórias que queira compartilhar e conselhos; também pode tomar o controle, o que alguns necromantes consideram uma bênção e outros um motivo para evitar a Cerimônia. A entrega voluntária do controle por uma noite subjuga a Besta e pode revelar capacidades que o vampiro não possui normalmente."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 3; poder Aura de Decadência (Aura of Decay)."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um tributo que a aparição possa valorizar, um inseto parasita e dois dentes extraídos da boca do vampiro."
+          },
+          {
+            "title": "Processo",
+            "text": "Esteja próximo da aparição, normalmente após Invocar Espírito. Ofereça o tributo: álcool na sepultura, moedas enterradas ou mesmo a cabeça de um inimigo recém-morto são exemplos. Arranque dois dentes, normalmente com um alicate, morda o parasita com os dentes restantes e abra a boca. A aparição pode escolher entrar no corpo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Vença o teste de Cerimônia. Se a aparição aceitar, permanece por um número de cenas igual aos sucessos obtidos. Enquanto ela estiver no corpo, o vampiro recebe dois dados em todos os testes de Atributos Físicos e +2 de Vitalidade. Ouve seus conselhos e pode substituir suas Habilidades pelas da aparição a critério do Narrador.\n\nA aparição pode tentar assumir o controle em vez de ser passageira. Se resistir, o vampiro disputa Determinação + Autocontrole contra a mesma parada da aparição. Uma vitória rejeita a influência; uma derrota entrega o controle até o fim da cena, mas ela não pode obrigá-lo a agir de forma autodestrutiva."
+          },
+          {
+            "title": "Duração",
+            "text": "Sucessos em cenas; o controle por uma aparição que venceu a resistência dura até o fim da cena."
+          },
+          {
+            "title": "Custo e preparação",
+            "text": "Um Teste de Sangue; 15 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 4 (nível da Cerimônia + 1)."
+          },
+          {
+            "title": "Aprendizado e limites",
+            "text": "Aprender custa 9 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 9 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This Ceremony allows a vampire to open their body to possession by a wraith."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 3; prerequisite power: Aura of Decay."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A gift to be made as tribute to a wraith (whether the wraith values it depends on the individual), a parasitic bug, and two teeth extracted from the vampire’s mouth."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire must be in close proximity to a wraith in order to use this power, typically through use of Summon Spirit (see p. 92). The necromancer presents a tribute to the wraith, sometimes in the form of alcohol poured on the wraith’s gravesite, or a bag of coins to be buried in the earth, or even the freshly decapitated head of one of the wraith’s until-recently living enemies. The vampire then pulls two teeth from their mouth, usually with pliers, and bites into a parasite with their remaining teeth. The vampire then opens their mouth and the wraith can choose to enter it, inhabiting the vampire’s body. The benefits of having a wraith ride one’s body include an enhanced physique, access to whichever memories the wraith chooses to share, and the wraith’s voice offering the vampire advice. The wraith can take complete possession of the vampire if they wish to, which some necromancers view as a blessing to be experienced, and others deem the main reason not to use this power. Allowing a wraith to control one’s actions for a night effectively subdues the Beast, as well as demonstrating physical prowess and knowledge the vampire may not usually possess."
+          },
+          {
+            "title": "System",
+            "text": "Make a successful Oblivion Ceremony roll. If the wraith agrees to the proposition, it then enters the vampire’s body and can remain for a number of scenes equal to the successes rolled on the Oblivion Ceremony roll. With the wraith inside them, the vampire gains two dice to all Physical Attribute rolls and +2 Health until the wraith departs. The vampire can hear the wraith in their head, offering advice, and they can substitute the wraith’s Skills for their own, at the Storyteller’s discretion. A wraith can choose to assert its possession instead of acting as a passenger. If the vampire resists, they make a Resolve + Composure roll vs. the wraith’s Resolve + Composure. If successful, they reject the wraith’s influence. If failed, the wraith steers the vampire until the end of the scene, though it can’t make the vampire do anything self-destructive."
+          },
+          {
+            "title": "Duration",
+            "text": "A number of scenes equal to successes. A wraith that overcomes resistance controls the vampire until the end of the scene."
+          },
+          {
+            "title": "Cost and preparation",
+            "text": "One Rouse Check; 15 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 4 (Ceremony level + 1)."
+          },
+          {
+            "title": "Learning and limits",
+            "text": "Learning costs 9 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 9 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "players-guide-v5-ceremony-obl-vio-compel-spirit",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Compelir Espírito",
+    "en": "Compel Spirit"
+  },
+  "aliases": [
+    "Compelir Espírito",
+    "Compel Spirit"
+  ],
+  "discipline": "Oblívio",
+  "level": 2,
+  "versions": [
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-compel-spirit-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 96",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        },
+        {
+          "pdfPage": 94,
+          "printedPage": 92
+        },
+        {
+          "pdfPage": 96,
+          "printedPage": 94
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 2
+        },
+        "prerequisites": [
+          "Where the Veil Thins"
+        ],
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Submete uma aparição à vontade do vampiro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 2; poder Onde o Véu se Afina (Where the Veil Thins)."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma âncora da aparição, vitae e um objeto ou ameaça suficiente para danificar a âncora."
+          },
+          {
+            "title": "Processo",
+            "text": "Esteja próximo da aparição, normalmente após Invocar Espírito. Lance um punhado de vitae na direção dela enquanto ameaça sua âncora com faca, martelo, arma, fogo ou palavras que o espírito acredite. Os dois disputam vontades. Uma vitória impõe serviço temporário; uma derrota deixa o vampiro debilitado e a âncora desaparece de sua mão."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Determinação + Oblívio contra Determinação + Autocontrole da aparição, em vez da Dificuldade fixa habitual. Se não houver como ameaçar fisicamente a âncora, faça também Manipulação + Intimidação com Dificuldade igual à Determinação + Autocontrole da aparição."
+          },
+          {
+            "title": "Sistema",
+            "text": "Vença todos os testes exigidos. Cada sucesso no teste de Cerimônia permite uma tarefa moderadamente difícil, como espionar, pesquisar ou responder com sinceridade. Para cada dois sucessos, pode pedir uma tarefa difícil, como atacar alguém ou agir contra os valores da aparição. Uma vitória crítica permite exigir qualquer ação, que ela tentará cumprir da melhor maneira. O serviço dura até cumprir as ordens ou o fim da crônica; depois, a aparição volta ao Submundo com inimizade eterna pelo necromante.\n\nSe a aparição vencer qualquer disputa, o vampiro sofre a margem como dano superficial à Vitalidade, e ela volta ao Submundo. Atacar a aparição encerra a compulsão imediatamente. Danificar a âncora causa de um a três danos agravados à Força de Vontade da aparição, conforme sua importância, e a envia ao Submundo para ser atormentada e possivelmente transformada em um espectro assassino (Livro Básico inglês, p. 377)."
+          },
+          {
+            "title": "Duração",
+            "text": "Até cumprir as ordens ou o fim da crônica; termina imediatamente se o vampiro atacar a aparição."
+          },
+          {
+            "title": "Custo e preparação",
+            "text": "Um Teste de Sangue; 10 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 3 (nível da Cerimônia + 1)."
+          },
+          {
+            "title": "Aprendizado e limites",
+            "text": "Aprender custa 6 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 4 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+          },
+          {
+            "title": "Redação da fonte",
+            "text": "O Processo descreve debilitação mental, enquanto o Sistema determina dano superficial à Vitalidade na derrota. As duas redações são mantidas; não foi presumido dano adicional à Força de Vontade."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This Ceremony allows a vampire to bend a wraith to their will."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 2; prerequisite power: Where the Veil Thins."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A wraith’s fetter, the caster’s vitae, and an item (or threat) sufficient to damage the fetter."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire must be in close proximity to a wraith in order to use this Ceremony, typically through use of Summon Spirit (see p. 92). The necromancer casts a handful of their own vitae in the wraith’s direction as they hold a destructive item to the fetter (a knife, a hammer, a gun, or potentially holding the fetter over a fire) or speak threatening words that the wraith believes. The vampire and wraith engage in a contest of wills. If the vampire wins, the wraith must serve as the vampire decrees, at least temporarily. On a loss, the vampire is left mentally debilitated and the fetter disappears from their grasp."
+          },
+          {
+            "title": "System",
+            "text": "Make an Oblivion Ceremony roll vs. the wraith’s Resolve + Composure. If the vampire has no way of physically threatening the fetter, also make a Manipulation + Intimidation roll (Difficulty equal to the wraith’s Resolve + Composure). If the necromancer wins both rolls, they can command the wraith to perform a number of moderately difficult tasks (spying, research, answering questions truthfully, etc.) equal to the number of successes rolled on the Ceremony roll. For every two successes, the vampire can instead command the wraith to perform a difficult task (such as attacking someone, doing something repugnant to the wraith’s sensibilities, etc.). On a critical win, the vampire can demand any action from the wraith, and it tries its best to complete the task. The wraith remains in the vampire’s service until the end of the chronicle or until it has fulfilled its master’s commands, at which point it returns to the Underworld with an eternal enmity for the necromancer. If the wraith wins either contest, the vampire suffers the margin in Superficial Health damage, and the wraith then re-enters the Underworld. The compulsion placed on the wraith ends immediately if the vampire attacks it. If the vampire harms the threatened fetter, the wraith suffers\n\nbetween one and three Aggravated Willpower damage (depending on the importance of the fetter) and the wraith is sent back to the Underworld to be tormented by, and possibly converted into, a murderous spectre (Vampire: The Masquerade, p. 377)."
+          },
+          {
+            "title": "Duration",
+            "text": "Until the commands are fulfilled or the chronicle ends; ends immediately if the vampire attacks the wraith."
+          },
+          {
+            "title": "Cost and preparation",
+            "text": "One Rouse Check; 10 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 3 (Ceremony level + 1)."
+          },
+          {
+            "title": "Learning and limits",
+            "text": "Learning costs 6 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 4 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+          },
+          {
+            "title": "Source wording",
+            "text": "The process describes mental debilitation, while the System specifies Superficial Health damage on defeat. Both are retained; no additional Willpower damage is inferred."
+          }
+        ]
+      }
+    }
+  ]
+}

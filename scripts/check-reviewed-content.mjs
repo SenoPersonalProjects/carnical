@@ -15,6 +15,32 @@ const {POWER_CATALOG}=load("app/game-rules.ts"),{creationMagicEligibility,powerF
 const read=file=>JSON.parse(fs.readFileSync(file,"utf8"));
 const catalog=read("app/content/catalog.json").entries,index=read("app/content/catalog-index.json").entries,pages=read("app/content/source-pages.json").books;
 const {clanSource}=load("app/content/clan-source.ts");
+const {xpCost}=load("app/experience.ts");
+const guideCeremonies=catalog.filter(entry=>entry.kind==="ceremony"&&entry.versions.some(version=>version.book==="players-guide-v5"));
+const guideRituals=catalog.filter(entry=>entry.kind==="ritual"&&entry.versions.some(version=>version.book==="players-guide-v5"));
+assert.equal(guideCeremonies.length,9);assert.equal(guideRituals.length,12);
+for(const entry of guideCeremonies){
+ const version=entry.versions.find(version=>version.book==="players-guide-v5"),required=version.requirements.prerequisites[0];
+ const prerequisite=catalog.find(item=>item.kind==="power"&&item.names.en===required);assert.ok(prerequisite);
+ const power=POWER_CATALOG.find(power=>power.id===entry.id);assert.ok(power);
+ const known={"Oblívio":[prerequisite.names["pt-BR"]]},enabled=new Set(["players_guide_v5"]);
+ assert.equal(powerEligibility(power,{"Oblívio":5},known,enabled).allowed,true);
+ assert.equal(powerEligibility(power,{"Oblívio":5},known,enabled,"Sangue-Ralo").allowed,false);
+ assert.equal(powerEligibility(power,{"Oblívio":5},{},enabled).allowed,false);
+ assert.equal(powerEligibility(power,{"Oblívio":5},known,new Set()).allowed,false);
+ assert.equal(creationMagicEligibility(power,{"Oblívio":5},known,enabled,[]).allowed,entry.level===1);
+ assert.equal(xpCost("ceremony",entry.level,"new_level"),entry.level*3);
+ assert.equal(xpCost("ceremony",entry.level,"current_level"),entry.level*3);
+ for(const locale of ["pt-BR","en"]){assert.ok(version.descriptions[locale].some(section=>/Ingredients|Ingredientes/.test(section.title)));assert.ok(version.descriptions[locale].some(section=>/Process|Processo/.test(section.title)))}
+}
+for(const [name,title,health] of [["The Gift of False Life","Mindless Corpse",4],["Awaken the Homuncular Servant","Homuncular Servant",3],["Shambling Hordes","Aggressive Corpse",6]]){
+ const entry=guideCeremonies.find(entry=>entry.names.en===name),profile=entry.versions[0].descriptions.en.find(section=>section.title===title);assert.ok(profile);assert.match(profile.text,new RegExp(`Health ${health}`));assert.match(profile.text,/immune to sunlight/);
+}
+const dominion=POWER_CATALOG.find(power=>power.name==="Dominion");assert.ok(dominion);assert.equal(dominion.level,5);
+assert.equal(powerEligibility(dominion,{"Feitiçaria de Sangue":4},{},new Set(["players_guide_v5"])).allowed,false);
+assert.equal(powerEligibility(dominion,{"Feitiçaria de Sangue":5},{},new Set(["players_guide_v5"])).allowed,true);
+assert.equal(creationMagicEligibility(dominion,{"Feitiçaria de Sangue":5},{},new Set(["players_guide_v5"]),[]).allowed,false);
+assert.equal(xpCost("ritual",dominion.level,"current_level"),15);
 assert.equal(clanSource("Lasombra","chicago_by_night_v5",new Set(["players_guide_v5"])),"players_guide_v5");
 assert.equal(clanSource("Lasombra","chicago_by_night_v5",new Set(["players_guide_v5","chicago_by_night_v5"]),"players_guide_v5"),"players_guide_v5");
 assert.equal(clanSource("Lasombra","chicago_by_night_v5",new Set(["core_v5_ptbr"])),"chicago_by_night_v5");

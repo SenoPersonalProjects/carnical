@@ -19,8 +19,9 @@ export function powersForSources(powers:ReadonlyArray<PowerRule>,activeSources:R
   const result=new Map<string,PowerRule>();for(const power of powers){const version=powerForSources(power,activeSources);if(!result.has(version.id))result.set(version.id,version)}return [...result.values()];
 }
 /** Constraints for guided choices; existing and custom sheet data stays editable. */
-export function powerEligibility(power:PowerRule,disciplines:Record<string,number>,known:Record<string,string[]>,activeSources:ReadonlySet<string>){
+export function powerEligibility(power:PowerRule,disciplines:Record<string,number>,known:Record<string,string[]>,activeSources:ReadonlySet<string>,clan?:string){
   const reasons:string[]=[];
+  if(power.kind==="ceremony"&&clan==="Sangue-Ralo")reasons.push("Sangues-ralos não aprendem Cerimônias de Oblívio");
   if(!activeSources.has(sourcebookForLibraryId(power.source.book)||""))reasons.push("Fonte desativada");
   if((disciplines[power.discipline]||0)<power.level)reasons.push(`Exige ${power.discipline} ${power.level}`);
   if(power.amalgam){
@@ -32,8 +33,8 @@ export function powerEligibility(power:PowerRule,disciplines:Record<string,numbe
 }
 
 /** Free magic choices granted during creation, independently of discipline powers. */
-export function creationMagicEligibility(item:PowerRule,disciplines:Record<string,number>,known:Record<string,string[]>,activeSources:ReadonlySet<string>,freeChoices:ReadonlyArray<PowerRule>){
-  const eligibility=powerEligibility(item,disciplines,known,activeSources);
+export function creationMagicEligibility(item:PowerRule,disciplines:Record<string,number>,known:Record<string,string[]>,activeSources:ReadonlySet<string>,freeChoices:ReadonlyArray<PowerRule>,clan?:string){
+  const eligibility=powerEligibility(item,disciplines,known,activeSources,clan);
   const level=disciplines[item.discipline]||0;
   if(item.kind==="ritual"||item.kind==="ceremony"){
     if(item.level!==1)eligibility.reasons.push("A escolha gratuita deve ser de nível 1");

@@ -8699,6 +8699,2525 @@
           }
         }
       ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-awaken-the-homuncular-servant",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Despertar o Servo Homuncular",
+        "en": "Awaken the Homuncular Servant"
+      },
+      "aliases": [
+        "Despertar o Servo Homuncular",
+        "Awaken the Homuncular Servant"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-awaken-the-homuncular-servant-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 95",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            },
+            {
+              "pdfPage": 94,
+              "printedPage": 92
+            },
+            {
+              "pdfPage": 95,
+              "printedPage": 93
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            },
+            "prerequisites": [
+              "Where the Veil Thins"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Cria servos e espiões de partes de corpos, como mãos ou crânios, ou de pequenos animais mortos, como ratos e raposas. Alguns necromantes enchem suas oficinas dessas criaturas inquietantes."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 2; poder Onde o Véu se Afina (Where the Veil Thins)."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "A parte de corpo ou carcaça, a arma usada para cortá-la ou matá-la e uma pequena mistura de urina, matéria fecal e sêmen."
+              },
+              {
+                "title": "Processo",
+                "text": "Cubra uma lâmina ou instrumento adequado com a mistura e separe o apêndice do corpo ou mate o animal. O animal não pode ser maior que um cão pequeno e não pode voar, mesmo que tenha asas. Massageie vitae no alvo para animá-lo como um servo fiel ao mestre."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória cria um servo que espiona, segue ou intimida conforme as ordens do necromante. A mais de 100 metros do vampiro, fica inerte, voltando a despertar quando ele entra nesse alcance. Fora isso, permanece ativo por um número de noites igual aos sucessos obtidos. Uma vitória crítica o mantém ativo para sempre; uma falha total destrói todos os componentes. Muitos escalam paredes, saltam mesmo sem membros apropriados e se escondem bem, com variações conforme sua construção e tarefa. Não falam nem realizam ações que exijam pensamento profundo, mas comunicam telepaticamente imagens, cheiros ou sons isolados ao criador. O perfil abaixo limita a transmissão de imagens a uma por cena."
+              },
+              {
+                "title": "Duração",
+                "text": "Sucessos em noites; permanente numa vitória crítica. Fica inerte fora do alcance de 100 metros."
+              },
+              {
+                "title": "Custo e preparação",
+                "text": "Um Teste de Sangue; 10 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 3 (nível da Cerimônia + 1)."
+              },
+              {
+                "title": "Aprendizado e limites",
+                "text": "Aprender custa 6 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 4 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+              },
+              {
+                "title": "Servo Homuncular",
+                "text": "| Característica | Valor |\n| --- | --- |\n| Paradas padrão | Físicas 1; Sociais 0; Mentais 1 |\n| Atributos secundários | Vitalidade 3; Força de Vontade 1 |\n| Paradas excepcionais | Atletismo 4; Furtividade 6; Intimidação 4 |\n| Dificuldades gerais | 3/1 |\n\nRecebe dano superficial e agravado como vampiros, mas é imune à luz solar. Não pode curar ou reparar dano nem ser dominado ou influenciado mentalmente, pois está ligado ao mestre. Não precisa de olhos ou ouvidos para perceber tudo ao redor como alguém com visão e audição desimpedidas. Pode transmitir telepaticamente uma única imagem por cena ao mestre."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Vampires use this Ceremony to create servants and spies out of body parts such as hands or skulls, or small dead animals like rats or foxes. Some necromancers work almost exclusively with homunculi, their workshops filled with scrambling and unsettling creatures."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 2; prerequisite power: Where the Veil Thins."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The required body part or animal carcass, the weapon used to sever/kill it, a small concoction of urine, fecal matter, and semen."
+              },
+              {
+                "title": "Process",
+                "text": "The caster coats a blade (or other device\n\nsuited to the task) in a gross cocktail of bodily fluids, and uses it to cut the targeted appendage off its root limb or body, or kills the small animal (which cannot be larger than a small dog and cannot fly, regardless of whether it has wings). After massaging vitae into the target, it comes to life as a homuncular servant, unfailingly loyal to its master."
+              },
+              {
+                "title": "System",
+                "text": "The necromancer makes an Oblivion Ceremony roll and on a win gains a homuncular servant that spies, follows, or intimidates at the necromancer’s command. If it strays farther than 100 yards/meters from the vampire, it falls inert, only awakening again once the vampire enters that range. Otherwise, it remains active for a number of nights equal to the number of successes rolled. A critical win on the roll keeps the servant active forever, while a total failure destroys all components involved in the Ceremony. Most homunculi can scale walls, hop (even if it lacks the limbs to do so), and hide effectively, though individual variation is great and depends on the tasks it was created to perform. While it cannot speak or perform actions requiring deep thought, it can telepathically communicate single images, scents, or sounds to its creator."
+              },
+              {
+                "title": "Duration",
+                "text": "A number of nights equal to successes; permanently on a critical win. Inert outside 100 yards/meters."
+              },
+              {
+                "title": "Cost and preparation",
+                "text": "One Rouse Check; 10 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 3 (Ceremony level + 1)."
+              },
+              {
+                "title": "Learning and limits",
+                "text": "Learning costs 6 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 4 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+              },
+              {
+                "title": "Homuncular Servant",
+                "text": "| Trait | Rating |\n| --- | --- |\n| Standard pools | Physical 1; Social 0; Mental 1 |\n| Secondary Attributes | Health 3; Willpower 1 |\n| Exceptional pools | Athletics 4; Stealth 6; Intimidation 4 |\n| General Difficulties | 3/1 |\n\nHomuncular servants take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage. They cannot be mentally dominated or influenced as they are bound to their master. They do not need eyes or ears to perceive everything around them as someone with unimpeded vision and hearing might. They can telepathically broadcast a single image per scene to their master."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-bind-the-spirit",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Prender o Espírito",
+        "en": "Bind the Spirit"
+      },
+      "aliases": [
+        "Prender o Espírito",
+        "Bind the Spirit"
+      ],
+      "discipline": "Oblívio",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-bind-the-spirit-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 98",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            },
+            {
+              "pdfPage": 94,
+              "printedPage": 92
+            },
+            {
+              "pdfPage": 98,
+              "printedPage": 96
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            },
+            "prerequisites": [
+              "Necrotic Plague"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Acorrenta aparições a locais ou pessoas."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 4; poder Praga Necrótica (Necrotic Plague)."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Uma âncora da aparição, o sacrifício de um mortal inocente e sal suficiente para cercar o imóvel ou indivíduo. Para assombrar uma pessoa, obtenha algo de seu corpo, como unhas, cabelo, sangue ou pele."
+              },
+              {
+                "title": "Processo",
+                "text": "A aparição já deve estar sob o controle do vampiro por Compelir Espírito. Mate um mortal inocente no local ou perto da pessoa a assombrar. Inocência é subjetiva; o texto sugere jovens, cuidadores e pessoas genuinamente piedosas. Misture vitae ao sal e pinte um círculo ao redor do alvo. Deixe a âncora no local ou na posse da pessoa."
+              },
+              {
+                "title": "Sistema",
+                "text": "O assassinato pode causar Máculas conforme os Preceitos e o Narrador. Faça o teste de Cerimônia sem resistência da aparição, pois ela já deve estar compelida. Ela fica presa ao local ou indivíduo por tempo indeterminado. Emoções intensas sentidas na vinculação afetam os moradores ou a pessoa: todos sofrem uma penalidade de dois dados em testes para resistir a sentir ou agir como a aparição. Um espírito furioso pode favorecer o Frenesi; um deprimido pode levar mortais a negligenciar o autocuidado. A aparição vinculada possui os mesmos poderes de um espectro (Livro Básico inglês, p. 377).\n\nO vínculo termina se o vampiro cancelar a Cerimônia, a âncora sair do local ou da posse da pessoa, o espírito for destruído ou o necromante atacá-lo. Muitas aparições ficam furiosas ou melancólicas, afetando a área. O método pode proteger refúgios ou assombrar inimigos."
+              },
+              {
+                "title": "Duração",
+                "text": "Indefinida, até uma das condições de encerramento. A exigência de controle por Compelir Espírito é uma condição de uso, além do poder pré-requisito para aprender."
+              },
+              {
+                "title": "Custo e preparação",
+                "text": "Um Teste de Sangue; 20 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 5 (nível da Cerimônia + 1)."
+              },
+              {
+                "title": "Aprendizado e limites",
+                "text": "Aprender custa 12 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 16 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Vampires with access to this Ceremony have the ability to shackle wraiths to specified locations and people."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 4; prerequisite power: Necrotic Plague."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A wraith’s fetter, the sacrifice of an innocent mortal, and sufficient salt to surround a property or individual. If the target for haunting is an individual, the necromancer must possess something of their body, such as fingernails, hair, blood, or skin."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire must already have a wraith under their control using Compel Spirit (see p. 93). The vampire kills an innocent mortal (though innocence is subjective, this tends to apply to the young, caregivers, and genuinely pious individuals) in or close to a location or person they want their wraith to haunt. Subsequently, they mix their vitae with sufficient salt to surround the target for haunting, and paint a circle with the mixture. They place the wraith’s fetter somewhere within the location, or in the target’s possession."
+              },
+              {
+                "title": "System",
+                "text": "Following the steps of the Ceremony, the vampire may incur Stains from the murder depending on the Chronicle Tenets and the Storyteller’s discretion. They make an Oblivion Ceremony roll that cannot be resisted, as the wraith must already be compelled for this power to work. The wraith is bound to the location or individual targeted, with no duration applied to this Ceremony’s effects. Any emotion the wraith feels intensely during its binding affects the inhabitants of the location or the individual to whom it’s bound, with each person affected suffering a two-dice penalty to all rolls made to resist acting or feeling the way the wraith feels. Therefore, an angry wraith may make vampires more inclined to Frenzy, while a depressed wraith might make a mortal more likely to stop self-care. Bound wraiths have the same powers as spectres (Vampire: The Masquerade, p. 377). The wraith is forever bound to the target, unless the vampire cancels the Ceremony, the fetter ever moves from the location or individual’s possession, or the wraith is destroyed. Binding also ends if the necromancer attacks the wraith. Most wraiths bound in this way are furious or melancholic about their plight, and their mood affects the area around them. Many necromancers use this method to defend their havens or haunt their enemies."
+              },
+              {
+                "title": "Duration",
+                "text": "Indefinite, until canceled, the fetter is removed, the wraith is destroyed, or the necromancer attacks it."
+              },
+              {
+                "title": "Cost and preparation",
+                "text": "One Rouse Check; 20 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 5 (Ceremony level + 1)."
+              },
+              {
+                "title": "Learning and limits",
+                "text": "Learning costs 12 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 16 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-compel-spirit",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Compelir Espírito",
+        "en": "Compel Spirit"
+      },
+      "aliases": [
+        "Compelir Espírito",
+        "Compel Spirit"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-compel-spirit-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 96",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            },
+            {
+              "pdfPage": 94,
+              "printedPage": 92
+            },
+            {
+              "pdfPage": 96,
+              "printedPage": 94
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            },
+            "prerequisites": [
+              "Where the Veil Thins"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Submete uma aparição à vontade do vampiro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 2; poder Onde o Véu se Afina (Where the Veil Thins)."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Uma âncora da aparição, vitae e um objeto ou ameaça suficiente para danificar a âncora."
+              },
+              {
+                "title": "Processo",
+                "text": "Esteja próximo da aparição, normalmente após Invocar Espírito. Lance um punhado de vitae na direção dela enquanto ameaça sua âncora com faca, martelo, arma, fogo ou palavras que o espírito acredite. Os dois disputam vontades. Uma vitória impõe serviço temporário; uma derrota deixa o vampiro debilitado e a âncora desaparece de sua mão."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Determinação + Oblívio contra Determinação + Autocontrole da aparição, em vez da Dificuldade fixa habitual. Se não houver como ameaçar fisicamente a âncora, faça também Manipulação + Intimidação com Dificuldade igual à Determinação + Autocontrole da aparição."
+              },
+              {
+                "title": "Sistema",
+                "text": "Vença todos os testes exigidos. Cada sucesso no teste de Cerimônia permite uma tarefa moderadamente difícil, como espionar, pesquisar ou responder com sinceridade. Para cada dois sucessos, pode pedir uma tarefa difícil, como atacar alguém ou agir contra os valores da aparição. Uma vitória crítica permite exigir qualquer ação, que ela tentará cumprir da melhor maneira. O serviço dura até cumprir as ordens ou o fim da crônica; depois, a aparição volta ao Submundo com inimizade eterna pelo necromante.\n\nSe a aparição vencer qualquer disputa, o vampiro sofre a margem como dano superficial à Vitalidade, e ela volta ao Submundo. Atacar a aparição encerra a compulsão imediatamente. Danificar a âncora causa de um a três danos agravados à Força de Vontade da aparição, conforme sua importância, e a envia ao Submundo para ser atormentada e possivelmente transformada em um espectro assassino (Livro Básico inglês, p. 377)."
+              },
+              {
+                "title": "Duração",
+                "text": "Até cumprir as ordens ou o fim da crônica; termina imediatamente se o vampiro atacar a aparição."
+              },
+              {
+                "title": "Custo e preparação",
+                "text": "Um Teste de Sangue; 10 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 3 (nível da Cerimônia + 1)."
+              },
+              {
+                "title": "Aprendizado e limites",
+                "text": "Aprender custa 6 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 4 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+              },
+              {
+                "title": "Redação da fonte",
+                "text": "O Processo descreve debilitação mental, enquanto o Sistema determina dano superficial à Vitalidade na derrota. As duas redações são mantidas; não foi presumido dano adicional à Força de Vontade."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This Ceremony allows a vampire to bend a wraith to their will."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 2; prerequisite power: Where the Veil Thins."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A wraith’s fetter, the caster’s vitae, and an item (or threat) sufficient to damage the fetter."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire must be in close proximity to a wraith in order to use this Ceremony, typically through use of Summon Spirit (see p. 92). The necromancer casts a handful of their own vitae in the wraith’s direction as they hold a destructive item to the fetter (a knife, a hammer, a gun, or potentially holding the fetter over a fire) or speak threatening words that the wraith believes. The vampire and wraith engage in a contest of wills. If the vampire wins, the wraith must serve as the vampire decrees, at least temporarily. On a loss, the vampire is left mentally debilitated and the fetter disappears from their grasp."
+              },
+              {
+                "title": "System",
+                "text": "Make an Oblivion Ceremony roll vs. the wraith’s Resolve + Composure. If the vampire has no way of physically threatening the fetter, also make a Manipulation + Intimidation roll (Difficulty equal to the wraith’s Resolve + Composure). If the necromancer wins both rolls, they can command the wraith to perform a number of moderately difficult tasks (spying, research, answering questions truthfully, etc.) equal to the number of successes rolled on the Ceremony roll. For every two successes, the vampire can instead command the wraith to perform a difficult task (such as attacking someone, doing something repugnant to the wraith’s sensibilities, etc.). On a critical win, the vampire can demand any action from the wraith, and it tries its best to complete the task. The wraith remains in the vampire’s service until the end of the chronicle or until it has fulfilled its master’s commands, at which point it returns to the Underworld with an eternal enmity for the necromancer. If the wraith wins either contest, the vampire suffers the margin in Superficial Health damage, and the wraith then re-enters the Underworld. The compulsion placed on the wraith ends immediately if the vampire attacks it. If the vampire harms the threatened fetter, the wraith suffers\n\nbetween one and three Aggravated Willpower damage (depending on the importance of the fetter) and the wraith is sent back to the Underworld to be tormented by, and possibly converted into, a murderous spectre (Vampire: The Masquerade, p. 377)."
+              },
+              {
+                "title": "Duration",
+                "text": "Until the commands are fulfilled or the chronicle ends; ends immediately if the vampire attacks the wraith."
+              },
+              {
+                "title": "Cost and preparation",
+                "text": "One Rouse Check; 10 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 3 (Ceremony level + 1)."
+              },
+              {
+                "title": "Learning and limits",
+                "text": "Learning costs 6 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 4 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+              },
+              {
+                "title": "Source wording",
+                "text": "The process describes mental debilitation, while the System specifies Superficial Health damage on defeat. Both are retained; no additional Willpower damage is inferred."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-host-spirit",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Hospedar Espírito",
+        "en": "Host Spirit"
+      },
+      "aliases": [
+        "Hospedar Espírito",
+        "Host Spirit"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-host-spirit-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 96, 97",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            },
+            {
+              "pdfPage": 94,
+              "printedPage": 92
+            },
+            {
+              "pdfPage": 96,
+              "printedPage": 94
+            },
+            {
+              "pdfPage": 97,
+              "printedPage": 95
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            },
+            "prerequisites": [
+              "Aura of Decay"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Abre o corpo do vampiro à possessão de uma aparição. Ela pode oferecer aprimoramento físico, memórias que queira compartilhar e conselhos; também pode tomar o controle, o que alguns necromantes consideram uma bênção e outros um motivo para evitar a Cerimônia. A entrega voluntária do controle por uma noite subjuga a Besta e pode revelar capacidades que o vampiro não possui normalmente."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 3; poder Aura de Decadência (Aura of Decay)."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um tributo que a aparição possa valorizar, um inseto parasita e dois dentes extraídos da boca do vampiro."
+              },
+              {
+                "title": "Processo",
+                "text": "Esteja próximo da aparição, normalmente após Invocar Espírito. Ofereça o tributo: álcool na sepultura, moedas enterradas ou mesmo a cabeça de um inimigo recém-morto são exemplos. Arranque dois dentes, normalmente com um alicate, morda o parasita com os dentes restantes e abra a boca. A aparição pode escolher entrar no corpo."
+              },
+              {
+                "title": "Sistema",
+                "text": "Vença o teste de Cerimônia. Se a aparição aceitar, permanece por um número de cenas igual aos sucessos obtidos. Enquanto ela estiver no corpo, o vampiro recebe dois dados em todos os testes de Atributos Físicos e +2 de Vitalidade. Ouve seus conselhos e pode substituir suas Habilidades pelas da aparição a critério do Narrador.\n\nA aparição pode tentar assumir o controle em vez de ser passageira. Se resistir, o vampiro disputa Determinação + Autocontrole contra a mesma parada da aparição. Uma vitória rejeita a influência; uma derrota entrega o controle até o fim da cena, mas ela não pode obrigá-lo a agir de forma autodestrutiva."
+              },
+              {
+                "title": "Duração",
+                "text": "Sucessos em cenas; o controle por uma aparição que venceu a resistência dura até o fim da cena."
+              },
+              {
+                "title": "Custo e preparação",
+                "text": "Um Teste de Sangue; 15 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 4 (nível da Cerimônia + 1)."
+              },
+              {
+                "title": "Aprendizado e limites",
+                "text": "Aprender custa 9 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 9 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This Ceremony allows a vampire to open their body to possession by a wraith."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 3; prerequisite power: Aura of Decay."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A gift to be made as tribute to a wraith (whether the wraith values it depends on the individual), a parasitic bug, and two teeth extracted from the vampire’s mouth."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire must be in close proximity to a wraith in order to use this power, typically through use of Summon Spirit (see p. 92). The necromancer presents a tribute to the wraith, sometimes in the form of alcohol poured on the wraith’s gravesite, or a bag of coins to be buried in the earth, or even the freshly decapitated head of one of the wraith’s until-recently living enemies. The vampire then pulls two teeth from their mouth, usually with pliers, and bites into a parasite with their remaining teeth. The vampire then opens their mouth and the wraith can choose to enter it, inhabiting the vampire’s body. The benefits of having a wraith ride one’s body include an enhanced physique, access to whichever memories the wraith chooses to share, and the wraith’s voice offering the vampire advice. The wraith can take complete possession of the vampire if they wish to, which some necromancers view as a blessing to be experienced, and others deem the main reason not to use this power. Allowing a wraith to control one’s actions for a night effectively subdues the Beast, as well as demonstrating physical prowess and knowledge the vampire may not usually possess."
+              },
+              {
+                "title": "System",
+                "text": "Make a successful Oblivion Ceremony roll. If the wraith agrees to the proposition, it then enters the vampire’s body and can remain for a number of scenes equal to the successes rolled on the Oblivion Ceremony roll. With the wraith inside them, the vampire gains two dice to all Physical Attribute rolls and +2 Health until the wraith departs. The vampire can hear the wraith in their head, offering advice, and they can substitute the wraith’s Skills for their own, at the Storyteller’s discretion. A wraith can choose to assert its possession instead of acting as a passenger. If the vampire resists, they make a Resolve + Composure roll vs. the wraith’s Resolve + Composure. If successful, they reject the wraith’s influence. If failed, the wraith steers the vampire until the end of the scene, though it can’t make the vampire do anything self-destructive."
+              },
+              {
+                "title": "Duration",
+                "text": "A number of scenes equal to successes. A wraith that overcomes resistance controls the vampire until the end of the scene."
+              },
+              {
+                "title": "Cost and preparation",
+                "text": "One Rouse Check; 15 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 4 (Ceremony level + 1)."
+              },
+              {
+                "title": "Learning and limits",
+                "text": "Learning costs 9 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 9 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-lazarene-blessing",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Bênção de Lázaro",
+        "en": "Lazarene Blessing"
+      },
+      "aliases": [
+        "Bênção de Lázaro",
+        "Lazarene Blessing"
+      ],
+      "discipline": "Oblívio",
+      "level": 5,
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-lazarene-blessing-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 99, 100",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            },
+            {
+              "pdfPage": 94,
+              "printedPage": 92
+            },
+            {
+              "pdfPage": 99,
+              "printedPage": 97
+            },
+            {
+              "pdfPage": 100,
+              "printedPage": 98
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            },
+            "prerequisites": [
+              "Skuld Fulfilled"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Devolve movimento e vida aparente a um corpo recém-morto, mas não devolve a pessoa como parentes e amigos a conheciam: uma aparição ocupa o corpo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 5; poder Destino de Skuld (Skuld Fulfilled)."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um mortal para sacrifício, incenso, o coração de qualquer mamífero e prata em pó."
+              },
+              {
+                "title": "Processo",
+                "text": "Perfume o ambiente com incenso, realize o sacrifício e troque o coração da vítima pelo de outro mamífero. Não é necessário costurá-lo ou fazê-lo funcionar para que a Cerimônia tenha efeito. Derrame prata em pó nos olhos abertos do mortal moribundo ou morto e convide uma aparição a ocupar o corpo. Ela não pode ser forçada, embora muitas aceitem voltar a caminhar num corpo semivivo."
+              },
+              {
+                "title": "Sistema",
+                "text": "Matar o mortal pode causar Máculas conforme os Preceitos. Se o coração substituto veio de alguém assassinado pelo vampiro, essa morte também pode causar Máculas. A aparição deve estar presente durante o sacrifício. Uma vitória permite que ela entre no corpo recém-morto e o use como próprio.\n\nO corpo desperta com os ferimentos que o mataram; o coração substituto funciona independentemente de sua origem ou posição. A possessão cura um ponto de dano à Vitalidade; o restante se recupera com o tempo como na cura vampírica. Não ganha resistência especial ao dano além de Disciplinas que já possuísse em vida. Mantém os Atributos Físicos, Disciplinas se era carniçal e Vantagens do corpo em vida. Atributos Sociais e Mentais, Habilidades e qualquer valor de moralidade pertencem à aparição."
+              },
+              {
+                "title": "Duração",
+                "text": "Indefinida, até o corpo morrer novamente ou a aparição ser exorcizada."
+              },
+              {
+                "title": "Custo e preparação",
+                "text": "Um Teste de Sangue; 25 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 6 (nível da Cerimônia + 1)."
+              },
+              {
+                "title": "Aprendizado e limites",
+                "text": "Aprender custa 15 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 25 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This Ceremony enables a necromancer to bring a freshly-dead body back to life, though not how its relatives and friends might remember it."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 5; prerequisite power: Skuld Fulfilled."
+              },
+              {
+                "title": "Ingredients",
+                "text": "One mortal sacrifice, incense, the heart of any mammal, and powdered silver."
+              },
+              {
+                "title": "Process",
+                "text": "The necromancer burns incense to perfume the air before performing an act of sacrifice, cutting the heart of the victim out and replacing it with the heart of another mammal, though it doesn’t need to be stitched in and working for the Ceremony to function. After pouring a bag of powdered silver over the open eyes of the dying or dead mortal, the vampire invites a wraith to take the deceased mortal as a host. Wraiths cannot be forced to possess a body, but few refuse the opportunity to walk around in semi-living shoes again."
+              },
+              {
+                "title": "System",
+                "text": "Killing a mortal for this Ceremony may incur Stains, depending on the chronicle Tenets. If the replacement heart was likewise taken from someone the vampire murdered, that murder might also incur Stains. Following a successful Ceremony roll, a wraith can enter the freshly-dead body and live in it as if it were their own. The wraith must be present during the act of sacrifice. The possessed corpse wakes bearing the wounds that killed it, though the replacement heart is functional (no matter its origin or placement) and the body heals one point of Health damage upon possession. The remaining Health damage recovers with time (as vampiric healing). The body gains no special resistances to harm beyond Disciplines it might have possessed in life. The body possesses the same Physical Attributes, Disciplines (if a ghoul), and Advantages it had in life. Social and Mental Attributes, Skills, and any form of morality rating match those of the wraith. This possession lasts indefinitely, or until the possessed body dies again or the wraith is exorcized from the host."
+              },
+              {
+                "title": "Duration",
+                "text": "Indefinite, until the body dies again or the possessing wraith is exorcized."
+              },
+              {
+                "title": "Cost and preparation",
+                "text": "One Rouse Check; 25 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 6 (Ceremony level + 1)."
+              },
+              {
+                "title": "Learning and limits",
+                "text": "Learning costs 15 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 25 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-shambling-hordes",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Hordas Cambaleantes",
+        "en": "Shambling Hordes"
+      },
+      "aliases": [
+        "Hordas Cambaleantes",
+        "Shambling Hordes"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-shambling-hordes-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 97, 98",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            },
+            {
+              "pdfPage": 94,
+              "printedPage": 92
+            },
+            {
+              "pdfPage": 97,
+              "printedPage": 95
+            },
+            {
+              "pdfPage": 98,
+              "printedPage": 96
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            },
+            "prerequisites": [
+              "Aura of Decay"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Reanima um grupo de mortos ambulantes agressivos para servir ao vampiro."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 3; poder Aura de Decadência (Aura of Decay)."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um ou mais cadáveres mortais e um mortal vivo para um sacrifício recente."
+              },
+              {
+                "title": "Processo",
+                "text": "Mantenha os cadáveres separados da vítima a sacrificar. Mate a vítima e derrame seu sangue nos corpos preparados. Numa Cerimônia bem-sucedida, esses corpos se levantam; o mortal recém-sacrificado não é reanimado por esse ato."
+              },
+              {
+                "title": "Sistema",
+                "text": "Antes do teste de Cerimônia, resista ao Frenesi de Fome com Dificuldade 2 devido ao sangue derramado. Realize a Cerimônia; os Preceitos da crônica e o Narrador podem atribuir Máculas. Uma vitória anima uma quantidade de mortos agressivos igual ao nível de Oblívio ou ao número de corpos preparados, o que for menor. Eles não se decompõem e só entram em repouso por ordem do mestre, pela Morte Final dele ou quando destruídos.\n\nEntendem ordens moderadamente complexas: matar quem entrar, gemer ao ver alguém passar ou aterrorizar um bairro. Sem ordens, atacam todos ao redor exceto o mestre, ao contrário dos corpos do Dom da Falsa Vida. Para manter sua utilidade além da história atual, assegure-os com XP, como no Antecedente Lacaios: um ponto por cadáver leal. Caso contrário, podem ficar instáveis e indisciplinados (Livro Básico inglês, pp. 180 e 196)."
+              },
+              {
+                "title": "Duração",
+                "text": "Até ordem de repouso, Morte Final do mestre ou destruição. Lealdade e utilidade além da história exigem investimento em XP conforme as regras de Vantagens temporárias."
+              },
+              {
+                "title": "Custo e preparação",
+                "text": "Um Teste de Sangue; 15 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 4 (nível da Cerimônia + 1)."
+              },
+              {
+                "title": "Aprendizado e limites",
+                "text": "Aprender custa 9 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 9 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+              },
+              {
+                "title": "Cadáver Agressivo",
+                "text": "| Característica | Valor |\n| --- | --- |\n| Paradas padrão | Físicas 4; Sociais 0; Mentais 0 |\n| Atributos secundários | Vitalidade 6; Força de Vontade 0 |\n| Paradas excepcionais | Briga 6; Intimidação 5 |\n| Dificuldades gerais | 3/2 |\n\nRecebe dano superficial e agravado como vampiros, mas é imune à luz solar. Não pode curar ou reparar dano nem ser dominado ou influenciado mentalmente, pois está ligado ao mestre. Não precisa de olhos ou ouvidos para perceber os arredores como alguém com visão e audição desimpedidas. Suas mordidas causam +2 de dano à Vitalidade, agravado contra mortais."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This Ceremony enables a vampire to raise a group of aggressive, walking dead minions."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 3; prerequisite power: Aura of Decay."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A mortal corpse (or multiple corpses), and a fresh mortal sacrifice."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire must have a separate corpse in addition to a mortal prepared for sacrifice. The vampire slays the sacrificial victim, spilling their blood on the corpse or corpses intended for animation. If the Ceremony is successful, the corpses stand (the recent sacrifice does not) and serve the vampire’s commands."
+              },
+              {
+                "title": "System",
+                "text": "Due to the amount of blood spilled in this Ceremony, the caster must first test to resist hunger frenzy (Difficulty 2). Make a Ceremony roll, possibly incurring Stains in the process depending on the chronicle Tenets and the Storyteller’s discretion. Upon a win a number of aggressive dead equal to the necromancer’s Oblivion rating or the number of prepared bodies (whichever is lower) receive the gift of animation. Corpses animated this way do not decay and only enter repose if commanded to by the vampire, if the vampire meets final death, or if destroyed. The animated corpses can parse moderately complex orders such as “kill everyone who enters,” “groan if you see anyone pass this way,” or “terrorize that neighborhood.” Unlike the corpses raised using the Gift of False Life (see p. 92), these animated dead do not sit idle if left without commands, instead attacking anyone around them except for their master. As per the rules for temporary Advantages like these (Vampire: The Masquerade, p. 180), their continued usefulness beyond the current story must be ensured with Experience — such as through the Retainers Background (Vampire: The Masquerade, p. 196; one dot per loyal corpse) — or the aggressive corpses may become unstable and unruly."
+              },
+              {
+                "title": "Duration",
+                "text": "Until commanded to rest, the master meets final death, or the corpses are destroyed. Continued usefulness beyond the story requires Experience."
+              },
+              {
+                "title": "Cost and preparation",
+                "text": "One Rouse Check; 15 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 4 (Ceremony level + 1)."
+              },
+              {
+                "title": "Learning and limits",
+                "text": "Learning costs 9 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 9 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+              },
+              {
+                "title": "Aggressive Corpse",
+                "text": "| Trait | Rating |\n| --- | --- |\n| Standard pools | Physical 4; Social 0; Mental 0 |\n| Secondary Attributes | Health 6; Willpower 0 |\n| Exceptional pools | Brawl 6; Intimidation 5 |\n| General Difficulties | 3/2 |\n\nAggressive corpses take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage. They cannot be mentally dominated or influenced as they are bound to their master. They do not need eyes or ears to perceive everything around them as someone with unimpeded vision and hearing might. Bites from the aggressive dead inflict +2 Health damage which is Aggravated to mortals."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-split-the-veil",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Romper o Véu",
+        "en": "Split the Veil"
+      },
+      "aliases": [
+        "Romper o Véu",
+        "Split the Veil"
+      ],
+      "discipline": "Oblívio",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-split-the-veil-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 98, 99",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            },
+            {
+              "pdfPage": 94,
+              "printedPage": 92
+            },
+            {
+              "pdfPage": 98,
+              "printedPage": 96
+            },
+            {
+              "pdfPage": 99,
+              "printedPage": 97
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            },
+            "prerequisites": [
+              "Necrotic Plague"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Abre um rasgo no véu para a passagem de aparições. Elas podem assombrar locais e pessoas, seguir suas paixões e possuir mortais se tiverem poderes para isso. Algumas são gratas; outras atormentam quem abriu a passagem."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 4; poder Praga Necrótica (Necrotic Plague)."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Uma lâmina já usada para cortar uma pessoa viva, giz ou carvão, um lençol de seda e um sacrifício humano."
+              },
+              {
+                "title": "Processo",
+                "text": "Pendure o lençol numa parede de um local com véu padrão, fino ou desgastado. Faça o sacrifício contra o tecido e, quando o sangue o cobrir, corte-o com a lâmina, alargando a passagem entre vivos e mortos."
+              },
+              {
+                "title": "Sistema",
+                "text": "O sacrifício pode causar Máculas conforme os Preceitos e o Narrador. Role a Cerimônia ao cortar o lençol e resista ao Frenesi de Fome, Dificuldade 2, devido ao sangue derramado. Cada sucesso reduz a densidade do véu em um nível, até Ausente. Se chegar a Ausente, aparições podem atravessar para o mundo físico durante o restante da sessão ou noite. Ao fim desse período, um véu Ausente volta a Desgastado e a passagem se fecha. Consulte a tabela de Onde o Véu se Afina."
+              },
+              {
+                "title": "Duração",
+                "text": "A passagem de um véu Ausente dura o restante da sessão ou noite. O texto não fixa outra duração para resultados que não cheguem a Ausente."
+              },
+              {
+                "title": "Custo e preparação",
+                "text": "Um Teste de Sangue; 20 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 5 (nível da Cerimônia + 1)."
+              },
+              {
+                "title": "Aprendizado e limites",
+                "text": "Aprender custa 12 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 16 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This Ceremony allows a vampire to create a tear in the veil through which wraiths can pass. Wraiths who enter our world via this method take to haunting locations and people, indulging in their passions, and possess mortals if their powers allow for it. Some treat the vampire with gratitude for splitting the veil, while others enjoy tormenting the ones responsible."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 4; prerequisite power: Necrotic Plague."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A blade that’s been used to cut into someone living, chalk or charcoal, a silk sheet, and a human sacrifice."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire hangs a silk sheet over a wall in a place where the veil density (see p. 88) is standard, thin, or frayed. They then perform a human sacrifice against the sheet, and as blood coats the sheet, cut it open with a blade. The Ceremony widens the portal between the world of the living and the world of the dead."
+              },
+              {
+                "title": "System",
+                "text": "The caster performs the sacrifice, which may result in Stains depending on the chronicle Tenets and the Storyteller’s discretion. When cutting the silk sheet, their player makes the Ceremony roll. Due to the amount of blood spilled in this Ceremony, the caster must roll to resist hunger frenzy (Difficulty 2). For every success on the Ceremony roll, the veil’s density reduces by one level, down to being absent (see Where the Veil Thins on p. 87). Importantly, if the veil rating is reduced to absent, wraiths can spill into the physical world for the remainder of the session (or night). Once that period concludes, a veil density of absent increases to frayed and the gateway for wraiths closes."
+              },
+              {
+                "title": "Duration",
+                "text": "An absent veil permits passage for the rest of the session or night, then rises to frayed. No separate duration is specified for results short of absent."
+              },
+              {
+                "title": "Cost and preparation",
+                "text": "One Rouse Check; 20 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 5 (Ceremony level + 1)."
+              },
+              {
+                "title": "Learning and limits",
+                "text": "Learning costs 12 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 16 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-summon-spirit",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Invocar Espírito",
+        "en": "Summon Spirit"
+      },
+      "aliases": [
+        "Invocar Espírito",
+        "Summon Spirit"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-summon-spirit-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 95",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            },
+            {
+              "pdfPage": 94,
+              "printedPage": 92
+            },
+            {
+              "pdfPage": 95,
+              "printedPage": 93
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            },
+            "prerequisites": [
+              "The Binding Fetter"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Invoca um espírito do Submundo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 1; poder A Âncora Vinculante (The Binding Fetter)."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Uma âncora da aparição, uma fotografia ou outra representação visual dela ou seu nome assinado, e vitae do conjurador."
+              },
+              {
+                "title": "Processo",
+                "text": "Derrame vitae na âncora e, estudando a imagem ou assinatura, chame o nome da aparição. Ela sente o chamado e viaja do Submundo até o conjurador. A geografia tem escalas diferentes, mas a viagem pode levar várias noites se vier do outro lado do mundo. Se o véu for suficientemente tênue no local, a âncora puxa o espírito através dele. A aparição não é obrigada a servir: pode reagir com hostilidade se sua âncora estiver ameaçada, ou ficar grata pela convocação e companhia."
+              },
+              {
+                "title": "Sistema",
+                "text": "Faça o teste de Cerimônia após marcar a âncora com vitae. A aparição não atravessa um véu impenetrável. Mover a âncora depois não ajuda: sua capacidade de atravessar desaparece se a âncora sair do local da Cerimônia. A aparição desaparece no fim da cena, salvo se outra Cerimônia a compelir ou prender. Não se manifesta fisicamente: surge como sombras nas paredes ou silhuetas trêmulas de sua forma viva, das quais podem vir vozes. Fala os idiomas que conhecia em vida, salvo se aprendeu outros no Submundo."
+              },
+              {
+                "title": "Duração",
+                "text": "Chegada variável, possivelmente várias noites; após chegar, até o fim da cena, salvo outra Cerimônia."
+              },
+              {
+                "title": "Custo e preparação",
+                "text": "Um Teste de Sangue; 5 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 2 (nível da Cerimônia + 1)."
+              },
+              {
+                "title": "Aprendizado e limites",
+                "text": "Aprender custa 3 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 1 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This Ceremony enables a vampire to summon a spirit from the Underworld."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 1; prerequisite power: The Binding Fetter."
+              },
+              {
+                "title": "Ingredients",
+                "text": "One of the targeted wraith’s fetters (see The Binding Fetter, p. 85), a photo or other visual depiction of the wraith or their signed name, and the caster’s vitae."
+              },
+              {
+                "title": "Process",
+                "text": "The necromancer pours their vitae over a wraith’s fetter, and studying the picture or signature, calls out the wraith’s name. The wraith feels their fetter’s call, and begins a journey from their location in the Underworld to that of the caster. Though geography has differing scales in the Underworld, a journey may still take several nights if the spirit is on the other side of the world. If the veil is thin enough in the summoning location, the wraith is pulled through the veil between worlds by the fetter’s strength. The summoned wraith is under no obligation to serve the vampire upon being called and may act with hostility if they feel the vampire is threatening their fetter. Alternatively, the wraith may be grateful for the summoning and the possibility of companionship."
+              },
+              {
+                "title": "System",
+                "text": "The caster daubs the fetter with their vitae and makes an Oblivion Ceremony roll. The wraith cannot pass through the veil if it’s impenetrable in the Ceremony location (see p. 88). Moving the fetter after the Ceremony doesn’t help, as the wraith’s ability to pass through the veil disappears if the fetter leaves the Ceremony site. The wraith disappears at the end of the scene unless a separate Ceremony is used to compel or bind them. Wraiths summoned in this way do not manifest physically, but as shadows on the walls, quavering silhouettes of their living selves, from which voices might emerge. Wraiths speak the same languages they did in life, unless they’ve gone to the trouble of learning new ones in the Underworld."
+              },
+              {
+                "title": "Duration",
+                "text": "Travel time varies and can take several nights. The spirit departs at the end of the scene unless another Ceremony compels or binds it."
+              },
+              {
+                "title": "Cost and preparation",
+                "text": "One Rouse Check; 5 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 2 (Ceremony level + 1)."
+              },
+              {
+                "title": "Learning and limits",
+                "text": "Learning costs 3 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 1 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-the-gift-of-false-life",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "O Dom da Falsa Vida",
+        "en": "The Gift of False Life"
+      },
+      "aliases": [
+        "O Dom da Falsa Vida",
+        "The Gift of False Life"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-the-gift-of-false-life-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            },
+            {
+              "pdfPage": 94,
+              "printedPage": 92
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            },
+            "prerequisites": [
+              "Ashes to Ashes"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Reanima um cadáver ou grupo de cadáveres para executar tarefas simples, únicas ou repetitivas."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Oblívio 1; poder Cinzas às Cinzas (Ashes to Ashes)."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um ou mais corpos humanos e uma pequena mistura de sangue, catarro e bile."
+              },
+              {
+                "title": "Processo",
+                "text": "Aplique a mistura aos corpos e realize a Cerimônia. Os cadáveres obedecem a uma ordem simples que sejam fisicamente capazes de cumprir, como varrer o chão, manter uma porta fechada ou andar pelo perímetro da casa. Não pensam nem calculam: ordens condicionais ou complexas, como atacar a próxima pessoa que passar, dirigir ou construir uma cabana, não funcionam. O usuário pode indicar um alvo específico para ataque ou outra ação apontando para ele."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória anima um número de corpos igual ao nível de Oblívio ou à quantidade preparada, o que for menor. Uma vitória crítica dobra o nível de Oblívio apenas para determinar quantos cadáveres podem ser animados; ainda depende dos corpos preparados. A animação termina quando o cadáver é destruído ou conclui a tarefa. Eles não se defendem de ataques e se decompõem normalmente: a Cerimônia não os protege dos elementos nem da passagem do tempo."
+              },
+              {
+                "title": "Duração",
+                "text": "Até concluir a tarefa ou ser destruído; a decomposição continua normalmente."
+              },
+              {
+                "title": "Custo e preparação",
+                "text": "Um Teste de Sangue; 5 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 2 (nível da Cerimônia + 1)."
+              },
+              {
+                "title": "Aprendizado e limites",
+                "text": "Aprender custa 3 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 1 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+              },
+              {
+                "title": "Cadáver Sem Mente",
+                "text": "| Característica | Valor |\n| --- | --- |\n| Paradas padrão | Físicas 2; Sociais 0; Mentais 0 |\n| Atributos secundários | Vitalidade 4; Força de Vontade 0 |\n| Paradas excepcionais | Intimidação 4 |\n| Dificuldades gerais | 2/1 |\n\nRecebe dano superficial e agravado como vampiros, mas é imune à luz solar. Não pode curar ou reparar dano e apodrece pelo menos um ponto de dano superficial à Vitalidade por dia. Não pode ser dominado ou influenciado mentalmente, pois está ligado ao mestre. Não reage a movimentos, palavras ou interferência de ninguém além do reanimador. Sempre pode contribuir para Trabalho em Equipe em tarefas braçais, como cavar, levantar ou empurrar, mesmo sem Habilidades (Livro Básico inglês, p. 122)."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Through use of this Ceremony, a vampire can raise a corpse or group of corpses to perform simple, single or repetitive tasks."
+              },
+              {
+                "title": "Requirements",
+                "text": "Oblivion 1; prerequisite power: Ashes to Ashes."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A human body (or multiple bodies), a small concoction of blood, phlegm, and bile."
+              },
+              {
+                "title": "Process",
+                "text": "After applying the concoction to the corpse or corpses and performing the Ceremony, the affected bodies animate into a form of false life. They follow a single simple command from the vampire, providing the corpse is physically capable of performing it, such as “sweep the floor,” “hold this door shut,” or “walk around the house perimeter.” They have no ability to think or calculate, so conditional or complicated commands such as “attack the next person to walk through this archway,” “drive this car,” or “build a shack” do not work. They may be directed towards a\n\nspecific target for attack or other action if the user points at the target."
+              },
+              {
+                "title": "System",
+                "text": "The vampire makes their Ceremony roll and upon a win they raise a number of corpses equal to their Oblivion rating, or the number of bodies they have prepared (whichever is lower). A critical win doubles their Oblivion rating for the purpose of determining corpses raised. The mindless corpse’s animation ends when it is destroyed or it concludes its task. These corpses do not defend themselves from attacks, and decay as normal; the Ceremony does not grant them any form of immunity to the elements or time."
+              },
+              {
+                "title": "Duration",
+                "text": "Until its task is complete or it is destroyed; ordinary decay continues."
+              },
+              {
+                "title": "Cost and preparation",
+                "text": "One Rouse Check; 5 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 2 (Ceremony level + 1)."
+              },
+              {
+                "title": "Learning and limits",
+                "text": "Learning costs 3 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 1 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+              },
+              {
+                "title": "Mindless Corpse",
+                "text": "| Trait | Rating |\n| --- | --- |\n| Standard pools | Physical 2; Social 0; Mental 0 |\n| Secondary Attributes | Health 4; Willpower 0 |\n| Exceptional pools | Intimidation 4 |\n| General Difficulties | 2/1 |\n\nMindless corpses take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage, and rot at least one Superficial Health damage each day. They cannot be mentally dominated or influenced as they are bound to their master. They do not react to motion, words, or interference from anyone but their reanimator. They may always contribute to Teamwork for menial labor such as digging, lifting or pushing even if they lack Skills (Vampire: The Masquerade, p. 122)."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-feiti-aria-de-sangue-blood-aegis",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Égide de Sangue",
+        "en": "Blood Aegis"
+      },
+      "aliases": [
+        "Égide de Sangue",
+        "Blood Aegis"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-feiti-aria-de-sangue-blood-aegis-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 100, 101",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 100,
+              "printedPage": 98
+            },
+            {
+              "pdfPage": 101,
+              "printedPage": 99
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A vitae forma uma barreira física protetora: uma lâmina trêmula de Sangue que se move para interceptar projéteis."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 4."
+              },
+              {
+                "title": "Custo",
+                "text": "Um ou mais Testes de Sangue."
+              },
+              {
+                "title": "Sistema",
+                "text": "Cada Teste de Sangue gasto fornece cinco pontos de redução de dano de ataques à distância para a barreira. A interceptação é automática: cada projétil espalha o Sangue, que se recompõe enquanto restar proteção. Quando a proteção se esgota, o Sangue espalhado fica inerte."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma cena ou até gastar os pontos de redução de dano, o que ocorrer primeiro."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The vampire can will their vitae to form a physical protective barrier. The barrier manifests as a quivering sheet of Blood, the fluid moving of its own accord to intercept and catch incoming projectiles."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 4."
+              },
+              {
+                "title": "Cost",
+                "text": "One or more Rouse Checks"
+              },
+              {
+                "title": "System",
+                "text": "The user expends Blood equal to one or more Rouse Checks. For each Check the floating barrier can reduce damage from incoming ranged attacks by five. The effect is automatic as the vitae intercepts each incoming projectile in a shower of Blood, only to reform as long as the power remains active. Once the protection is spent the Blood turns inert as it lies splattered over the zone of conflict."
+              },
+              {
+                "title": "Duration",
+                "text": "One scene or until damage levels are spent, whichever comes first."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-feiti-aria-de-sangue-scour-secrets",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Vasculhar Segredos",
+        "en": "Scour Secrets"
+      },
+      "aliases": [
+        "Vasculhar Segredos",
+        "Scour Secrets"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-power-feiti-aria-de-sangue-scour-secrets-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 100",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 100,
+              "printedPage": 98
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "A Feitiçaria lança filetes de Sangue em busca de informações sobre um assunto escolhido. O Sangue percorre o objeto da pesquisa, permitindo investigar grandes quantidades de texto em minutos; deixa uma mancha reveladora depois."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Custo",
+                "text": "Um Teste de Sangue."
+              },
+              {
+                "title": "Parada",
+                "text": "Inteligência + Feitiçaria de Sangue contra Dificuldade definida pelo Narrador: de 2 para uma carta em um escritório comum até 5 para informação cifrada oculta numa biblioteca vasta. Ocultação sobrenatural aumenta a Dificuldade."
+              },
+              {
+                "title": "Sistema",
+                "text": "O tempo depende da área: um cômodo pode exigir minutos; uma biblioteca, horas ou a noite inteira. O poder não traduz idiomas desconhecidos nem decifra códigos por si. Informações não escritas, como pinturas, música ou disquetes antigos, podem ser pesquisadas a critério do Narrador, provavelmente com Dificuldade maior."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite ou até encontrar a informação ou esgotar a busca, o que ocorrer primeiro."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The Blood Sorcerer unleashes rivulets of their Blood primed to search for information on a subject of their choosing. The Blood washes over the object of their search, allowing the Blood Sorcerer to investigate vast amounts of text and volumes in a matter of minutes. The object investigated bears a telltale bloodstain thereafter."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 2."
+              },
+              {
+                "title": "Cost",
+                "text": "One Rouse Check"
+              },
+              {
+                "title": "System",
+                "text": "The user makes the Rouse Check and tests Intelligence + Blood Sorcery against a Difficulty set by the Storyteller: anything from 2 for a single letter in a regular office up to 5 for encrypted information hidden in a vast library. If the information has been supernaturally concealed the Difficulty increases further. The time spent depends on the size of the area to be searched: A single room might be scoured in minutes, while a library requires hours, if not the whole night. Additionally, the power does not impart the ability to parse the information if it comes in an unknown language or in a cipher. If the knowledge sought is stored in non-written formats, such as painting, music, or on old floppy disks, the power works at the Storyteller’s discretion, though the Difficulty is likely higher."
+              },
+              {
+                "title": "Duration",
+                "text": "One night or until the information is found or the search comes up short, whichever comes first."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-antebrachia-ignium",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Antebrachia Ignium",
+        "en": "Antebrachia Ignium"
+      },
+      "aliases": [
+        "Antebrachia Ignium",
+        "Antebrachia Ignium"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-antebrachia-ignium-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 104, 105",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 104,
+              "printedPage": 102
+            },
+            {
+              "pdfPage": 105,
+              "printedPage": 103
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Faz surgir chamas famintas dos braços, usando uma camada encantada de vitae como proteção para incendiar objetos e pessoas."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 5."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Vitae de qualquer vampiro em quantidade suficiente para cobrir os braços até os cotovelos e uma fonte de chama, como um isqueiro."
+              },
+              {
+                "title": "Processo",
+                "text": "Mergulhe os braços no sangue e suporte a vontade de bebê-lo ou entrar em Frenesi. Após retirá-los, exponha a camada de vitae à chama para incendiá-la sem queimar a pele protegida."
+              },
+              {
+                "title": "Sistema",
+                "text": "Se estiver com Fome 4 ou maior, resista ao Frenesi de Fome com Dificuldade 3 para não consumir os ingredientes. Em qualquer momento da noite, exponha a vitae ao fogo e faça o teste de Ritual. Uma vitória incendeia mãos e braços; vampiros próximos, exceto o conjurador, testam Frenesi de Terror, Dificuldade 2.\n\nEm combate, toque um alvo com Destreza + Briga para causar dois danos agravados à Vitalidade. Um agarrão incendeia as roupas dos dois combatentes, causando dano a cada turno até um teste de Autocontrole + Sobrevivência, Dificuldade 3, abafar as chamas. Só os braços do conjurador resistem ao fogo; o resto do corpo queima normalmente."
+              },
+              {
+                "title": "Duração",
+                "text": "Braços em chamas até o conjurador encerrar ou a cena terminar; podem ser incendiados em qualquer momento da noite após o preparo."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The caster of this Ritual manifests hungry flame from their flesh, using an enchanted coating of vitae like a buffer and can set items and people alight using the fire."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 5."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Sufficient vitae (from any vampire) to coat the caster’s arms up to the elbows, and a source of flame (such as a lighter)."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire immerses their arms in the blood and withstands the urge to feed or frenzy. After extracting their arms, exposure to flame ignites the vitae rather than the vampire it coats. The vampire can then go on to set targets alight using the fire on their skin."
+              },
+              {
+                "title": "System",
+                "text": "If the user is at Hunger 4 or more, make a hunger frenzy test at Difficulty 3 to avoid draining the ingredients. At any point during the night they may expose the vitae to fire and make a Ritual roll. Any success ignites flames on the vampire’s hands and arms, a spectacular display provoking a terror frenzy test (Difficulty 2) in all nearby vampires except the caster. They may touch others with Dexterity + Brawl in physical combat to inflict two Aggravated Health damage. Entering a grapple ignites the both combatants’ clothes, continuing the damage each turn until they make a Composure + Survival roll (Difficulty 3) to smother the burn. The caster is only resistant to flame on their arms, and burns as usual elsewhere. The fiery arms extinguish when the caster wills it or when the scene ends."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-as-fog-on-water",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Como Névoa sobre a Água",
+        "en": "As Fog on Water"
+      },
+      "aliases": [
+        "Como Névoa sobre a Água",
+        "As Fog on Water"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-as-fog-on-water-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 102",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 102,
+              "printedPage": 100
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Permite atravessar qualquer corpo d’água caminhando silenciosamente sobre sua superfície, como se não tivesse peso; névoa se ergue dos passos."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um pedaço de madeira de um navio e água."
+              },
+              {
+                "title": "Processo",
+                "text": "Mergulhe a madeira no corpo d’água que deseja atravessar, derramando seu Sangue nele."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória permite caminhar pela superfície daquela água pelo restante da noite. Pode encerrar o efeito quando quiser, mas precisa conjurar novamente para voltar a andar sobre ela."
+              },
+              {
+                "title": "Duração",
+                "text": "O restante da noite ou até o usuário encerrar."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "With this Ritual the vampire is able to traverse any body of water, silently walking upon it as if they were weightless, fog rising from their footsteps."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 2."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A piece of wood from a ship, and water"
+              },
+              {
+                "title": "Process",
+                "text": "The vampire submerges a piece of wood in the body of water they want to cross while spilling their Blood into it."
+              },
+              {
+                "title": "System",
+                "text": "Upon a successful Ritual roll the vampire can walk across the surface of the water for the rest of the night. They can end this effect any time they wish but cannot walk on the surface again until they recast the Ritual."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-calix-secretus",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Calix Secretus",
+        "en": "Calix Secretus"
+      },
+      "aliases": [
+        "Calix Secretus",
+        "Calix Secretus"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-calix-secretus-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 102",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 102,
+              "printedPage": 100
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Transforma um objeto comum num recipiente capaz de guardar quantidades surpreendentes do Sangue do conjurador para uso posterior."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um objeto que caiba na mão do conjurador e seu Sangue."
+              },
+              {
+                "title": "Processo",
+                "text": "Encharque o objeto com Sangue e recite o Ritual; ao terminar, o objeto o absorve. O processo exige uma hora."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória armazena Sangue do conjurador. Para liberá-lo, diga a palavra de comando. Cada dois Testes de Sangue feitos ao armazenar fornecem uma quantidade capaz de saciar um nível de Fome. Guardar o equivalente a apenas um Teste de Sangue serve para sustentar um carniçal ou atender ao ingrediente de outro Ritual."
+              },
+              {
+                "title": "Duração",
+                "text": "O texto não fixa prazo de armazenamento; o Sangue é liberado pela palavra de comando."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The sorcerer is able to turn a mundane object into a receptacle for their Blood, allowing them to store surprising quantities of it there to be retrieved for later use."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 2."
+              },
+              {
+                "title": "Ingredients",
+                "text": "An object that fits in the caster’s hand, and Blood of the user."
+              },
+              {
+                "title": "Process",
+                "text": "The user drenches the object with their Blood and speaks the words of the Ritual. When complete, the object absorbs the Blood."
+              },
+              {
+                "title": "System",
+                "text": "The process takes an hour. Make a Ritual roll, and if successful, the vampire imbues the object with an amount of Blood from the caster. If the caster wishes to release their Blood from the object, they need to say the command word. The amount of Blood stored can sate one Hunger for every two Rouse Checks made when storing the Blood. (Storing a single Rouse Check’s worth of Blood allows for a ghoul to get their fix or for use in another Ritual requirement.)"
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-dominion",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Domínio",
+        "en": "Dominion"
+      },
+      "aliases": [
+        "Domínio",
+        "Dominion"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-dominion-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 5,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 105",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 105,
+              "printedPage": 103
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Torna o feiticeiro soberano dos poderes sobrenaturais de seu domínio, impedindo o uso de certas capacidades vampíricas por outros."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 5."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Selos de ferro fixados sobre todas as passagens de porta do edifício."
+              },
+              {
+                "title": "Processo",
+                "text": "A conjuração exige três horas. Durante esse tempo, coloque os selos nas passagens, consagre-os com a própria vitae e grave sigilos nas portas."
+              },
+              {
+                "title": "Custo específico",
+                "text": "Varia conforme o tamanho do edifício: de um Teste de Sangue para um apartamento até cinco para uma mansão grande, conforme a fonte."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória impede o uso de Animalismo, Auspícios, Dominação e Presença dentro do edifício, exceto pelo próprio conjurador. Tentativas de usar essas Disciplinas ainda provocam os Testes de Sangue correspondentes. A destruição de pelo menos um selo quebra o Ritual."
+              },
+              {
+                "title": "Duração",
+                "text": "Indefinida, até pelo menos um selo ser destruído."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The Blood Sorcerer makes themselves the sovereign of supernatural powers in their own domain, thwarting others’ use of most vampiric abilities."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 5."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Seal made of iron embedded over every doorway in the building."
+              },
+              {
+                "title": "Process",
+                "text": "The ritual takes three hours to cast. During this time, the caster must be embedding iron seals over every doorway, consecrating them with their own vitae, and carving sigils on the doors."
+              },
+              {
+                "title": "System",
+                "text": "Upon a successful Ritual roll, the Blood sorcerer stops any uses of Animalism, Auspex, Dominate, or Presence except by themselves. Any uses of the Disciplines within the building still cause any Rouse checks to occur, though the amount of Blood spent to perform the ritual varies – from Rouse Check for an apartment up to five for a large manor. The Ritual lasts indefinitely but can be broken by the destruction of at least one seal."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-douse-the-fear",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Apagar o Medo",
+        "en": "Douse the Fear"
+      },
+      "aliases": [
+        "Apagar o Medo",
+        "Douse the Fear"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-douse-the-fear-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 101",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 101,
+              "printedPage": 99
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Suprime brevemente o medo vampírico natural do fogo."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 1."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um objeto sagrado, como crucifixo, Bíblia ou Alcorão."
+              },
+              {
+                "title": "Processo",
+                "text": "Exponha o símbolo sagrado a uma chama. Basta o fogo tocá-lo; não é necessário destruí-lo."
+              },
+              {
+                "title": "Sistema",
+                "text": "Após queimar o objeto sagrado e vencer o teste de Ritual, recebe dois dados extras em todos os testes para resistir ao Rötschreck. Uma vitória crítica dispensa todos os testes de Frenesi de Terror durante o efeito."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This Ritual allows the caster to briefly douse their natural vampiric fear of fire."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 1."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A holy object such as a crucifix, Bible, or Qur’an."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire must expose the holy symbol to a flame. The object does not need to be completely destroyed, just touched by the fire."
+              },
+              {
+                "title": "System",
+                "text": "A successful Ritual roll following the\n\nburning of the holy object grants the character two additional dice on all rolls relating to resisting Rötschreck. A critical win results in the character needing to make no terror Frenzy rolls at all. The effect lasts for one night."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-feast-of-ashes",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Banquete de Cinzas",
+        "en": "Feast of Ashes"
+      },
+      "aliases": [
+        "Banquete de Cinzas",
+        "Feast of Ashes"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-feast-of-ashes-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 103",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 103,
+              "printedPage": 101
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Impede um vampiro de beber sangue por uma noite, como se o sangue em sua boca virasse cinzas."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 4."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um pergaminho com o nome do alvo, queimado, e suas cinzas."
+              },
+              {
+                "title": "Processo",
+                "text": "Escreva o nome no pergaminho e queime-o. Misture as cinzas ao próprio Sangue para escrever os sigilos do Ritual."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Inteligência + Feitiçaria de Sangue contra Determinação + Força de Vontade do alvo, conforme a redação da fonte."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória impede o alvo de consumir sangue por uma noite: ele o vomita como comida ou bebida mortal. Só cinzas saciam sua Fome, e nunca abaixo de 3. Poucas vítimas pensam em comê-las sem receber explicação do feitiço."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma noite."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "What better way to torment a rival than by turning the blood in their mouth to ashes? Kindred affected by this Ritual cannot drink blood for one night."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 4."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A piece of parchment with the name of the target written on it and burned, and ashes from the burned scroll."
+              },
+              {
+                "title": "Process",
+                "text": "The caster writes the name of their target on a piece of parchment and burns it. They collect the ashes and use their own Blood mixed with the ashes to write the sigils required to perform the Ritual."
+              },
+              {
+                "title": "System",
+                "text": "Make a Ritual roll versus the target’s Resolve + Willpower. On a successful roll, the target cannot consume blood for one night, vomiting it up as if it were mortal food and drink. Only ashes sate their Hunger and cannot bring it lower than 3, though few victims think of eating ashes unless told of the spell."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-fire-in-the-blood",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Fogo no Sangue",
+        "en": "Fire in the Blood"
+      },
+      "aliases": [
+        "Fogo no Sangue",
+        "Fire in the Blood"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-fire-in-the-blood-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 102, 103",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 102,
+              "printedPage": 100
+            },
+            {
+              "pdfPage": 103,
+              "printedPage": 101
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Invoca calor agonizante no sangue da vítima, causando dor intensa. Diferentemente de Caldeirão de Sangue, funciona à distância e busca incapacitar mais do que matar."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 3."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Uma amostra de sangue do alvo, uma representação visual dele — fotografia, pintura ou vídeo — e uma vela de cera vermelha ou isqueiro de ferro."
+              },
+              {
+                "title": "Processo",
+                "text": "Concentre-se na representação visual, que pode ser a própria pessoa presente, e queime a amostra de sangue sobre a chama, normalmente num recipiente de vidro. O sangue da vítima aquece quase imediatamente."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Inteligência + Feitiçaria de Sangue contra Determinação + Ocultismo, ou Determinação + Fortitude se o alvo possuir essa Disciplina."
+              },
+              {
+                "title": "Sistema",
+                "text": "Cada ponto de margem causa um dano superficial à Vitalidade e dores que impõem uma penalidade de dois dados às paradas Físicas pelo resto da cena. Numa vitória crítica, a penalidade é de três dados. Um alvo vampiro também faz um Teste de Sangue pelo dano à vitae. Uma vítima só pode ser afetada por este Ritual uma vez por noite."
+              },
+              {
+                "title": "Duração",
+                "text": "Penalidade pelo resto da cena; limite de uma aplicação por vítima por noite."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "This Ritual allows a vampire to invoke the anguish of fire in a victim’s blood. Blistering heat ravages the target’s veins and causes intense pain. This Ritual differs from the Cauldron of Blood power (Vampire: The Masquerade, p. 274); it is usable from a distance and a more efficient way to incapacitate rather than kill the victim."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 3."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A sample of the target’s blood, a visual depiction of the target such as a photo, painting, or video recording, and a candle made from red wax or a lighter made of iron."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire concentrates on the visual depiction of their target (which can be the individual in person) and burns the target’s blood sample, usually held in a Petri dish, glass bottle, or vial, over the flame. The effect occurs almost immediately, as the victim’s blood heats up in their veins."
+              },
+              {
+                "title": "System",
+                "text": "Make a Ritual roll following the incantation versus the target’s Resolve + Occult (or Resolve + Fortitude, if the target is a creature with this Discipline). Each point of the caster’s margin is applied as Superficial Health damage that also inflicts wracking pain upon the victim, forcing them to incur a two-dice penalty to Physical pools for the remainder of the scene. On a critical win, the penalty increases to three dice. A Kindred target must make a Rouse Check due to the damage to their vitae. A victim can only be affected by this Ritual once per night."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-guided-memory",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Memória Guiada",
+        "en": "Guided Memory"
+      },
+      "aliases": [
+        "Memória Guiada",
+        "Guided Memory"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-guided-memory-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 103, 104",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 103,
+              "printedPage": 101
+            },
+            {
+              "pdfPage": 104,
+              "printedPage": 102
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Ao beber o Sangue de um Membro voluntário, revive suas memórias com ele como guia, até de antes do próprio nascimento. A jornada pode liberar temporariamente poderes, Qualidades ou outros dons daquele Sangue."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 4."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Vitae de outro vampiro, alecrim seco e papoulas frescas ou flores não me esqueças."
+              },
+              {
+                "title": "Processo",
+                "text": "Queime as flores e o alecrim, misture suas cinzas à vitae doada e beba."
+              },
+              {
+                "title": "Sistema",
+                "text": "Escolha um objetivo de Memoriam do Livro Básico inglês, p. 312, ou um dos objetivos da tabela abaixo. A memória pode mostrar o aprendizado do poder; uma Qualidade pode surgir de circunstância semelhante ou de um potencial desbloqueado no passado. O jogador pode buscar um dom específico, mas o Narrador decide qual será recebido. Memórias novas do usuário acabam encobrindo as importadas."
+              },
+              {
+                "title": "Objetivos adicionais",
+                "text": "| Nível de objetivo | Dom possível |\n| --- | --- |\n| 1 | Poder de Disciplina de nível 1 ou Qualidade de um ponto |\n| 2 | Poder de Disciplina de nível 2 ou Qualidade de dois pontos |\n| 3 | Poder de Disciplina de nível 3 ou Qualidade de três pontos |"
+              },
+              {
+                "title": "Poderes",
+                "text": "O poder recebido é independente dos demais e não conta para o limite de poderes da Disciplina, mas ainda exige o nível correspondente nela. Não serve de requisito para aprender outro poder. Pode obter temporariamente um poder de Amálgama se já conhecer o outro poder pré-requisito."
+              },
+              {
+                "title": "Qualidades",
+                "text": "Os pontos não podem ser divididos entre várias Qualidades nem adicionados a uma Qualidade já possuída."
+              },
+              {
+                "title": "Entrando no Memoriam guiado",
+                "text": "Siga as regras normais de Memoriam, exceto que o Teste de Sangue exigido para a entrada é feito pelo doador das memórias e do Sangue. Ele permanece durante a cena como presença ou guia espiritual, com quem só os participantes da memória interagem. Todos os participantes precisam beber do Sangue oferecido. A dose sempre conta como um gole profundo, conforme o Livro Básico inglês, p. 312; os bônus normalmente compensam parte das penalidades abaixo."
+              },
+              {
+                "title": "Modificadores adicionais",
+                "text": "| Época da cena | Penalidade |\n| --- | --- |\n| Durante ou depois da vida mortal do participante | −1 dado |\n| Menos de um século antes da vida mortal | −2 dados |\n| Um ou dois séculos antes da vida mortal | −4 dados |\n| Três ou mais séculos antes da vida mortal | −6 dados |"
+              },
+              {
+                "title": "Duração",
+                "text": "Os dons duram até o fim da sessão; se o Memoriam ocorreu no fim da sessão, até o fim da próxima."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "By imbibing the Blood of a willing Kindred, a vampire can relive the memories of the donor, who guides them through the donor’s past experiences. This can allow the vampire to “recall” memories from before they were born! In addition, these guided journeys can unlock Discipline powers, Merits, and potentially other gifts of the donor’s Blood."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 4."
+              },
+              {
+                "title": "Ingredients",
+                "text": "The vitae of another vampire, dried rosemary, and fresh poppies or forget-me-nots."
+              },
+              {
+                "title": "Process",
+                "text": "The sorcerer burns the flowers and rosemary, blending the ashes with the donated vitae, then drinks the Blood."
+              },
+              {
+                "title": "System",
+                "text": "The sorcerer selects a Memoriam goal (Vampire: The Masquerade, p. 312), or one of the goals below: \n\n| Goal level | Possible gift |\n| --- | --- |\n| 1 | Level 1 Discipline power or one-dot Merit |\n| 2 | Level 2 Discipline power or two-dot Merit |\n| 3 | Level 3 Discipline power or three-dot Merit | The power may be encountered during the Memoriam, or the memory itself deals with the donor learning the power. The Merit may emerge from a similar circumstance, or result from the character unlocking some secret or potential in the past. While the player may pursue a specific power or Merit, the Storyteller is the final judge of which gift they gain. All gifts of guided Memoriam fade as new native memories overlay these resurfaced and imported ones. They last until the end of the session, or (if the guided Memoriam happened at the end of the session) until the end of the next one."
+              },
+              {
+                "title": "Powers",
+                "text": "This power is independent of the sorcerer’s other powers and does not count against the limit of powers they can possess in a single Discipline, although they still need to fulfill the Discipline rating requirement. This power cannot be used as a requirement to learn another power, but a character could gain an Amalgam power temporarily if they already knew the other prerequisite power."
+              },
+              {
+                "title": "Merits",
+                "text": "Merit dots cannot be spread among different Merits or added to existing Merits the player character may already have."
+              },
+              {
+                "title": "Entering the Guided Memoriam",
+                "text": "A guided Memoriam follows all of the same rules as a standard Memoriam except the Kindred donating the Blood and memories rolls the required Rouse check. The donor remains present throughout the scene as a spiritual or disembodied presence or guide that only the Kindred experiencing the Memoriam can interact with. Everyone experiencing the guided Memoriam must partake of the offered Blood. Walking through another Kindred’s memories is a particularly unnatural experience and inflicts penalties based on how far back in time the journey delves. The Blood offered by the Kindred donor is always considered a deep drink (Vampire: The Masquerade, p. 312) and the bonuses supplied\n\nfrom that usually offset some of these penalties."
+              },
+              {
+                "title": "Additional Guided Memoriam Modifiers",
+                "text": "-  The scene takes place during or after your mortal life: lose one die \n-  The scene takes place less than a century before your mortal life: lose two dice \n-  The scene takes place one or two centuries before your mortal life: lose four dice \n-  The scene takes place three or more centuries before your mortal life: lose six dice"
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-invisible-chains-of-binding",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Correntes Invisíveis de Aprisionamento",
+        "en": "Invisible Chains of Binding"
+      },
+      "aliases": [
+        "Correntes Invisíveis de Aprisionamento",
+        "Invisible Chains of Binding"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-invisible-chains-of-binding-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 4,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 104",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 104,
+              "printedPage": 102
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Prende uma pessoa num único lugar com correntes invisíveis."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 4."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Um elo de corrente."
+              },
+              {
+                "title": "Processo",
+                "text": "Inscreva sigilos no elo com o próprio Sangue durante uma hora. Depois pode ocultá-lo e guardá-lo para lançar aos pés de um alvo mais tarde."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Ao lançar o elo preparado, dispute Inteligência + Feitiçaria de Sangue contra Força + Determinação do alvo."
+              },
+              {
+                "title": "Sistema",
+                "text": "O alvo não sai do lugar por uma hora por ponto de margem, desde que o elo permaneça intacto e a até três metros dele. Sofre uma penalidade de quatro dados em testes de defesa física e ações de Briga e Armas Brancas. O elo se desfaz em pó ao fim do efeito."
+              },
+              {
+                "title": "Duração",
+                "text": "Uma hora de preparação; aprisionamento de uma hora por ponto de margem, enquanto o elo estiver intacto e ao alcance."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The blood sorcerer binds a subject in invisible chains, confining them to a single spot for the duration of the Ritual."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 4."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A link of chain."
+              },
+              {
+                "title": "Process",
+                "text": "The sorcerer inscribes the sigils on the chain using their own Blood. The process takes an hour, at which point the chain link can be concealed on their person to be used on a target at a later time, at which point the chain is thrown at their feet."
+              },
+              {
+                "title": "System",
+                "text": "When throwing the prepared link at a target the user makes a Ritual roll against the target’s Strength + Resolve. The target is unable to move from the spot for one hour per success in the margin as long as the chain link remains intact and within three yards / meters of them. A bound target suffers a four-dice penalty to any physical defense tests as well as to brawl and melee actions. The chain link corrodes to dust at the end of the Ritual’s effect."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-one-with-the-blade",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Uno com a Lâmina",
+        "en": "One with the Blade"
+      },
+      "aliases": [
+        "Uno com a Lâmina",
+        "One with the Blade"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-one-with-the-blade-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 3,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 103",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 103,
+              "printedPage": 101
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Dedica uma arma estimada ao vampiro. Enquanto for dele, não enferruja nem perde o fio; se outra pessoa a tomar como própria, envelhece rapidamente como um carniçal sem vitae. Se sobreviver à deterioração, pode ferir gravemente o antigo dono."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 3."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Uma arma de combate corpo a corpo e vitae do conjurador suficiente para mergulhá-la completamente."
+              },
+              {
+                "title": "Processo",
+                "text": "Mergulhe a arma no próprio Sangue e jure dedicar sua não vida a ela. A arma deve permanecer submersa sem interrupção até o nascer do sol seguinte."
+              },
+              {
+                "title": "Sistema",
+                "text": "Após reunir o Sangue e submergir a arma, faça o teste de Ritual. Uma vitória a dedica misticamente ao usuário. Permanece impecável, salvo dano intencional quando estiver fora da posse do conjurador. Pode voltar a ungi-la com o próprio Sangue: isso exige um turno e um Teste de Sangue e concede dois dados extras ao usá-la em combate por uma cena. Só pode ter uma arma dedicada; antes de dedicar outra, destrua a anterior. Se usada contra o dono original, causa dano agravado, mas não recebe os dados extras."
+              },
+              {
+                "title": "Duração",
+                "text": "Dedicação sem prazo fixo; unção de combate dura uma cena. Preparação exige imersão até o amanhecer seguinte."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Certain Kindred develop a close relationship with a favored weapon, in some rare cases carried with them for centuries of use. Such a weapon never rusts or dulls so long as it remains in the vampire’s possession. If someone else physically claims it as their own, it ages rapidly, like a ghoul denied vitae. If the weapon remains usable following this degeneration, it can inflict grievous harm on its original owner — the blood sorcerer — if used against them."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 3."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A melee weapon and enough of the caster’s vitae to fully immerse it."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire submerges their chosen weapon in their own vitae and swears an oath dedicating their unlife to the weapon. The weapon must remain submerged without interruption until the following sunrise."
+              },
+              {
+                "title": "System",
+                "text": "Once the Blood is collected and the weapon is submerged, make a Ritual roll. On a win, the weapon becomes mystically dedicated to the user. It remains of immaculate quality unless subjected to intentional harm when outside the caster’s ownership. Additionally, if again anointed by the Blood of the user it gains a two-dice bonus when used in combat. The anointment takes a single turn, forces a Rouse check and lasts for a full scene. A vampire can never possess more than one weapon dedicated this way. In order to perform this ritual on a new weapon, the previous dedicated weapon must first be destroyed.\n\nIf used against its original owner it deals Aggravated damage but gains no additional dice."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-seal-the-brand",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Selar a Marca",
+        "en": "Seal the Brand"
+      },
+      "aliases": [
+        "Selar a Marca",
+        "Seal the Brand"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-seal-the-brand-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 1,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 101, 102",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 101,
+              "printedPage": 99
+            },
+            {
+              "pdfPage": 102,
+              "printedPage": 100
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Dá permanência a tatuagens, cicatrizes e outras modificações do corpo vampírico que normalmente desaparecem durante o sono diurno."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 1."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Prata derretida derramada sobre a tatuagem, marca ou outra modificação corporal."
+              },
+              {
+                "title": "Processo",
+                "text": "O conjurador derrama prata derretida na modificação do alvo. A prata causa dano, mas, depois de reparado, a modificação permanece."
+              },
+              {
+                "title": "Sistema",
+                "text": "Uma vitória torna a modificação permanente, parte do corpo imortal do alvo, sem possibilidade de remoção por outros meios. A prata causa um ponto de dano superficial, que pode ser reparado normalmente."
+              },
+              {
+                "title": "Duração",
+                "text": "Permanente."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Normally tattoos, scars, and other changes to vampire flesh fade during the day’s sleep. Yet some Kindred seek to make a mark on their own flesh, and give that mark permanence."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 1."
+              },
+              {
+                "title": "Ingredients",
+                "text": "Molten silver poured over a tattoo, brand, or other body modification."
+              },
+              {
+                "title": "Process",
+                "text": "The vampire casting the ritual pours the molten silver over the target’s tattoo, brand, or body modification. The target suffers damage from the molten silver, but once mended, the affected modification remains permanent."
+              },
+              {
+                "title": "System",
+                "text": "A successful Ritual yields a permanent body modification for the target. This modification cannot be removed by any other means and is now considered part of the target’s undying body. Pouring the molten silver onto the body modification inflicts one point of Superficial damage, which may be mended as normal."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-soporific-touch",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Toque Soporífero",
+        "en": "Soporific Touch"
+      },
+      "aliases": [
+        "Toque Soporífero",
+        "Soporific Touch"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-soporific-touch-players-guide-v5",
+          "book": "players-guide-v5",
+          "level": 2,
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 102",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 102,
+              "printedPage": 100
+            }
+          ],
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Transforma uma dose de vitae num narcótico ativado por toque, deixando a vítima desinibida e vulnerável a Presença, Dominação e tentativas comuns de manipulação, coerção ou interrogatório."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Feitiçaria de Sangue 2."
+              },
+              {
+                "title": "Ingredientes",
+                "text": "Uma pequena quantidade de haxixe ou outra substância narcótica."
+              },
+              {
+                "title": "Processo",
+                "text": "Misture a substância ao Sangue e esfregue entre os dedos enquanto lê ou sussurra a invocação. A preparação exige apenas alguns minutos."
+              },
+              {
+                "title": "Parada e resistência",
+                "text": "Ao contato da vítima com a vitae preparada, dispute Inteligência + Feitiçaria de Sangue contra Vigor + Determinação dela, em vez da Dificuldade fixa habitual."
+              },
+              {
+                "title": "Sistema",
+                "text": "Pelo resto da cena, a vítima sofre uma penalidade igual à margem de vitória do Ritual em todas as paradas de resistência que incluam Autocontrole ou Determinação. Aplique uma vez só se a parada incluir ambos. A vitae permanece potente até ser tocada, no máximo até o fim da cena."
+              },
+              {
+                "title": "Duração",
+                "text": "Penalidade pelo restante da cena; a vitae preparada expira no fim da cena se não for tocada."
+              },
+              {
+                "title": "Regras gerais de rituais",
+                "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "The blood sorcerer can convert a dose of their own vitae into a touch-activated narcotic that renders a victim uninhibited and vulnerable to Disciplines such as Presence and Dominate, as well as attempts at mundane manipulation, coercion, or interrogation."
+              },
+              {
+                "title": "Requirements",
+                "text": "Blood Sorcery 2."
+              },
+              {
+                "title": "Ingredients",
+                "text": "A small amount of hashish or other narcotic substance."
+              },
+              {
+                "title": "Process",
+                "text": "The chosen substance is mixed with the user’s Blood and rubbed between their fingers as the incantation is read (or whispered). The Ritual takes only a few minutes to prepare."
+              },
+              {
+                "title": "System",
+                "text": "Make a Ritual roll vs. the Stamina + Resolve of the target when they make contact with the affected vitae. For the remainder of the scene, the victim suffers a dice penalty equal to the margin of win on the Ritual roll on all resistance pools involving Composure or Resolve. (Apply the penalty only once if the pool involves both Attributes.) The narcotic vitae retains its potency until it is touched, up until the end of the scene."
+              },
+              {
+                "title": "General ritual rules",
+                "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

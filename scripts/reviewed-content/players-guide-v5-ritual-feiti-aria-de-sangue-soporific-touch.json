@@ -1,0 +1,100 @@
+{
+  "id": "players-guide-v5-ritual-feiti-aria-de-sangue-soporific-touch",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Toque Soporífero",
+    "en": "Soporific Touch"
+  },
+  "aliases": [
+    "Toque Soporífero",
+    "Soporific Touch"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-soporific-touch-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 102",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 102,
+          "printedPage": 100
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Transforma uma dose de vitae num narcótico ativado por toque, deixando a vítima desinibida e vulnerável a Presença, Dominação e tentativas comuns de manipulação, coerção ou interrogatório."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma pequena quantidade de haxixe ou outra substância narcótica."
+          },
+          {
+            "title": "Processo",
+            "text": "Misture a substância ao Sangue e esfregue entre os dedos enquanto lê ou sussurra a invocação. A preparação exige apenas alguns minutos."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Ao contato da vítima com a vitae preparada, dispute Inteligência + Feitiçaria de Sangue contra Vigor + Determinação dela, em vez da Dificuldade fixa habitual."
+          },
+          {
+            "title": "Sistema",
+            "text": "Pelo resto da cena, a vítima sofre uma penalidade igual à margem de vitória do Ritual em todas as paradas de resistência que incluam Autocontrole ou Determinação. Aplique uma vez só se a parada incluir ambos. A vitae permanece potente até ser tocada, no máximo até o fim da cena."
+          },
+          {
+            "title": "Duração",
+            "text": "Penalidade pelo restante da cena; a vitae preparada expira no fim da cena se não for tocada."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The blood sorcerer can convert a dose of their own vitae into a touch-activated narcotic that renders a victim uninhibited and vulnerable to Disciplines such as Presence and Dominate, as well as attempts at mundane manipulation, coercion, or interrogation."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A small amount of hashish or other narcotic substance."
+          },
+          {
+            "title": "Process",
+            "text": "The chosen substance is mixed with the user’s Blood and rubbed between their fingers as the incantation is read (or whispered). The Ritual takes only a few minutes to prepare."
+          },
+          {
+            "title": "System",
+            "text": "Make a Ritual roll vs. the Stamina + Resolve of the target when they make contact with the affected vitae. For the remainder of the scene, the victim suffers a dice penalty equal to the margin of win on the Ritual roll on all resistance pools involving Composure or Resolve. (Apply the penalty only once if the pool involves both Attributes.) The narcotic vitae retains its potency until it is touched, up until the end of the scene."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "players-guide-v5-ceremony-obl-vio-shambling-hordes",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Hordas Cambaleantes",
+    "en": "Shambling Hordes"
+  },
+  "aliases": [
+    "Hordas Cambaleantes",
+    "Shambling Hordes"
+  ],
+  "discipline": "Oblívio",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-shambling-hordes-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 97, 98",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        },
+        {
+          "pdfPage": 94,
+          "printedPage": 92
+        },
+        {
+          "pdfPage": 97,
+          "printedPage": 95
+        },
+        {
+          "pdfPage": 98,
+          "printedPage": 96
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 3
+        },
+        "prerequisites": [
+          "Aura of Decay"
+        ],
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Reanima um grupo de mortos ambulantes agressivos para servir ao vampiro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 3; poder Aura de Decadência (Aura of Decay)."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um ou mais cadáveres mortais e um mortal vivo para um sacrifício recente."
+          },
+          {
+            "title": "Processo",
+            "text": "Mantenha os cadáveres separados da vítima a sacrificar. Mate a vítima e derrame seu sangue nos corpos preparados. Numa Cerimônia bem-sucedida, esses corpos se levantam; o mortal recém-sacrificado não é reanimado por esse ato."
+          },
+          {
+            "title": "Sistema",
+            "text": "Antes do teste de Cerimônia, resista ao Frenesi de Fome com Dificuldade 2 devido ao sangue derramado. Realize a Cerimônia; os Preceitos da crônica e o Narrador podem atribuir Máculas. Uma vitória anima uma quantidade de mortos agressivos igual ao nível de Oblívio ou ao número de corpos preparados, o que for menor. Eles não se decompõem e só entram em repouso por ordem do mestre, pela Morte Final dele ou quando destruídos.\n\nEntendem ordens moderadamente complexas: matar quem entrar, gemer ao ver alguém passar ou aterrorizar um bairro. Sem ordens, atacam todos ao redor exceto o mestre, ao contrário dos corpos do Dom da Falsa Vida. Para manter sua utilidade além da história atual, assegure-os com XP, como no Antecedente Lacaios: um ponto por cadáver leal. Caso contrário, podem ficar instáveis e indisciplinados (Livro Básico inglês, pp. 180 e 196)."
+          },
+          {
+            "title": "Duração",
+            "text": "Até ordem de repouso, Morte Final do mestre ou destruição. Lealdade e utilidade além da história exigem investimento em XP conforme as regras de Vantagens temporárias."
+          },
+          {
+            "title": "Custo e preparação",
+            "text": "Um Teste de Sangue; 15 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 4 (nível da Cerimônia + 1)."
+          },
+          {
+            "title": "Aprendizado e limites",
+            "text": "Aprender custa 9 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 9 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+          },
+          {
+            "title": "Cadáver Agressivo",
+            "text": "| Característica | Valor |\n| --- | --- |\n| Paradas padrão | Físicas 4; Sociais 0; Mentais 0 |\n| Atributos secundários | Vitalidade 6; Força de Vontade 0 |\n| Paradas excepcionais | Briga 6; Intimidação 5 |\n| Dificuldades gerais | 3/2 |\n\nRecebe dano superficial e agravado como vampiros, mas é imune à luz solar. Não pode curar ou reparar dano nem ser dominado ou influenciado mentalmente, pois está ligado ao mestre. Não precisa de olhos ou ouvidos para perceber os arredores como alguém com visão e audição desimpedidas. Suas mordidas causam +2 de dano à Vitalidade, agravado contra mortais."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This Ceremony enables a vampire to raise a group of aggressive, walking dead minions."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 3; prerequisite power: Aura of Decay."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A mortal corpse (or multiple corpses), and a fresh mortal sacrifice."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire must have a separate corpse in addition to a mortal prepared for sacrifice. The vampire slays the sacrificial victim, spilling their blood on the corpse or corpses intended for animation. If the Ceremony is successful, the corpses stand (the recent sacrifice does not) and serve the vampire’s commands."
+          },
+          {
+            "title": "System",
+            "text": "Due to the amount of blood spilled in this Ceremony, the caster must first test to resist hunger frenzy (Difficulty 2). Make a Ceremony roll, possibly incurring Stains in the process depending on the chronicle Tenets and the Storyteller’s discretion. Upon a win a number of aggressive dead equal to the necromancer’s Oblivion rating or the number of prepared bodies (whichever is lower) receive the gift of animation. Corpses animated this way do not decay and only enter repose if commanded to by the vampire, if the vampire meets final death, or if destroyed. The animated corpses can parse moderately complex orders such as “kill everyone who enters,” “groan if you see anyone pass this way,” or “terrorize that neighborhood.” Unlike the corpses raised using the Gift of False Life (see p. 92), these animated dead do not sit idle if left without commands, instead attacking anyone around them except for their master. As per the rules for temporary Advantages like these (Vampire: The Masquerade, p. 180), their continued usefulness beyond the current story must be ensured with Experience — such as through the Retainers Background (Vampire: The Masquerade, p. 196; one dot per loyal corpse) — or the aggressive corpses may become unstable and unruly."
+          },
+          {
+            "title": "Duration",
+            "text": "Until commanded to rest, the master meets final death, or the corpses are destroyed. Continued usefulness beyond the story requires Experience."
+          },
+          {
+            "title": "Cost and preparation",
+            "text": "One Rouse Check; 15 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 4 (Ceremony level + 1)."
+          },
+          {
+            "title": "Learning and limits",
+            "text": "Learning costs 9 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 9 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+          },
+          {
+            "title": "Aggressive Corpse",
+            "text": "| Trait | Rating |\n| --- | --- |\n| Standard pools | Physical 4; Social 0; Mental 0 |\n| Secondary Attributes | Health 6; Willpower 0 |\n| Exceptional pools | Brawl 6; Intimidation 5 |\n| General Difficulties | 3/2 |\n\nAggressive corpses take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage. They cannot be mentally dominated or influenced as they are bound to their master. They do not need eyes or ears to perceive everything around them as someone with unimpeded vision and hearing might. Bites from the aggressive dead inflict +2 Health damage which is Aggravated to mortals."
+          }
+        ]
+      }
+    }
+  ]
+}

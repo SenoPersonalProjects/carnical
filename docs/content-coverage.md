@@ -7,7 +7,7 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 63 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 86 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
@@ -15,7 +15,7 @@ na mesma entrada quando sua identificação é inequívoca.
 | --- | --- | --- |
 | Livro Básico | 5 rituais de nível 1 e Fusão com a Terra | Pendente |
 | Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
-| Guia do Jogador | Versões dos poderes, Qualidades de Coterie e Defeitos correspondentes; Contenção dos Salubri; Lasombra e todos os 18 poderes de Oblívio | Cerimônias e demais seções pendentes |
+| Guia do Jogador | Versões dos poderes, Qualidades de Coterie e Defeitos correspondentes; Contenção dos Salubri; Lasombra; 18 poderes e 9 Cerimônias de Oblívio; 2 poderes e 12 Rituais de Feitiçaria de Sangue | Demais Disciplinas, fórmulas e outras seções pendentes |
 | Cultos dos Deuses de Sangue | 3 Cerimônias Shalimitas | Pendente |
 | Let the Streets Run Red | Assassino de Estrada | Pendente |
 | Chicago by Night | Lasombra e os nove poderes de Oblívio, incluindo as regras gerais da Disciplina | Loresheets e demais opções pendentes |
@@ -39,6 +39,14 @@ permitindo tentar novamente. Itens personalizados mantêm as informações da fi
 
 ## Versões e escolhas gratuitas
 
+- As nove Cerimônias do Guia incluem os perfis completos de cadáveres e
+  homúnculos, testes, condições, ingredientes e regras de aprendizado. Sangues-
+  Ralos não recebem escolhas guiadas de Cerimônias; itens antigos são preservados
+  com aviso. Os poderes pré-requisitos são reconhecidos nos dois idiomas.
+- Dominion, Ritual de nível 5 omitido pelo catálogo anterior, passou a integrar
+  a criação/consulta e as compras com XP. As exceções de tempo e custo dos Rituais
+  são mantidas; Memória Guiada inclui tabelas e os limites dos dons temporários.
+- Links de referência nas regras também viram links clicáveis no PDF.
 - Os nove poderes de Oblívio de Chicago e do Guia mantêm regras próprias para
   iluminação, Máculas e as diferenças específicas de cada poder. Braços de
   Ahriman do Guia não herda Vitalidade nem o escape especial da versão Chicago.

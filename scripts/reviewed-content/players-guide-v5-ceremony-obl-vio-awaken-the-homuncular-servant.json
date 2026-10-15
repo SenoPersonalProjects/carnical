@@ -1,0 +1,127 @@
+{
+  "id": "players-guide-v5-ceremony-obl-vio-awaken-the-homuncular-servant",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Despertar o Servo Homuncular",
+    "en": "Awaken the Homuncular Servant"
+  },
+  "aliases": [
+    "Despertar o Servo Homuncular",
+    "Awaken the Homuncular Servant"
+  ],
+  "discipline": "Oblívio",
+  "level": 2,
+  "versions": [
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-awaken-the-homuncular-servant-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 95",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        },
+        {
+          "pdfPage": 94,
+          "printedPage": 92
+        },
+        {
+          "pdfPage": 95,
+          "printedPage": 93
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 2
+        },
+        "prerequisites": [
+          "Where the Veil Thins"
+        ],
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Cria servos e espiões de partes de corpos, como mãos ou crânios, ou de pequenos animais mortos, como ratos e raposas. Alguns necromantes enchem suas oficinas dessas criaturas inquietantes."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 2; poder Onde o Véu se Afina (Where the Veil Thins)."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "A parte de corpo ou carcaça, a arma usada para cortá-la ou matá-la e uma pequena mistura de urina, matéria fecal e sêmen."
+          },
+          {
+            "title": "Processo",
+            "text": "Cubra uma lâmina ou instrumento adequado com a mistura e separe o apêndice do corpo ou mate o animal. O animal não pode ser maior que um cão pequeno e não pode voar, mesmo que tenha asas. Massageie vitae no alvo para animá-lo como um servo fiel ao mestre."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória cria um servo que espiona, segue ou intimida conforme as ordens do necromante. A mais de 100 metros do vampiro, fica inerte, voltando a despertar quando ele entra nesse alcance. Fora isso, permanece ativo por um número de noites igual aos sucessos obtidos. Uma vitória crítica o mantém ativo para sempre; uma falha total destrói todos os componentes. Muitos escalam paredes, saltam mesmo sem membros apropriados e se escondem bem, com variações conforme sua construção e tarefa. Não falam nem realizam ações que exijam pensamento profundo, mas comunicam telepaticamente imagens, cheiros ou sons isolados ao criador. O perfil abaixo limita a transmissão de imagens a uma por cena."
+          },
+          {
+            "title": "Duração",
+            "text": "Sucessos em noites; permanente numa vitória crítica. Fica inerte fora do alcance de 100 metros."
+          },
+          {
+            "title": "Custo e preparação",
+            "text": "Um Teste de Sangue; 10 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 3 (nível da Cerimônia + 1)."
+          },
+          {
+            "title": "Aprendizado e limites",
+            "text": "Aprender custa 6 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 4 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+          },
+          {
+            "title": "Servo Homuncular",
+            "text": "| Característica | Valor |\n| --- | --- |\n| Paradas padrão | Físicas 1; Sociais 0; Mentais 1 |\n| Atributos secundários | Vitalidade 3; Força de Vontade 1 |\n| Paradas excepcionais | Atletismo 4; Furtividade 6; Intimidação 4 |\n| Dificuldades gerais | 3/1 |\n\nRecebe dano superficial e agravado como vampiros, mas é imune à luz solar. Não pode curar ou reparar dano nem ser dominado ou influenciado mentalmente, pois está ligado ao mestre. Não precisa de olhos ou ouvidos para perceber tudo ao redor como alguém com visão e audição desimpedidas. Pode transmitir telepaticamente uma única imagem por cena ao mestre."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Vampires use this Ceremony to create servants and spies out of body parts such as hands or skulls, or small dead animals like rats or foxes. Some necromancers work almost exclusively with homunculi, their workshops filled with scrambling and unsettling creatures."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 2; prerequisite power: Where the Veil Thins."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The required body part or animal carcass, the weapon used to sever/kill it, a small concoction of urine, fecal matter, and semen."
+          },
+          {
+            "title": "Process",
+            "text": "The caster coats a blade (or other device\n\nsuited to the task) in a gross cocktail of bodily fluids, and uses it to cut the targeted appendage off its root limb or body, or kills the small animal (which cannot be larger than a small dog and cannot fly, regardless of whether it has wings). After massaging vitae into the target, it comes to life as a homuncular servant, unfailingly loyal to its master."
+          },
+          {
+            "title": "System",
+            "text": "The necromancer makes an Oblivion Ceremony roll and on a win gains a homuncular servant that spies, follows, or intimidates at the necromancer’s command. If it strays farther than 100 yards/meters from the vampire, it falls inert, only awakening again once the vampire enters that range. Otherwise, it remains active for a number of nights equal to the number of successes rolled. A critical win on the roll keeps the servant active forever, while a total failure destroys all components involved in the Ceremony. Most homunculi can scale walls, hop (even if it lacks the limbs to do so), and hide effectively, though individual variation is great and depends on the tasks it was created to perform. While it cannot speak or perform actions requiring deep thought, it can telepathically communicate single images, scents, or sounds to its creator."
+          },
+          {
+            "title": "Duration",
+            "text": "A number of nights equal to successes; permanently on a critical win. Inert outside 100 yards/meters."
+          },
+          {
+            "title": "Cost and preparation",
+            "text": "One Rouse Check; 10 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 3 (Ceremony level + 1)."
+          },
+          {
+            "title": "Learning and limits",
+            "text": "Learning costs 6 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 4 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+          },
+          {
+            "title": "Homuncular Servant",
+            "text": "| Trait | Rating |\n| --- | --- |\n| Standard pools | Physical 1; Social 0; Mental 1 |\n| Secondary Attributes | Health 3; Willpower 1 |\n| Exceptional pools | Athletics 4; Stealth 6; Intimidation 4 |\n| General Difficulties | 3/1 |\n\nHomuncular servants take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage. They cannot be mentally dominated or influenced as they are bound to their master. They do not need eyes or ears to perceive everything around them as someone with unimpeded vision and hearing might. They can telepathically broadcast a single image per scene to their master."
+          }
+        ]
+      }
+    }
+  ]
+}

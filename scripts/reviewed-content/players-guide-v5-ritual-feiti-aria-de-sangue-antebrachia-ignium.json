@@ -1,0 +1,100 @@
+{
+  "id": "players-guide-v5-ritual-feiti-aria-de-sangue-antebrachia-ignium",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Antebrachia Ignium",
+    "en": "Antebrachia Ignium"
+  },
+  "aliases": [
+    "Antebrachia Ignium",
+    "Antebrachia Ignium"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-antebrachia-ignium-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 104, 105",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 104,
+          "printedPage": 102
+        },
+        {
+          "pdfPage": 105,
+          "printedPage": 103
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Faz surgir chamas famintas dos braços, usando uma camada encantada de vitae como proteção para incendiar objetos e pessoas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Vitae de qualquer vampiro em quantidade suficiente para cobrir os braços até os cotovelos e uma fonte de chama, como um isqueiro."
+          },
+          {
+            "title": "Processo",
+            "text": "Mergulhe os braços no sangue e suporte a vontade de bebê-lo ou entrar em Frenesi. Após retirá-los, exponha a camada de vitae à chama para incendiá-la sem queimar a pele protegida."
+          },
+          {
+            "title": "Sistema",
+            "text": "Se estiver com Fome 4 ou maior, resista ao Frenesi de Fome com Dificuldade 3 para não consumir os ingredientes. Em qualquer momento da noite, exponha a vitae ao fogo e faça o teste de Ritual. Uma vitória incendeia mãos e braços; vampiros próximos, exceto o conjurador, testam Frenesi de Terror, Dificuldade 2.\n\nEm combate, toque um alvo com Destreza + Briga para causar dois danos agravados à Vitalidade. Um agarrão incendeia as roupas dos dois combatentes, causando dano a cada turno até um teste de Autocontrole + Sobrevivência, Dificuldade 3, abafar as chamas. Só os braços do conjurador resistem ao fogo; o resto do corpo queima normalmente."
+          },
+          {
+            "title": "Duração",
+            "text": "Braços em chamas até o conjurador encerrar ou a cena terminar; podem ser incendiados em qualquer momento da noite após o preparo."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The caster of this Ritual manifests hungry flame from their flesh, using an enchanted coating of vitae like a buffer and can set items and people alight using the fire."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Sufficient vitae (from any vampire) to coat the caster’s arms up to the elbows, and a source of flame (such as a lighter)."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire immerses their arms in the blood and withstands the urge to feed or frenzy. After extracting their arms, exposure to flame ignites the vitae rather than the vampire it coats. The vampire can then go on to set targets alight using the fire on their skin."
+          },
+          {
+            "title": "System",
+            "text": "If the user is at Hunger 4 or more, make a hunger frenzy test at Difficulty 3 to avoid draining the ingredients. At any point during the night they may expose the vitae to fire and make a Ritual roll. Any success ignites flames on the vampire’s hands and arms, a spectacular display provoking a terror frenzy test (Difficulty 2) in all nearby vampires except the caster. They may touch others with Dexterity + Brawl in physical combat to inflict two Aggravated Health damage. Entering a grapple ignites the both combatants’ clothes, continuing the damage each turn until they make a Composure + Survival roll (Difficulty 3) to smother the burn. The caster is only resistant to flame on their arms, and burns as usual elsewhere. The fiery arms extinguish when the caster wills it or when the scene ends."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "players-guide-v5-ceremony-obl-vio-the-gift-of-false-life",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "O Dom da Falsa Vida",
+    "en": "The Gift of False Life"
+  },
+  "aliases": [
+    "O Dom da Falsa Vida",
+    "The Gift of False Life"
+  ],
+  "discipline": "Oblívio",
+  "level": 1,
+  "versions": [
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-the-gift-of-false-life-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        },
+        {
+          "pdfPage": 94,
+          "printedPage": 92
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 1
+        },
+        "prerequisites": [
+          "Ashes to Ashes"
+        ],
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Reanima um cadáver ou grupo de cadáveres para executar tarefas simples, únicas ou repetitivas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 1; poder Cinzas às Cinzas (Ashes to Ashes)."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um ou mais corpos humanos e uma pequena mistura de sangue, catarro e bile."
+          },
+          {
+            "title": "Processo",
+            "text": "Aplique a mistura aos corpos e realize a Cerimônia. Os cadáveres obedecem a uma ordem simples que sejam fisicamente capazes de cumprir, como varrer o chão, manter uma porta fechada ou andar pelo perímetro da casa. Não pensam nem calculam: ordens condicionais ou complexas, como atacar a próxima pessoa que passar, dirigir ou construir uma cabana, não funcionam. O usuário pode indicar um alvo específico para ataque ou outra ação apontando para ele."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória anima um número de corpos igual ao nível de Oblívio ou à quantidade preparada, o que for menor. Uma vitória crítica dobra o nível de Oblívio apenas para determinar quantos cadáveres podem ser animados; ainda depende dos corpos preparados. A animação termina quando o cadáver é destruído ou conclui a tarefa. Eles não se defendem de ataques e se decompõem normalmente: a Cerimônia não os protege dos elementos nem da passagem do tempo."
+          },
+          {
+            "title": "Duração",
+            "text": "Até concluir a tarefa ou ser destruído; a decomposição continua normalmente."
+          },
+          {
+            "title": "Custo e preparação",
+            "text": "Um Teste de Sangue; 5 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 2 (nível da Cerimônia + 1)."
+          },
+          {
+            "title": "Aprendizado e limites",
+            "text": "Aprender custa 3 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 1 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+          },
+          {
+            "title": "Cadáver Sem Mente",
+            "text": "| Característica | Valor |\n| --- | --- |\n| Paradas padrão | Físicas 2; Sociais 0; Mentais 0 |\n| Atributos secundários | Vitalidade 4; Força de Vontade 0 |\n| Paradas excepcionais | Intimidação 4 |\n| Dificuldades gerais | 2/1 |\n\nRecebe dano superficial e agravado como vampiros, mas é imune à luz solar. Não pode curar ou reparar dano e apodrece pelo menos um ponto de dano superficial à Vitalidade por dia. Não pode ser dominado ou influenciado mentalmente, pois está ligado ao mestre. Não reage a movimentos, palavras ou interferência de ninguém além do reanimador. Sempre pode contribuir para Trabalho em Equipe em tarefas braçais, como cavar, levantar ou empurrar, mesmo sem Habilidades (Livro Básico inglês, p. 122)."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Through use of this Ceremony, a vampire can raise a corpse or group of corpses to perform simple, single or repetitive tasks."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 1; prerequisite power: Ashes to Ashes."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A human body (or multiple bodies), a small concoction of blood, phlegm, and bile."
+          },
+          {
+            "title": "Process",
+            "text": "After applying the concoction to the corpse or corpses and performing the Ceremony, the affected bodies animate into a form of false life. They follow a single simple command from the vampire, providing the corpse is physically capable of performing it, such as “sweep the floor,” “hold this door shut,” or “walk around the house perimeter.” They have no ability to think or calculate, so conditional or complicated commands such as “attack the next person to walk through this archway,” “drive this car,” or “build a shack” do not work. They may be directed towards a\n\nspecific target for attack or other action if the user points at the target."
+          },
+          {
+            "title": "System",
+            "text": "The vampire makes their Ceremony roll and upon a win they raise a number of corpses equal to their Oblivion rating, or the number of bodies they have prepared (whichever is lower). A critical win doubles their Oblivion rating for the purpose of determining corpses raised. The mindless corpse’s animation ends when it is destroyed or it concludes its task. These corpses do not defend themselves from attacks, and decay as normal; the Ceremony does not grant them any form of immunity to the elements or time."
+          },
+          {
+            "title": "Duration",
+            "text": "Until its task is complete or it is destroyed; ordinary decay continues."
+          },
+          {
+            "title": "Cost and preparation",
+            "text": "One Rouse Check; 5 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 2 (Ceremony level + 1)."
+          },
+          {
+            "title": "Learning and limits",
+            "text": "Learning costs 3 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 1 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+          },
+          {
+            "title": "Mindless Corpse",
+            "text": "| Trait | Rating |\n| --- | --- |\n| Standard pools | Physical 2; Social 0; Mental 0 |\n| Secondary Attributes | Health 4; Willpower 0 |\n| Exceptional pools | Intimidation 4 |\n| General Difficulties | 2/1 |\n\nMindless corpses take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage, and rot at least one Superficial Health damage each day. They cannot be mentally dominated or influenced as they are bound to their master. They do not react to motion, words, or interference from anyone but their reanimator. They may always contribute to Teamwork for menial labor such as digging, lifting or pushing even if they lack Skills (Vampire: The Masquerade, p. 122)."
+          }
+        ]
+      }
+    }
+  ]
+}

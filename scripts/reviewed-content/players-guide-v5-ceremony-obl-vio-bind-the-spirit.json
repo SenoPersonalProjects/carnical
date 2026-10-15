@@ -1,0 +1,119 @@
+{
+  "id": "players-guide-v5-ceremony-obl-vio-bind-the-spirit",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Prender o Espírito",
+    "en": "Bind the Spirit"
+  },
+  "aliases": [
+    "Prender o Espírito",
+    "Bind the Spirit"
+  ],
+  "discipline": "Oblívio",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-bind-the-spirit-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 98",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        },
+        {
+          "pdfPage": 94,
+          "printedPage": 92
+        },
+        {
+          "pdfPage": 98,
+          "printedPage": 96
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 4
+        },
+        "prerequisites": [
+          "Necrotic Plague"
+        ],
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Acorrenta aparições a locais ou pessoas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 4; poder Praga Necrótica (Necrotic Plague)."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma âncora da aparição, o sacrifício de um mortal inocente e sal suficiente para cercar o imóvel ou indivíduo. Para assombrar uma pessoa, obtenha algo de seu corpo, como unhas, cabelo, sangue ou pele."
+          },
+          {
+            "title": "Processo",
+            "text": "A aparição já deve estar sob o controle do vampiro por Compelir Espírito. Mate um mortal inocente no local ou perto da pessoa a assombrar. Inocência é subjetiva; o texto sugere jovens, cuidadores e pessoas genuinamente piedosas. Misture vitae ao sal e pinte um círculo ao redor do alvo. Deixe a âncora no local ou na posse da pessoa."
+          },
+          {
+            "title": "Sistema",
+            "text": "O assassinato pode causar Máculas conforme os Preceitos e o Narrador. Faça o teste de Cerimônia sem resistência da aparição, pois ela já deve estar compelida. Ela fica presa ao local ou indivíduo por tempo indeterminado. Emoções intensas sentidas na vinculação afetam os moradores ou a pessoa: todos sofrem uma penalidade de dois dados em testes para resistir a sentir ou agir como a aparição. Um espírito furioso pode favorecer o Frenesi; um deprimido pode levar mortais a negligenciar o autocuidado. A aparição vinculada possui os mesmos poderes de um espectro (Livro Básico inglês, p. 377).\n\nO vínculo termina se o vampiro cancelar a Cerimônia, a âncora sair do local ou da posse da pessoa, o espírito for destruído ou o necromante atacá-lo. Muitas aparições ficam furiosas ou melancólicas, afetando a área. O método pode proteger refúgios ou assombrar inimigos."
+          },
+          {
+            "title": "Duração",
+            "text": "Indefinida, até uma das condições de encerramento. A exigência de controle por Compelir Espírito é uma condição de uso, além do poder pré-requisito para aprender."
+          },
+          {
+            "title": "Custo e preparação",
+            "text": "Um Teste de Sangue; 20 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 5 (nível da Cerimônia + 1)."
+          },
+          {
+            "title": "Aprendizado e limites",
+            "text": "Aprender custa 12 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 16 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Vampires with access to this Ceremony have the ability to shackle wraiths to specified locations and people."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 4; prerequisite power: Necrotic Plague."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A wraith’s fetter, the sacrifice of an innocent mortal, and sufficient salt to surround a property or individual. If the target for haunting is an individual, the necromancer must possess something of their body, such as fingernails, hair, blood, or skin."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire must already have a wraith under their control using Compel Spirit (see p. 93). The vampire kills an innocent mortal (though innocence is subjective, this tends to apply to the young, caregivers, and genuinely pious individuals) in or close to a location or person they want their wraith to haunt. Subsequently, they mix their vitae with sufficient salt to surround the target for haunting, and paint a circle with the mixture. They place the wraith’s fetter somewhere within the location, or in the target’s possession."
+          },
+          {
+            "title": "System",
+            "text": "Following the steps of the Ceremony, the vampire may incur Stains from the murder depending on the Chronicle Tenets and the Storyteller’s discretion. They make an Oblivion Ceremony roll that cannot be resisted, as the wraith must already be compelled for this power to work. The wraith is bound to the location or individual targeted, with no duration applied to this Ceremony’s effects. Any emotion the wraith feels intensely during its binding affects the inhabitants of the location or the individual to whom it’s bound, with each person affected suffering a two-dice penalty to all rolls made to resist acting or feeling the way the wraith feels. Therefore, an angry wraith may make vampires more inclined to Frenzy, while a depressed wraith might make a mortal more likely to stop self-care. Bound wraiths have the same powers as spectres (Vampire: The Masquerade, p. 377). The wraith is forever bound to the target, unless the vampire cancels the Ceremony, the fetter ever moves from the location or individual’s possession, or the wraith is destroyed. Binding also ends if the necromancer attacks the wraith. Most wraiths bound in this way are furious or melancholic about their plight, and their mood affects the area around them. Many necromancers use this method to defend their havens or haunt their enemies."
+          },
+          {
+            "title": "Duration",
+            "text": "Indefinite, until canceled, the fetter is removed, the wraith is destroyed, or the necromancer attacks it."
+          },
+          {
+            "title": "Cost and preparation",
+            "text": "One Rouse Check; 20 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 5 (Ceremony level + 1)."
+          },
+          {
+            "title": "Learning and limits",
+            "text": "Learning costs 12 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 16 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+          }
+        ]
+      }
+    }
+  ]
+}

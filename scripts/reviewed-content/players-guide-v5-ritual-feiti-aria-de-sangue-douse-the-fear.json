@@ -1,0 +1,96 @@
+{
+  "id": "players-guide-v5-ritual-feiti-aria-de-sangue-douse-the-fear",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Apagar o Medo",
+    "en": "Douse the Fear"
+  },
+  "aliases": [
+    "Apagar o Medo",
+    "Douse the Fear"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-douse-the-fear-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 101",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 101,
+          "printedPage": 99
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Suprime brevemente o medo vampírico natural do fogo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um objeto sagrado, como crucifixo, Bíblia ou Alcorão."
+          },
+          {
+            "title": "Processo",
+            "text": "Exponha o símbolo sagrado a uma chama. Basta o fogo tocá-lo; não é necessário destruí-lo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Após queimar o objeto sagrado e vencer o teste de Ritual, recebe dois dados extras em todos os testes para resistir ao Rötschreck. Uma vitória crítica dispensa todos os testes de Frenesi de Terror durante o efeito."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This Ritual allows the caster to briefly douse their natural vampiric fear of fire."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A holy object such as a crucifix, Bible, or Qur’an."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire must expose the holy symbol to a flame. The object does not need to be completely destroyed, just touched by the fire."
+          },
+          {
+            "title": "System",
+            "text": "A successful Ritual roll following the\n\nburning of the holy object grants the character two additional dice on all rolls relating to resisting Rötschreck. A critical win results in the character needing to make no terror Frenzy rolls at all. The effect lasts for one night."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

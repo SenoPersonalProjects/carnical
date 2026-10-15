@@ -1,0 +1,123 @@
+{
+  "id": "players-guide-v5-ceremony-obl-vio-lazarene-blessing",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Bênção de Lázaro",
+    "en": "Lazarene Blessing"
+  },
+  "aliases": [
+    "Bênção de Lázaro",
+    "Lazarene Blessing"
+  ],
+  "discipline": "Oblívio",
+  "level": 5,
+  "versions": [
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-lazarene-blessing-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 99, 100",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        },
+        {
+          "pdfPage": 94,
+          "printedPage": 92
+        },
+        {
+          "pdfPage": 99,
+          "printedPage": 97
+        },
+        {
+          "pdfPage": 100,
+          "printedPage": 98
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 5
+        },
+        "prerequisites": [
+          "Skuld Fulfilled"
+        ],
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Devolve movimento e vida aparente a um corpo recém-morto, mas não devolve a pessoa como parentes e amigos a conheciam: uma aparição ocupa o corpo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 5; poder Destino de Skuld (Skuld Fulfilled)."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um mortal para sacrifício, incenso, o coração de qualquer mamífero e prata em pó."
+          },
+          {
+            "title": "Processo",
+            "text": "Perfume o ambiente com incenso, realize o sacrifício e troque o coração da vítima pelo de outro mamífero. Não é necessário costurá-lo ou fazê-lo funcionar para que a Cerimônia tenha efeito. Derrame prata em pó nos olhos abertos do mortal moribundo ou morto e convide uma aparição a ocupar o corpo. Ela não pode ser forçada, embora muitas aceitem voltar a caminhar num corpo semivivo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Matar o mortal pode causar Máculas conforme os Preceitos. Se o coração substituto veio de alguém assassinado pelo vampiro, essa morte também pode causar Máculas. A aparição deve estar presente durante o sacrifício. Uma vitória permite que ela entre no corpo recém-morto e o use como próprio.\n\nO corpo desperta com os ferimentos que o mataram; o coração substituto funciona independentemente de sua origem ou posição. A possessão cura um ponto de dano à Vitalidade; o restante se recupera com o tempo como na cura vampírica. Não ganha resistência especial ao dano além de Disciplinas que já possuísse em vida. Mantém os Atributos Físicos, Disciplinas se era carniçal e Vantagens do corpo em vida. Atributos Sociais e Mentais, Habilidades e qualquer valor de moralidade pertencem à aparição."
+          },
+          {
+            "title": "Duração",
+            "text": "Indefinida, até o corpo morrer novamente ou a aparição ser exorcizada."
+          },
+          {
+            "title": "Custo e preparação",
+            "text": "Um Teste de Sangue; 25 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 6 (nível da Cerimônia + 1)."
+          },
+          {
+            "title": "Aprendizado e limites",
+            "text": "Aprender custa 15 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 25 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This Ceremony enables a necromancer to bring a freshly-dead body back to life, though not how its relatives and friends might remember it."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 5; prerequisite power: Skuld Fulfilled."
+          },
+          {
+            "title": "Ingredients",
+            "text": "One mortal sacrifice, incense, the heart of any mammal, and powdered silver."
+          },
+          {
+            "title": "Process",
+            "text": "The necromancer burns incense to perfume the air before performing an act of sacrifice, cutting the heart of the victim out and replacing it with the heart of another mammal, though it doesn’t need to be stitched in and working for the Ceremony to function. After pouring a bag of powdered silver over the open eyes of the dying or dead mortal, the vampire invites a wraith to take the deceased mortal as a host. Wraiths cannot be forced to possess a body, but few refuse the opportunity to walk around in semi-living shoes again."
+          },
+          {
+            "title": "System",
+            "text": "Killing a mortal for this Ceremony may incur Stains, depending on the chronicle Tenets. If the replacement heart was likewise taken from someone the vampire murdered, that murder might also incur Stains. Following a successful Ceremony roll, a wraith can enter the freshly-dead body and live in it as if it were their own. The wraith must be present during the act of sacrifice. The possessed corpse wakes bearing the wounds that killed it, though the replacement heart is functional (no matter its origin or placement) and the body heals one point of Health damage upon possession. The remaining Health damage recovers with time (as vampiric healing). The body gains no special resistances to harm beyond Disciplines it might have possessed in life. The body possesses the same Physical Attributes, Disciplines (if a ghoul), and Advantages it had in life. Social and Mental Attributes, Skills, and any form of morality rating match those of the wraith. This possession lasts indefinitely, or until the possessed body dies again or the wraith is exorcized from the host."
+          },
+          {
+            "title": "Duration",
+            "text": "Indefinite, until the body dies again or the possessing wraith is exorcized."
+          },
+          {
+            "title": "Cost and preparation",
+            "text": "One Rouse Check; 25 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 6 (Ceremony level + 1)."
+          },
+          {
+            "title": "Learning and limits",
+            "text": "Learning costs 15 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 25 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+          }
+        ]
+      }
+    }
+  ]
+}

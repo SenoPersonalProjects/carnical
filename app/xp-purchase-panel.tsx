@@ -28,7 +28,7 @@ export default function XpPurchasePanel(props:Props){
 
   const [kind,setKind]=useState<PurchaseIntent>("skill"),[name,setName]=useState(""),[specialtyName,setSpecialtyName]=useState(""),[newAdvantage,setNewAdvantage]=useState("");
   const isMagic=kind==="ritual"||kind==="ceremony"||kind==="formula";
-  const magicOptions=isMagic?powersForSources(POWER_CATALOG,props.activeSources).filter(item=>item.kind===kind&&powerEligibility(item,props.disciplines,props.disciplinePowers,props.activeSources).allowed&&!props.disciplinePowers[item.discipline]?.some(name=>sameContent(name,item.name,{discipline:item.discipline}))):[];
+  const magicOptions=isMagic?powersForSources(POWER_CATALOG,props.activeSources).filter(item=>item.kind===kind&&powerEligibility(item,props.disciplines,props.disciplinePowers,props.activeSources,props.clan).allowed&&!props.disciplinePowers[item.discipline]?.some(name=>sameContent(name,item.name,{discipline:item.discipline}))):[];
   const options=kind==="attribute"?Object.keys(props.attributes):kind==="skill"?Object.keys(props.skills):kind==="discipline"?Object.keys(props.disciplines):kind==="specialty"?Object.keys(props.skills):kind==="advantage"?[...props.merits.filter(item=>!isPredatorItem(item)&&!item.catalogId).map(item=>item.name),"__new__"]:isMagic?magicOptions.map(item=>item.name):[];
   const chosen=options.includes(name)?name:options[0]||"";
   const targetName=kind==="advantage"&&chosen==="__new__"?newAdvantage.trim():chosen;

@@ -1,0 +1,119 @@
+{
+  "id": "players-guide-v5-ceremony-obl-vio-summon-spirit",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Invocar Espírito",
+    "en": "Summon Spirit"
+  },
+  "aliases": [
+    "Invocar Espírito",
+    "Summon Spirit"
+  ],
+  "discipline": "Oblívio",
+  "level": 1,
+  "versions": [
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-summon-spirit-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 95",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        },
+        {
+          "pdfPage": 94,
+          "printedPage": 92
+        },
+        {
+          "pdfPage": 95,
+          "printedPage": 93
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 1
+        },
+        "prerequisites": [
+          "The Binding Fetter"
+        ],
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Invoca um espírito do Submundo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 1; poder A Âncora Vinculante (The Binding Fetter)."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma âncora da aparição, uma fotografia ou outra representação visual dela ou seu nome assinado, e vitae do conjurador."
+          },
+          {
+            "title": "Processo",
+            "text": "Derrame vitae na âncora e, estudando a imagem ou assinatura, chame o nome da aparição. Ela sente o chamado e viaja do Submundo até o conjurador. A geografia tem escalas diferentes, mas a viagem pode levar várias noites se vier do outro lado do mundo. Se o véu for suficientemente tênue no local, a âncora puxa o espírito através dele. A aparição não é obrigada a servir: pode reagir com hostilidade se sua âncora estiver ameaçada, ou ficar grata pela convocação e companhia."
+          },
+          {
+            "title": "Sistema",
+            "text": "Faça o teste de Cerimônia após marcar a âncora com vitae. A aparição não atravessa um véu impenetrável. Mover a âncora depois não ajuda: sua capacidade de atravessar desaparece se a âncora sair do local da Cerimônia. A aparição desaparece no fim da cena, salvo se outra Cerimônia a compelir ou prender. Não se manifesta fisicamente: surge como sombras nas paredes ou silhuetas trêmulas de sua forma viva, das quais podem vir vozes. Fala os idiomas que conhecia em vida, salvo se aprendeu outros no Submundo."
+          },
+          {
+            "title": "Duração",
+            "text": "Chegada variável, possivelmente várias noites; após chegar, até o fim da cena, salvo outra Cerimônia."
+          },
+          {
+            "title": "Custo e preparação",
+            "text": "Um Teste de Sangue; 5 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 2 (nível da Cerimônia + 1)."
+          },
+          {
+            "title": "Aprendizado e limites",
+            "text": "Aprender custa 3 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 1 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This Ceremony enables a vampire to summon a spirit from the Underworld."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 1; prerequisite power: The Binding Fetter."
+          },
+          {
+            "title": "Ingredients",
+            "text": "One of the targeted wraith’s fetters (see The Binding Fetter, p. 85), a photo or other visual depiction of the wraith or their signed name, and the caster’s vitae."
+          },
+          {
+            "title": "Process",
+            "text": "The necromancer pours their vitae over a wraith’s fetter, and studying the picture or signature, calls out the wraith’s name. The wraith feels their fetter’s call, and begins a journey from their location in the Underworld to that of the caster. Though geography has differing scales in the Underworld, a journey may still take several nights if the spirit is on the other side of the world. If the veil is thin enough in the summoning location, the wraith is pulled through the veil between worlds by the fetter’s strength. The summoned wraith is under no obligation to serve the vampire upon being called and may act with hostility if they feel the vampire is threatening their fetter. Alternatively, the wraith may be grateful for the summoning and the possibility of companionship."
+          },
+          {
+            "title": "System",
+            "text": "The caster daubs the fetter with their vitae and makes an Oblivion Ceremony roll. The wraith cannot pass through the veil if it’s impenetrable in the Ceremony location (see p. 88). Moving the fetter after the Ceremony doesn’t help, as the wraith’s ability to pass through the veil disappears if the fetter leaves the Ceremony site. The wraith disappears at the end of the scene unless a separate Ceremony is used to compel or bind them. Wraiths summoned in this way do not manifest physically, but as shadows on the walls, quavering silhouettes of their living selves, from which voices might emerge. Wraiths speak the same languages they did in life, unless they’ve gone to the trouble of learning new ones in the Underworld."
+          },
+          {
+            "title": "Duration",
+            "text": "Travel time varies and can take several nights. The spirit departs at the end of the scene unless another Ceremony compels or binds it."
+          },
+          {
+            "title": "Cost and preparation",
+            "text": "One Rouse Check; 5 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 2 (Ceremony level + 1)."
+          },
+          {
+            "title": "Learning and limits",
+            "text": "Learning costs 3 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 1 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -50,9 +50,30 @@ Disciplinas, Perdição e Compulsão estão revisadas em Chicago PDF292–293 e 
 PDF31–32. O Guia acrescenta o fim da cena ao encerramento da Compulsão. A fonte
 registrada na criação acompanha a consulta e o PDF.
 
+## Cerimônias do Guia
+
+| Cerimônia | Nível | Pré-requisito | PDF |
+| --- | --- | --- | --- |
+| O Dom da Falsa Vida / The Gift of False Life | 1 | Cinzas às Cinzas | 94 |
+| Invocar Espírito / Summon Spirit | 1 | A Âncora Vinculante | 94–95 |
+| Despertar o Servo Homuncular / Awaken the Homuncular Servant | 2 | Onde o Véu se Afina | 95 |
+| Compelir Espírito / Compel Spirit | 2 | Onde o Véu se Afina | 96 |
+| Hospedar Espírito / Host Spirit | 3 | Aura de Decadência | 96–97 |
+| Hordas Cambaleantes / Shambling Hordes | 3 | Aura de Decadência | 97–98 |
+| Prender o Espírito / Bind the Spirit | 4 | Praga Necrótica | 98 |
+| Romper o Véu / Split the Veil | 4 | Praga Necrótica | 98–99 |
+| Bênção de Lázaro / Lazarene Blessing | 5 | Destino de Skuld | 99–100 |
+
+As regras gerais estão nas páginas 93–94. Os três perfis de servos foram
+conferidos e incluídos integralmente, com paradas, Vitalidade, Vontade,
+dificuldades e exceções. A tabela de pré-requisitos da página 94 possui os nomes
+das colunas trocados; as entradas seguem o pré-requisito escrito em cada Cerimônia.
+Compelir Espírito conserva a divergência entre “debilitação mental” no Processo
+e dano superficial à Vitalidade no Sistema, sem presumir dano extra à Vontade.
+
 ## Pendente
 
 Este inventário conclui a revisão dos nove poderes de Chicago e dos dezoito
-poderes de Oblívio do Guia. Não inclui as nove Cerimônias do Guia, os demais
+poderes e nove Cerimônias de Oblívio do Guia. Não inclui os demais
 livros com Oblívio, as Loresheets de Chicago ou a tradução integral da biblioteca.
 Esses itens continuam pendentes na cobertura geral.

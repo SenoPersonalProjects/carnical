@@ -1,0 +1,123 @@
+{
+  "id": "players-guide-v5-ceremony-obl-vio-split-the-veil",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Romper o Véu",
+    "en": "Split the Veil"
+  },
+  "aliases": [
+    "Romper o Véu",
+    "Split the Veil"
+  ],
+  "discipline": "Oblívio",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-split-the-veil-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 98, 99",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        },
+        {
+          "pdfPage": 94,
+          "printedPage": 92
+        },
+        {
+          "pdfPage": 98,
+          "printedPage": 96
+        },
+        {
+          "pdfPage": 99,
+          "printedPage": 97
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 4
+        },
+        "prerequisites": [
+          "Necrotic Plague"
+        ],
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Abre um rasgo no véu para a passagem de aparições. Elas podem assombrar locais e pessoas, seguir suas paixões e possuir mortais se tiverem poderes para isso. Algumas são gratas; outras atormentam quem abriu a passagem."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 4; poder Praga Necrótica (Necrotic Plague)."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma lâmina já usada para cortar uma pessoa viva, giz ou carvão, um lençol de seda e um sacrifício humano."
+          },
+          {
+            "title": "Processo",
+            "text": "Pendure o lençol numa parede de um local com véu padrão, fino ou desgastado. Faça o sacrifício contra o tecido e, quando o sangue o cobrir, corte-o com a lâmina, alargando a passagem entre vivos e mortos."
+          },
+          {
+            "title": "Sistema",
+            "text": "O sacrifício pode causar Máculas conforme os Preceitos e o Narrador. Role a Cerimônia ao cortar o lençol e resista ao Frenesi de Fome, Dificuldade 2, devido ao sangue derramado. Cada sucesso reduz a densidade do véu em um nível, até Ausente. Se chegar a Ausente, aparições podem atravessar para o mundo físico durante o restante da sessão ou noite. Ao fim desse período, um véu Ausente volta a Desgastado e a passagem se fecha. Consulte a tabela de Onde o Véu se Afina."
+          },
+          {
+            "title": "Duração",
+            "text": "A passagem de um véu Ausente dura o restante da sessão ou noite. O texto não fixa outra duração para resultados que não cheguem a Ausente."
+          },
+          {
+            "title": "Custo e preparação",
+            "text": "Um Teste de Sangue; 20 minutos (cinco minutos por nível). Salvo exceção específica, teste Determinação + Oblívio com Dificuldade 5 (nível da Cerimônia + 1)."
+          },
+          {
+            "title": "Aprendizado e limites",
+            "text": "Aprender custa 12 XP (nível da Cerimônia × 3) e exige o poder pré-requisito de Oblívio. Durante o jogo, exige também um professor que conheça a Cerimônia e pelo menos 16 semanas (nível ao quadrado). Na criação, pode-se escolher uma Cerimônia de nível 1 se seu poder pré-requisito for conhecido. Salvo indicação explícita, Cerimônias benéficas só afetam o conjurador. Carniçais e sangues-ralos podem obter poderes temporários de Oblívio, mas não Cerimônias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This Ceremony allows a vampire to create a tear in the veil through which wraiths can pass. Wraiths who enter our world via this method take to haunting locations and people, indulging in their passions, and possess mortals if their powers allow for it. Some treat the vampire with gratitude for splitting the veil, while others enjoy tormenting the ones responsible."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 4; prerequisite power: Necrotic Plague."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A blade that’s been used to cut into someone living, chalk or charcoal, a silk sheet, and a human sacrifice."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire hangs a silk sheet over a wall in a place where the veil density (see p. 88) is standard, thin, or frayed. They then perform a human sacrifice against the sheet, and as blood coats the sheet, cut it open with a blade. The Ceremony widens the portal between the world of the living and the world of the dead."
+          },
+          {
+            "title": "System",
+            "text": "The caster performs the sacrifice, which may result in Stains depending on the chronicle Tenets and the Storyteller’s discretion. When cutting the silk sheet, their player makes the Ceremony roll. Due to the amount of blood spilled in this Ceremony, the caster must roll to resist hunger frenzy (Difficulty 2). For every success on the Ceremony roll, the veil’s density reduces by one level, down to being absent (see Where the Veil Thins on p. 87). Importantly, if the veil rating is reduced to absent, wraiths can spill into the physical world for the remainder of the session (or night). Once that period concludes, a veil density of absent increases to frayed and the gateway for wraiths closes."
+          },
+          {
+            "title": "Duration",
+            "text": "An absent veil permits passage for the rest of the session or night, then rises to frayed. No separate duration is specified for results short of absent."
+          },
+          {
+            "title": "Cost and preparation",
+            "text": "One Rouse Check; 20 minutes (five minutes per level). Unless a specific exception is stated, roll Resolve + Oblivion at Difficulty 5 (Ceremony level + 1)."
+          },
+          {
+            "title": "Learning and limits",
+            "text": "Learning costs 12 XP (Ceremony level × 3) and requires the prerequisite Oblivion power. During play, learning also requires a teacher who knows the Ceremony and at least 16 weeks (level squared). At character creation, one level 1 Ceremony may be chosen if its prerequisite power is known. Unless explicitly stated otherwise, beneficial Ceremonies affect only the caster. Ghouls and thin-bloods can gain temporary Oblivion powers but not Ceremonies."
+          }
+        ]
+      }
+    }
+  ]
+}

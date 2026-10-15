@@ -1,0 +1,100 @@
+{
+  "id": "players-guide-v5-ritual-feiti-aria-de-sangue-invisible-chains-of-binding",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Correntes Invisíveis de Aprisionamento",
+    "en": "Invisible Chains of Binding"
+  },
+  "aliases": [
+    "Correntes Invisíveis de Aprisionamento",
+    "Invisible Chains of Binding"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-invisible-chains-of-binding-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 104",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 104,
+          "printedPage": 102
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Prende uma pessoa num único lugar com correntes invisíveis."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um elo de corrente."
+          },
+          {
+            "title": "Processo",
+            "text": "Inscreva sigilos no elo com o próprio Sangue durante uma hora. Depois pode ocultá-lo e guardá-lo para lançar aos pés de um alvo mais tarde."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Ao lançar o elo preparado, dispute Inteligência + Feitiçaria de Sangue contra Força + Determinação do alvo."
+          },
+          {
+            "title": "Sistema",
+            "text": "O alvo não sai do lugar por uma hora por ponto de margem, desde que o elo permaneça intacto e a até três metros dele. Sofre uma penalidade de quatro dados em testes de defesa física e ações de Briga e Armas Brancas. O elo se desfaz em pó ao fim do efeito."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma hora de preparação; aprisionamento de uma hora por ponto de margem, enquanto o elo estiver intacto e ao alcance."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The blood sorcerer binds a subject in invisible chains, confining them to a single spot for the duration of the Ritual."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A link of chain."
+          },
+          {
+            "title": "Process",
+            "text": "The sorcerer inscribes the sigils on the chain using their own Blood. The process takes an hour, at which point the chain link can be concealed on their person to be used on a target at a later time, at which point the chain is thrown at their feet."
+          },
+          {
+            "title": "System",
+            "text": "When throwing the prepared link at a target the user makes a Ritual roll against the target’s Strength + Resolve. The target is unable to move from the spot for one hour per success in the margin as long as the chain link remains intact and within three yards / meters of them. A bound target suffers a four-dice penalty to any physical defense tests as well as to brawl and melee actions. The chain link corrodes to dust at the end of the Ritual’s effect."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

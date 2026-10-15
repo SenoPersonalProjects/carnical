@@ -1,0 +1,88 @@
+{
+  "id": "players-guide-v5-power-feiti-aria-de-sangue-blood-aegis",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Égide de Sangue",
+    "en": "Blood Aegis"
+  },
+  "aliases": [
+    "Égide de Sangue",
+    "Blood Aegis"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "players-guide-v5-power-feiti-aria-de-sangue-blood-aegis-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 100, 101",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 100,
+          "printedPage": 98
+        },
+        {
+          "pdfPage": 101,
+          "printedPage": 99
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A vitae forma uma barreira física protetora: uma lâmina trêmula de Sangue que se move para interceptar projéteis."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um ou mais Testes de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Cada Teste de Sangue gasto fornece cinco pontos de redução de dano de ataques à distância para a barreira. A interceptação é automática: cada projétil espalha o Sangue, que se recompõe enquanto restar proteção. Quando a proteção se esgota, o Sangue espalhado fica inerte."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até gastar os pontos de redução de dano, o que ocorrer primeiro."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire can will their vitae to form a physical protective barrier. The barrier manifests as a quivering sheet of Blood, the fluid moving of its own accord to intercept and catch incoming projectiles."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One or more Rouse Checks"
+          },
+          {
+            "title": "System",
+            "text": "The user expends Blood equal to one or more Rouse Checks. For each Check the floating barrier can reduce damage from incoming ranged attacks by five. The effect is automatic as the vitae intercepts each incoming projectile in a shower of Blood, only to reform as long as the power remains active. Once the protection is spent the Blood turns inert as it lies splattered over the zone of conflict."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until damage levels are spent, whichever comes first."
+          }
+        ]
+      }
+    }
+  ]
+}

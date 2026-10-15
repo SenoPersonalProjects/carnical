@@ -1,0 +1,104 @@
+{
+  "id": "players-guide-v5-ritual-feiti-aria-de-sangue-fire-in-the-blood",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Fogo no Sangue",
+    "en": "Fire in the Blood"
+  },
+  "aliases": [
+    "Fogo no Sangue",
+    "Fire in the Blood"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-fire-in-the-blood-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 102, 103",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 102,
+          "printedPage": 100
+        },
+        {
+          "pdfPage": 103,
+          "printedPage": 101
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Invoca calor agonizante no sangue da vítima, causando dor intensa. Diferentemente de Caldeirão de Sangue, funciona à distância e busca incapacitar mais do que matar."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma amostra de sangue do alvo, uma representação visual dele — fotografia, pintura ou vídeo — e uma vela de cera vermelha ou isqueiro de ferro."
+          },
+          {
+            "title": "Processo",
+            "text": "Concentre-se na representação visual, que pode ser a própria pessoa presente, e queime a amostra de sangue sobre a chama, normalmente num recipiente de vidro. O sangue da vítima aquece quase imediatamente."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Inteligência + Feitiçaria de Sangue contra Determinação + Ocultismo, ou Determinação + Fortitude se o alvo possuir essa Disciplina."
+          },
+          {
+            "title": "Sistema",
+            "text": "Cada ponto de margem causa um dano superficial à Vitalidade e dores que impõem uma penalidade de dois dados às paradas Físicas pelo resto da cena. Numa vitória crítica, a penalidade é de três dados. Um alvo vampiro também faz um Teste de Sangue pelo dano à vitae. Uma vítima só pode ser afetada por este Ritual uma vez por noite."
+          },
+          {
+            "title": "Duração",
+            "text": "Penalidade pelo resto da cena; limite de uma aplicação por vítima por noite."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This Ritual allows a vampire to invoke the anguish of fire in a victim’s blood. Blistering heat ravages the target’s veins and causes intense pain. This Ritual differs from the Cauldron of Blood power (Vampire: The Masquerade, p. 274); it is usable from a distance and a more efficient way to incapacitate rather than kill the victim."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A sample of the target’s blood, a visual depiction of the target such as a photo, painting, or video recording, and a candle made from red wax or a lighter made of iron."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire concentrates on the visual depiction of their target (which can be the individual in person) and burns the target’s blood sample, usually held in a Petri dish, glass bottle, or vial, over the flame. The effect occurs almost immediately, as the victim’s blood heats up in their veins."
+          },
+          {
+            "title": "System",
+            "text": "Make a Ritual roll following the incantation versus the target’s Resolve + Occult (or Resolve + Fortitude, if the target is a creature with this Discipline). Each point of the caster’s margin is applied as Superficial Health damage that also inflicts wracking pain upon the victim, forcing them to incur a two-dice penalty to Physical pools for the remainder of the scene. On a critical win, the penalty increases to three dice. A Kindred target must make a Rouse Check due to the damage to their vitae. A victim can only be affected by this Ritual once per night."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

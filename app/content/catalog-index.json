@@ -2456,6 +2456,792 @@
           }
         }
       ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-awaken-the-homuncular-servant",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Despertar o Servo Homuncular",
+        "en": "Awaken the Homuncular Servant"
+      },
+      "aliases": [
+        "Despertar o Servo Homuncular",
+        "Awaken the Homuncular Servant"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-awaken-the-homuncular-servant-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 95",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            },
+            "prerequisites": [
+              "Where the Veil Thins"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-bind-the-spirit",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Prender o Espírito",
+        "en": "Bind the Spirit"
+      },
+      "aliases": [
+        "Prender o Espírito",
+        "Bind the Spirit"
+      ],
+      "discipline": "Oblívio",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-bind-the-spirit-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 98",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            },
+            "prerequisites": [
+              "Necrotic Plague"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-compel-spirit",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Compelir Espírito",
+        "en": "Compel Spirit"
+      },
+      "aliases": [
+        "Compelir Espírito",
+        "Compel Spirit"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-compel-spirit-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 96",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            },
+            "prerequisites": [
+              "Where the Veil Thins"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-host-spirit",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Hospedar Espírito",
+        "en": "Host Spirit"
+      },
+      "aliases": [
+        "Hospedar Espírito",
+        "Host Spirit"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-host-spirit-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 96, 97",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            },
+            "prerequisites": [
+              "Aura of Decay"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-lazarene-blessing",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Bênção de Lázaro",
+        "en": "Lazarene Blessing"
+      },
+      "aliases": [
+        "Bênção de Lázaro",
+        "Lazarene Blessing"
+      ],
+      "discipline": "Oblívio",
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-lazarene-blessing-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 99, 100",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 5
+            },
+            "prerequisites": [
+              "Skuld Fulfilled"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-shambling-hordes",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Hordas Cambaleantes",
+        "en": "Shambling Hordes"
+      },
+      "aliases": [
+        "Hordas Cambaleantes",
+        "Shambling Hordes"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-shambling-hordes-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 97, 98",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            },
+            "prerequisites": [
+              "Aura of Decay"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-split-the-veil",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Romper o Véu",
+        "en": "Split the Veil"
+      },
+      "aliases": [
+        "Romper o Véu",
+        "Split the Veil"
+      ],
+      "discipline": "Oblívio",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-split-the-veil-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 98, 99",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            },
+            "prerequisites": [
+              "Necrotic Plague"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-summon-spirit",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Invocar Espírito",
+        "en": "Summon Spirit"
+      },
+      "aliases": [
+        "Invocar Espírito",
+        "Summon Spirit"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-summon-spirit-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94, 95",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            },
+            "prerequisites": [
+              "The Binding Fetter"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ceremony-obl-vio-the-gift-of-false-life",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "O Dom da Falsa Vida",
+        "en": "The Gift of False Life"
+      },
+      "aliases": [
+        "O Dom da Falsa Vida",
+        "The Gift of False Life"
+      ],
+      "discipline": "Oblívio",
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ceremony-obl-vio-the-gift-of-false-life-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 93, 94",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 1
+            },
+            "prerequisites": [
+              "Ashes to Ashes"
+            ],
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-feiti-aria-de-sangue-blood-aegis",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Égide de Sangue",
+        "en": "Blood Aegis"
+      },
+      "aliases": [
+        "Égide de Sangue",
+        "Blood Aegis"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-feiti-aria-de-sangue-blood-aegis-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 100, 101",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-power-feiti-aria-de-sangue-scour-secrets",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Vasculhar Segredos",
+        "en": "Scour Secrets"
+      },
+      "aliases": [
+        "Vasculhar Segredos",
+        "Scour Secrets"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-power-feiti-aria-de-sangue-scour-secrets-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 100",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-antebrachia-ignium",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Antebrachia Ignium",
+        "en": "Antebrachia Ignium"
+      },
+      "aliases": [
+        "Antebrachia Ignium",
+        "Antebrachia Ignium"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-antebrachia-ignium-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 104, 105",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-as-fog-on-water",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Como Névoa sobre a Água",
+        "en": "As Fog on Water"
+      },
+      "aliases": [
+        "Como Névoa sobre a Água",
+        "As Fog on Water"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-as-fog-on-water-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 102",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-calix-secretus",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Calix Secretus",
+        "en": "Calix Secretus"
+      },
+      "aliases": [
+        "Calix Secretus",
+        "Calix Secretus"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-calix-secretus-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 102",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-dominion",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Domínio",
+        "en": "Dominion"
+      },
+      "aliases": [
+        "Domínio",
+        "Dominion"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-dominion-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 105",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-douse-the-fear",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Apagar o Medo",
+        "en": "Douse the Fear"
+      },
+      "aliases": [
+        "Apagar o Medo",
+        "Douse the Fear"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-douse-the-fear-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 101",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-feast-of-ashes",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Banquete de Cinzas",
+        "en": "Feast of Ashes"
+      },
+      "aliases": [
+        "Banquete de Cinzas",
+        "Feast of Ashes"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-feast-of-ashes-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 103",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-fire-in-the-blood",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Fogo no Sangue",
+        "en": "Fire in the Blood"
+      },
+      "aliases": [
+        "Fogo no Sangue",
+        "Fire in the Blood"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-fire-in-the-blood-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 102, 103",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-guided-memory",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Memória Guiada",
+        "en": "Guided Memory"
+      },
+      "aliases": [
+        "Memória Guiada",
+        "Guided Memory"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-guided-memory-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 103, 104",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-invisible-chains-of-binding",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Correntes Invisíveis de Aprisionamento",
+        "en": "Invisible Chains of Binding"
+      },
+      "aliases": [
+        "Correntes Invisíveis de Aprisionamento",
+        "Invisible Chains of Binding"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-invisible-chains-of-binding-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 104",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-one-with-the-blade",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Uno com a Lâmina",
+        "en": "One with the Blade"
+      },
+      "aliases": [
+        "Uno com a Lâmina",
+        "One with the Blade"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-one-with-the-blade-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 103",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-seal-the-brand",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Selar a Marca",
+        "en": "Seal the Brand"
+      },
+      "aliases": [
+        "Selar a Marca",
+        "Seal the Brand"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-seal-the-brand-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 101, 102",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-soporific-touch",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Toque Soporífero",
+        "en": "Soporific Touch"
+      },
+      "aliases": [
+        "Toque Soporífero",
+        "Soporific Touch"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "players-guide-v5-ritual-feiti-aria-de-sangue-soporific-touch-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Guia do Jogador V5, PDF pp. 102",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            },
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
     }
   ]
 }

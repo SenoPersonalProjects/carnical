@@ -1,0 +1,100 @@
+{
+  "id": "players-guide-v5-ritual-feiti-aria-de-sangue-dominion",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Domínio",
+    "en": "Dominion"
+  },
+  "aliases": [
+    "Domínio",
+    "Dominion"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-dominion-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 105",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 105,
+          "printedPage": 103
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Torna o feiticeiro soberano dos poderes sobrenaturais de seu domínio, impedindo o uso de certas capacidades vampíricas por outros."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Selos de ferro fixados sobre todas as passagens de porta do edifício."
+          },
+          {
+            "title": "Processo",
+            "text": "A conjuração exige três horas. Durante esse tempo, coloque os selos nas passagens, consagre-os com a própria vitae e grave sigilos nas portas."
+          },
+          {
+            "title": "Custo específico",
+            "text": "Varia conforme o tamanho do edifício: de um Teste de Sangue para um apartamento até cinco para uma mansão grande, conforme a fonte."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória impede o uso de Animalismo, Auspícios, Dominação e Presença dentro do edifício, exceto pelo próprio conjurador. Tentativas de usar essas Disciplinas ainda provocam os Testes de Sangue correspondentes. A destruição de pelo menos um selo quebra o Ritual."
+          },
+          {
+            "title": "Duração",
+            "text": "Indefinida, até pelo menos um selo ser destruído."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The Blood Sorcerer makes themselves the sovereign of supernatural powers in their own domain, thwarting others’ use of most vampiric abilities."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Seal made of iron embedded over every doorway in the building."
+          },
+          {
+            "title": "Process",
+            "text": "The ritual takes three hours to cast. During this time, the caster must be embedding iron seals over every doorway, consecrating them with their own vitae, and carving sigils on the doors."
+          },
+          {
+            "title": "System",
+            "text": "Upon a successful Ritual roll, the Blood sorcerer stops any uses of Animalism, Auspex, Dominate, or Presence except by themselves. Any uses of the Disciplines within the building still cause any Rouse checks to occur, though the amount of Blood spent to perform the ritual varies – from Rouse Check for an apartment up to five for a large manor. The Ritual lasts indefinitely but can be broken by the destruction of at least one seal."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

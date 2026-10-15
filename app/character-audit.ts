@@ -77,8 +77,9 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
       if(!power){add({id:`homebrew-power-${disciplineName}-${name}`,kind:"info",title:`Poder personalizado: ${name}`,detail:`Este nome não está no catálogo indexado de ${disciplineName}. Ele foi preservado como conteúdo personalizado.`});continue}
       if(power.level>dots)add({id:`power-level-${power.id}`,kind:"warning",title:`${power.name} acima do nível de ${disciplineName}`,detail:`A opção é de nível ${power.level}, mas a ficha tem ${disciplineName} ${dots}.`,source:power.source});
       if(power.prerequisite&&!knowsPower(data.disciplinePowers||{},power.prerequisite))add({id:`power-prerequisite-${power.id}`,kind:"warning",title:`${power.name} sem ${power.prerequisite}`,detail:"A opção exige conhecer o poder indicado como pré-requisito.",source:power.source});
+      if(power.kind==="ceremony"&&character.clan==="Sangue-Ralo")add({id:`ceremony-thin-blood-${power.id}`,kind:"warning",title:"Cerimônia em ficha de Sangue-Ralo",detail:"Sangues-ralos podem obter acesso temporário a poderes de Oblívio, mas não a Cerimônias. A escolha existente foi preservada para revisão com o Narrador.",source:power.source});
       if(power.kind&&power.kind!=="power"&&!paidPurchases.some(item=>item.kind===power.kind&&item.name===power.name)){
-        const free=creationMagicEligibility(power,data.disciplines||{},data.disciplinePowers||{},activeSources,freeMagic);
+        const free=creationMagicEligibility(power,data.disciplines||{},data.disciplinePowers||{},activeSources,freeMagic,character.clan);
         if(free.allowed)freeMagic.push(power);
         else add({id:`magic-xp-${power.id}`,kind:"warning",title:`${power.name} sem compra registrada`,detail:`A opção não se enquadra nas escolhas gratuitas de criação: ${free.reasons.join("; ")}. Registre a compra com XP ou aprove uma exceção da crônica.`,source:power.source});
       }

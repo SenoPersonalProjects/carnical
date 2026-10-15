@@ -1,5 +1,5 @@
 import React from "react";
-import { Document, Page, Text, View, Svg, Circle, Rect, Line, StyleSheet, pdf } from "@react-pdf/renderer";
+import { Document, Page, Text, View, Svg, Circle, Rect, Line, Link as PdfLink, StyleSheet, pdf } from "@react-pdf/renderer";
 import { bloodBenefits } from "../play/blood";
 import { humanityTrack } from "../play/dice";
 import { POWER_CATALOG } from "../game-rules";
@@ -71,14 +71,20 @@ export function CharacterPdfDocument({ snapshot:s, locale, rules=[] }: {snapshot
 
 function RuleBody({text}:{text:string}){
  const plain=(value:string)=>value.replace(/\*\*([^*]+)\*\*/g,"$1").replaceAll("−","-");
+ const inline=(value:string)=>plain(value).split(/(\[[^\]]+\]\([^\s)]+\))/g).map((part,i)=>{
+  const link=part.match(/^\[([^\]]+)\]\(([^\s)]+)\)$/);
+  if(!link||!(/^https?:\/\//.test(link[2])||link[2].startsWith("/rules/source?")))return part;
+  const target=link[2].startsWith("/")?`https://carnical.vercel.app${link[2]}`:link[2];
+  return <PdfLink key={i} src={target} style={{color:"#9f1825",textDecoration:"underline"}}>{link[1]}</PdfLink>;
+ });
  return <>{parseReferenceMarkdown(text).map((block,index)=>{
   if(block.kind==="table"){
    const columns=block.header?.length||1,width=`${100/columns}%` as `${number}%`;
-   return <View key={index} style={{marginBottom:8}}>{[block.header||[],...(block.rows||[])].map((cells,row)=><View key={row} wrap={false} minPresenceAhead={row===0?28:0} style={{flexDirection:"row",backgroundColor:row===0?"#eeeeee":"#ffffff"}}>{Array.from({length:columns},(_,column)=><Text key={column} style={{width,padding:4,borderWidth:0.4,borderColor:"#aaa",fontFamily:row===0?"Helvetica-Bold":"Helvetica"}}>{plain(cells[column]||"")}</Text>)}</View>)}</View>;
+   return <View key={index} style={{marginBottom:8}}>{[block.header||[],...(block.rows||[])].map((cells,row)=><View key={row} wrap={false} minPresenceAhead={row===0?28:0} style={{flexDirection:"row",backgroundColor:row===0?"#eeeeee":"#ffffff"}}>{Array.from({length:columns},(_,column)=><Text key={column} style={{width,padding:4,borderWidth:0.4,borderColor:"#aaa",fontFamily:row===0?"Helvetica-Bold":"Helvetica"}}>{inline(cells[column]||"")}</Text>)}</View>)}</View>;
   }
-  if(block.kind==="list")return <View key={index} style={styles.paragraph}>{block.items?.map((item,i)=><Text key={i} style={{marginBottom:3}}>• {plain(item)}</Text>)}</View>;
+  if(block.kind==="list")return <View key={index} style={styles.paragraph}>{block.items?.map((item,i)=><Text key={i} style={{marginBottom:3}}>• {inline(item)}</Text>)}</View>;
   if(block.kind==="rule")return <View key={index} style={{borderBottomWidth:0.5,borderBottomColor:"#aaa",marginVertical:5}}/>;
-  return <Text key={index} style={block.kind==="heading"?styles.sectionTitle:styles.paragraph}>{plain(block.text||"")}</Text>;
+  return <Text key={index} style={block.kind==="heading"?styles.sectionTitle:styles.paragraph}>{inline(block.text||"")}</Text>;
  })}</>;
 }
 

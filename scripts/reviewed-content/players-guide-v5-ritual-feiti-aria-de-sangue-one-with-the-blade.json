@@ -1,0 +1,96 @@
+{
+  "id": "players-guide-v5-ritual-feiti-aria-de-sangue-one-with-the-blade",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Uno com a Lâmina",
+    "en": "One with the Blade"
+  },
+  "aliases": [
+    "Uno com a Lâmina",
+    "One with the Blade"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-one-with-the-blade-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 103",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 103,
+          "printedPage": 101
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Dedica uma arma estimada ao vampiro. Enquanto for dele, não enferruja nem perde o fio; se outra pessoa a tomar como própria, envelhece rapidamente como um carniçal sem vitae. Se sobreviver à deterioração, pode ferir gravemente o antigo dono."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma arma de combate corpo a corpo e vitae do conjurador suficiente para mergulhá-la completamente."
+          },
+          {
+            "title": "Processo",
+            "text": "Mergulhe a arma no próprio Sangue e jure dedicar sua não vida a ela. A arma deve permanecer submersa sem interrupção até o nascer do sol seguinte."
+          },
+          {
+            "title": "Sistema",
+            "text": "Após reunir o Sangue e submergir a arma, faça o teste de Ritual. Uma vitória a dedica misticamente ao usuário. Permanece impecável, salvo dano intencional quando estiver fora da posse do conjurador. Pode voltar a ungi-la com o próprio Sangue: isso exige um turno e um Teste de Sangue e concede dois dados extras ao usá-la em combate por uma cena. Só pode ter uma arma dedicada; antes de dedicar outra, destrua a anterior. Se usada contra o dono original, causa dano agravado, mas não recebe os dados extras."
+          },
+          {
+            "title": "Duração",
+            "text": "Dedicação sem prazo fixo; unção de combate dura uma cena. Preparação exige imersão até o amanhecer seguinte."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Certain Kindred develop a close relationship with a favored weapon, in some rare cases carried with them for centuries of use. Such a weapon never rusts or dulls so long as it remains in the vampire’s possession. If someone else physically claims it as their own, it ages rapidly, like a ghoul denied vitae. If the weapon remains usable following this degeneration, it can inflict grievous harm on its original owner — the blood sorcerer — if used against them."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A melee weapon and enough of the caster’s vitae to fully immerse it."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire submerges their chosen weapon in their own vitae and swears an oath dedicating their unlife to the weapon. The weapon must remain submerged without interruption until the following sunrise."
+          },
+          {
+            "title": "System",
+            "text": "Once the Blood is collected and the weapon is submerged, make a Ritual roll. On a win, the weapon becomes mystically dedicated to the user. It remains of immaculate quality unless subjected to intentional harm when outside the caster’s ownership. Additionally, if again anointed by the Blood of the user it gains a two-dice bonus when used in combat. The anointment takes a single turn, forces a Rouse check and lasts for a full scene. A vampire can never possess more than one weapon dedicated this way. In order to perform this ritual on a new weapon, the previous dedicated weapon must first be destroyed.\n\nIf used against its original owner it deals Aggravated damage but gains no additional dice."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

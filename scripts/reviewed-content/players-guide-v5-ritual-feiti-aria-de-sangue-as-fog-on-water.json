@@ -1,0 +1,96 @@
+{
+  "id": "players-guide-v5-ritual-feiti-aria-de-sangue-as-fog-on-water",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Como Névoa sobre a Água",
+    "en": "As Fog on Water"
+  },
+  "aliases": [
+    "Como Névoa sobre a Água",
+    "As Fog on Water"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "players-guide-v5-ritual-feiti-aria-de-sangue-as-fog-on-water-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Guia do Jogador V5, PDF pp. 102",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 102,
+          "printedPage": 100
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        },
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite atravessar qualquer corpo d’água caminhando silenciosamente sobre sua superfície, como se não tivesse peso; névoa se ergue dos passos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um pedaço de madeira de um navio e água."
+          },
+          {
+            "title": "Processo",
+            "text": "Mergulhe a madeira no corpo d’água que deseja atravessar, derramando seu Sangue nele."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória permite caminhar pela superfície daquela água pelo restante da noite. Pode encerrar o efeito quando quiser, mas precisa conjurar novamente para voltar a andar sobre ela."
+          },
+          {
+            "title": "Duração",
+            "text": "O restante da noite ou até o usuário encerrar."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "With this Ritual the vampire is able to traverse any body of water, silently walking upon it as if they were weightless, fog rising from their footsteps."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A piece of wood from a ship, and water"
+          },
+          {
+            "title": "Process",
+            "text": "The vampire submerges a piece of wood in the body of water they want to cross while spilling their Blood into it."
+          },
+          {
+            "title": "System",
+            "text": "Upon a successful Ritual roll the vampire can walk across the surface of the water for the rest of the night. They can end this effect any time they wish but cannot walk on the surface again until they recast the Ritual."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}
