@@ -1,0 +1,93 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-invas-o",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Invasão",
+    "en": "Trespass"
+  },
+  "aliases": [
+    "Invasão",
+    "Trespass"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-invas-o-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 71",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 71,
+          "printedPage": 69
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este antigo ritual do Ministério assemelha-se a vários poderes de Ofuscação, com algumas limitações importantes. Aplica-se apenas à estrutura usada como ingrediente, e seu usuário ainda pode ser percebido por seres ou entidades sobrenaturais. Para entidades não sobrenaturais, elas parecem ser uma estátua, um pilar, uma peça decorativa de moldura, uma tapeçaria ou outra parte da estrutura. O vampiro também pode fluir por qualquer fenda ou outra passagem na estrutura por onde o sangue possa fluir: não através de uma porta de cofre selada, mas através da maioria dos batentes de portas e dutos de ar. Ao contrário da Passagem Incorpórea\n\n(Vampiro: A Máscara, p. 280), eles podem ser atacados e danificados. A invasão não esconde a um genius loci (p. 133)."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Fragmento do local desejado pedra angular ou soleira, o sangue de um ladrão, fio."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador amarra uma ponta do fio ao redor do fragmento da pedra angular e encharca ambos no sangue. Eles então cantam uma canção eficaz oração a Hermes ou Set — os patronos tradicionais do ritual da Transgressão — ou qualquer outro espírito ou divindade associado à invasão. O conjurador enrola o fio sobre o corpo do invasor, começando pelo calcanhar e terminando ao redor da testa."
+          },
+          {
+            "title": "Sistema",
+            "text": "O ritual dura enquanto o fio estiver permanece molhado de sangue (uma cena, ou cerca de 30 minutos). Quando o vampiro tenta realmente entrar no edifício, faça o teste de Ritual. Em um vitória, o conjurador entra sem problemas. Com um Gasto de força de vontade, eles podem fluir através de saídas de ar, rachaduras sob portas ou em qualquer outro lugar com sangue líquido poderia fluir. Em uma vitória crítica, eles não precisam gastar Força de Vontade para fluir através dessas rachaduras, e obter um conhecimento intuitivo da estrutura layout. Em caso de falha total, o próprio edifício rejeita o conjurador. Todos que passarem ganham dois dados para suas paradas para perceber e suspeitar do invasor, que sofre dano de Vitalidade Superficial igual ao número de dados falhados naquele conjunto a cada turno que eles permanecer no edifício."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "An old Ministry ritual conceals the intruder as part of a specified building, such as a pillar, statue, molding or tapestry. Supernatural observers can still perceive them, and it does not hide them from a genius loci. Unlike Incorporeal Passage, the user can be attacked and damaged."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A fragment of the destination's cornerstone or threshold, a thief's blood and thread."
+          },
+          {
+            "title": "Process",
+            "text": "Tie the fragment, soak it and the thread in blood, invoke Hermes, Set or another patron of intrusion, then wind the thread from the caster's heel to forehead."
+          },
+          {
+            "title": "System",
+            "text": "Roll on actually entering the building. A win grants entry and, by spending Willpower, passage through cracks where liquid blood could flow, such as door gaps or vents, but not a sealed vault. A critical removes that Willpower cost and provides an intuitive layout. A total failure makes the building reject the intruder: observers gain two dice to notice and suspect them, and each turn inside they suffer Superficial Health damage equal to the failed dice in that Ritual pool."
+          },
+          {
+            "title": "Duration",
+            "text": "While the thread stays wet with blood, one scene or about thirty minutes."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

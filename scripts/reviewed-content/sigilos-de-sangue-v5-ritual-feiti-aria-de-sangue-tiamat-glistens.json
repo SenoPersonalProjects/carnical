@@ -1,0 +1,94 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-tiamat-glistens",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Brilho de Tiamat",
+    "en": "Tiamat Glistens"
+  },
+  "aliases": [
+    "Brilho de Tiamat",
+    "Tiamat Glistens",
+    "Tiamat brilha"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-tiamat-glistens-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 66, 67",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 66,
+          "printedPage": 64
+        },
+        {
+          "pdfPage": 67,
+          "printedPage": 65
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Feiticeiros de sangue sabem que locais de poder, assim como os mortais, só precisam ser explorados. Este ritual prepara o local de poder, aumenta seu verdadeiro potencial e, talvez o mais importante, o sintoniza pessoalmente com o vampiro. Este Ritual é um elemento comum em muitos Rituais Acorrentados (p. 71). Feiticeiros buscam meios de sintonizar permanentemente um local consigo mesmos, possivelmente por meio de um Laço de Sangue semelhante ao ritual de iniciação koldúnica, ou pelo sacrifício de um feiticeiro rival no local, mas até agora ninguém encontrou um. Ninguém que esteja falando, pelo menos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um local de poder, como um furcus, pó de um metal precioso (qual depende da valência mágica do local)."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador mistura o equivalente a um Teste de Sangue em sangue com o pó de metal precioso. No local de um local de poder, ele grita louvores a Tiamat, espalhando a mistura de pó de metal sangrento no ar e no chão por pelo menos quinze minutos."
+          },
+          {
+            "title": "Sistema",
+            "text": "Em caso de vitória, o feiticeiro prepara o local de poder para qualquer ritual que ocorra ali por um número de noites igual ao número de sucessos no teste de Ritual. Durante esse tempo, qualquer ritual realizado pelo conjurador neste local de poder ganha os bônus ou outras vantagens associadas a ele — geralmente um bônus de dados para as paradas de Ritual (ver Furcus, p. 35). Em uma vitória crítica, o feiticeiro também obtém sucesso automaticamente em um dado de sua rolagem de Ritual. Apenas um conjurador recebe os benefícios de Brilha Tiamat por local de poder. Se outro conjurador realizar o Ritual com sucesso durante o tempo de conjuração bem-sucedida de outro conjurador, o primeiro conjurador perde imediatamente o bônus de dados."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Tunes a place of power to the caster and unlocks its potential. It is common in chained rituals; no publicly known method makes the attunement permanent."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A place of power such as a furcus and powdered precious metal appropriate to its magical valence."
+          },
+          {
+            "title": "Process",
+            "text": "Mix one Rouse Check of Blood with the metal and scatter it into the air and ground while praising Tiamat for at least fifteen minutes."
+          },
+          {
+            "title": "System",
+            "text": "For nights equal to the Ritual successes, the caster's rituals there gain the site's associated bonuses or advantages, usually Ritual dice (Furcus, printed p. 35). A critical also makes one die of their Ritual roll automatically succeed. Only one caster can benefit at a place at once: a later successful casting immediately replaces the earlier caster's bonus."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

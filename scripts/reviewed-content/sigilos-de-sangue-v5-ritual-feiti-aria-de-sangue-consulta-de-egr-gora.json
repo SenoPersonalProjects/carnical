@@ -1,0 +1,93 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-consulta-de-egr-gora",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Consulta de Egrégora",
+    "en": "Egregore Consultation"
+  },
+  "aliases": [
+    "Consulta de Egrégora",
+    "Egregore Consultation"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-consulta-de-egr-gora-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 72",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 72,
+          "printedPage": 70
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este ritual patenteado do oráculo da peste (página 108) concentra-se no vírus da gripe, então seu conjurador deve estar hospedando a gripe para usá-lo. Os místicos usam o termo egrégora para uma espécie de unificação superalma de uma região, povo ou categoria espiritual. Neste caso, significa a combinação do conhecimento e dos instintos de todos que estejam gripados em um raio de vinte quilômetros. Além de recorrer ao seu próprio treinamento, o oráculo da peste pode acessar — pelo menos em parte — as experiências amplas e relevantes de todos os doentes ao seu alcance."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Vírus da gripe vivos no sangue do conjurador, vermes, vermes ou outros parasitas, uma faca, um ímã."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador corta as minhocas com a faca e as espalha no ímã. Segurando o ímã na mão esquerda e voltado para o norte, entoar o canto ritual."
+          },
+          {
+            "title": "Sistema",
+            "text": "O feiticeiro escolhe uma Perícia que deseja aprimorar antes de fazer o teste de Ritual. Em caso de vitória, nas próximas três vezes que o oráculo da peste usar essa Perícia em um teste, ele recebe um bônus de dado igual a um mais sua margem no teste de Ritual. Se o Narrador decidir que a Perícia é apenas um pouco incomum, adicione um dado a esse bônus; se a perícia for muito comum, adicione dois dados. Em uma vitória crítica, adicione uma Especialidade gratuita ou outro dado bônus se o conjurador já possuir a Especialidade desejada. Por exemplo, um Tremere no Cairo, caçado por uma sociedade islâmica antivampiro, poderia usar isso para acelerar sua pesquisa neste antigo centro de aprendizado. Ele rola seis sucessos: uma margem de 1 mais 1 dado, mais 1 dado a mais para os numerosos estudiosos fluentes na área. Ele recebe três dados para adicionar aos seus próximos três testes de Erudição. Ele poderia, da mesma forma, jogar na bolsa de valores com Finanças em Nova York ou Xangai, ou dar um ou três tiros certeiros em Dallas."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A plague-oracle ritual draws on the combined knowledge and instincts of people with influenza within twenty kilometers, supplementing the caster's training with relevant local experience."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Requirements",
+            "text": "Host influenza; plague-oracle rituals require feeding from a mortal carrier within twenty-four hours."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Live influenza virus in the caster's Blood, worms or other parasites, a knife and a magnet."
+          },
+          {
+            "title": "Process",
+            "text": "Cut the worms, spread them on the magnet, hold it in the left hand, face north and chant."
+          },
+          {
+            "title": "System",
+            "text": "Choose a Skill before rolling. On a win, the next three tests using it gain dice equal to one plus Ritual margin. Add another die if the Storyteller considers the Skill only slightly uncommon locally, or two if very common. A critical adds a free Specialty, or another bonus die if the desired Specialty is already known. For example, local scholars, financiers or gun users may supply relevant experience."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

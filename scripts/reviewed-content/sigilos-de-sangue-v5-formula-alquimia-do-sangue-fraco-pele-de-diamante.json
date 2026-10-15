@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pele-de-diamante",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Pele de Diamante",
+    "en": "Diamond Skin"
+  },
+  "aliases": [
+    "Pele de Diamante",
+    "Diamond Skin"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pele-de-diamante-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 78",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 78,
+          "printedPage": 76
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Apesar de todo o seu potencial, os de sangue fraco são frágeis, pelo menos em comparação com outros vampiros. Este elixir foi criado para equilibrar a balança, permitindo que os alquimistas recebam golpes de frente, sobrevivam a quedas longas e talvez até falem mal do xerife local e saiam ilesos. Ele também dá à pele do alquimista um brilho deslumbrante sob luzes neon, o que é uma vantagem à parte. Esta fórmula é menos confiável que Tank (Vampiro: Guia do Jogador, p. 105), mas pode durar e proteger por mais tempo dependendo do habilidade do alquimista."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue humano melancólico, granito moído, diamantes ou cerâmica, loção ou óleo."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma quantidade de pontos de dano Agravado igual aos sucessos do alquimista no teste de Destilação se transforma em dano Superficial ao usuário. Isso afeta apenas o dano físico causado por cortes, perfurações ou impactos; não tem efeito contra fogo, luz solar, feitiçaria ou ácido."
+          },
+          {
+            "title": "Duração",
+            "text": "Até que a margem se esgote; em uma vitória crítica no teste de Destilação, o efeito dura uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Protects fragile thin-bloods from blows and falls, and makes their skin glitter under neon. Less reliable than Tank, but potentially longer-lasting and more protective depending on the alchemist."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, melancholy human blood, ground granite, diamonds or ceramics, and lotion or oil."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Converts Aggravated damage to Superficial up to a number of points equal to distillation successes. Only cutting, piercing and impact damage qualifies; fire, sunlight, sorcery and acid do not."
+          },
+          {
+            "title": "Duration",
+            "text": "Until the allowance is exhausted; on a critical distillation win, the effect lasts a scene."
+          }
+        ]
+      }
+    }
+  ]
+}

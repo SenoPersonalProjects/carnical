@@ -1,0 +1,90 @@
+{
+  "id": "sabbat-black-hand-v5-power-proteanismo-visceral-absorption",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Absorção Visceral",
+    "en": "Visceral Absorption"
+  },
+  "aliases": [
+    "Absorção Visceral",
+    "Visceral Absorption"
+  ],
+  "discipline": "Proteanismo",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-power-proteanismo-visceral-absorption-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 3,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 50",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 50,
+          "printedPage": 49
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 3,
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Torna o corpo semipermeável e absorve sangue inerte e vísceras próximos, saciando a Besta. Restos sem sangue viram cinzas ou fumaça gordurosa, deixando o local limpo. Durante o uso, o vampiro é um vórtice evidente de sangue e carne."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Proteanismo 3; Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Força + Proteanismo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Exige ao menos um cadáver numa área de aproximadamente cinco metros ao redor. Cada sucesso permite consumir o sangue e eliminar os restos de um corpo recente, mesmo reduzido a uma mancha vermelha. Cada corpo sacia uma Fome; por uso, não pode saciar mais Fome que seu nível de Feitiçaria de Sangue nem reduzi-la abaixo de 1. Restos de vampiros não são afetados."
+          },
+          {
+            "title": "Duração",
+            "text": "Um turno por corpo absorvido."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Blood Sorcery 2 A seldom-seen but unmistakably effective way to clean up a mess, this power turns the body of the vampire semi-permeable while drawing inert blood and viscera in the vicinity inside them, feeding their Beast and sating their Hunger. Other bodily remains, bereft of blood, crumble to ash or vanish in greasy smoke. While the vampire using the power draws blood and gore to themselves, the surrounding area is left remarkably clean, and the Sabbat able to employ this ability use it as a way to cover their tracks with great effect."
+          },
+          {
+            "title": "Requirements",
+            "text": "Protean 3; Blood Sorcery 2."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Strength + Protean"
+          },
+          {
+            "title": "System",
+            "text": "Use of this power requires at least one dead body in the area of effect, roughly an area extending 5 meters in all directions from the user. The vampire rolls Strength + Protean, and is able to absorb the blood and eradicate the remains of one body per success rolled. The state of the body is of no significance so long as it is fresh, and even “somebody” whose remains are little more than a red smear will be consumed. The user sates one Hunger per body affected, but cannot sate more Hunger per use than their Blood Sorcery rating, nor can they reduce it below one through this power. Using this power takes one turn per body absorbed. It should also be noted that, while efficient in getting rid of evidence, the power is extremely overt while in use, as the user becomes a literal vortex of blood and viscera. Vampire remains aren’t affected by this power."
+          },
+          {
+            "title": "Duration",
+            "text": "One turn per body"
+          }
+        ]
+      }
+    }
+  ]
+}

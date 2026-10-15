@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-procurando-tiamat",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Procurando Tiamat",
+    "en": "Seeking Tiamat"
+  },
+  "aliases": [
+    "Procurando Tiamat",
+    "Seeking Tiamat"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-procurando-tiamat-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 70",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 70,
+          "printedPage": 68
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este ritual ajuda os feiticeiros do Sangue a procurar as veias da Terra, harmonizando o fluxo do seu Sangue com o sangue de Tiamat."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um pedaço afiado de hamamélis ou ferro magnetizado de 30 cm de comprimento."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador enfia a madeira ou ferro no antebraço ao longo da veia ulnar, causando 1 ponto de dano Agravado, e realiza um Teste de Sangue. Em seguida, deve caminhar pela cidade ou região por pelo menos quinze minutos."
+          },
+          {
+            "title": "Sistema",
+            "text": "Em caso de vitória, o braço começa a se contrair e apontar para a furca mais próxima na área; mudando a direção, conjuradores inteligentes podem triangular um local em poucos minutos. Em uma vitória crucial, a ferramenta descobre a veia mais próxima da Terra e aponta para duas furcas nessa veia."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Tunes the caster's Blood to Tiamat's to find earth's veins."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A sharpened thirty-centimeter piece of witch hazel or magnetized iron."
+          },
+          {
+            "title": "Process",
+            "text": "Insert it along the forearm's ulnar vein, taking one Aggravated damage and making a Rouse Check, then walk the city or region for at least fifteen minutes."
+          },
+          {
+            "title": "System",
+            "text": "A win makes the arm twitch toward the nearest furcus; changing direction can triangulate it in minutes. A critical finds the nearest earth's vein and points toward two furci on it."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

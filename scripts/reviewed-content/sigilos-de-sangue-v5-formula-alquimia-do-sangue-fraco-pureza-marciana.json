@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pureza-marciana",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Pureza Marciana",
+    "en": "Martian Purity"
+  },
+  "aliases": [
+    "Pureza Marciana",
+    "Martian Purity"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pureza-marciana-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 79",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 79,
+          "printedPage": 77
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O nome não se refere a marciano no sentido extraterrestre, mas ao deus romano Marte e sua associação com o ferro, o princípio colérico e correspondência mística semelhante. Com isso esclarecido, este feitiço cura doenças transmitidas pelo sangue, expelindo-as pelos poros como gás inflamável e inflamado. Alguns Príncipes que aprenderam sobre este feitiço insistem em infligi-lo a ratos suspeitos de peste em seus domínios, alegando preocupações com a Máscara e oferecendo desculpas frágeis pelo incômodo, enquanto um Cão de Caça ou outro funcionário da corte aguarda com um extintor de incêndio."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal colérico, limalha de ferro, cinza de pólvora."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Funciona apenas em mortais ou Membros portadores de uma infecção transmissível pelo sangue. Ao ser consumido, o elixir força a impureza a sair pela pele, liberando gases pelos poros das costas. Ele se inflama em contato com o ar, causando 2 pontos de dano Agravado ao portador. Cabe ao Narrador decidir se isso funciona em infecções sobrenaturais individuais."
+          },
+          {
+            "title": "Duração",
+            "text": "Duas rodadas"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Named for Mars, iron and choleric correspondences, this expels bloodborne disease as flaming gas. Some Princes force suspected plague carriers to take it under court supervision and a ready fire extinguisher."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, choleric mortal blood, iron filings and gunpowder ash."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Only works on mortals or Kindred carrying a blood-transmissible infection. Ingestion forces impurities out through pores on the back as gas that ignites in air, causing the carrier two Aggravated damage. The Storyteller determines whether it works on a particular supernatural infection."
+          },
+          {
+            "title": "Duration",
+            "text": "Two turns."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-imitador",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Imitador",
+    "en": "Copycat"
+  },
+  "aliases": [
+    "Imitador",
+    "Copycat"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 4,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-imitador-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 80",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 80,
+          "printedPage": 78
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Mercúrios podem não ser capazes de se transformar em névoa ou hipnotizar os espectadores, fazendo-os ignorá-los, mas o Copycat é a melhor opção. Beber a bebida faz com que o rosto do usuário fique borrado, parecendo o rosto do \"doador\" cujo sangue foi adicionado\n\n— até o cabelo muda de cor. Infelizmente, não é uma cópia exata. Os planos e o formato do rosto não se mascaram facilmente, e os amigos e familiares do doador ficariam capaz de dizer que não eram eles em uma sala bem iluminada — o\n\nO rosto tem uma aparência meio estranha para quem o conhece bem, e o cabelo não está muito certo. Mas é uma maneira infalível de se esconder em uma multidão ou festa, ou até mesmo como um disfarce rápido em algum lugar onde ninguém conheça o rosto.\n\nPara aumentar a dificuldade, tem que haver alguma ressonância entre o Sangue do alquimista e o sangue do doador quando os dois são coletados para a fórmula para trabalhar: alguns alquimistas tomam psicodélicos com seu doador, outros comem as mesmas refeições naquela noite. Sexo, ou interações particularmente excitantes, como uma luta de espadas ou uma apresentação juntos, também podem alinhar os dois sangues."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal colérico e fleumático, espelho de vidro, sangue de doador, folhas de Boquila trifoliolata , pele de camaleão."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao beber, o usuário sente a sensação desagradável de algo úmido e pegajoso escorrendo pelo rosto. Essa sensação permanece pelos próximos vinte minutos, com uma leve coceira e repuxamento, à medida que a bebida Copycat perde potência lentamente. Quando finalmente termina, um resíduo branco, como cola seca, que coça levemente, permanece sobre a pele. Para aqueles que conhecem o doador de vista, distinguir o bebedor do doador requer uma Inteligência + Teste de Percepção contra uma Dificuldade igual à Sucessos do rolo de destilação."
+          },
+          {
+            "title": "Duração",
+            "text": "Vinte minutos (geralmente uma cena se você é inteligente)."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Blurs the user's face and hair toward a blood donor's appearance. The underlying face shape remains, so close acquaintances notice an uncanny mismatch in good light; it still helps blend into crowds or fool strangers. Some resonance must exist between alchemist and donor when both samples are collected, established through shared food, psychedelics, sex or another exciting shared activity."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, choleric and phlegmatic mortal blood, a glass mirror, donor blood, Boquila trifoliolata leaves and chameleon skin."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "The drinker feels wetness, itching and pulling over the face throughout the effect, ending in mildly itchy white residue like dried glue. Someone recognizing the donor by sight needs Intelligence + Awareness at Difficulty equal to distillation successes to distinguish them."
+          },
+          {
+            "title": "Duration",
+            "text": "Twenty minutes, generally a scene if used wisely."
+          }
+        ]
+      }
+    }
+  ]
+}

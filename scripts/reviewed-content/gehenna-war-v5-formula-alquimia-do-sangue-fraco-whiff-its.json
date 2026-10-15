@@ -1,0 +1,93 @@
+{
+  "id": "gehenna-war-v5-formula-alquimia-do-sangue-fraco-whiff-its",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Farejadores",
+    "en": "Whiff-Its"
+  },
+  "aliases": [
+    "Farejadores",
+    "Whiff-Its"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 2,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-formula-alquimia-do-sangue-fraco-whiff-its-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 2,
+      "sourceTitle": "Gehenna War V5, PDF pp. 52, 53",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 52,
+          "printedPage": 50
+        },
+        {
+          "pdfPage": 53,
+          "printedPage": 51
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite farejar o Sangue mais potente nas proximidades, distinguindo vampiros pela potência da vitae."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Vitae do alquimista, sangue humano fleumático ou sanguíneo, colônia ou perfume, composto orgânico fresco, amônia e unhas trituradas de animal."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Pelo restante da noite, percebe o cheiro do vampiro com maior Potência de Sangue na área, definida pelo Narrador. Se vários tiverem a mesma Potência, Determinação + Percepção, Dificuldade 3, distingue indivíduos e permite seguir seus rastros. Vampiros em recipientes selados podem exigir teste semelhante, com Dificuldade definida pelo Narrador."
+          },
+          {
+            "title": "Duração",
+            "text": "Até o amanhecer."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Some Kindred are rumored to be able to sniff out a particular resonance. Among the Duskborn, others have learned to sniff out the resonance (or lack thereof) of true Kindred and distinguish the most potent among them."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s vitae, phlegmatic or sanguine human blood, cologne or perfume, fresh compost, ammonia, crushed fingernails from an animal"
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "When used, the potion grants the alchemist heightened olfactory abilities. For the next night, the alchemist can catch the scent of the Kindred with the highest Blood Potency in the area (as determined by the Storyteller). If there are multiple Kindred who share the same Blood Potency in the area, success on a subsequent Resolve + Awareness test at Difficulty 3 allows the alchemist to distinguish between individual Kindred and follow their trail. Kindred sealed in containers might likewise require a similar test to detect, with a Difficulty determined by the Storyteller."
+          },
+          {
+            "title": "Duration",
+            "text": "Until dawn"
+          }
+        ]
+      }
+    }
+  ]
+}

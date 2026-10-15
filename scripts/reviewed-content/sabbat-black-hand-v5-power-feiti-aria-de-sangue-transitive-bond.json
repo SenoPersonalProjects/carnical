@@ -1,0 +1,89 @@
+{
+  "id": "sabbat-black-hand-v5-power-feiti-aria-de-sangue-transitive-bond",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Laço Transitivo",
+    "en": "Transitive Bond"
+  },
+  "aliases": [
+    "Laço Transitivo",
+    "Transitive Bond"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-power-feiti-aria-de-sangue-transitive-bond-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 3,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 50, 51",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 50,
+          "printedPage": 49
+        },
+        {
+          "pdfPage": 51,
+          "printedPage": 50
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Conserva a capacidade de formar Laços de Sangue na vitae armazenada ou no corpo de um carniçal. Desenvolvido pelos Tremere numa tentativa malsucedida de aliviar sua Fraqueza, reapareceu no Sabbat."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ative ao extrair Sangue para guardar ou fornecer a um carniçal. Cada uso afeta vitae equivalente a três Testes de Sangue. Quem beber dela, ou do carniçal, é afetado como se tivesse bebido diretamente do pulso do usuário. O novo servo ignora o efeito até ver o futuro Regente, mas pode ficar inquieto e ter visões dele no sono diurno. As demais regras de Laço de Sangue permanecem as do Livro Básico inglês, pp. 233–234."
+          },
+          {
+            "title": "Duração",
+            "text": "A fonte não fixa prazo próprio."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The user is able to extend the Blood Bonding properties of their vitae, enabling it to retain its ensnaring properties when stored, or even when present in the body of a ghoul. Anyone drinking the stored vitae or from the ghoul will be affected just as if they’d imbibed it directly from the user’s wrist. Developed by the Tremere in a failed attempt to alleviate their Bane, the power has resurfaced in the Sabbat, where the Discipline is less limited by clan lineage, and has been used to great effect in some of their longer schemes."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "None"
+          },
+          {
+            "title": "System",
+            "text": "The user activates this power when calling upon their Blood, either for storing or when giving it to a ghoul. Each use empowers three Rouse Checks’ worth of Blood. Anyone ensnared by the Transitive Bond will be unaware of its effect until they lay eyes on their eventual Regnant, but they might become restless and catch glimpses of them in dream-like visions during daysleep. The Blood Bond otherwise functions as described in Vampire: The Masquerade, pp. 233-234)."
+          },
+          {
+            "title": "Duration",
+            "text": "N/A"
+          }
+        ]
+      }
+    }
+  ]
+}

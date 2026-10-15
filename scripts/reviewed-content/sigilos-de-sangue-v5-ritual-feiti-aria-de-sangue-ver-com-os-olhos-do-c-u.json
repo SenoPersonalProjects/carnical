@@ -1,0 +1,90 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-ver-com-os-olhos-do-c-u",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Ver com os Olhos do Céu",
+    "en": "See with the Eyes of Heaven"
+  },
+  "aliases": [
+    "Ver com os Olhos do Céu",
+    "Ver com os olhos do céu",
+    "See with the Eyes of Heaven"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-ver-com-os-olhos-do-c-u-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 69",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 69,
+          "printedPage": 67
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O olho do observador enxerga melhor quando o alvo não pode vê-lo. Os Banu Haqim sabem disso e usam um ritual especial para observar alvos do único lugar que eles não conseguem detectar: o próprio Céu. Os Tremere zombam da ideia de que o conjurador viaja para um reino superior e observa alvos de cima, mas não podem negar os resultados e adotaram esse ritual para sua prática."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue mortal eufórico (geralmente de alguém sob efeito de cannabis), incenso, braseiro, uma efígie ou foto de um alvo."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador bebe o sangue eufórico, acende uma mistura de seu próprio Sangue (no valor de um Teste de Sangue) e incenso em um braseiro, inala-o e entra em transe extático enquanto estuda a imagem alvo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Após meia hora de transe, faça o teste de Ritual. Em caso de vitória, o conjurador pode fazer ao Narrador uma pergunta sobre a localização e arredores do alvo para cada sucesso obtido. Em caso de vitória crítica, o conjurador recebe três perguntas adicionais e pode perguntar sobre a Ambição, o Desejo, as Convicções e a Humanidade do alvo, além de quaisquer perguntas sobre a localização e o paradeiro do alvo."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Banu Haqim observe a target from the unseen heavens; skeptical Tremere have adopted the ritual despite disputing that explanation."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Euphoric mortal blood, often cannabis-influenced, incense, a brazier and an effigy or image of the target."
+          },
+          {
+            "title": "Process",
+            "text": "Drink the euphoric blood, burn incense with one Rouse Check of the caster's Blood, inhale and enter an ecstatic trance while studying the target image."
+          },
+          {
+            "title": "System",
+            "text": "After half an hour roll the Ritual. On a win, ask the Storyteller one question about the target's location and surroundings per success. A critical adds three questions and allows questions about Ambition, Desire, Convictions and Humanity as well as location."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

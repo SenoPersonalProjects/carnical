@@ -1,0 +1,93 @@
+{
+  "id": "sabbat-black-hand-v5-power-domina-o-tabula-rasa",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Tabula Rasa",
+    "en": "Tabula Rasa"
+  },
+  "aliases": [
+    "Tabula Rasa",
+    "Tabula Rasa"
+  ],
+  "discipline": "Dominação",
+  "level": 4,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-power-domina-o-tabula-rasa-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 4,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 48",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 48,
+          "printedPage": 47
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Apaga a identidade e as lembranças, deixando alguém maleável para condicionamento. Mesmo vampiros cruéis de fora do Sabbat costumam considerá-lo excessivo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Dois Testes de Sangue por tentativa; interrupção ou vitória crítica da vítima exige reiniciar e pagar novamente."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Conflito prolongado de Determinação + Dominação contra Autocontrole + Determinação, acumulando dez sucessos durante uma cena inteira."
+          },
+          {
+            "title": "Sistema",
+            "text": "Mantenha o olhar da vítima, que precisa estar contida ou submeter-se. O processo não pode ser perturbado. Ao completá-lo, ela perde nome, história, personalidade, Convicções, Pilares e Ambição. A maioria dos Antecedentes fica inacessível; o Narrador decide quais outros benefícios podem reaparecer, como um Contato que a reconheça. Atributos, Habilidades e Disciplinas permanecem. Depois, costuma ser condicionada por mentiras ou doutrinada numa Trilha. O uso é extremamente cruel e normalmente merece Máculas."
+          },
+          {
+            "title": "Recuperação excepcional",
+            "text": "A perda é permanente, mas um trauma ligado a um antigo Pilar pode devolver parte do passado, a critério do Narrador. A fonte sugere Determinação + Autocontrole, Dificuldade 5, se o antigo Pilar for ameaçado, ferido ou morto em sua presença."
+          },
+          {
+            "title": "Duração",
+            "text": "Permanente."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Less memory manipulation than eradication, this callous power does away with subtlety and wipes every trace of memory from a victim, leaving them a pliant effigy of themselves. While they retain most of their learned skills, they forget everything else – their experiences, friends, family, wants and wishes\n\n– in most cases, forever. Use of this power outside the Sabbat is rare, as even the most ruthless of the undead find it excessive. The Black Hand isn’t above taking this shortcut to ensure that a captive servant is made ready for conditioning or that a promising childe is remade to their tastes."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 4."
+          },
+          {
+            "title": "Cost",
+            "text": "Two Rouse Checks"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Dominate vs. Composure + Resolve"
+          },
+          {
+            "title": "System",
+            "text": "The user Rouses their Blood, holds the gaze of their victim, and must then engage in an extended conflict of Resolve + Dominate versus the victim’s Composure + Resolve, accumulating ten successes during an entire scene. The process must not be disturbed, and the victim must be restrained or otherwise submit during the act, as any break in concentration requires the conflict to be restarted (and another two Rouse Checks), as does a critical win on the part of the victim. Once the process is complete, the victim is left a confused, slack-jawed shell. They lose memories of their name, history, and most of their old personality. They lose Convictions, Touchstones, and Ambition, and most of their Backgrounds become moot, as they forget how to access them. (These, together with other Advantages, are left to the Storyteller’s discretion – a Contact may remember them if they cross paths again, for example.) Attributes, Skills, and Disciplines remain, however. The memory loss is permanent, though on occasion a victim has regained some of their past when faced with a traumatic event involving a past Touchstone. (Test Resolve + Composure at Difficulty 5, for example when a former Touchstone is threatened, hurt, or killed while in their presence, at the Storyteller’s discretion.) A wiped victim is usually fed whatever lies are needed to keep them loyal, or quickly subjected to Path indoctrination. Use of this power is exceedingly cruel, and should merit Stains in most chronicles."
+          },
+          {
+            "title": "Duration",
+            "text": "Permanent"
+          }
+        ]
+      }
+    }
+  ]
+}

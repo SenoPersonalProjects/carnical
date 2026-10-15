@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-troll-o-piedoso",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Troll, o Piedoso",
+    "en": "Troll the Pious"
+  },
+  "aliases": [
+    "Troll, o Piedoso",
+    "Troll the Pious"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-troll-o-piedoso-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 80",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 80,
+          "printedPage": 78
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A pasta cor de pus produzida por esta fórmula assemelha-se à cola atóxica dada a crianças em idade pré-escolar e tem um cheiro semelhante ao de cera. Quando aplicada em um objeto, pessoa ou local, induz sentimentos de inquietação e desconforto nos religiosos. As raras pessoas com Fé Verdadeira experimentam resultados ainda piores."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal melancólico, água de banheira de hidromassagem usada, amido de milho, um pelo corporal de uma ruiva natural viva de olhos verdes."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "O procedimento produz uma gosma suficiente para encerar cerca de três metros quadrados de piso — você pode esfregar no carpete, mas faz sujeira — ou ungir uma pessoa inteira, ou ungir uma dúzia de livros ou cerca de metade das ferramentas de uma pequena oficina. Qualquer pessoa que acredite em um poder superior benigno, ou cuja profissão envolva religião, sente-se desconfortável quando está em um local encerado, ou quando sua atenção é atraída para um objeto ungido. Isso é suficiente para aplicar uma penalidade de um dado em paradas Sociais e Mentais, e em paradas Físicas que exigem concentração rigorosa. Pessoas com Fé Verdadeira sofrem uma penalidade de dois dados e também têm alucinações horríveis que parecem profundas percepções da natureza do mal, mas na verdade são expressões de seus próprios medos e preconceitos.\n\nPara ser justo, é possível que os medos dos verdadeiramente fiéis possam realmente fornecer insights sobre o mal. No entanto, essa penalidade não afeta nenhuma reserva (como resistir a vampiros) à qual eles adicionariam sua Fé Verdadeira."
+          },
+          {
+            "title": "Duração",
+            "text": "Em um local, uma dose dura alguns meses. Em um objeto, dois meses se ninguém o tocar, um mês se for manuseado com pouca frequência, uma semana se for manuseado com frequência. Em uma pessoa, uma dose dura três dias, e no primeiro dia a pele fica com aspecto ceroso e oleoso."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A pus-colored, wax-smelling paste resembling children's non-toxic glue induces religious discomfort and worse effects in those with True Faith."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, melancholy mortal blood, used hot-tub water, cornstarch and a body hair from a living natural redhead with green eyes."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "One batch coats about three square meters of floor (carpet is messy), one entire person, a dozen books or half a small workshop's tools. People believing in a benign higher power or working in religion suffer unease there or when their attention is drawn to a coated object: a one-die penalty to Social and Mental pools and Physical pools requiring strict concentration. True Faith sufferers instead lose two dice and experience horrifying visions expressing their fears and prejudices, possibly providing actual insight into evil. The penalty never affects a pool to which True Faith would be added, such as resisting vampires."
+          },
+          {
+            "title": "Duration",
+            "text": "On a location, a few months; object untouched, two months; rarely handled, a month; frequently handled, a week. On a person, three days, with visibly waxy, oily skin on day one."
+          }
+        ]
+      }
+    }
+  ]
+}

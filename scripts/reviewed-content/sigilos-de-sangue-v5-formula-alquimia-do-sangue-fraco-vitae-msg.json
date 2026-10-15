@@ -1,0 +1,92 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-vitae-msg",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Vitae MSG",
+    "en": "Vitae MSG"
+  },
+  "aliases": [
+    "Vitae MSG"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 4,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-vitae-msg-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 81, 82",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 81,
+          "printedPage": 79
+        },
+        {
+          "pdfPage": 82,
+          "printedPage": 80
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Uma fórmula que torna o consumo de sangue ainda mais prazeroso já tem um mercado estabelecido. Os Membros são traiçoeiros e vingativos por natureza, então esta pomada também é usada para obter vampiros específicos para se alimentar de vasos específicos - para estabelecer Sangue Laços, transformam alguém em um portador da peste ou preparam o consumo de alguma outra fórmula.\n\nNem é preciso dizer que muitos Os Ventrue adoram essas coisas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "O Sangue de alquimista, sangue mortal sanguíneo, MSG, açúcar de confeiteiro, imitação (não genuíno) Canal no 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "O processo de produção produz um líquido límpido e aquoso com um leve aroma de baunilha e jasmim. Ele não faz nada até ser esfregado na pele de uma pessoa ou animal, fazendo com que esse ser inflame a sede vampírica. Qualquer vampiro que veja ou sinta o cheiro de alguém quem tem Vitae MSG sente um desejo intenso para se alimentar deles. Eles podem resistir a esse impulso com um ponto de Força de Vontade ou aceitando um ponto adicional de Fome. Se o vampiro passar mais de trinta minutos na presença do ungido depois disso, ele deve se banquetear — ou então gastar mais Força de Vontade ou aceitar mais Fome. A compulsão compensa parcialmente a Ruína Ventrue — sangues azuis podem se alimentar da pessoa fortalecida por MSG de Vitae gastando 1 de Força de Vontade a menos se não estiverem em sua categoria preferida."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma vez que alguém é ungido, o desejo dura até o próximo amanhecer, se sobreviver."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A pleasure-enhancing ointment encourages vampires to feed on selected vessels, facilitating Blood Bonds, infection or delivery of another formula. Many Ventrue prize it."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, sanguine mortal blood, MSG, powdered sugar and imitation (not genuine) Chanel No. 5."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "A clear watery fluid smelling faintly of vanilla and jasmine works only after being rubbed onto a person or animal. Any vampire seeing or smelling them feels an intense urge to feed. Resist with one Willpower point or accept one additional Hunger; after another thirty minutes nearby, feed or pay again. It partially offsets the Ventrue Bane: feeding outside their preferred category costs one less Willpower."
+          },
+          {
+            "title": "Duration",
+            "text": "Once anointed, the urge lasts until the next dawn if the subject survives."
+          }
+        ]
+      }
+    }
+  ]
+}

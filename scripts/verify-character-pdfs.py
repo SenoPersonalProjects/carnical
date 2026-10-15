@@ -5,10 +5,11 @@ import pymupdf as fitz
 from PIL import Image,ImageDraw
 
 root=Path(sys.argv[1]);expect=json.loads((root/'expectations.json').read_text(encoding='utf-8'));report=[]
-for file in sorted(root.glob('*-small.pdf'))+sorted(root.glob('*-large.pdf'))+sorted(root.glob('browser-*.pdf'))+sorted(root.glob('ceremony-browser-*.pdf')):
+for file in sorted(root.glob('*-small.pdf'))+sorted(root.glob('*-large.pdf'))+sorted(root.glob('browser-*.pdf'))+sorted(root.glob('ceremony-browser-*.pdf'))+sorted(root.glob('war-browser-*.pdf')):
  doc=fitz.open(file);text='\n'.join(page.get_text() for page in doc)
  expected={'name':'João - alteração não salva','notes':'Amanhã, às 22h: anotações não salvas.'} if file.name.startswith('browser-') else expect
  if file.name.startswith('ceremony-browser-'):expected={'name':'Cerimônias em teste','notes':'Anotação pessoal preservada: amanhã às 22h.'}
+ if file.name.startswith('war-browser-'):expected={'name':'Magias em teste','notes':'Anotação pessoal preservada: amanhã às 22h.'}
  for field in ['name','notes']:assert expected[field] in text,(file.name,field)
  assert expect['excluded'] not in text,file.name
  if 'large' in file.name:
@@ -21,7 +22,7 @@ for file in sorted(root.glob('*-small.pdf'))+sorted(root.glob('*-large.pdf'))+so
  assert not re.search(r'[\x00-\x08\x0b\x0c\x0e-\x1f\ufffd]',text),(file.name,'invalid glyph')
  assert not re.search(r'\|\s*---\s*\|',text),(file.name,'unrendered Markdown table')
  if not file.name.startswith('browser-'):
-  assert ('Mindless Corpse' if file.name.startswith('en-') or file.name.endswith('-en.pdf') else 'Cadáver Sem Mente') in text,(file.name,'servant profile missing')
+  if not file.name.startswith('war-browser-'):assert ('Mindless Corpse' if file.name.startswith('en-') or file.name.endswith('-en.pdf') else 'Cadáver Sem Mente') in text,(file.name,'servant profile missing')
   assert any(link.get('uri')=='https://carnical.vercel.app/rules/source?book=core-v5&page=274' for page in doc for link in page.get_links()),(file.name,'original rules link missing')
  thumbs=[]
  for index,page in enumerate(doc):

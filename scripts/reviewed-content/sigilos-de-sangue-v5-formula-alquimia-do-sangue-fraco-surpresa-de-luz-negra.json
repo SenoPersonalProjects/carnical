@@ -1,0 +1,94 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-surpresa-de-luz-negra",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Surpresa de Luz Negra",
+    "en": "Blacklight Surprise"
+  },
+  "aliases": [
+    "Surpresa de Luz Negra",
+    "Surpresa de luz negra",
+    "Blacklight Surprise"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-surpresa-de-luz-negra-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 77, 78",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 77,
+          "printedPage": 75
+        },
+        {
+          "pdfPage": 78,
+          "printedPage": 76
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O sol é a ruína dos mortos-vivos, mas esta fórmula pode emprestar a força hedionda de Phoebus a uma lanterna UV comum ou lâmpada de luz negra, para os Membros azarados o suficiente para estarem perto dela."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal sanguíneo e colérico, sementes de girassol, desinfetante para as mãos, Luminol."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma fonte UV manchada com Surpresa de Luz Negra causa 1 ponto de dano Agravado a cada turno em que sua luz atinge um vampiro. Ela provoca frenesi de medo como a luz solar. Membros que já sofrem dano de UV recebem um ponto extra."
+          },
+          {
+            "title": "Duração",
+            "text": "Pelo menos uma hora, mais uma hora adicional para cada sucesso que o alquimista obtiver com os dados. Se a fonte de luz quebrar, a fórmula queima."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Lends the sun's destructive force to an ordinary ultraviolet flashlight or blacklight."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, sanguine and choleric mortal blood, sunflower seeds, hand sanitizer and luminol."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "A coated UV source causes one Aggravated damage each turn its light strikes a vampire and provokes terror frenzy like sunlight. Kindred already harmed by ultraviolet take one additional damage."
+          },
+          {
+            "title": "Duration",
+            "text": "At least an hour plus another hour per distillation success. A broken light source burns out the formula."
+          }
+        ]
+      }
+    }
+  ]
+}

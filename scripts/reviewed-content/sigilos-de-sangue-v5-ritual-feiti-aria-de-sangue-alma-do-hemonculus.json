@@ -1,0 +1,106 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-alma-do-hemonculus",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Alma do Hemônculo",
+    "en": "Soul of the Homunculus"
+  },
+  "aliases": [
+    "Alma do Hemônculo",
+    "Alma do Hemonculus",
+    "Soul of the Homunculus"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-alma-do-hemonculus-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 70, 135, 136",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 70,
+          "printedPage": 68
+        },
+        {
+          "pdfPage": 135,
+          "printedPage": 133
+        },
+        {
+          "pdfPage": 136,
+          "printedPage": 134
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este encantamento forma uma cópia enrugada, debilitada e com um quarto de seu peso, do eu mortal de seu conjurador (p. 133-134). Esta criatura atarracada, limitada e frequentemente amarga deve obedecer a qualquer comando de seu criador, às vezes de bom grado, às vezes não. Eles não são prejudicados pela luz solar. Você pode criar um como assistente de laboratório, lacaio ou criança substituta, se quiser."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Garrafa de vidro soprada na noite anterior à lua nova, sêmen, giz, terra de cemitério, sangue do conjurador, polegar de um homem morto e um porco morto."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador coloca o Sangue e os outros ingredientes na garrafa de vidro, tampa-a com o polegar, agita bem e deixa-a em total escuridão até a lua cheia. A garrafa é então banhada pelo luar enquanto o conjurador recita um breve cântico, antes de costurá-la na barriga do porco. O conjurador enterra o porco em solo consagrado, a pelo menos um metro de profundidade, e faz o teste do Ritual. Se for bem-\n\nsucedido, na próxima lua nova, quando o conjurador o desenterrar, o porco parecerá uma versão em miniatura deles. O conjurador ordena que ele se levante, e ele deve obedecer."
+          },
+          {
+            "title": "Sistema",
+            "text": "Faça o teste de Ritual contra o maior valor entre 3 ou a Vigor do usuário: sua própria carne resiste a isso blasfêmia. Se o teste for bem-sucedido, o hemônculo se acelera e nasce em um mês. Um hemônculo tem os Atributos do seu criador e as Habilidades de sua vida mortal, mas cada um com um ponto a menos, até um mínimo de 1, metade da Vitalidade do criador e um ponto de Força de Vontade. Hemônculos não podem se tornar carniçais, ser Abraçados ou ter Laços de Sangue, e qualquer vampiro que se alimente de um deles não ganha nutrição e acha o processo repulsivo."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          },
+          {
+            "title": "Hemônculo: natureza e limites",
+            "text": "Não confunda isso com o servo homuncular do necromante; são relacionados, mas diferentes. Desde a Idade Média, homens que invejavam a capacidade de dar à luz — mas não as dores do parto — praticavam ritos alquímicos para criar o que os olhos modernos chamam de clone. Naturalmente, os Tremere já os conheciam antes mesmo de se tornarem Membros. O ritual para vampiros fazerem um é descrito anteriormente (p. 68). O que você obtém é um homem raquítico, mal-humorado, versão esquecida do seu eu mortal . Hemônculos têm cerca de 60 a 100 cm de altura e não possuem nenhuma das memórias pós-morte de seu criador. Eles recebem os mesmos Atributos e Habilidades mortais, mas com um ponto a menos cada, até um mínimo de 1. Metade da Vida do criador. Um ponto de Força de Vontade. Hemônculos não podem se tornar ghouls, sejam Abraçados ou tenham Laço de Sangue, e qualquer vampiro que se alimente de um deles não ganha nutrição e acha o processo repelente. Dito isto, eles têm as impressões digitais do seu criador e seu \"sangue\" é, para todos os testes científicos, o de seu criador – embora os hemônculos não forneçam nenhuma conexão arcana com seu criador. Se um vampiro precisa de uma evidência realmente convincente de que está morto, crie um hemônculo, mate-o, destrua o corpo e deixe os investigadores encontrarem seu DNA no meio daquela mancha suja secando ao sol.\n\nUm hemônculo é misticamente ordenado a fazer tudo o que seu criador ordena. Alguns se revoltam com o que, para eles, é uma versão assustadora, mandona e vampírica de si mesmos e obedecem à risca a ordem, mas transgridem a intenção. Outros, no entanto, se entregam à situação. Membros que secretamente anseiam por autoridade, mas têm dificuldade em confiar em alguém que não seja literalmente eles mesmos, podem entrar em relacionamentos muito próximos com hemônculos, proporcionandolhes os prazeres da vida que, talvez, tivessem vergonha de buscar quando realmente viviam. Alguns desses hemônculos literalmente morreriam para proteger seus progenitores.\n\nMas mesmo aqueles que resmungam e conspiram devem façam o que lhes for dito e poderão sair no sol. Isso não é pouca coisa. Além de realizar tarefas diárias ou suprir necessidades psicológicas distorcidas, eles são tradicionalmente usados como presentes de desculpas da velha guarda Tremere. Se você quiser se desculpar com alguém e demonstrar sinceridade, crie um hemônculo de si mesmo e o entregue. Naturalmente, a pessoa provavelmente está brava com você, mas agora você deu a ela um brinquedo de mastigar que pode gritar com a sua voz enquanto arranha seu rosto. Isso contribui surpreendentemente para a cura.\n\nressentimentos."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Creates a shriveled, quarter-weight copy of the caster's mortal self. The small, limited and often bitter creature obeys its maker and is unharmed by sunlight, serving as assistant, retainer or substitute child."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A glass bottle blown on the night before the new moon, semen, chalk, graveyard earth, caster's Blood, a dead man's thumb and a dead pig."
+          },
+          {
+            "title": "Process",
+            "text": "Bottle the ingredients, stopper with the thumb, shake and keep in complete darkness until the full moon. Bathe the bottle in moonlight while chanting, sew it into the pig and bury it at least a meter deep in consecrated soil. Roll then; if successful, at the next new moon the pig dug up resembles a miniature caster and must rise at their command."
+          },
+          {
+            "title": "System",
+            "text": "Difficulty is the greater of 3 or the user's Stamina, as their own flesh resists the blasphemy. Successful creation takes a month. The homunculus has the maker's Attributes and mortal-life Skills minus one each, minimum 1; half the maker's Health and one Willpower. It cannot become a ghoul, be Embraced or Blood Bound; feeding on it gives no nourishment and is repellent."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          },
+          {
+            "title": "Homunculus: nature and limitations",
+            "text": "Distinct from a necromancer’s homuncular servant, this stunted, ill-tempered mortal clone is about 60–100 cm tall and has none of its maker’s post-mortem memories. Its mortal Attributes and Skills are one lower, minimum 1, with half the maker’s Health and one Willpower. It cannot become a ghoul, be Embraced or Blood Bound, and feeding on it is repellent and gives no nourishment. Its fingerprints and scientifically tested blood match the maker, but it provides no arcane connection to them. Destroying one can supply convincing DNA evidence of the maker’s death.\n\nIt must obey every command but may obey the letter while frustrating the intent. Others embrace the relationship, receive pleasures their maker could not pursue in life, and may die to protect them. Even resentful ones must obey and can work in daylight. Old-guard Tremere also give homunculi of themselves as apology gifts, placing a screaming, recognizable copy of themselves at a wronged party’s mercy."
+          }
+        ]
+      }
+    }
+  ]
+}

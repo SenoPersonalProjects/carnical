@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-mestre-artes-o",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Mestre Artesão",
+    "en": "Master Craftsman"
+  },
+  "aliases": [
+    "Mestre Artesão",
+    "Master Craftsman"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-mestre-artes-o-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 64",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 64,
+          "printedPage": 62
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Alguns feiticeiros de Sangue buscam adquirir habilidade por meio de sua arte mágica, em vez de buscar a maestria pelo caminho lento e difícil da prática. O feiticeiro bebe uma especialidade de habilidade possuída por um indivíduo talentoso."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue de um sujeito talentoso, objeto de artesanato representativo, como uma agulha, página de um livro, carta de baralho, cinzel, etc., ossos de abutre."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador carboniza os ossos de abutre no fogo e coloca o objeto representativo em uma tigela sobre as chamas. Ele despeja o sangue do indivíduo na tigela, cobrindo-o completamente. Quando os últimos ossos racham e queimam, o vampiro bebe o sangue da tigela, deixando o objeto tocar seus lábios enquanto bebe."
+          },
+          {
+            "title": "Sistema",
+            "text": "Em caso de vitória, o conjurador ganha os pontos e a especialidade do alvo em Erudição, Ofícios, Performance ou Ciência até o nascer do sol. Os pontos substituem, e não se somam, aos que o conjurador já possui. Se o conjurador já possuir essa especialidade, ele ganha um dado extra sobre o dado de especialidade. Em caso de vitória crítica, o Ritual dura uma semana. Em caso de falha total, o conjurador engole acidentalmente o objeto de ofício e sofre 2 de dano de Vitalidade Agravada por ele viajar pelo seu corpo, deixando o objeto espiritualmente furioso por sua perícia ter sido roubada."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Drinks the ability of a talented individual instead of slowly mastering a craft through practice."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Blood from a talented subject, an appropriate craft object such as a needle, written page, playing card or chisel, and vulture bones."
+          },
+          {
+            "title": "Process",
+            "text": "Char the bones in a fire, place the object in a bowl above the flames, cover it with the subject's blood, and drink when the last bones crack and burn, letting the object touch the lips."
+          },
+          {
+            "title": "System",
+            "text": "A win grants the subject's dots and Specialty in the relevant Academics, Craft, Performance or Science Skill until sunrise. The dots replace, rather than add to, the caster's own. If they already have that Specialty, they gain another die beyond its normal bonus. A critical extends the effect to a week. On a total failure they swallow the object and suffer two Aggravated Health damage as it travels through their body, spiritually angered by the theft."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

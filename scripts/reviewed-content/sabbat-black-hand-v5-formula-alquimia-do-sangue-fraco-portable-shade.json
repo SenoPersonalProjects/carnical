@@ -1,0 +1,93 @@
+{
+  "id": "sabbat-black-hand-v5-formula-alquimia-do-sangue-fraco-portable-shade",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Sombra Portátil",
+    "en": "Portable Shade"
+  },
+  "aliases": [
+    "Sombra Portátil",
+    "Portable Shade"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-formula-alquimia-do-sangue-fraco-portable-shade-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 1,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 54",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 54,
+          "printedPage": 53
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Também chamada de protetor solar, foi desenvolvida por seguidores da Trilha do Sol para ampliar a resistência dos sangues-ralos à luz solar. Não oferece imunidade total, mas prolonga a exposição e adia as queimaduras."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal sanguíneo e folhas frescas. Alguns acrescentam filtro solar comercial, sem contribuição comprovada à fórmula."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Vigor + Alquimia."
+          },
+          {
+            "title": "Sistema",
+            "text": "Teste ao ingerir: cada sucesso permite suportar uma hora de luz solar sem dano. Ao pôr do sol, repita a parada contra Dificuldade igual às horas expostas. Falha causa um dano agravado; falha total causa dois, pela luz acumulada fervendo o Sangue."
+          },
+          {
+            "title": "Duração",
+            "text": "Horas iguais aos sucessos, ou até o próximo pôr do sol, o que ocorrer primeiro."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Portable Shade, or even more irreverently, “suntan lotion,” is a formula developed by Cainites on the Path of the Sun to augment a thin-blood’s already substantial resistance to sunlight to near mortal levels. While it doesn’t render the subject completely immune, it extends the time they can endure daylight while masking immediate burns sustained by the sun."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 1."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Ingredients",
+            "text": "Blood of the Alchemist, sanguinic mortal blood, fresh plant leaves. Some alchemists also use various off-the-shelf sunblock ointments in the mix, though it is unknown whether they contribute significantly to the formula.\n\n Dice Pools: Stamina + Alchemy"
+          },
+          {
+            "title": "System",
+            "text": "Make a Stamina + Alchemy test when ingesting the formula. The user is able to endure sunlight without taking damage for a number of hours equal to the number of successes on the test. At sunset, make another test with the same pool, this time with a Difficulty equal to the number of hours spent in daylight. A failure causes the user to sustain a level of aggravated damage, while a total failure has them sustain two, as the accumulated sunlight boils the Blood in their veins."
+          },
+          {
+            "title": "Duration",
+            "text": "A number of hours equal to a Stamina + Alchemy test, or the next sunset, whichever comes first."
+          }
+        ]
+      }
+    }
+  ]
+}

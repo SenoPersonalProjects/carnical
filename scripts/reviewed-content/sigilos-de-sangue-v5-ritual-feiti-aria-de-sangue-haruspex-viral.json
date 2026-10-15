@@ -1,0 +1,94 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-haruspex-viral",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Haruspex Viral",
+    "en": "Viral Haruspex"
+  },
+  "aliases": [
+    "Haruspex Viral",
+    "Haruspex viral",
+    "Viral Haruspex"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-haruspex-viral-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 71",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 71,
+          "printedPage": 69
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Exclusivo dos oráculos da peste (p. 114), esse ritual se concentra no resfriado comum — especificamente na subvariante do rinovírus, a versão mais comum. Como em todos os rituais de oráculo da peste, o conjurador deve hospedar o vírus. Para hospedar um vírus, o vampiro deve beber de um portador mortal da doença dentro de 24\n\nhoras antes de lançar o ritual: depois disso, os germes morrer no Sangue dos Membros. O Haruspex Viral agrega dados sensoriais ou lembranças factuais de todos os mortais em um raio de vinte quilômetros portadores do rinovírus. Se você estiver procurando por alguém, poderá saber se algum mortal resfriado o viu. Se quiser saber um fato específico e não confiar na Wikipédia, pode consultar as memórias de todos na área que estejam com catarro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Rinovírus vivos no sangue do conjurador, um rato, uma tigela ou prato. Oráculos da peste adoram usar tigelas cirúrgicas de aço inoxidável para seus rituais, mas isso não é um requisito rígido."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador mistura seu Sangue equivalente a um Teste de Sangue na tigela com o cérebro do rato e o agita no sentido anti-horário. O vampiro então bebe o sangue enquanto olha para o prato."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória no teste de Ritual produz uma vaga impressão dos dados procurados, sobrepondo-se ou ecoando se mais de um mortal doente estiver olhando ou ouvindo o alvo. Para conhecimento factual, a informação flui para a cabeça do conjurador: “Isso\n\nA loja ficava na Rua 19, mas fechou em 2009, quando o proprietário se divorciou.” Mais sucessos na\n\nDificuldade fornecem visão, conhecimento e ou outros resultados."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Exclusive to plague oracles, gathers perceptions or factual memories from rhinovirus-infected mortals within twenty kilometers. It can discover whether someone with a cold saw a person or remembers a fact, without relying on outside records."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Requirements",
+            "text": "Host living rhinovirus by feeding from a mortal carrier within the previous twenty-four hours; germs die in Kindred Blood afterward."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Living rhinovirus in the caster's Blood, a rat and a bowl or dish; surgical steel is favored but not required."
+          },
+          {
+            "title": "Process",
+            "text": "Mix one Rouse Check of Blood with the rat's brain, stir counterclockwise and drink while gazing at the dish."
+          },
+          {
+            "title": "System",
+            "text": "A win grants a vague impression of the desired information, overlapping if several infected mortals observe the same subject. Factual knowledge flows directly into the caster's mind. More successes beyond Difficulty give clearer vision, knowledge or other results."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

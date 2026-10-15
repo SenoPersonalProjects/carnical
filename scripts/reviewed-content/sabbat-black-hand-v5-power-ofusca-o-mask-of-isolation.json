@@ -1,0 +1,96 @@
+{
+  "id": "sabbat-black-hand-v5-power-ofusca-o-mask-of-isolation",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Máscara do Isolamento",
+    "en": "Mask of Isolation"
+  },
+  "aliases": [
+    "Máscara do Isolamento",
+    "Mask of Isolation"
+  ],
+  "discipline": "Ofuscação",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-power-ofusca-o-mask-of-isolation-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 3,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 49",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 49,
+          "printedPage": 48
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 3,
+          "Dominação": 1
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Máscara de Mil Faces",
+            "Mask of a Thousand Faces"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Impõe Máscara de Mil Faces a uma vítima desavisada, tornando-a irreconhecível até para amigos e familiares. O isolamento pode destruir seus vínculos e recursos até que aceite qualquer saída."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 3; Dominação 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Manipulação + Ofuscação contra Carisma + Sagacidade; exige contato visual."
+          },
+          {
+            "title": "Sistema",
+            "text": "Numa vitória, ninguém reconhece a vítima. Ela pode tentar convencer conhecidos com Autocontrole + Persuasão, mas a apreensão sobrenatural dificulta isso mesmo diante de provas. O efeito depende da ignorância: termina se a vítima descobrir o poder, e não pode ser usado em quem conheça seus efeitos. Como a ativação é discreta, pode ser reaplicado enquanto a intenção permanecer oculta. Usá-lo para destruir alguém normalmente merece Máculas."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite mais uma por sucesso de margem."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Dominate 1\n\nPrerequisite: Mask of a Thousand Faces Subtle but effective, this power forces the effect of Mask of a Thousand Faces on an unwitting subject. The victim will no longer be seen for who they are, even by those closest to them. Often employed over a longer period of time, the power is used by those who want to break their subject subtly but utterly, cutting them off from means and society to the point that they’ll do anything to escape such a fate."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 3; Dominate 1. Powers: Máscara de Mil Faces or Mask of a Thousand Faces."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Manipulation + Obfuscate vs. Charisma + Insight"
+          },
+          {
+            "title": "System",
+            "text": "The user locks eyes with the victim and must then succeed at a Manipulation + Obfuscate vs. Charisma + Insight test. On a win, the effect lasts for one night, plus one for each success in the margin. While under its effect, the victim is treated as employing Mask of a Thousand Faces, and is unable to be recognized by anyone. (The user can try to persuade friends and family with a Composure + Persuade test, but even when presenting proofs, the apprehension caused by this particular power will make it hard to convince them.) If the subject is ever made aware of the power being used on them the effect ends, and the power cannot be employed on someone aware of its effects: It relies on the unconscious ignorance of the victim to remain active. As use of the power isn’t overt, it can be reapplied repeatedly though, so long as the user doesn’t reveal their intent. In most chronicles, use of this power to break someone should merit Stains."
+          },
+          {
+            "title": "Duration",
+            "text": "One night plus one additional night for each success in the margin"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "sabbat-black-hand-v5-power-obl-vio-umbrous-clutch",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Garra Sombria",
+    "en": "Umbrous Clutch"
+  },
+  "aliases": [
+    "Garra Sombria",
+    "Umbrous Clutch"
+  ],
+  "discipline": "Oblívio",
+  "level": 4,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-power-obl-vio-umbrous-clutch-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 4,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 50",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 50,
+          "printedPage": 49
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Abre uma passagem na sombra da vítima: ela cai em Oblívio e reaparece caindo da sombra do usuário. A viagem costuma traumatizar, embora a presa possa reagir violentamente."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 4."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue e uma Mácula."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Raciocínio + Oblívio contra Destreza + Raciocínio."
+          },
+          {
+            "title": "Sistema",
+            "text": "Exige visão clara da vítima e de sua sombra; o usuário também precisa ter sombra. A disputa move a sombra sob o alvo. A critério do Narrador, uma vítima imóvel e desatenta pode ser capturada automaticamente. Mortais desprevenidos ficam aterrorizados e provavelmente catatônicos. Vampiros fazem teste de Frenesi de Fúria ou Terror, à escolha do Narrador, Dificuldade 4."
+          },
+          {
+            "title": "Duração",
+            "text": "Instantânea."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The user creates a temporary gate out of the victim’s own shadow, causing them to fall through Oblivion and into the waiting arms of the user. The victim will appear to fall into their own shadow, only to reappear falling out of the one cast by the user. The brief journey through the end of everything is usually enough to traumatize the victim into submission, though one must be prepared if the quarry responds violently in fear."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 4."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check, Gain one Stain"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Wits + Oblivion vs. Dexterity + Wits"
+          },
+          {
+            "title": "System",
+            "text": "In order to use this power, the vampire needs clear sight of both the victim and their shadow. The vampire’s player or Storyteller then rolls Wits + Oblivion vs. Dexterity + Wits to maneuver the victim’s shadow beneath them, creating a supernatural rift into which they appear to fall. At the Storyteller’s discretion, a stationary victim not paying attention can be automatically caught. A victim caught by this power will then reappear, falling out of the shadow cast by the user. (As with similar powers, the power does not work if the caster is without a shadow.) An unprepared mortal victim will be terrified and likely catatonic, while a vampire must test for fury or fear frenzy, Storyteller’s choice, at Difficulty 4."
+          },
+          {
+            "title": "Duration",
+            "text": "Instant"
+          }
+        ]
+      }
+    }
+  ]
+}

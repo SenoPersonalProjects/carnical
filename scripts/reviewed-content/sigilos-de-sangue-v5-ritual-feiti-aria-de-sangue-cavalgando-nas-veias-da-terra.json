@@ -1,0 +1,90 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-cavalgando-nas-veias-da-terra",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Cavalgando nas Veias da Terra",
+    "en": "Riding the Earth’s Veins"
+  },
+  "aliases": [
+    "Cavalgando nas Veias da Terra",
+    "Cavalgando nas veias da Terra",
+    "Riding the Earth’s Veins"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-cavalgando-nas-veias-da-terra-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 73",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 73,
+          "printedPage": 71
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Se um feiticeiro de Sangue tiver acesso a um furcus, este antigo ritual Banu Haqim serve como último recurso para escapar de inimigos. Há um porém: o conjurador não tem controle sobre onde eles vão parar. Percorrer os trilhos secretos do planeta significa lançar seu destino ao vento, literalmente."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um furcus, um sinal físico de entrada, como um ingresso, uma chave ou uma maçaneta."
+          },
+          {
+            "title": "Processo",
+            "text": "No furcus, o conjurador banha o sinal de entrada com o equivalente a um Teste de Sangue em Sangue enquanto canta louvores a uma divindade ou figura famosa que represente a fuga, a viagem ou o vento. Tradicionalmente, este ritual invoca o deus mesopotâmico Enlil. Após dez minutos, derrama o Sangue no chão."
+          },
+          {
+            "title": "Sistema",
+            "text": "Não faça nenhum teste de Ritual até que o vampiro toque o solo (ou chão) do furcus escolhido.\n\ncom seu sinal físico de entrada. Em caso de vitória, o conjurador se dissolve em uma névoa sangrenta, atraída para as veias da Terra e reincorporada vinte minutos depois em uma furcus escolhida pelo Narrador. Em caso de vitória crítica, ele chega à furcus mais próxima de seu Refúgio ou a um local de poder sintonizado com o conjurador por Tiamat Glistens (p. 64). Este ritual é unidirecional e só é ativado na furcus específica onde o feiticeiro o conjurou pela primeira vez."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "An old Banu Haqim escape ritual uses a furcus to ride the planet's secret paths, but the destination is beyond the caster's control."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A furcus and a physical entrance token such as a ticket, key or doorknob."
+          },
+          {
+            "title": "Process",
+            "text": "At that furcus, bathe the token in one Rouse Check of Blood, invoke a patron of escape, travel or wind (traditionally Enlil), and pour the Blood onto the ground after ten minutes."
+          },
+          {
+            "title": "System",
+            "text": "Roll only when touching the chosen furcus's ground or floor with the token. A win dissolves the caster into bloody mist and restores them twenty minutes later at a furcus chosen by the Storyteller. A critical instead reaches the furcus nearest their Haven or a place attuned through Tiamat Glistens. This is one-way and only activates at the specific furcus where prepared."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

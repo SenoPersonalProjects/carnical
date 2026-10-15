@@ -1,0 +1,89 @@
+{
+  "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-blood-to-water",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Sangue em Água",
+    "en": "Blood to Water"
+  },
+  "aliases": [
+    "Sangue em Água",
+    "Blood to Water"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-blood-to-water-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 1,
+      "sourceTitle": "Gehenna War V5, PDF pp. 50",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 50,
+          "printedPage": 48
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Transmuta sangue derramado em água, apagando vestígios."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Água pura de nascente ou purificada mecanicamente."
+          },
+          {
+            "title": "Processo",
+            "text": "Unte as mãos com o próprio Sangue, derrame água por entre os dedos e espalhe-a no cômodo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória transforma em água todo sangue exposto ao ar, inclusive o próprio Sangue derramado durante o ritual, sem deixar vestígios. Afeta uma área do tamanho aproximado de uma sala de estar; espaços maiores exigem novas conjurações."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The Kindred pours purified water through their bloody fingers, transmuting all spilled blood in the area into water."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Pure water, whether from a natural spring or purified mechanically."
+          },
+          {
+            "title": "Process",
+            "text": "The ritualist smears their own Blood on their hands, pours water through their fingers, and splatters it about the room."
+          },
+          {
+            "title": "System",
+            "text": "If the ritual is successful, blood (including the performer’s spilled Blood) exposed to the air is transmuted into water, leaving no traces behind. The ritual affects a space roughly the size of a living room. Larger spaces require repeated performances to cleanse."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

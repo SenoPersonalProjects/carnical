@@ -1,0 +1,85 @@
+{
+  "id": "gehenna-war-v5-power-feiti-aria-de-sangue-blood-s-curse",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Maldição do Sangue",
+    "en": "Blood’s Curse"
+  },
+  "aliases": [
+    "Maldição do Sangue",
+    "Blood’s Curse"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-power-feiti-aria-de-sangue-blood-s-curse-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 2,
+      "sourceTitle": "Gehenna War V5, PDF pp. 50",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 50,
+          "printedPage": 48
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Espessa temporariamente o Sangue de um adversário, agravando sua Fraqueza de clã."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Inteligência + Feitiçaria de Sangue contra Vigor + Ocultismo ou Fortitude."
+          },
+          {
+            "title": "Sistema",
+            "text": "Afeta outro vampiro ou carniçal. Uma vitória acrescenta dois à Potência de Sangue do alvo, ou quatro num crítico, somente para Severidade da Fraqueza e penalidades de alimentação dos vampiros. Carniçais, Caitiff e sangues-ralos recebem uma Fraqueza determinada pelo Narrador a partir do clã do último vampiro de que beberam ou de sua ascendência."
+          },
+          {
+            "title": "Duração",
+            "text": "Até o amanhecer."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire temporarily thickens an adversary’s Blood, amplifying their clan Bane."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: Intelligence + Blood Sorcery vs Stamina + Occult or Fortitude"
+          },
+          {
+            "title": "System",
+            "text": "The user targets another vampire or ghoul. On a win, add two (or four on a critical win) to the victim’s Blood Potency for purposes of Bane severity and feeding penalty (for vampires) only. When targeting a ghoul, Caitiff, or thin-blood, the target gains a clan Bane based on the clan of the vampire they most recently fed from or their own ancestry, as determined by the Storyteller."
+          },
+          {
+            "title": "Duration",
+            "text": "Until dawn"
+          }
+        ]
+      }
+    }
+  ]
+}

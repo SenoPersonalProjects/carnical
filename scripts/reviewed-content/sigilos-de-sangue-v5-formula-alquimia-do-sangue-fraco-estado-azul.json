@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-estado-azul",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Estado Azul",
+    "en": "Blue State"
+  },
+  "aliases": [
+    "Estado Azul",
+    "Blue State"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-estado-azul-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 78",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 78,
+          "printedPage": 76
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Um elixir que altera a mente, com uma cor cobalto lamacenta, que quando administrado a um alvo ou aplicado em sua pele, o força a contemplar de má vontade e obsessivamente a próxima coisa errada que um de seus amigos ou aliados fará."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal melancólico e fleumático, cobalto."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Alguém sob os efeitos do Estado Azul não consegue perdoar. Na próxima vez que um amigo ou aliado violar as Convicções do alvo, o alvo sofre 1 Mácula. Um alvo mortal apenas guarda um rancor aparentemente irracional e intratável."
+          },
+          {
+            "title": "Duração",
+            "text": "A mancha permanece até que os personagens tenham, pelo menos, uma conversa muito desconfortável."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A muddy cobalt-blue elixir, ingested or applied to skin, makes the subject obsess resentfully over the next wrong committed by a friend or ally."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, melancholy and phlegmatic mortal blood and cobalt."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "The subject cannot forgive: when a friend or ally next violates the subject's Convictions, the subject gains one Stain. A mortal instead holds a seemingly irrational, intractable grudge."
+          },
+          {
+            "title": "Duration",
+            "text": "The Stain remains until the characters have at least a very uncomfortable conversation, as the source specifically states."
+          }
+        ]
+      }
+    }
+  ]
+}

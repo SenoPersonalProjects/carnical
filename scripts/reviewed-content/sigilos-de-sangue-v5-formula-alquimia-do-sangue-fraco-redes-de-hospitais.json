@@ -1,0 +1,103 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-redes-de-hospitais",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Correntes Hospitalares",
+    "en": "Hospital Chains"
+  },
+  "aliases": [
+    "Correntes Hospitalares",
+    "Redes de Hospitais",
+    "Redes de hospitais",
+    "Hospital Chains"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-redes-de-hospitais-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 78, 79",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 78,
+          "printedPage": 76
+        },
+        {
+          "pdfPage": 79,
+          "printedPage": 77
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Correntes Hospitalares impedem que Membros e mortais se recuperem de ferimentos. Porque às vezes, quando você ensina uma lição a alguém, você quer dar a ele um guia de estudo para garantir que a lição grude. O elixir assume a forma de uma saliva vermelha e fibrosa para ser expectorada ou espirrou na vítima."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal fleumático, amostra de um carcinoma fatal, ácido fluorídrico."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Parada",
+            "text": "Rolagem de Destilação vs. Vigor"
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vez que as Redes Hospitalares tocam em uma pessoa ferida, elas não conseguem curar ferimentos físicos de forma alguma. Sangue é infundido em vão; visitas ao hospital não trazem nenhuma melhora, apenas contas."
+          },
+          {
+            "title": "Duração",
+            "text": "A restrição de melhoria dura 2 dias por ponto de margem; em uma vitória crítica, ela dura 2 dias para cada sucesso no teste de Destilação."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A fibrous red spit or splash prevents Kindred and mortals from recovering wounds, prolonging a lesson in injury."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, phlegmatic mortal blood, a sample of fatal carcinoma and hydrofluoric acid."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Distillation roll versus Stamina."
+          },
+          {
+            "title": "System",
+            "text": "Once it touches an injured subject, they cannot heal physical wounds by any means. Infused Blood is wasted and hospital treatment yields no improvement."
+          },
+          {
+            "title": "Duration",
+            "text": "Two days per point of margin; on a critical win, two days per distillation success."
+          }
+        ]
+      }
+    }
+  ]
+}

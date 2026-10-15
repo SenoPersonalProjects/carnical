@@ -1005,6 +1005,13 @@
           "image": "/source-pages/gehenna-war-v5/0052.webp",
           "width": 1500,
           "height": 1938
+        },
+        {
+          "pdfPage": 53,
+          "printedPage": 51,
+          "image": "/source-pages/gehenna-war-v5/0053.webp",
+          "width": 1500,
+          "height": 1938
         }
       ]
     },
@@ -1170,6 +1177,20 @@
           "pdfPage": 83,
           "printedPage": 81,
           "image": "/source-pages/sigilos-de-sangue-v5/0083.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 135,
+          "printedPage": 133,
+          "image": "/source-pages/sigilos-de-sangue-v5/0135.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 136,
+          "printedPage": 134,
+          "image": "/source-pages/sigilos-de-sangue-v5/0136.webp",
           "width": 1500,
           "height": 1920
         }

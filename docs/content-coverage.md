@@ -7,7 +7,7 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 129 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 213 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
@@ -21,9 +21,9 @@ na mesma entrada quando sua identificação é inequívoca.
 | Chicago by Night | Lasombra e os nove poderes de Oblívio, incluindo as regras gerais da Disciplina | Loresheets e demais opções pendentes |
 | Camarilla | Nenhuma descrição revisada no novo catálogo | Pendente |
 | Anarch | Nenhuma descrição revisada no novo catálogo | Pendente |
-| Sabbat | Nenhuma descrição revisada no novo catálogo | Pendente |
-| Gehenna War | Nenhuma descrição revisada no novo catálogo | Pendente |
-| Sigilos de Sangue | Nenhuma descrição revisada no novo catálogo | Pendente |
+| Sabbat | Seção de Disciplinas e magia: 8 poderes, 4 Rituais, 3 Cerimônias e 2 fórmulas | Demais opções e revisão integral da biblioteca pendentes |
+| Gehenna War | Seção de Disciplinas e magia: 10 poderes, 5 Rituais, 1 Cerimônia e 3 fórmulas antes ausentes | Demais opções e revisão integral da biblioteca pendentes |
+| Sigilos de Sangue | Seção de magia: 24 Rituais, 20 fórmulas e 4 escolhas de elemento de Feitiçaria Koldúnica; níveis de três Rituais corrigidos | Demais opções e revisão integral da biblioteca pendentes |
 
 O catálogo anterior e suas referências continuam disponíveis. A tabela descreve
 apenas a nova camada de descrições revisadas, não todas as opções já selecionáveis.

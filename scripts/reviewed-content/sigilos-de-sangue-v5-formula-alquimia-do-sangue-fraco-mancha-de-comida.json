@@ -1,0 +1,94 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-mancha-de-comida",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Mancha de Comida",
+    "en": "Food Smear"
+  },
+  "aliases": [
+    "Mancha de Comida",
+    "Mancha de comida",
+    "Food Smear"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-mancha-de-comida-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 76, 77",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 76,
+          "printedPage": 74
+        },
+        {
+          "pdfPage": 77,
+          "printedPage": 75
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Semelhante ao ketchup, este elixir deixa uma marca em um pessoa que o consome ou é ungida com ele. O alquimista pode facilmente dizer se alguém bebe mais tarde o sangue do indivíduo marcado."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal melancólico, algum tempero altamente colorido, como molho barbecue, mostarda, pó sabor queijo provolone, etc."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "Se alguém — mortal ou Membro — for marcado pelo consumo ou contato com esta gosma, o próximo indivíduo que se alimentar deles se tornará óbvio para o alquimista que o fez. Óbvio significa que se virem, ouvirem ou sentirem o cheiro daquela pessoa, eles saberão. No raro caso de o alquimista possuir pelo menos Auspícios 2, ele se torna ciente no instante em que a alimentação ocorre. Além disso, por cerca de uma hora depois, ele sabe a direção em direção ao bebedor, mas não a distância."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma vez criado, o potencial místico da substância persiste até ser consumido ou aplicado, mas começa a cheirar muito mal depois de uma semana, mesmo se refrigerado."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A ketchup-like elixir marks its drinker or anointed subject so the alchemist can identify whoever later feeds on them."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, melancholy mortal blood and a strongly colored condiment such as barbecue sauce, mustard or powdered cheese flavoring."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "After consumption or contact marks a mortal or Kindred, the next person who feeds on them becomes recognizable to the maker by sight, sound or smell. If the alchemist has Auspex 2 or more, they know immediately when feeding occurs and, for about an hour, the feeder's direction but not distance."
+          },
+          {
+            "title": "Duration",
+            "text": "The unconsumed or unapplied substance retains its mystical potential, but smells terrible after a week even refrigerated."
+          }
+        ]
+      }
+    }
+  ]
+}

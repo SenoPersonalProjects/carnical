@@ -1,0 +1,85 @@
+{
+  "id": "sabbat-black-hand-v5-power-feiti-aria-de-sangue-reclamation-of-vitae",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Retomada de Vitae",
+    "en": "Reclamation of Vitae"
+  },
+  "aliases": [
+    "Retomada de Vitae",
+    "Reclamation of Vitae"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-power-feiti-aria-de-sangue-reclamation-of-vitae-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 5,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 51",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 51,
+          "printedPage": 50
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Reclama à distância a vitae oferecida a carniçais, destruindo seus corpos para recuperar uma reserva de sangue. Anciões do Sabbat podem manter servos somente para esse fim."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Uma ou mais Máculas ao chamar o Sangue de volta; não exige Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Concentre-se por um turno e escolha os próprios carniçais que pagarão a dívida. Presença e distância são irrelevantes. Cada carniçal sacia dois níveis de Fome e recebe cinco danos agravados, envelhecendo rápida e irregularmente enquanto a vitae o abandona. Fora do Sabbat, o uso deve merecer Máculas."
+          },
+          {
+            "title": "Duração",
+            "text": "A fonte não fixa duração além da concentração para usar."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "No matter the distance, Blood calls to Blood. Working on that principle, this power allows a vampire to reclaim Blood that has been yielded to create ghouls, reclaiming that which has been given. Regardless of where they are, ghouls of the vampire will find the life-giving vitae in their veins rebelling within them, returning through mystical means to its source, while their bodies suffer catastrophic damage. Sabbat elders have been known to keep ghouls for this express purpose, an emergency reserve available anywhere at any time, at the trifling cost of a few mortal lives."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Cost",
+            "text": "One or more Stains (when called to return)"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "None"
+          },
+          {
+            "title": "System",
+            "text": "The user concentrates for a turn and choses which of their servants are to repay their Blooddebt. The ghouls do not need to be present, and distance doesn’t matter. The vampire sates two Hunger for each ghoul, while the ghoul suffers five levels of aggravated damage as their body ages irregularly and rapidly, the undead Blood inside them feeling as if it were attempting to violently vacate them. While the power does not require the vampire to Rouse the Blood it should, if ever learned by someone outside the Sabbat, merit Stains to employ."
+          },
+          {
+            "title": "Duration",
+            "text": "N/A"
+          }
+        ]
+      }
+    }
+  ]
+}

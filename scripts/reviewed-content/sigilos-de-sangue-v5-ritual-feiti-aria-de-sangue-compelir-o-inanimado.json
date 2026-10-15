@@ -1,0 +1,93 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-compelir-o-inanimado",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Compelir o Inanimado",
+    "en": "Compel the Inanimate"
+  },
+  "aliases": [
+    "Compelir o Inanimado",
+    "Compel the Inanimate"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-compelir-o-inanimado-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 71, 72",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 71,
+          "printedPage": 69
+        },
+        {
+          "pdfPage": 72,
+          "printedPage": 70
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este ritual permite que um vampiro assuma o controle de um objeto por um único momento, com tempo suficiente para se afastar e negar a plausibilidade."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Qualquer objeto inanimado."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador espalha um glifo em um objeto inanimado com o equivalente a um Teste de Sangue de seu Sangue.\n\ne dá uma ordem rápida ao objeto. Após o Sangue do conjurador secar em sua superfície (cerca de cinco minutos), o objeto executa a ordem da melhor maneira possível."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória no teste de Ritual permite que o objeto entenda sua ordem conforme o conjurador pretendia. Uma vitória crítica permite uma ordem adicional, que não precisa ser executada exatamente no mesmo horário que a primeira ordem, mas deve ser executada antes do final da noite.\n\nAs ordens devem ser comandos simples, não frases complexas: caia, quebre ou apague seus bancos de dados. Objetos não têm noções de tempo e não conseguem reconhecer pessoas individualmente, portanto, ordens referentes a um tempo ou pessoa específica não podem ser executadas perfeitamente. O conjurador deve estar no mesmo ambiente relativo que o objeto quando a ordem é executada, como um conjurador que ordena que um poste de luz em um parque se apague ainda deve estar no parque. que comanda uma armadura de museu para cair deve estar naquele museu, etc. Sentir o Invisível (Auspex 1) pode detectar o conjurador com uma disputa de Raciocínio + Auspícios contra Autocontrole + Feitiçaria de Sangue do conjurador."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Briefly commands an object, with enough delay for the caster to leave and claim plausible deniability."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Any inanimate object."
+          },
+          {
+            "title": "Process",
+            "text": "Smear a glyph with one Rouse Check of Blood and give a quick command. When the Blood dries, around five minutes later, the object obeys as best it can."
+          },
+          {
+            "title": "System",
+            "text": "A win lets the object understand the intended command; a critical adds a second, which may occur at another time but before night's end. Commands must be simple: fall, break or erase your databases, not complex sentences. Objects cannot recognize particular people or time precisely. The caster must remain in the same relative environment (the park for a park lamp, the museum for its armor) when the command is performed. Sense the Unseen can locate the caster with Wits + Auspex against their Composure + Blood Sorcery."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

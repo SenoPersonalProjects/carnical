@@ -1,0 +1,127 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-ataque-elemental",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Ataque Elemental",
+    "en": "Elemental Attack"
+  },
+  "aliases": [
+    "Ataque Elemental",
+    "Elemental Attack"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-ataque-elemental-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 5,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 73, 74",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 73,
+          "printedPage": 71
+        },
+        {
+          "pdfPage": 74,
+          "printedPage": 72
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Feitiçaria Koldúnica: Água",
+            "Feitiçaria Koldúnica: Fogo",
+            "Feitiçaria Koldúnica: Ar",
+            "Feitiçaria Koldúnica: Terra",
+            "Feitiçaria Koldúnica",
+            "Koldunic Sorcery"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este ritual koldúnico comanda seu elemento para atacar um alvo: avalanche ou subsidência repentina ou queda de árvore, enchente repentina ou tromba d'água, raio ou sufocamento, explosão de gás ou incêndio elétrico repentino."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria Koldúnica"
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma arma que representa ou é feita do elemento, como um porrete de madeira, um pingente de gelo, uma faca de ferro meteórico, uma tocha, etc."
+          },
+          {
+            "title": "Processo",
+            "text": "Empunhando a arma, o koldun abre sua cicatriz de iniciação e realiza um Teste de Sangue enquanto comanda o elemento para atacar um alvo que o koldun perceba. A percepção mágica conta para isso. propósito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Em caso de vitória, o elemento ataca o alvo. Se o elemento já estiver desperto durante o lançamento (comandando o ar durante uma tempestade, por exemplo), o koldun adiciona um dado à sua reserva de Ritual. O alvo sofre um ponto de dano de Vitalidade Agravada por sucesso, e o mesmo dano novamente a cada rodada subsequente até vencer uma disputa de fuga apropriada (por exemplo, Destreza + Atletismo) contra a Determinação + Feitiçaria de Sangue do koldun. Com exceção do fogo, os elementos causam apenas dano superficial aos vampiros, mas ainda podem soterrá-los, carregálos em uma enchente ou tornado, etc. Em uma vitória crítica, o elemento ataca qualquer alvo adequado, a critério do conjurador, dentro do campo de visão do alvo principal. O efeito continua até que o koldun faça qualquer outra coisa além de comandar os elementos: lutar, mover-se, fazer qualquer outro teste de perícia, etc."
+          },
+          {
+            "title": "Ritual em Cadeia",
+            "text": "Quando encadeado com Agarramento Elemental\n\n(p. 62) e Brilho de Tiamat (p. 64), este ritual libera um efeito elemental quase apocalíptico: terremoto, tsunami, tornado, fluxo de magma, etc. O dano aos alvos dobra, mas o dano colateral fica totalmente fora de controle e continua até que os kolduny parem de conjurar."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          },
+          {
+            "title": "Regras gerais dos Rituais em Cadeia",
+            "text": "Uma cadeia reúne ao menos três Rituais, de quaisquer níveis, com um Ritual de nível 5 como eixo. Todos devem ser conjurados a até dez metros uns dos outros e todos precisam ter sucesso. O efeito em cadeia do eixo substitui os efeitos individuais; uma única falha rompe a cadeia."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Commands an element to attack with landslides, falling trees, floods, waterspouts, lightning, suffocation, gas explosions or fire."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Requirements",
+            "text": "Koldunic Sorcery, with the appropriate element."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A weapon made of or representing the element, such as a wooden club, icicle, meteoric iron knife or torch."
+          },
+          {
+            "title": "Process",
+            "text": "Open the initiation scar with the weapon and make a Rouse Check while commanding the element against a perceived target; magical perception qualifies."
+          },
+          {
+            "title": "System",
+            "text": "A win inflicts one Aggravated Health damage per success, repeated each following turn until the victim wins an appropriate escape contest (such as Dexterity + Athletics) against the koldun's Resolve + Blood Sorcery. Other than fire, elements cause only Superficial damage to vampires, but may still bury or carry them away. An already active element adds one Ritual die. A critical affects appropriate targets chosen by the caster within sight of the main victim. Doing anything else, including moving, fighting or another Skill test, ends the effect."
+          },
+          {
+            "title": "Chain",
+            "text": "With Elemental Grasp and Tiamat Glistens, creates near-apocalyptic earthquakes, tsunamis, tornadoes or magma flows. Target damage doubles, but collateral damage is uncontrolled until the kolduny stop casting."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          },
+          {
+            "title": "General chained Ritual rules",
+            "text": "A chain comprises at least three Rituals of any level, with a level 5 Ritual as its hub. All must be cast within ten meters of one another and all must succeed. The hub’s chained effect replaces the individual effects; any failure breaks the chain."
+          }
+        ]
+      }
+    }
+  ]
+}

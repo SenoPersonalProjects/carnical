@@ -1,0 +1,93 @@
+{
+  "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-reawakened-vigor",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Vigor Redespertado",
+    "en": "Reawakened Vigor"
+  },
+  "aliases": [
+    "Vigor Redespertado",
+    "Reawakened Vigor"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-reawakened-vigor-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 5,
+      "sourceTitle": "Gehenna War V5, PDF pp. 51",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 51,
+          "printedPage": 49
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Recupera Potência de Sangue perdida em torpor prolongado, por meio de um segredo supostamente guardado pelos Tremere e alguns Inconnu."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Vitae do feiticeiro equivalente a cinco ou mais Testes de Sangue, recipiente cerâmico de bom acabamento e chumbo derretido."
+          },
+          {
+            "title": "Processo",
+            "text": "Coloque a vitae no recipiente, vede com chumbo e sigilos de sangue e enterre num local de poder."
+          },
+          {
+            "title": "Custo e preparo",
+            "text": "Deposite ao menos cinco Testes de Sangue de vitae. Pode parar para alimentar-se, mas uma interrupção maior que uma hora faz o Ritual falhar; mantenha as fontes de sangue próximas."
+          },
+          {
+            "title": "Sistema",
+            "text": "Forma uma esfera cor de ferrugem contendo vitae concentrada. Consumida com sucesso no teste de Ritual, restaura um ponto de Potência de Sangue perdido por torpor, mais um por sucesso de margem. Sem perda anterior por torpor, não tem efeito. Outro vampiro que beba, além do conjurador, testa Vigor + Feitiçaria de Sangue ou Fortitude, Dificuldade 6; cada ponto de margem de falha causa um dano agravado à Vitalidade. Só pode manter um uso ativo por vez. Após desenterrada, perde potência ao amanhecer."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Vampires awakening from torpor often lose the potency of their Blood, particularly in cases of extended dormancy. This Ritual allows the awakened vampire to regain their power quicker, though it is a closely guarded secret supposedly passed around by the Tremere and a few Inconnu."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Ingredients",
+            "text": "5 or more Rouse Checks worth of the sorcerer’s vitae, a finely crafted ceramic receptacle, molten lead"
+          },
+          {
+            "title": "Process",
+            "text": "The sorcerer pours their vitae into the receptacle, stoppers it with lead and bloody sigils, and buries it in a place of power."
+          },
+          {
+            "title": "System",
+            "text": "The Sorcerer places at least 5 Rouse Checks worth of Blood into the receptacle. They may stop to feed while enacting this Ritual, but the ritual fails if interrupted for more than an hour, meaning any vessels needed to slake Hunger must be kept close at hand. On completing the task, the vampire crafts a rust-colored orb containing a small amount of their concentrated vitae. If this vitae is consumed (and on a successful ritual test), it restores one point of Blood Potency lost due to Torpor. For each success in the margin, another lost point of Blood Potency can be restored. If no Blood Potence has been lost to torpor, the ritual has no effect on the user. Any vampire other than the ritualist drinking the essence must test Stamina + Blood Sorcery or Fortitude against a difficulty of 6. For each point of margin of failure, they suffer one Aggravated Health damage. A sorcerer can only have one active use of this ritual cast at a time, and it loses potency at dawn once unearthed."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

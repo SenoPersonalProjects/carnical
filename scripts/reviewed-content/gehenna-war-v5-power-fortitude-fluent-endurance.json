@@ -1,0 +1,73 @@
+{
+  "id": "gehenna-war-v5-power-fortitude-fluent-endurance",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Resistência Fluente",
+    "en": "Fluent Endurance"
+  },
+  "aliases": [
+    "Resistência Fluente",
+    "Fluent Endurance"
+  ],
+  "discipline": "Fortitude",
+  "level": 1,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-power-fortitude-fluent-endurance-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 1,
+      "sourceTitle": "Gehenna War V5, PDF pp. 48",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 48,
+          "printedPage": 46
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Fortitude": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Invoca a resistência sobrenatural com menos risco de aumentar a Fome."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Fortitude 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sempre que usar Impulso de Sangue para ampliar um teste de Vigor ou Fortitude, pode rerrolar o Teste de Sangue. A aplicação às ferramentas de sessão permanece manual."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire is able to call upon their supernatural resilience effortlessly, and rarely tempt their Hunger when doing so."
+          },
+          {
+            "title": "Requirements",
+            "text": "Fortitude 1."
+          },
+          {
+            "title": "Cost",
+            "text": "None"
+          },
+          {
+            "title": "System",
+            "text": "Whenever the vampire uses a Blood Surge to augment a Stamina or Fortitude test, they may reroll the Rouse Check."
+          }
+        ]
+      }
+    }
+  ]
+}

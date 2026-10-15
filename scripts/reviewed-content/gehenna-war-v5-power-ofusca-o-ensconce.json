@@ -1,0 +1,85 @@
+{
+  "id": "gehenna-war-v5-power-ofusca-o-ensconce",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Ocultar Objetos",
+    "en": "Ensconce"
+  },
+  "aliases": [
+    "Ocultar Objetos",
+    "Ensconce"
+  ],
+  "discipline": "Ofuscação",
+  "level": 1,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-power-ofusca-o-ensconce-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 1,
+      "sourceTitle": "Gehenna War V5, PDF pp. 48, 49",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 48,
+          "printedPage": 46
+        },
+        {
+          "pdfPage": 49,
+          "printedPage": 47
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Faz observadores ignorarem objetos pequenos nas mãos ou no corpo do vampiro; não torna invisível algo em plena vista."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum."
+          },
+          {
+            "title": "Sistema",
+            "text": "Pode esconder objetos pequenos que caibam na mão em quantidade igual à Ofuscação. Mortais ignoram objetos perigosos ou estranhos e deixam de encontrá-los em revistas. Sentir o Invisível e outros sentidos sobrenaturais podem detectá-los normalmente. Não esconde objetos em plena vista nem criaturas animadas."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The vampire is able to supernaturally conceal small objects in their hands or on their person. The power doesn’t make visible objects invisible. Rather, it makes a searcher ignore them when they’d otherwise notice."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 1."
+          },
+          {
+            "title": "Cost",
+            "text": "None"
+          },
+          {
+            "title": "System",
+            "text": "The Kindred can hide a number of small, hand-held objects in their hands or on their person equal to their Obfuscate rating. Mortals ignore dangerous or out-of-place objects that the user is enshrouding or miss them in a search. Kindred with Sense the Unseen or others with supernatural senses can attempt to notice them as usual. Objects in plain view cannot be hidden by this power, nor can animate creatures."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene"
+          }
+        ]
+      }
+    }
+  ]
+}

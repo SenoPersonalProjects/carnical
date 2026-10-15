@@ -1,0 +1,94 @@
+{
+  "id": "sabbat-black-hand-v5-ceremony-obl-vio-harrowhaunt",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Assombração Atormentada",
+    "en": "Harrowhaunt"
+  },
+  "aliases": [
+    "Assombração Atormentada",
+    "Harrowhaunt"
+  ],
+  "discipline": "Oblívio",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-ceremony-obl-vio-harrowhaunt-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 3,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 53",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 53,
+          "printedPage": 52
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 3
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Aura of Decay"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Impregna um local com um terror sufocante, usado pelo Sabbat para afastar visitantes dos refúgios comunais. Mortais buscam desculpas para evitá-lo; vampiros também são afetados."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Mortais submetidos a terror e sofrimento extremos; quanto mais, melhor, conforme a fonte."
+          },
+          {
+            "title": "Processo",
+            "text": "Confine mortais no local e torture-os até morrer. Prenda os restos fragmentados de suas almas ao lugar, enterrando seus ossos, para compartilhar o tormento com visitantes indesejados."
+          },
+          {
+            "title": "Sistema",
+            "text": "A área pode chegar a um prédio de dois andares. Mortais que entram fazem Autocontrole + Determinação a cada turno para permanecer: falha os leva a procurar uma desculpa para sair; falha total, a fugir aos gritos. Vampiros fazem teste de Frenesi de Terror a cada cena ali. A fonte não determina Dificuldade para esses testes nem duração fixa da assombração."
+          },
+          {
+            "title": "Regras gerais de Cerimônias",
+            "text": "Salvo exceção específica: um Teste de Sangue, 15 minutos, Determinação + Oblívio, Dificuldade 4. Aprender custa 9 XP e exige Oblívio 3 e o poder pré-requisito. Durante o jogo, exige professor e ao menos 9 semanas. Sangues-ralos não recebem Cerimônias. Os efeitos são resolvidos manualmente."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Some places seem haunted, raising the hackles of mortal and vampire alike. A place Harrowhaunted is in a different league. Places subjected to this Ceremony convey a sense of such miasmic dread that most breathing creatures find it hard to, well, breathe, let alone stay. Sabbat vampires often use this to discourage unwanted visitors from lingering in the proximity of their communal havens. While it won’t scare away encroaching vampires, most mortals will unconsciously take the long road around it, or make up excuses for why they’ll check up on the rumors surrounding the place “tomorrow... probably.”\n\nPrerequisite: Aura of Decay"
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 3. Powers: Aura of Decay."
+          },
+          {
+            "title": "Ingredient",
+            "text": "Mortals subjected to abject terror and suffering. The more the merrier."
+          },
+          {
+            "title": "Process",
+            "text": "It starts with a “party.” A number of mortals are confined to the place and inflicted with terror and torture that ends with their death. But this is no mercy. The broken remains of their souls, scarcely more than fear-urges and sublime revulsion, are bound to the place, their bones buried in the ground, and made to share their torment with anyone who enters uninvited."
+          },
+          {
+            "title": "System",
+            "text": "Mortals entering the vicinity (anything up to a two-story building) are beset by an irrational terror, requiring a Composure + Resolve test each turn to remain. If they fail they will indulge any excuse to leave, or run shrieking on a total failure. Vampires are less affected, but each scene spent in the location requires a test for fear frenzy."
+          },
+          {
+            "title": "General Ceremony rules",
+            "text": "Unless specifically overridden: one Rouse Check, 15 minutes, Resolve + Oblivion, Difficulty 4. Learning costs 9 XP and requires Oblivion 3 and the prerequisite power. Learning during play requires a teacher and at least 9 weeks. Thin-bloods do not receive Ceremonies. Effects remain manually resolved."
+          }
+        ]
+      }
+    }
+  ]
+}

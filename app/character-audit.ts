@@ -1,7 +1,7 @@
 import {sameContent} from "./content/resolve";
 import {CONTENT_INDEX} from "./content/resolve";
 import {itemEligibility} from "./content/item-eligibility";
-import { creationMagicEligibility, powersForSources, knowsPower } from "./content/power-eligibility";
+import { creationMagicEligibility, powersForSources, powerRequirementReasons } from "./content/power-eligibility";
 import { normalizeActiveSourcebooks } from "./creation-sources";
 import { resolutionComplete } from "./predator-choices";
 import { readAnchors, type Anchor } from "./anchors";
@@ -76,7 +76,8 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
       const power=powerCatalog.find(item=>item.discipline===disciplineName&&sameContent(item.name,name,{discipline:disciplineName}));
       if(!power){add({id:`homebrew-power-${disciplineName}-${name}`,kind:"info",title:`Poder personalizado: ${name}`,detail:`Este nome não está no catálogo indexado de ${disciplineName}. Ele foi preservado como conteúdo personalizado.`});continue}
       if(power.level>dots)add({id:`power-level-${power.id}`,kind:"warning",title:`${power.name} acima do nível de ${disciplineName}`,detail:`A opção é de nível ${power.level}, mas a ficha tem ${disciplineName} ${dots}.`,source:power.source});
-      if(power.prerequisite&&!knowsPower(data.disciplinePowers||{},power.prerequisite))add({id:`power-prerequisite-${power.id}`,kind:"warning",title:`${power.name} sem ${power.prerequisite}`,detail:"A opção exige conhecer o poder indicado como pré-requisito.",source:power.source});
+      const requirements=powerRequirementReasons(power,data.disciplinePowers||{},character.clan);
+      if(requirements.length)add({id:`power-prerequisite-${power.id}`,kind:"warning",title:`Requisitos de ${power.name}`,detail:requirements.join(" · "),source:power.source});
       if(power.kind==="ceremony"&&character.clan==="Sangue-Ralo")add({id:`ceremony-thin-blood-${power.id}`,kind:"warning",title:"Cerimônia em ficha de Sangue-Ralo",detail:"Sangues-ralos podem obter acesso temporário a poderes de Oblívio, mas não a Cerimônias. A escolha existente foi preservada para revisão com o Narrador.",source:power.source});
       if(power.kind&&power.kind!=="power"&&!paidPurchases.some(item=>item.kind===power.kind&&item.name===power.name)){
         const free=creationMagicEligibility(power,data.disciplines||{},data.disciplinePowers||{},activeSources,freeMagic,character.clan);

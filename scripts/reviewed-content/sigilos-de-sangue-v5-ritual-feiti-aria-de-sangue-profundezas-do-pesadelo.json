@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-profundezas-do-pesadelo",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Profundezas do Pesadelo",
+    "en": "Depths of Nightmare"
+  },
+  "aliases": [
+    "Profundezas do Pesadelo",
+    "Depths of Nightmare"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-profundezas-do-pesadelo-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 64",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 64,
+          "printedPage": 62
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este ritual causa aos alvos os piores pesadelos que eles já vivenciaram. Desenvolvido pelo culto de Set para punir seguidores recalcitrantes com pesadelos de Duat, o ritual se popularizou por ser muito eficaz em enfraquecer a vontade do alvo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Cabelo de alvo; cera derretida; natrão (carbonato de sódio)"
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador mistura sangue equivalente a um Teste de Sangue na cera derretida e, em seguida, enrola o cabelo do alvo na mistura. O vampiro molda a cera ensanguentada em um formato humanoide, o mais próximo possível do formato do corpo do alvo. Após escrever glifos ou maldições em sua língua nativa, o feiticeiro mergulha a estatueta em uma tigela com água misturada com natrão."
+          },
+          {
+            "title": "Sistema",
+            "text": "Em caso de vitória, o alvo recebe um número de dias cheios de pesadelos (ou noites, para alvos mortais) igual ao número de sucessos obtidos. Ao despertar após cada sono, o alvo recebe 1 de dano de Força de Vontade Superficial. Em caso de vitória crítica, o dano é Agravado. Este dano não pode ser curado normalmente até que o feitiço tenha terminado: somente magia ou algo semelhante pode remover o choque e o horror desses sonhos. Em caso de falha total, o alvo não apenas tem sonhos agradáveis, mas também sonha com um homem com cabeça de íbis que aponta o alvo na direção do conjurador. Isso ocorre mesmo que o conjurador não tenha usado nenhuma imagem kemética na estatueta."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A Setite punishment depicting nightmares of Duat, now widespread for its ability to undermine a victim's will."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The target's hair, melted wax and natron (sodium carbonate)."
+          },
+          {
+            "title": "Process",
+            "text": "Mix one Rouse Check of Blood into the wax and wrap the hair in it. Shape a figure resembling the victim, inscribe glyphs or curses in the caster's native language, and immerse it in water mixed with natron."
+          },
+          {
+            "title": "System",
+            "text": "A win causes nightmares for a number of days (or nights for mortals) equal to the successes rolled. Each awakening inflicts one Superficial Willpower damage, Aggravated on a critical win. This damage cannot heal normally until the spell ends; magic or similar means can remove it. On a total failure the target has pleasant dreams and sees an ibis-headed man directing them toward the caster, even if no Kemetic imagery was used."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-nepenthe",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Nepenthe",
+    "en": "Nepenthe"
+  },
+  "aliases": [
+    "Nepenthe"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-nepenthe-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 68, 69",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 68,
+          "printedPage": 66
+        },
+        {
+          "pdfPage": 69,
+          "printedPage": 67
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Nepenthe oferece \"a quietude de toda dor e conflito, o esquecimento de todo mal\" — mas apenas uma amostra. A bebida do ritual nubla temporariamente a mente e faz com que os atos terríveis de quem a bebe pareçam pálidos e distantes, como uma história que ouviram há muito tempo. Mas a mistura tem seus perigos: se usada com muita frequência, a capacidade de sentir remorso murcha e desaparece."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sementes de papoula, flor-estrela, mel, lágrimas do sujeito, sangue do conjurador."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador pulveriza os ingredientes sólidos em uma tigela e mistura o Sangue e\n\nMel. O último ingrediente adicionado deve ser as lágrimas do sujeito do ritual. A poção exala um cheiro forte e enjoativamente doce. O sujeito deve beber tudo de uma vez."
+          },
+          {
+            "title": "Sistema",
+            "text": "Com uma vitória no teste de Ritual, Nepenthe remove 1 Mácula do rastreador do bebedor antes de uma Teste de remorso. Em uma vitória crítica, Nepenthe remove 2 Máculas antes de uma rolagem de remorso no final do sessão. No entanto, em caso de Falha Total, 1 Mácula é transferida para a próxima sessão, independentemente de o teste de Remorso ter sido bem-sucedido ou não. Se um vampiro usar Nepenthe por mais de duas sessões seguidas, sua mente se torna dependente dela e uma de suas Máculas se torna permanente. Este é um efeito cumulativo — quatro sessões seguidas resultam em duas Máculas permanentes, e assim por diante."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A sweet potion makes terrible acts feel remote, briefly numbing grief and conflict. Repeated use destroys the capacity for remorse."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Poppy seeds, starflower, honey, the subject's tears and caster's Blood."
+          },
+          {
+            "title": "Process",
+            "text": "Grind the solids, mix Blood and honey, add the tears last and drink the intensely sweet-smelling potion in one draught."
+          },
+          {
+            "title": "System",
+            "text": "A win removes one Stain before Remorse; a critical removes two before the session-ending Remorse roll. On a total failure one Stain carries to the next session regardless of Remorse success. Using it for more than two consecutive sessions causes dependence and makes one Stain permanent. This is cumulative: four successive sessions produce two permanent Stains, and so on."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

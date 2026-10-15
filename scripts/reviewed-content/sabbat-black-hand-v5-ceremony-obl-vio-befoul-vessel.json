@@ -1,0 +1,102 @@
+{
+  "id": "sabbat-black-hand-v5-ceremony-obl-vio-befoul-vessel",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Macular o Receptáculo",
+    "en": "Befoul Vessel"
+  },
+  "aliases": [
+    "Macular o Receptáculo",
+    "Befoul Vessel"
+  ],
+  "discipline": "Oblívio",
+  "level": 4,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-ceremony-obl-vio-befoul-vessel-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 4,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 53",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 53,
+          "printedPage": 52
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 4
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Necrotic Touch"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Infecta o sangue de um mortal aparentemente saudável, tornando-o venenoso para vampiros."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 4."
+          },
+          {
+            "title": "Requisito indicado na fonte",
+            "text": "O livro exige “Necrotic Touch”, mas não apresenta um poder com esse nome nessa seção. A referência é mantida sem substituir silenciosamente por Toque de Oblívio ou Praga Necrótica; confirme com o Narrador o poder pretendido."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Saliva do vampiro."
+          },
+          {
+            "title": "Processo",
+            "text": "Introduza uma gota de saliva na pele da vítima, ao alimentar-se ou por outro contato físico."
+          },
+          {
+            "title": "Sistema",
+            "text": "O mortal não apresenta sintomas nem percebe o perigo. Quem bebe também não percebe, salvo um gosto rançoso; um Narrador generoso pode permitir Raciocínio + Sobrevivência, Dificuldade 3, para notar e interromper a alimentação. Ao terminar, o vampiro ganha Fome em vez de saciá-la, na proporção de um para um: se saciaria três, ganha três. Isso pode provocar Frenesi de Fome, conforme o Livro Básico inglês, p. 220. Alimentado ou não, o mortal morre durante o sono na noite seguinte; os únicos indícios são uma mancha semelhante a mofo e suor noturno acre."
+          },
+          {
+            "title": "Regras gerais de Cerimônias",
+            "text": "Salvo exceção específica: um Teste de Sangue, 20 minutos, Determinação + Oblívio, Dificuldade 5. Aprender custa 12 XP e exige Oblívio 4 e o poder pré-requisito. Durante o jogo, exige professor e ao menos 16 semanas. Sangues-ralos não recebem Cerimônias. Os efeitos são resolvidos manualmente."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "While many of the entropic effects of Oblivion are restricted to mortals, this Ceremony allows the wielder to infect the blood of a vessel, making an otherwise healthy-appearing mortal into pure poison to the children of Caine.\n\nPrerequisite: Necrotic Touch"
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 4. Powers: Necrotic Touch."
+          },
+          {
+            "title": "Ingredient",
+            "text": "The vampire’s saliva"
+          },
+          {
+            "title": "Process",
+            "text": "The vampire needs only introduce a drop of their spittle to the skin of their victim, either by feeding on them or by smearing it upon them through physical contact."
+          },
+          {
+            "title": "System",
+            "text": "A victim befouled in this way shows no symptoms, and is unaware of the harm done to them or the danger they pose to the undead. Anyone feeding on them will likewise be unaware of the effects apart from a rancid strangeness to their Blood. (Generous Storytellers can allow a Wits + Survival test at Difficulty 3 to notice that something is amiss, allowing the player to abort their feeding.) Once the feeding is done, the effect occurs: The feeding vampire gains Hunger instead of sating it, on a 1-for-1 basis. (A vampire who would’ve sated three Hunger would gain three Hunger.) This will likely risk hunger frenzy (see Vampire: The Masquerade p. 220).\n\nNo matter if they are fed on or not, the infected mortal dies in their sleep the following night, the only clue to their fate a patch of – mildew? – and acrid night-sweat."
+          },
+          {
+            "title": "Source reference ambiguity",
+            "text": "The source names Necrotic Touch as a prerequisite without identifying that power here. This reference is preserved rather than silently replaced with Touch of Oblivion or Necrotic Plague; consult the Storyteller."
+          },
+          {
+            "title": "General Ceremony rules",
+            "text": "Unless specifically overridden: one Rouse Check, 20 minutes, Resolve + Oblivion, Difficulty 5. Learning costs 12 XP and requires Oblivion 4 and the prerequisite power. Learning during play requires a teacher and at least 16 weeks. Thin-bloods do not receive Ceremonies. Effects remain manually resolved."
+          }
+        ]
+      }
+    }
+  ]
+}

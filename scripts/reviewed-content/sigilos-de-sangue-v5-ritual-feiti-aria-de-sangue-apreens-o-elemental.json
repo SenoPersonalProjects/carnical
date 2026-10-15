@@ -1,0 +1,119 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-apreens-o-elemental",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Apreensão Elemental",
+    "en": "Elemental Grasp"
+  },
+  "aliases": [
+    "Apreensão Elemental",
+    "Elemental Grasp"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-apreens-o-elemental-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 64, 65",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 64,
+          "printedPage": 62
+        },
+        {
+          "pdfPage": 65,
+          "printedPage": 63
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Feitiçaria Koldúnica: Água",
+            "Feitiçaria Koldúnica: Fogo",
+            "Feitiçaria Koldúnica: Ar",
+            "Feitiçaria Koldúnica: Terra",
+            "Feitiçaria Koldúnica",
+            "Koldunic Sorcery"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este ritual koldúnico comanda o feiticeiro elemento escolhido para retardar ou interferir de outra forma com Um alvo: lama pegajosa ou deslizamento repentino de pedras, enchente repentina ou granizo cortante, vento gelado ou neblina sufocante, uma onda de calor enervante ou um incêndio florestal no caminho. Até agora, permanece exclusivo dos kolduny, embora os rituais tenham o hábito de eventualmente se infiltrar nas garras de outras tradições."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria Koldúnica"
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um punhado do elemento do koldun ou um representação ritual dela, como um cajado de madeira para a terra, uma faca ou um maço de penas para o ar, etc."
+          },
+          {
+            "title": "Processo",
+            "text": "O koldun abre sua cicatriz de iniciação e faz um teste de Despertar enquanto comanda o elemento para atrapalhar um alvo que o koldun percebe. A percepção mágica conta para esse propósito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Em caso de vitória, o elemento se levanta contra o alvo. Se o elemento já estiver acordado durante a\n\nAo conjurar (comandar o ar durante uma tempestade, por exemplo), o koldun adiciona um dado à sua reserva de Ritual. O alvo sofre um ponto de dano de Vitalidade Superficial por sucesso e deve fazer um teste de perícia apropriado (por exemplo, Vigor + Atletismo ou Autocontrole + Impulso) para continuar contra o elemento contra uma Dificuldade igual a 1 + o total de sucessos no teste de Ritual. Em uma vitória crítica, o elemento se levanta contra todos os alvos adequados dentro do campo de visão do alvo principal. O efeito continua até que o koldun faça qualquer outra coisa além de comandar os elementos: lutar, mover-se, fazer qualquer outro teste de perícia, etc."
+          },
+          {
+            "title": "Terminologia da fonte",
+            "text": "O PDF traduzido usa “Autocontrole + Impulso” como exemplo de parada. Essa referência é ambígua: confirme com o Narrador a Característica apropriada, sem presumir que seja Impulso de Sangue."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A koldunic ritual commands the chosen element to impede a perceived target with mud, rocks, floods, hail, wind, fog, heat or fire. Magical perception qualifies."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Requirements",
+            "text": "Koldunic Sorcery, with the appropriate element."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A handful of the element or a ritual representation, such as a wooden staff for earth, or a knife or bundle of feathers for air."
+          },
+          {
+            "title": "Process",
+            "text": "Open the initiation scar and make a Rouse Check while commanding the element."
+          },
+          {
+            "title": "System",
+            "text": "A win inflicts one Superficial Health damage per success and forces an appropriate Skill test to proceed against the element, Difficulty 1 + total Ritual successes. An already active element, such as air in a storm, adds one die to the Ritual pool. A critical affects all appropriate targets within sight of the main target. The effect ends when the koldun does anything besides command the element, including moving, fighting or another Skill test."
+          },
+          {
+            "title": "Source terminology",
+            "text": "The supplied translated PDF uses the ambiguous example “Compostura + Impulso”; the appropriate trait for that example requires the Storyteller's clarification rather than silently treating it as Blood Surge."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

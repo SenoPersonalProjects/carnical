@@ -1,0 +1,101 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pintura-corporal",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Pintura Corporal",
+    "en": "Body Paint"
+  },
+  "aliases": [
+    "Pintura Corporal",
+    "Body Paint"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pintura-corporal-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 75, 76",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 75,
+          "printedPage": 73
+        },
+        {
+          "pdfPage": 76,
+          "printedPage": 74
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Esta fórmula permite ao alquimista criar tatuagens com toques pessoais que vão além dos tatuadores humanos. Às vezes, o cliente de um alquimista pode personalizar ainda mais sua tinta. O alquimista cria um fluido marrom-escuro e brilhante que permanece em forma líquida até ser pintado ou tatuado na pele de um mortal ou vampiro. O alquimista tatua o alvo ou estende a mão e massageia a pele enquanto o líquido seca, moldando-a em padrões únicos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal colérico, tintas de tatuagem, hena, fluido de marcador ou qualquer substância que manche a pele."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Parada",
+            "text": "Destreza + Ofícios; Vigor + Determinação"
+          },
+          {
+            "title": "Sistema",
+            "text": "Em testes de Destilação com 1 a 3 sucessos, a tinta corporal seca mais rápido, e o alquimista precisa vencer um teste de Destreza + Ofícios com Dificuldade 3 para terminar o trabalho antes de secar. Em Destilações com 6 ou mais sucessos, o alvo pode remodelar a tatuagem a qualquer momento após uma semana com um Teste de Vigor + Determinação com Dificuldade 5. O alquimista pode mudar as cores do fluido à vontade enquanto trabalha, assim como o alvo, se conseguir remodelar sua tatuagem."
+          },
+          {
+            "title": "Duração",
+            "text": "Permanente, a menos que seja apagada pela tinta corporal da cor da pele."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Produces shiny dark-brown fluid that stays liquid until painted or tattooed onto mortal or vampire skin. The alchemist tattoos or massages it into personalized patterns beyond mundane tattooing."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, choleric mortal blood and tattoo ink, henna, marker fluid or another staining substance."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Dexterity + Craft; Stamina + Resolve."
+          },
+          {
+            "title": "System",
+            "text": "With 1–3 distillation successes the paint dries quickly, requiring Dexterity + Craft, Difficulty 3, to finish in time. With 6 or more, the subject may reshape it at any time after a week with Stamina + Resolve, Difficulty 5. The alchemist can change its colors while working, as can a subject successfully reshaping it."
+          },
+          {
+            "title": "Duration",
+            "text": "Permanent unless erased with skin-colored Body Paint."
+          }
+        ]
+      }
+    }
+  ]
+}

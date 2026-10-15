@@ -1,0 +1,107 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-abrigo-elemental",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Abrigo Elemental",
+    "en": "Elemental Shelter"
+  },
+  "aliases": [
+    "Abrigo Elemental",
+    "Elemental Shelter"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-abrigo-elemental-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 68",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 68,
+          "printedPage": 66
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Feitiçaria Koldúnica: Água",
+            "Feitiçaria Koldúnica: Fogo",
+            "Feitiçaria Koldúnica: Ar",
+            "Feitiçaria Koldúnica: Terra",
+            "Feitiçaria Koldúnica",
+            "Koldunic Sorcery"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este ritual permite que o koldun se funda e se abrigue no elemento escolhido, como acontece com a Fusão com a Terra (Protean 3). Um koldun ligado ao fogo não verifica a presença de Rötschreck contra qualquer fogo que ele acenda.\n\npropósito deste ritual, mas deve resistir ao frenesi de terror antes de lançar este Ritual para se fundir com as chamas em um Refúgio que queima repentinamente, por exemplo."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria Koldúnica"
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Pelo menos o suficiente do elemento em questão para envolver o corpo do koldun."
+          },
+          {
+            "title": "Processo",
+            "text": "O koldun abre sua cicatriz iniciática, sangra no elemento, ordena que ele o receba e cai ou mergulha nele."
+          },
+          {
+            "title": "Sistema",
+            "text": "Em caso de vitória, o koldun se funde com o elemento. Nenhum ataque físico pode feri-lo, nem a luz solar ou o fogo. Enquanto estiver no elemento, o koldun permanece ciente de seus arredores, exceto durante o sono diurno. Nesses momentos, perturbações como escavações ou ruídos altos o despertam ou não, como acontece com todos os vampiros (Vampire: The Masquerade, p. 219). A forma do koldun permanece oscilante. visível para Sentir o Invisível (Auspex 1) ou para o normal visão (Raciocínio + Percepção) com dificuldade igual à margem do teste do Ritual. Em uma vitória crítica, o koldun se funde completamente com o elemento, tornando-se totalmente invisível. O koldun pode emergir do elemento à vontade à noite no local em que eles entrou nele. Se o fogo de um koldun ligado ao fogo se apagar (ou menos provável, se alguém drenar uma água ligada abrigo aquoso do koldun), o koldun entra em torpor dentro ou abaixo das cinzas e brasas. Eles podem faça um teste de Determinação + Percepção (Dificuldade 2) para despertar na presença de uma presa potencial como se eles caíram em torpor devido à fome."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A koldun merges with their chosen element, like Earth Meld. Fire kolduny need not test terror frenzy for a fire deliberately lit for this ritual, but must resist it to enter an unexpectedly burning haven."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Requirements",
+            "text": "Koldunic Sorcery, with the appropriate element."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Enough of the element to enclose the body."
+          },
+          {
+            "title": "Process",
+            "text": "Bleed from the initiation scar into the element, command it to receive the caster, and fall or dive in."
+          },
+          {
+            "title": "System",
+            "text": "A win protects against physical attacks, sunlight and fire. The caster perceives surroundings except during daysleep, when disturbances follow normal awakening rules (Core p. 219). Their wavering shape is visible to Sense the Unseen or Wits + Awareness at Difficulty equal to the Ritual margin; a critical makes them wholly invisible. At night they may emerge where they entered. If the sheltering fire goes out, or the water is drained, the koldun enters torpor in or below the remains and can test Resolve + Awareness, Difficulty 2, to wake for potential prey as with hunger torpor."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

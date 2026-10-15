@@ -1,0 +1,97 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-elevar",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Elevar",
+    "en": "Elevate"
+  },
+  "aliases": [
+    "Elevar",
+    "Elevate"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-elevar-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 76",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 76,
+          "printedPage": 74
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Quando você estiver na festa e com vontade de emoção, vá encontrar o cara perto do banheiro. Não, não é o cara\n\nVendendo speed e molly para dançarinos suados. O outro cara, aquele que fica parado demais. Ele tem o remédio normal, mas também tem doses de El, se você souber perguntar. El faz o mundo inteiro parecer elevado aos sangues-fracos: cores, sons, sabores e energia, tudo muda e se intensifica. É uma dose pura de dopamina que torna tudo mais rápido, mais fresco e muito mais divertido. Não é só na sua mente: seus reflexos são realmente mais rápidos, seus olhos enxergam mais longe, seus pés se movem rápido e com segurança, acompanhando a batida. Sanguefraco que tomaram El pode ser identificado pelo tom levemente vítreo dos olhos e pela energia borbulhante que os faz dançar até o amanhecer. Membros comuns podem obter o efeito bebendo de alguém que tomou El, assim como qualquer outra droga.\n\nEmbora vampiros com Humanidade 8 ou superior e Corar da Vida possam ficar chapados sem recorrer à alquimia, o fato de os sangues-fracos terem desenvolvido uma solução alternativa para esse aspecto da maldição vampírica irrita os Membros mais velhos. Nisso, assim como na caminhada diurna e em tantas outras coisas, o Sangue dos Mercurianos traz vantagens potenciais.\n\nSe os jogadores forem em busca de sangrias ou bebidas para festas, quase sempre alguém terá El para vender."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal sanguíneo, chocolate fermentado, vinagre de arroz, café preto, geralmente algum tipo de droga de rua divertida."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Parada",
+            "text": "Vigor + Alquimia"
+          },
+          {
+            "title": "Sistema",
+            "text": "Quem consumir a fórmula sentirá instantaneamente uma onda de calor e prazer fluindo por si, relaxando os músculos e aguçando os nervos. Recebe +1 em qualquer dado de Destreza que rolar durante a cena. El também pode servir como um veículo para drogas de rua comuns, embora os efeitos mudem imprevisivelmente, se geralmente forem em direção à estimulação extática. El malfeito faz o usuário se sentir bem, mas degrada ativamente a Destreza com uma penalidade de -1."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Known as El, this party brew heightens colors, sound, taste, energy and genuine reflexes, leaving glassy eyes and exuberant dancing. Kindred can experience it by feeding on someone who took it. Unlike high-Humanity Kindred using Blush of Life, it offers thin-bloods an alchemical workaround; it is commonly sold at parties."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, sanguine mortal blood, fermented chocolate, rice vinegar, black coffee and often a recreational street drug."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Stamina + Alchemy."
+          },
+          {
+            "title": "System",
+            "text": "The drinker feels warmth and pleasure, relaxed muscles and sharpened nerves, gaining one die to Dexterity pools for the scene. It may carry ordinary drugs, whose effects change unpredictably, usually toward ecstatic stimulation. A poorly made dose feels good but instead gives a one-die Dexterity penalty."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene."
+          }
+        ]
+      }
+    }
+  ]
+}

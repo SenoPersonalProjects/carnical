@@ -1,0 +1,93 @@
+{
+  "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-revealing-the-crimson-trail",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Revelar a Trilha Carmesim",
+    "en": "Revealing the Crimson Trail"
+  },
+  "aliases": [
+    "Revelar a Trilha Carmesim",
+    "Revealing the Crimson Trail"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-revealing-the-crimson-trail-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 1,
+      "sourceTitle": "Gehenna War V5, PDF pp. 50",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 50,
+          "printedPage": 48
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Revela vestígios de sangue derramado, por menores ou antigos que sejam."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma agulha com orifício para linha."
+          },
+          {
+            "title": "Processo",
+            "text": "Prepare-a ritualmente perfurando um dos próprios olhos e olhe através de seu orifício."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória permite ver claramente sangue derramado, seco ou não, enquanto olhar pela agulha. Vestígios excepcionalmente antigos ou diminutos podem exigir Determinação + Percepção ou Investigação, a critério do Narrador."
+          },
+          {
+            "title": "Duração",
+            "text": "O restante da cena."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The ritual allows a vampire to easily spot traces of spilled blood, no matter how insignificant or old."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A needle with an eye."
+          },
+          {
+            "title": "Process",
+            "text": "The Kindred ritually prepares the needle by stabbing themselves in one eye with it, and must then peer through its eye."
+          },
+          {
+            "title": "System",
+            "text": "If the ritual is successful, the vampire can clearly see any spilled blood, dried or not, as long as they keep looking through the eye of the needle. Exceptionally old or minute traces can require a Resolve + Awareness or Investigation test to spot, as determined by the Storyteller. The ritual lasts for the rest of the scene."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

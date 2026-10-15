@@ -1,0 +1,93 @@
+{
+  "id": "gehenna-war-v5-power-domina-o-lethe-s-call",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Chamado do Lete",
+    "en": "Lethe’s Call"
+  },
+  "aliases": [
+    "Chamado do Lete",
+    "Lethe’s Call"
+  ],
+  "discipline": "Dominação",
+  "level": 5,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-power-domina-o-lethe-s-call-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 5,
+      "sourceTitle": "Gehenna War V5, PDF pp. 48",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 48,
+          "printedPage": 46
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Dominação": 5
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Nublar Memória",
+            "Cloud Memory",
+            "Mente Esquecida",
+            "The Forgetful Mind"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Apaga grandes períodos de memória com um olhar."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Dominação 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "Manipulação + Dominação contra Inteligência + Determinação. Mortais desprevenidos não resistem."
+          },
+          {
+            "title": "Sistema",
+            "text": "Cada sucesso de margem apaga até uma semana de lembranças. Sem ordens verbais, remove indiscriminadamente o período. Com uma ordem, pode apagar somente uma pessoa ou acontecimento daquele intervalo, inclusive o próprio usuário. Pode deixar uma lacuna total ou a impressão genérica de que o tempo passou normalmente; esta última revela inconsistências se a vítima for pressionada por detalhes."
+          },
+          {
+            "title": "Duração",
+            "text": "Indefinida."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Cloud Memory or The Forgetful Mind The memories of others are a plaything to the vampire, who is able to blank out large swaths with but a glance."
+          },
+          {
+            "title": "Requirements",
+            "text": "Dominate 5. Powers: Nublar Memória or Cloud Memory or Mente Esquecida or The Forgetful Mind."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check\n\n Dice Pools: Manipulation +Dominate vs Intelligence + Resolve"
+          },
+          {
+            "title": "System",
+            "text": "The user tests Manipulation + Dominate vs a target’s Intelligence + Resolve, though unprepared mortals cannot resist this power. Each success in the margin allows the user to wipe up to an entire week’s worth of memories from the target. This use of Dominate does not require any verbal instructions, but will in this case simply blank the remembered time from the victim indiscriminately. With the addition of a verbal command, the Kindred can instead simply erase all knowledge of one individual or event from the same time, including the user themself. The user may choose to simply leave the target’s memory blank or leave the victim with a generic sense of time having passed and the assumption that the time passed about as expected, though the latter quickly reveals inconsistencies if the victim is pressed for details later."
+          },
+          {
+            "title": "Duration",
+            "text": "Indefinitely"
+          }
+        ]
+      }
+    }
+  ]
+}

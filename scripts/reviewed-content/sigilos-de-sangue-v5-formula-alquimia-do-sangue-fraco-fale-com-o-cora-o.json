@@ -1,0 +1,90 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-fale-com-o-cora-o",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Fale com o Coração",
+    "en": "Speak from the Heart"
+  },
+  "aliases": [
+    "Fale com o Coração",
+    "Fale com o coração",
+    "Speak from the Heart"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-fale-com-o-cora-o-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 77",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 77,
+          "printedPage": 75
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Conhecido como \"mensagem no cu\" na Califórnia, isso cria um elixir que, aparentemente, é um sabor de refrigerante. Um bode expiatório, geralmente mortal, bebe o refrigerante. O próximo vampiro que beber o sangue do bode expiatório recebe a mensagem."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um refrigerante, o sangue do alquimista, sangue humano melancólico, mercúrio, tinta ou pintura."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "O alquimista imprime a mensagem enquanto prepara o refrigerante. O refrigerante de uva pode conter setenta e uma palavras ou menos. O laranja revela uma imagem esboçada na mente do bebedor por cerca de um minuto. O lima-limão transmite uma breve, mas vívida sensação emocional. É possível que um mortal que bebesse o sangue do portador também sofresse os efeitos, mas ninguém realizou esse experimento."
+          },
+          {
+            "title": "Duração",
+            "text": "As mensagens duram cerca de sessenta segundos. Eles persistem no portador até a morte ou até que alguém beba seu sangue."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This soda-like elixir is called a crude “message in the ass” in California. A usually mortal carrier drinks it; the next vampire feeding on them receives the message."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A soft drink, alchemist's Blood, melancholy human blood, mercury and ink or paint."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Imprint the message while brewing. Grape soda carries at most seventy-one words; orange creates a sketched mental image for about a minute; lemon-lime conveys a brief vivid emotion. Whether a mortal drinking the carrier's blood also receives it remains untested in the source."
+          },
+          {
+            "title": "Duration",
+            "text": "The message lasts about sixty seconds and persists in its carrier until death or someone drinks their blood."
+          }
+        ]
+      }
+    }
+  ]
+}

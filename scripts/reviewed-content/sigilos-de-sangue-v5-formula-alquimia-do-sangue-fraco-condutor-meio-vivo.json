@@ -1,0 +1,97 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-condutor-meio-vivo",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Condutor Meio Vivo",
+    "en": "Half-Living Conductor"
+  },
+  "aliases": [
+    "Condutor Meio Vivo",
+    "Half-Living Conductor"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 4,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-condutor-meio-vivo-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 81",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 81,
+          "printedPage": 79
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Esta fórmula concede ao alquimista proteção contra uma das forças mais primitivas da natureza: o próprio raio. Comparados à ameaça constante do fogo ou da luz solar, raios e correntes elétricas costumam ser as menores preocupações de um vampiro. Nas mãos de um alquimista, podem se tornar uma arma mortal."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal colérico e sanguíneo, metal condutor derretido (ouro, prata, cobre e alumínio são escolhas populares), borracha moída, água da chuva de uma tempestade."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Parada",
+            "text": "Vigor + Alquimia"
+          },
+          {
+            "title": "Sistema",
+            "text": "O alquimista é imune a todos os danos físicos sofridos por qualquer fonte elétrica, sejam raios, tasers, fios desencapados ou uma habilidade sobrenatural. Ao ser exposto a uma corrente elétrica, o alquimista pode optar por redirecionar a corrente. Ele amplifica a eletricidade que entra em seu corpo e a dispara em um arco a partir das pontas dos dedos, boca ou olhos. Usar redirecionamento elétrico em um conflito é um ataque à distância que utiliza Destreza + Alquimia. Inflige margem de +2 em dano de Vitalidade Superficial para vampiros e em dano de Vitalidade Agravado para mortais. Em testes de Destilação com 1–3 sucessos, O alquimista é protegido de forças elétricas, mas seus ataques elétricos redirecionados não causam dano adicional à Vida. Em testes de Destilação com 6 ou mais sucessos, o corpo do alquimista explode com poder elétrico. Seus ataques causam dano Agravado à Vida tanto em mortais quanto em sobrenaturais."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até terminar voluntariamente."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Protects from electricity and turns an ordinarily secondary vampiric concern into a dangerous weapon."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, choleric and sanguine mortal blood, molten conducting metal (gold, silver, copper or aluminum), ground rubber and thunderstorm rainwater."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pools",
+            "text": "Stamina + Alchemy; Dexterity + Alchemy for a redirected ranged attack."
+          },
+          {
+            "title": "System",
+            "text": "Immune to physical damage from all electrical sources, including lightning, tasers, bare wire and supernatural abilities. When exposed, may amplify and redirect electricity in an arc from fingers, mouth or eyes. A ranged attack deals margin + 2 Superficial Health damage to vampires, Aggravated to mortals. At 1–3 distillation successes protection remains but redirected attacks gain no additional Health damage. At six or more successes, attacks deal Aggravated Health damage to mortals and supernatural beings alike."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until voluntarily ended."
+          }
+        ]
+      }
+    }
+  ]
+}

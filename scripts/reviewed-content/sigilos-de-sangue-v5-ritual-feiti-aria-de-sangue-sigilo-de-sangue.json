@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-sigilo-de-sangue",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Sigilo de Sangue",
+    "en": "Blood Sigil"
+  },
+  "aliases": [
+    "Sigilo de Sangue",
+    "Blood Sigil"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-sigilo-de-sangue-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 68",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 68,
+          "printedPage": 66
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este ritual armazena registros e documentos importantes em um dos meios mais resistentes disponíveis: a carne morta de outro Membro."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Tinta de tatuagem ou outras substâncias que podem manchar a pele, uma mensagem escrita em papel, uma fotografia ou uma pintura, um objeto pontiagudo com uma ponta aquecida pela chama de uma vela."
+          },
+          {
+            "title": "Processo",
+            "text": "O vampiro a ser tatuado abre uma veia do pulso com o objeto afiado — geralmente um bisturi, uma faca ou a agulha de uma máquina de tatuagem — e sangra em recipientes com o material de pintura escolhido. Em seguida, o conjurador rasga o papel ou a imagem, misturando os restos às tintas enquanto recita um cântico por quinze minutos. O conjurador aplica o Sigilo de Sangue em outro vampiro aquecendo a ponta do objeto afiado, mergulhando-o nas tintas e esculpindo cuidadosamente uma imagem na pele do vampiro. Esta imagem não precisa ser relevante para o seu corpo oculto.\n\nInformação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Não faça nenhum teste de Ritual antes de aplicar o Sigilo de Sangue. Uma vitória sela permanentemente a imagem tatuada na pele do vampiro e preserva perfeitamente a mensagem contida nela. Uma falha cria uma tatuagem e uma mensagem preservada que desaparecem na próxima vez que o vampiro se levantar. Leia a mensagem dentro de um Sigilo de Sangue observando ou tocando o sigilo por quinze minutos e vencendo um Teste de Determinação + Ocultismo com Dificuldade 5 (Dificuldade 4 se tocar na tatuagem) ou usando Sentir o Invisível (Auspícios 1). O feiticeiro que aplicou o Sigilo de Sangue pode apagar a tatuagem (e a mensagem) gastando um ponto de Força de Vontade e tocando a tatuagem por quinze minutos. minutos."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Stores documents and records in another Kindred's dead flesh."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Tattoo ink or another skin-staining substance, a written message, photograph or painting, and a sharp object heated in a candle flame."
+          },
+          {
+            "title": "Process",
+            "text": "The vampire receiving the tattoo bleeds from the wrist into the pigment. The caster tears the document or image into it, chants for fifteen minutes, then heats and dips the sharp point and carefully carves a tattoo. Its outward design need not reveal the hidden information."
+          },
+          {
+            "title": "System",
+            "text": "Roll only when applying the sigil. A win makes the tattoo permanent and perfectly preserves the message; failure produces a tattoo and message that disappear on the vampire's next rising. Reading it requires fifteen minutes observing or touching it and Resolve + Occult, Difficulty 5 (4 by touch), or Sense the Unseen. The caster can erase tattoo and message by spending one Willpower and touching it for fifteen minutes."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

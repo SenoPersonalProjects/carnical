@@ -1,0 +1,93 @@
+{
+  "id": "sabbat-black-hand-v5-formula-alquimia-do-sangue-fraco-on-demand-sunburn",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Queimadura Solar sob Demanda",
+    "en": "On-Demand Sunburn"
+  },
+  "aliases": [
+    "Queimadura Solar sob Demanda",
+    "On-Demand Sunburn"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-formula-alquimia-do-sangue-fraco-on-demand-sunburn-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 3,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 54",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 54,
+          "printedPage": 53
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Armazena uma carga de luz solar no corpo para liberá-la num abraço destrutivo, queimando usuário e vítima. Grupos de Heliófilos podem ameaçar até anciões."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal colérico, raspas de ouro, mercúrio e halogênios, normalmente cloro ou brometo. A fórmula precisa ficar horas ao sol antes do uso; alquimistas de Athanor Corporis normalmente usam Sombra Portátil para isso."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Após ativar, guarda uma única carga, liberada à vontade depois de obter contato de pele com outro vampiro. O usuário sofre dois danos agravados e a vítima sofre dano agravado igual à própria Severidade da Fraqueza, como um turno inteiro ao sol. Pode reduzir esse dano por meios apropriados, como Fortitude. Se não liberar antes do primeiro pôr do sol após a ingestão, a carga dispara automaticamente, causando dois danos agravados ao usuário."
+          },
+          {
+            "title": "Duração",
+            "text": "Até liberar ou até o próximo pôr do sol, o que ocorrer primeiro."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A dread tool of the Path of the Sun, On-Demand Sunburn traps sunlight in the very body of its user, enabling them to unleash it as a destructive force through their own skin, searing themselves and their prey in a sizzling embrace. While the damage done by a single user is not enough to incinerate a vampire, a group of self-immolating Heliophiles can spell doom for fledglings and elders alike."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Blood of the Alchemist, choleric mortal blood, gold shavings, mercury, as well as assorted halogens (usually chlorine or bromide). The formula also needs to be subjected to sunlight for several hours before use, and alchemists employing athanor corporis usually “juice up” on Portable Shade (see above) for this."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pools",
+            "text": "None"
+          },
+          {
+            "title": "System",
+            "text": "On activation, the alchemist becomes an unliving battery of sunlight with a single charge seething in their veins. They can unleash this charge at will, inflicting aggravated damage upon themselves and another vampire whom they’ve successfully achieved skin contact with, as their own skin smolders and blackens. The user takes two levels of aggravated damage, while the victim suffers an amount equal to their Bane Severity, as if exposed to daylight for a full turn. If the victim has the means to reduce the damage (such as through Fortitude) they can do so. If the formula isn’t activated before then, the power automatically activates at the first sunset after ingestion, causing two levels of aggravated damage to the user."
+          },
+          {
+            "title": "Duration",
+            "text": "Until unleashed or next sunset, whichever comes first."
+          }
+        ]
+      }
+    }
+  ]
+}

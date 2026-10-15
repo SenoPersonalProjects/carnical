@@ -1,0 +1,86 @@
+{
+  "id": "gehenna-war-v5-power-ofusca-o-cache",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Esconderijo",
+    "en": "Cache"
+  },
+  "aliases": [
+    "Esconderijo",
+    "Cache"
+  ],
+  "discipline": "Ofuscação",
+  "level": 2,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-power-ofusca-o-cache-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 2,
+      "sourceTitle": "Gehenna War V5, PDF pp. 49",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 49,
+          "printedPage": 47
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 2
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Ensconce"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Amplia Ocultar Objetos, escondendo itens apenas pelo toque, mesmo depois de soltá-los."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue; outro para estender até o amanhecer."
+          },
+          {
+            "title": "Sistema",
+            "text": "Os objetos afetados por Ocultar Objetos só precisam ser tocados, não carregados. Depois, não exige manter contato físico."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena, ou até o amanhecer com o custo adicional."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Ensconce The vampire may use this power to hide objects and make them difficult to find just by touching them."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 2. Powers: Ensconce."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "Objects affected by Ensconce need merely be touched, not held or carried by the Kindred. Furthermore, the user need not maintain physical contact with the object. The effect lasts for a scene. The user may make an additional Rouse Check to extend the duration for the remainder of the night. In that case, the enshrouded object remains hidden until dawn."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until dawn"
+          }
+        ]
+      }
+    }
+  ]
+}

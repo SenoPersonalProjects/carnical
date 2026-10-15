@@ -1,0 +1,93 @@
+{
+  "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-atrocity-s-release",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Libertação da Atrocidade",
+    "en": "Atrocity’s Release"
+  },
+  "aliases": [
+    "Libertação da Atrocidade",
+    "Atrocity’s Release"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-atrocity-s-release-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 5,
+      "sourceTitle": "Gehenna War V5, PDF pp. 51",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 51,
+          "printedPage": 49
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Extrai o Sangue e o poder roubados de um Diablerista, revertendo sua Diablerie mais recente."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Órgãos reprodutivos humanos em fatias finas, musgo ou esponja marinha e raspas de bezoar."
+          },
+          {
+            "title": "Processo",
+            "text": "Prepare cataplasmas durante ao menos uma noite, além do tempo para obter componentes. Pressione-os sobre cortes profundos no alvo para extrair a vitae roubada. Queime-os e deixe as cinzas expostas ao amanhecer."
+          },
+          {
+            "title": "Parada e resistência",
+            "text": "O alvo involuntário pode resistir com Determinação + Potência de Sangue. A Dificuldade do Ritual é o maior valor entre seus sucessos e a Dificuldade normal."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória reverte as mudanças da última Diablerie em Potência de Sangue, Disciplinas e personalidade, mas não em Humanidade. O espírito da vítima original permanece destruído. Uma falha total destrói a essência do alvo em vez disso, deixando-o efetivamente possuído pela última vítima de sua Diablerie."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This rare Ritual allows the Blood Sorcerer to extract the stolen Blood and power from a diablerist, effectively reversing the effect of their latest diablerie."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Human reproductive organs thinly sliced, moss or a sea sponge, and scrapings of bezoar."
+          },
+          {
+            "title": "Process",
+            "text": "The performer must first create a number of poultices from the ingredients, something that takes at least one night to prepare, disregarding the time it takes to procure the components. Then, the sorcerer presses the ritually prepared poultices to a series of deep cuts on their target’s body, drawing out the stolen Blood. The Blood-soaked poultices are then burnt, their ashes left exposed to the sunrise."
+          },
+          {
+            "title": "System",
+            "text": "An unwilling target may resist with Resolve + Blood Potency, the Ritual’s Difficulty counting as the greater of the target’s successes or the standard difficulty. If successful, The Ritual reverses the most recent instance of diablerie that the target has committed, including changes to Blood Potency, Disciplines, or personality, though not Humanity. Even if the ritual is successful, the spirit of the previous victim of the diablerie remains destroyed. On a total failure, the target’s essence is destroyed instead, the victim becoming effectively possessed by their latest diablerie victim."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -4,6 +4,22 @@ import {contentById,resolveContent,sameContent} from "./resolve";
 export function knowsPower(known:Record<string,string[]>,required:string){
   return Object.values(known).some(names=>names.some(name=>sameContent(name,required,{kind:"power"})));
 }
+export function powerRequirementReasons(power:PowerRule,known:Record<string,string[]>,clan?:string){
+  const reasons:string[]=[];
+  const entry=contentById(power.id)||resolveContent(power.name,{kind:power.kind||"power",discipline:power.discipline});
+  const requirements=entry?.versions?.find(version=>version.book===power.source.book)?.requirements;
+  const coveredByAlternatives=requirements?.prerequisiteAlternatives?.some(group=>group.includes(power.prerequisite||""));
+  if(power.prerequisite&&!coveredByAlternatives&&!knowsPower(known,power.prerequisite))reasons.push(`Exige o poder ${power.prerequisite}`);
+  if(clan&&requirements?.clans?.length&&!requirements.clans.includes(clan))reasons.push(`Exige o clã ${requirements.clans.join(" / ")}`);
+  for(const required of requirements?.prerequisites||[])if(required!==power.prerequisite&&!knowsPower(known,required))reasons.push(`Exige o poder ${required}`);
+  for(const alternatives of requirements?.prerequisiteAlternatives||[])if(!alternatives.some(required=>knowsPower(known,required)))reasons.push(`Exige um dos poderes: ${alternatives.join(" / ")}`);
+  const firstGroup=requirements?.firstDisciplinePowerGroup;
+  if(firstGroup?.length){
+    const first=(known[power.discipline]||[]).find(name=>{const kind=resolveContent(name,{discipline:power.discipline})?.kind;return !kind||kind==="power"});
+    if(first&&!firstGroup.some(name=>sameContent(first,name,{kind:"power",discipline:power.discipline})))reasons.push(`Deve ser o primeiro poder aprendido de ${power.discipline}`);
+  }
+  return reasons;
+}
 /** Prefer the original source when enabled; otherwise use an enabled reviewed version. */
 export function powerForSources(power:PowerRule,activeSources:ReadonlySet<string>):PowerRule{
   const entry=contentById(power.id)||resolveContent(power.name,{kind:power.kind||"power",discipline:power.discipline});
@@ -28,11 +44,7 @@ export function powerEligibility(power:PowerRule,disciplines:Record<string,numbe
     const parts=power.amalgam.split(/[,;]|\s+\+\s+/);
     for(const part of parts){const match=part.trim().match(/^(.+?)\s+(\d+)$/);if(match&&(disciplines[match[1]]||0)<Number(match[2]))reasons.push(`Amálgama: ${match[1]} ${match[2]}`)}
   }
-  if(power.prerequisite&&!knowsPower(known,power.prerequisite))reasons.push(`Exige o poder ${power.prerequisite}`);
-  const entry=contentById(power.id)||resolveContent(power.name,{kind:power.kind||"power",discipline:power.discipline});
-  const requirements=entry?.versions?.find(version=>version.book===power.source.book)?.requirements;
-  for(const required of requirements?.prerequisites||[])if(required!==power.prerequisite&&!knowsPower(known,required))reasons.push(`Exige o poder ${required}`);
-  for(const alternatives of requirements?.prerequisiteAlternatives||[])if(!alternatives.some(required=>knowsPower(known,required)))reasons.push(`Exige um dos poderes: ${alternatives.join(" / ")}`);
+  reasons.push(...powerRequirementReasons(power,known,clan));
   return {allowed:reasons.length===0,reasons};
 }
 

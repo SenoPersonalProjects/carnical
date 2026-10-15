@@ -1,0 +1,106 @@
+{
+  "id": "sigilos-de-sangue-v5-power-feiti-aria-de-sangue-feiti-aria-kold-nica-gua",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Feitiçaria Koldúnica: Água",
+    "en": "Koldunic Sorcery: Water"
+  },
+  "aliases": [
+    "Feitiçaria Koldúnica: Água",
+    "Koldunic Sorcery: Water"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-power-feiti-aria-de-sangue-feiti-aria-kold-nica-gua-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "sourceTitle": "Sigilos de Sangue V5, PDF p. 63",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 63,
+          "printedPage": 61
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        },
+        "clans": [
+          "Tzimisce"
+        ],
+        "firstDisciplinePowerGroup": [
+          "Feitiçaria Koldúnica: Água",
+          "Feitiçaria Koldúnica: Fogo",
+          "Feitiçaria Koldúnica: Ar",
+          "Feitiçaria Koldúnica: Terra"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Feitiçaria Tzimisce ligada ao elemento Água. A iniciação estabelece, segundo os kolduny, um Laço de Sangue com a terra e estende os sentidos pelo elemento escolhido."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Tzimisce. Deve adquirir uma forma de Feitiçaria Koldúnica com seu primeiro ponto em Feitiçaria de Sangue. Cada elemento adicional exige escolher este poder novamente, com outro elemento."
+          },
+          {
+            "title": "Iniciação",
+            "text": "Passe uma semana ou mais num local selvagem, geralmente guiado por um koldun mais velho. O lugar deve estar ligado por uma veia da terra ao domínio de Kupala nos Cárpatos ou a território já estabelecido pelo Clã Antigo. Na iniciação, abra uma veia e mergulhe o braço na terra, água, fogo ou ar. Os kolduny preferem a lua nova por razões rituais e menor risco de ataque lupino."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue e dano agravado voluntário à Vitalidade."
+          },
+          {
+            "title": "Sistema",
+            "text": "Reabra a cicatriz de iniciação. Pode sofrer um dano agravado por ponto de Feitiçaria de Sangue possuído; cada ponto amplia os sentidos conforme a tabela. Percebe através do elemento: um koldun de fogo usa chamas, fogões, fornalhas, aquecedores e cigarros acesos no alcance. Para perceber ocultação mística, como Ofuscação, dispute Determinação + Feitiçaria de Sangue contra Raciocínio ou Determinação + Ofuscação, ou a Característica sobrenatural pertinente."
+          },
+          {
+            "title": "Sentidos estendidos",
+            "text": "| Dano agravado voluntário | Raio |\n| --- | --- |\n| 1 | 15 metros |\n| 2 | 90 metros |\n| 3 | 500 metros |\n| 4 | 1,5 quilômetro |\n| 5 | 8 quilômetros |"
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena. Pode renovar no mesmo alcance a qualquer momento da noite com outro Teste de Sangue e um dano agravado à Vitalidade. O efeito termina completamente ao nascer do sol."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Tzimisce sorcery attuned to Water. Initiation establishes what kolduny describe as a Blood Bond with the land, extending perception through the chosen element."
+          },
+          {
+            "title": "Requirements",
+            "text": "Tzimisce. Take a Koldunic Sorcery form with the first dot of Blood Sorcery. Each additional element requires taking this power again for that element."
+          },
+          {
+            "title": "Initiation",
+            "text": "Spend at least a week in a wild place, usually guided by a senior koldun, often the sire. An earth’s vein must connect it to Kupala’s demon-haunted Carpathian territory or land already claimed by the Old Clan. Open a vein and immerse the arm in earth, water, fire or air. New moons are favored for ritual reasons and somewhat reduced risk of werewolf attack."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check and voluntary Aggravated Health damage."
+          },
+          {
+            "title": "System",
+            "text": "Reopen the initiation scar. Suffer up to one Aggravated Health damage per Blood Sorcery dot, extending senses by the table. Perceive through the element: a fire koldun uses flames, stoves, furnaces, heaters and lit cigarettes in range. Mystically concealed beings, such as Obfuscated vampires, can be perceived with Resolve + Blood Sorcery versus Wits or Resolve + Obfuscate or the relevant supernatural trait."
+          },
+          {
+            "title": "Extended senses",
+            "text": "| Voluntary Aggravated damage | Radius |\n| --- | --- |\n| 1 | 15 meters |\n| 2 | 90 meters |\n| 3 | 500 meters |\n| 4 | 1.5 kilometers |\n| 5 | 8 kilometers |"
+          },
+          {
+            "title": "Duration",
+            "text": "One scene. Renew the same reach at any time that night with another Rouse Check and one Aggravated Health damage. It expires completely at sunrise."
+          }
+        ]
+      }
+    }
+  ]
+}

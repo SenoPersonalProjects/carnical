@@ -1,0 +1,89 @@
+{
+  "id": "gehenna-war-v5-formula-alquimia-do-sangue-fraco-juice-box",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Caixinha de Suco",
+    "en": "Juice Box"
+  },
+  "aliases": [
+    "Caixinha de Suco",
+    "Juice Box"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 4,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-formula-alquimia-do-sangue-fraco-juice-box-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 4,
+      "sourceTitle": "Gehenna War V5, PDF pp. 53",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 53,
+          "printedPage": 51
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Permite que vampiros de Sangue pleno usem fórmulas alquímicas com menos risco pessoal e sem manter o alquimista por perto; obter vitae de Matusalém transfere um risco considerável a quem prepara."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Os ingredientes da fórmula original, vitae de Matusalém e uma caixinha de suco vazia com resíduos de suco concentrado."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Destile a fórmula desejada normalmente, incluindo vitae de Matusalém antes do tratamento adicional. Após destilar, deixe a mistura repousar na caixinha por 24 horas antes de ativar. Qualquer sangue-ralo ou vampiro de Sangue pleno pode beneficiar-se. Permanecem os custos de ativação, paradas e duração da fórmula original."
+          },
+          {
+            "title": "Duração",
+            "text": "A da fórmula preparada."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "More than a few Kindred of lower generations have longed for the ability to make use of Thin-Blood Alchemy Formulae. Juice Box gives them the option to do so without excessive risk of harm or the need to keep the Mercurian around long, though it can be argued that the requirement of methuselah Blood shifts that risk onto the alchemist. For a similar formula that shifts the element of risk to the imbiber, see Blood Sigils, p. 80."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The ingredients required for the original formula, methuselah vitae, and an empty juice box, complete with traces of concentrated fruit juice."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "The alchemist distills the target formula as normal, but includes methuselah vitae in the concoction before performing additional treatment to it. Once distilled, the brew must rest in the juice box for 24 hours before activation. The result allows any Duskborn or Kindred to benefit from the brew created by the alchemist. All activation costs, dice pools, and duration apply per the original blood alchemy formula."
+          },
+          {
+            "title": "Duration",
+            "text": "As target formula"
+          }
+        ]
+      }
+    }
+  ]
+}

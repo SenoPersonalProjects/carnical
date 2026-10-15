@@ -1,0 +1,103 @@
+{
+  "id": "gehenna-war-v5-ceremony-obl-vio-the-shallow-slumber",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "O Sono Raso",
+    "en": "The Shallow Slumber"
+  },
+  "aliases": [
+    "O Sono Raso",
+    "The Shallow Slumber"
+  ],
+  "discipline": "Oblívio",
+  "level": 3,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-ceremony-obl-vio-the-shallow-slumber-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 3,
+      "sourceTitle": "Gehenna War V5, PDF pp. 52",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 52,
+          "printedPage": 50
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 3
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Passion Feast",
+            "Touch of Oblivion"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Amortece a vitalidade do Sangue para encurtar o torpor. Pode ser preparada antes de cair nesse estado."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Carvão e vitae do usuário equivalente a um Teste de Sangue."
+          },
+          {
+            "title": "Processo",
+            "text": "Desenhe sigilos cuidadosamente no próprio corpo ou no de outro vampiro, amaldiçoando deuses ou santos responsáveis pela saúde."
+          },
+          {
+            "title": "Sistema",
+            "text": "Enquanto os sigilos permanecerem, cada sucesso de margem reduz em um a Potência de Sangue considerada para duração do torpor e despertar prematuro; também aumenta em um a Humanidade considerada somente para a duração do torpor. Uma falha total faz o contrário: considera um ponto a mais de Potência e um a menos de Humanidade. Só permite uma tentativa por alvo por torpor, e pode afetar o usuário ou outro vampiro antes ou depois da entrada em torpor. Lavagem, ferimentos ou remoção intencional apagam os sigilos; o desgaste natural raramente permite mais de uma semana."
+          },
+          {
+            "title": "Duração",
+            "text": "Indefinida enquanto os sigilos permanecerem."
+          },
+          {
+            "title": "Regras gerais de Cerimônias",
+            "text": "Salvo exceção específica: um Teste de Sangue, 15 minutos, Determinação + Oblívio, Dificuldade 4. Aprender custa 9 XP e exige Oblívio 3 e o poder pré-requisito. Durante o jogo, exige professor e ao menos 9 semanas. Sangues-ralos não recebem Cerimônias. Os efeitos são resolvidos manualmente."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Passion Feast or Touch of Oblivion By temporarily dimming the vitality of their Blood, this ceremony can shorten a vampire’s time spent in torpor. Some even prepare themselves with this Ceremony, in anticipation of future misfortune."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 3. Powers: Passion Feast or Touch of Oblivion."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Charcoal and one Rouse Check of the user’s vitae."
+          },
+          {
+            "title": "Process",
+            "text": "The performer carefully writes a series of sigils on themselves or another vampire, while cursing the names of various gods or saints responsible for good health."
+          },
+          {
+            "title": "System",
+            "text": "So long as the sigils remain on the target’s body, for each success in the margin on the ceremony test, their Blood Potency counts as one lower for the purpose of torpor duration and premature awakening. Likewise, their Humanity counts as a similar number of dots higher but only for purposes of torpor duration. A total failure on the Ritual test extends the torpor instead, as if the subject had another dot more in Blood Potence and a dot less in Humanity. Only one attempt per subject per torpor can be made. A vampire can use this ceremony on themselves or another vampire, even if the subject has not yet fallen into torpor. The sigils stay on the subject’s body until they are washed away, marred by injury, or intentionally defaced, though rarely longer than a week due to natural abrasion."
+          },
+          {
+            "title": "Duration",
+            "text": "Indefinite, so long as the sigils remain."
+          },
+          {
+            "title": "General Ceremony rules",
+            "text": "Unless specifically overridden: one Rouse Check, 15 minutes, Resolve + Oblivion, Difficulty 4. Learning costs 9 XP and requires Oblivion 3 and the prerequisite power. Learning during play requires a teacher and at least 9 weeks. Thin-bloods do not receive Ceremonies. Effects remain manually resolved."
+          }
+        ]
+      }
+    }
+  ]
+}

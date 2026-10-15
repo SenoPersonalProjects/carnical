@@ -1,0 +1,89 @@
+{
+  "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-simulacrum-gate",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Portal do Simulacro",
+    "en": "Simulacrum Gate"
+  },
+  "aliases": [
+    "Portal do Simulacro",
+    "Simulacrum Gate"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-simulacrum-gate-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 5,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 52",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 52,
+          "printedPage": 51
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Um projeto demorado e elaborado constrói um portal que leva vários vampiros a grandes distâncias em instantes. A fonte relata somente um exemplar conhecido e a ambição do Sabbat de criar outros para ataques surpresa."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Materiais para uma réplica exata do destino, como areia, argamassa, concreto, metal e terra; um sacrifício vampírico e ao menos um sacrifício mortal por viajante pretendido."
+          },
+          {
+            "title": "Processo",
+            "text": "O destino precisa ter uma estrutura física que possa servir de passagem, como prédio, porão ou sótão. Espiões passam semanas documentando-o, contrabandeando amostras e produzindo imagens ou esboços. Enquanto isso, ergue-se a réplica, de preferência remota, e consagra-se com grandes quantidades de sangue. Os restos dos sacrifícios mortais são espalhados pelo simulacro. A ativação final exige sacrificar um vampiro; sem vítima adequada, o Sabbat pode escolher o mais vulnerável presente ou propor Abraçar um dos mortais para esse papel."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória permite a ida do número escolhido de vampiros e o retorno de igual número, que não precisam ser as mesmas pessoas. Até atingir essa quantidade, o portal permanece aberto indefinidamente; nada revela o destino como portal. Mortais não conseguem atravessar e só veem um monumento repulsivo."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A time-consuming and elaborate Ritual, this colossal undertaking allows the construction of a distance-defying portal allowing multiple vampires to cross vast distances in mere moments. While only one instance is known so far, Blood-sorcerers of the Sabbat suspect that it is only a matter of time before they may construct more as means to perform devastating hit-and-run attacks in the heart of rival sects’ domains."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Anything required to build a copy of the target destination, including but not limited to sand, mortar, concrete, metal, and dirt. One vampire sacrifice and a number of mortal ones equal to the number of travellers."
+          },
+          {
+            "title": "Process",
+            "text": "In order to function, the gate needs to be an exact copy of the target location, whether a building, cellar, attic, or some other location equipped with a physical structure that can be designated as a portal. This requires spies to spend weeks documenting the target location, smuggling examples of materials and taking countless pictures or making sketches of the place. Meanwhile, the replica is built (the more remote, the more secure), and the area consecrated with blood – vast amounts of it. Preparing the portal requires at least one mortal sacrifice per intended traveler, their remains to be scattered about the simulacrum edifice. The final activation calls for a vampire sacrifice. If a suitable victim isn’t on hand, the lot probably falls to the vampire present who’s the least able to resist being forced into the role, though ritualists have proposed Embracing a mortal sacrifice for this purpose."
+          },
+          {
+            "title": "System",
+            "text": "If the Ritual Test is successful, the gate allows the desired number of vampires passage outward, and an equal number – not necessarily the same individuals – to return. Until that number has been matched, the gate remains open indefinitely, though nothing reveals the target location as such. Mortals cannot use the gate; to them it appears as nothing more than a repulsive monument."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

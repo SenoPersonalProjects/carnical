@@ -1,0 +1,93 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-astromancia",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Astromancia",
+    "en": "Astromancy"
+  },
+  "aliases": [
+    "Astromancia",
+    "Astromancy"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-astromancia-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 61, 62",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 61,
+          "printedPage": 59
+        },
+        {
+          "pdfPage": 62,
+          "printedPage": 60
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "As estrelas escrevem a natureza daqueles que estão na Terra abaixo delas, ou talvez as reflitam. Combinando astrologia e hematomancia, o feiticeiro extrai informações verdadeiras sobre aliados, inimigos e mortais que despertam seu interesse."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "O céu noturno; um espelho ou bandeja de prata; o sangue, cabelo, saliva ou carne do alvo"
+          },
+          {
+            "title": "Processo",
+            "text": "No meio da noite, o conjurador vai para uma área com uma visão clara das estrelas no céu e coloca o material biológico do alvo na superfície prateada e espalha sangue equivalente a um Teste de Sangue sobre a superfície. O conjurador passa até meia hora observando seu sangue se moldar em padrões e imagens relacionadas às respostas que busca sobre o alvo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória no teste de Ritual revela as maiores aptidões do alvo (ou seja, qualquer Atributo ou Perícia 4 ou superior) e sua Ambição atual. Uma vitória crítica também revela seu Desejo atual e pelo menos uma de suas Convicções. Se o feiticeiro souber a data correta de nascimento ou a data do Abraço do alvo, ele pode adicionar um dado ao conjunto de Rituais. Saber ambas ainda adiciona apenas um dado."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Reads the subject through astrology and blood divination: the stars write, or reflect, the nature of those below."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Night sky; silver mirror or tray; the subject's blood, hair, saliva or flesh."
+          },
+          {
+            "title": "Process",
+            "text": "At midnight, find an unobstructed view of the stars, place the subject's biological material on the silver surface and spread one Rouse Check's worth of Blood over it. Watch its patterns for up to half an hour."
+          },
+          {
+            "title": "System",
+            "text": "A win reveals the subject's greatest aptitudes (Attributes or Skills at 4 or more) and current Ambition. A critical also reveals their current Desire and at least one Conviction. Knowing either their correct birth date or Embrace date adds one die to the Ritual pool; knowing both still adds only one."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

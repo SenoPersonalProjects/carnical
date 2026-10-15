@@ -1,0 +1,98 @@
+{
+  "id": "sabbat-black-hand-v5-ceremony-obl-vio-blinding-the-alloy-eye",
+  "kind": "ceremony",
+  "names": {
+    "pt-BR": "Cegando o Olho Metálico",
+    "en": "Blinding the Alloy Eye"
+  },
+  "aliases": [
+    "Cegando o Olho Metálico",
+    "Blinding the Alloy Eye"
+  ],
+  "discipline": "Oblívio",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-ceremony-obl-vio-blinding-the-alloy-eye-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 2,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 53",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 53,
+          "printedPage": 52
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Oblívio": 2
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Shadow Cast"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Um pacto com um espírito da morte oferece breve proteção contra vigilância, embaralhando a imagem do usuário em câmeras."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Oblívio 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um pequeno pedaço de tela de alumínio."
+          },
+          {
+            "title": "Processo",
+            "text": "Passe uma cena isolado contatando o espectro e vinculando-o à tela. Guarde-a num recipiente opaco. Retire-a e prenda-a a pele ou roupa visível quando quiser ativar."
+          },
+          {
+            "title": "Sistema",
+            "text": "Só faça o teste ao ativar, de preferência com resultado secreto para o jogador. Com sucesso, câmeras próximas não captam corretamente o usuário, mas registram todo o resto normalmente."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena inteira ou até remover a tela."
+          },
+          {
+            "title": "Regras gerais de Cerimônias",
+            "text": "Salvo exceção específica: um Teste de Sangue, 10 minutos, Determinação + Oblívio, Dificuldade 3. Aprender custa 6 XP e exige Oblívio 2 e o poder pré-requisito. Durante o jogo, exige professor e ao menos 4 semanas. Sangues-ralos não recebem Cerimônias. Os efeitos são resolvidos manualmente."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Shadow Cast Striking a pact with a death-spirit, the caster buys themselves a short time of immunity to surveillance, as the otherworldly entity scrambles cameras around the vampire."
+          },
+          {
+            "title": "Requirements",
+            "text": "Oblivion 2. Powers: Shadow Cast."
+          },
+          {
+            "title": "Ingredient",
+            "text": "A small piece of aluminum mesh"
+          },
+          {
+            "title": "Process",
+            "text": "The user spends a scene in isolation, contacting the spectre and bonding it to the aluminum mesh. The mesh is then placed in a light-proof container, to be taken out when the effect is to be activated. Once removed and attached to a visible piece of flesh or garment of the caster, the effect is initiated."
+          },
+          {
+            "title": "System",
+            "text": "Do not make a Ritual roll until the effect is activated. If possible, the result of the test should be kept secret from the player. If successful, cameras around the caster will end up scrambling their image, though they will pick up everything else normally. The effect lasts for a full scene, or until the mesh is removed."
+          },
+          {
+            "title": "General Ceremony rules",
+            "text": "Unless specifically overridden: one Rouse Check, 10 minutes, Resolve + Oblivion, Difficulty 3. Learning costs 6 XP and requires Oblivion 2 and the prerequisite power. Learning during play requires a teacher and at least 4 weeks. Thin-bloods do not receive Ceremonies. Effects remain manually resolved."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-torpor-avan-ado",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Torpor Avançado",
+    "en": "Advanced Torpor"
+  },
+  "aliases": [
+    "Torpor Avançado",
+    "Advanced Torpor"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-torpor-avan-ado-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 77",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 77,
+          "printedPage": 75
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Esta Fórmula induz torpor. Para os de sangue fraco, é o último recurso para curar o coma."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue mortal colérico e fleumático, extrato de nim, diazepam, difenidramina, flor de camomila."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "O alquimista cria (ou, em outras Destilações, ele ou seu recipiente sangra) um fluido aquoso rosavivo. A mistura dessa substância com sangue mortal cria um elixir que faz com que o alquimista entre imediatamente em torpor. Esse torpor dura tanto quanto se o indivíduo tivesse entrado nele por meios comuns. Ao contrário do torpor normal, um vampiro em Torpor Avançado sempre precisa repetir o Teste de Sangue enquanto estiver sob seus efeitos, seja para o dia passar ou para reparar qualquer dano. Caso o vampiro termine seu Torpor Avançado em um nível inferior a 5 de Fome, ele pode manter seu nível atual de Fome ao despertar. Todos os vampiros em Torpor Avançado se recuperam como vampiros, mesmo que um Defeito do Sangue Fraco torne isso impossível. Se a Fome do vampiro ultrapassar Fome 5 enquanto estiver em Torpor Avançado, o vampiro entra em torpor regular pelo restante do seu torpor, e as regras padrão se aplicam."
+          },
+          {
+            "title": "Athanor Corporis",
+            "text": "O alquimista pode perfurar sua veia uma vez por noite até a próxima alimentação ou atingir Fome 5. Não há mais custo de Destilação."
+          },
+          {
+            "title": "Calcinatio",
+            "text": "Se o recipiente sobreviver ao vazamento, o alquimista poderá vazá-lo novamente em uma semana. O recipiente sofre 5 de dano de Vitalidade Agravada por vazamento."
+          },
+          {
+            "title": "Duração",
+            "text": "Até o alvo despertar do torpor."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Induces a healing torpor as a last resort for thin-bloods."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, choleric and phlegmatic mortal blood, neem extract, diazepam, diphenhydramine and chamomile flowers."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Produces a bright-pink watery fluid (or it is bled from the alchemist or vessel for other methods). Mixed with mortal blood, it immediately induces torpor of normal duration. Unlike ordinary torpor, Rouse Checks are still required for passing days and mending damage. If it ends below Hunger 5, the vampire may retain their current Hunger on waking. All vampires mend as vampires during it, even with a Thin-Blood Flaw that normally prevents this. If Hunger exceeds 5, regular torpor replaces it for the remaining duration."
+          },
+          {
+            "title": "Method exceptions",
+            "text": "Athanor Corporis may tap a vein once per night until feeding again or reaching Hunger 5, without another distillation cost. A surviving Calcinatio vessel can be tapped again in a week and suffers five Aggravated Health damage per tapping."
+          },
+          {
+            "title": "Duration",
+            "text": "Until the subject wakes from torpor."
+          }
+        ]
+      }
+    }
+  ]
+}

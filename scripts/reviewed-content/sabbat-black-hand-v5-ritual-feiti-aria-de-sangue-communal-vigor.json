@@ -1,0 +1,97 @@
+{
+  "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-communal-vigor",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Vigor Comunal",
+    "en": "Communal Vigor"
+  },
+  "aliases": [
+    "Vigor Comunal",
+    "Communal Vigor"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-communal-vigor-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 3,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 51, 52",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 51,
+          "printedPage": 50
+        },
+        {
+          "pdfPage": 52,
+          "printedPage": 51
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Semelhante à Vaulderie, permite que um Sacerdote de Bando compartilhe sua Potência de Sangue e reforce sua autoridade sobre o bando."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma unha do Sacerdote de Bando."
+          },
+          {
+            "title": "Processo",
+            "text": "O Sacerdote arranca a unha e a quebra em um pedaço por membro. Põe seu próprio pedaço no cálice de Vaulderie; os demais colocam os seus sob a língua. Com sucesso, dissolvem-se no sangue consumido."
+          },
+          {
+            "title": "Sistema",
+            "text": "Além dos efeitos da Vaulderie, os membros têm sua Potência de Sangue elevada ao nível do Sacerdote oficiante. Ele também recebe três dados em Dominação ou Presença contra os demais membros."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Based on sanguinary properties similar to the Vaulderie, this Ritual allows a Pack Priest to share their Blood Potency with their pack, while strengthening their own ability to keep those packmates in line."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "One fingernail of the Pack Priest"
+          },
+          {
+            "title": "Process",
+            "text": "The Priest tears a nail from their finger and breaks it into pieces, one for each member of the Pack. They place their own portion of the torn nail in the Vaulderie chalice, while the other members place theirs under their tongue. If the Ritual is successful, the pieces of nail dissolve into the Vaulderie blood consumed."
+          },
+          {
+            "title": "System",
+            "text": "In addition to the effects of the Vaulderie, the members of the Pack have their Blood Potency raised to the same level as the officiating Priest. Additionally, the Priest gains three dice on any Dominate or Presence tests against other members of the Pack. The effects last for one night."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

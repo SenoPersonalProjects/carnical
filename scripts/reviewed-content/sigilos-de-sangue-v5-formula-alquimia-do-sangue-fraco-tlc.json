@@ -1,0 +1,84 @@
+{
+  "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-tlc",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "TLC",
+    "en": "TLC"
+  },
+  "aliases": [
+    "TLC"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-tlc-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 79, 80",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 79,
+          "printedPage": 77
+        },
+        {
+          "pdfPage": 80,
+          "printedPage": 78
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A sigla significa This Lick Cares (Este Lambe Cuida) , ou possivelmente Tastes Like Chicken (Tem Gosto de Frango). Esta fórmula cria um pó que imbui o sangue de animais vivos com as qualidades místicas do sangue mortal que a Besta deseja. Para vampiros que desejam evitar se alimentar de mortais enquanto seu sangue se fortalece, esta fórmula é essencial. Este pó é comumente encontrado no mercado negro de qualquer grande empresa de redworking."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Alquimia do Sangue-Fraco 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do alquimista, sangue animal, sangue mortal colérico, urtigas, pedaços de ferro, cola de carne."
+          },
+          {
+            "title": "Custo",
+            "text": "um Teste de Sangue"
+          },
+          {
+            "title": "Sistema",
+            "text": "O alquimista cria (ou para outras destilações, eles ou seus recipientes sangram e devem peneirar\n\n(fora) um pó marrom-azulado. Alimentar um animal com o pó permite que um vampiro se alimente dele como se fosse um humano. Para cada sucesso no teste de Destilação, o alquimista pode enriquecer sangue animal suficiente para saciar um ponto de Fome, embora apenas os maiores cães possam saciar mais de 1 ponto de Fome sem morrer. Cavalos, gado e outros mamíferos de grande porte contêm sangue suficiente para saciar de 8 a 10 pontos de Fome, se administrado com TLC. Matar um animal sob os efeitos de TLC não pode saciar a Fome de um vampiro a 0."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "“This Lick Cares,” or “Tastes Like Chicken,” creates powder giving living animal blood the mystical qualities of mortal blood. It is sold widely to vampires avoiding human prey despite growing Blood Potency."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-Blood Alchemy 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Alchemist's Blood, animal blood, choleric mortal blood, nettles, iron pieces and meat glue."
+          },
+          {
+            "title": "Activation Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "System",
+            "text": "Produces a bluish-brown powder, or a substance bled and sifted from alchemist or vessel. Feed it to an animal so a vampire can feed on it as though human. Each distillation success enriches enough animal blood to sate one Hunger. Only the largest dogs can sate more than one without dying; horses, cattle and other large mammals contain enough to sate eight to ten Hunger when treated. Killing a TLC-treated animal cannot reduce Hunger to zero."
+          }
+        ]
+      }
+    }
+  ]
+}

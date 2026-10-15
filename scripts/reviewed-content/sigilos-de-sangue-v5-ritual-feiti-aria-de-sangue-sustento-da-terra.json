@@ -1,0 +1,97 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-sustento-da-terra",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Sustento da Terra",
+    "en": "Sustenance of the Earth"
+  },
+  "aliases": [
+    "Sustento da Terra",
+    "Sustenance of the Earth"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-sustento-da-terra-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 72, 73",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 72,
+          "printedPage": 70
+        },
+        {
+          "pdfPage": 73,
+          "printedPage": 71
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este ritual permite que um feiticeiro de sangue se “alimente” de\n\nUm lugar de poder. Eles o transformam em um lugar de sofrimento, de onde afastam a própria Fome por um breve período. Os kolduny chamam sua versão desse ritual de Boca da Terra."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um local de poder, como um furco, qualquer coisa que demarque um território, como uma fita policial, um poste de sinalização, um espaço fechado, etc., uma adaga."
+          },
+          {
+            "title": "Processo",
+            "text": "Ao longo de quatro noites, o conjurador usa uma adaga para esculpir símbolos ocultos nos cantos de um terreno ou de uma parede dentro de um local de poder, um canto para cada noite. Na quinta noite, o conjurador deve manchar todos esses símbolos com metade do sangue equivalente a um Teste de Sangue, contornando todo o local e manchando-os antes do fim da noite. Com a outra metade, o vampiro mancha algo que demarca o território que ele esculpiu e o coloca ao redor da área (se for algo como uma fita de isolamento policial) ou em um canto da área (se for algo como uma placa)."
+          },
+          {
+            "title": "Sistema",
+            "text": "Em caso de vitória, a terra demarcada pelo vampiro fica faminta. Um simples corte se transforma em uma laceração. Uma queda, que de outra forma seria inofensiva, quebra pescoços. Em geral, ferimentos e acidentes se tornam mais sangrentos. À medida que a terra se alimenta do sangue de inocentes, os benefícios são misticamente transferidos para o conjurador. Uma vez por sessão, o conjurador pode optar por passar automaticamente por um número de Testes de Sangue igual à sua margem no teste de Ritual. Este ritual dura até o final da história. Depois disso, o conjurador deve revestir os símbolos com um Teste de Sangue e uma rolagem de Ritual."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Feeds mystically from a place of power by turning it into a place of suffering. Kolduny call their version Mouth of the Earth."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A place of power such as a furcus, a dagger and a boundary marker such as police tape, a sign or an enclosure."
+          },
+          {
+            "title": "Process",
+            "text": "Over four nights carve occult signs at the corners, one per night. On the fifth, use half a Rouse Check of Blood to mark every sign before night ends and the other half to mark and place the boundary object."
+          },
+          {
+            "title": "System",
+            "text": "A win makes wounds and accidents there bloodier and more dangerous, transferring the land's feeding to the caster. Once per session they may automatically pass a number of Rouse Checks equal to Ritual margin."
+          },
+          {
+            "title": "Duration",
+            "text": "Until story's end; renew by coating the signs with another Rouse Check and making a Ritual roll."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

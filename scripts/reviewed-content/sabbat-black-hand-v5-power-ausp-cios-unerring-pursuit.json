@@ -1,0 +1,94 @@
+{
+  "id": "sabbat-black-hand-v5-power-ausp-cios-unerring-pursuit",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Perseguição Infalível",
+    "en": "Unerring Pursuit"
+  },
+  "aliases": [
+    "Perseguição Infalível",
+    "Unerring Pursuit"
+  ],
+  "discipline": "Auspícios",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-power-ausp-cios-unerring-pursuit-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 2,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 47, 48",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 47,
+          "printedPage": 46
+        },
+        {
+          "pdfPage": 48,
+          "printedPage": 47
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Auspícios": 2,
+          "Dominação": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Após contato visual, cria um vínculo com a vítima. Sempre que ela vê o próprio reflexo, o perseguidor pode observar um vislumbre dela e do ambiente. A vítima normalmente ignora a observação, mas pode ver o perseguidor atrás de si no reflexo. O Sabbat usa o poder para localizar presas e testemunhas."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Auspícios 2; Dominação 1."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Determinação + Auspícios; contra vampiros, Dificuldade 3. A fonte não fixa a Dificuldade contra mortais."
+          },
+          {
+            "title": "Sistema",
+            "text": "Basta um instante de contato visual. Enquanto o efeito durar, concentre-se por um turno para ver a impressão mental da última vez em que o alvo se viu num espelho ou superfície refletora, incluindo cromados, vitrines e óculos escuros. Ofuscação não protege contra isso, pois o efeito usa a autopercepção da vítima. Para reconhecer o local, teste Inteligência + Manha em áreas urbanas ou Inteligência + Sobrevivência em áreas rurais, Dificuldade de 2 a 4 conforme as circunstâncias. A vítima pode notar o perseguidor com Raciocínio + Percepção, Dificuldade 4; somente um crítico permite reconhecer ou recordar seu rosto."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite mais uma por sucesso contra mortais, ou uma noite mais uma por sucesso de margem contra vampiros, conforme a linha de Duração da fonte."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Dominate 1 Locking eyes with a subject, the vampire coaxes forth a supernatural bond between themselves and the victim. For a number of nights, the user is able to view glimpses of the target and their environment whenever the target sees themselves on a reflective surface. The target is generally unaware of the being so observed, but witnesses the presence of their pursuer as someone standing just behind them in their own reflection. While not exclusive to the Sabbat, this power is frequently used to track quarry, whether vampires marked as prey or mortal witnesses requiring silencing."
+          },
+          {
+            "title": "Requirements",
+            "text": "Auspex 2; Dominate 1."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Resolve + Auspex"
+          },
+          {
+            "title": "System",
+            "text": "The user locks eyes with the target, if only for a split second, and rolls Resolve + Auspex. On a win, the effect lasts for one night, plus one for each success in the margin. (If used against a vampire, the Difficulty of the roll is 3.) While the power is active the user can concentrate for a turn to gain a view of the last position of the target from the perspective of the target’s own reflection. Essentially, they view a mental impression of the most recent moment the victim saw themselves, intentionally or unintentionally, in a mirror or mirror-like surface (including polished chrome, shopping windows, or even someone’s sunglasses). Note that Obfuscate provides no protection from this power, as it relies on the victim’s self-perception. The user can recognize the surroundings of the target with an Intelligence + Streetwise (for urban areas) or Intelligence + Survival (for rural areas), the Difficulty depending on circumstances, such as being indoors, but should range from 2 to 4. The target can get a glimpse of their pursuer in their own reflection on a Wits + Awareness test at Difficulty 4, and only on a critical win will recognize their face, or recall it from where the individual saw them if they don’t know them personally."
+          },
+          {
+            "title": "Duration",
+            "text": "One night plus one for each success (or in the margin, in the case of a vampire target)"
+          }
+        ]
+      }
+    }
+  ]
+}

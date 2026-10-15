@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-jardim-das-v-sceras",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Jardim das Vísceras",
+    "en": "Visceral Garden"
+  },
+  "aliases": [
+    "Jardim das Vísceras",
+    "Visceral Garden"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-jardim-das-v-sceras-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 67",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 67,
+          "printedPage": 65
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Feiticeiros de Sangue podem cultivar plantas viciadas em Sangue em campos especiais, usando as plantações como componentes mágicos ou para diversão. Também é uma ótima maneira de se livrar de um corpo, se o feiticeiro de Sangue tiver espaço."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um pedaço de terra, um cadáver humano ou animal de um dia, o Sangue do conjurador (para manutenção)."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador limpa um terreno e cava um buraco. Ele abre o pulso e despeja Sangue equivalente a um Teste de Sangue no cadáver humano ou animal. O fato de o cadáver ter um dia de vida é essencial no caso de um cadáver humano; Abraços acidentais ocorrem quando o cadáver humano é muito recente.\n\nO cadáver é eviscerado e sua massa é jogada no buraco. O conjurador planta ou transfere suas plantas preferidas para o local e as cobre com as vísceras do cadáver."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória desintegra instantaneamente o corpo e as vísceras enterrados em uma fumaça com cheiro de sangue. Além disso, as plantas cultivadas no terreno são excepcionalmente resistentes e vampiros podem ingeri-las (consumir essas plantas como alimento não sacia a Fome, mas ela permanece no estômago). Testes de Disciplina de influência vampírica contra um mortal que ingeriu uma planta viscerada sofrem -1 na Dificuldade (ou o alvo perde dois dados de sua reserva de resistência, para disputas). As plantas devem receber o equivalente a um Teste de Sangue em Sangue todo mês, ou então murcham e morrem em uma semana. Uma vitória crucial estende o intervalo entre as regas para dois meses. Um cadáver de animal pode fertilizar um Jardim de Vísceras de cerca de 1 x 1 metro, ou cerca de 3 x 3 pés. Um cadáver humano dobra essas dimensões."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Grows Blood-addicted plants for magic or amusement while disposing of a body."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A plot of soil, a day-old human or animal corpse, and the caster's Blood for upkeep."
+          },
+          {
+            "title": "Process",
+            "text": "Clear and dig the plot. Pour one Rouse Check of Blood into the corpse, eviscerate it into the hole and plant over the viscera. A human corpse must be a day old to avoid an accidental Embrace."
+          },
+          {
+            "title": "System",
+            "text": "A win dissolves buried remains into blood-scented smoke and makes exceptionally hardy plants that vampires can eat without vomiting, although they sate no Hunger. Against a mortal who ate one, vampiric influence Discipline tests have Difficulty reduced by one, or the mortal loses two resistance dice in contests. Feed the plants one Rouse Check of Blood monthly or they wither and die within a week; a critical extends watering to every two months. An animal corpse fertilizes about one square meter (three by three feet); a human corpse doubles those dimensions."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "gehenna-war-v5-power-proteanismo-master-of-forms",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Mestre das Formas",
+    "en": "Master of Forms"
+  },
+  "aliases": [
+    "Mestre das Formas",
+    "Master of Forms"
+  ],
+  "discipline": "Proteanismo",
+  "level": 5,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-power-proteanismo-master-of-forms-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 5,
+      "sourceTitle": "Gehenna War V5, PDF pp. 50",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 50,
+          "printedPage": 48
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 5
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Mudança de Forma",
+            "Shapechange"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Amplia o repertório de formas animais muito além das uma ou duas habituais."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Proteanismo 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum."
+          },
+          {
+            "title": "Sistema",
+            "text": "Ao usar Mudança de Forma ou Metamorfose, pode escolher qualquer criatura dentro dos limites desses poderes, mudando a escolha a cada uso. Porém, cada espécie sempre assume a mesma aparência individual: seu cisne, por exemplo, será reconhecível como o mesmo cisne em todas as noites. As outras limitações dos poderes permanecem."
+          },
+          {
+            "title": "Duração",
+            "text": "A de Mudança de Forma ou Metamorfose."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Shapechange While most users of Protean can assume one or two animal forms, masters of Protean have a vastly extended repertoire."
+          },
+          {
+            "title": "Requirements",
+            "text": "Protean 5. Powers: Mudança de Forma or Shapechange."
+          },
+          {
+            "title": "Cost",
+            "text": "None"
+          },
+          {
+            "title": "System",
+            "text": "The user is no longer limited to choosing one animal form when using Shapechange or Metamorphosis. Rather, they can take on the form of any creature that falls within the limits of those abilities, different each time if they so wish. Each time they choose a beast form, such as a wolf, owl, or bat, they assume the same specific form, which may be recognized by witnesses. Thus, if the character turns into a swan on multiple nights, it always looks like that specific swan. All other limitations of Shapechange and Metamorphosis still apply."
+          },
+          {
+            "title": "Duration",
+            "text": "As Shapechange or Metamorphosis"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-le-sang-de-l-amour",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Le Sang De L’amour",
+    "en": "Le Sang de l’Amour"
+  },
+  "aliases": [
+    "Le Sang De L’amour",
+    "Le Sang de l'Amour",
+    "Le Sang de l’Amour"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-le-sang-de-l-amour-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 65, 66",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 65,
+          "printedPage": 63
+        },
+        {
+          "pdfPage": 66,
+          "printedPage": 64
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este ritual permite que o praticante crie uma conexão entre si e o amante que vai além da simples atração mútua."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Sangue do conjurador e de seu amante, dois frascos de vidro em correntes (ou tiras de couro)."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador coleta seu próprio sangue e o do seu amante ao mesmo tempo, com cuidado para mantê-los separados. Não precisam de muito sangue — apenas uma colher de chá. O único requisito: ambos devem desejar um ao outro no momento da conjuração. O conjurador sela as duas amostras de sangue dentro dos frascos, cada um pendurado em uma corrente. Enquanto os amantes trocam os frascos e os penduram no pescoço, o conjurador canta uma canção em louvor ao seu amante para Afrodite, Ishtar ou outra divindade do amor ou da luxúria."
+          },
+          {
+            "title": "Sistema",
+            "text": "Com uma vitória no teste Ritual, le Sang de l'Amour permite que ambos os participantes se concentrem (Determinação + Percepção) e saibam aproximadamente onde o outro está em caso de sucesso. Eles não obtêm uma localização exata, mas têm uma noção aproximada de distância — na mesma cidade, no mesmo estado, do outro lado do oceano. Com mais sucessos, eles obtêm mais informações, pequenos detalhes da sensação de estar na localização um do outro: eles sentem um convés subindo e descendo, a tensão de escalar terrenos acidentados ou a vibração de um barulho alto. Com uma vitória crítica, o ritual fornece um sucesso automático no teste de percepção do amante. Quaisquer outros sucessos permitem que eles realmente vejam breves vislumbres de seu amante e seus arredores, e até mesmo ouçam trechos de conversas. Em uma falha total, o sangue acidentalmente se mistura nos frascos e ambos os participantes ficam desorientados e confusos se tentarem se concentrar um no outro. Sua Autocontrole sofre, reduzida em 1 até o final da próxima cena, mesmo se eles quebrarem os dois frascos e encerrarem o ritual. O ritual só permanece eficaz enquanto ambos usarem o frasco do parceiro e enquanto os frascos permanecerem intactos. Se um dos participantes não desejar o outro durante o ritual (se for um jogador, deverá declarar isso em particular ao Narrador), o frasco seca e coagula na primeira vez que o usarem, tornando-se uma gosma inútil. Isso não tem efeito adverso sobre os dois participantes além das consequências pessoais."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Creates a connection between lovers beyond mutual attraction."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Blood from caster and lover and two glass vials on chains or leather straps."
+          },
+          {
+            "title": "Process",
+            "text": "Simultaneously collect a teaspoon of blood from each, keeping it separate. Both must desire each other during casting. Seal each sample, exchange vials and wear them around the neck while praising the lover to Aphrodite, Ishtar or another deity of love or lust."
+          },
+          {
+            "title": "System",
+            "text": "A win allows each participant to concentrate with Resolve + Awareness to sense the other's approximate distance and location: same city, state, across an ocean. Further successes yield sensory details such as a moving deck, difficult climbing or loud vibrations. A critical grants one automatic success on the lover-perception test; further successes can give glimpses of surroundings and fragments of conversation. On total failure, the samples mix and attempts to concentrate cause confusion and reduce Composure by one through the end of the next scene, even if both vials are broken. If either lover was unwilling during casting (tell the Storyteller privately), the blood dries and clots on first use without magical harm beyond personal consequences."
+          },
+          {
+            "title": "Duration",
+            "text": "While both wear the other's intact vial."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

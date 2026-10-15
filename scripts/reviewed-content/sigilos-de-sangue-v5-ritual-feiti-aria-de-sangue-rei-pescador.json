@@ -1,0 +1,117 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-rei-pescador",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Rei Pescador",
+    "en": "Fisher King"
+  },
+  "aliases": [
+    "Rei Pescador",
+    "Fisher King"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 5,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-rei-pescador-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 5,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 73, 74, 75",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 73,
+          "printedPage": 71
+        },
+        {
+          "pdfPage": 74,
+          "printedPage": 72
+        },
+        {
+          "pdfPage": 75,
+          "printedPage": 73
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 5
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este Ritual faz com que o Feiticeiro de Sangue se una à terra escolhida, lendo seus segredos como um livro. O tamanho da terra escolhida varia de acordo com o poder do feiticeiro, mas geralmente equivale aproximadamente ao tamanho do domínio de seu círculo. A versão koldun é chamada de Lozov Kral."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 5."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um ponto de referência representando uma região, terra da região, um pincel de crina de cavalo"
+          },
+          {
+            "title": "Processo",
+            "text": "O vampiro mistura sangue equivalente a um Teste de Sangue com terra da região que deseja observar. Com a mistura, o feiticeiro pinta símbolos mágicos em um ponto de referência importante para os habitantes da terra."
+          },
+          {
+            "title": "Sistema",
+            "text": "Em caso de vitória, o conjurador desenvolve uma conexão mental com a terra. Uma vez por sessão, o\n\nO feiticeiro pode realizar um teste de Raciocínio + Manha (se urbano ou suburbano) ou Raciocínio + Sobrevivência (se rural). Para cada sucesso, o Narrador responde com sinceridade a uma pergunta que o jogador tenha sobre a terra: sua maior ameaça, se há algum inimigo residindo ali, a Ressonância do sangue de seus habitantes, etc. Este ritual dura até o final da história, durante o qual o conjurador pode fazer mais uma pergunta por sessão. Depois disso, o conjurador deve repor seus símbolos, realizando outro Teste de Sangue e uma rolagem de Ritual para renová-los."
+          },
+          {
+            "title": "Ritual em Cadeia",
+            "text": "Quando acorrentado com Sustento da Terra\n\n(p. 64) e Compelir o Inanimado (p. 69), o grupo tem controle quase total sobre o local de poder e sua área circundante. Eles têm quase onisciência sobre a terra, com três perguntas gratuitas sobre ela por sessão, por conjurador. As estruturas ou árvores do terreno vigiar e avisar os conjuradores sobre a aproximação hostil, a menos que esteja magicamente disfarçado ou protegido. Enquanto estiver em a terra, os conjuradores podem consertar até 5 pontos de Dano agravado por noite, total (dividido entre os conjuradores são atendidos por ordem de chegada)."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          },
+          {
+            "title": "Regras gerais dos Rituais em Cadeia",
+            "text": "Uma cadeia reúne ao menos três Rituais, de quaisquer níveis, com um Ritual de nível 5 como eixo. Todos devem ser conjurados a até dez metros uns dos outros e todos precisam ter sucesso. O efeito em cadeia do eixo substitui os efeitos individuais; uma única falha rompe a cadeia."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Mentally joins caster and land, roughly the coterie's domain in size depending on power. Kolduny call it Lozov Kral."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 5."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A regional landmark, earth from the region and a horsehair brush."
+          },
+          {
+            "title": "Process",
+            "text": "Mix one Rouse Check of Blood with the earth and paint magical signs on a landmark important to its inhabitants."
+          },
+          {
+            "title": "System",
+            "text": "A win grants a mental connection. Once per session, roll Wits + Streetwise in urban or suburban land, or Wits + Survival in rural land. Each success earns a truthful answer about its greatest threat, resident enemies, inhabitants' Resonance or similar matters. The source also specifies one further question per session while it lasts. Renew after story's end with fresh signs, a Rouse Check and Ritual roll."
+          },
+          {
+            "title": "Chain",
+            "text": "With Sustenance of the Earth and Compel the Inanimate, the group gains near-total control and near-omniscience over the place of power and surrounding land: three free land questions per caster per session; structures or trees warn of hostile approaches unless magically concealed; while there, the casters may mend up to five Aggravated damage per night in total, shared first-come-first-served."
+          },
+          {
+            "title": "Duration",
+            "text": "Until story's end."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          },
+          {
+            "title": "General chained Ritual rules",
+            "text": "A chain comprises at least three Rituals of any level, with a level 5 Ritual as its hub. All must be cast within ten meters of one another and all must succeed. The hub’s chained effect replaces the individual effects; any failure breaks the chain."
+          }
+        ]
+      }
+    }
+  ]
+}

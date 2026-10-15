@@ -1,0 +1,82 @@
+{
+  "id": "gehenna-war-v5-power-proteanismo-bloodform",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Forma de Sangue",
+    "en": "Bloodform"
+  },
+  "aliases": [
+    "Forma de Sangue",
+    "Bloodform"
+  ],
+  "discipline": "Proteanismo",
+  "level": 5,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-power-proteanismo-bloodform-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 5,
+      "sourceTitle": "Gehenna War V5, PDF pp. 49",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 49,
+          "printedPage": 47
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Proteanismo": 5,
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Transforma todo o corpo, ou parte dele, numa massa amorfa de sangue."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Proteanismo 5; Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue; pode fazer outro para reformar parcialmente olhos, aparelho vocal, membros ou cabeça."
+          },
+          {
+            "title": "Sistema",
+            "text": "A forma líquida é imune à maioria das armas convencionais, inclusive estacas, mas fogo e sol agem normalmente. Atravessa frestas, sobe paredes e cruza tetos. Pode empurrar e puxar, mas manipulação fina de eletrônicos ou líquidos com partes feitas de Sangue tem Dificuldade aumentada em dois. Usa Disciplinas normalmente se não exigirem fala ou olhar, ou pode reformar as partes necessárias pagando o custo indicado. Partes transformadas precisam manter contato com a massa principal. Se perder ou tiver uma porção consumida, sua consciência segue a maior porção, e reforma-se com uma Fome adicional por membro ou massa equivalente perdida. Sangue consumido cria Laços normalmente, mas não pode mais ser controlado depois de ingerido por outro."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou até encerrar a transformação."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Amalgam: Blood Sorcery 2 This rare power lets the vampire take the form of an amorphous mass of blood, or to turn only part of their form to animate vitae."
+          },
+          {
+            "title": "Requirements",
+            "text": "Protean 5; Blood Sorcery 2."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check"
+          },
+          {
+            "title": "System",
+            "text": "The user transforms themselves into a liquid. In this form, they cannot be harmed by most conventional weapons (including stakes), though sunlight and fire still affect them as normal. The user can squeeze through small cracks, and even flow cleanly up walls or across ceilings. While in bloodform (or partially in bloodform), the user can perform general actions such as pushing and pulling, but the difficulty of fine manipulation of electronic devices or liquids increases by two if manipulating them as Blood. The user may use Disciplines as normal, provided they do not need to make eye contact or speak, though they can make a Rouse Check to partially reform eyes, a vocal tract, limbs, or head. The Kindred can transform only part of the body, such as a finger or leg, as desired, though it still needs to remain in touch with the main body. If part of the mass is separated (or entirely consumed) the user’s consciousness goes with the largest portion of Blood and the user reforms with one additional level of Hunger for each limb (or equivalent body mass) lost. If a portion of the user is consumed, it creates Blood Bonds as normal but the user cannot control their Blood after its been ingested by another."
+          },
+          {
+            "title": "Duration",
+            "text": "One scene or until the user ends the transformation"
+          }
+        ]
+      }
+    }
+  ]
+}

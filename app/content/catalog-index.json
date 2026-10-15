@@ -4573,6 +4573,2659 @@
           "sourceTitle": "Guia do Jogador V5, PDF pp. 111"
         }
       ]
+    },
+    {
+      "id": "gehenna-war-v5-ceremony-obl-vio-the-shallow-slumber",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "O Sono Raso",
+        "en": "The Shallow Slumber"
+      },
+      "aliases": [
+        "O Sono Raso",
+        "The Shallow Slumber"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-ceremony-obl-vio-the-shallow-slumber-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 52",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Passion Feast",
+                "Touch of Oblivion"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-formula-alquimia-do-sangue-fraco-beast-mode",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Modo Besta",
+        "en": "Beast Mode"
+      },
+      "aliases": [
+        "Modo Besta",
+        "Beast Mode"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 5,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-formula-alquimia-do-sangue-fraco-beast-mode-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 53",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-formula-alquimia-do-sangue-fraco-juice-box",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Caixinha de Suco",
+        "en": "Juice Box"
+      },
+      "aliases": [
+        "Caixinha de Suco",
+        "Juice Box"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 4,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-formula-alquimia-do-sangue-fraco-juice-box-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 53",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-formula-alquimia-do-sangue-fraco-whiff-its",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Farejadores",
+        "en": "Whiff-Its"
+      },
+      "aliases": [
+        "Farejadores",
+        "Whiff-Its"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 2,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-formula-alquimia-do-sangue-fraco-whiff-its-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 52, 53",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-power-animalismo-spirit-walk",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Caminhada Espiritual",
+        "en": "Spirit Walk"
+      },
+      "aliases": [
+        "Caminhada Espiritual",
+        "Spirit Walk"
+      ],
+      "discipline": "Animalismo",
+      "level": 5,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-power-animalismo-spirit-walk-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 48",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 5
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Subsumir o Espírito",
+                "Subsume the Spirit"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-power-celeridade-fluent-swiftness",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Velocidade Fluente",
+        "en": "Fluent Swiftness"
+      },
+      "aliases": [
+        "Velocidade Fluente",
+        "Fluent Swiftness"
+      ],
+      "discipline": "Celeridade",
+      "level": 1,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-power-celeridade-fluent-swiftness-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 48",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Celeridade": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-power-domina-o-lethe-s-call",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Chamado do Lete",
+        "en": "Lethe’s Call"
+      },
+      "aliases": [
+        "Chamado do Lete",
+        "Lethe’s Call"
+      ],
+      "discipline": "Dominação",
+      "level": 5,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-power-domina-o-lethe-s-call-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 48",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Dominação": 5
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Nublar Memória",
+                "Cloud Memory",
+                "Mente Esquecida",
+                "The Forgetful Mind"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-power-feiti-aria-de-sangue-blood-s-curse",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Maldição do Sangue",
+        "en": "Blood’s Curse"
+      },
+      "aliases": [
+        "Maldição do Sangue",
+        "Blood’s Curse"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-power-feiti-aria-de-sangue-blood-s-curse-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 50",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-power-fortitude-fluent-endurance",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Resistência Fluente",
+        "en": "Fluent Endurance"
+      },
+      "aliases": [
+        "Resistência Fluente",
+        "Fluent Endurance"
+      ],
+      "discipline": "Fortitude",
+      "level": 1,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-power-fortitude-fluent-endurance-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 48",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-power-ofusca-o-cache",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Esconderijo",
+        "en": "Cache"
+      },
+      "aliases": [
+        "Esconderijo",
+        "Cache"
+      ],
+      "discipline": "Ofuscação",
+      "level": 2,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-power-ofusca-o-cache-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 49",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 2
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Ensconce"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-power-ofusca-o-ensconce",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Ocultar Objetos",
+        "en": "Ensconce"
+      },
+      "aliases": [
+        "Ocultar Objetos",
+        "Ensconce"
+      ],
+      "discipline": "Ofuscação",
+      "level": 1,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-power-ofusca-o-ensconce-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 48, 49",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-power-pot-ncia-fluent-strength",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Força Fluente",
+        "en": "Fluent Strength"
+      },
+      "aliases": [
+        "Força Fluente",
+        "Fluent Strength"
+      ],
+      "discipline": "Potência",
+      "level": 1,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-power-pot-ncia-fluent-strength-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 49",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Potência": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-power-proteanismo-bloodform",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Forma de Sangue",
+        "en": "Bloodform"
+      },
+      "aliases": [
+        "Forma de Sangue",
+        "Bloodform"
+      ],
+      "discipline": "Proteanismo",
+      "level": 5,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-power-proteanismo-bloodform-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 49",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 5,
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-power-proteanismo-master-of-forms",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Mestre das Formas",
+        "en": "Master of Forms"
+      },
+      "aliases": [
+        "Mestre das Formas",
+        "Master of Forms"
+      ],
+      "discipline": "Proteanismo",
+      "level": 5,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-power-proteanismo-master-of-forms-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 50",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 5
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Mudança de Forma",
+                "Shapechange"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-atrocity-s-release",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Libertação da Atrocidade",
+        "en": "Atrocity’s Release"
+      },
+      "aliases": [
+        "Libertação da Atrocidade",
+        "Atrocity’s Release"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-atrocity-s-release-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 51",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-blood-to-water",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Sangue em Água",
+        "en": "Blood to Water"
+      },
+      "aliases": [
+        "Sangue em Água",
+        "Blood to Water"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-blood-to-water-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 50",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-innocence-s-veil",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Véu da Inocência",
+        "en": "Innocence’s Veil"
+      },
+      "aliases": [
+        "Véu da Inocência",
+        "Innocence’s Veil"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-innocence-s-veil-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 50, 51",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-reawakened-vigor",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Vigor Redespertado",
+        "en": "Reawakened Vigor"
+      },
+      "aliases": [
+        "Vigor Redespertado",
+        "Reawakened Vigor"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-reawakened-vigor-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 51",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-revealing-the-crimson-trail",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Revelar a Trilha Carmesim",
+        "en": "Revealing the Crimson Trail"
+      },
+      "aliases": [
+        "Revelar a Trilha Carmesim",
+        "Revealing the Crimson Trail"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "gehenna-war-v5"
+      ],
+      "versions": [
+        {
+          "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-revealing-the-crimson-trail-gehenna-war-v5",
+          "book": "gehenna-war-v5",
+          "sourceTitle": "Gehenna War V5, PDF pp. 50",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-ceremony-obl-vio-befoul-vessel",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Macular o Receptáculo",
+        "en": "Befoul Vessel"
+      },
+      "aliases": [
+        "Macular o Receptáculo",
+        "Befoul Vessel"
+      ],
+      "discipline": "Oblívio",
+      "level": 4,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-ceremony-obl-vio-befoul-vessel-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 53",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Necrotic Touch"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-ceremony-obl-vio-blinding-the-alloy-eye",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Cegando o Olho Metálico",
+        "en": "Blinding the Alloy Eye"
+      },
+      "aliases": [
+        "Cegando o Olho Metálico",
+        "Blinding the Alloy Eye"
+      ],
+      "discipline": "Oblívio",
+      "level": 2,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-ceremony-obl-vio-blinding-the-alloy-eye-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 53",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 2
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Shadow Cast"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-ceremony-obl-vio-harrowhaunt",
+      "kind": "ceremony",
+      "names": {
+        "pt-BR": "Assombração Atormentada",
+        "en": "Harrowhaunt"
+      },
+      "aliases": [
+        "Assombração Atormentada",
+        "Harrowhaunt"
+      ],
+      "discipline": "Oblívio",
+      "level": 3,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-ceremony-obl-vio-harrowhaunt-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 53",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 3
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Aura of Decay"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-formula-alquimia-do-sangue-fraco-on-demand-sunburn",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Queimadura Solar sob Demanda",
+        "en": "On-Demand Sunburn"
+      },
+      "aliases": [
+        "Queimadura Solar sob Demanda",
+        "On-Demand Sunburn"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-formula-alquimia-do-sangue-fraco-on-demand-sunburn-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 54",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-formula-alquimia-do-sangue-fraco-portable-shade",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Sombra Portátil",
+        "en": "Portable Shade"
+      },
+      "aliases": [
+        "Sombra Portátil",
+        "Portable Shade"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-formula-alquimia-do-sangue-fraco-portable-shade-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 54",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-power-animalismo-scent-of-prey",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Cheiro da Presa",
+        "en": "Scent of Prey"
+      },
+      "aliases": [
+        "Cheiro da Presa",
+        "Scent of Prey"
+      ],
+      "discipline": "Animalismo",
+      "level": 3,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-power-animalismo-scent-of-prey-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 48",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Animalismo": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-power-ausp-cios-unerring-pursuit",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Perseguição Infalível",
+        "en": "Unerring Pursuit"
+      },
+      "aliases": [
+        "Perseguição Infalível",
+        "Unerring Pursuit"
+      ],
+      "discipline": "Auspícios",
+      "level": 2,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-power-ausp-cios-unerring-pursuit-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 47, 48",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Auspícios": 2,
+              "Dominação": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-power-domina-o-tabula-rasa",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Tabula Rasa",
+        "en": "Tabula Rasa"
+      },
+      "aliases": [
+        "Tabula Rasa",
+        "Tabula Rasa"
+      ],
+      "discipline": "Dominação",
+      "level": 4,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-power-domina-o-tabula-rasa-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 48",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Dominação": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-power-feiti-aria-de-sangue-reclamation-of-vitae",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Retomada de Vitae",
+        "en": "Reclamation of Vitae"
+      },
+      "aliases": [
+        "Retomada de Vitae",
+        "Reclamation of Vitae"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-power-feiti-aria-de-sangue-reclamation-of-vitae-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 51",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-power-feiti-aria-de-sangue-transitive-bond",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Laço Transitivo",
+        "en": "Transitive Bond"
+      },
+      "aliases": [
+        "Laço Transitivo",
+        "Transitive Bond"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-power-feiti-aria-de-sangue-transitive-bond-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 50, 51",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-power-obl-vio-umbrous-clutch",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Garra Sombria",
+        "en": "Umbrous Clutch"
+      },
+      "aliases": [
+        "Garra Sombria",
+        "Umbrous Clutch"
+      ],
+      "discipline": "Oblívio",
+      "level": 4,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-power-obl-vio-umbrous-clutch-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 50",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Oblívio": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-power-ofusca-o-mask-of-isolation",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Máscara do Isolamento",
+        "en": "Mask of Isolation"
+      },
+      "aliases": [
+        "Máscara do Isolamento",
+        "Mask of Isolation"
+      ],
+      "discipline": "Ofuscação",
+      "level": 3,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-power-ofusca-o-mask-of-isolation-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 49",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 3,
+              "Dominação": 1
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Máscara de Mil Faces",
+                "Mask of a Thousand Faces"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-power-proteanismo-visceral-absorption",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Absorção Visceral",
+        "en": "Visceral Absorption"
+      },
+      "aliases": [
+        "Absorção Visceral",
+        "Visceral Absorption"
+      ],
+      "discipline": "Proteanismo",
+      "level": 3,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-power-proteanismo-visceral-absorption-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 50",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Proteanismo": 3,
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-beelzebeatit",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Beelzebeatit",
+        "en": "Beelzebeatit"
+      },
+      "aliases": [
+        "Beelzebeatit",
+        "Beelzebeatit"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-beelzebeatit-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 51",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-communal-vigor",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Vigor Comunal",
+        "en": "Communal Vigor"
+      },
+      "aliases": [
+        "Vigor Comunal",
+        "Communal Vigor"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-communal-vigor-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 51, 52",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-galvanic-ruination",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Ruína Galvânica",
+        "en": "Galvanic Ruination"
+      },
+      "aliases": [
+        "Ruína Galvânica",
+        "Galvanic Ruination"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-galvanic-ruination-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 52",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-simulacrum-gate",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Portal do Simulacro",
+        "en": "Simulacrum Gate"
+      },
+      "aliases": [
+        "Portal do Simulacro",
+        "Simulacrum Gate"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "sabbat-black-hand-v5"
+      ],
+      "versions": [
+        {
+          "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-simulacrum-gate-sabbat-black-hand-v5",
+          "book": "sabbat-black-hand-v5",
+          "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 52",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-condutor-meio-vivo",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Condutor Meio Vivo",
+        "en": "Half-Living Conductor"
+      },
+      "aliases": [
+        "Condutor Meio Vivo",
+        "Half-Living Conductor"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 4,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-condutor-meio-vivo-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 81",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-elevar",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Elevar",
+        "en": "Elevate"
+      },
+      "aliases": [
+        "Elevar",
+        "Elevate"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-elevar-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 76",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-estado-azul",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Estado Azul",
+        "en": "Blue State"
+      },
+      "aliases": [
+        "Estado Azul",
+        "Blue State"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 2,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-estado-azul-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 78",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-estado-vermelho",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Estado Vermelho",
+        "en": "Red State"
+      },
+      "aliases": [
+        "Estado Vermelho",
+        "Red State"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 4,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-estado-vermelho-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 81",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-fale-com-o-cora-o",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Fale com o Coração",
+        "en": "Speak from the Heart"
+      },
+      "aliases": [
+        "Fale com o Coração",
+        "Fale com o coração",
+        "Speak from the Heart"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-fale-com-o-cora-o-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 77",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-fluxo-de-saturno",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Fluxo de Saturno",
+        "en": "Saturn’s Flux"
+      },
+      "aliases": [
+        "Fluxo de Saturno",
+        "Saturn’s Flux"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 5,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-fluxo-de-saturno-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 82",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-hor-rio-de-check-out",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Horário de Check-out",
+        "en": "Check-Out Time"
+      },
+      "aliases": [
+        "Horário de Check-out",
+        "Horário de check-out",
+        "Check-Out Time"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-hor-rio-de-check-out-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 76",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-imitador",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Imitador",
+        "en": "Copycat"
+      },
+      "aliases": [
+        "Imitador",
+        "Copycat"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 4,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-imitador-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 80",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-m-scara-desligada",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Máscara Desligada",
+        "en": "Mask Off"
+      },
+      "aliases": [
+        "Máscara Desligada",
+        "Máscara desligada",
+        "Mask Off"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-m-scara-desligada-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 79",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-mancha-de-comida",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Mancha de Comida",
+        "en": "Food Smear"
+      },
+      "aliases": [
+        "Mancha de Comida",
+        "Mancha de comida",
+        "Food Smear"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-mancha-de-comida-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 76, 77",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pele-de-diamante",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Pele de Diamante",
+        "en": "Diamond Skin"
+      },
+      "aliases": [
+        "Pele de Diamante",
+        "Diamond Skin"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pele-de-diamante-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 78",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pele-de-fogo",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Pele de Fogo",
+        "en": "Fire Skin"
+      },
+      "aliases": [
+        "Pele de Fogo",
+        "Pele de fogo",
+        "Fire Skin"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pele-de-fogo-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 78",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pintura-corporal",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Pintura Corporal",
+        "en": "Body Paint"
+      },
+      "aliases": [
+        "Pintura Corporal",
+        "Body Paint"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pintura-corporal-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 75, 76",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pureza-marciana",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Pureza Marciana",
+        "en": "Martian Purity"
+      },
+      "aliases": [
+        "Pureza Marciana",
+        "Martian Purity"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-pureza-marciana-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 79",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-redes-de-hospitais",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Correntes Hospitalares",
+        "en": "Hospital Chains"
+      },
+      "aliases": [
+        "Correntes Hospitalares",
+        "Redes de Hospitais",
+        "Redes de hospitais",
+        "Hospital Chains"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-redes-de-hospitais-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 78, 79",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-surpresa-de-luz-negra",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Surpresa de Luz Negra",
+        "en": "Blacklight Surprise"
+      },
+      "aliases": [
+        "Surpresa de Luz Negra",
+        "Surpresa de luz negra",
+        "Blacklight Surprise"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 2,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-surpresa-de-luz-negra-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 77, 78",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-tlc",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "TLC",
+        "en": "TLC"
+      },
+      "aliases": [
+        "TLC"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-tlc-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 79, 80",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-torpor-avan-ado",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Torpor Avançado",
+        "en": "Advanced Torpor"
+      },
+      "aliases": [
+        "Torpor Avançado",
+        "Advanced Torpor"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 2,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-torpor-avan-ado-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 77",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-troll-o-piedoso",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Troll, o Piedoso",
+        "en": "Troll the Pious"
+      },
+      "aliases": [
+        "Troll, o Piedoso",
+        "Troll the Pious"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-troll-o-piedoso-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 80",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-vitae-msg",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Vitae MSG",
+        "en": "Vitae MSG"
+      },
+      "aliases": [
+        "Vitae MSG"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 4,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-formula-alquimia-do-sangue-fraco-vitae-msg-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 81, 82",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-power-feiti-aria-de-sangue-feiti-aria-kold-nica-ar",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Feitiçaria Koldúnica: Ar",
+        "en": "Koldunic Sorcery: Air"
+      },
+      "aliases": [
+        "Feitiçaria Koldúnica: Ar",
+        "Koldunic Sorcery: Air"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-power-feiti-aria-de-sangue-feiti-aria-kold-nica-ar-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF p. 63",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            },
+            "clans": [
+              "Tzimisce"
+            ],
+            "firstDisciplinePowerGroup": [
+              "Feitiçaria Koldúnica: Água",
+              "Feitiçaria Koldúnica: Fogo",
+              "Feitiçaria Koldúnica: Ar",
+              "Feitiçaria Koldúnica: Terra"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-power-feiti-aria-de-sangue-feiti-aria-kold-nica-fogo",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Feitiçaria Koldúnica: Fogo",
+        "en": "Koldunic Sorcery: Fire"
+      },
+      "aliases": [
+        "Feitiçaria Koldúnica: Fogo",
+        "Koldunic Sorcery: Fire"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-power-feiti-aria-de-sangue-feiti-aria-kold-nica-fogo-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF p. 63",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            },
+            "clans": [
+              "Tzimisce"
+            ],
+            "firstDisciplinePowerGroup": [
+              "Feitiçaria Koldúnica: Água",
+              "Feitiçaria Koldúnica: Fogo",
+              "Feitiçaria Koldúnica: Ar",
+              "Feitiçaria Koldúnica: Terra"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-power-feiti-aria-de-sangue-feiti-aria-kold-nica-gua",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Feitiçaria Koldúnica: Água",
+        "en": "Koldunic Sorcery: Water"
+      },
+      "aliases": [
+        "Feitiçaria Koldúnica: Água",
+        "Koldunic Sorcery: Water"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-power-feiti-aria-de-sangue-feiti-aria-kold-nica-gua-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF p. 63",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            },
+            "clans": [
+              "Tzimisce"
+            ],
+            "firstDisciplinePowerGroup": [
+              "Feitiçaria Koldúnica: Água",
+              "Feitiçaria Koldúnica: Fogo",
+              "Feitiçaria Koldúnica: Ar",
+              "Feitiçaria Koldúnica: Terra"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-power-feiti-aria-de-sangue-feiti-aria-kold-nica-terra",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Feitiçaria Koldúnica: Terra",
+        "en": "Koldunic Sorcery: Earth"
+      },
+      "aliases": [
+        "Feitiçaria Koldúnica: Terra",
+        "Koldunic Sorcery: Earth"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-power-feiti-aria-de-sangue-feiti-aria-kold-nica-terra-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF p. 63",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            },
+            "clans": [
+              "Tzimisce"
+            ],
+            "firstDisciplinePowerGroup": [
+              "Feitiçaria Koldúnica: Água",
+              "Feitiçaria Koldúnica: Fogo",
+              "Feitiçaria Koldúnica: Ar",
+              "Feitiçaria Koldúnica: Terra"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-abrigo-elemental",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Abrigo Elemental",
+        "en": "Elemental Shelter"
+      },
+      "aliases": [
+        "Abrigo Elemental",
+        "Elemental Shelter"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-abrigo-elemental-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 68",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Feitiçaria Koldúnica: Água",
+                "Feitiçaria Koldúnica: Fogo",
+                "Feitiçaria Koldúnica: Ar",
+                "Feitiçaria Koldúnica: Terra",
+                "Feitiçaria Koldúnica",
+                "Koldunic Sorcery"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-alma-do-hemonculus",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Alma do Hemônculo",
+        "en": "Soul of the Homunculus"
+      },
+      "aliases": [
+        "Alma do Hemônculo",
+        "Alma do Hemonculus",
+        "Soul of the Homunculus"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-alma-do-hemonculus-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 70, 135, 136",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-amarre-a-l-ngua-acusadora",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Amarre a Língua Acusadora",
+        "en": "Bind the Accusing Tongue"
+      },
+      "aliases": [
+        "Amarre a Língua Acusadora",
+        "Amarre a língua acusadora",
+        "Bind the Accusing Tongue"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-amarre-a-l-ngua-acusadora-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 62, 64",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-apreens-o-elemental",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Apreensão Elemental",
+        "en": "Elemental Grasp"
+      },
+      "aliases": [
+        "Apreensão Elemental",
+        "Elemental Grasp"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-apreens-o-elemental-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 64, 65",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Feitiçaria Koldúnica: Água",
+                "Feitiçaria Koldúnica: Fogo",
+                "Feitiçaria Koldúnica: Ar",
+                "Feitiçaria Koldúnica: Terra",
+                "Feitiçaria Koldúnica",
+                "Koldunic Sorcery"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-astromancia",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Astromancia",
+        "en": "Astromancy"
+      },
+      "aliases": [
+        "Astromancia",
+        "Astromancy"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 1,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-astromancia-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 61, 62",
+          "level": 1,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 1
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-ataque-elemental",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Ataque Elemental",
+        "en": "Elemental Attack"
+      },
+      "aliases": [
+        "Ataque Elemental",
+        "Elemental Attack"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-ataque-elemental-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 73, 74",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            },
+            "prerequisiteAlternatives": [
+              [
+                "Feitiçaria Koldúnica: Água",
+                "Feitiçaria Koldúnica: Fogo",
+                "Feitiçaria Koldúnica: Ar",
+                "Feitiçaria Koldúnica: Terra",
+                "Feitiçaria Koldúnica",
+                "Koldunic Sorcery"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-cavalgando-nas-veias-da-terra",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Cavalgando nas Veias da Terra",
+        "en": "Riding the Earth’s Veins"
+      },
+      "aliases": [
+        "Cavalgando nas Veias da Terra",
+        "Cavalgando nas veias da Terra",
+        "Riding the Earth’s Veins"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-cavalgando-nas-veias-da-terra-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 73",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-compelir-o-inanimado",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Compelir o Inanimado",
+        "en": "Compel the Inanimate"
+      },
+      "aliases": [
+        "Compelir o Inanimado",
+        "Compel the Inanimate"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-compelir-o-inanimado-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 71, 72",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-consulta-de-egr-gora",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Consulta de Egrégora",
+        "en": "Egregore Consultation"
+      },
+      "aliases": [
+        "Consulta de Egrégora",
+        "Egregore Consultation"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-consulta-de-egr-gora-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 72",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-haruspex-viral",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Haruspex Viral",
+        "en": "Viral Haruspex"
+      },
+      "aliases": [
+        "Haruspex Viral",
+        "Haruspex viral",
+        "Viral Haruspex"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-haruspex-viral-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 71",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-invas-o",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Invasão",
+        "en": "Trespass"
+      },
+      "aliases": [
+        "Invasão",
+        "Trespass"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-invas-o-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 71",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-jardim-das-v-sceras",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Jardim das Vísceras",
+        "en": "Visceral Garden"
+      },
+      "aliases": [
+        "Jardim das Vísceras",
+        "Visceral Garden"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-jardim-das-v-sceras-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 67",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-le-sang-de-l-amour",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Le Sang De L’amour",
+        "en": "Le Sang de l’Amour"
+      },
+      "aliases": [
+        "Le Sang De L’amour",
+        "Le Sang de l'Amour",
+        "Le Sang de l’Amour"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-le-sang-de-l-amour-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 65, 66",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-mestre-artes-o",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Mestre Artesão",
+        "en": "Master Craftsman"
+      },
+      "aliases": [
+        "Mestre Artesão",
+        "Master Craftsman"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-mestre-artes-o-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 64",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-nepenthe",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Nepenthe",
+        "en": "Nepenthe"
+      },
+      "aliases": [
+        "Nepenthe"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-nepenthe-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 68, 69",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-pedra-da-verdadeira-forma",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Pedra da Verdadeira Forma",
+        "en": "Stone of the True Form"
+      },
+      "aliases": [
+        "Pedra da Verdadeira Forma",
+        "Stone of the True Form"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-pedra-da-verdadeira-forma-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 70",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-procurando-tiamat",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Procurando Tiamat",
+        "en": "Seeking Tiamat"
+      },
+      "aliases": [
+        "Procurando Tiamat",
+        "Seeking Tiamat"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-procurando-tiamat-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 70",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-profundezas-do-pesadelo",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Profundezas do Pesadelo",
+        "en": "Depths of Nightmare"
+      },
+      "aliases": [
+        "Profundezas do Pesadelo",
+        "Depths of Nightmare"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-profundezas-do-pesadelo-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 64",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-rei-pescador",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Rei Pescador",
+        "en": "Fisher King"
+      },
+      "aliases": [
+        "Rei Pescador",
+        "Fisher King"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 5,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-rei-pescador-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 73, 74, 75",
+          "level": 5,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 5
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-sigilo-de-sangue",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Sigilo de Sangue",
+        "en": "Blood Sigil"
+      },
+      "aliases": [
+        "Sigilo de Sangue",
+        "Blood Sigil"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-sigilo-de-sangue-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 68",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-silentia-mortis",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Silentia Mortis",
+        "en": "Silentia Mortis"
+      },
+      "aliases": [
+        "Silentia Mortis"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-silentia-mortis-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 66",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-sustento-da-terra",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Sustento da Terra",
+        "en": "Sustenance of the Earth"
+      },
+      "aliases": [
+        "Sustento da Terra",
+        "Sustenance of the Earth"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 4,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-sustento-da-terra-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 72, 73",
+          "level": 4,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-tiamat-glistens",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Brilho de Tiamat",
+        "en": "Tiamat Glistens"
+      },
+      "aliases": [
+        "Brilho de Tiamat",
+        "Tiamat Glistens",
+        "Tiamat brilha"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 2,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-tiamat-glistens-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 66, 67",
+          "level": 2,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-ver-com-os-olhos-do-c-u",
+      "kind": "ritual",
+      "names": {
+        "pt-BR": "Ver com os Olhos do Céu",
+        "en": "See with the Eyes of Heaven"
+      },
+      "aliases": [
+        "Ver com os Olhos do Céu",
+        "Ver com os olhos do céu",
+        "See with the Eyes of Heaven"
+      ],
+      "discipline": "Feitiçaria de Sangue",
+      "level": 3,
+      "books": [
+        "sigilos-de-sangue-v5"
+      ],
+      "versions": [
+        {
+          "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-ver-com-os-olhos-do-c-u-sigilos-de-sangue-v5",
+          "book": "sigilos-de-sangue-v5",
+          "sourceTitle": "Sigilos de Sangue V5, PDF pp. 69",
+          "level": 3,
+          "requirements": {
+            "disciplines": {
+              "Feitiçaria de Sangue": 3
+            }
+          }
+        }
+      ]
     }
   ]
 }

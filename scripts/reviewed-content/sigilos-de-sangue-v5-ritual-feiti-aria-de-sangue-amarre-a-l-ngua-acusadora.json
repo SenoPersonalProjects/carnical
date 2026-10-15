@@ -1,0 +1,94 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-amarre-a-l-ngua-acusadora",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Amarre a Língua Acusadora",
+    "en": "Bind the Accusing Tongue"
+  },
+  "aliases": [
+    "Amarre a Língua Acusadora",
+    "Amarre a língua acusadora",
+    "Bind the Accusing Tongue"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-amarre-a-l-ngua-acusadora-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 62, 64",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 62,
+          "printedPage": 60
+        },
+        {
+          "pdfPage": 64,
+          "printedPage": 62
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Os Tremere desenvolveram esse ritual no início de sua ascensão ao poder, o que pode ajudar a explicar essa ascensão. Amarrar a Língua Acusadora impede que o alvo fale mal do conjurador, garantindo que os atos indizíveis do feiticeiro permaneçam assim."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma foto, efígie ou imagem do alvo, uma mecha de cabelo do alvo, um cordão de seda preta."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador enrola o cordão ao redor do cabelo e imagem enquanto entoa o encanto ritual."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória no teste de Ritual impede o alvo de dizer, escrever ou comunicar diretamente qualquer coisa negativa ou prejudicial — mesmo, ou melhor, especialmente, se for\n\nVerdadeiro — sobre o conjurador sem um teste de Autocontrole + Determinação (a dificuldade é igual ao nível de Feitiçaria de Sangue do conjurador +2). Em uma vitória crítica, a dificuldade do teste é igual ao nível de Feitiçaria de Sangue do conjurador +3. O ritual dura até que o alvo obtenha sucesso em seu teste, ou até que o cordão se desenrole, momento em que o cabelo e imagem se desfazem em pó."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Developed during the Tremere rise to power, this prevents the subject from speaking ill of the caster and keeping their unspeakable deeds unspoken."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A photograph, effigy or image of the subject, a lock of their hair and black silk cord."
+          },
+          {
+            "title": "Process",
+            "text": "Wind the cord around the hair and image while chanting."
+          },
+          {
+            "title": "System",
+            "text": "A win prevents the target from directly saying, writing or communicating anything negative or harmful about the caster, even if true, unless they pass Composure + Resolve at Difficulty Blood Sorcery + 2, or Blood Sorcery + 3 on a critical Ritual win. The effect ends when the target succeeds or the cord is unwound; the hair and image then crumble into dust."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-innocence-s-veil",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Véu da Inocência",
+    "en": "Innocence’s Veil"
+  },
+  "aliases": [
+    "Véu da Inocência",
+    "Innocence’s Veil"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 4,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-ritual-feiti-aria-de-sangue-innocence-s-veil-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 4,
+      "sourceTitle": "Gehenna War V5, PDF pp. 50, 51",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 50,
+          "printedPage": 48
+        },
+        {
+          "pdfPage": 51,
+          "printedPage": 49
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 4
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Torna temporariamente indetectáveis os sinais de Diablerie cometida pelo conjurador."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 4."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma faca de prata, uma vela branca e uma vítima mortal."
+          },
+          {
+            "title": "Processo",
+            "text": "Eleve a Fome por jejum ou sangria até Fome 5, à beira do Frenesi; então drene completamente um mortal."
+          },
+          {
+            "title": "Sistema",
+            "text": "Com sucesso, poderes como Um Gosto por Sangue e Perscrutar a Alma não detectam qualquer evidência de Diablerie passada. Conforme os Preceitos da crônica, realizar o ritual pode causar Máculas."
+          },
+          {
+            "title": "Duração",
+            "text": "Até saciar a Fome novamente."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The ritual allows the vampire to temporarily make any trace of diablerie on their part undetectable."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 4."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A silver knife, a white candle, a mortal victim"
+          },
+          {
+            "title": "Process",
+            "text": "The ritualist stokes their Hunger (usually through fasting or bloodletting) until they are at the verge of frenzy (Hunger 5), then slakes their Hunger on a mortal, draining them completely."
+          },
+          {
+            "title": "System",
+            "text": "If the ritual is successful, signs of diablerie on the user cease to manifest. Powers such as A Taste for Blood or Scry the Soul do not detect any evidence the ritualist has committed diablerie in the past."
+          },
+          {
+            "title": "Duration",
+            "text": "Until the ritualist slakes their Hunger again."
+          },
+          {
+            "title": "Note",
+            "text": "Depending on Chronicle Tenets, performing the Ritual can merit stains."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

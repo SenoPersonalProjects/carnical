@@ -1,0 +1,79 @@
+{
+  "id": "gehenna-war-v5-power-animalismo-spirit-walk",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Caminhada Espiritual",
+    "en": "Spirit Walk"
+  },
+  "aliases": [
+    "Caminhada Espiritual",
+    "Spirit Walk"
+  ],
+  "discipline": "Animalismo",
+  "level": 5,
+  "versions": [
+    {
+      "id": "gehenna-war-v5-power-animalismo-spirit-walk-gehenna-war-v5",
+      "book": "gehenna-war-v5",
+      "level": 5,
+      "sourceTitle": "Gehenna War V5, PDF pp. 48",
+      "sourceLanguage": "en",
+      "pdfSha256": "83ec9f6b34db9ca33ee13e86b5e8c891268819e8d32e85284bfbb30863ec3d5e",
+      "pages": [
+        {
+          "pdfPage": 48,
+          "printedPage": 46
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Animalismo": 5
+        },
+        "prerequisiteAlternatives": [
+          [
+            "Subsumir o Espírito",
+            "Subsume the Spirit"
+          ]
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Aprofunda a capacidade de habitar feras, saltando de um corpo animal a outro sem retornar ao próprio."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Animalismo 5."
+          },
+          {
+            "title": "Custo",
+            "text": "Nenhum adicional; permanecem os custos de Subsumir o Espírito."
+          },
+          {
+            "title": "Sistema",
+            "text": "Subsumir o Espírito sempre tem duração indefinida, como se obtivesse um crítico. Pode ativá-lo enquanto já habita um animal, transferindo a consciência sucessivamente entre feras."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Prerequisite: Subsume the Spirit The Kindred further masters their ability to inhabit the body of a beast, journeying from one form to another without retreating to their own body."
+          },
+          {
+            "title": "Requirements",
+            "text": "Animalism 5. Powers: Subsumir o Espírito or Subsume the Spirit."
+          },
+          {
+            "title": "Cost",
+            "text": "None, though the cost for Subsume the Spirit remains"
+          },
+          {
+            "title": "System",
+            "text": "When using Subsume the Spirit, the duration is always indefinite as though a Critical result was obtained. Furthermore the Kindred can activate Subsume the Spirit even while inhabiting an animal’s form, transferring their consciousness to beast after beast."
+          }
+        ]
+      }
+    }
+  ]
+}

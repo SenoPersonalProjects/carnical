@@ -1,0 +1,92 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-silentia-mortis",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Silentia Mortis",
+    "en": "Silentia Mortis"
+  },
+  "aliases": [
+    "Silentia Mortis"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 2,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-silentia-mortis-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 66",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 66,
+          "printedPage": 64
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "A replicação dos poderes da Disciplina não começou com a Alquimia do Sangue Fraco. Os Banu Haqim desenvolveram inicialmente este ritual para aqueles assassinos que não possuíam o poder Silêncio da Morte (Ofuscação 1). Desde então, ele se espalhou para o uso geral. O ritual encanta um talismã (geralmente a pata de um gato, doninha ou outro animal silencioso do deserto) para gerar uma espécie de ruído branco ou contrarressonância ao agitar o Sangue do portador. O efeito: um silêncio mágico emanando do portador, silenciando todos os sons dentro de seu raio de ação. Sons originados fora desse raio podem ser ouvidos lá dentro, vagamente."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 2."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Pata de um gato ou outro predador silencioso do deserto, sangue do conjurador (e do portador, se diferente), vela de cera de cadáver (p. 139), uma rosa branca."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador sussurra as palavras deste ritual, corta a palma da mão e aperta a pata no punho, embebendo-a em um Teste de Sangue no valor de seu sangue. Se destinado a um portador além do Ao conjurar, o portador também corta a palma da mão e segura a pata, realizando seu próprio Teste de Sangue e misturando seu sangue. O portador permanece em completo silêncio durante o ritual. Após queimar a rosa na vela, o conjurador apaga a chama da vela com a pata ensanguentada."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória no teste de Ritual cria um raio de 6 metros de silêncio mágico ao redor do portador, uma vez que ele ative o talismã realizando um segundo Teste de Sangue. O talismã deve tocar a carne do portador, mas ele não precisa mantê-lo na mão. O silêncio termina quando o portador perde o talismã ou após um hora, e o talismã se desfaz em nada. Um vitória crítica aumenta o raio para 12 metros."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Originally a Banu Haqim substitute for Silence of Death, the talisman creates magical silence by stirring its bearer's Blood. Outside sounds can still be heard faintly inside."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 2."
+          },
+          {
+            "title": "Ingredients",
+            "text": "A cat's paw or another silent desert predator's, the caster's Blood (and bearer's if different), a corpse-wax candle and a white rose."
+          },
+          {
+            "title": "Process",
+            "text": "Whisper the ritual, cut the palm and soak the paw with one Rouse Check of Blood. A different bearer must also cut their palm, make their own Rouse Check and mix Blood while remaining silent. Burn the rose and extinguish the candle with the bloody paw."
+          },
+          {
+            "title": "System",
+            "text": "A win creates a six-meter radius of silence when the bearer activates the talisman with a second Rouse Check; a critical increases the radius to twelve meters. It must touch flesh but need not be held."
+          },
+          {
+            "title": "Duration",
+            "text": "One hour or until the bearer loses the talisman; it then disintegrates."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

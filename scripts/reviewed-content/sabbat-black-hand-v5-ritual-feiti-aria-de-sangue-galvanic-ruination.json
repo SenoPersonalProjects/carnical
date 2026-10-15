@@ -1,0 +1,89 @@
+{
+  "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-galvanic-ruination",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Ruína Galvânica",
+    "en": "Galvanic Ruination"
+  },
+  "aliases": [
+    "Ruína Galvânica",
+    "Galvanic Ruination"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-galvanic-ruination-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 3,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 52",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 52,
+          "printedPage": 51
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Destrói circuitos elétricos, apagando alarmes, vigilância e iluminação, mas costuma causar incêndios e ruído. Muitos bandos do Sabbat consideram esse estrago uma vantagem."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Uma moeda de cobre."
+          },
+          {
+            "title": "Processo",
+            "text": "Unte a moeda com Sangue, jogue-a no chão e esmague-a com o pé como um cigarro. Numa vitória, ela se parte como porcelana e uma corrente sobrenatural assola os sistemas elétricos."
+          },
+          {
+            "title": "Sistema",
+            "text": "Toda instalação elétrica próxima deixa de funcionar, inclusive circuitos isolados como carros a bateria e geradores de emergência em operação ou ligados até um minuto após a conjuração. A área equivale a um galpão grande ou prédio de três andares. Ao conjurar, pode acrescentar um à Dificuldade por edifício adicional ou equivalente. Um crítico torna a pane relativamente discreta; sem crítico, causa ao menos um incêndio e descargas que afetam alto-falantes, alarmes e outros aparelhos ruidosos."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This Ritual violently disrupts electrical currents in the area, shorting out or fusing all wiring in the vicinity. Used to kill alarms, surveillance, and artificial lighting, the element of stealth is often short-lived, as collateral damage in the form of fires usually follows. Many Sabbat packs consider this less a flaw than a feature, though."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredient",
+            "text": "A copper coin"
+          },
+          {
+            "title": "Process",
+            "text": "The caster smears their Blood on the coin, drops it to the ground and grinds their foot on it, as if they were extinguishing a cigarette. If the Ritual is successful, the coin shatters like porcelain as a Blood-borne current ravages the electrical systems of the surrounding area."
+          },
+          {
+            "title": "System",
+            "text": "The Ritual instantly wrecks wiring in the vicinity to the extent that all electrical equipment ceases to function. This includes isolated circuits such as cars on batteries and any backup generators running or starting up within a minute of the casting. The area affected is equivalent to a large warehouse or a three-story building, though it can be extended at casting by adding a level of Difficulty for each additional building or building-equivalent. On a critical win the outage is relatively discreet, but will otherwise cause at least one fire, together with random bursts of static electricity raising hell with speakers, car alarms, and other loud electrical objects."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

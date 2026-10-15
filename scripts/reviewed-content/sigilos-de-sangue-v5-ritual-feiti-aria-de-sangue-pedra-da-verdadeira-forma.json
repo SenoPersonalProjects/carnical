@@ -1,0 +1,89 @@
+{
+  "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-pedra-da-verdadeira-forma",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Pedra da Verdadeira Forma",
+    "en": "Stone of the True Form"
+  },
+  "aliases": [
+    "Pedra da Verdadeira Forma",
+    "Stone of the True Form"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 3,
+  "versions": [
+    {
+      "id": "sigilos-de-sangue-v5-ritual-feiti-aria-de-sangue-pedra-da-verdadeira-forma-sigilos-de-sangue-v5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "sourceTitle": "Sigilos de Sangue V5, PDF pp. 70",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "9f8a31ba1d1feba28f6a3b73870530e0aba1c3b816f143f3cb01f84f08836588",
+      "pages": [
+        {
+          "pdfPage": 70,
+          "printedPage": 68
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Com uma pedra especial e um braço de arremesso excelente, um feiticeiro de Sangue pode dissipar alucinações e ilusões da noite. Há rumores de que funciona até mesmo com lupinos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 3."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Um pedaço de rocha metamórfica, como ardósia ou mármore."
+          },
+          {
+            "title": "Processo",
+            "text": "O conjurador deve alisar, esculpir ou tombar a rocha até formar uma esfera com tamanho entre uma bolinha de gude e uma bola de beisebol. Se tiver uma especialidade relevante na Arte ou acesso a um laboratório de geologia, pode fazer um teste para fazê-lo em uma hora; caso contrário, levará seis horas. O conjurador então reveste a esfera com uma quantidade equivalente a um Teste de Sangue de seu Sangue fervente e ordena que ela se revele na língua mais antiga que ele conhece."
+          },
+          {
+            "title": "Sistema",
+            "text": "Quando o vampiro arremessa a pedra (Destreza + Atletismo) e atinge algo que seja uma ilusão, um ser criado por uma Disciplina ou ritual (como um vozhd Tzimisce ou um hemonculus), ou um ser metamorfoseado (seja por Metamorfose ou por meios inerentes), o feiticeiro rola o teste de Ritual contra a Determinação + Ocultismo do alvo. Em caso de vitória, a ilusão se dissipa em um borrifo de sangue, o ser criado se despedaça em seus componentes individuais, ou o metamorfo dolorosamente retorna à sua forma original. Isto O efeito de revelação dura uma rodada. Qualquer margem é igual à penalidade de dados para a retomada da ilusão, reparo da criação ou próxima tentativa de mudança de forma. uma falha, o conjurador pode tentar novamente até o nascer do sol, assumindo que eles podem recuperar a pedra sem sendo massacrados. Uma vez que o ritual tenha sucesso, o a pedra quebra ao meio e não pode ser reutilizada."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "A specially prepared throwing stone dispels illusions and transformations, and is rumored to work on werewolves."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 3."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Metamorphic rock such as slate or marble."
+          },
+          {
+            "title": "Process",
+            "text": "Smooth or carve a sphere between marble and baseball size. A relevant Craft Specialty or geology laboratory allows a test to finish in an hour; otherwise six hours. Coat it in one Rouse Check of boiling Blood and command it to reveal truth in the oldest language known."
+          },
+          {
+            "title": "System",
+            "text": "Throw with Dexterity + Athletics. If it hits an illusion, a being created by Discipline or ritual (such as a vozhd or homunculus), or a transformed creature, roll the Ritual against Resolve + Occult. A win disperses the illusion in blood, separates the creation into components, or painfully restores the shapeshifter's original form for one turn. The margin becomes a dice penalty to restoring the illusion, creation or next transformation. On failure, recover the stone and retry until sunrise if possible. A successful stone splits and cannot be reused."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}

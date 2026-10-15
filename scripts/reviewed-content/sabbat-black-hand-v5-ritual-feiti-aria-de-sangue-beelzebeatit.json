@@ -1,0 +1,93 @@
+{
+  "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-beelzebeatit",
+  "kind": "ritual",
+  "names": {
+    "pt-BR": "Beelzebeatit",
+    "en": "Beelzebeatit"
+  },
+  "aliases": [
+    "Beelzebeatit",
+    "Beelzebeatit"
+  ],
+  "discipline": "Feitiçaria de Sangue",
+  "level": 1,
+  "versions": [
+    {
+      "id": "sabbat-black-hand-v5-ritual-feiti-aria-de-sangue-beelzebeatit-sabbat-black-hand-v5",
+      "book": "sabbat-black-hand-v5",
+      "level": 1,
+      "sourceTitle": "Sabbat: The Black Hand V5, PDF pp. 51",
+      "sourceLanguage": "en",
+      "pdfSha256": "df4b5f1abf3d1bac7ccc01f7941b330a2bd90211af05cc98e822c5370afd41f9",
+      "pages": [
+        {
+          "pdfPage": 51,
+          "printedPage": 50
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Torna a área repulsiva a animais, vermes e criaturas de intelecto inferior; até plantas podem parecer debilitadas. Afasta espiões de Animalismo e infestações atraídas por cadáveres e restos."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Feitiçaria de Sangue 1."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Vinagre ou álcool."
+          },
+          {
+            "title": "Processo",
+            "text": "Borrife o líquido no chão e gire no sentido anti-horário, demarcando visualmente a área."
+          },
+          {
+            "title": "Sistema",
+            "text": "Uma vitória expulsa criaturas de intelecto animal ou inferior de aproximadamente cem metros quadrados. Criaturas comandadas ou controladas podem voltar, destacando-se pelo comportamento. Por vontade própria, não retornam, salvo se enfurecidas ou sem outra passagem."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma cena ou uma noite, o que terminar primeiro."
+          },
+          {
+            "title": "Regras gerais de rituais",
+            "text": "Salvo indicação contrária, conjurar exige cinco minutos por nível do ritual, um Teste de Sangue e Inteligência + Feitiçaria de Sangue, Dificuldade igual a nível + 1. Os processos e prazos específicos acima prevalecem. Rituais benéficos só afetam o conjurador, salvo indicação expressa em contrário. Na criação, quem possui Feitiçaria de Sangue pode escolher um ritual de nível 1. Aprender outro custa nível do ritual × 3 XP e exige pelo menos o quadrado do nível em semanas; consulte o livro básico, pp. 272 e 274.\n\n[Página original das regras gerais](/rules/source?book=core-v5&page=274)"
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "This ritual causes lower-order living creatures to find the ritual area repellent. Animals avoid the area, vermin scuttle away from it, and even plants may take on a pitiful appearance. Used as a low-level precaution against Animalism spies, this ritual also prevents infestations of the sorts of creatures who would be drawn to gore, carrion, and the other sorts of remains the Sabbat often leaves in its wake."
+          },
+          {
+            "title": "Requirements",
+            "text": "Blood Sorcery 1."
+          },
+          {
+            "title": "Ingredients",
+            "text": "Vinegar or alcohol"
+          },
+          {
+            "title": "Process",
+            "text": "The ritualist sprinkles the vinegar or alcohol on the floor and turns counterclockwise, visually circumscribing the area in which the lesser creatures are to be expelled."
+          },
+          {
+            "title": "System",
+            "text": "If the ritual is successful, living creatures of animal intellect and below hastily vacate the area of about a hundred meters square. Thereafter, nothing prevents a directed or controlled creature from returning (but such things may be visible, and stand out due to their active expulsion), but such creatures won’t do it of their own volition unless enraged or no other option to traverse it exists. The effects last for one scene or one night, whichever comes first."
+          },
+          {
+            "title": "General ritual rules",
+            "text": "Unless a ritual states otherwise, casting requires five minutes per ritual level, one Rouse Check and an Intelligence + Blood Sorcery test at Difficulty equal to level + 1. The specific processes and timing above take precedence. Beneficial rituals affect only the caster unless expressly stated otherwise. At creation, a character with Blood Sorcery can choose one level 1 ritual. Learning another costs ritual level × 3 XP and requires at least level squared weeks; see core pp. 272 and 274.\n\n[Original general rules](/rules/source?book=core-v5&page=274)"
+          }
+        ]
+      }
+    }
+  ]
+}
