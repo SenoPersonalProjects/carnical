@@ -96,3 +96,31 @@ Tardia foram preservados. Nenhum efeito de Ritual foi automatizado no jogo.
 Gerador: `review-core-rituals.py`. Seleção usa os identificadores e metadados do
 catálogo compartilhado. Verificação: `check-core-rituals.mjs`, incluindo a
 preservação das 298 entradas anteriores. A seção de Alquimia continua pendente.
+
+## Quinto bloco: sete fórmulas nomeadas de Alquimia
+
+PDF 284–289: Longo Alcance, Neblina, Envolver, Defracionar, Hieros Gamos Profano,
+Ímpeto Aéreo e Despertar Adormecido. Incluem a tabela de qualidade 2/4/6,
+ingredientes, custo separado de destilação e ativação, os três métodos com
+paradas e limites, dano de extração, resistências e referências. O trecho de
+três colunas da página 287 foi conferido na imagem original.
+
+As sete fórmulas entram nas escolhas gratuitas e no XP, com nível e clã
+Sangue-Ralo exigidos. A fórmula gratuita por ponto continua limitada pelo total
+de escolhas. Defracionar mantém o nome alternativo “Defracionado” do texto.
+
+**Ainda pendente:** modelar na ficha aprendizado independente por método e
+cada receita que imita um poder específico. As descrições explicam essas
+restrições; este bloco não transfere receitas automaticamente nem apresenta
+uma fórmula genérica de imitação reutilizável como solução completa.
+
+Gerador `review-core-alchemy.py`; teste `check-core-alchemy.mjs`, preservando as
+319 entradas anteriores. Não automatiza fabricação, alimentação ou efeitos.
+
+## Correção de característica permanente
+
+Resiliência acrescenta a Fortitude atual à Vitalidade. Criação, modo de jogo e
+exportação agora usam o mesmo cálculo. A presença do poder é verificada na
+disciplina Fortitude, aceitando o nome português ou inglês; possuir apenas
+pontos de Fortitude não concede o benefício. Recalcular o máximo não apaga nem
+cura dano salvo. Verificação: `check-derived-traits.mjs`.

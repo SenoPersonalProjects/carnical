@@ -1,4 +1,5 @@
 "use client";
+import { healthCapacity } from "../derived-traits";
 import { UiText, useUiText } from "../ui-text";
 
 import { readAnchors } from "../anchors";
@@ -61,7 +62,7 @@ export default function GameSheet({displayName,signOutPath}:{displayName:string;
   },[character]);
   const setData=<K extends keyof GameData>(key:K,value:GameData[K])=>setCharacter(current=>current?{...current,data:{...current.data,[key]:value}}:current);
   const selectCharacter=(id:number)=>{if(saving.current||JSON.stringify(character)!==persisted.current)return;setUseSurge(false);const next=characters.find(item=>item.id===id)??null;setCharacter(next);persisted.current=JSON.stringify(next);history.replaceState(null,"",`/play?id=${id}`)};
-  const healthMax=(character?.data.attributes.Vigor||1)+3,willpowerMax=(character?.data.attributes.Autocontrole||1)+(character?.data.attributes.Determinação||1);
+  const healthMax=healthCapacity(character?.data || {}),willpowerMax=(character?.data.attributes.Autocontrole||1)+(character?.data.attributes.Determinação||1);
   const specialtiesBySkill=useMemo(()=>Object.groupBy(character?.data.specialties||[],item=>item.skill),[character]);
   const auditIssues=useMemo(()=>character?auditCharacter({name:character.name,concept:character.concept,clan:character.clan,data:character.data}):[],[character]);
   const traitOptions=useMemo(()=>{if(!character)return[];return[

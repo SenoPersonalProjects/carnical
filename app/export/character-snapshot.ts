@@ -1,3 +1,4 @@
+import { healthCapacity } from "../derived-traits";
 import { readAnchors, type Anchor } from "../anchors";
 import { xpBudget, xpSpent, type XpPurchase } from "../experience";
 import { bloodSession } from "../play/blood";
@@ -14,7 +15,7 @@ const items = (value: unknown): Array<{ name: string; dots: number; source: stri
 export function characterSnapshot(character: ExportCharacter) {
   const data = structuredClone(character.data) as Record<string, unknown>;
   const attributes = values(data.attributes), skills = values(data.skills), disciplines = values(data.disciplines);
-  const healthMax = (attributes.Vigor || 1) + 3;
+  const healthMax = healthCapacity({ attributes, disciplines, disciplinePowers: data.disciplinePowers as Record<string, string[]> });
   const willpowerMax = (attributes.Autocontrole || 1) + (attributes.Determinação || 1);
   const anchors: Anchor[] = Array.isArray(data.convictionAnchors) ? data.convictionAnchors.map(a => ({ touchstone: string(a.touchstone), conviction: string(a.conviction) })) : readAnchors(string(data.touchstones), string(data.convictions));
   const purchases = (Array.isArray(data.xpPurchases) ? data.xpPurchases : []) as XpPurchase[];

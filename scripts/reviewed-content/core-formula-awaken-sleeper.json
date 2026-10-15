@@ -1,0 +1,159 @@
+{
+  "id": "core-v5-formula-awaken-sleeper",
+  "kind": "formula",
+  "names": {
+    "pt-BR": "Despertar Adormecido",
+    "en": "Awaken the Sleeper"
+  },
+  "aliases": [
+    "Despertar Adormecido",
+    "Awaken the Sleeper"
+  ],
+  "discipline": "Alquimia do Sangue-Fraco",
+  "level": 5,
+  "versions": [
+    {
+      "id": "core-v5-formula-awaken-sleeper-core",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 282, 283, 284, 287",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 284,
+          "printedPage": 282
+        },
+        {
+          "pdfPage": 285,
+          "printedPage": 283
+        },
+        {
+          "pdfPage": 286,
+          "printedPage": 284
+        },
+        {
+          "pdfPage": 289,
+          "printedPage": 287
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 5
+        },
+        "clans": [
+          "Sangue-Ralo"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Elixir adicionado a sangue humano desperta um vampiro em Torpor."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Sangue-Ralo; Alquimia do Sangue-Fraco 5 e fórmula aprendida para o método escolhido."
+          },
+          {
+            "title": "Ingredientes",
+            "text": "Vitae do alquimista, sangue humano colérico ou sanguíneo, adrenalina, carbonato de amônio, água amoniacal, cafeína ou benzedrina, melatonina."
+          },
+          {
+            "title": "Custo de ativação",
+            "text": "A fonte não indica Teste de Sangue adicional para ativar; a destilação tem o custo geral."
+          },
+          {
+            "title": "Sistema",
+            "text": "Extraia da bolsa em Calcinatio ou da própria veia em Athanor, salvo em Fixatio, e misture a sangue humano. Sucessos de destilação menos 2 determinam a Potência de Sangue máxima que pode despertar: 5 sucessos despertam Potência 3 ou menor. Athanor: extração uma vez por noite sem nova destilação até se alimentar ou Fome 5. Calcinatio: se a bolsa sobreviver, extraia novamente após uma semana sem nova destilação; cada extração causa 5 danos agravados em Vitalidade à bolsa. Também pode alimentar o adormecido diretamente com sangue da bolsa."
+          },
+          {
+            "title": "Duração",
+            "text": "Desperta o alvo do Torpor; a fonte não fixa validade do elixir."
+          },
+          {
+            "title": "Destilação e aprendizado",
+            "text": "Cada fórmula exige o próprio Vitae, equivalente a um Teste de Sangue para destilar, e sangue humano da Ressonância indicada. O custo de ativação é separado. Ao ativar, a rolagem de destilação mede a qualidade; testes próprios do poder também são feitos quando necessários, substituindo a Disciplina imitada por Alquimia. Recebe uma fórmula gratuita por ponto em Alquimia; outras custam nível × 3 XP e pesquisa. Registre separadamente receitas e ingredientes."
+          },
+          {
+            "title": "Qualidade da mistura",
+            "text": "| Sucessos | Resultado |\n| --- | --- |\n| 2 | Efeito fraco, imprevisto ou atrasado |\n| 4 | Funciona como pretendido |\n| 6 | Efeito ampliado |"
+          },
+          {
+            "title": "Ingredientes e ajustes",
+            "text": "Ingredientes listados são sugestões: receitas autorais podem variar, mas o próprio Vitae é indispensável e quase sempre há sangue humano com Ressonância específica. Sangue frio ou coagulado pode servir em quantidade suficiente. Ingredientes podem incluir emoções ou experiências. O Narrador ajusta a parada em um ou dois dados conforme qualidade e originalidade. Referências: +1 por ingrediente raro ou caro (exige história ou Recursos acima do nível da fórmula); −1 por substituto barato, sem penalizar ingredientes comuns já previstos na receita; +1 por ingrediente mágico ou muito potente (Discrasia, sangue de lobisomem ou Vitae com Potência dois níveis acima da fórmula); −1 por sangue hospitalar ou adereços esotéricos banais; +1 por criatividade que gere complicações ou avance a história."
+          },
+          {
+            "title": "Escolha do método",
+            "text": "Escolha um método ao adquirir o primeiro ponto de Alquimia. Outro método começa do zero e conta como Disciplina separada. Fórmulas aprendidas num método não passam automaticamente a outro: cada receita precisa ser aprendida por método."
+          },
+          {
+            "title": "Athanor Corporis",
+            "text": "Usa o próprio corpo como forno. Beba os sangues ressonantes e destile internamente com Vigor + Alquimia e um Teste de Sangue. Só um poder pode estar ativo de cada vez. É preciso destilar um novo antes de ativá-lo, normalmente gastando ao menos três turnos de concentração sem fazer outra coisa."
+          },
+          {
+            "title": "Calcinatio",
+            "text": "Usa um humano como forno, ajustando seu estado biofísico com pressão emocional, encantos ou drogas e alimentando-o com Vitae. Pague a destilação e use Manipulação + Alquimia. Para ativar, beba sangue que sacie Fome igual ao nível da fórmula menos 1. Só uma fórmula por vítima; ela permanece enquanto o humano conservar o estado emocional. Ativar demora o tempo de drenar a quantidade de sangue necessária."
+          },
+          {
+            "title": "Fixatio",
+            "text": "Usa forno ou aparelho alquímico e ingredientes inertes. Pague a destilação; a parada é Inteligência + Alquimia, rolada ao consumir, não ao produzir. Sem laboratório, improviso só permite fórmulas até nível 3, com −2 dados por equipamento inadequado. Pode carregar fórmulas de qualquer nível em quantidade igual a Raciocínio ou Destreza; pode armazenar até 2 × (Alquimia + Refúgio), com conservação adequada. Tamanho dos recipientes depende do Narrador. Pode ativar um poder por turno."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "An elixir added to human blood awakens a vampire from torpor."
+          },
+          {
+            "title": "Requirements",
+            "text": "Thin-blood; Thin-Blood Alchemy 5 and the formula learned for the chosen method."
+          },
+          {
+            "title": "Ingredients",
+            "text": "The alchemist’s Vitae, choleric or sanguine human blood, adrenaline, ammonium carbonate, ammonia solution, caffeine or benzedrine, and melatonin."
+          },
+          {
+            "title": "Activation cost",
+            "text": "The source lists no additional activation Rouse Check; distillation has its general cost."
+          },
+          {
+            "title": "System",
+            "text": "Extract from the Calcinatio vessel or your Athanor vein unless using Fixatio, then mix with human blood. Distillation successes minus 2 determine the maximum Blood Potency awakened: 5 successes awaken Potency 3 or lower. Athanor: extract once per night without new distillation until feeding or Hunger 5. Calcinatio: a surviving vessel allows extraction again after one week without new distillation; each extraction inflicts 5 Aggravated Health damage on the vessel. May also feed the sleeper directly from the vessel’s blood."
+          },
+          {
+            "title": "Duration",
+            "text": "Awakens the target from torpor; the source sets no elixir expiry."
+          },
+          {
+            "title": "Distillation and learning",
+            "text": "Every formula requires the alchemist’s Vitae equivalent to one Rouse Check to distill, and human blood of the indicated Resonance. Activation cost is separate. On activation, the distillation roll measures quality; the power’s own rolls are also made as required, replacing an imitated Discipline with Alchemy. Gain one free formula per Alchemy dot; additional formulae cost level × 3 XP and research. Record recipes and ingredients separately."
+          },
+          {
+            "title": "Mixture quality",
+            "text": "| Successes | Result |\n| --- | --- |\n| 2 | Weak, unexpected or delayed effect |\n| 4 | Works as intended |\n| 6 | Enhanced effect |"
+          },
+          {
+            "title": "Ingredients and adjustments",
+            "text": "Listed ingredients are suggestions: personal recipes may vary, but the alchemist’s Vitae is essential and specific human Resonance is almost always needed. Cold or clotted blood may work in sufficient quantity. Ingredients may include emotions or experiences. The Storyteller adjusts pools by one or two dice for quality and originality. Guidelines: +1 per rare or expensive ingredient (requires a story or Resources above the formula level); −1 per cheap substitute, without penalizing common ingredients already specified; +1 per magical or powerful ingredient (Dyscrasia, werewolf blood or Vitae with Potency two levels above the formula); −1 for hospital blood or mundane occult trinkets; +1 for creativity that creates complications or advances the story."
+          },
+          {
+            "title": "Choosing a method",
+            "text": "Choose one method with the first Alchemy dot. Another method starts from zero and counts as a separate Discipline. Formulae learned in one method do not transfer automatically: each recipe must be learned for each method."
+          },
+          {
+            "title": "Athanor Corporis",
+            "text": "Uses the alchemist’s body as furnace. Drink the resonant bloods and distill internally with Stamina + Alchemy and one Rouse Check. Only one power can be active at a time. A new power must be distilled before activation, normally requiring at least three turns of concentration with no other actions."
+          },
+          {
+            "title": "Calcinatio",
+            "text": "Uses a human as furnace, adjusting their biophysical state with emotional pressure, incantations or drugs and feeding them Vitae. Pay distillation cost and roll Manipulation + Alchemy. To activate, drink blood slaking Hunger equal to formula level minus 1. Only one formula per victim; it persists while the human retains the emotional state. Activation takes the time needed to drain that much blood."
+          },
+          {
+            "title": "Fixatio",
+            "text": "Uses a furnace or alchemical apparatus with inert ingredients. Pay distillation cost; the pool is Intelligence + Alchemy, rolled when consuming rather than producing. Without a lab, improvised equipment permits only formulae up to level 3, with −2 dice for inadequate equipment. Carry formulae of any level up to Wits or Dexterity; store up to 2 × (Alchemy + Haven) with appropriate preservation. Container size depends on the Storyteller. May activate one power per turn."
+          }
+        ]
+      }
+    }
+  ]
+}

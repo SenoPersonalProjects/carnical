@@ -10332,6 +10332,231 @@
           }
         }
       ]
+    },
+    {
+      "id": "core-v5-formula-airborne-momentum",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Ímpeto Aéreo",
+        "en": "Airborne Momentum"
+      },
+      "aliases": [
+        "Ímpeto Aéreo",
+        "Airborne Momentum"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-formula-airborne-momentum-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 282, 283, 284, 287",
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 4
+            },
+            "clans": [
+              "Sangue-Ralo"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-formula-awaken-sleeper",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Despertar Adormecido",
+        "en": "Awaken the Sleeper"
+      },
+      "aliases": [
+        "Despertar Adormecido",
+        "Awaken the Sleeper"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-formula-awaken-sleeper-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 282, 283, 284, 287",
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 5
+            },
+            "clans": [
+              "Sangue-Ralo"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-formula-defractionate",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Defracionar",
+        "en": "Defractionate"
+      },
+      "aliases": [
+        "Defracionar",
+        "Defractionate",
+        "Defracionado"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-formula-defractionate-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 282, 283, 284, 285",
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            },
+            "clans": [
+              "Sangue-Ralo"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-formula-envelop",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Envolver",
+        "en": "Envelop"
+      },
+      "aliases": [
+        "Envolver",
+        "Envelop"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-formula-envelop-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 282, 283, 284, 285",
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 2
+            },
+            "clans": [
+              "Sangue-Ralo"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-formula-far-reach",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Longo Alcance",
+        "en": "Far Reach"
+      },
+      "aliases": [
+        "Longo Alcance",
+        "Far Reach"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-formula-far-reach-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 282, 283, 284, 285",
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            },
+            "clans": [
+              "Sangue-Ralo"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-formula-haze",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Neblina",
+        "en": "Haze"
+      },
+      "aliases": [
+        "Neblina",
+        "Haze"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-formula-haze-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 282, 283, 284, 285",
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 1
+            },
+            "clans": [
+              "Sangue-Ralo"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-v5-formula-profane-hieros-gamos",
+      "kind": "formula",
+      "names": {
+        "pt-BR": "Hieros Gamos Profano",
+        "en": "Profane Hieros Gamos"
+      },
+      "aliases": [
+        "Hieros Gamos Profano",
+        "Profane Hieros Gamos"
+      ],
+      "discipline": "Alquimia do Sangue-Fraco",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-v5-formula-profane-hieros-gamos-core",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 282, 283, 284, 285, 286",
+          "requirements": {
+            "disciplines": {
+              "Alquimia do Sangue-Fraco": 3
+            },
+            "clans": [
+              "Sangue-Ralo"
+            ]
+          }
+        }
+      ]
     }
   ]
 }
