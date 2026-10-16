@@ -34,9 +34,9 @@ def lines_from(page,textpage=None):
 def read_page(job):
  book,file,lang,ocr,index,output,tessdata=job
  target=Path(output)/book/f'{index+1:04}.json'
- version=6 if book=='companion-v5' else 4 if book=='cultos-deuses-sangue-v5' else 2 if ocr else 4
+ version=5 if book=='let-the-streets-run-red-v5' else 6 if book=='companion-v5' else 4 if book=='cultos-deuses-sangue-v5' else 2 if ocr else 4
  if target.exists() and json.loads(target.read_text(encoding='utf-8')).get('extractionVersion')==version:return book,index+1,'cached'
- doc=fitz.open(file);page=doc[index];method='native-text-with-layout'
+ doc=fitz.open(file);page=doc[index];method='native-text-with-layout';detected_columns=1
  lines=lines_from(page)
  folios=[l for l in lines if l['bbox'][1]>page.rect.height-65 and re.fullmatch(r'\d(?:\s*\d){0,3}',l['text'])]
  folio=max(folios,key=lambda l:l['bbox'][1]) if folios else None
@@ -68,7 +68,7 @@ def read_page(job):
  else:
   # Multi-column body first; full-width headings retain their position before the columns.
   body=[l for l in lines if len(l['text'])>30 and 35<l['bbox'][1]<page.rect.height-30]
-  if body and book=='companion-v5':
+  if body and book in ['companion-v5','let-the-streets-run-red-v5']:
    # The Companion switches between two and three columns, including pages
    # with artwork spanning the latter two. A fixed center split interleaves
    # the Bane and Compulsion on p. 15 and corrupts their meaning.
@@ -78,6 +78,7 @@ def read_page(job):
     if buckets[x]>=4 and all(abs(x-other)>65 for other in peaks):peaks.append(x)
     if len(peaks)==3:break
    peaks.sort()
+   detected_columns=max(1,len(peaks))
    if len(peaks)>=2:
     groups=[[] for _ in peaks]
     for line in lines:
@@ -93,6 +94,9 @@ def read_page(job):
   else:lines.sort(key=lambda l:(l['bbox'][1],l['bbox'][0]))
  # Drop repeating running headers and page numbers, preserving actual rule content.
  lines=[l for l in lines if 30<l['bbox'][1]<page.rect.height-28 and not (l['bbox'][1]>page.rect.height-65 and re.fullmatch(r'\d(?:\s*\d){0,3}',l['text'])) and not (l['bbox'][0]>page.rect.width-65 and l['bbox'][1]<110)]
+ if book=='let-the-streets-run-red-v5':
+  running={'letthestreetsrunred','powerprey','thedyingfields','innocenceinblood','rustedjungle','kindredbiographies','loresheetsandbackgrounds','readymadecharacters','introduction','debtsrepaid'}
+  lines=[line for line in lines if not (line['bbox'][1]<50 and re.sub(r'[^a-z]','',line['text'].lower()) in running)]
  body_sizes=[l['size'] for l in lines if len(l['text'])>20];body_size=statistics.median(body_sizes) if body_sizes else 10
  chunks=[];paragraph=[]
  def flush():
@@ -125,7 +129,10 @@ def read_page(job):
    if separated!=content and 'separated-stat-fields' not in format_changes:format_changes.append('separated-stat-fields')
    content=separated
   content=content.strip()
- data={'extractionVersion':version,'book':book,'pdfPage':index+1,'printedPage':printed,'method':method,'formatChanges':format_changes,'lines':lines,'content':content,'empty':not bool(lines)}
+  if book=='let-the-streets-run-red-v5':
+   repaired=re.sub(r'(?<=\w)-\n\n(?=[a-z])','',content)
+   if repaired!=content:format_changes.append('joined-column-continuations');content=repaired
+ data={'extractionVersion':version,'book':book,'pdfPage':index+1,'printedPage':printed,'method':method,'detectedColumns':detected_columns,'formatChanges':format_changes,'lines':lines,'content':content,'empty':not bool(lines)}
  target.parent.mkdir(parents=True,exist_ok=True);target.write_text(json.dumps(data,ensure_ascii=False),encoding='utf-8')
  doc.close();return book,index+1,method
 
@@ -137,7 +144,11 @@ if __name__=='__main__':
   file=pdf_root/name;doc=fitz.open(file)
   manifest.append({'id':book,'file':name,'language':lang,'pages':len(doc),'sha256':hashlib.sha256(file.read_bytes()).hexdigest(),'toc':doc.get_toc()})
   jobs.extend((book,str(file),lang,ocr,i,str(output),tessdata) for i in range(len(doc)));doc.close()
- output.mkdir(parents=True,exist_ok=True);(output/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
+ output.mkdir(parents=True,exist_ok=True)
+ manifest_file=output/'manifest.json'
+ if selected and manifest_file.exists():
+  previous={row['id']:row for row in json.loads(manifest_file.read_text(encoding='utf-8'))};previous.update({row['id']:row for row in manifest});manifest=[previous[book] for book in FILES if book in previous]
+ manifest_file.write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
  if '--manifest-only' in sys.argv:sys.exit(0)
  with concurrent.futures.ProcessPoolExecutor(max_workers=4) as pool:
   for count,(book,page,method) in enumerate(pool.map(read_page,jobs,chunksize=1),1):
