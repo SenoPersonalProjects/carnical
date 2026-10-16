@@ -15328,6 +15328,9 @@
           "requirements": {
             "incompatibleItems": [
               "core-background-haven"
+            ],
+            "creationExcludedClans": [
+              "Ravnos"
             ]
           },
           "names": {

@@ -35,7 +35,7 @@ for(const locale of process.argv.includes("--checks-only")?[]:["pt-BR","en"]){
 }
 const fetchOriginal=globalThis.fetch;
 try{
- const value=structuredClone(base);value.data.disciplinePowers={Oblívio:["O Chamado do Viajante"]};value.data.disciplines={Oblívio:1};const requests=[];
+ const value=structuredClone(base);value.data.flawItems=[];value.data.disciplinePowers={Oblívio:["O Chamado do Viajante"]};value.data.disciplines={Oblívio:1};const requests=[];
  globalThis.fetch=async url=>{const params=new URL(url,"http://fixture.local").searchParams,entry=catalog.entries.find(entry=>entry.id===params.get("id"));assert.ok(entry);requests.push(entry.id);const locale=params.get("lang");return Response.json({id:entry.id,name:entry.names[locale],source:entry.versions[0].sourceTitle,sections:entry.versions[0].descriptions[locale]})};
  const blob=await createCharacterPdf(characterSnapshot(value),"en");assert.equal(Buffer.from(await blob.arrayBuffer()).subarray(0,5).toString(),"%PDF-");assert.deepEqual(requests.sort(),["clan-tremere","cultos-deuses-sangue-v5-ceremony-obl-vio-o-chamado-do-viajante"].sort(),"Known Core clan and selected power both need full rules");
  const versioned=structuredClone(value);versioned.clan="Personalizado";versioned.data.customClan="Ravnos";versioned.data.disciplinePowers={};

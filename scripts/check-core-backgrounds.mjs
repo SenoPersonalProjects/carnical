@@ -17,6 +17,7 @@ assert.equal(entry('allies').versions.length,15);assert.ok(entry('allies').versi
 assert.equal(itemEligibility(ver('haven-cell',1),context).allowed,false);assert.equal(itemEligibility(ver('haven-cell',1),{...context,items:[item('haven',1,'Cripta')]}).allowed,false);assert.equal(itemEligibility(ver('haven-cell',1),{...context,items:[item('haven',2,'Mansão')]}).allowed,true);
 assert.equal(itemEligibility(ver('zeroed',1),{...context,items:[item('mask',1,'Nome falso')]}).allowed,false);assert.equal(itemEligibility(ver('zeroed',1),{...context,items:[item('mask',2,'Nome falso')]}).allowed,true);
 assert.equal(itemEligibility(ver('status',1),{...context,clan:'Caitiff'}).allowed,false);assert.equal(itemEligibility(ver('status',1),{...context,clan:'Caitiff',phase:'xp'}).allowed,true);
+assert.equal(itemEligibility(ver('no-haven',1),{...context,clan:'Ravnos'}).allowed,false);assert.equal(itemEligibility(ver('no-haven',1),context).allowed,true);
 assert.equal(itemEligibility(ver('minor-boon',1),{...context,phase:'xp'}).allowed,false);
 const caitiff=clanCreationFlaws([],'Caitiff');assert.equal(caitiff.length,1);assert.equal(ownItemDots(caitiff),0);assert.deepEqual(clanCreationFlaws(caitiff,'Caitiff'),caitiff);assert.equal(clanCreationFlaws(caitiff,'Brujah').length,0);assert.ok(remove({...data,flawItems:caitiff},'flawItems',0).error);
 const snapshot=characterSnapshot({name:'Teste',concept:'',clan:'Tremere',data:JSON.parse(JSON.stringify(after))});assert.equal(snapshot.merits[0].instanceName,first.instanceName);

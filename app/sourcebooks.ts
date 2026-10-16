@@ -12,9 +12,16 @@ export const SOURCEBOOKS = [
   { value: "let_the_streets_run_red_v5", libraryId: "let-the-streets-run-red-v5", label: "Let the Streets Run Red V5", short: "STREETS RUN RED" },
 ] as const;
 
-export function sourcebookLabel(value: string) {
-  if(value.startsWith("clan:"))return "Concedido pelo clã";
-  return SOURCEBOOKS.find(source => source.value === value)?.label ?? (value === "custom" ? "Conteúdo personalizado" : value);
+export function sourcebookLabel(value: string, locale:"pt-BR"|"en"="pt-BR") {
+  const en=locale==="en";
+  if(value.startsWith("clan:"))return en?"Granted by clan":"Concedido pelo clã";
+  if(value.startsWith("predator-required:"))return en?"Required by Predator Type":"Exigido pelo Predador";
+  if(value.startsWith("predator:"))return en?"Granted by Predator Type":"Concedido pelo Predador";
+  if(value==="xp")return en?"XP purchase":"Compra com XP";
+  if(value==="custom")return en?"Custom content":"Conteúdo personalizado";
+  const source=SOURCEBOOKS.find(source => source.value === value||source.libraryId===value);
+  const english:Record<string,string>={core_v5_ptbr:"V5 Corebook",cultos_deuses_sangue_v5:"Cults of the Blood Gods V5",sigilos_de_sangue_v5:"Blood Sigils V5"};
+  return source?(en?english[source.value]||source.label:source.label):value;
 }
 
 export function sourcebookShort(value: string) {
