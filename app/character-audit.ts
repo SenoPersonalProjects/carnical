@@ -1,3 +1,4 @@
+import {bloodPotencyRange} from "./blood-potency-limits";
 import {sameContent} from "./content/resolve";
 import {CONTENT_INDEX} from "./content/resolve";
 import {indexedItem,itemEligibility,thinBloodChoiceCounts} from "./content/item-eligibility";
@@ -31,6 +32,8 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
   const data=character.data||{},issues:AuditIssue[]=[];
   const chronicle={...DEFAULT_CHRONICLE_RULES,...(data.chronicleRules||{})};
   const add=(issue:AuditIssue)=>issues.push(chronicle.approvedIssueIds.includes(issue.id)?{...issue,kind:"approved",detail:`Permitido pela crônica. ${issue.detail}`}:issue);
+  const potencyRange=bloodPotencyRange(data.generation,character.clan);
+  if(potencyRange&&data.bloodPotency!==undefined&&(!Number.isInteger(data.bloodPotency)||data.bloodPotency<potencyRange.min||data.bloodPotency>potencyRange.max))add({id:"generation-potency-range",kind:"warning",title:"Potência fora dos limites da Geração",detail:`A Geração registrada permite Potência ${potencyRange.min}–${potencyRange.max}. O valor ${data.bloodPotency} foi preservado para revisão. A substituição das faixas iniciais não altera este limite geral.`,source:core("regras-e-criacao-sangue-fome-geracao-e-potencia-de-sangue","Geração","Livro Básico V5, p. 214")});
   if(!character.name?.trim())add({id:"identity-name",kind:"warning",title:"Nome não preenchido",detail:"A criação padrão precisa identificar o personagem. Você pode salvar e continuar mesmo assim.",source:creation});
   if(!character.concept?.trim())add({id:"identity-concept",kind:"warning",title:"Conceito não preenchido",detail:"O conceito orienta as escolhas da criação, mas pode ser definido depois.",source:creation});
   if(!character.clan?.trim())add({id:"identity-clan",kind:"warning",title:"Clã ou linhagem não definido",detail:"A escolha determina as Disciplinas iniciais e outras regras. Conteúdo personalizado continua permitido.",source:creation});
