@@ -8,7 +8,7 @@ export type ContentVersion = {
   descriptions:Record<Locale,RuleSection[]>;
   pdfSha256?:string;sourceLanguage?:Locale;
   grants?:{discipline:string;level:number};
-  requirements?:{disciplines?:Record<string,number>;prerequisites?:string[];prerequisiteAlternatives?:string[][];firstDisciplinePowerGroup?:string[];clans?:string[];characterTypes?:Array<"vampire"|"ghoul"|"mortal">;creationOnly?:boolean;storytellerApproval?:boolean;items?:string[];incompatibleItems?:string[];selectionGroup?:"thin-blood-merit"|"thin-blood-flaw"};
+  requirements?:{disciplines?:Record<string,number>;prerequisites?:string[];prerequisiteAlternatives?:string[][];firstDisciplinePowerGroup?:string[];clans?:string[];excludedClans?:string[];characterTypes?:Array<"vampire"|"ghoul"|"mortal">;creationOnly?:boolean;storytellerApproval?:boolean;items?:string[];incompatibleItems?:string[];selectionGroup?:"thin-blood-merit"|"thin-blood-flaw"};
 };
 export type ContentEntry = {
   id:string;legacyIds?:string[];kind:ContentKind;names:Record<Locale,string>;aliases:string[];discipline?:string;level?:number;versions:ContentVersion[];

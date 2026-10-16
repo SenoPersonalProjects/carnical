@@ -1,0 +1,60 @@
+{
+  "id": "core-trait-eat-food",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Ingerir Comida",
+    "en": "Eat Food"
+  },
+  "aliases": [
+    "Ingerir Comida",
+    "Eat Food",
+    "Ingerir comida"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-eat-food-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "sourceTitle": "Livro Básico V5, pp. 182 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Pode consumir comida sem esforço e até apreciá-la. Ela não fornece nutrição e precisa ser expelida antes de descansar durante o dia."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Can consume food effortlessly and even enjoy it. It provides no nourishment and must be expelled before resting during the day."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Merit dot(s)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 2
+}

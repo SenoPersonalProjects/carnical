@@ -1,0 +1,103 @@
+"""Core ordinary traits, visually reviewed against original PDF181–184.
+
+Archaic and the two folklore choice families are handled in a later batch.
+"""
+import json,sys,copy
+from pathlib import Path
+repo=Path(__file__).resolve().parent.parent;work=Path(sys.argv[1])
+source=next(row for row in json.loads((work/'pages/manifest.json').read_text(encoding='utf-8')) if row['id']=='core-v5')
+out=repo/'scripts/reviewed-content'
+
+def add(slug,pt,en,kind,levels,pages,body,english,note='',note_en='',aliases=(),requirements=None):
+ id='core-trait-'+slug;versions=[]
+ for level in levels:
+  sections={locale:[{'title':'Sistema' if locale=='pt-BR' else 'System','text':text},{'title':'Custo' if locale=='pt-BR' else 'Cost','text':f'{level} '+('ponto(s) de '+('Qualidade' if kind=='merit' else 'Defeito')+'.' if locale=='pt-BR' else ('Merit' if kind=='merit' else 'Flaw')+' dot(s).')}] for locale,text in [('pt-BR',body),('en',english)]}
+  if note:
+   sections['pt-BR'].append({'title':'Preenchimento e exceções','text':note});sections['en'].append({'title':'Selection and exceptions','text':note_en})
+  if kind=='merit':
+   sections['pt-BR'].append({'title':'Compra e uso','text':'Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens.'})
+   sections['en'].append({'title':'Purchase and use','text':'At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls.'})
+  version={'id':id+f'-core-v5-{level}','book':'core-v5','level':level,'sourceTitle':'Livro Básico V5, pp. '+', '.join(str(p-2) for p in pages)+f' · {level} ponto(s)','sourceLanguage':'pt-BR','pdfSha256':source['sha256'],'pages':[{'pdfPage':p,'printedPage':p-2} for p in pages],'descriptions':sections}
+  if len(levels)>1:version['names']={'pt-BR':f'{pt} — {level} ponto(s)','en':f'{en} — {level} dot(s)'}
+  if requirements:version['requirements']=copy.deepcopy(requirements)
+  versions.append(version)
+ entry={'id':id,'kind':kind,'names':{'pt-BR':pt,'en':en},'aliases':list(dict.fromkeys([pt,en]+list(aliases)+[name for version in versions for name in version.get('names',{}).values()])),'versions':versions}
+ if len(levels)==1:entry['level']=levels[0]
+ (out/(id+'.json')).write_text(json.dumps(entry,ensure_ascii=False,indent=2),encoding='utf-8')
+
+add('linguistics','Linguística','Linguistics','merit',[1,2,3,4,5],[181],
+'Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo.',
+'Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty.',
+'Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos.',
+'Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again.')
+add('illiterate','Analfabeto','Illiterate','flaw',[2],[181],
+'Não sabe ler ou escrever. Erudição e Ciência ficam limitadas a 1 ponto e não podem possuir Especializações que incorporem conhecimentos modernos.',
+'Cannot read or write. Academics and Science are limited to 1 dot and cannot have specialties incorporating modern knowledge.',
+'Confira as Habilidades e Especializações nas respectivas etapas. O Defeito não apaga escolhas existentes automaticamente.',
+'Review Skills and specialties in their respective steps. The Flaw does not automatically erase existing choices.')
+appearance_pt='O modificador vale apenas quando você pode ser visto. O Narrador decide caso a caso se ele afeta combate Social e quais paradas dentro do mesmo conflito são relevantes.'
+appearance_en='The modifier applies only when you can be seen. The Storyteller decides case by case whether it affects Social combat and which pools within the same conflict are relevant.'
+for slug,pt,en,kind,dots,modifier in [('repulsive','Repulsivo','Repulsive','flaw',2,-2),('ugly','Feio','Ugly','flaw',1,-1),('beautiful','Belo','Beautiful','merit',2,1),('stunning','Deslumbrante','Stunning','merit',4,2)]:
+ add(slug,pt,en,kind,[dots],[181],f'{modifier:+} dado(s) nas paradas Sociais apropriadas relacionadas à aparência.',f'{modifier:+} die/dice on appropriate appearance-related Social pools.',appearance_pt,appearance_en)
+substance_pt='Registre a substância nas notas do item. Seus efeitos próprios no sangue consumido continuam valendo independentemente desta Qualidade ou Defeito (regras de substâncias, p. 310). Recusar todo sangue que não contenha a substância exige também Exclusão de Presa, separadamente.'
+substance_en='Record the substance in the item notes. Its own effects in consumed blood still apply independently of this Merit or Flaw (substance rules, p. 310). Refusing all blood without the substance also requires Prey Exclusion separately.'
+for slug,pt,en,dots,penalty,pages in [('hopeless-addiction','Vício Incurável','Hopeless Addiction',2,2,[181,182]),('addiction','Dependência','Addiction',1,1,[181,182])]:
+ add(slug,pt,en,'flaw',[dots],pages,f'Perde {penalty} dado(s) de todas as paradas quando a última pessoa de quem se alimentou não estava sob os efeitos da droga escolhida. A penalidade não afeta ações para obter a droga imediatamente.',f'Lose {penalty} die/dice from all pools when the last person fed upon was not under the chosen drug’s influence. The penalty does not affect actions to immediately obtain the drug.',substance_pt,substance_en)
+add('high-functioning-addict','Viciado Funcional','High-Functioning Addict','merit',[1],[181,182],
+'Acrescenta 1 dado a uma categoria de paradas de dados escolhida se a última pessoa de quem se alimentou estava sob o efeito da droga escolhida.',
+'Add 1 die to one chosen category of dice pools if the last person fed upon was under the chosen drug’s influence.',
+substance_pt+' Registre também qual categoria de paradas recebe o bônus.',substance_en+' Also record the category of pools receiving the bonus.')
+bond_pt='Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha.'
+bond_en='Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests.'
+add('bondslave','Escravo do Laço','Bondslave','flaw',[2],[182,183],
+'Provar Vitae de outro vampiro uma única vez já cria um Laço de Sangue, em vez das três ingestões normais. Começa escravo do Senhor ou combina com o Narrador por que o primeiro Laço foi quebrado; por exemplo, o Senhor foi estaqueado ou está em outra cidade há mais de seis meses.',
+'Tasting another vampire’s vitae once creates a Blood Bond instead of the normal three drinks. Begin bound to the sire or agree with the Storyteller why the first Bond was broken; for example, the sire was staked or has been in another city for over six months.',bond_pt,bond_en)
+add('bond-junkie','Viciado em Laço','Bond Junkie','flaw',[1],[183],
+'O Laço é especialmente doce. Subtrai 1 dado das paradas para agir contra um Laço de Sangue.',
+'The Bond feels especially sweet. Subtract 1 die from pools to act against a Blood Bond.',bond_pt,bond_en)
+add('long-bond','Laço Longo','Long Bond','flaw',[1],[183],
+'Sem reforço, a força dos Laços de Sangue em você diminui em 1 apenas a cada três meses.',
+'Without reinforcement, Blood Bonds on you lose 1 strength only every three months.',bond_pt,bond_en)
+add('bond-resistance','Resistência ao Laço','Bond Resistance','merit',[1,2,3],[183],
+'Acrescenta 1 dado por ponto desta Qualidade às paradas para resistir a um Laço de Sangue. Máximo de três pontos.',
+'Add 1 die per dot of this Merit to pools resisting a Blood Bond. Maximum three dots.',bond_pt,bond_en)
+add('short-bond','Laço Curto','Short Bond','merit',[2],[183],
+'Sem reforço, a força dos Laços de Sangue em você diminui na lua cheia e na lua nova: dois níveis por mês.',
+'Without reinforcement, Blood Bonds on you weaken at the full and new moons: two levels per month.',bond_pt,bond_en)
+add('unbondable','À Prova de Laço','Unbondable','merit',[5],[183],
+'Não pode ser Enlaçado por um Laço de Sangue. Sua Vitae pode interessar a alquimistas.',
+'Cannot be bound by a Blood Bond. Your vitae may interest alchemists.',bond_pt,bond_en,aliases=['A Prova de Laço'])
+add('farmer','Fazendeiro','Farmer','flaw',[2],[183],
+'Alimenta-se apenas de sangue animal e precisa gastar 2 pontos de Força de Vontade para beber sangue humano. Ventrue não podem escolher este Defeito.',
+'Feeds only on animal blood and must spend 2 Willpower to drink human blood. Ventrue cannot select this Flaw.',
+'É o Defeito de alimentação, distinto do tipo de Predador de mesmo nome. O pacote do Predador já o concede; não o adicione novamente.',
+'This is the feeding Flaw, distinct from the Predator Type with the same name. The Predator package already grants it; do not add it again.',aliases=['Vegano (Fazendeiro)','Vegetariano'],requirements={'excludedClans':['Ventrue']})
+add('organovore','Organívoro','Organovore','flaw',[2],[183],
+'Só reduz Fome comendo carne e órgãos humanos, especialmente os ricos em sangue: coração, fígado, pulmões, placenta ou baço. Apenas o coração fornece Ressonância, se houver. Pode preparar os órgãos como bebida.',
+'Can reduce Hunger only by eating human flesh and organs, especially blood-rich organs such as the heart, liver, lungs, placenta or spleen. Only the heart provides Resonance, if any. The organs may be blended into a drink.')
+add('methuselahs-thirst','Sede do Matusalém','Methuselah’s Thirst','flaw',[1],[183],
+'A Fome só pode ser completamente saciada pelo sangue de criaturas sobrenaturais. Alquimistas talvez consigam engrossar Sangue de sangues-ralos o bastante. Com outras fontes, a Fome permanece no mínimo em 1, ou acima conforme a Potência de Sangue.',
+'Only the blood of supernatural creatures can fully slake Hunger. Alchemists may be able to thicken thin-blood Blood enough. Other sources leave Hunger at a minimum of 1, or higher depending on Blood Potency.',
+'A Potência de Sangue pode impor restrições adicionais; consulte a tabela corrigida e as regras de alimentação.',
+'Blood Potency may impose additional restrictions; consult the corrected table and feeding rules.',aliases=["Methuselah's Thirst"])
+add('prey-exclusion','Exclusão de Presa','Prey Exclusion','flaw',[1],[184],
+'Recusa caçar uma classe determinada de presas. Alimentar-se dela causa Máculas como violar um Princípio da crônica. Presenciar outros Membros alimentando-se dessas pessoas sem intervir também pode causar Máculas, a critério do Narrador. Para Ventrue, acrescenta uma restrição à preferência de sangue já existente.',
+'Refuses to hunt a specified class of prey. Feeding on them causes Stains as if violating a Chronicle Tenet. Watching other Kindred feed on them without intervening may also cause Stains at the Storyteller’s discretion. For Ventrue, adds a restriction to the existing blood preference.',
+'Registre a classe de presa nas notas: por exemplo, crianças, policiais, pessoas inocentes ou usuários de drogas. Pacotes de Predador podem impor versões específicas ou valores próprios; preserve a regra do pacote.',
+'Record the prey class in the notes: for example, children, police, innocent people or drug users. Predator packages may impose specific versions or their own ratings; preserve the package rule.')
+add('bloodhound','Sabujo de Sangue','Bloodhound','merit',[1],[184],
+'Pode farejar a Ressonância do sangue de um humano sem prová-lo, desde que esteja perto o suficiente para sentir seu cheiro. Role Determinação + Percepção, Dificuldade 3. Perfume ou distância aumentam a Dificuldade; contato mais íntimo a diminui.',
+'Can smell a human’s blood Resonance without tasting it when close enough to detect their scent. Roll Resolve + Awareness, Difficulty 3. Perfume or distance raises Difficulty; more intimate contact lowers it.')
+add('iron-gullet','Esôfago de Ferro','Iron Gullet','merit',[3],[184],
+'Pode se alimentar de sangue frio, sangue rançoso e plasma fracionado. Essas fontes não fornecem Ressonância. Ventrue não podem possuir esta Qualidade.',
+'Can feed on cold blood, rancid blood and fractionated plasma. These sources provide no Resonance. Ventrue cannot possess this Merit.',requirements={'excludedClans':['Ventrue']})
+add('stake-bait','Isca de Estaca','Stake Bait','flaw',[2],[184],
+'Uma estaca que trespasse seu coração causa Morte Final em vez de Torpor.',
+'A stake piercing your heart causes Final Death instead of Torpor.')
+add('stigmata','Estigma','Stigmata','flaw',[1],[184],
+'Ao alcançar Fome 4, começa a sangrar por feridas abertas nas mãos, pés e testa. Isso atrai atenção, deixa vestígios e pode impor penalidades às paradas, conforme decisão do Narrador.',
+'At Hunger 4, begins bleeding from open wounds in the hands, feet and forehead. This attracts attention, leaves traces and may impose dice penalties at the Storyteller’s discretion.')
+add('eat-food','Ingerir Comida','Eat Food','merit',[2],[184],
+'Pode consumir comida sem esforço e até apreciá-la. Ela não fornece nutrição e precisa ser expelida antes de descansar durante o dia.',
+'Can consume food effortlessly and even enjoy it. It provides no nourishment and must be expelled before resting during the day.',aliases=['Ingerir comida'])
+print('24 ordinary Core traits reviewed; Archaic and Folkloric choice families remain pending.')

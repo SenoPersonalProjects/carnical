@@ -1,0 +1,51 @@
+{
+  "id": "core-trait-stigmata",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Estigma",
+    "en": "Stigmata"
+  },
+  "aliases": [
+    "Estigma",
+    "Stigmata"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-stigmata-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, pp. 182 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Ao alcançar Fome 4, começa a sangrar por feridas abertas nas mãos, pés e testa. Isso atrai atenção, deixa vestígios e pode impor penalidades às paradas, conforme decisão do Narrador."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "At Hunger 4, begins bleeding from open wounds in the hands, feet and forehead. This attracts attention, leaves traces and may impose dice penalties at the Storyteller’s discretion."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 1
+}

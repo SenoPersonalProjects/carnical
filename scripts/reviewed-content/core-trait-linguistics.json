@@ -1,0 +1,304 @@
+{
+  "id": "core-trait-linguistics",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Linguística",
+    "en": "Linguistics"
+  },
+  "aliases": [
+    "Linguística",
+    "Linguistics",
+    "Linguística — 1 ponto(s)",
+    "Linguistics — 1 dot(s)",
+    "Linguística — 2 ponto(s)",
+    "Linguistics — 2 dot(s)",
+    "Linguística — 3 ponto(s)",
+    "Linguistics — 3 dot(s)",
+    "Linguística — 4 ponto(s)",
+    "Linguistics — 4 dot(s)",
+    "Linguística — 5 ponto(s)",
+    "Linguistics — 5 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-linguistics-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, pp. 179 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Linguística — 1 ponto(s)",
+        "en": "Linguistics — 1 dot(s)"
+      }
+    },
+    {
+      "id": "core-trait-linguistics-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Linguística — 2 ponto(s)",
+        "en": "Linguistics — 2 dot(s)"
+      }
+    },
+    {
+      "id": "core-trait-linguistics-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "sourceTitle": "Livro Básico V5, pp. 179 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty."
+          },
+          {
+            "title": "Cost",
+            "text": "3 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Linguística — 3 ponto(s)",
+        "en": "Linguistics — 3 dot(s)"
+      }
+    },
+    {
+      "id": "core-trait-linguistics-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "sourceTitle": "Livro Básico V5, pp. 179 · 4 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo."
+          },
+          {
+            "title": "Custo",
+            "text": "4 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty."
+          },
+          {
+            "title": "Cost",
+            "text": "4 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Linguística — 4 ponto(s)",
+        "en": "Linguistics — 4 dot(s)"
+      }
+    },
+    {
+      "id": "core-trait-linguistics-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "sourceTitle": "Livro Básico V5, pp. 179 · 5 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo."
+          },
+          {
+            "title": "Custo",
+            "text": "5 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty."
+          },
+          {
+            "title": "Cost",
+            "text": "5 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Linguística — 5 ponto(s)",
+        "en": "Linguistics — 5 dot(s)"
+      }
+    }
+  ]
+}

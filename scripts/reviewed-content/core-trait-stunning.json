@@ -1,0 +1,67 @@
+{
+  "id": "core-trait-stunning",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Deslumbrante",
+    "en": "Stunning"
+  },
+  "aliases": [
+    "Deslumbrante",
+    "Stunning"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-stunning-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "sourceTitle": "Livro Básico V5, pp. 179 · 4 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "+2 dado(s) nas paradas Sociais apropriadas relacionadas à aparência."
+          },
+          {
+            "title": "Custo",
+            "text": "4 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "O modificador vale apenas quando você pode ser visto. O Narrador decide caso a caso se ele afeta combate Social e quais paradas dentro do mesmo conflito são relevantes."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "+2 die/dice on appropriate appearance-related Social pools."
+          },
+          {
+            "title": "Cost",
+            "text": "4 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "The modifier applies only when you can be seen. The Storyteller decides case by case whether it affects Social combat and which pools within the same conflict are relevant."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 4
+}

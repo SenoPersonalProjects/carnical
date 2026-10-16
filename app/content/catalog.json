@@ -38048,6 +38048,1843 @@
           }
         }
       ]
+    },
+    {
+      "id": "core-trait-addiction",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Dependência",
+        "en": "Addiction"
+      },
+      "aliases": [
+        "Dependência",
+        "Addiction"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-addiction-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 179, 180 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            },
+            {
+              "pdfPage": 182,
+              "printedPage": 180
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Perde 1 dado(s) de todas as paradas quando a última pessoa de quem se alimentou não estava sob os efeitos da droga escolhida. A penalidade não afeta ações para obter a droga imediatamente."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Registre a substância nas notas do item. Seus efeitos próprios no sangue consumido continuam valendo independentemente desta Qualidade ou Defeito (regras de substâncias, p. 310). Recusar todo sangue que não contenha a substância exige também Exclusão de Presa, separadamente."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Lose 1 die/dice from all pools when the last person fed upon was not under the chosen drug’s influence. The penalty does not affect actions to immediately obtain the drug."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Record the substance in the item notes. Its own effects in consumed blood still apply independently of this Merit or Flaw (substance rules, p. 310). Refusing all blood without the substance also requires Prey Exclusion separately."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 1
+    },
+    {
+      "id": "core-trait-beautiful",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Belo",
+        "en": "Beautiful"
+      },
+      "aliases": [
+        "Belo",
+        "Beautiful"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-beautiful-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "+1 dado(s) nas paradas Sociais apropriadas relacionadas à aparência."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "O modificador vale apenas quando você pode ser visto. O Narrador decide caso a caso se ele afeta combate Social e quais paradas dentro do mesmo conflito são relevantes."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "+1 die/dice on appropriate appearance-related Social pools."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "The modifier applies only when you can be seen. The Storyteller decides case by case whether it affects Social combat and which pools within the same conflict are relevant."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 2
+    },
+    {
+      "id": "core-trait-bloodhound",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Sabujo de Sangue",
+        "en": "Bloodhound"
+      },
+      "aliases": [
+        "Sabujo de Sangue",
+        "Bloodhound"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-bloodhound-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 182 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Pode farejar a Ressonância do sangue de um humano sem prová-lo, desde que esteja perto o suficiente para sentir seu cheiro. Role Determinação + Percepção, Dificuldade 3. Perfume ou distância aumentam a Dificuldade; contato mais íntimo a diminui."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Can smell a human’s blood Resonance without tasting it when close enough to detect their scent. Roll Resolve + Awareness, Difficulty 3. Perfume or distance raises Difficulty; more intimate contact lowers it."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Merit dot(s)."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 1
+    },
+    {
+      "id": "core-trait-bond-junkie",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Viciado em Laço",
+        "en": "Bond Junkie"
+      },
+      "aliases": [
+        "Viciado em Laço",
+        "Bond Junkie"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-bond-junkie-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "O Laço é especialmente doce. Subtrai 1 dado das paradas para agir contra um Laço de Sangue."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "The Bond feels especially sweet. Subtract 1 die from pools to act against a Blood Bond."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 1
+    },
+    {
+      "id": "core-trait-bond-resistance",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Resistência ao Laço",
+        "en": "Bond Resistance"
+      },
+      "aliases": [
+        "Resistência ao Laço",
+        "Bond Resistance",
+        "Resistência ao Laço — 1 ponto(s)",
+        "Bond Resistance — 1 dot(s)",
+        "Resistência ao Laço — 2 ponto(s)",
+        "Bond Resistance — 2 dot(s)",
+        "Resistência ao Laço — 3 ponto(s)",
+        "Bond Resistance — 3 dot(s)"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-bond-resistance-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Acrescenta 1 dado por ponto desta Qualidade às paradas para resistir a um Laço de Sangue. Máximo de três pontos."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Add 1 die per dot of this Merit to pools resisting a Blood Bond. Maximum three dots."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Resistência ao Laço — 1 ponto(s)",
+            "en": "Bond Resistance — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-bond-resistance-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Acrescenta 1 dado por ponto desta Qualidade às paradas para resistir a um Laço de Sangue. Máximo de três pontos."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Add 1 die per dot of this Merit to pools resisting a Blood Bond. Maximum three dots."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Resistência ao Laço — 2 ponto(s)",
+            "en": "Bond Resistance — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-bond-resistance-core-v5-3",
+          "book": "core-v5",
+          "level": 3,
+          "sourceTitle": "Livro Básico V5, pp. 181 · 3 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Acrescenta 1 dado por ponto desta Qualidade às paradas para resistir a um Laço de Sangue. Máximo de três pontos."
+              },
+              {
+                "title": "Custo",
+                "text": "3 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Add 1 die per dot of this Merit to pools resisting a Blood Bond. Maximum three dots."
+              },
+              {
+                "title": "Cost",
+                "text": "3 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Resistência ao Laço — 3 ponto(s)",
+            "en": "Bond Resistance — 3 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-bondslave",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Escravo do Laço",
+        "en": "Bondslave"
+      },
+      "aliases": [
+        "Escravo do Laço",
+        "Bondslave"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-bondslave-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 180, 181 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 182,
+              "printedPage": 180
+            },
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Provar Vitae de outro vampiro uma única vez já cria um Laço de Sangue, em vez das três ingestões normais. Começa escravo do Senhor ou combina com o Narrador por que o primeiro Laço foi quebrado; por exemplo, o Senhor foi estaqueado ou está em outra cidade há mais de seis meses."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Tasting another vampire’s vitae once creates a Blood Bond instead of the normal three drinks. Begin bound to the sire or agree with the Storyteller why the first Bond was broken; for example, the sire was staked or has been in another city for over six months."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 2
+    },
+    {
+      "id": "core-trait-eat-food",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Ingerir Comida",
+        "en": "Eat Food"
+      },
+      "aliases": [
+        "Ingerir Comida",
+        "Eat Food",
+        "Ingerir comida"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-eat-food-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 182 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Pode consumir comida sem esforço e até apreciá-la. Ela não fornece nutrição e precisa ser expelida antes de descansar durante o dia."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Can consume food effortlessly and even enjoy it. It provides no nourishment and must be expelled before resting during the day."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Merit dot(s)."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 2
+    },
+    {
+      "id": "core-trait-farmer",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Fazendeiro",
+        "en": "Farmer"
+      },
+      "aliases": [
+        "Fazendeiro",
+        "Farmer",
+        "Vegano (Fazendeiro)",
+        "Vegetariano"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-farmer-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Alimenta-se apenas de sangue animal e precisa gastar 2 pontos de Força de Vontade para beber sangue humano. Ventrue não podem escolher este Defeito."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "É o Defeito de alimentação, distinto do tipo de Predador de mesmo nome. O pacote do Predador já o concede; não o adicione novamente."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Feeds only on animal blood and must spend 2 Willpower to drink human blood. Ventrue cannot select this Flaw."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "This is the feeding Flaw, distinct from the Predator Type with the same name. The Predator package already grants it; do not add it again."
+              }
+            ]
+          },
+          "requirements": {
+            "excludedClans": [
+              "Ventrue"
+            ]
+          }
+        }
+      ],
+      "level": 2
+    },
+    {
+      "id": "core-trait-high-functioning-addict",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Viciado Funcional",
+        "en": "High-Functioning Addict"
+      },
+      "aliases": [
+        "Viciado Funcional",
+        "High-Functioning Addict"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-high-functioning-addict-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 179, 180 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            },
+            {
+              "pdfPage": 182,
+              "printedPage": 180
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Acrescenta 1 dado a uma categoria de paradas de dados escolhida se a última pessoa de quem se alimentou estava sob o efeito da droga escolhida."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Registre a substância nas notas do item. Seus efeitos próprios no sangue consumido continuam valendo independentemente desta Qualidade ou Defeito (regras de substâncias, p. 310). Recusar todo sangue que não contenha a substância exige também Exclusão de Presa, separadamente. Registre também qual categoria de paradas recebe o bônus."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Add 1 die to one chosen category of dice pools if the last person fed upon was under the chosen drug’s influence."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Record the substance in the item notes. Its own effects in consumed blood still apply independently of this Merit or Flaw (substance rules, p. 310). Refusing all blood without the substance also requires Prey Exclusion separately. Also record the category of pools receiving the bonus."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 1
+    },
+    {
+      "id": "core-trait-hopeless-addiction",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Vício Incurável",
+        "en": "Hopeless Addiction"
+      },
+      "aliases": [
+        "Vício Incurável",
+        "Hopeless Addiction"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-hopeless-addiction-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 179, 180 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            },
+            {
+              "pdfPage": 182,
+              "printedPage": 180
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Perde 2 dado(s) de todas as paradas quando a última pessoa de quem se alimentou não estava sob os efeitos da droga escolhida. A penalidade não afeta ações para obter a droga imediatamente."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Registre a substância nas notas do item. Seus efeitos próprios no sangue consumido continuam valendo independentemente desta Qualidade ou Defeito (regras de substâncias, p. 310). Recusar todo sangue que não contenha a substância exige também Exclusão de Presa, separadamente."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Lose 2 die/dice from all pools when the last person fed upon was not under the chosen drug’s influence. The penalty does not affect actions to immediately obtain the drug."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Record the substance in the item notes. Its own effects in consumed blood still apply independently of this Merit or Flaw (substance rules, p. 310). Refusing all blood without the substance also requires Prey Exclusion separately."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 2
+    },
+    {
+      "id": "core-trait-illiterate",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Analfabeto",
+        "en": "Illiterate"
+      },
+      "aliases": [
+        "Analfabeto",
+        "Illiterate"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-illiterate-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Não sabe ler ou escrever. Erudição e Ciência ficam limitadas a 1 ponto e não podem possuir Especializações que incorporem conhecimentos modernos."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Confira as Habilidades e Especializações nas respectivas etapas. O Defeito não apaga escolhas existentes automaticamente."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Cannot read or write. Academics and Science are limited to 1 dot and cannot have specialties incorporating modern knowledge."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Review Skills and specialties in their respective steps. The Flaw does not automatically erase existing choices."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 2
+    },
+    {
+      "id": "core-trait-iron-gullet",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Esôfago de Ferro",
+        "en": "Iron Gullet"
+      },
+      "aliases": [
+        "Esôfago de Ferro",
+        "Iron Gullet"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-iron-gullet-core-v5-3",
+          "book": "core-v5",
+          "level": 3,
+          "sourceTitle": "Livro Básico V5, pp. 182 · 3 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Pode se alimentar de sangue frio, sangue rançoso e plasma fracionado. Essas fontes não fornecem Ressonância. Ventrue não podem possuir esta Qualidade."
+              },
+              {
+                "title": "Custo",
+                "text": "3 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Can feed on cold blood, rancid blood and fractionated plasma. These sources provide no Resonance. Ventrue cannot possess this Merit."
+              },
+              {
+                "title": "Cost",
+                "text": "3 Merit dot(s)."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          },
+          "requirements": {
+            "excludedClans": [
+              "Ventrue"
+            ]
+          }
+        }
+      ],
+      "level": 3
+    },
+    {
+      "id": "core-trait-linguistics",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Linguística",
+        "en": "Linguistics"
+      },
+      "aliases": [
+        "Linguística",
+        "Linguistics",
+        "Linguística — 1 ponto(s)",
+        "Linguistics — 1 dot(s)",
+        "Linguística — 2 ponto(s)",
+        "Linguistics — 2 dot(s)",
+        "Linguística — 3 ponto(s)",
+        "Linguistics — 3 dot(s)",
+        "Linguística — 4 ponto(s)",
+        "Linguistics — 4 dot(s)",
+        "Linguística — 5 ponto(s)",
+        "Linguistics — 5 dot(s)"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-linguistics-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 179 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Linguística — 1 ponto(s)",
+            "en": "Linguistics — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-linguistics-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Linguística — 2 ponto(s)",
+            "en": "Linguistics — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-linguistics-core-v5-3",
+          "book": "core-v5",
+          "level": 3,
+          "sourceTitle": "Livro Básico V5, pp. 179 · 3 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo."
+              },
+              {
+                "title": "Custo",
+                "text": "3 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty."
+              },
+              {
+                "title": "Cost",
+                "text": "3 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Linguística — 3 ponto(s)",
+            "en": "Linguistics — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-linguistics-core-v5-4",
+          "book": "core-v5",
+          "level": 4,
+          "sourceTitle": "Livro Básico V5, pp. 179 · 4 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo."
+              },
+              {
+                "title": "Custo",
+                "text": "4 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty."
+              },
+              {
+                "title": "Cost",
+                "text": "4 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Linguística — 4 ponto(s)",
+            "en": "Linguistics — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-linguistics-core-v5-5",
+          "book": "core-v5",
+          "level": 5,
+          "sourceTitle": "Livro Básico V5, pp. 179 · 5 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Cada ponto permite falar, ler e escrever fluentemente um idioma adicional. Todo personagem já conhece a língua materna e a língua dominante do cenário; o Narrador pode permitir uma segunda língua quando ambas coincidirem. Mudanças históricas da língua não exigem novos pontos, embora documentos seculares ou dialetos estranhos possam aumentar a Dificuldade de Erudição ou Ocultismo."
+              },
+              {
+                "title": "Custo",
+                "text": "5 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Escolha o número de idiomas no seletor de nível e registre seus nomes nas notas do item. Não contabilize novamente os idiomas gratuitos."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Each dot permits fluent speaking, reading and writing in one additional language. Every character already knows their native language and the setting’s dominant language; the Storyteller may allow a second language when these coincide. Historical language changes do not require new dots, although centuries-old documents or unfamiliar dialects may raise Academics or Occult Difficulty."
+              },
+              {
+                "title": "Cost",
+                "text": "5 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Select the number of languages using the rating selector and record their names in the item notes. Do not count the free languages again."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Linguística — 5 ponto(s)",
+            "en": "Linguistics — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-long-bond",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Laço Longo",
+        "en": "Long Bond"
+      },
+      "aliases": [
+        "Laço Longo",
+        "Long Bond"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-long-bond-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Sem reforço, a força dos Laços de Sangue em você diminui em 1 apenas a cada três meses."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Without reinforcement, Blood Bonds on you lose 1 strength only every three months."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 1
+    },
+    {
+      "id": "core-trait-methuselahs-thirst",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Sede do Matusalém",
+        "en": "Methuselah’s Thirst"
+      },
+      "aliases": [
+        "Sede do Matusalém",
+        "Methuselah’s Thirst",
+        "Methuselah's Thirst"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-methuselahs-thirst-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "A Fome só pode ser completamente saciada pelo sangue de criaturas sobrenaturais. Alquimistas talvez consigam engrossar Sangue de sangues-ralos o bastante. Com outras fontes, a Fome permanece no mínimo em 1, ou acima conforme a Potência de Sangue."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "A Potência de Sangue pode impor restrições adicionais; consulte a tabela corrigida e as regras de alimentação."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Only the blood of supernatural creatures can fully slake Hunger. Alchemists may be able to thicken thin-blood Blood enough. Other sources leave Hunger at a minimum of 1, or higher depending on Blood Potency."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Blood Potency may impose additional restrictions; consult the corrected table and feeding rules."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 1
+    },
+    {
+      "id": "core-trait-organovore",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Organívoro",
+        "en": "Organovore"
+      },
+      "aliases": [
+        "Organívoro",
+        "Organovore"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-organovore-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Só reduz Fome comendo carne e órgãos humanos, especialmente os ricos em sangue: coração, fígado, pulmões, placenta ou baço. Apenas o coração fornece Ressonância, se houver. Pode preparar os órgãos como bebida."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Defeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Can reduce Hunger only by eating human flesh and organs, especially blood-rich organs such as the heart, liver, lungs, placenta or spleen. Only the heart provides Resonance, if any. The organs may be blended into a drink."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Flaw dot(s)."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 2
+    },
+    {
+      "id": "core-trait-prey-exclusion",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Exclusão de Presa",
+        "en": "Prey Exclusion"
+      },
+      "aliases": [
+        "Exclusão de Presa",
+        "Prey Exclusion"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-prey-exclusion-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 182 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Recusa caçar uma classe determinada de presas. Alimentar-se dela causa Máculas como violar um Princípio da crônica. Presenciar outros Membros alimentando-se dessas pessoas sem intervir também pode causar Máculas, a critério do Narrador. Para Ventrue, acrescenta uma restrição à preferência de sangue já existente."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Registre a classe de presa nas notas: por exemplo, crianças, policiais, pessoas inocentes ou usuários de drogas. Pacotes de Predador podem impor versões específicas ou valores próprios; preserve a regra do pacote."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Refuses to hunt a specified class of prey. Feeding on them causes Stains as if violating a Chronicle Tenet. Watching other Kindred feed on them without intervening may also cause Stains at the Storyteller’s discretion. For Ventrue, adds a restriction to the existing blood preference."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Record the prey class in the notes: for example, children, police, innocent people or drug users. Predator packages may impose specific versions or their own ratings; preserve the package rule."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 1
+    },
+    {
+      "id": "core-trait-repulsive",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Repulsivo",
+        "en": "Repulsive"
+      },
+      "aliases": [
+        "Repulsivo",
+        "Repulsive"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-repulsive-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "-2 dado(s) nas paradas Sociais apropriadas relacionadas à aparência."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "O modificador vale apenas quando você pode ser visto. O Narrador decide caso a caso se ele afeta combate Social e quais paradas dentro do mesmo conflito são relevantes."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "-2 die/dice on appropriate appearance-related Social pools."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "The modifier applies only when you can be seen. The Storyteller decides case by case whether it affects Social combat and which pools within the same conflict are relevant."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 2
+    },
+    {
+      "id": "core-trait-short-bond",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Laço Curto",
+        "en": "Short Bond"
+      },
+      "aliases": [
+        "Laço Curto",
+        "Short Bond"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-short-bond-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Sem reforço, a força dos Laços de Sangue em você diminui na lua cheia e na lua nova: dois níveis por mês."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Without reinforcement, Blood Bonds on you weaken at the full and new moons: two levels per month."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 2
+    },
+    {
+      "id": "core-trait-stake-bait",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Isca de Estaca",
+        "en": "Stake Bait"
+      },
+      "aliases": [
+        "Isca de Estaca",
+        "Stake Bait"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-stake-bait-core-v5-2",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, pp. 182 · 2 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Uma estaca que trespasse seu coração causa Morte Final em vez de Torpor."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Defeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "A stake piercing your heart causes Final Death instead of Torpor."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Flaw dot(s)."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 2
+    },
+    {
+      "id": "core-trait-stigmata",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Estigma",
+        "en": "Stigmata"
+      },
+      "aliases": [
+        "Estigma",
+        "Stigmata"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-stigmata-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 182 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Ao alcançar Fome 4, começa a sangrar por feridas abertas nas mãos, pés e testa. Isso atrai atenção, deixa vestígios e pode impor penalidades às paradas, conforme decisão do Narrador."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "At Hunger 4, begins bleeding from open wounds in the hands, feet and forehead. This attracts attention, leaves traces and may impose dice penalties at the Storyteller’s discretion."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 1
+    },
+    {
+      "id": "core-trait-stunning",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Deslumbrante",
+        "en": "Stunning"
+      },
+      "aliases": [
+        "Deslumbrante",
+        "Stunning"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-stunning-core-v5-4",
+          "book": "core-v5",
+          "level": 4,
+          "sourceTitle": "Livro Básico V5, pp. 179 · 4 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "+2 dado(s) nas paradas Sociais apropriadas relacionadas à aparência."
+              },
+              {
+                "title": "Custo",
+                "text": "4 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "O modificador vale apenas quando você pode ser visto. O Narrador decide caso a caso se ele afeta combate Social e quais paradas dentro do mesmo conflito são relevantes."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "+2 die/dice on appropriate appearance-related Social pools."
+              },
+              {
+                "title": "Cost",
+                "text": "4 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "The modifier applies only when you can be seen. The Storyteller decides case by case whether it affects Social combat and which pools within the same conflict are relevant."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 4
+    },
+    {
+      "id": "core-trait-ugly",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Feio",
+        "en": "Ugly"
+      },
+      "aliases": [
+        "Feio",
+        "Ugly"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-ugly-core-v5-1",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, pp. 179 · 1 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 181,
+              "printedPage": 179
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "-1 dado(s) nas paradas Sociais apropriadas relacionadas à aparência."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "O modificador vale apenas quando você pode ser visto. O Narrador decide caso a caso se ele afeta combate Social e quais paradas dentro do mesmo conflito são relevantes."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "-1 die/dice on appropriate appearance-related Social pools."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "The modifier applies only when you can be seen. The Storyteller decides case by case whether it affects Social combat and which pools within the same conflict are relevant."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 1
+    },
+    {
+      "id": "core-trait-unbondable",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "À Prova de Laço",
+        "en": "Unbondable"
+      },
+      "aliases": [
+        "À Prova de Laço",
+        "Unbondable",
+        "A Prova de Laço"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-unbondable-core-v5-5",
+          "book": "core-v5",
+          "level": 5,
+          "sourceTitle": "Livro Básico V5, pp. 181 · 5 ponto(s)",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 183,
+              "printedPage": 181
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Não pode ser Enlaçado por um Laço de Sangue. Sua Vitae pode interessar a alquimistas."
+              },
+              {
+                "title": "Custo",
+                "text": "5 ponto(s) de Qualidade."
+              },
+              {
+                "title": "Preenchimento e exceções",
+                "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+              },
+              {
+                "title": "Compra e uso",
+                "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Cannot be bound by a Blood Bond. Your vitae may interest alchemists."
+              },
+              {
+                "title": "Cost",
+                "text": "5 Merit dot(s)."
+              },
+              {
+                "title": "Selection and exceptions",
+                "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+              },
+              {
+                "title": "Purchase and use",
+                "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+              }
+            ]
+          }
+        }
+      ],
+      "level": 5
     }
   ]
 }

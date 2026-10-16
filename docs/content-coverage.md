@@ -2,18 +2,41 @@
 
 ## Estado desta entrega
 
+### Lote de Qualidades e Defeitos comuns
+
+- 24 entradas conferidas nas imagens das páginas 179–182 do Livro Básico,
+  com valores impressos, descrições nos dois idiomas e acesso à fonte.
+- Compra guiada de Vantagens com XP: 3 XP por ponto adquirido, cobrando o
+  valor completo de uma Qualidade fixa ou a diferença entre níveis permitidos.
+  Desfazer restaura a versão anterior e preserva as anotações pessoais.
+- Ventrue não recebem Esôfago de Ferro nem o Defeito Fazendeiro pelo catálogo.
+  Analfabeto gera aviso quando Erudição ou Ciência excedem 1.
+- Testes no navegador em 390 e 1440 pixels: criação, compra fixa, aumento,
+  desfazer, saldo, orçamento inicial separado, recarga, accordion e fonte.
+  Quatro PDFs reais em português/inglês tiveram todas as páginas renderizadas
+  e conferidas quanto a texto, margens, paginação e links.
+- Defeitos Arcaicos e escolhas de Perdição/Tabu Folclórico continuam pendentes.
+  Modificadores narrativos e de rolagem destas Qualidades não são automatizados.
+
+### Limites de Potência por Geração
+
+A compra usa os limites gerais da tabela da página 214 do Livro Básico,
+separadamente das faixas iniciais por idade. A 4ª Geração alcança Potência 10;
+13ª alcança 3; Sangue-Ralo permanece em 0. Valores antigos são preservados
+com aviso. A exceção de faixas iniciais da crônica não altera o limite geral.
+
 Esta entrega publica a exportação da ficha em PDF, a consulta estruturada de
 conteúdo revisado, páginas originais em visualizador separado e correções nas
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 361 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 385 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
 | Fonte | Entradas revisadas nesta entrega | Cobertura integral |
 | --- | --- | --- |
-| Livro Básico | Perdições e Compulsões dos sete clãs principais; características de Caitiff/Sangue-Ralo e as 16 Qualidades/Defeitos especiais com seleção guiada; todos os dez Predadores, 26 Rituais e sete fórmulas nomeadas; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar e Fortificar a Fachada Interior aguardam esclarecimento; métodos e receitas de imitação de Alquimia, variantes de Afinidade/Maldição de outros livros, Suspeito/Status dos Caitiff, demais Qualidades/Defeitos, Antecedentes e loresheets pendentes |
+| Livro Básico | Perdições e Compulsões dos sete clãs principais; características de Caitiff/Sangue-Ralo e as 16 Qualidades/Defeitos especiais com seleção guiada e 24 Qualidades/Defeitos comuns; todos os dez Predadores, 26 Rituais e sete fórmulas nomeadas; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar e Fortificar a Fachada Interior aguardam esclarecimento; métodos e receitas de imitação de Alquimia, variantes de Afinidade/Maldição de outros livros, Suspeito/Status dos Caitiff, Defeitos Arcaicos e escolhas Folclóricas, Antecedentes e loresheets pendentes |
 | Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
 | Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas; os seis Predadores; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; Lasombra | Clãs restantes, Vantagens, Defeitos, loresheets e demais seções pendentes |
 | Cultos dos Deuses de Sangue | 3 Cerimônias Shalimitas | Pendente |

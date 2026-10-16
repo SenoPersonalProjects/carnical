@@ -1,0 +1,68 @@
+{
+  "id": "core-trait-unbondable",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "À Prova de Laço",
+    "en": "Unbondable"
+  },
+  "aliases": [
+    "À Prova de Laço",
+    "Unbondable",
+    "A Prova de Laço"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-unbondable-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "sourceTitle": "Livro Básico V5, pp. 181 · 5 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 183,
+          "printedPage": 181
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Não pode ser Enlaçado por um Laço de Sangue. Sua Vitae pode interessar a alquimistas."
+          },
+          {
+            "title": "Custo",
+            "text": "5 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Cannot be bound by a Blood Bond. Your vitae may interest alchemists."
+          },
+          {
+            "title": "Cost",
+            "text": "5 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 5
+}

@@ -11837,6 +11837,679 @@
           }
         }
       ]
+    },
+    {
+      "id": "core-trait-addiction",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Dependência",
+        "en": "Addiction"
+      },
+      "aliases": [
+        "Dependência",
+        "Addiction"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-addiction-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179, 180 · 1 ponto(s)",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "core-trait-beautiful",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Belo",
+        "en": "Beautiful"
+      },
+      "aliases": [
+        "Belo",
+        "Beautiful"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-beautiful-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "core-trait-bloodhound",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Sabujo de Sangue",
+        "en": "Bloodhound"
+      },
+      "aliases": [
+        "Sabujo de Sangue",
+        "Bloodhound"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-bloodhound-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 182 · 1 ponto(s)",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "core-trait-bond-junkie",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Viciado em Laço",
+        "en": "Bond Junkie"
+      },
+      "aliases": [
+        "Viciado em Laço",
+        "Bond Junkie"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-bond-junkie-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "core-trait-bond-resistance",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Resistência ao Laço",
+        "en": "Bond Resistance"
+      },
+      "aliases": [
+        "Resistência ao Laço",
+        "Bond Resistance",
+        "Resistência ao Laço — 1 ponto(s)",
+        "Bond Resistance — 1 dot(s)",
+        "Resistência ao Laço — 2 ponto(s)",
+        "Bond Resistance — 2 dot(s)",
+        "Resistência ao Laço — 3 ponto(s)",
+        "Bond Resistance — 3 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-bond-resistance-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+          "level": 1,
+          "names": {
+            "pt-BR": "Resistência ao Laço — 1 ponto(s)",
+            "en": "Bond Resistance — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-bond-resistance-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+          "level": 2,
+          "names": {
+            "pt-BR": "Resistência ao Laço — 2 ponto(s)",
+            "en": "Bond Resistance — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-bond-resistance-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 181 · 3 ponto(s)",
+          "level": 3,
+          "names": {
+            "pt-BR": "Resistência ao Laço — 3 ponto(s)",
+            "en": "Bond Resistance — 3 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-bondslave",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Escravo do Laço",
+        "en": "Bondslave"
+      },
+      "aliases": [
+        "Escravo do Laço",
+        "Bondslave"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-bondslave-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 180, 181 · 2 ponto(s)",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "core-trait-eat-food",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Ingerir Comida",
+        "en": "Eat Food"
+      },
+      "aliases": [
+        "Ingerir Comida",
+        "Eat Food",
+        "Ingerir comida"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-eat-food-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 182 · 2 ponto(s)",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "core-trait-farmer",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Fazendeiro",
+        "en": "Farmer"
+      },
+      "aliases": [
+        "Fazendeiro",
+        "Farmer",
+        "Vegano (Fazendeiro)",
+        "Vegetariano"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-farmer-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "excludedClans": [
+              "Ventrue"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-high-functioning-addict",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Viciado Funcional",
+        "en": "High-Functioning Addict"
+      },
+      "aliases": [
+        "Viciado Funcional",
+        "High-Functioning Addict"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-high-functioning-addict-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179, 180 · 1 ponto(s)",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "core-trait-hopeless-addiction",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Vício Incurável",
+        "en": "Hopeless Addiction"
+      },
+      "aliases": [
+        "Vício Incurável",
+        "Hopeless Addiction"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-hopeless-addiction-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179, 180 · 2 ponto(s)",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "core-trait-illiterate",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Analfabeto",
+        "en": "Illiterate"
+      },
+      "aliases": [
+        "Analfabeto",
+        "Illiterate"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-illiterate-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "core-trait-iron-gullet",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Esôfago de Ferro",
+        "en": "Iron Gullet"
+      },
+      "aliases": [
+        "Esôfago de Ferro",
+        "Iron Gullet"
+      ],
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-iron-gullet-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 182 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "excludedClans": [
+              "Ventrue"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-linguistics",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Linguística",
+        "en": "Linguistics"
+      },
+      "aliases": [
+        "Linguística",
+        "Linguistics",
+        "Linguística — 1 ponto(s)",
+        "Linguistics — 1 dot(s)",
+        "Linguística — 2 ponto(s)",
+        "Linguistics — 2 dot(s)",
+        "Linguística — 3 ponto(s)",
+        "Linguistics — 3 dot(s)",
+        "Linguística — 4 ponto(s)",
+        "Linguistics — 4 dot(s)",
+        "Linguística — 5 ponto(s)",
+        "Linguistics — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-linguistics-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179 · 1 ponto(s)",
+          "level": 1,
+          "names": {
+            "pt-BR": "Linguística — 1 ponto(s)",
+            "en": "Linguistics — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-linguistics-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+          "level": 2,
+          "names": {
+            "pt-BR": "Linguística — 2 ponto(s)",
+            "en": "Linguistics — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-linguistics-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179 · 3 ponto(s)",
+          "level": 3,
+          "names": {
+            "pt-BR": "Linguística — 3 ponto(s)",
+            "en": "Linguistics — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-linguistics-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179 · 4 ponto(s)",
+          "level": 4,
+          "names": {
+            "pt-BR": "Linguística — 4 ponto(s)",
+            "en": "Linguistics — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-trait-linguistics-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179 · 5 ponto(s)",
+          "level": 5,
+          "names": {
+            "pt-BR": "Linguística — 5 ponto(s)",
+            "en": "Linguistics — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-long-bond",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Laço Longo",
+        "en": "Long Bond"
+      },
+      "aliases": [
+        "Laço Longo",
+        "Long Bond"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-long-bond-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "core-trait-methuselahs-thirst",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Sede do Matusalém",
+        "en": "Methuselah’s Thirst"
+      },
+      "aliases": [
+        "Sede do Matusalém",
+        "Methuselah’s Thirst",
+        "Methuselah's Thirst"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-methuselahs-thirst-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "core-trait-organovore",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Organívoro",
+        "en": "Organovore"
+      },
+      "aliases": [
+        "Organívoro",
+        "Organovore"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-organovore-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "core-trait-prey-exclusion",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Exclusão de Presa",
+        "en": "Prey Exclusion"
+      },
+      "aliases": [
+        "Exclusão de Presa",
+        "Prey Exclusion"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-prey-exclusion-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 182 · 1 ponto(s)",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "core-trait-repulsive",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Repulsivo",
+        "en": "Repulsive"
+      },
+      "aliases": [
+        "Repulsivo",
+        "Repulsive"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-repulsive-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "core-trait-short-bond",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Laço Curto",
+        "en": "Short Bond"
+      },
+      "aliases": [
+        "Laço Curto",
+        "Short Bond"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-short-bond-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "core-trait-stake-bait",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Isca de Estaca",
+        "en": "Stake Bait"
+      },
+      "aliases": [
+        "Isca de Estaca",
+        "Stake Bait"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-stake-bait-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 182 · 2 ponto(s)",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "id": "core-trait-stigmata",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Estigma",
+        "en": "Stigmata"
+      },
+      "aliases": [
+        "Estigma",
+        "Stigmata"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-stigmata-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 182 · 1 ponto(s)",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "core-trait-stunning",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Deslumbrante",
+        "en": "Stunning"
+      },
+      "aliases": [
+        "Deslumbrante",
+        "Stunning"
+      ],
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-stunning-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179 · 4 ponto(s)",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "id": "core-trait-ugly",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Feio",
+        "en": "Ugly"
+      },
+      "aliases": [
+        "Feio",
+        "Ugly"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-ugly-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 179 · 1 ponto(s)",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "id": "core-trait-unbondable",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "À Prova de Laço",
+        "en": "Unbondable"
+      },
+      "aliases": [
+        "À Prova de Laço",
+        "Unbondable",
+        "A Prova de Laço"
+      ],
+      "level": 5,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-unbondable-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 181 · 5 ponto(s)",
+          "level": 5
+        }
+      ]
     }
   ]
 }

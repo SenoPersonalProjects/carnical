@@ -1,0 +1,66 @@
+{
+  "id": "core-trait-farmer",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Fazendeiro",
+    "en": "Farmer"
+  },
+  "aliases": [
+    "Fazendeiro",
+    "Farmer",
+    "Vegano (Fazendeiro)",
+    "Vegetariano"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-farmer-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 183,
+          "printedPage": 181
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Alimenta-se apenas de sangue animal e precisa gastar 2 pontos de Força de Vontade para beber sangue humano. Ventrue não podem escolher este Defeito."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Defeito."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "É o Defeito de alimentação, distinto do tipo de Predador de mesmo nome. O pacote do Predador já o concede; não o adicione novamente."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Feeds only on animal blood and must spend 2 Willpower to drink human blood. Ventrue cannot select this Flaw."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Flaw dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "This is the feeding Flaw, distinct from the Predator Type with the same name. The Predator package already grants it; do not add it again."
+          }
+        ]
+      },
+      "requirements": {
+        "excludedClans": [
+          "Ventrue"
+        ]
+      }
+    }
+  ],
+  "level": 2
+}

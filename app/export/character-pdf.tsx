@@ -1,3 +1,4 @@
+import {catalogPurchaseName} from "../content/catalog-item-xp";
 import React from "react";
 import { Document, Page, Text, View, Svg, Circle, Rect, Line, Link as PdfLink, StyleSheet, pdf } from "@react-pdf/renderer";
 import { bloodBenefits } from "../play/blood";
@@ -57,7 +58,7 @@ export function CharacterPdfDocument({ snapshot:s, locale, rules=[] }: {snapshot
       {heading("Pilares e Convicções")}{s.anchors.map((anchor,i)=><View key={i} style={styles.item}><Text style={styles.sub} minPresenceAhead={20}>{t("Pilar")} {i+1}</Text>{paragraphs(anchor.touchstone||"—")}<Text style={styles.sub} minPresenceAhead={20}>{t("Convicção")}</Text>{paragraphs(anchor.conviction||"—")}</View>)}
       {heading("Ambição")}{paragraphs(s.ambition||"—")}{heading("Desejo")}{paragraphs(s.desire||"—")}
       {heading("Compras com XP")}{row("XP total",s.xpTotal)}{row("XP gasto",s.xpSpent)}{row("XP disponível",s.xpTotal-s.xpSpent)}
-      {s.purchases.map((purchase,i)=><Text key={i} style={styles.paragraph}>{purchase.name} · {purchase.from} → {purchase.to} · {purchase.cost} XP</Text>)}
+      {s.purchases.map((purchase,i)=><Text key={i} style={styles.paragraph}>{catalogPurchaseName(purchase,locale)} · {purchase.from} → {purchase.to} · {purchase.cost} XP</Text>)}
       {heading("Regras da crônica")}<Text style={styles.paragraph}>{en?"XP calculation":"Cálculo de XP"}: {s.xpCostMode==="current_level"?en?"current level × factor (minimum level 1)":"nível atual × fator (mínimo 1)":en?"new level × factor":"novo nível × fator"}.</Text>
       {Object.entries(s.chronicleRules).filter(([key])=>key in chronicleLabels).map(([key,value])=><Text key={key} style={styles.paragraph}>{chronicleLabels[key]}: {typeof value==="boolean"?(value?(en?"Yes":"Sim"):(en?"No":"Não")):String(value)}</Text>)}
       {s.tenets&&<>{heading("Preceitos da crônica")}{paragraphs(s.tenets)}</>}{s.sources.length>0&&<>{heading("Fontes habilitadas")}{paragraphs(s.sources.map(source=>sourcebookLabel(source)).join(", "))}</>}

@@ -1,0 +1,51 @@
+{
+  "id": "core-trait-organovore",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Organívoro",
+    "en": "Organovore"
+  },
+  "aliases": [
+    "Organívoro",
+    "Organovore"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-organovore-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 183,
+          "printedPage": 181
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Só reduz Fome comendo carne e órgãos humanos, especialmente os ricos em sangue: coração, fígado, pulmões, placenta ou baço. Apenas o coração fornece Ressonância, se houver. Pode preparar os órgãos como bebida."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Defeito."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Can reduce Hunger only by eating human flesh and organs, especially blood-rich organs such as the heart, liver, lungs, placenta or spleen. Only the heart provides Resonance, if any. The organs may be blended into a drink."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Flaw dot(s)."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 2
+}

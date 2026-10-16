@@ -1,6 +1,6 @@
 export type XpKind="attribute"|"skill"|"clan-discipline"|"other-discipline"|"caitiff-discipline"|"specialty"|"advantage"|"blood-potency"|"ritual"|"ceremony"|"formula";
 export type XpCostMode="new_level"|"current_level";
-export type XpPurchase={kind:XpKind;name:string;from:number;to:number;cost:number};
+export type XpPurchase={kind:XpKind;name:string;from:number;to:number;cost:number;catalogId?:string;versionId?:string;previousAdvantage?:{name:string;dots:number;source:string;notes:string;catalogId?:string;versionId?:string}};
 
 export function startingXp(ageCategory?:string){return ageCategory==="Neófito"?15:ageCategory==="Ancilla"?35:0}
 export function xpCost(kind:XpKind,newLevel:number,mode:XpCostMode="new_level"){

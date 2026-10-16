@@ -1,0 +1,59 @@
+{
+  "id": "core-trait-repulsive",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Repulsivo",
+    "en": "Repulsive"
+  },
+  "aliases": [
+    "Repulsivo",
+    "Repulsive"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-repulsive-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "-2 dado(s) nas paradas Sociais apropriadas relacionadas à aparência."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Defeito."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "O modificador vale apenas quando você pode ser visto. O Narrador decide caso a caso se ele afeta combate Social e quais paradas dentro do mesmo conflito são relevantes."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "-2 die/dice on appropriate appearance-related Social pools."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Flaw dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "The modifier applies only when you can be seen. The Storyteller decides case by case whether it affects Social combat and which pools within the same conflict are relevant."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 2
+}

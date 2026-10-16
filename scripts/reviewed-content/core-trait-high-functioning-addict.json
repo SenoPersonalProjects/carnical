@@ -1,0 +1,71 @@
+{
+  "id": "core-trait-high-functioning-addict",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Viciado Funcional",
+    "en": "High-Functioning Addict"
+  },
+  "aliases": [
+    "Viciado Funcional",
+    "High-Functioning Addict"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-high-functioning-addict-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, pp. 179, 180 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        },
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Acrescenta 1 dado a uma categoria de paradas de dados escolhida se a última pessoa de quem se alimentou estava sob o efeito da droga escolhida."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Registre a substância nas notas do item. Seus efeitos próprios no sangue consumido continuam valendo independentemente desta Qualidade ou Defeito (regras de substâncias, p. 310). Recusar todo sangue que não contenha a substância exige também Exclusão de Presa, separadamente. Registre também qual categoria de paradas recebe o bônus."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Add 1 die to one chosen category of dice pools if the last person fed upon was under the chosen drug’s influence."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Record the substance in the item notes. Its own effects in consumed blood still apply independently of this Merit or Flaw (substance rules, p. 310). Refusing all blood without the substance also requires Prey Exclusion separately. Also record the category of pools receiving the bonus."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 1
+}

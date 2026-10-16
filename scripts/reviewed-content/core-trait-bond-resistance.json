@@ -1,0 +1,188 @@
+{
+  "id": "core-trait-bond-resistance",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Resistência ao Laço",
+    "en": "Bond Resistance"
+  },
+  "aliases": [
+    "Resistência ao Laço",
+    "Bond Resistance",
+    "Resistência ao Laço — 1 ponto(s)",
+    "Bond Resistance — 1 dot(s)",
+    "Resistência ao Laço — 2 ponto(s)",
+    "Bond Resistance — 2 dot(s)",
+    "Resistência ao Laço — 3 ponto(s)",
+    "Bond Resistance — 3 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-bond-resistance-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 183,
+          "printedPage": 181
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Acrescenta 1 dado por ponto desta Qualidade às paradas para resistir a um Laço de Sangue. Máximo de três pontos."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Add 1 die per dot of this Merit to pools resisting a Blood Bond. Maximum three dots."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Resistência ao Laço — 1 ponto(s)",
+        "en": "Bond Resistance — 1 dot(s)"
+      }
+    },
+    {
+      "id": "core-trait-bond-resistance-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "sourceTitle": "Livro Básico V5, pp. 181 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 183,
+          "printedPage": 181
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Acrescenta 1 dado por ponto desta Qualidade às paradas para resistir a um Laço de Sangue. Máximo de três pontos."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Add 1 die per dot of this Merit to pools resisting a Blood Bond. Maximum three dots."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Resistência ao Laço — 2 ponto(s)",
+        "en": "Bond Resistance — 2 dot(s)"
+      }
+    },
+    {
+      "id": "core-trait-bond-resistance-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "sourceTitle": "Livro Básico V5, pp. 181 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 183,
+          "printedPage": 181
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Acrescenta 1 dado por ponto desta Qualidade às paradas para resistir a um Laço de Sangue. Máximo de três pontos."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Add 1 die per dot of this Merit to pools resisting a Blood Bond. Maximum three dots."
+          },
+          {
+            "title": "Cost",
+            "text": "3 Merit dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Resistência ao Laço — 3 ponto(s)",
+        "en": "Bond Resistance — 3 dot(s)"
+      }
+    }
+  ]
+}

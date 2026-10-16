@@ -54,6 +54,7 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
     if(version.grants&&(data.disciplines?.[version.grants.discipline]||0)<version.grants.level)add({id:`catalog-grant-${entry.id}`,kind:"warning",title:`Benefício de ${item.name||entry.names["pt-BR"]}`,detail:`Esta escolha concede ${version.grants.discipline} ${version.grants.level}. Confira a etapa Disciplinas; os dados antigos não foram alterados automaticamente.`});
     if(version.level!==undefined&&item.dots!==version.level)add({id:`catalog-cost-${entry.id}`,kind:"warning",title:`Pontuação de ${item.name||entry.names["pt-BR"]}`,detail:`Esta versão exige ${version.level} ponto(s). A pontuação registrada foi preservada para revisão.`});
   }
+  if(knownItems.some(item=>indexedItem(item).entry?.id==="core-trait-illiterate")&&((data.skills?.Erudição||0)>1||(data.skills?.Ciência||0)>1))add({id:"illiterate-skill-cap",kind:"warning",title:"Analfabeto limita Erudição e Ciência a 1",detail:"Os valores existentes foram preservados. Revise essas Habilidades e as Especializações que envolvam conhecimento moderno.",source:core("regras-e-criacao-vantagens-e-defeitos","Analfabeto","Livro Básico V5, p. 179")});
   const powerCatalog=powersForSources(POWER_CATALOG,activeSources);
   const paidPurchases=data.xpPurchases||[];
   const alchemy="Alquimia do Sangue-Fraco";
@@ -103,7 +104,7 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
     }
   }
 
-  const meritDots=ownItemDots(data.merits||[])-purchases.filter(item=>item.kind==="advantage").length,flawDots=ownItemDots(data.flawItems||[]),meritTarget=chronicle.customTargets?chronicle.meritPoints:data.ageCategory==="Ancilla"?9:7,flawTarget=chronicle.customTargets?chronicle.flawPoints:data.ageCategory==="Ancilla"?4:2;
+  const meritDots=ownItemDots(data.merits||[])-purchases.filter(item=>item.kind==="advantage").reduce((total,item)=>total+item.to-item.from,0),flawDots=ownItemDots(data.flawItems||[]),meritTarget=chronicle.customTargets?chronicle.meritPoints:data.ageCategory==="Ancilla"?9:7,flawTarget=chronicle.customTargets?chronicle.flawPoints:data.ageCategory==="Ancilla"?4:2;
   if(meritDots!==meritTarget)add({id:"merits",kind:"warning",title:`Vantagens não somam ${meritTarget} pontos`,detail:`A regra ativa distribui ${meritTarget} pontos livres em Vantagens; a ficha soma ${meritDots}. Benefícios do Predador e compras com XP aparecem na lista, mas não consomem esses pontos.`,source:core("regras-e-criacao-vantagens-e-defeitos","7 pontos","Livro Básico V5, criação de personagem")});
   if(flawDots<flawTarget)add({id:"flaws",kind:"warning",title:`Menos de ${flawTarget} pontos de Defeitos`,detail:`A regra ativa adquire ao menos ${flawTarget} pontos de Defeitos, além dos recebidos pelo Predador; a ficha soma ${flawDots}.`,source:core("regras-e-criacao-vantagens-e-defeitos","2 pontos","Livro Básico V5, criação de personagem")});
   if(xpSpent(data.xpSpent||"",purchases)>xpBudget(data.xpTotal||"",data.ageCategory||""))add({id:"xp-over-budget",kind:"warning",title:"XP gasto acima do disponível",detail:"Confira o saldo inicial por idade, o XP adicional da crônica e as compras registradas.",source:creation});

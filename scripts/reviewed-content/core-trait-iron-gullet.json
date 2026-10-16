@@ -1,0 +1,64 @@
+{
+  "id": "core-trait-iron-gullet",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Esôfago de Ferro",
+    "en": "Iron Gullet"
+  },
+  "aliases": [
+    "Esôfago de Ferro",
+    "Iron Gullet"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-iron-gullet-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "sourceTitle": "Livro Básico V5, pp. 182 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Pode se alimentar de sangue frio, sangue rançoso e plasma fracionado. Essas fontes não fornecem Ressonância. Ventrue não podem possuir esta Qualidade."
+          },
+          {
+            "title": "Custo",
+            "text": "3 ponto(s) de Qualidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Na criação, consome o valor completo em pontos de Vantagens. A compra com XP custa 3 XP por ponto adquirido e depende das condições narrativas aprovadas pelo Narrador. Esta consulta não aplica automaticamente modificadores às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Can feed on cold blood, rancid blood and fractionated plasma. These sources provide no Resonance. Ventrue cannot possess this Merit."
+          },
+          {
+            "title": "Cost",
+            "text": "3 Merit dot(s)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "At creation, spends the full Advantage dot rating. An XP purchase costs 3 XP per acquired dot and depends on narrative circumstances approved by the Storyteller. This reference does not automatically modify dice rolls."
+          }
+        ]
+      },
+      "requirements": {
+        "excludedClans": [
+          "Ventrue"
+        ]
+      }
+    }
+  ],
+  "level": 3
+}

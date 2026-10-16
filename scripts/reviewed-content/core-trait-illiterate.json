@@ -1,0 +1,59 @@
+{
+  "id": "core-trait-illiterate",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Analfabeto",
+    "en": "Illiterate"
+  },
+  "aliases": [
+    "Analfabeto",
+    "Illiterate"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-illiterate-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "sourceTitle": "Livro Básico V5, pp. 179 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Não sabe ler ou escrever. Erudição e Ciência ficam limitadas a 1 ponto e não podem possuir Especializações que incorporem conhecimentos modernos."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Defeito."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Confira as Habilidades e Especializações nas respectivas etapas. O Defeito não apaga escolhas existentes automaticamente."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Cannot read or write. Academics and Science are limited to 1 dot and cannot have specialties incorporating modern knowledge."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Flaw dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Review Skills and specialties in their respective steps. The Flaw does not automatically erase existing choices."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 2
+}

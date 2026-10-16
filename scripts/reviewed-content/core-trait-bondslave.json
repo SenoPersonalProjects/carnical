@@ -1,0 +1,63 @@
+{
+  "id": "core-trait-bondslave",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Escravo do Laço",
+    "en": "Bondslave"
+  },
+  "aliases": [
+    "Escravo do Laço",
+    "Bondslave"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-bondslave-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "sourceTitle": "Livro Básico V5, pp. 180, 181 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        },
+        {
+          "pdfPage": 183,
+          "printedPage": 181
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Provar Vitae de outro vampiro uma única vez já cria um Laço de Sangue, em vez das três ingestões normais. Começa escravo do Senhor ou combina com o Narrador por que o primeiro Laço foi quebrado; por exemplo, o Senhor foi estaqueado ou está em outra cidade há mais de seis meses."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Defeito."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Tasting another vampire’s vitae once creates a Blood Bond instead of the normal three drinks. Begin bound to the sire or agree with the Storyteller why the first Bond was broken; for example, the sire was staked or has been in another city for over six months."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Flaw dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 2
+}

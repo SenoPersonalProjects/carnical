@@ -1,0 +1,30 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import {createRequire} from 'node:module';
+import {execFileSync} from 'node:child_process';
+const require=createRequire(import.meta.url),ts=require('typescript'),cache=new Map();
+function load(file){file=path.resolve(file);if(cache.has(file))return cache.get(file).exports;const out={exports:{}};cache.set(file,out);if(file.endsWith('.json'))out.exports=JSON.parse(fs.readFileSync(file,'utf8'));else new Function('module','exports','require',ts.transpileModule(fs.readFileSync(file,'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022,esModuleInterop:true}}).outputText)(out,out.exports,name=>name.startsWith('.')?load(path.resolve(path.dirname(file),/\.(json|ts)$/.test(name)?name:name+'.ts')):require(name));return out.exports}
+const catalog=load('app/content/catalog.json').entries,{catalogAdvantageQuote:quote,purchasedCatalogAdvantage:purchase}=load('app/content/catalog-item-xp.ts'),{itemEligibility}=load('app/content/item-eligibility.ts'),{auditCharacter}=load('app/character-audit.ts');
+const before=JSON.parse(execFileSync('git',['show','f4d5ed2:app/content/catalog.json'],{encoding:'utf8',maxBuffer:20e6})).entries;
+for(const item of before)assert.deepEqual(catalog.find(entry=>entry.id===item.id),item);
+const entries=catalog.filter(entry=>entry.id.startsWith('core-trait-'));assert.equal(entries.length,24);
+const context={phase:'xp',clan:'Tremere',activeSources:new Set(['core_v5_ptbr']),items:[]};
+for(const entry of entries)for(const version of entry.versions){assert.ok(version.level>0);assert.ok(version.pages.every(page=>page.printedPage===page.pdfPage-2));for(const locale of ['pt-BR','en'])assert.ok(version.descriptions[locale].every(section=>section.text.trim()));if(entry.kind==='flaw')assert.equal(quote(entry.id,version.id,[],context),undefined)}
+const iron=catalog.find(entry=>entry.id==='core-trait-iron-gullet'),ironId=iron.versions[0].id;
+assert.equal(quote(iron.id,ironId,[],context).cost,9);
+assert.equal(quote(iron.id,ironId,[],{...context,clan:'Ventrue'}),undefined);
+assert.equal(quote(iron.id,ironId,[],{...context,activeSources:new Set()}),undefined);
+const unbond=catalog.find(entry=>entry.id==='core-trait-unbondable');assert.equal(quote(unbond.id,unbond.versions[0].id,[],context).cost,15);
+const linguistics=catalog.find(entry=>entry.id==='core-trait-linguistics'),q1=quote(linguistics.id,linguistics.versions[0].id,[],context),first=purchase(q1);
+first.item.notes='Árabe e alemão: anotação pessoal';const q3=quote(linguistics.id,linguistics.versions[2].id,[first.item],context),third=purchase(q3);
+assert.equal(q3.cost,6);assert.equal(q3.from,1);assert.equal(q3.to,3);assert.equal(third.item.notes,first.item.notes);assert.deepEqual(third.purchase.previousAdvantage,first.item);
+assert.equal(quote(linguistics.id,linguistics.versions[0].id,[third.item],context),undefined);
+assert.equal(quote(linguistics.id,linguistics.versions[2].id,[third.item],context),undefined);
+assert.equal(quote(iron.id,ironId,[{name:'Esôfago de Ferro',dots:3,source:'predator:sacoleiro',notes:''}],context),undefined);
+assert.equal(itemEligibility(catalog.find(entry=>entry.id==='core-trait-farmer').versions[0],{...context,phase:'creation',clan:'Ventrue'}).allowed,false);
+const data={merits:[{name:'Personalizado',dots:7,source:'custom',notes:''},third.item],xpPurchases:[first.purchase,third.purchase]};
+assert.ok(!auditCharacter({clan:'Tremere',data}).some(issue=>issue.id==='merits'));
+const {removeCreationItem}=load('app/content/creation-item-effects.ts');const locked={...data,flawItems:[],disciplines:{},disciplinePowers:{}};assert.ok(removeCreationItem(locked,'merits',1).error);assert.equal(removeCreationItem(locked,'merits',1).data,locked);
+assert.ok(auditCharacter({clan:'Tremere',data:{flawItems:[{name:'Analfabeto',dots:2,source:'core_v5_ptbr'}],skills:{Erudição:2}}}).some(issue=>issue.id==='illiterate-skill-cap'));
+console.log('24 Core traits: source/translation integrity, all printed ratings, Ventrue restrictions, fixed costs, variable upgrades, undo metadata, personal notes, Predator preservation and separate creation budget passed.');

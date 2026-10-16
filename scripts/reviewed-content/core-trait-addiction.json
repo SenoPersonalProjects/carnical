@@ -1,0 +1,63 @@
+{
+  "id": "core-trait-addiction",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Dependência",
+    "en": "Addiction"
+  },
+  "aliases": [
+    "Dependência",
+    "Addiction"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-addiction-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, pp. 179, 180 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        },
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Perde 1 dado(s) de todas as paradas quando a última pessoa de quem se alimentou não estava sob os efeitos da droga escolhida. A penalidade não afeta ações para obter a droga imediatamente."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Registre a substância nas notas do item. Seus efeitos próprios no sangue consumido continuam valendo independentemente desta Qualidade ou Defeito (regras de substâncias, p. 310). Recusar todo sangue que não contenha a substância exige também Exclusão de Presa, separadamente."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Lose 1 die/dice from all pools when the last person fed upon was not under the chosen drug’s influence. The penalty does not affect actions to immediately obtain the drug."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Record the substance in the item notes. Its own effects in consumed blood still apply independently of this Merit or Flaw (substance rules, p. 310). Refusing all blood without the substance also requires Prey Exclusion separately."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 1
+}

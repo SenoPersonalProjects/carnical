@@ -1,0 +1,60 @@
+{
+  "id": "core-trait-methuselahs-thirst",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Sede do Matusalém",
+    "en": "Methuselah’s Thirst"
+  },
+  "aliases": [
+    "Sede do Matusalém",
+    "Methuselah’s Thirst",
+    "Methuselah's Thirst"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-methuselahs-thirst-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 183,
+          "printedPage": 181
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fome só pode ser completamente saciada pelo sangue de criaturas sobrenaturais. Alquimistas talvez consigam engrossar Sangue de sangues-ralos o bastante. Com outras fontes, a Fome permanece no mínimo em 1, ou acima conforme a Potência de Sangue."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "A Potência de Sangue pode impor restrições adicionais; consulte a tabela corrigida e as regras de alimentação."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Only the blood of supernatural creatures can fully slake Hunger. Alchemists may be able to thicken thin-blood Blood enough. Other sources leave Hunger at a minimum of 1, or higher depending on Blood Potency."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Blood Potency may impose additional restrictions; consult the corrected table and feeding rules."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 1
+}

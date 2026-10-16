@@ -1,0 +1,59 @@
+{
+  "id": "core-trait-prey-exclusion",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Exclusão de Presa",
+    "en": "Prey Exclusion"
+  },
+  "aliases": [
+    "Exclusão de Presa",
+    "Prey Exclusion"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-prey-exclusion-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, pp. 182 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Recusa caçar uma classe determinada de presas. Alimentar-se dela causa Máculas como violar um Princípio da crônica. Presenciar outros Membros alimentando-se dessas pessoas sem intervir também pode causar Máculas, a critério do Narrador. Para Ventrue, acrescenta uma restrição à preferência de sangue já existente."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Registre a classe de presa nas notas: por exemplo, crianças, policiais, pessoas inocentes ou usuários de drogas. Pacotes de Predador podem impor versões específicas ou valores próprios; preserve a regra do pacote."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Refuses to hunt a specified class of prey. Feeding on them causes Stains as if violating a Chronicle Tenet. Watching other Kindred feed on them without intervening may also cause Stains at the Storyteller’s discretion. For Ventrue, adds a restriction to the existing blood preference."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Record the prey class in the notes: for example, children, police, innocent people or drug users. Predator packages may impose specific versions or their own ratings; preserve the package rule."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 1
+}

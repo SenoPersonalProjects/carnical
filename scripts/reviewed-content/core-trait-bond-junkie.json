@@ -1,0 +1,59 @@
+{
+  "id": "core-trait-bond-junkie",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Viciado em Laço",
+    "en": "Bond Junkie"
+  },
+  "aliases": [
+    "Viciado em Laço",
+    "Bond Junkie"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-bond-junkie-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, pp. 181 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 183,
+          "printedPage": 181
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "O Laço é especialmente doce. Subtrai 1 dado das paradas para agir contra um Laço de Sangue."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Preenchimento e exceções",
+            "text": "Qualidades e Defeitos de Laço podem ser combinados: por exemplo, Viciado em Laço com Laço Curto. Consulte também as regras gerais de Laços de Sangue, p. 233. Não altera automaticamente vínculos ou testes da ficha."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "The Bond feels especially sweet. Subtract 1 die from pools to act against a Blood Bond."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Selection and exceptions",
+            "text": "Bond Merits and Flaws may be combined: for example, Bond Junkie with Short Bond. Also consult the general Blood Bond rules, p. 233. Does not automatically change bonds or sheet tests."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 1
+}
