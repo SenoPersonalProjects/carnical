@@ -23,7 +23,7 @@ type Props={
   awards?:Array<{id:string;amount:number;note:string;created_at:string}>;onRefresh?:()=>void;
   attributes:Record<string,number>;skills:Record<string,number>;disciplines:Record<string,number>;
   clanDisciplines:string[];clan:string;bloodPotency:number;generation:string;
-  merits:CreationItem[];flawItems:CreationItem[];onCatalogPurchase:(id:string,version:string)=>void;specialties:Array<{skill:string;name:string}>;
+  merits:CreationItem[];flawItems:CreationItem[];onCatalogPurchase:(id:string,version:string,target?:string,instanceName?:string)=>void;specialties:Array<{skill:string;name:string}>;
   activeSources:ReadonlySet<string>;disciplinePowers:Record<string,string[]>;
   onTotal:(value:string)=>void;onPurchase:(kind:PurchaseIntent,name:string,skill?:string)=>void;onUndo:()=>void;
 };

@@ -1,0 +1,314 @@
+{
+  "id": "core-background-herd",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Rebanho",
+    "en": "Herd"
+  },
+  "aliases": [
+    "Rebanho",
+    "Herd",
+    "Rebanho — 1 ponto(s)",
+    "Herd — 1 dot(s)",
+    "Rebanho — 2 ponto(s)",
+    "Herd — 2 dot(s)",
+    "Rebanho — 3 ponto(s)",
+    "Herd — 3 dot(s)",
+    "Rebanho — 4 ponto(s)",
+    "Herd — 4 dot(s)",
+    "Rebanho — 5 ponto(s)",
+    "Herd — 5 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-herd-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Rebanho — 1 ponto(s)",
+        "en": "Herd — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 189, 190 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        },
+        {
+          "pdfPage": 192,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-obvious-predator"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Grupo de bolsas de quem se alimenta sem preocupação. Pode prestar serviços simples, mas não é tão controlado nem leal quanto Lacaios; use mortais Fracos e Médios se necessário. Toda semana pode saciar Fome igual ao valor de Rebanho sem rolar, benefício compartilhável entre vampiros. Alimentação excessiva pode reduzir o valor ao matar ou afugentar integrantes."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). 1–3 bolsas, Ressonância aleatória e sem Discrasias. Uma vez por mês pode mudar a Ressonância de uma vítima com Manipulação + Sagacidade, Dificuldade 4."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A group of vessels for safe feeding. May perform simple services but is less controlled and loyal than Retainers; use Weak and Average mortals if needed. Each week may slake Hunger equal to Herd without rolling, a benefit shareable among vampires. Overfeeding may reduce the rating by killing or driving members away."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). 1–3 vessels, random Resonance and no Dyscrasias. Once per month may change one vessel’s Resonance with Manipulation + Insight, Difficulty 4."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-herd-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Rebanho — 2 ponto(s)",
+        "en": "Herd — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 189, 190 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        },
+        {
+          "pdfPage": 192,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-obvious-predator"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Grupo de bolsas de quem se alimenta sem preocupação. Pode prestar serviços simples, mas não é tão controlado nem leal quanto Lacaios; use mortais Fracos e Médios se necessário. Toda semana pode saciar Fome igual ao valor de Rebanho sem rolar, benefício compartilhável entre vampiros. Alimentação excessiva pode reduzir o valor ao matar ou afugentar integrantes."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). 4–7 bolsas; metade compartilha uma Ressonância escolhida ao adquirir o Antecedente."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A group of vessels for safe feeding. May perform simple services but is less controlled and loyal than Retainers; use Weak and Average mortals if needed. Each week may slake Hunger equal to Herd without rolling, a benefit shareable among vampires. Overfeeding may reduce the rating by killing or driving members away."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). 4–7 vessels; half share a Resonance chosen when buying the Background."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-herd-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Rebanho — 3 ponto(s)",
+        "en": "Herd — 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 189, 190 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        },
+        {
+          "pdfPage": 192,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-obvious-predator"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Grupo de bolsas de quem se alimenta sem preocupação. Pode prestar serviços simples, mas não é tão controlado nem leal quanto Lacaios; use mortais Fracos e Médios se necessário. Toda semana pode saciar Fome igual ao valor de Rebanho sem rolar, benefício compartilhável entre vampiros. Alimentação excessiva pode reduzir o valor ao matar ou afugentar integrantes."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). 7–15 bolsas; escolhe duas Ressonâncias diferentes a cada semana ao variar os integrantes de quem bebe."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A group of vessels for safe feeding. May perform simple services but is less controlled and loyal than Retainers; use Weak and Average mortals if needed. Each week may slake Hunger equal to Herd without rolling, a benefit shareable among vampires. Overfeeding may reduce the rating by killing or driving members away."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). 7–15 vessels; choose two different Resonances each week by varying the members fed upon."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-herd-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Rebanho — 4 ponto(s)",
+        "en": "Herd — 4 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 189, 190 · 4 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        },
+        {
+          "pdfPage": 192,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-obvious-predator"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Grupo de bolsas de quem se alimenta sem preocupação. Pode prestar serviços simples, mas não é tão controlado nem leal quanto Lacaios; use mortais Fracos e Médios se necessário. Toda semana pode saciar Fome igual ao valor de Rebanho sem rolar, benefício compartilhável entre vampiros. Alimentação excessiva pode reduzir o valor ao matar ou afugentar integrantes."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "4 ponto(s). 16–30 bolsas; duas Ressonâncias por semana. Manutenção, encobrimentos e recrutamento entram ocasionalmente na crônica."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A group of vessels for safe feeding. May perform simple services but is less controlled and loyal than Retainers; use Weak and Average mortals if needed. Each week may slake Hunger equal to Herd without rolling, a benefit shareable among vampires. Overfeeding may reduce the rating by killing or driving members away."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "4 dot(s). 16–30 vessels; two Resonances per week. Maintenance, cover-ups and recruitment occasionally enter the chronicle."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-herd-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Rebanho — 5 ponto(s)",
+        "en": "Herd — 5 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 189, 190 · 5 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        },
+        {
+          "pdfPage": 192,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-obvious-predator"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Grupo de bolsas de quem se alimenta sem preocupação. Pode prestar serviços simples, mas não é tão controlado nem leal quanto Lacaios; use mortais Fracos e Médios se necessário. Toda semana pode saciar Fome igual ao valor de Rebanho sem rolar, benefício compartilhável entre vampiros. Alimentação excessiva pode reduzir o valor ao matar ou afugentar integrantes."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "5 ponto(s). 31–60 bolsas; três Ressonâncias por semana. Manutenção e recrutamento começam a ameaçar a Máscara."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A group of vessels for safe feeding. May perform simple services but is less controlled and loyal than Retainers; use Weak and Average mortals if needed. Each week may slake Hunger equal to Herd without rolling, a benefit shareable among vampires. Overfeeding may reduce the rating by killing or driving members away."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "5 dot(s). 31–60 vessels; three Resonances per week. Maintenance and recruitment start threatening the Masquerade."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "core-background-cobbler",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Sapateiro",
+    "en": "Cobbler"
+  },
+  "aliases": [
+    "Sapateiro",
+    "Cobbler",
+    "Sapateiro — 1 ponto(s)",
+    "Cobbler — 1 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-cobbler-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Sapateiro — 1 ponto(s)",
+        "en": "Cobbler — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 190, 192 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 192,
+          "printedPage": 190
+        },
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-mask": 2
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Pode obter ou criar Máscaras. Fabricar leva três dias por ponto e pode expô-lo online. Obter leva um dia por ponto e tem um preço definido pelo Narrador, possivelmente por influência ou margem em teste Social."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Exige Máscara 2."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Can obtain or create Masks. Creating takes three days per dot and may expose you online. Obtaining takes one day per dot and has a price set by the Storyteller, possibly through influence or a Social-test margin."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Requires Mask 2."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 1
+}

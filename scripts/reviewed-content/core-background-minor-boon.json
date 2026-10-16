@@ -1,0 +1,284 @@
+{
+  "id": "core-background-minor-boon",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Favor Menor",
+    "en": "Minor Boon"
+  },
+  "aliases": [
+    "Favor Menor",
+    "Minor Boon",
+    "Favor Menor — Neófito",
+    "Minor Boon — Neonate",
+    "Favor Menor — Ancilla",
+    "Minor Boon — Ancilla",
+    "Favor Menor — Ancião",
+    "Minor Boon — Elder",
+    "Favor Menor — Primogênito ou membro do Conselho Revolucionário Anarch",
+    "Minor Boon — Primogen or Anarch Revolutionary Council member",
+    "Favor Menor — Príncipe ou Barão",
+    "Minor Boon — Prince or Baron"
+  ],
+  "versions": [
+    {
+      "id": "core-background-minor-boon-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Favor Menor — Neófito",
+        "en": "Minor Boon — Neonate"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · Neófito",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "creationOnly": true,
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Somente na criação pode adquirir Favores Menores de outros Membros. O custo é metade do Mawla equivalente, arredondada para cima. Não representa um mentor permanente; descreva a pessoa e o favor devido."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Favor de Neófito."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Only during creation may purchase Minor Boons owed by other Kindred. Cost is half the equivalent Mawla rating, rounded up. Does not represent a permanent mentor; describe the person and the owed favor."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). A boon from Neonate."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-minor-boon-core-v5-2",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Favor Menor — Ancilla",
+        "en": "Minor Boon — Ancilla"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · Ancilla",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "creationOnly": true,
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Somente na criação pode adquirir Favores Menores de outros Membros. O custo é metade do Mawla equivalente, arredondada para cima. Não representa um mentor permanente; descreva a pessoa e o favor devido."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Favor de Ancilla."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Only during creation may purchase Minor Boons owed by other Kindred. Cost is half the equivalent Mawla rating, rounded up. Does not represent a permanent mentor; describe the person and the owed favor."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). A boon from Ancilla."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-minor-boon-core-v5-3",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Favor Menor — Ancião",
+        "en": "Minor Boon — Elder"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · Ancião",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "creationOnly": true,
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Somente na criação pode adquirir Favores Menores de outros Membros. O custo é metade do Mawla equivalente, arredondada para cima. Não representa um mentor permanente; descreva a pessoa e o favor devido."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Favor de Ancião."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Only during creation may purchase Minor Boons owed by other Kindred. Cost is half the equivalent Mawla rating, rounded up. Does not represent a permanent mentor; describe the person and the owed favor."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). A boon from Elder."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-minor-boon-core-v5-4",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Favor Menor — Primogênito ou membro do Conselho Revolucionário Anarch",
+        "en": "Minor Boon — Primogen or Anarch Revolutionary Council member"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · Primogênito ou membro do Conselho Revolucionário Anarch",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "creationOnly": true,
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Somente na criação pode adquirir Favores Menores de outros Membros. O custo é metade do Mawla equivalente, arredondada para cima. Não representa um mentor permanente; descreva a pessoa e o favor devido."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Favor de Primogênito ou membro do Conselho Revolucionário Anarch."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Only during creation may purchase Minor Boons owed by other Kindred. Cost is half the equivalent Mawla rating, rounded up. Does not represent a permanent mentor; describe the person and the owed favor."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). A boon from Primogen or Anarch Revolutionary Council member."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-minor-boon-core-v5-5",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Favor Menor — Príncipe ou Barão",
+        "en": "Minor Boon — Prince or Baron"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · Príncipe ou Barão",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "creationOnly": true,
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Somente na criação pode adquirir Favores Menores de outros Membros. O custo é metade do Mawla equivalente, arredondada para cima. Não representa um mentor permanente; descreva a pessoa e o favor devido."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Favor de Príncipe ou Barão."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Only during creation may purchase Minor Boons owed by other Kindred. Cost is half the equivalent Mawla rating, rounded up. Does not represent a permanent mentor; describe the person and the owed favor."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). A boon from Prince or Baron."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "id": "core-background-haven",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Refúgio",
+    "en": "Haven"
+  },
+  "aliases": [
+    "Refúgio",
+    "Haven",
+    "Refúgio — 1 ponto(s)",
+    "Haven — 1 dot(s)",
+    "Refúgio — 2 ponto(s)",
+    "Haven — 2 dot(s)",
+    "Refúgio — 3 ponto(s)",
+    "Haven — 3 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-haven-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Refúgio — 1 ponto(s)",
+        "en": "Haven — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 187, 188 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        },
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "O valor de Refúgio Base representa tamanho, segurança e privacidade. Cada ponto acrescenta +1 à Dificuldade ou +1 dado à resistência contra detectar, invadir ou vigiar o local. O residente recebe +1 dado por ponto para perceber perigo dentro dele, inclusive testes para despertar. Sem este Antecedente ainda pode descansar em um local precário; outros Antecedentes podem justificar um lugar melhor. Refúgio não exige Recursos. Qualidades e Defeitos específicos somam ao valor para projetos e outros usos. Pode ser compartilhado pela coterie."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Pequeno, mais seguro/privativo que o padrão: porão, cripta, depósito ou armazém."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Base Haven represents size, security and privacy. Each dot adds +1 Difficulty or +1 resistance die against detecting, invading or surveilling it. The resident gains +1 die per dot to notice danger within, including waking tests. Without this Background one may still rest in a precarious place; other Backgrounds may justify better accommodation. Haven does not require Resources. Specific Merits and Flaws add to the rating for projects and other uses. May be shared by the coterie."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Small but safer/more private than standard: basement, crypt, storage space or warehouse."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-haven-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Refúgio — 2 ponto(s)",
+        "en": "Haven — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 187, 188 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        },
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "O valor de Refúgio Base representa tamanho, segurança e privacidade. Cada ponto acrescenta +1 à Dificuldade ou +1 dado à resistência contra detectar, invadir ou vigiar o local. O residente recebe +1 dado por ponto para perceber perigo dentro dele, inclusive testes para despertar. Sem este Antecedente ainda pode descansar em um local precário; outros Antecedentes podem justificar um lugar melhor. Refúgio não exige Recursos. Qualidades e Defeitos específicos somam ao valor para projetos e outros usos. Pode ser compartilhado pela coterie."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Bom tamanho, segurança ou privacidade: casa familiar, casa geminada, recinto de lobos ou ramificação de esgoto."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Base Haven represents size, security and privacy. Each dot adds +1 Difficulty or +1 resistance die against detecting, invading or surveilling it. The resident gains +1 die per dot to notice danger within, including waking tests. Without this Background one may still rest in a precarious place; other Backgrounds may justify better accommodation. Haven does not require Resources. Specific Merits and Flaws add to the rating for projects and other uses. May be shared by the coterie."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Good size, security or privacy: family home, townhouse, wolf enclosure or sewer branch."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-haven-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Refúgio — 3 ponto(s)",
+        "en": "Haven — 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 187, 188 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        },
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "O valor de Refúgio Base representa tamanho, segurança e privacidade. Cada ponto acrescenta +1 à Dificuldade ou +1 dado à resistência contra detectar, invadir ou vigiar o local. O residente recebe +1 dado por ponto para perceber perigo dentro dele, inclusive testes para despertar. Sem este Antecedente ainda pode descansar em um local precário; outros Antecedentes podem justificar um lugar melhor. Refúgio não exige Recursos. Qualidades e Defeitos específicos somam ao valor para projetos e outros usos. Pode ser compartilhado pela coterie."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Muito grande, seguro ou privativo: complexo afastado, banco ou estação de metrô desativada."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Base Haven represents size, security and privacy. Each dot adds +1 Difficulty or +1 resistance die against detecting, invading or surveilling it. The resident gains +1 die per dot to notice danger within, including waking tests. Without this Background one may still rest in a precarious place; other Backgrounds may justify better accommodation. Haven does not require Resources. Specific Merits and Flaws add to the rating for projects and other uses. May be shared by the coterie."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Very large, secure or private: remote compound, bank or disused subway station."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

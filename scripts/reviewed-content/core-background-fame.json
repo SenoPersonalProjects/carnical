@@ -1,0 +1,584 @@
+{
+  "id": "core-background-fame",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Fama",
+    "en": "Fame"
+  },
+  "aliases": [
+    "Fama",
+    "Fame",
+    "Fama — Mortais, 1 ponto(s)",
+    "Fame — Mortals, 1 dot(s)",
+    "Fama — Mortais, 2 ponto(s)",
+    "Fame — Mortals, 2 dot(s)",
+    "Fama — Mortais, 3 ponto(s)",
+    "Fame — Mortals, 3 dot(s)",
+    "Fama — Mortais, 4 ponto(s)",
+    "Fame — Mortals, 4 dot(s)",
+    "Fama — Mortais, 5 ponto(s)",
+    "Fame — Mortals, 5 dot(s)",
+    "Fama — Membros, 1 ponto(s)",
+    "Fame — Kindred, 1 dot(s)",
+    "Fama — Membros, 2 ponto(s)",
+    "Fame — Kindred, 2 dot(s)",
+    "Fama — Membros, 3 ponto(s)",
+    "Fame — Kindred, 3 dot(s)",
+    "Fama — Membros, 4 ponto(s)",
+    "Fame — Kindred, 4 dot(s)",
+    "Fama — Membros, 5 ponto(s)",
+    "Fame — Kindred, 5 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-fame-core-v5-mortals-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Fama — Mortais, 1 ponto(s)",
+        "en": "Fame — Mortals, 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 186, 187 · Mortais, 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fama pode substituir uma Característica em um teste Social, especialmente para acesso exclusivo, a critério do Narrador. Cada nível reduz em 1 a Dificuldade de testes Sociais contra fãs e de muitos testes de caça, conforme a estratégia. Também dificulta seguir alguém discretamente e pode atrair fãs ao refúgio. Considere Especialização em Disfarce. Normalmente afeta mortais; Fama entre Membros é comprada separadamente pelo mesmo custo."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Uma subcultura distinta o conhece e admira."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Fame may replace a trait in a Social test, especially for exclusive access, at the Storyteller’s discretion. Each level reduces Social test Difficulty against fans and many hunting tests by 1, depending on strategy. It also makes discreetly following someone harder and may attract fans to the haven. Consider a Disguise specialty. Normally affects mortals; Fame among Kindred is purchased separately at the same cost."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). A distinct subculture knows and admires you."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-fame-core-v5-mortals-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Fama — Mortais, 2 ponto(s)",
+        "en": "Fame — Mortals, 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 186, 187 · Mortais, 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fama pode substituir uma Característica em um teste Social, especialmente para acesso exclusivo, a critério do Narrador. Cada nível reduz em 1 a Dificuldade de testes Sociais contra fãs e de muitos testes de caça, conforme a estratégia. Também dificulta seguir alguém discretamente e pode atrair fãs ao refúgio. Considere Especialização em Disfarce. Normalmente afeta mortais; Fama entre Membros é comprada separadamente pelo mesmo custo."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Celebridade local reconhecida por muitas pessoas da cidade."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Fame may replace a trait in a Social test, especially for exclusive access, at the Storyteller’s discretion. Each level reduces Social test Difficulty against fans and many hunting tests by 1, depending on strategy. It also makes discreetly following someone harder and may attract fans to the haven. Consider a Disguise specialty. Normally affects mortals; Fame among Kindred is purchased separately at the same cost."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Local celebrity recognized by many people in the city."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-fame-core-v5-mortals-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Fama — Mortais, 3 ponto(s)",
+        "en": "Fame — Mortals, 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 186, 187 · Mortais, 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fama pode substituir uma Característica em um teste Social, especialmente para acesso exclusivo, a critério do Narrador. Cada nível reduz em 1 a Dificuldade de testes Sociais contra fãs e de muitos testes de caça, conforme a estratégia. Também dificulta seguir alguém discretamente e pode atrair fãs ao refúgio. Considere Especialização em Disfarce. Normalmente afeta mortais; Fama entre Membros é comprada separadamente pelo mesmo custo."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). A maioria das pessoas no país conhece ao menos seu nome."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Fame may replace a trait in a Social test, especially for exclusive access, at the Storyteller’s discretion. Each level reduces Social test Difficulty against fans and many hunting tests by 1, depending on strategy. It also makes discreetly following someone harder and may attract fans to the haven. Consider a Disguise specialty. Normally affects mortals; Fame among Kindred is purchased separately at the same cost."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Most people in the country know at least your name."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-fame-core-v5-mortals-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Fama — Mortais, 4 ponto(s)",
+        "en": "Fame — Mortals, 4 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 186, 187 · Mortais, 4 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fama pode substituir uma Característica em um teste Social, especialmente para acesso exclusivo, a critério do Narrador. Cada nível reduz em 1 a Dificuldade de testes Sociais contra fãs e de muitos testes de caça, conforme a estratégia. Também dificulta seguir alguém discretamente e pode atrair fãs ao refúgio. Considere Especialização em Disfarce. Normalmente afeta mortais; Fama entre Membros é comprada separadamente pelo mesmo custo."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "4 ponto(s). Todos interessados em tendências sociais ou na sua área sabem algo sobre você."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Fame may replace a trait in a Social test, especially for exclusive access, at the Storyteller’s discretion. Each level reduces Social test Difficulty against fans and many hunting tests by 1, depending on strategy. It also makes discreetly following someone harder and may attract fans to the haven. Consider a Disguise specialty. Normally affects mortals; Fame among Kindred is purchased separately at the same cost."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "4 dot(s). Everyone interested in social trends or your field knows something about you."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-fame-core-v5-mortals-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Fama — Mortais, 5 ponto(s)",
+        "en": "Fame — Mortals, 5 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 186, 187 · Mortais, 5 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fama pode substituir uma Característica em um teste Social, especialmente para acesso exclusivo, a critério do Narrador. Cada nível reduz em 1 a Dificuldade de testes Sociais contra fãs e de muitos testes de caça, conforme a estratégia. Também dificulta seguir alguém discretamente e pode atrair fãs ao refúgio. Considere Especialização em Disfarce. Normalmente afeta mortais; Fama entre Membros é comprada separadamente pelo mesmo custo."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "5 ponto(s). Públicos nacionais ou globais: grande estrela de cinema/rock/estádios ou ex-presidente."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Fame may replace a trait in a Social test, especially for exclusive access, at the Storyteller’s discretion. Each level reduces Social test Difficulty against fans and many hunting tests by 1, depending on strategy. It also makes discreetly following someone harder and may attract fans to the haven. Consider a Disguise specialty. Normally affects mortals; Fame among Kindred is purchased separately at the same cost."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "5 dot(s). National or global audiences: a major film/rock/stadium star or former president."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-fame-core-v5-kindred-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Fama — Membros, 1 ponto(s)",
+        "en": "Fame — Kindred, 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 186, 187 · Membros, 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fama pode substituir uma Característica em um teste Social, especialmente para acesso exclusivo, a critério do Narrador. Cada nível reduz em 1 a Dificuldade de testes Sociais contra fãs e de muitos testes de caça, conforme a estratégia. Também dificulta seguir alguém discretamente e pode atrair fãs ao refúgio. Considere Especialização em Disfarce. Normalmente afeta mortais; Fama entre Membros é comprada separadamente pelo mesmo custo."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Uma subcultura distinta o conhece e admira."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Fame may replace a trait in a Social test, especially for exclusive access, at the Storyteller’s discretion. Each level reduces Social test Difficulty against fans and many hunting tests by 1, depending on strategy. It also makes discreetly following someone harder and may attract fans to the haven. Consider a Disguise specialty. Normally affects mortals; Fame among Kindred is purchased separately at the same cost."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). A distinct subculture knows and admires you."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-fame-core-v5-kindred-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Fama — Membros, 2 ponto(s)",
+        "en": "Fame — Kindred, 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 186, 187 · Membros, 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fama pode substituir uma Característica em um teste Social, especialmente para acesso exclusivo, a critério do Narrador. Cada nível reduz em 1 a Dificuldade de testes Sociais contra fãs e de muitos testes de caça, conforme a estratégia. Também dificulta seguir alguém discretamente e pode atrair fãs ao refúgio. Considere Especialização em Disfarce. Normalmente afeta mortais; Fama entre Membros é comprada separadamente pelo mesmo custo."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Celebridade local reconhecida por muitas pessoas da cidade."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Fame may replace a trait in a Social test, especially for exclusive access, at the Storyteller’s discretion. Each level reduces Social test Difficulty against fans and many hunting tests by 1, depending on strategy. It also makes discreetly following someone harder and may attract fans to the haven. Consider a Disguise specialty. Normally affects mortals; Fame among Kindred is purchased separately at the same cost."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Local celebrity recognized by many people in the city."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-fame-core-v5-kindred-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Fama — Membros, 3 ponto(s)",
+        "en": "Fame — Kindred, 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 186, 187 · Membros, 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fama pode substituir uma Característica em um teste Social, especialmente para acesso exclusivo, a critério do Narrador. Cada nível reduz em 1 a Dificuldade de testes Sociais contra fãs e de muitos testes de caça, conforme a estratégia. Também dificulta seguir alguém discretamente e pode atrair fãs ao refúgio. Considere Especialização em Disfarce. Normalmente afeta mortais; Fama entre Membros é comprada separadamente pelo mesmo custo."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). A maioria das pessoas no país conhece ao menos seu nome."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Fame may replace a trait in a Social test, especially for exclusive access, at the Storyteller’s discretion. Each level reduces Social test Difficulty against fans and many hunting tests by 1, depending on strategy. It also makes discreetly following someone harder and may attract fans to the haven. Consider a Disguise specialty. Normally affects mortals; Fame among Kindred is purchased separately at the same cost."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Most people in the country know at least your name."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-fame-core-v5-kindred-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Fama — Membros, 4 ponto(s)",
+        "en": "Fame — Kindred, 4 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 186, 187 · Membros, 4 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fama pode substituir uma Característica em um teste Social, especialmente para acesso exclusivo, a critério do Narrador. Cada nível reduz em 1 a Dificuldade de testes Sociais contra fãs e de muitos testes de caça, conforme a estratégia. Também dificulta seguir alguém discretamente e pode atrair fãs ao refúgio. Considere Especialização em Disfarce. Normalmente afeta mortais; Fama entre Membros é comprada separadamente pelo mesmo custo."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "4 ponto(s). Todos interessados em tendências sociais ou na sua área sabem algo sobre você."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Fame may replace a trait in a Social test, especially for exclusive access, at the Storyteller’s discretion. Each level reduces Social test Difficulty against fans and many hunting tests by 1, depending on strategy. It also makes discreetly following someone harder and may attract fans to the haven. Consider a Disguise specialty. Normally affects mortals; Fame among Kindred is purchased separately at the same cost."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "4 dot(s). Everyone interested in social trends or your field knows something about you."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-fame-core-v5-kindred-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Fama — Membros, 5 ponto(s)",
+        "en": "Fame — Kindred, 5 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 186, 187 · Membros, 5 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 186
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "A Fama pode substituir uma Característica em um teste Social, especialmente para acesso exclusivo, a critério do Narrador. Cada nível reduz em 1 a Dificuldade de testes Sociais contra fãs e de muitos testes de caça, conforme a estratégia. Também dificulta seguir alguém discretamente e pode atrair fãs ao refúgio. Considere Especialização em Disfarce. Normalmente afeta mortais; Fama entre Membros é comprada separadamente pelo mesmo custo."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "5 ponto(s). Públicos nacionais ou globais: grande estrela de cinema/rock/estádios ou ex-presidente."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Fame may replace a trait in a Social test, especially for exclusive access, at the Storyteller’s discretion. Each level reduces Social test Difficulty against fans and many hunting tests by 1, depending on strategy. It also makes discreetly following someone harder and may attract fans to the haven. Consider a Disguise specialty. Normally affects mortals; Fame among Kindred is purchased separately at the same cost."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "5 dot(s). National or global audiences: a major film/rock/stadium star or former president."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -26,7 +26,7 @@ import {usePreferredLocale} from "../preferences";
 
 type Values=Record<string,number>;
 type Specialty={skill:string;name:string;source:string};
-type Merit={name:string;dots:number;source:string;notes:string;catalogId?:string;versionId?:string};
+type Merit={instanceName?:string;name:string;dots:number;source:string;notes:string;catalogId?:string;versionId?:string};
 type GameData={
   attributes:Values;skills:Values;disciplines:Values;disciplinePowers:Record<string,string[]>;specialties:Specialty[];merits:Merit[];flawItems:Merit[];
   bloodSession?:BloodSession;stainImpaired?:boolean;predator:string;humanity:number;hunger:number;stains:number;healthSuperficial:number;healthAggravated:number;willpowerSuperficial:number;willpowerAggravated:number;
@@ -166,6 +166,6 @@ function DotsRead({value}:{value:number}){return <span className="dots-read">{Ar
 function StoryBlock({title,text}:{title:string;text:string}){return <article><span>{title}</span>{text?<p>{text}</p>:<em><UiText text="Não preenchido"/></em>}</article>}
 function StoryItems({title,items,flaw=false}:{title:string;items:Merit[];flaw?:boolean}){
   const locale=usePreferredLocale();
-  return <article><span>{title}</span>{items.length?items.map((item,index)=>{const {entry,version}=indexedItem(item),name=version?.names?.[locale]||entry?.names[locale]||item.name;return <div key={`${item.catalogId||item.name}:${index}`}><p>{name} {"•".repeat(Math.max(0,Math.min(10,item.dots)))}{item.notes&&<> — {item.notes}</>}</p><SavedItemDetails item={item} flaw={flaw}/></div>}):<em><UiText text="Não preenchido"/></em>}</article>;
+  return <article><span>{title}</span>{items.length?items.map((item,index)=>{const {entry,version}=indexedItem(item),name=(version?.names?.[locale]||entry?.names[locale]||item.name)+(item.instanceName?` — ${item.instanceName}`:"");return <div key={`${item.catalogId||item.name}:${index}`}><p>{name} {"•".repeat(Math.max(0,Math.min(10,item.dots)))}{item.notes&&<> — {item.notes}</>}</p><SavedItemDetails item={item} flaw={flaw}/></div>}):<em><UiText text="Não preenchido"/></em>}</article>;
 }
 function TraitOptions({items,exclude}:{items:Array<{key:string;name:string;value:number;group:string}>;exclude?:string}){return <>{["Atributos","Habilidades","Disciplinas"].map(group=><optgroup label={group} key={group}>{items.filter(item=>item.group===group&&item.key!==exclude).map(item=><option value={item.key} key={item.key}>{item.name} ({item.value})</option>)}</optgroup>)}</>}

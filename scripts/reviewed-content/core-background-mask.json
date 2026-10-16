@@ -1,0 +1,128 @@
+{
+  "id": "core-background-mask",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Máscara",
+    "en": "Mask"
+  },
+  "aliases": [
+    "Máscara",
+    "Mask",
+    "Máscara — 1 ponto(s)",
+    "Mask — 1 dot(s)",
+    "Máscara — 2 ponto(s)",
+    "Mask — 2 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-mask-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Máscara — 1 ponto(s)",
+        "en": "Mask — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 190, 192 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 192,
+          "printedPage": 190
+        },
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Identidade para circular na sociedade mortal e explicar a vida noturna. Pode manter várias Máscaras separadas, com seus riscos. Sem pontos, pode ter uma identidade falsa que sustente apenas verificações superficiais, sem resistir a antecedentes ou investigação detalhada."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Boa identidade falsa com crédito, conta bancária, histórico de crédito e certidão de nascimento; passa em antecedentes estaduais ou municipais."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "An identity for moving through mortal society and explaining a nocturnal life. May maintain separate Masks with their attendant risks. With no dots, may have a false identity supporting only superficial checks, not background checks or detailed investigation."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Good false identity with credit, bank account, credit history and birth certificate; passes state or municipal background checks."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-mask-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Máscara — 2 ponto(s)",
+        "en": "Mask — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 190, 192 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 192,
+          "printedPage": 190
+        },
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Identidade para circular na sociedade mortal e explicar a vida noturna. Pode manter várias Máscaras separadas, com seus riscos. Sem pontos, pode ter uma identidade falsa que sustente apenas verificações superficiais, sem resistir a antecedentes ou investigação detalhada."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Passa em antecedentes federais, como FBI ou Scotland Yard. Registro militar ou de inteligência de sua vida mortal fica classificado como confidencial."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "An identity for moving through mortal society and explaining a nocturnal life. May maintain separate Masks with their attendant risks. With no dots, may have a false identity supporting only superficial checks, not background checks or detailed investigation."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Passes federal checks such as the FBI or Scotland Yard. Military or intelligence records from mortal life become classified."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

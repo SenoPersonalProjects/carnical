@@ -2,6 +2,25 @@
 
 ## Estado desta entrega
 
+### Antecedentes do Livro Básico
+
+- 41 entradas e 135 versões conferidas nas páginas 186–196 do PDF, com
+  descrições em português e inglês, valores e acesso à página original.
+- Contatos, Aliados, Refúgios e outros itens permitem instâncias separadas,
+  identificadas por pessoa, grupo ou local. A compra com XP escolhe qual
+  instância aumentar; desfazer restaura seus dados anteriores.
+- Os pontos gratuitos do Predador permanecem separados dos pontos comprados.
+  Alterar o Predador com aumentos pagos exige desfazer essas compras primeiro.
+- Aliados e Mawla admitem os perfis impressos de até seis pontos. Máscara e
+  melhorias de Refúgio verificam os requisitos publicados.
+- A escolha de Caitiff inclui Suspeito sem consumir os dois pontos de Defeitos;
+  Status fica indisponível na criação e pode ser adquirido posteriormente.
+- Testes locais no navegador em 390 e 1440 pixels verificaram escolhas,
+  compras, desfazer, salvamentos rápidos, recarga e preservação dos dados.
+  Quatro PDFs de sete páginas foram extraídos, renderizados e conferidos.
+- Infâmia aguarda esclarecimento do trecho sobre Segredo Sombrio; não foi
+  criada uma concessão de pontos a partir de uma interpretação incerta.
+
 ### Lote de Qualidades e Defeitos comuns
 
 - 24 entradas conferidas nas imagens das páginas 179–182 do Livro Básico,
@@ -32,13 +51,13 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 392 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 433 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
 | Fonte | Entradas revisadas nesta entrega | Cobertura integral |
 | --- | --- | --- |
-| Livro Básico | Perdições e Compulsões dos sete clãs principais; características de Caitiff/Sangue-Ralo e as 16 Qualidades/Defeitos especiais com seleção guiada e 28 Qualidades/Defeitos comuns; todos os dez Predadores, 26 Rituais e sete fórmulas nomeadas; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar e Fortificar a Fachada Interior aguardam esclarecimento; métodos e receitas de imitação de Alquimia, variantes de Afinidade/Maldição de outros livros, Suspeito/Status dos Caitiff, Antecedentes e loresheets pendentes |
+| Livro Básico | Perdições e Compulsões dos sete clãs principais; características de Caitiff/Sangue-Ralo e as 16 Qualidades/Defeitos especiais com seleção guiada e 28 Qualidades/Defeitos comuns; 41 Antecedentes e itens associados, incluindo Suspeito/Status dos Caitiff; todos os dez Predadores, 26 Rituais e sete fórmulas nomeadas; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar, Fortificar a Fachada Interior e Infâmia aguardam esclarecimento; métodos e receitas de imitação de Alquimia, variantes de Afinidade/Maldição de outros livros e loresheets pendentes |
 | Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
 | Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas; os seis Predadores; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; Lasombra, Banu Haqim, Hecata e Ministério | Versões dos demais clãs, Vantagens, Defeitos, loresheets e demais seções pendentes |
 | Cultos dos Deuses de Sangue | Hecata e sua Compulsão original; 3 Cerimônias Shalimitas | Linhagens, loresheets e demais opções pendentes |

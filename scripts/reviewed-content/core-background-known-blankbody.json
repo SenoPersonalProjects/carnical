@@ -1,0 +1,66 @@
+{
+  "id": "core-background-known-blankbody",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Corpo Frio Identificado",
+    "en": "Known Blankbody"
+  },
+  "aliases": [
+    "Corpo Frio Identificado",
+    "Known Blankbody",
+    "Corpo Frio Identificado — 2 ponto(s)",
+    "Known Blankbody — 2 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-known-blankbody-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Corpo Frio Identificado — 2 ponto(s)",
+        "en": "Known Blankbody — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 190 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 192,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {},
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Biometria, nome, história, associados e nomes falsos constam em bancos de inteligência como potencial terrorista. Um inquisidor pode reconhecê-lo como vampiro."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Biometria, nome, história, associados e nomes falsos constam em bancos de inteligência como potencial terrorista. Um inquisidor pode reconhecê-lo como vampiro."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. O valor impresso conta como pontos de Defeito, respeitando o pacote de criação. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Biometrics, name, history, associates and aliases appear in intelligence databases as a potential terrorist. An inquisitor may recognize you as a vampire."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Biometrics, name, history, associates and aliases appear in intelligence databases as a potential terrorist. An inquisitor may recognize you as a vampire."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. The printed rating counts as Flaw dots, subject to the creation package. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 2
+}

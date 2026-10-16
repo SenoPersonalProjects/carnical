@@ -1,0 +1,71 @@
+{
+  "id": "core-background-haunted",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Refúgio: Assombrado",
+    "en": "Haven: Haunted"
+  },
+  "aliases": [
+    "Refúgio: Assombrado",
+    "Haven: Haunted",
+    "Refúgio: Assombrado — 1 ponto(s)",
+    "Haven: Haunted — 1 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-haunted-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Refúgio: Assombrado — 1 ponto(s)",
+        "en": "Haven: Haunted — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Abriga manifestação sobrenatural que não controla ou entende. Alguém que a compreenda pode violar a segurança. O Narrador define os demais efeitos, impondo ao menos −1 dado por ponto deste Defeito às paradas afetadas realizadas no refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Abriga manifestação sobrenatural que não controla ou entende. Alguém que a compreenda pode violar a segurança. O Narrador define os demais efeitos, impondo ao menos −1 dado por ponto deste Defeito às paradas afetadas realizadas no refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. O valor impresso conta como pontos de Defeito, respeitando o pacote de criação. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Contains a supernatural manifestation you do not control or understand. Someone understanding it may bypass security. The Storyteller determines other effects, imposing at least −1 die per Flaw dot on affected pools used in the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Contains a supernatural manifestation you do not control or understand. Someone understanding it may bypass security. The Storyteller determines other effects, imposing at least −1 die per Flaw dot on affected pools used in the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. The printed rating counts as Flaw dots, subject to the creation package. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 1
+}

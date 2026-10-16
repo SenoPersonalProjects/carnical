@@ -1,0 +1,209 @@
+{
+  "id": "core-background-retainers",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Lacaios",
+    "en": "Retainers"
+  },
+  "aliases": [
+    "Lacaios",
+    "Retainers",
+    "Lacaios — 1 ponto(s)",
+    "Retainers — 1 dot(s)",
+    "Lacaios — 2 ponto(s)",
+    "Retainers — 2 dot(s)",
+    "Lacaios — 3 ponto(s)",
+    "Retainers — 3 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-retainers-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Lacaios — 1 ponto(s)",
+        "en": "Retainers — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 185, 194 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 185
+        },
+        {
+          "pdfPage": 196,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Servidores ou assistentes mantidos por salário, Vitae, Dominação ou outra influência. Geralmente leais, mas podem trair por recompensa maior ou maus-tratos. O Narrador pode exigir cenas com eles. Mesmo carniçais não são super-homens; são personagens, não fantoches."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Lacaio decepcionante ou inexperiente: construa como mortal Fraco."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Modelos de mortais (p. 185): Fraco — Atributos: dois 2, demais 1; Habilidades: três 2, cinco 1; sem Vantagens. Médio — Atributos: dois 3, três 2, demais 1; Habilidades: três 3, quatro 2, cinco 1; até 3 Vantagens e no máximo 2 Defeitos. Talentoso — Atributos: um 4, dois 3, dois 2, demais 1; Habilidades: duas 4 (uma com Especialização), quatro 3, quatro 2, quatro 1; até 10 Vantagens e no máximo 4 Defeitos. Mortífero — Atributos: dois 5, dois 4, dois 3, demais 2; Habilidades: uma 5, três 4, cinco 3, seis 2 e três Especializações; até 15 Vantagens, sem Defeitos. O Narrador pode usar pontos de Vantagens para comprar mais Habilidades."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Servants or assistants maintained through wages, vitae, Dominate or another influence. Usually loyal but may betray you for greater rewards or after mistreatment. The Storyteller may require scenes with them. Even ghouls are not superhuman; they are characters, not puppets."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). An underwhelming or inexperienced retainer: build as a Weak mortal."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Mortal templates (p. 185): Weak — Attributes: two 2, others 1; Skills: three 2, five 1; no Advantages. Average — Attributes: two 3, three 2, others 1; Skills: three 3, four 2, five 1; up to 3 Advantages and at most 2 Flaws. Gifted — Attributes: one 4, two 3, two 2, others 1; Skills: two 4 (one with a specialty), four 3, four 2, four 1; up to 10 Advantages and at most 4 Flaws. Deadly — Attributes: two 5, two 4, two 3, others 2; Skills: one 5, three 4, five 3, six 2 and three specialties; up to 15 Advantages, no Flaws. The Storyteller may spend Advantage dots on more Skills."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-retainers-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Lacaios — 2 ponto(s)",
+        "en": "Retainers — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 185, 194 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 185
+        },
+        {
+          "pdfPage": 196,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Servidores ou assistentes mantidos por salário, Vitae, Dominação ou outra influência. Geralmente leais, mas podem trair por recompensa maior ou maus-tratos. O Narrador pode exigir cenas com eles. Mesmo carniçais não são super-homens; são personagens, não fantoches."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Carniçal, servo da família, amante humano ou escravo dominado: mortal Médio ou carniçal sem Vantagens."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Modelos de mortais (p. 185): Fraco — Atributos: dois 2, demais 1; Habilidades: três 2, cinco 1; sem Vantagens. Médio — Atributos: dois 3, três 2, demais 1; Habilidades: três 3, quatro 2, cinco 1; até 3 Vantagens e no máximo 2 Defeitos. Talentoso — Atributos: um 4, dois 3, dois 2, demais 1; Habilidades: duas 4 (uma com Especialização), quatro 3, quatro 2, quatro 1; até 10 Vantagens e no máximo 4 Defeitos. Mortífero — Atributos: dois 5, dois 4, dois 3, demais 2; Habilidades: uma 5, três 4, cinco 3, seis 2 e três Especializações; até 15 Vantagens, sem Defeitos. O Narrador pode usar pontos de Vantagens para comprar mais Habilidades."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Servants or assistants maintained through wages, vitae, Dominate or another influence. Usually loyal but may betray you for greater rewards or after mistreatment. The Storyteller may require scenes with them. Even ghouls are not superhuman; they are characters, not puppets."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). A ghoul, family servant, human lover or dominated slave: Average mortal or ghoul without Advantages."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Mortal templates (p. 185): Weak — Attributes: two 2, others 1; Skills: three 2, five 1; no Advantages. Average — Attributes: two 3, three 2, others 1; Skills: three 3, four 2, five 1; up to 3 Advantages and at most 2 Flaws. Gifted — Attributes: one 4, two 3, two 2, others 1; Skills: two 4 (one with a specialty), four 3, four 2, four 1; up to 10 Advantages and at most 4 Flaws. Deadly — Attributes: two 5, two 4, two 3, others 2; Skills: one 5, three 4, five 3, six 2 and three specialties; up to 15 Advantages, no Flaws. The Storyteller may spend Advantage dots on more Skills."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-retainers-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Lacaios — 3 ponto(s)",
+        "en": "Retainers — 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 185, 194 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 185
+        },
+        {
+          "pdfPage": 196,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Servidores ou assistentes mantidos por salário, Vitae, Dominação ou outra influência. Geralmente leais, mas podem trair por recompensa maior ou maus-tratos. O Narrador pode exigir cenas com eles. Mesmo carniçais não são super-homens; são personagens, não fantoches."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Competente para agir sozinho e resolver pequenos problemas: provavelmente carniçal com características de mortal Talentoso e habilidades sobrenaturais."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Modelos de mortais (p. 185): Fraco — Atributos: dois 2, demais 1; Habilidades: três 2, cinco 1; sem Vantagens. Médio — Atributos: dois 3, três 2, demais 1; Habilidades: três 3, quatro 2, cinco 1; até 3 Vantagens e no máximo 2 Defeitos. Talentoso — Atributos: um 4, dois 3, dois 2, demais 1; Habilidades: duas 4 (uma com Especialização), quatro 3, quatro 2, quatro 1; até 10 Vantagens e no máximo 4 Defeitos. Mortífero — Atributos: dois 5, dois 4, dois 3, demais 2; Habilidades: uma 5, três 4, cinco 3, seis 2 e três Especializações; até 15 Vantagens, sem Defeitos. O Narrador pode usar pontos de Vantagens para comprar mais Habilidades."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Servants or assistants maintained through wages, vitae, Dominate or another influence. Usually loyal but may betray you for greater rewards or after mistreatment. The Storyteller may require scenes with them. Even ghouls are not superhuman; they are characters, not puppets."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Competent enough to act independently and solve minor problems: probably a ghoul with Gifted mortal traits and supernatural abilities."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Mortal templates (p. 185): Weak — Attributes: two 2, others 1; Skills: three 2, five 1; no Advantages. Average — Attributes: two 3, three 2, others 1; Skills: three 3, four 2, five 1; up to 3 Advantages and at most 2 Flaws. Gifted — Attributes: one 4, two 3, two 2, others 1; Skills: two 4 (one with a specialty), four 3, four 2, four 1; up to 10 Advantages and at most 4 Flaws. Deadly — Attributes: two 5, two 4, two 3, others 2; Skills: one 5, three 4, five 3, six 2 and three specialties; up to 15 Advantages, no Flaws. The Storyteller may spend Advantage dots on more Skills."
+          }
+        ]
+      }
+    }
+  ]
+}

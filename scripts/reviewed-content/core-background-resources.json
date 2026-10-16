@@ -1,0 +1,294 @@
+{
+  "id": "core-background-resources",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Recursos",
+    "en": "Resources"
+  },
+  "aliases": [
+    "Recursos",
+    "Resources",
+    "Recursos — 1 ponto(s)",
+    "Resources — 1 dot(s)",
+    "Recursos — 2 ponto(s)",
+    "Resources — 2 dot(s)",
+    "Recursos — 3 ponto(s)",
+    "Resources — 3 dot(s)",
+    "Recursos — 4 ponto(s)",
+    "Resources — 4 dot(s)",
+    "Recursos — 5 ponto(s)",
+    "Resources — 5 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-resources-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Recursos — 1 ponto(s)",
+        "en": "Resources — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-destitute"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Status econômico, acesso à riqueza e renda para manter o padrão de não vida. Nem tudo é capital líquido: vender patrimônio pode levar semanas ou meses. Descreva a origem da renda e a forma dos bens, que podem ser roubados, esgotados ou perdidos durante a crônica. A Segunda Inquisição incentiva manter riqueza em bens, ouro ou arte em vez de contas rastreáveis."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Proletariado: vive de salário em salário; apartamento, carro, equipamento de camping."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Economic status, access to wealth and income maintaining a standard of unlife. Assets are not necessarily liquid: selling them may take weeks or months. Describe income sources and asset forms, which may be stolen, depleted or lost during the chronicle. The Second Inquisition encourages holding goods, gold or art rather than traceable accounts."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Working class: paycheck to paycheck; apartment, car and camping equipment."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-resources-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Recursos — 2 ponto(s)",
+        "en": "Resources — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-destitute"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Status econômico, acesso à riqueza e renda para manter o padrão de não vida. Nem tudo é capital líquido: vender patrimônio pode levar semanas ou meses. Descreva a origem da renda e a forma dos bens, que podem ser roubados, esgotados ou perdidos durante a crônica. A Segunda Inquisição incentiva manter riqueza em bens, ouro ou arte em vez de contas rastreáveis."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Classe Média: bom apartamento ou casa pequena, alguns carros e eletrodomésticos recentes."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Economic status, access to wealth and income maintaining a standard of unlife. Assets are not necessarily liquid: selling them may take weeks or months. Describe income sources and asset forms, which may be stolen, depleted or lost during the chronicle. The Second Inquisition encourages holding goods, gold or art rather than traceable accounts."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Middle class: nice apartment or small house, a few cars and current appliances."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-resources-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Recursos — 3 ponto(s)",
+        "en": "Resources — 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-destitute"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Status econômico, acesso à riqueza e renda para manter o padrão de não vida. Nem tudo é capital líquido: vender patrimônio pode levar semanas ou meses. Descreva a origem da renda e a forma dos bens, que podem ser roubados, esgotados ou perdidos durante a crônica. A Segunda Inquisição incentiva manter riqueza em bens, ouro ou arte em vez de contas rastreáveis."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Rico: casa ou apartamento grande, luxo e equipamentos de última geração para várias pessoas."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Economic status, access to wealth and income maintaining a standard of unlife. Assets are not necessarily liquid: selling them may take weeks or months. Describe income sources and asset forms, which may be stolen, depleted or lost during the chronicle. The Second Inquisition encourages holding goods, gold or art rather than traceable accounts."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Rich: large home or apartment, luxury and top equipment for several people."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-resources-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Recursos — 4 ponto(s)",
+        "en": "Resources — 4 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · 4 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-destitute"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Status econômico, acesso à riqueza e renda para manter o padrão de não vida. Nem tudo é capital líquido: vender patrimônio pode levar semanas ou meses. Descreva a origem da renda e a forma dos bens, que podem ser roubados, esgotados ou perdidos durante a crônica. A Segunda Inquisição incentiva manter riqueza em bens, ouro ou arte em vez de contas rastreáveis."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "4 ponto(s). Milionário: mansão, helicóptero ou jato particular e equipamentos especializados."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Economic status, access to wealth and income maintaining a standard of unlife. Assets are not necessarily liquid: selling them may take weeks or months. Describe income sources and asset forms, which may be stolen, depleted or lost during the chronicle. The Second Inquisition encourages holding goods, gold or art rather than traceable accounts."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "4 dot(s). Wealthy: mansion, helicopter or private jet and specialized equipment."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-resources-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Recursos — 5 ponto(s)",
+        "en": "Resources — 5 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · 5 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-destitute"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Status econômico, acesso à riqueza e renda para manter o padrão de não vida. Nem tudo é capital líquido: vender patrimônio pode levar semanas ou meses. Descreva a origem da renda e a forma dos bens, que podem ser roubados, esgotados ou perdidos durante a crônica. A Segunda Inquisição incentiva manter riqueza em bens, ouro ou arte em vez de contas rastreáveis."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "5 ponto(s). Bilionário: várias mansões, qualquer coisa que o dinheiro possa comprar."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Economic status, access to wealth and income maintaining a standard of unlife. Assets are not necessarily liquid: selling them may take weeks or months. Describe income sources and asset forms, which may be stolen, depleted or lost during the chronicle. The Second Inquisition encourages holding goods, gold or art rather than traceable accounts."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "5 dot(s). Extremely wealthy: multiple mansions, anything money can buy."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

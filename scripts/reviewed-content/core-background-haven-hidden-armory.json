@@ -1,0 +1,334 @@
+{
+  "id": "core-background-haven-hidden-armory",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Refúgio: Arsenal Oculto",
+    "en": "Haven: Hidden Armory"
+  },
+  "aliases": [
+    "Refúgio: Arsenal Oculto",
+    "Haven: Hidden Armory",
+    "Refúgio: Arsenal Oculto — 1 ponto(s)",
+    "Haven: Hidden Armory — 1 dot(s)",
+    "Refúgio: Arsenal Oculto — 2 ponto(s)",
+    "Haven: Hidden Armory — 2 dot(s)",
+    "Refúgio: Arsenal Oculto — 3 ponto(s)",
+    "Haven: Hidden Armory — 3 dot(s)",
+    "Refúgio: Arsenal Oculto — 4 ponto(s)",
+    "Haven: Hidden Armory — 4 dot(s)",
+    "Refúgio: Arsenal Oculto — 5 ponto(s)",
+    "Haven: Hidden Armory — 5 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-haven-hidden-armory-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Refúgio: Arsenal Oculto — 1 ponto(s)",
+        "en": "Haven: Hidden Armory — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cada ponto fornece uma pistola e uma arma de fogo longa, com munição. O arsenal é tão protegido de descobertas quanto o refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Cada ponto fornece uma pistola e uma arma de fogo longa, com munição. O arsenal é tão protegido de descobertas quanto o refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Identifique nas escolhas o Refúgio específico e os benefícios de cada ponto. "
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Each dot supplies a pistol and a long firearm with ammunition. The armory is as protected against discovery as the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Each dot supplies a pistol and a long firearm with ammunition. The armory is as protected against discovery as the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Identify the specific Haven and each dot’s benefits in the choices. "
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-haven-hidden-armory-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Refúgio: Arsenal Oculto — 2 ponto(s)",
+        "en": "Haven: Hidden Armory — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cada ponto fornece uma pistola e uma arma de fogo longa, com munição. O arsenal é tão protegido de descobertas quanto o refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Cada ponto fornece uma pistola e uma arma de fogo longa, com munição. O arsenal é tão protegido de descobertas quanto o refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Identifique nas escolhas o Refúgio específico e os benefícios de cada ponto. "
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Each dot supplies a pistol and a long firearm with ammunition. The armory is as protected against discovery as the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Each dot supplies a pistol and a long firearm with ammunition. The armory is as protected against discovery as the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Identify the specific Haven and each dot’s benefits in the choices. "
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-haven-hidden-armory-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Refúgio: Arsenal Oculto — 3 ponto(s)",
+        "en": "Haven: Hidden Armory — 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cada ponto fornece uma pistola e uma arma de fogo longa, com munição. O arsenal é tão protegido de descobertas quanto o refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Cada ponto fornece uma pistola e uma arma de fogo longa, com munição. O arsenal é tão protegido de descobertas quanto o refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Identifique nas escolhas o Refúgio específico e os benefícios de cada ponto. "
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Each dot supplies a pistol and a long firearm with ammunition. The armory is as protected against discovery as the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Each dot supplies a pistol and a long firearm with ammunition. The armory is as protected against discovery as the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Identify the specific Haven and each dot’s benefits in the choices. "
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-haven-hidden-armory-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Refúgio: Arsenal Oculto — 4 ponto(s)",
+        "en": "Haven: Hidden Armory — 4 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188 · 4 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cada ponto fornece uma pistola e uma arma de fogo longa, com munição. O arsenal é tão protegido de descobertas quanto o refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "4 ponto(s). Cada ponto fornece uma pistola e uma arma de fogo longa, com munição. O arsenal é tão protegido de descobertas quanto o refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Identifique nas escolhas o Refúgio específico e os benefícios de cada ponto. "
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Each dot supplies a pistol and a long firearm with ammunition. The armory is as protected against discovery as the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "4 dot(s). Each dot supplies a pistol and a long firearm with ammunition. The armory is as protected against discovery as the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Identify the specific Haven and each dot’s benefits in the choices. "
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-haven-hidden-armory-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Refúgio: Arsenal Oculto — 5 ponto(s)",
+        "en": "Haven: Hidden Armory — 5 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188 · 5 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cada ponto fornece uma pistola e uma arma de fogo longa, com munição. O arsenal é tão protegido de descobertas quanto o refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "5 ponto(s). Cada ponto fornece uma pistola e uma arma de fogo longa, com munição. O arsenal é tão protegido de descobertas quanto o refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Identifique nas escolhas o Refúgio específico e os benefícios de cada ponto. "
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Each dot supplies a pistol and a long firearm with ammunition. The armory is as protected against discovery as the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "5 dot(s). Each dot supplies a pistol and a long firearm with ammunition. The armory is as protected against discovery as the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Identify the specific Haven and each dot’s benefits in the choices. "
+          }
+        ]
+      }
+    }
+  ]
+}

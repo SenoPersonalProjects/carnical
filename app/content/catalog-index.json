@@ -12834,6 +12834,2952 @@
           "sourceTitle": "Player’s Guide V5, pp. 35–36"
         }
       ]
+    },
+    {
+      "id": "core-background-adversary",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Adversário",
+        "en": "Adversary"
+      },
+      "aliases": [
+        "Adversário",
+        "Adversary",
+        "Adversário — 1 ponto(s)",
+        "Adversary — 1 dot(s)",
+        "Adversário — 2 ponto(s)",
+        "Adversary — 2 dot(s)",
+        "Adversário — 3 ponto(s)",
+        "Adversary — 3 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-adversary-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Adversário — 1 ponto(s)",
+            "en": "Adversary — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-adversary-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Adversário — 2 ponto(s)",
+            "en": "Adversary — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-adversary-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Adversário — 3 ponto(s)",
+            "en": "Adversary — 3 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-allies",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Aliados",
+        "en": "Allies"
+      },
+      "aliases": [
+        "Aliados",
+        "Allies",
+        "Aliados — Efetividade 1, Confiabilidade 0",
+        "Allies — Effectiveness 1, Reliability 0",
+        "Aliados — Efetividade 1, Confiabilidade 1",
+        "Allies — Effectiveness 1, Reliability 1",
+        "Aliados — Efetividade 1, Confiabilidade 2",
+        "Allies — Effectiveness 1, Reliability 2",
+        "Aliados — Efetividade 1, Confiabilidade 3",
+        "Allies — Effectiveness 1, Reliability 3",
+        "Aliados — Efetividade 2, Confiabilidade 0",
+        "Allies — Effectiveness 2, Reliability 0",
+        "Aliados — Efetividade 2, Confiabilidade 1",
+        "Allies — Effectiveness 2, Reliability 1",
+        "Aliados — Efetividade 2, Confiabilidade 2",
+        "Allies — Effectiveness 2, Reliability 2",
+        "Aliados — Efetividade 2, Confiabilidade 3",
+        "Allies — Effectiveness 2, Reliability 3",
+        "Aliados — Efetividade 3, Confiabilidade 0",
+        "Allies — Effectiveness 3, Reliability 0",
+        "Aliados — Efetividade 3, Confiabilidade 1",
+        "Allies — Effectiveness 3, Reliability 1",
+        "Aliados — Efetividade 3, Confiabilidade 2",
+        "Allies — Effectiveness 3, Reliability 2",
+        "Aliados — Efetividade 3, Confiabilidade 3",
+        "Allies — Effectiveness 3, Reliability 3",
+        "Aliados — Efetividade 4, Confiabilidade 0",
+        "Allies — Effectiveness 4, Reliability 0",
+        "Aliados — Efetividade 4, Confiabilidade 1",
+        "Allies — Effectiveness 4, Reliability 1",
+        "Aliados — Efetividade 4, Confiabilidade 2",
+        "Allies — Effectiveness 4, Reliability 2"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-allies-core-v5-e1-r0",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 1, Confiabilidade 0",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 1, Confiabilidade 0",
+            "en": "Allies — Effectiveness 1, Reliability 0"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e1-r1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 1, Confiabilidade 1",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 1, Confiabilidade 1",
+            "en": "Allies — Effectiveness 1, Reliability 1"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e1-r2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 1, Confiabilidade 2",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 1, Confiabilidade 2",
+            "en": "Allies — Effectiveness 1, Reliability 2"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e1-r3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 1, Confiabilidade 3",
+          "level": 4,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 1, Confiabilidade 3",
+            "en": "Allies — Effectiveness 1, Reliability 3"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e2-r0",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 2, Confiabilidade 0",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 2, Confiabilidade 0",
+            "en": "Allies — Effectiveness 2, Reliability 0"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e2-r1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 2, Confiabilidade 1",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 2, Confiabilidade 1",
+            "en": "Allies — Effectiveness 2, Reliability 1"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e2-r2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 2, Confiabilidade 2",
+          "level": 4,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 2, Confiabilidade 2",
+            "en": "Allies — Effectiveness 2, Reliability 2"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e2-r3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 2, Confiabilidade 3",
+          "level": 5,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 2, Confiabilidade 3",
+            "en": "Allies — Effectiveness 2, Reliability 3"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e3-r0",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 3, Confiabilidade 0",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 3, Confiabilidade 0",
+            "en": "Allies — Effectiveness 3, Reliability 0"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e3-r1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 3, Confiabilidade 1",
+          "level": 4,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 3, Confiabilidade 1",
+            "en": "Allies — Effectiveness 3, Reliability 1"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e3-r2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 3, Confiabilidade 2",
+          "level": 5,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 3, Confiabilidade 2",
+            "en": "Allies — Effectiveness 3, Reliability 2"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e3-r3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 3, Confiabilidade 3",
+          "level": 6,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 3, Confiabilidade 3",
+            "en": "Allies — Effectiveness 3, Reliability 3"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e4-r0",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 4, Confiabilidade 0",
+          "level": 4,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 4, Confiabilidade 0",
+            "en": "Allies — Effectiveness 4, Reliability 0"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e4-r1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 4, Confiabilidade 1",
+          "level": 5,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 4, Confiabilidade 1",
+            "en": "Allies — Effectiveness 4, Reliability 1"
+          }
+        },
+        {
+          "id": "core-background-allies-core-v5-e4-r2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 4, Confiabilidade 2",
+          "level": 6,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Aliados — Efetividade 4, Confiabilidade 2",
+            "en": "Allies — Effectiveness 4, Reliability 2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-cobbler",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Sapateiro",
+        "en": "Cobbler"
+      },
+      "aliases": [
+        "Sapateiro",
+        "Cobbler",
+        "Sapateiro — 1 ponto(s)",
+        "Cobbler — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-cobbler-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 190, 192 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-mask": 2
+            }
+          },
+          "names": {
+            "pt-BR": "Sapateiro — 1 ponto(s)",
+            "en": "Cobbler — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-compromised",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Refúgio: Comprometido",
+        "en": "Haven: Compromised"
+      },
+      "aliases": [
+        "Refúgio: Comprometido",
+        "Haven: Compromised",
+        "Refúgio: Comprometido — 2 ponto(s)",
+        "Haven: Compromised — 2 dot(s)"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-compromised-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Comprometido — 2 ponto(s)",
+            "en": "Haven: Compromised — 2 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-contacts",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Contatos",
+        "en": "Contacts"
+      },
+      "aliases": [
+        "Contatos",
+        "Contacts",
+        "Contatos criminosos",
+        "Contatos — 1 ponto(s)",
+        "Contacts — 1 dot(s)",
+        "Contatos — 2 ponto(s)",
+        "Contacts — 2 dot(s)",
+        "Contatos — 3 ponto(s)",
+        "Contacts — 3 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-contacts-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Contatos — 1 ponto(s)",
+            "en": "Contacts — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-contacts-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Contatos — 2 ponto(s)",
+            "en": "Contacts — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-contacts-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Contatos — 3 ponto(s)",
+            "en": "Contacts — 3 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-creepy",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Refúgio: Assustador",
+        "en": "Haven: Creepy"
+      },
+      "aliases": [
+        "Refúgio: Assustador",
+        "Haven: Creepy",
+        "Refúgio: Assustador — 1 ponto(s)",
+        "Haven: Creepy — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-creepy-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Assustador — 1 ponto(s)",
+            "en": "Haven: Creepy — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-dark-secret",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Segredo Sombrio",
+        "en": "Dark Secret"
+      },
+      "aliases": [
+        "Segredo Sombrio",
+        "Dark Secret",
+        "Segredo Sombrio: risco à Máscara",
+        "Segredo Sombrio: Trinchador",
+        "Segredo Sombrio — 1 ponto(s)",
+        "Dark Secret — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-dark-secret-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Segredo Sombrio — 1 ponto(s)",
+            "en": "Dark Secret — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-despised",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Desprezado",
+        "en": "Despised"
+      },
+      "aliases": [
+        "Desprezado",
+        "Despised",
+        "Desprezado — 2 ponto(s)",
+        "Despised — 2 dot(s)"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-despised-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 187 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Desprezado — 2 ponto(s)",
+            "en": "Despised — 2 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-destitute",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Destituído",
+        "en": "Destitute"
+      },
+      "aliases": [
+        "Destituído",
+        "Destitute",
+        "Destituído — 1 ponto(s)",
+        "Destitute — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-destitute-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-resources"
+            ]
+          },
+          "names": {
+            "pt-BR": "Destituído — 1 ponto(s)",
+            "en": "Destitute — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-disliked",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Malquisto",
+        "en": "Disliked"
+      },
+      "aliases": [
+        "Malquisto",
+        "Disliked",
+        "Malquisto — 1 ponto(s)",
+        "Disliked — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-disliked-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 187 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Malquisto — 1 ponto(s)",
+            "en": "Disliked — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-enemies",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Inimigo",
+        "en": "Enemy"
+      },
+      "aliases": [
+        "Inimigo",
+        "Enemy",
+        "Inimigos",
+        "Enemies",
+        "Inimigo — Efetividade 3",
+        "Enemy — Effectiveness 3",
+        "Inimigo — Efetividade 4",
+        "Enemy — Effectiveness 4"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-enemies-core-v5-gifted",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 3",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Inimigo — Efetividade 3",
+            "en": "Enemy — Effectiveness 3"
+          }
+        },
+        {
+          "id": "core-background-enemies-core-v5-deadly",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 184, 185 · Efetividade 4",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Inimigo — Efetividade 4",
+            "en": "Enemy — Effectiveness 4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-fame",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Fama",
+        "en": "Fame"
+      },
+      "aliases": [
+        "Fama",
+        "Fame",
+        "Fama — Mortais, 1 ponto(s)",
+        "Fame — Mortals, 1 dot(s)",
+        "Fama — Mortais, 2 ponto(s)",
+        "Fame — Mortals, 2 dot(s)",
+        "Fama — Mortais, 3 ponto(s)",
+        "Fame — Mortals, 3 dot(s)",
+        "Fama — Mortais, 4 ponto(s)",
+        "Fame — Mortals, 4 dot(s)",
+        "Fama — Mortais, 5 ponto(s)",
+        "Fame — Mortals, 5 dot(s)",
+        "Fama — Membros, 1 ponto(s)",
+        "Fame — Kindred, 1 dot(s)",
+        "Fama — Membros, 2 ponto(s)",
+        "Fame — Kindred, 2 dot(s)",
+        "Fama — Membros, 3 ponto(s)",
+        "Fame — Kindred, 3 dot(s)",
+        "Fama — Membros, 4 ponto(s)",
+        "Fame — Kindred, 4 dot(s)",
+        "Fama — Membros, 5 ponto(s)",
+        "Fame — Kindred, 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-fame-core-v5-mortals-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · Mortais, 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Fama — Mortais, 1 ponto(s)",
+            "en": "Fame — Mortals, 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-fame-core-v5-mortals-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · Mortais, 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Fama — Mortais, 2 ponto(s)",
+            "en": "Fame — Mortals, 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-fame-core-v5-mortals-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · Mortais, 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Fama — Mortais, 3 ponto(s)",
+            "en": "Fame — Mortals, 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-fame-core-v5-mortals-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · Mortais, 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Fama — Mortais, 4 ponto(s)",
+            "en": "Fame — Mortals, 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-fame-core-v5-mortals-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · Mortais, 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Fama — Mortais, 5 ponto(s)",
+            "en": "Fame — Mortals, 5 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-fame-core-v5-kindred-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · Membros, 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Fama — Membros, 1 ponto(s)",
+            "en": "Fame — Kindred, 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-fame-core-v5-kindred-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · Membros, 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Fama — Membros, 2 ponto(s)",
+            "en": "Fame — Kindred, 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-fame-core-v5-kindred-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · Membros, 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Fama — Membros, 3 ponto(s)",
+            "en": "Fame — Kindred, 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-fame-core-v5-kindred-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · Membros, 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Fama — Membros, 4 ponto(s)",
+            "en": "Fame — Kindred, 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-fame-core-v5-kindred-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 186, 187 · Membros, 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Fama — Membros, 5 ponto(s)",
+            "en": "Fame — Kindred, 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haunted",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Refúgio: Assombrado",
+        "en": "Haven: Haunted"
+      },
+      "aliases": [
+        "Refúgio: Assombrado",
+        "Haven: Haunted",
+        "Refúgio: Assombrado — 1 ponto(s)",
+        "Haven: Haunted — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haunted-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Assombrado — 1 ponto(s)",
+            "en": "Haven: Haunted — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-cell",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Cela",
+        "en": "Haven: Cell"
+      },
+      "aliases": [
+        "Refúgio: Cela",
+        "Haven: Cell",
+        "Refúgio: Cela — 1 ponto(s)",
+        "Haven: Cell — 1 dot(s)",
+        "Refúgio: Cela — 2 ponto(s)",
+        "Haven: Cell — 2 dot(s)",
+        "Refúgio: Cela — 3 ponto(s)",
+        "Haven: Cell — 3 dot(s)",
+        "Refúgio: Cela — 4 ponto(s)",
+        "Haven: Cell — 4 dot(s)",
+        "Refúgio: Cela — 5 ponto(s)",
+        "Haven: Cell — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-cell-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Cela — 1 ponto(s)",
+            "en": "Haven: Cell — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-cell-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Cela — 2 ponto(s)",
+            "en": "Haven: Cell — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-cell-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Cela — 3 ponto(s)",
+            "en": "Haven: Cell — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-cell-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Cela — 4 ponto(s)",
+            "en": "Haven: Cell — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-cell-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Cela — 5 ponto(s)",
+            "en": "Haven: Cell — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-hidden-armory",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Arsenal Oculto",
+        "en": "Haven: Hidden Armory"
+      },
+      "aliases": [
+        "Refúgio: Arsenal Oculto",
+        "Haven: Hidden Armory",
+        "Refúgio: Arsenal Oculto — 1 ponto(s)",
+        "Haven: Hidden Armory — 1 dot(s)",
+        "Refúgio: Arsenal Oculto — 2 ponto(s)",
+        "Haven: Hidden Armory — 2 dot(s)",
+        "Refúgio: Arsenal Oculto — 3 ponto(s)",
+        "Haven: Hidden Armory — 3 dot(s)",
+        "Refúgio: Arsenal Oculto — 4 ponto(s)",
+        "Haven: Hidden Armory — 4 dot(s)",
+        "Refúgio: Arsenal Oculto — 5 ponto(s)",
+        "Haven: Hidden Armory — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-hidden-armory-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Arsenal Oculto — 1 ponto(s)",
+            "en": "Haven: Hidden Armory — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-hidden-armory-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Arsenal Oculto — 2 ponto(s)",
+            "en": "Haven: Hidden Armory — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-hidden-armory-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Arsenal Oculto — 3 ponto(s)",
+            "en": "Haven: Hidden Armory — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-hidden-armory-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Arsenal Oculto — 4 ponto(s)",
+            "en": "Haven: Hidden Armory — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-hidden-armory-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Arsenal Oculto — 5 ponto(s)",
+            "en": "Haven: Hidden Armory — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-laboratory",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Laboratório",
+        "en": "Haven: Laboratory"
+      },
+      "aliases": [
+        "Refúgio: Laboratório",
+        "Haven: Laboratory",
+        "Refúgio: Laboratório — 1 ponto(s)",
+        "Haven: Laboratory — 1 dot(s)",
+        "Refúgio: Laboratório — 2 ponto(s)",
+        "Haven: Laboratory — 2 dot(s)",
+        "Refúgio: Laboratório — 3 ponto(s)",
+        "Haven: Laboratory — 3 dot(s)",
+        "Refúgio: Laboratório — 4 ponto(s)",
+        "Haven: Laboratory — 4 dot(s)",
+        "Refúgio: Laboratório — 5 ponto(s)",
+        "Haven: Laboratory — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-laboratory-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Laboratório — 1 ponto(s)",
+            "en": "Haven: Laboratory — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-laboratory-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Laboratório — 2 ponto(s)",
+            "en": "Haven: Laboratory — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-laboratory-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Laboratório — 3 ponto(s)",
+            "en": "Haven: Laboratory — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-laboratory-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Laboratório — 4 ponto(s)",
+            "en": "Haven: Laboratory — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-laboratory-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Laboratório — 5 ponto(s)",
+            "en": "Haven: Laboratory — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-library",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Biblioteca",
+        "en": "Haven: Library"
+      },
+      "aliases": [
+        "Refúgio: Biblioteca",
+        "Haven: Library",
+        "Refúgio: Biblioteca — 1 ponto(s)",
+        "Haven: Library — 1 dot(s)",
+        "Refúgio: Biblioteca — 2 ponto(s)",
+        "Haven: Library — 2 dot(s)",
+        "Refúgio: Biblioteca — 3 ponto(s)",
+        "Haven: Library — 3 dot(s)",
+        "Refúgio: Biblioteca — 4 ponto(s)",
+        "Haven: Library — 4 dot(s)",
+        "Refúgio: Biblioteca — 5 ponto(s)",
+        "Haven: Library — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-library-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Biblioteca — 1 ponto(s)",
+            "en": "Haven: Library — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-library-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Biblioteca — 2 ponto(s)",
+            "en": "Haven: Library — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-library-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Biblioteca — 3 ponto(s)",
+            "en": "Haven: Library — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-library-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Biblioteca — 4 ponto(s)",
+            "en": "Haven: Library — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-library-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Biblioteca — 5 ponto(s)",
+            "en": "Haven: Library — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-location",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Localização",
+        "en": "Haven: Location"
+      },
+      "aliases": [
+        "Refúgio: Localização",
+        "Haven: Location",
+        "Refúgio: Localização — 1 ponto(s)",
+        "Haven: Location — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-location-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 189 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Localização — 1 ponto(s)",
+            "en": "Haven: Location — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-luxury",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Luxo",
+        "en": "Haven: Luxury"
+      },
+      "aliases": [
+        "Refúgio: Luxo",
+        "Haven: Luxury",
+        "Refúgio: Luxo — 1 ponto(s)",
+        "Haven: Luxury — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-luxury-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 189 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Luxo — 1 ponto(s)",
+            "en": "Haven: Luxury — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-operating-room",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Sala de Operações",
+        "en": "Haven: Surgery"
+      },
+      "aliases": [
+        "Refúgio: Sala de Operações",
+        "Haven: Surgery",
+        "Refúgio: Sala de Operações — 1 ponto(s)",
+        "Haven: Surgery — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-operating-room-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 189 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 2
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Sala de Operações — 1 ponto(s)",
+            "en": "Haven: Surgery — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-postern",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Poterna",
+        "en": "Haven: Postern"
+      },
+      "aliases": [
+        "Refúgio: Poterna",
+        "Haven: Postern",
+        "Refúgio: Poterna — 1 ponto(s)",
+        "Haven: Postern — 1 dot(s)",
+        "Refúgio: Poterna — 2 ponto(s)",
+        "Haven: Postern — 2 dot(s)",
+        "Refúgio: Poterna — 3 ponto(s)",
+        "Haven: Postern — 3 dot(s)",
+        "Refúgio: Poterna — 4 ponto(s)",
+        "Haven: Postern — 4 dot(s)",
+        "Refúgio: Poterna — 5 ponto(s)",
+        "Haven: Postern — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-postern-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Poterna — 1 ponto(s)",
+            "en": "Haven: Postern — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-postern-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Poterna — 2 ponto(s)",
+            "en": "Haven: Postern — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-postern-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Poterna — 3 ponto(s)",
+            "en": "Haven: Postern — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-postern-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Poterna — 4 ponto(s)",
+            "en": "Haven: Postern — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-postern-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Poterna — 5 ponto(s)",
+            "en": "Haven: Postern — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-security-system",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Sistema de Segurança",
+        "en": "Haven: Security System"
+      },
+      "aliases": [
+        "Refúgio: Sistema de Segurança",
+        "Haven: Security System",
+        "Refúgio: Sistema de Segurança — 1 ponto(s)",
+        "Haven: Security System — 1 dot(s)",
+        "Refúgio: Sistema de Segurança — 2 ponto(s)",
+        "Haven: Security System — 2 dot(s)",
+        "Refúgio: Sistema de Segurança — 3 ponto(s)",
+        "Haven: Security System — 3 dot(s)",
+        "Refúgio: Sistema de Segurança — 4 ponto(s)",
+        "Haven: Security System — 4 dot(s)",
+        "Refúgio: Sistema de Segurança — 5 ponto(s)",
+        "Haven: Security System — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-security-system-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Sistema de Segurança — 1 ponto(s)",
+            "en": "Haven: Security System — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-security-system-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Sistema de Segurança — 2 ponto(s)",
+            "en": "Haven: Security System — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-security-system-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Sistema de Segurança — 3 ponto(s)",
+            "en": "Haven: Security System — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-security-system-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Sistema de Segurança — 4 ponto(s)",
+            "en": "Haven: Security System — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-security-system-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Sistema de Segurança — 5 ponto(s)",
+            "en": "Haven: Security System — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-warding",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Proteção",
+        "en": "Haven: Warding"
+      },
+      "aliases": [
+        "Refúgio: Proteção",
+        "Haven: Warding",
+        "Refúgio: Proteção — 1 ponto(s)",
+        "Haven: Warding — 1 dot(s)",
+        "Refúgio: Proteção — 2 ponto(s)",
+        "Haven: Warding — 2 dot(s)",
+        "Refúgio: Proteção — 3 ponto(s)",
+        "Haven: Warding — 3 dot(s)",
+        "Refúgio: Proteção — 4 ponto(s)",
+        "Haven: Warding — 4 dot(s)",
+        "Refúgio: Proteção — 5 ponto(s)",
+        "Haven: Warding — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-warding-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Proteção — 1 ponto(s)",
+            "en": "Haven: Warding — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-warding-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Proteção — 2 ponto(s)",
+            "en": "Haven: Warding — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-warding-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Proteção — 3 ponto(s)",
+            "en": "Haven: Warding — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-warding-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Proteção — 4 ponto(s)",
+            "en": "Haven: Warding — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-warding-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188, 189 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Proteção — 5 ponto(s)",
+            "en": "Haven: Warding — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven-watchmen",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Refúgio: Vigilância",
+        "en": "Haven: Watchmen"
+      },
+      "aliases": [
+        "Refúgio: Vigilância",
+        "Haven: Watchmen",
+        "Refúgio: Vigilância — 1 ponto(s)",
+        "Haven: Watchmen — 1 dot(s)",
+        "Refúgio: Vigilância — 2 ponto(s)",
+        "Haven: Watchmen — 2 dot(s)",
+        "Refúgio: Vigilância — 3 ponto(s)",
+        "Haven: Watchmen — 3 dot(s)",
+        "Refúgio: Vigilância — 4 ponto(s)",
+        "Haven: Watchmen — 4 dot(s)",
+        "Refúgio: Vigilância — 5 ponto(s)",
+        "Haven: Watchmen — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-watchmen-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185, 188 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Vigilância — 1 ponto(s)",
+            "en": "Haven: Watchmen — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-watchmen-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185, 188 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Vigilância — 2 ponto(s)",
+            "en": "Haven: Watchmen — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-watchmen-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185, 188 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Vigilância — 3 ponto(s)",
+            "en": "Haven: Watchmen — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-watchmen-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185, 188 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Vigilância — 4 ponto(s)",
+            "en": "Haven: Watchmen — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-watchmen-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185, 188 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "itemRatings": {
+              "core-background-haven": 1
+            },
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio: Vigilância — 5 ponto(s)",
+            "en": "Haven: Watchmen — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-haven",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Refúgio",
+        "en": "Haven"
+      },
+      "aliases": [
+        "Refúgio",
+        "Haven",
+        "Refúgio — 1 ponto(s)",
+        "Haven — 1 dot(s)",
+        "Refúgio — 2 ponto(s)",
+        "Haven — 2 dot(s)",
+        "Refúgio — 3 ponto(s)",
+        "Haven — 3 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-haven-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 187, 188 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-no-haven"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio — 1 ponto(s)",
+            "en": "Haven — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 187, 188 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-no-haven"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio — 2 ponto(s)",
+            "en": "Haven — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-haven-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 187, 188 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-no-haven"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Refúgio — 3 ponto(s)",
+            "en": "Haven — 3 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-herd",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Rebanho",
+        "en": "Herd"
+      },
+      "aliases": [
+        "Rebanho",
+        "Herd",
+        "Rebanho — 1 ponto(s)",
+        "Herd — 1 dot(s)",
+        "Rebanho — 2 ponto(s)",
+        "Herd — 2 dot(s)",
+        "Rebanho — 3 ponto(s)",
+        "Herd — 3 dot(s)",
+        "Rebanho — 4 ponto(s)",
+        "Herd — 4 dot(s)",
+        "Rebanho — 5 ponto(s)",
+        "Herd — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-herd-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 189, 190 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-obvious-predator"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Rebanho — 1 ponto(s)",
+            "en": "Herd — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-herd-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 189, 190 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-obvious-predator"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Rebanho — 2 ponto(s)",
+            "en": "Herd — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-herd-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 189, 190 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-obvious-predator"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Rebanho — 3 ponto(s)",
+            "en": "Herd — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-herd-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 189, 190 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-obvious-predator"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Rebanho — 4 ponto(s)",
+            "en": "Herd — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-herd-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 189, 190 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-obvious-predator"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Rebanho — 5 ponto(s)",
+            "en": "Herd — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-influence",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Influência",
+        "en": "Influence"
+      },
+      "aliases": [
+        "Influência",
+        "Influence",
+        "Influência — 1 ponto(s)",
+        "Influence — 1 dot(s)",
+        "Influência — 2 ponto(s)",
+        "Influence — 2 dot(s)",
+        "Influência — 3 ponto(s)",
+        "Influence — 3 dot(s)",
+        "Influência — 4 ponto(s)",
+        "Influence — 4 dot(s)",
+        "Influência — 5 ponto(s)",
+        "Influence — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-influence-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 187 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Influência — 1 ponto(s)",
+            "en": "Influence — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-influence-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 187 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Influência — 2 ponto(s)",
+            "en": "Influence — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-influence-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 187 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Influência — 3 ponto(s)",
+            "en": "Influence — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-influence-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 187 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Influência — 4 ponto(s)",
+            "en": "Influence — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-influence-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 187 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Influência — 5 ponto(s)",
+            "en": "Influence — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-known-blankbody",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Corpo Frio Identificado",
+        "en": "Known Blankbody"
+      },
+      "aliases": [
+        "Corpo Frio Identificado",
+        "Known Blankbody",
+        "Corpo Frio Identificado — 2 ponto(s)",
+        "Known Blankbody — 2 dot(s)"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-known-blankbody-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 190 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {},
+          "names": {
+            "pt-BR": "Corpo Frio Identificado — 2 ponto(s)",
+            "en": "Known Blankbody — 2 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-known-corpse",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Cadáver Identificado",
+        "en": "Known Corpse"
+      },
+      "aliases": [
+        "Cadáver Identificado",
+        "Known Corpse",
+        "Cadáver Identificado — 1 ponto(s)",
+        "Known Corpse — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-known-corpse-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 190 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {},
+          "names": {
+            "pt-BR": "Cadáver Identificado — 1 ponto(s)",
+            "en": "Known Corpse — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-mask",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Máscara",
+        "en": "Mask"
+      },
+      "aliases": [
+        "Máscara",
+        "Mask",
+        "Máscara — 1 ponto(s)",
+        "Mask — 1 dot(s)",
+        "Máscara — 2 ponto(s)",
+        "Mask — 2 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-mask-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 190, 192 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Máscara — 1 ponto(s)",
+            "en": "Mask — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-mask-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 190, 192 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Máscara — 2 ponto(s)",
+            "en": "Mask — 2 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-mawla",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Mawla",
+        "en": "Mawla"
+      },
+      "aliases": [
+        "Mawla",
+        "Mawla — Neófito",
+        "Mawla — Neonate",
+        "Mawla — Grupo: Neófito",
+        "Mawla — Group: Neonate",
+        "Mawla — Ancilla",
+        "Mawla — Grupo: Ancilla",
+        "Mawla — Group: Ancilla",
+        "Mawla — Ancião",
+        "Mawla — Elder",
+        "Mawla — Grupo: Ancião",
+        "Mawla — Group: Elder",
+        "Mawla — Primogênito ou membro do Conselho Revolucionário Anarch",
+        "Mawla — Primogen or Anarch Revolutionary Council member",
+        "Mawla — Grupo: Primogênito ou membro do Conselho Revolucionário Anarch",
+        "Mawla — Group: Primogen or Anarch Revolutionary Council member",
+        "Mawla — Príncipe ou Barão",
+        "Mawla — Prince or Baron",
+        "Mawla — Grupo: Príncipe ou Barão",
+        "Mawla — Group: Prince or Baron"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-mawla-core-v5-individual-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 192, 193 · Neófito",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Mawla — Neófito",
+            "en": "Mawla — Neonate"
+          }
+        },
+        {
+          "id": "core-background-mawla-core-v5-group-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 192, 193 · Grupo: Neófito",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Mawla — Grupo: Neófito",
+            "en": "Mawla — Group: Neonate"
+          }
+        },
+        {
+          "id": "core-background-mawla-core-v5-individual-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 192, 193 · Ancilla",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Mawla — Ancilla",
+            "en": "Mawla — Ancilla"
+          }
+        },
+        {
+          "id": "core-background-mawla-core-v5-group-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 192, 193 · Grupo: Ancilla",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Mawla — Grupo: Ancilla",
+            "en": "Mawla — Group: Ancilla"
+          }
+        },
+        {
+          "id": "core-background-mawla-core-v5-individual-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 192, 193 · Ancião",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Mawla — Ancião",
+            "en": "Mawla — Elder"
+          }
+        },
+        {
+          "id": "core-background-mawla-core-v5-group-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 192, 193 · Grupo: Ancião",
+          "level": 4,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Mawla — Grupo: Ancião",
+            "en": "Mawla — Group: Elder"
+          }
+        },
+        {
+          "id": "core-background-mawla-core-v5-individual-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 192, 193 · Primogênito ou membro do Conselho Revolucionário Anarch",
+          "level": 4,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Mawla — Primogênito ou membro do Conselho Revolucionário Anarch",
+            "en": "Mawla — Primogen or Anarch Revolutionary Council member"
+          }
+        },
+        {
+          "id": "core-background-mawla-core-v5-group-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 192, 193 · Grupo: Primogênito ou membro do Conselho Revolucionário Anarch",
+          "level": 5,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Mawla — Grupo: Primogênito ou membro do Conselho Revolucionário Anarch",
+            "en": "Mawla — Group: Primogen or Anarch Revolutionary Council member"
+          }
+        },
+        {
+          "id": "core-background-mawla-core-v5-individual-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 192, 193 · Príncipe ou Barão",
+          "level": 5,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Mawla — Príncipe ou Barão",
+            "en": "Mawla — Prince or Baron"
+          }
+        },
+        {
+          "id": "core-background-mawla-core-v5-group-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 192, 193 · Grupo: Príncipe ou Barão",
+          "level": 6,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Mawla — Grupo: Príncipe ou Barão",
+            "en": "Mawla — Group: Prince or Baron"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-minor-boon",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Favor Menor",
+        "en": "Minor Boon"
+      },
+      "aliases": [
+        "Favor Menor",
+        "Minor Boon",
+        "Favor Menor — Neófito",
+        "Minor Boon — Neonate",
+        "Favor Menor — Ancilla",
+        "Minor Boon — Ancilla",
+        "Favor Menor — Ancião",
+        "Minor Boon — Elder",
+        "Favor Menor — Primogênito ou membro do Conselho Revolucionário Anarch",
+        "Minor Boon — Primogen or Anarch Revolutionary Council member",
+        "Favor Menor — Príncipe ou Barão",
+        "Minor Boon — Prince or Baron"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-minor-boon-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · Neófito",
+          "level": 1,
+          "requirements": {
+            "creationOnly": true,
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Favor Menor — Neófito",
+            "en": "Minor Boon — Neonate"
+          }
+        },
+        {
+          "id": "core-background-minor-boon-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · Ancilla",
+          "level": 1,
+          "requirements": {
+            "creationOnly": true,
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Favor Menor — Ancilla",
+            "en": "Minor Boon — Ancilla"
+          }
+        },
+        {
+          "id": "core-background-minor-boon-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · Ancião",
+          "level": 2,
+          "requirements": {
+            "creationOnly": true,
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Favor Menor — Ancião",
+            "en": "Minor Boon — Elder"
+          }
+        },
+        {
+          "id": "core-background-minor-boon-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · Primogênito ou membro do Conselho Revolucionário Anarch",
+          "level": 2,
+          "requirements": {
+            "creationOnly": true,
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Favor Menor — Primogênito ou membro do Conselho Revolucionário Anarch",
+            "en": "Minor Boon — Primogen or Anarch Revolutionary Council member"
+          }
+        },
+        {
+          "id": "core-background-minor-boon-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · Príncipe ou Barão",
+          "level": 3,
+          "requirements": {
+            "creationOnly": true,
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Favor Menor — Príncipe ou Barão",
+            "en": "Minor Boon — Prince or Baron"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-no-haven",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Nenhum Refúgio",
+        "en": "No Haven"
+      },
+      "aliases": [
+        "Nenhum Refúgio",
+        "No Haven",
+        "Nenhum Refúgio — 1 ponto(s)",
+        "No Haven — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-no-haven-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 188 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-haven"
+            ]
+          },
+          "names": {
+            "pt-BR": "Nenhum Refúgio — 1 ponto(s)",
+            "en": "No Haven — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-obvious-predator",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Predador Manifesto",
+        "en": "Obvious Predator"
+      },
+      "aliases": [
+        "Predador Manifesto",
+        "Obvious Predator",
+        "Rebanho: Predador Óbvio",
+        "Predador Óbvio",
+        "Predador Manifesto — 2 ponto(s)",
+        "Obvious Predator — 2 dot(s)"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-obvious-predator-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 189 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-herd"
+            ]
+          },
+          "names": {
+            "pt-BR": "Predador Manifesto — 2 ponto(s)",
+            "en": "Obvious Predator — 2 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-resources",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Recursos",
+        "en": "Resources"
+      },
+      "aliases": [
+        "Recursos",
+        "Resources",
+        "Recursos — 1 ponto(s)",
+        "Resources — 1 dot(s)",
+        "Recursos — 2 ponto(s)",
+        "Resources — 2 dot(s)",
+        "Recursos — 3 ponto(s)",
+        "Resources — 3 dot(s)",
+        "Recursos — 4 ponto(s)",
+        "Resources — 4 dot(s)",
+        "Recursos — 5 ponto(s)",
+        "Resources — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-resources-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-destitute"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Recursos — 1 ponto(s)",
+            "en": "Resources — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-resources-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-destitute"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Recursos — 2 ponto(s)",
+            "en": "Resources — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-resources-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-destitute"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Recursos — 3 ponto(s)",
+            "en": "Resources — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-resources-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-destitute"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Recursos — 4 ponto(s)",
+            "en": "Resources — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-resources-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 193 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "incompatibleItems": [
+              "core-background-destitute"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Recursos — 5 ponto(s)",
+            "en": "Resources — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-retainers",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Lacaios",
+        "en": "Retainers"
+      },
+      "aliases": [
+        "Lacaios",
+        "Retainers",
+        "Lacaios — 1 ponto(s)",
+        "Retainers — 1 dot(s)",
+        "Lacaios — 2 ponto(s)",
+        "Retainers — 2 dot(s)",
+        "Lacaios — 3 ponto(s)",
+        "Retainers — 3 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-retainers-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185, 194 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Lacaios — 1 ponto(s)",
+            "en": "Retainers — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-retainers-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185, 194 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Lacaios — 2 ponto(s)",
+            "en": "Retainers — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-retainers-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 185, 194 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Lacaios — 3 ponto(s)",
+            "en": "Retainers — 3 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-shunned",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Segregado",
+        "en": "Shunned"
+      },
+      "aliases": [
+        "Segregado",
+        "Shunned",
+        "Segregado — 2 ponto(s)",
+        "Shunned — 2 dot(s)"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-shunned-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 194 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Segregado — 2 ponto(s)",
+            "en": "Shunned — 2 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-stalkers",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Perseguidores",
+        "en": "Stalkers"
+      },
+      "aliases": [
+        "Perseguidores",
+        "Stalkers",
+        "Perseguidores — 1 ponto(s)",
+        "Stalkers — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-stalkers-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 194 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {},
+          "names": {
+            "pt-BR": "Perseguidores — 1 ponto(s)",
+            "en": "Stalkers — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-status",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Status",
+        "en": "Status"
+      },
+      "aliases": [
+        "Status",
+        "Status — 1 ponto(s)",
+        "Status — 1 dot(s)",
+        "Status — 2 ponto(s)",
+        "Status — 2 dot(s)",
+        "Status — 3 ponto(s)",
+        "Status — 3 dot(s)",
+        "Status — 4 ponto(s)",
+        "Status — 4 dot(s)",
+        "Status — 5 ponto(s)",
+        "Status — 5 dot(s)"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-status-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 194 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "creationExcludedClans": [
+              "Caitiff"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Status — 1 ponto(s)",
+            "en": "Status — 1 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-status-core-v5-2",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 194 · 2 ponto(s)",
+          "level": 2,
+          "requirements": {
+            "creationExcludedClans": [
+              "Caitiff"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Status — 2 ponto(s)",
+            "en": "Status — 2 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-status-core-v5-3",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 194 · 3 ponto(s)",
+          "level": 3,
+          "requirements": {
+            "creationExcludedClans": [
+              "Caitiff"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Status — 3 ponto(s)",
+            "en": "Status — 3 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-status-core-v5-4",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 194 · 4 ponto(s)",
+          "level": 4,
+          "requirements": {
+            "creationExcludedClans": [
+              "Caitiff"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Status — 4 ponto(s)",
+            "en": "Status — 4 dot(s)"
+          }
+        },
+        {
+          "id": "core-background-status-core-v5-5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 194 · 5 ponto(s)",
+          "level": 5,
+          "requirements": {
+            "creationExcludedClans": [
+              "Caitiff"
+            ],
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Status — 5 ponto(s)",
+            "en": "Status — 5 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-suspect",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Suspeito",
+        "en": "Suspect"
+      },
+      "aliases": [
+        "Suspeito",
+        "Suspect",
+        "Suspeito — 1 ponto(s)",
+        "Suspect — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-suspect-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 194 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true
+          },
+          "names": {
+            "pt-BR": "Suspeito — 1 ponto(s)",
+            "en": "Suspect — 1 dot(s)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-background-zeroed",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Zerado",
+        "en": "Zeroed"
+      },
+      "aliases": [
+        "Zerado",
+        "Zeroed",
+        "Zerado — 1 ponto(s)",
+        "Zeroed — 1 dot(s)"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-background-zeroed-core-v5-1",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 190 · 1 ponto(s)",
+          "level": 1,
+          "requirements": {
+            "itemRatings": {
+              "core-background-mask": 2
+            }
+          },
+          "names": {
+            "pt-BR": "Zerado — 1 ponto(s)",
+            "en": "Zeroed — 1 dot(s)"
+          }
+        }
+      ]
     }
   ]
 }

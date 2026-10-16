@@ -1,0 +1,173 @@
+{
+  "id": "core-background-adversary",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Adversário",
+    "en": "Adversary"
+  },
+  "aliases": [
+    "Adversário",
+    "Adversary",
+    "Adversário — 1 ponto(s)",
+    "Adversary — 1 dot(s)",
+    "Adversário — 2 ponto(s)",
+    "Adversary — 2 dot(s)",
+    "Adversário — 3 ponto(s)",
+    "Adversary — 3 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-adversary-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Adversário — 1 ponto(s)",
+        "en": "Adversary — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cainita que quer o seu mal, ou o de seu Senhor, linhagem ou mentor. É o oposto de Mawla: de um ancião por 1 ponto a Príncipe ou cabala poderosa por 3. O Narrador pode usar Status ou outra Característica do Adversário no lugar do valor do Antecedente para formar paradas contra os personagens."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Ancião hostil."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. O valor impresso conta como pontos de Defeito, respeitando o pacote de criação. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Cainite wishing harm to you, your sire, bloodline or mentor. The opposite of Mawla: from an elder at 1 dot to a Prince or powerful cabal at 3. The Storyteller may use the Adversary’s Status or another trait instead of the Background rating to build pools against characters."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). A hostile elder."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. The printed rating counts as Flaw dots, subject to the creation package. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-adversary-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Adversário — 2 ponto(s)",
+        "en": "Adversary — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cainita que quer o seu mal, ou o de seu Senhor, linhagem ou mentor. É o oposto de Mawla: de um ancião por 1 ponto a Príncipe ou cabala poderosa por 3. O Narrador pode usar Status ou outra Característica do Adversário no lugar do valor do Antecedente para formar paradas contra os personagens."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Adversário intermediário; defina com o Narrador."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. O valor impresso conta como pontos de Defeito, respeitando o pacote de criação. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Cainite wishing harm to you, your sire, bloodline or mentor. The opposite of Mawla: from an elder at 1 dot to a Prince or powerful cabal at 3. The Storyteller may use the Adversary’s Status or another trait instead of the Background rating to build pools against characters."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). An intermediate adversary; define with the Storyteller."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. The printed rating counts as Flaw dots, subject to the creation package. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-adversary-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Adversário — 3 ponto(s)",
+        "en": "Adversary — 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Cainita que quer o seu mal, ou o de seu Senhor, linhagem ou mentor. É o oposto de Mawla: de um ancião por 1 ponto a Príncipe ou cabala poderosa por 3. O Narrador pode usar Status ou outra Característica do Adversário no lugar do valor do Antecedente para formar paradas contra os personagens."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Príncipe ou cabala poderosa."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. O valor impresso conta como pontos de Defeito, respeitando o pacote de criação. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Cainite wishing harm to you, your sire, bloodline or mentor. The opposite of Mawla: from an elder at 1 dot to a Prince or powerful cabal at 3. The Storyteller may use the Adversary’s Status or another trait instead of the Background rating to build pools against characters."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). A Prince or powerful cabal."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. The printed rating counts as Flaw dots, subject to the creation package. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

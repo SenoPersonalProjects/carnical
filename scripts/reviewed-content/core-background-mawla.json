@@ -1,0 +1,582 @@
+{
+  "id": "core-background-mawla",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Mawla",
+    "en": "Mawla"
+  },
+  "aliases": [
+    "Mawla",
+    "Mawla — Neófito",
+    "Mawla — Neonate",
+    "Mawla — Grupo: Neófito",
+    "Mawla — Group: Neonate",
+    "Mawla — Ancilla",
+    "Mawla — Grupo: Ancilla",
+    "Mawla — Group: Ancilla",
+    "Mawla — Ancião",
+    "Mawla — Elder",
+    "Mawla — Grupo: Ancião",
+    "Mawla — Group: Elder",
+    "Mawla — Primogênito ou membro do Conselho Revolucionário Anarch",
+    "Mawla — Primogen or Anarch Revolutionary Council member",
+    "Mawla — Grupo: Primogênito ou membro do Conselho Revolucionário Anarch",
+    "Mawla — Group: Primogen or Anarch Revolutionary Council member",
+    "Mawla — Príncipe ou Barão",
+    "Mawla — Prince or Baron",
+    "Mawla — Grupo: Príncipe ou Barão",
+    "Mawla — Group: Prince or Baron"
+  ],
+  "versions": [
+    {
+      "id": "core-background-mawla-core-v5-individual-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Mawla — Neófito",
+        "en": "Mawla — Neonate"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 192, 193 · Neófito",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        },
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Membro ou grupo que oferece orientação, informações, ajuda esporádica, encobrimento e apoio político, esperando reciprocidade. Não luta suas batalhas nem paga favores altos. Forçá-lo além desses limites pode fazê-lo perder um ou mais pontos. Pode ser mentor ou Senhor e deve entrar no Mapa de Relacionamentos. Um grupo custa normalmente um ponto a mais que um único Membro equivalente."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Neófito"
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Kindred or group offering guidance, information, occasional help, cover-ups and political support, expecting reciprocity. Does not fight your battles or pay major favors. Pressing beyond these limits may cost one or more dots. May be a mentor or sire and belongs on the Relationship Map. A group normally costs one dot more than an equivalent individual Kindred."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Neonate"
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-mawla-core-v5-group-1",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Mawla — Grupo: Neófito",
+        "en": "Mawla — Group: Neonate"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 192, 193 · Grupo: Neófito",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        },
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Membro ou grupo que oferece orientação, informações, ajuda esporádica, encobrimento e apoio político, esperando reciprocidade. Não luta suas batalhas nem paga favores altos. Forçá-lo além desses limites pode fazê-lo perder um ou mais pontos. Pode ser mentor ou Senhor e deve entrar no Mapa de Relacionamentos. Um grupo custa normalmente um ponto a mais que um único Membro equivalente."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Grupo equivalente a Neófito."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Kindred or group offering guidance, information, occasional help, cover-ups and political support, expecting reciprocity. Does not fight your battles or pay major favors. Pressing beyond these limits may cost one or more dots. May be a mentor or sire and belongs on the Relationship Map. A group normally costs one dot more than an equivalent individual Kindred."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). A group equivalent to Neonate."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-mawla-core-v5-individual-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Mawla — Ancilla",
+        "en": "Mawla — Ancilla"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 192, 193 · Ancilla",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        },
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Membro ou grupo que oferece orientação, informações, ajuda esporádica, encobrimento e apoio político, esperando reciprocidade. Não luta suas batalhas nem paga favores altos. Forçá-lo além desses limites pode fazê-lo perder um ou mais pontos. Pode ser mentor ou Senhor e deve entrar no Mapa de Relacionamentos. Um grupo custa normalmente um ponto a mais que um único Membro equivalente."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Ancilla"
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Kindred or group offering guidance, information, occasional help, cover-ups and political support, expecting reciprocity. Does not fight your battles or pay major favors. Pressing beyond these limits may cost one or more dots. May be a mentor or sire and belongs on the Relationship Map. A group normally costs one dot more than an equivalent individual Kindred."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Ancilla"
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-mawla-core-v5-group-2",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Mawla — Grupo: Ancilla",
+        "en": "Mawla — Group: Ancilla"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 192, 193 · Grupo: Ancilla",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        },
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Membro ou grupo que oferece orientação, informações, ajuda esporádica, encobrimento e apoio político, esperando reciprocidade. Não luta suas batalhas nem paga favores altos. Forçá-lo além desses limites pode fazê-lo perder um ou mais pontos. Pode ser mentor ou Senhor e deve entrar no Mapa de Relacionamentos. Um grupo custa normalmente um ponto a mais que um único Membro equivalente."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Grupo equivalente a Ancilla."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Kindred or group offering guidance, information, occasional help, cover-ups and political support, expecting reciprocity. Does not fight your battles or pay major favors. Pressing beyond these limits may cost one or more dots. May be a mentor or sire and belongs on the Relationship Map. A group normally costs one dot more than an equivalent individual Kindred."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). A group equivalent to Ancilla."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-mawla-core-v5-individual-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Mawla — Ancião",
+        "en": "Mawla — Elder"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 192, 193 · Ancião",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        },
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Membro ou grupo que oferece orientação, informações, ajuda esporádica, encobrimento e apoio político, esperando reciprocidade. Não luta suas batalhas nem paga favores altos. Forçá-lo além desses limites pode fazê-lo perder um ou mais pontos. Pode ser mentor ou Senhor e deve entrar no Mapa de Relacionamentos. Um grupo custa normalmente um ponto a mais que um único Membro equivalente."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Ancião"
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Kindred or group offering guidance, information, occasional help, cover-ups and political support, expecting reciprocity. Does not fight your battles or pay major favors. Pressing beyond these limits may cost one or more dots. May be a mentor or sire and belongs on the Relationship Map. A group normally costs one dot more than an equivalent individual Kindred."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Elder"
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-mawla-core-v5-group-3",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Mawla — Grupo: Ancião",
+        "en": "Mawla — Group: Elder"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 192, 193 · Grupo: Ancião",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        },
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Membro ou grupo que oferece orientação, informações, ajuda esporádica, encobrimento e apoio político, esperando reciprocidade. Não luta suas batalhas nem paga favores altos. Forçá-lo além desses limites pode fazê-lo perder um ou mais pontos. Pode ser mentor ou Senhor e deve entrar no Mapa de Relacionamentos. Um grupo custa normalmente um ponto a mais que um único Membro equivalente."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "4 ponto(s). Grupo equivalente a Ancião."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Kindred or group offering guidance, information, occasional help, cover-ups and political support, expecting reciprocity. Does not fight your battles or pay major favors. Pressing beyond these limits may cost one or more dots. May be a mentor or sire and belongs on the Relationship Map. A group normally costs one dot more than an equivalent individual Kindred."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "4 dot(s). A group equivalent to Elder."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-mawla-core-v5-individual-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Mawla — Primogênito ou membro do Conselho Revolucionário Anarch",
+        "en": "Mawla — Primogen or Anarch Revolutionary Council member"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 192, 193 · Primogênito ou membro do Conselho Revolucionário Anarch",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        },
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Membro ou grupo que oferece orientação, informações, ajuda esporádica, encobrimento e apoio político, esperando reciprocidade. Não luta suas batalhas nem paga favores altos. Forçá-lo além desses limites pode fazê-lo perder um ou mais pontos. Pode ser mentor ou Senhor e deve entrar no Mapa de Relacionamentos. Um grupo custa normalmente um ponto a mais que um único Membro equivalente."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "4 ponto(s). Primogênito ou membro do Conselho Revolucionário Anarch"
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Kindred or group offering guidance, information, occasional help, cover-ups and political support, expecting reciprocity. Does not fight your battles or pay major favors. Pressing beyond these limits may cost one or more dots. May be a mentor or sire and belongs on the Relationship Map. A group normally costs one dot more than an equivalent individual Kindred."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "4 dot(s). Primogen or Anarch Revolutionary Council member"
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-mawla-core-v5-group-4",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Mawla — Grupo: Primogênito ou membro do Conselho Revolucionário Anarch",
+        "en": "Mawla — Group: Primogen or Anarch Revolutionary Council member"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 192, 193 · Grupo: Primogênito ou membro do Conselho Revolucionário Anarch",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        },
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Membro ou grupo que oferece orientação, informações, ajuda esporádica, encobrimento e apoio político, esperando reciprocidade. Não luta suas batalhas nem paga favores altos. Forçá-lo além desses limites pode fazê-lo perder um ou mais pontos. Pode ser mentor ou Senhor e deve entrar no Mapa de Relacionamentos. Um grupo custa normalmente um ponto a mais que um único Membro equivalente."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "5 ponto(s). Grupo equivalente a Primogênito ou membro do Conselho Revolucionário Anarch."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Kindred or group offering guidance, information, occasional help, cover-ups and political support, expecting reciprocity. Does not fight your battles or pay major favors. Pressing beyond these limits may cost one or more dots. May be a mentor or sire and belongs on the Relationship Map. A group normally costs one dot more than an equivalent individual Kindred."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "5 dot(s). A group equivalent to Primogen or Anarch Revolutionary Council member."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-mawla-core-v5-individual-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Mawla — Príncipe ou Barão",
+        "en": "Mawla — Prince or Baron"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 192, 193 · Príncipe ou Barão",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        },
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Membro ou grupo que oferece orientação, informações, ajuda esporádica, encobrimento e apoio político, esperando reciprocidade. Não luta suas batalhas nem paga favores altos. Forçá-lo além desses limites pode fazê-lo perder um ou mais pontos. Pode ser mentor ou Senhor e deve entrar no Mapa de Relacionamentos. Um grupo custa normalmente um ponto a mais que um único Membro equivalente."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "5 ponto(s). Príncipe ou Barão"
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Kindred or group offering guidance, information, occasional help, cover-ups and political support, expecting reciprocity. Does not fight your battles or pay major favors. Pressing beyond these limits may cost one or more dots. May be a mentor or sire and belongs on the Relationship Map. A group normally costs one dot more than an equivalent individual Kindred."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "5 dot(s). Prince or Baron"
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-mawla-core-v5-group-5",
+      "book": "core-v5",
+      "level": 6,
+      "names": {
+        "pt-BR": "Mawla — Grupo: Príncipe ou Barão",
+        "en": "Mawla — Group: Prince or Baron"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 192, 193 · Grupo: Príncipe ou Barão",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 192
+        },
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Membro ou grupo que oferece orientação, informações, ajuda esporádica, encobrimento e apoio político, esperando reciprocidade. Não luta suas batalhas nem paga favores altos. Forçá-lo além desses limites pode fazê-lo perder um ou mais pontos. Pode ser mentor ou Senhor e deve entrar no Mapa de Relacionamentos. Um grupo custa normalmente um ponto a mais que um único Membro equivalente."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "6 ponto(s). Grupo equivalente a Príncipe ou Barão."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A Kindred or group offering guidance, information, occasional help, cover-ups and political support, expecting reciprocity. Does not fight your battles or pay major favors. Pressing beyond these limits may cost one or more dots. May be a mentor or sire and belongs on the Relationship Map. A group normally costs one dot more than an equivalent individual Kindred."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "6 dot(s). A group equivalent to Prince or Baron."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

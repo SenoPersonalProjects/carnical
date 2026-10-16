@@ -1,0 +1,279 @@
+{
+  "id": "core-background-influence",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Influência",
+    "en": "Influence"
+  },
+  "aliases": [
+    "Influência",
+    "Influence",
+    "Influência — 1 ponto(s)",
+    "Influence — 1 dot(s)",
+    "Influência — 2 ponto(s)",
+    "Influence — 2 dot(s)",
+    "Influência — 3 ponto(s)",
+    "Influence — 3 dot(s)",
+    "Influência — 4 ponto(s)",
+    "Influence — 4 dot(s)",
+    "Influência — 5 ponto(s)",
+    "Influence — 5 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-influence-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Influência — 1 ponto(s)",
+        "en": "Influence — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 187 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Influência na comunidade mortal por riqueza, prestígio, política, extorsão ou manipulação. Aplica-se a um grupo ou grande região da cidade; na cidade inteira vale um ponto a menos. Outra cidade na mesma região pode impor mais −1, e assim por diante. O Narrador pode substituir uma Característica por Influência, sobretudo para lidar com burocratas. Não permite iniciar guerras mundiais. Para crônicas de líderes globais, o Narrador pode recalibrar o alcance para nacional em 4 e global em 5."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Bem-Relacionado: uma audiência respeitosa é garantida."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Influence in mortal society through wealth, prestige, politics, extortion or manipulation. Applies to one group or large city area; citywide it counts one dot lower. Another city in the same region may impose another −1, and so on. The Storyteller may replace a trait with Influence, especially for dealing with bureaucrats. Does not allow starting world wars. For global-leader chronicles the Storyteller may recalibrate to national at 4 and global at 5."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Well-connected: guaranteed a respectful hearing."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-influence-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Influência — 2 ponto(s)",
+        "en": "Influence — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 187 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Influência na comunidade mortal por riqueza, prestígio, política, extorsão ou manipulação. Aplica-se a um grupo ou grande região da cidade; na cidade inteira vale um ponto a menos. Outra cidade na mesma região pode impor mais −1, e assim por diante. O Narrador pode substituir uma Característica por Influência, sobretudo para lidar com burocratas. Não permite iniciar guerras mundiais. Para crônicas de líderes globais, o Narrador pode recalibrar o alcance para nacional em 4 e global em 5."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Influente: as pessoas querem lhe fazer favores."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Influence in mortal society through wealth, prestige, politics, extortion or manipulation. Applies to one group or large city area; citywide it counts one dot lower. Another city in the same region may impose another −1, and so on. The Storyteller may replace a trait with Influence, especially for dealing with bureaucrats. Does not allow starting world wars. For global-leader chronicles the Storyteller may recalibrate to national at 4 and global at 5."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Influential: people want to do favors for you."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-influence-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Influência — 3 ponto(s)",
+        "en": "Influence — 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 187 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Influência na comunidade mortal por riqueza, prestígio, política, extorsão ou manipulação. Aplica-se a um grupo ou grande região da cidade; na cidade inteira vale um ponto a menos. Outra cidade na mesma região pode impor mais −1, e assim por diante. O Narrador pode substituir uma Característica por Influência, sobretudo para lidar com burocratas. Não permite iniciar guerras mundiais. Para crônicas de líderes globais, o Narrador pode recalibrar o alcance para nacional em 4 e global em 5."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Estabelecido: poderes e facções mortais hesitam em se opor."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Influence in mortal society through wealth, prestige, politics, extortion or manipulation. Applies to one group or large city area; citywide it counts one dot lower. Another city in the same region may impose another −1, and so on. The Storyteller may replace a trait with Influence, especially for dealing with bureaucrats. Does not allow starting world wars. For global-leader chronicles the Storyteller may recalibrate to national at 4 and global at 5."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Entrenched: mortal powers and factions hesitate to oppose you."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-influence-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Influência — 4 ponto(s)",
+        "en": "Influence — 4 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 187 · 4 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Influência na comunidade mortal por riqueza, prestígio, política, extorsão ou manipulação. Aplica-se a um grupo ou grande região da cidade; na cidade inteira vale um ponto a menos. Outra cidade na mesma região pode impor mais −1, e assim por diante. O Narrador pode substituir uma Característica por Influência, sobretudo para lidar com burocratas. Não permite iniciar guerras mundiais. Para crônicas de líderes globais, o Narrador pode recalibrar o alcance para nacional em 4 e global em 5."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "4 ponto(s). Poderoso: funcionários e soldados rasos obedecem, salvo boa razão em contrário."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Influence in mortal society through wealth, prestige, politics, extortion or manipulation. Applies to one group or large city area; citywide it counts one dot lower. Another city in the same region may impose another −1, and so on. The Storyteller may replace a trait with Influence, especially for dealing with bureaucrats. Does not allow starting world wars. For global-leader chronicles the Storyteller may recalibrate to national at 4 and global at 5."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "4 dot(s). Powerful: officials and rank-and-file obey unless they have good reason not to."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-influence-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Influência — 5 ponto(s)",
+        "en": "Influence — 5 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 187 · 5 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Influência na comunidade mortal por riqueza, prestígio, política, extorsão ou manipulação. Aplica-se a um grupo ou grande região da cidade; na cidade inteira vale um ponto a menos. Outra cidade na mesma região pode impor mais −1, e assim por diante. O Narrador pode substituir uma Característica por Influência, sobretudo para lidar com burocratas. Não permite iniciar guerras mundiais. Para crônicas de líderes globais, o Narrador pode recalibrar o alcance para nacional em 4 e global em 5."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "5 ponto(s). Dominante: figuras menores tentam antecipar e realizar seus desejos."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Influence in mortal society through wealth, prestige, politics, extortion or manipulation. Applies to one group or large city area; citywide it counts one dot lower. Another city in the same region may impose another −1, and so on. The Storyteller may replace a trait with Influence, especially for dealing with bureaucrats. Does not allow starting world wars. For global-leader chronicles the Storyteller may recalibrate to national at 4 and global at 5."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "5 dot(s). Dominant: lesser figures try to anticipate and fulfill your wishes."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

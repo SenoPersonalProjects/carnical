@@ -13,9 +13,11 @@ export const SOURCEBOOKS = [
 ] as const;
 
 export function sourcebookLabel(value: string) {
+  if(value.startsWith("clan:"))return "Concedido pelo clã";
   return SOURCEBOOKS.find(source => source.value === value)?.label ?? (value === "custom" ? "Conteúdo personalizado" : value);
 }
 
 export function sourcebookShort(value: string) {
+  if(value.startsWith("clan:"))return "CLÃ";
   return SOURCEBOOKS.find(source => source.value === value)?.short ?? (value === "custom" ? "HOMEBREW" : value);
 }

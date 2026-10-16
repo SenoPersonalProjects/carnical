@@ -1,0 +1,68 @@
+{
+  "id": "core-background-despised",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Desprezado",
+    "en": "Despised"
+  },
+  "aliases": [
+    "Desprezado",
+    "Despised",
+    "Desprezado — 2 ponto(s)",
+    "Despised — 2 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-despised-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Desprezado — 2 ponto(s)",
+        "en": "Despised — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 187 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Um grupo ou região o frustra e à sua facção. −2 dados para convencer alguém neutro a apoiá-lo politicamente ou fazer um favor. O Narrador deve envolver seus detratores na história."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Um grupo ou região o frustra e à sua facção. −2 dados para convencer alguém neutro a apoiá-lo politicamente ou fazer um favor. O Narrador deve envolver seus detratores na história."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. O valor impresso conta como pontos de Defeito, respeitando o pacote de criação. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "A group or area works against you and your faction. −2 dice to convince a neutral individual to support you politically or do a favor. The Storyteller should involve detractors in the story."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). A group or area works against you and your faction. −2 dice to convince a neutral individual to support you politically or do a favor. The Storyteller should involve detractors in the story."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. The printed rating counts as Flaw dots, subject to the creation package. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 2
+}

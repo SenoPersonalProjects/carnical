@@ -3,7 +3,7 @@ import {SOURCEBOOKS} from "../sourcebooks";
 import {knowsPower} from "./power-eligibility";
 import {contentById,foldContent,resolveContent,type ContentIndexEntry} from "./resolve";
 export type IndexedVersion=NonNullable<ContentIndexEntry["versions"]>[number];
-export type KnownItem={name:string;source?:string;dots?:number;catalogId?:string;versionId?:string};
+export type KnownItem={name:string;source?:string;dots?:number;catalogId?:string;versionId?:string;instanceId?:string;instanceName?:string};
 /** Resolve a saved version only when source, recorded name or dots make it unique. */
 export function indexedItem(item:KnownItem){
  if(["custom","personalizado","conteúdo personalizado","homebrew"].includes(item.source?.toLocaleLowerCase("pt-BR")||""))return {entry:undefined,version:undefined};
@@ -29,12 +29,14 @@ export function itemEligibility(version:IndexedVersion,context:ItemContext){
  if(requirements?.clans?.length&&!requirements.clans.includes(context.clan))reasons.push(`Exige o clã ${requirements.clans.join(" / ")}`);
  if(requirements?.excludedClans?.includes(context.clan))reasons.push(`Não disponível para ${context.clan}`);
  if(requirements?.ancillaOrOlder&&!["Ancilla","Personalizada"].includes(context.ageCategory||""))reasons.push("Exige ancilla ou mais velho; confirme categorias personalizadas com o Narrador");
+ if(context.phase==="creation"&&requirements?.creationExcludedClans?.includes(context.clan))reasons.push(`Não disponível para ${context.clan} na criação`);
  if(requirements?.creationOnly&&context.phase!=="creation")reasons.push("Disponível somente na criação");
  if(requirements?.characterTypes?.length&&!requirements.characterTypes.includes(context.characterType||"vampire"))reasons.push("Esta opção exige outro tipo de personagem");
  for(const [discipline,level] of Object.entries(requirements?.disciplines||{}))if((context.disciplines?.[discipline]||0)<level)reasons.push(`Exige ${discipline} ${level}`);
  for(const power of requirements?.prerequisites||[])if(!knowsPower(context.powers||{},power))reasons.push(`Exige o poder ${power}`);
  for(const alternatives of requirements?.prerequisiteAlternatives||[])if(!alternatives.some(power=>knowsPower(context.powers||{},power)))reasons.push(`Exige um dos poderes: ${alternatives.join(" / ")}`);
  const owned=new Set((context.items||[]).map(item=>indexedItem(item).entry?.id).filter(Boolean));
+ for(const [id,level] of Object.entries(requirements?.itemRatings||{}))if(!(context.items||[]).some(item=>indexedItem(item).entry?.id===id&&(item.dots||0)>=level))reasons.push(`Exige ${contentById(id)?.names["pt-BR"]||id} ${level}`);
  for(const id of requirements?.items||[])if(!owned.has(id))reasons.push(`Exige ${contentById(id)?.names["pt-BR"]||id}`);
  for(const id of requirements?.incompatibleItems||[])if(owned.has(id))reasons.push(`Incompatível com ${contentById(id)?.names["pt-BR"]||id}`);
  if(requirements?.selectionGroup&&!context.items?.some(item=>item.versionId===version.id)){const counts=thinBloodChoiceCounts(context.items||[]),count=requirements.selectionGroup==="thin-blood-merit"?counts.merits:counts.flaws;if(count>=3)reasons.push("Limite de três escolhas especiais atingido")}

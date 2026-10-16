@@ -26,8 +26,8 @@ const BENEFITS:Record<string,Benefit[]>={
 export function predatorBenefits(id:string){return BENEFITS[id]||[]}
 export function isPredatorItem(item:{source?:string}){return item.source?.startsWith("predator:")??false}
 export function isPredatorPackageItem(item:{source?:string}){return isPredatorItem(item)||(item.source?.startsWith("predator-required:")??false)}
-export function ownItemDots(items:Array<{dots?:number;source?:string}>){return items.reduce((total,item)=>total+(isPredatorItem(item)?0:item.dots||0),0)}
-export function grantedItemDots(items:Array<{dots?:number;source?:string}>){return items.reduce((total,item)=>total+(isPredatorItem(item)?item.dots||0:0),0)}
+export function ownItemDots(items:Array<{dots?:number;source?:string;predatorBaseDots?:number}>){return items.reduce((total,item)=>total+(item.source?.startsWith("clan:")?0:isPredatorItem(item)?Math.max(0,(item.dots||0)-(item.predatorBaseDots??item.dots??0)):item.dots||0),0)}
+export function grantedItemDots(items:Array<{dots?:number;source?:string;predatorBaseDots?:number}>){return items.reduce((total,item)=>total+(isPredatorItem(item)?item.predatorBaseDots??item.dots??0:0),0)}
 export function syncPredatorBenefits<T extends PredatorItem>(items:T[],id:string,kind:"merit"|"flaw",resolutions:Record<string,string>={}):T[]{
   const source=id==="osiris"?`predator-required:${id}`:`predator:${id}`;
   let next=items.filter(item=>!isPredatorPackageItem(item)||item.source===source);

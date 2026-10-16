@@ -9,7 +9,7 @@ export type ExportSnapshot = ReturnType<typeof characterSnapshot>;
 const string = (value: unknown) => typeof value === "string" ? value : "";
 const number = (value: unknown, fallback = 0) => typeof value === "number" && Number.isFinite(value) ? value : fallback;
 const values = (value: unknown): Record<string, number> => Object.fromEntries(Object.entries((value && typeof value === "object" ? value : {}) as object).filter(([, n]) => typeof n === "number" && Number.isFinite(n))) as Record<string, number>;
-const items = (value: unknown): Array<{ name: string; dots: number; source: string; notes: string;catalogId?:string;versionId?:string }> => Array.isArray(value) ? value.map(item => ({ name: string(item.name), dots: number(item.dots), source: string(item.source), notes: string(item.notes),...(typeof item.catalogId==="string"?{catalogId:item.catalogId}:{}),...(typeof item.versionId==="string"?{versionId:item.versionId}:{}) })) : [];
+const items = (value: unknown): Array<{ name: string; dots: number; source: string; notes: string;catalogId?:string;versionId?:string;instanceName?:string }> => Array.isArray(value) ? value.map(item => ({ name: string(item.name), dots: number(item.dots), source: string(item.source), notes: string(item.notes),...(typeof item.catalogId==="string"?{catalogId:item.catalogId}:{}),...(typeof item.versionId==="string"?{versionId:item.versionId}:{}),...(typeof item.instanceName==="string"?{instanceName:item.instanceName}:{}) })) : [];
 
 /** Copy the current in-memory sheet once. Exporting never saves or mutates it. */
 export function characterSnapshot(character: ExportCharacter) {

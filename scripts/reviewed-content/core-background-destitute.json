@@ -1,0 +1,70 @@
+{
+  "id": "core-background-destitute",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Destituído",
+    "en": "Destitute"
+  },
+  "aliases": [
+    "Destituído",
+    "Destitute",
+    "Destituído — 1 ponto(s)",
+    "Destitute — 1 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-destitute-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Destituído — 1 ponto(s)",
+        "en": "Destitute — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 193 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "incompatibleItems": [
+          "core-background-resources"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Não tem dinheiro nem casa."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Sem recursos materiais estáveis."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. O valor impresso conta como pontos de Defeito, respeitando o pacote de criação. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Has neither money nor a home."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). No stable material resources."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. The printed rating counts as Flaw dots, subject to the creation package. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ],
+  "level": 1
+}

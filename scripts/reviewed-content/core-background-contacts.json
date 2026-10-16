@@ -1,0 +1,174 @@
+{
+  "id": "core-background-contacts",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Contatos",
+    "en": "Contacts"
+  },
+  "aliases": [
+    "Contatos",
+    "Contacts",
+    "Contatos criminosos",
+    "Contatos — 1 ponto(s)",
+    "Contacts — 1 dot(s)",
+    "Contatos — 2 ponto(s)",
+    "Contacts — 2 dot(s)",
+    "Contatos — 3 ponto(s)",
+    "Contacts — 3 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-contacts-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Contatos — 1 ponto(s)",
+        "en": "Contacts — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 185 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 185
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Pessoas humanas em posições adequadas para obter informações em áreas de especialização, frequentemente em troca de favores. Para outros tipos de ajuda, use Influência, Aliados ou Mawla. Pode definir um Contato ao comprá-lo ou quando precisar dele; acrescente-o ao Mapa de Relacionamentos."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Obtém algo barato ou comum, equivalente a Recursos 1: vendedor de maconha ou de carros."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Human people positioned to obtain information in specialized areas, often in exchange for favors. For other help use Influence, Allies or Mawla. May define a Contact on purchase or when first needed; add the Contact to the Relationship Map."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Can obtain something cheap or common, equivalent to Resources 1: a cannabis or car dealer."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-contacts-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Contatos — 2 ponto(s)",
+        "en": "Contacts — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 185 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 185
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Pessoas humanas em posições adequadas para obter informações em áreas de especialização, frequentemente em troca de favores. Para outros tipos de ajuda, use Influência, Aliados ou Mawla. Pode definir um Contato ao comprá-lo ou quando precisar dele; acrescente-o ao Mapa de Relacionamentos."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Obtém algo útil, equivalente a Recursos 2: pequeno traficante de armas ou veterinário."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Human people positioned to obtain information in specialized areas, often in exchange for favors. For other help use Influence, Allies or Mawla. May define a Contact on purchase or when first needed; add the Contact to the Relationship Map."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Can obtain something useful, equivalent to Resources 2: a small-time arms dealer or veterinarian."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-contacts-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Contatos — 3 ponto(s)",
+        "en": "Contacts — 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 185 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 185
+        }
+      ],
+      "requirements": {
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Pessoas humanas em posições adequadas para obter informações em áreas de especialização, frequentemente em troca de favores. Para outros tipos de ajuda, use Influência, Aliados ou Mawla. Pode definir um Contato ao comprá-lo ou quando precisar dele; acrescente-o ao Mapa de Relacionamentos."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Obtém algo caro ou difícil, equivalente a Recursos 4: especialista em segurança, gerente de homicídios ou narcóticos."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Human people positioned to obtain information in specialized areas, often in exchange for favors. For other help use Influence, Allies or Mawla. May define a Contact on purchase or when first needed; add the Contact to the Relationship Map."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Can obtain something expensive or difficult, equivalent to Resources 4: a security specialist, homicide or narcotics manager."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

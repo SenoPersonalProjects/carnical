@@ -1,0 +1,293 @@
+{
+  "id": "core-background-status",
+  "kind": "background",
+  "names": {
+    "pt-BR": "Status",
+    "en": "Status"
+  },
+  "aliases": [
+    "Status",
+    "Status — 1 ponto(s)",
+    "Status — 1 dot(s)",
+    "Status — 2 ponto(s)",
+    "Status — 2 dot(s)",
+    "Status — 3 ponto(s)",
+    "Status — 3 dot(s)",
+    "Status — 4 ponto(s)",
+    "Status — 4 dot(s)",
+    "Status — 5 ponto(s)",
+    "Status — 5 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-status-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Status — 1 ponto(s)",
+        "en": "Status — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 194 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "creationExcludedClans": [
+          "Caitiff"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Reputação em uma comunidade local de Membros especificada, como uma seita. Na Camarilla pode derivar do Senhor, linhagem e realizações; entre Anarchs, das contribuições e conexões ao governante. Não se transfere entre seitas e em outra cidade costuma valer um ponto a menos. O Narrador pode somá-lo a uma Característica Social, especialmente em primeiras reuniões ou eventos da corte, ou permitir substituir uma Característica; outros vampiros podem notar o abuso. Caitiff não podem adquirir Status positivo na criação."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Conhecido: Neófito apresentado e recebido, visto como promissor."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Reputation in a specified local Kindred community, such as a sect. In the Camarilla may derive from sire, lineage and achievements; among Anarchs, contributions and connections to the ruler. Does not transfer between sects and usually counts one dot lower in another city. The Storyteller may add it to a Social trait, especially at first meetings or court events, or allow replacing a trait; other vampires may notice abuse. Caitiff cannot purchase positive Status during creation."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Known: a properly introduced and welcomed neonate, seen as promising."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-status-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Status — 2 ponto(s)",
+        "en": "Status — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 194 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "creationExcludedClans": [
+          "Caitiff"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Reputação em uma comunidade local de Membros especificada, como uma seita. Na Camarilla pode derivar do Senhor, linhagem e realizações; entre Anarchs, das contribuições e conexões ao governante. Não se transfere entre seitas e em outra cidade costuma valer um ponto a menos. O Narrador pode somá-lo a uma Característica Social, especialmente em primeiras reuniões ou eventos da corte, ou permitir substituir uma Característica; outros vampiros podem notar o abuso. Caitiff não podem adquirir Status positivo na criação."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Respeitado: ancilla médio com responsabilidades."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Reputation in a specified local Kindred community, such as a sect. In the Camarilla may derive from sire, lineage and achievements; among Anarchs, contributions and connections to the ruler. Does not transfer between sects and usually counts one dot lower in another city. The Storyteller may add it to a Social trait, especially at first meetings or court events, or allow replacing a trait; other vampires may notice abuse. Caitiff cannot purchase positive Status during creation."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Respected: an average ancilla with responsibilities."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-status-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Status — 3 ponto(s)",
+        "en": "Status — 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 194 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "creationExcludedClans": [
+          "Caitiff"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Reputação em uma comunidade local de Membros especificada, como uma seita. Na Camarilla pode derivar do Senhor, linhagem e realizações; entre Anarchs, das contribuições e conexões ao governante. Não se transfere entre seitas e em outra cidade costuma valer um ponto a menos. O Narrador pode somá-lo a uma Característica Social, especialmente em primeiras reuniões ou eventos da corte, ou permitir substituir uma Característica; outros vampiros podem notar o abuso. Caitiff não podem adquirir Status positivo na criação."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Influente: ancião comum com autoridade sobre parte do grupo."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Reputation in a specified local Kindred community, such as a sect. In the Camarilla may derive from sire, lineage and achievements; among Anarchs, contributions and connections to the ruler. Does not transfer between sects and usually counts one dot lower in another city. The Storyteller may add it to a Social trait, especially at first meetings or court events, or allow replacing a trait; other vampires may notice abuse. Caitiff cannot purchase positive Status during creation."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Influential: an ordinary elder with authority over part of the group."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-status-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Status — 4 ponto(s)",
+        "en": "Status — 4 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 194 · 4 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "creationExcludedClans": [
+          "Caitiff"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Reputação em uma comunidade local de Membros especificada, como uma seita. Na Camarilla pode derivar do Senhor, linhagem e realizações; entre Anarchs, das contribuições e conexões ao governante. Não se transfere entre seitas e em outra cidade costuma valer um ponto a menos. O Narrador pode somá-lo a uma Característica Social, especialmente em primeiras reuniões ou eventos da corte, ou permitir substituir uma Característica; outros vampiros podem notar o abuso. Caitiff não podem adquirir Status positivo na criação."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "4 ponto(s). Poderoso: cargo como Xerife, Harpia ou Algoz."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Reputation in a specified local Kindred community, such as a sect. In the Camarilla may derive from sire, lineage and achievements; among Anarchs, contributions and connections to the ruler. Does not transfer between sects and usually counts one dot lower in another city. The Storyteller may add it to a Social trait, especially at first meetings or court events, or allow replacing a trait; other vampires may notice abuse. Caitiff cannot purchase positive Status during creation."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "4 dot(s). Powerful: an office such as Sheriff, Harpy or Scourge."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-status-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Status — 5 ponto(s)",
+        "en": "Status — 5 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 194 · 5 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "creationExcludedClans": [
+          "Caitiff"
+        ],
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Reputação em uma comunidade local de Membros especificada, como uma seita. Na Camarilla pode derivar do Senhor, linhagem e realizações; entre Anarchs, das contribuições e conexões ao governante. Não se transfere entre seitas e em outra cidade costuma valer um ponto a menos. O Narrador pode somá-lo a uma Característica Social, especialmente em primeiras reuniões ou eventos da corte, ou permitir substituir uma Característica; outros vampiros podem notar o abuso. Caitiff não podem adquirir Status positivo na criação."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "5 ponto(s). Luminar: senta-se com os poderosos, respeitado pela Primigênie."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Reputation in a specified local Kindred community, such as a sect. In the Camarilla may derive from sire, lineage and achievements; among Anarchs, contributions and connections to the ruler. Does not transfer between sects and usually counts one dot lower in another city. The Storyteller may add it to a Social trait, especially at first meetings or court events, or allow replacing a trait; other vampires may notice abuse. Caitiff cannot purchase positive Status during creation."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "5 dot(s). Luminary: sits with the powerful, respected by the Primogen."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

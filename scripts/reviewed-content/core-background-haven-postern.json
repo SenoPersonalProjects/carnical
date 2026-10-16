@@ -1,0 +1,354 @@
+{
+  "id": "core-background-haven-postern",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Refúgio: Poterna",
+    "en": "Haven: Postern"
+  },
+  "aliases": [
+    "Refúgio: Poterna",
+    "Haven: Postern",
+    "Refúgio: Poterna — 1 ponto(s)",
+    "Haven: Postern — 1 dot(s)",
+    "Refúgio: Poterna — 2 ponto(s)",
+    "Haven: Postern — 2 dot(s)",
+    "Refúgio: Poterna — 3 ponto(s)",
+    "Haven: Postern — 3 dot(s)",
+    "Refúgio: Poterna — 4 ponto(s)",
+    "Haven: Postern — 4 dot(s)",
+    "Refúgio: Poterna — 5 ponto(s)",
+    "Haven: Postern — 5 dot(s)"
+  ],
+  "versions": [
+    {
+      "id": "core-background-haven-postern-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Refúgio: Poterna — 1 ponto(s)",
+        "en": "Haven: Postern — 1 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188, 189 · 1 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        },
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Saída discreta, túnel secreto ou acesso ao esgoto. Cada ponto acrescenta +1 dado para fugir ou escapar de vigilância próxima ao refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "1 ponto(s). Saída discreta, túnel secreto ou acesso ao esgoto. Cada ponto acrescenta +1 dado para fugir ou escapar de vigilância próxima ao refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Identifique nas escolhas o Refúgio específico e os benefícios de cada ponto. "
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Discreet back exit, secret tunnel or sewer access. Each dot adds +1 die to flee or escape surveillance near the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "1 dot(s). Discreet back exit, secret tunnel or sewer access. Each dot adds +1 die to flee or escape surveillance near the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Identify the specific Haven and each dot’s benefits in the choices. "
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-haven-postern-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Refúgio: Poterna — 2 ponto(s)",
+        "en": "Haven: Postern — 2 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188, 189 · 2 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        },
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Saída discreta, túnel secreto ou acesso ao esgoto. Cada ponto acrescenta +1 dado para fugir ou escapar de vigilância próxima ao refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "2 ponto(s). Saída discreta, túnel secreto ou acesso ao esgoto. Cada ponto acrescenta +1 dado para fugir ou escapar de vigilância próxima ao refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Identifique nas escolhas o Refúgio específico e os benefícios de cada ponto. "
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Discreet back exit, secret tunnel or sewer access. Each dot adds +1 die to flee or escape surveillance near the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "2 dot(s). Discreet back exit, secret tunnel or sewer access. Each dot adds +1 die to flee or escape surveillance near the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Identify the specific Haven and each dot’s benefits in the choices. "
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-haven-postern-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Refúgio: Poterna — 3 ponto(s)",
+        "en": "Haven: Postern — 3 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188, 189 · 3 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        },
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Saída discreta, túnel secreto ou acesso ao esgoto. Cada ponto acrescenta +1 dado para fugir ou escapar de vigilância próxima ao refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "3 ponto(s). Saída discreta, túnel secreto ou acesso ao esgoto. Cada ponto acrescenta +1 dado para fugir ou escapar de vigilância próxima ao refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Identifique nas escolhas o Refúgio específico e os benefícios de cada ponto. "
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Discreet back exit, secret tunnel or sewer access. Each dot adds +1 die to flee or escape surveillance near the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "3 dot(s). Discreet back exit, secret tunnel or sewer access. Each dot adds +1 die to flee or escape surveillance near the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Identify the specific Haven and each dot’s benefits in the choices. "
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-haven-postern-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Refúgio: Poterna — 4 ponto(s)",
+        "en": "Haven: Postern — 4 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188, 189 · 4 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        },
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Saída discreta, túnel secreto ou acesso ao esgoto. Cada ponto acrescenta +1 dado para fugir ou escapar de vigilância próxima ao refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "4 ponto(s). Saída discreta, túnel secreto ou acesso ao esgoto. Cada ponto acrescenta +1 dado para fugir ou escapar de vigilância próxima ao refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Identifique nas escolhas o Refúgio específico e os benefícios de cada ponto. "
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Discreet back exit, secret tunnel or sewer access. Each dot adds +1 die to flee or escape surveillance near the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "4 dot(s). Discreet back exit, secret tunnel or sewer access. Each dot adds +1 die to flee or escape surveillance near the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Identify the specific Haven and each dot’s benefits in the choices. "
+          }
+        ]
+      }
+    },
+    {
+      "id": "core-background-haven-postern-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Refúgio: Poterna — 5 ponto(s)",
+        "en": "Haven: Postern — 5 dot(s)"
+      },
+      "sourceTitle": "Livro Básico V5, pp. 188, 189 · 5 ponto(s)",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 188
+        },
+        {
+          "pdfPage": 191,
+          "printedPage": 189
+        }
+      ],
+      "requirements": {
+        "itemRatings": {
+          "core-background-haven": 1
+        },
+        "repeatableInstances": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Saída discreta, túnel secreto ou acesso ao esgoto. Cada ponto acrescenta +1 dado para fugir ou escapar de vigilância próxima ao refúgio."
+          },
+          {
+            "title": "Escolha e valor",
+            "text": "5 ponto(s). Saída discreta, túnel secreto ou acesso ao esgoto. Cada ponto acrescenta +1 dado para fugir ou escapar de vigilância próxima ao refúgio."
+          },
+          {
+            "title": "Preenchimento e uso",
+            "text": "Antecedentes representam relações, circunstâncias e bens externos. Explique como os adquiriu e quem ou o que representam. Podem existir vários vínculos do mesmo tipo, adquiridos separadamente. O Narrador conduz as pessoas e consequências narrativas; não são servos automáticos. Compras com XP custam 3 por ponto adquirido. Modificadores descritos aqui não são aplicados automaticamente às rolagens."
+          },
+          {
+            "title": "Exceções",
+            "text": "Identifique nas escolhas o Refúgio específico e os benefícios de cada ponto. "
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Discreet back exit, secret tunnel or sewer access. Each dot adds +1 die to flee or escape surveillance near the haven."
+          },
+          {
+            "title": "Choice and rating",
+            "text": "5 dot(s). Discreet back exit, secret tunnel or sewer access. Each dot adds +1 die to flee or escape surveillance near the haven."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Backgrounds represent external relationships, circumstances and assets. Explain how they were acquired and who or what they represent. Several connections of the same type may be purchased separately. The Storyteller portrays people and narrative consequences; they are not automatic servants. XP purchases cost 3 per acquired dot. Modifiers described here are not automatically applied to rolls."
+          },
+          {
+            "title": "Exceptions",
+            "text": "Identify the specific Haven and each dot’s benefits in the choices. "
+          }
+        ]
+      }
+    }
+  ]
+}
