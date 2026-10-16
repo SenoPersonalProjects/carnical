@@ -1,0 +1,168 @@
+{
+  "id": "core-trait-folkloric-bane",
+  "kind": "flaw",
+  "level": 1,
+  "names": {
+    "pt-BR": "Perdição Folclórica",
+    "en": "Folkloric Bane"
+  },
+  "aliases": [
+    "Perdição Folclórica",
+    "Folkloric Bane",
+    "Perdição Folclórica — Luz ultravioleta",
+    "Folkloric Bane — Ultraviolet light",
+    "Perdição Folclórica — Prata",
+    "Folkloric Bane — Silver",
+    "Perdição Folclórica — Água benta",
+    "Folkloric Bane — Holy water"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-folkloric-bane-core-v5-uv",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 182",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Luz ultravioleta causa dano Agravado como luz solar direta."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Escolha",
+            "text": "Selecione a Perdição no seletor da fonte. A escolha causa dano Agravado conforme a regra específica abaixo. O texto “pode incluir” permite ao Narrador avaliar outras Perdições; as três opções impressas estão disponíveis aqui."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Ultraviolet light causes Aggravated damage as direct sunlight."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Choice",
+            "text": "Select the Bane using the source selector. It causes Aggravated damage under the specific rule below. The wording “may include” allows the Storyteller to consider other Banes; the three printed options are available here."
+          }
+        ]
+      },
+      "requirements": {},
+      "names": {
+        "pt-BR": "Perdição Folclórica — Luz ultravioleta",
+        "en": "Folkloric Bane — Ultraviolet light"
+      }
+    },
+    {
+      "id": "core-trait-folkloric-bane-core-v5-silver",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 182",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Armas de prata ou banhadas em prata causam dano Agravado igual ao dano da arma. Simplesmente tocar uma moeda ou um talher de prata causa 1 dano Agravado."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Escolha",
+            "text": "Selecione a Perdição no seletor da fonte. A escolha causa dano Agravado conforme a regra específica abaixo. O texto “pode incluir” permite ao Narrador avaliar outras Perdições; as três opções impressas estão disponíveis aqui."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Silver or silver-plated weapons cause Aggravated damage equal to the weapon’s damage. Merely touching a silver coin or utensil causes 1 Aggravated damage."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Choice",
+            "text": "Select the Bane using the source selector. It causes Aggravated damage under the specific rule below. The wording “may include” allows the Storyteller to consider other Banes; the three printed options are available here."
+          }
+        ]
+      },
+      "requirements": {},
+      "names": {
+        "pt-BR": "Perdição Folclórica — Prata",
+        "en": "Folkloric Bane — Silver"
+      }
+    },
+    {
+      "id": "core-trait-folkloric-bane-core-v5-holy-water",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 182",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Água benta causa dano Agravado como fogo."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Escolha",
+            "text": "Selecione a Perdição no seletor da fonte. A escolha causa dano Agravado conforme a regra específica abaixo. O texto “pode incluir” permite ao Narrador avaliar outras Perdições; as três opções impressas estão disponíveis aqui."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Holy water causes Aggravated damage as fire."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Choice",
+            "text": "Select the Bane using the source selector. It causes Aggravated damage under the specific rule below. The wording “may include” allows the Storyteller to consider other Banes; the three printed options are available here."
+          }
+        ]
+      },
+      "requirements": {},
+      "names": {
+        "pt-BR": "Perdição Folclórica — Água benta",
+        "en": "Folkloric Bane — Holy water"
+      }
+    }
+  ]
+}

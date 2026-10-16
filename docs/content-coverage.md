@@ -15,8 +15,10 @@
   desfazer, saldo, orçamento inicial separado, recarga, accordion e fonte.
   Quatro PDFs reais em português/inglês tiveram todas as páginas renderizadas
   e conferidas quanto a texto, margens, paginação e links.
-- Defeitos Arcaicos e escolhas de Perdição/Tabu Folclórico continuam pendentes.
-  Modificadores narrativos e de rolagem destas Qualidades não são automatizados.
+- Lote complementar: Arcaico e Vivendo no Passado com requisito de idade;
+  três escolhas de Perdição Folclórica e sete Tabus Folclóricos. Cada tabu
+  diferente pode ser adicionado como Defeito separado de 1 ponto.
+  Modificadores narrativos e de rolagem não são automatizados.
 
 ### Limites de Potência por Geração
 
@@ -30,13 +32,13 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 385 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 389 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
 | Fonte | Entradas revisadas nesta entrega | Cobertura integral |
 | --- | --- | --- |
-| Livro Básico | Perdições e Compulsões dos sete clãs principais; características de Caitiff/Sangue-Ralo e as 16 Qualidades/Defeitos especiais com seleção guiada e 24 Qualidades/Defeitos comuns; todos os dez Predadores, 26 Rituais e sete fórmulas nomeadas; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar e Fortificar a Fachada Interior aguardam esclarecimento; métodos e receitas de imitação de Alquimia, variantes de Afinidade/Maldição de outros livros, Suspeito/Status dos Caitiff, Defeitos Arcaicos e escolhas Folclóricas, Antecedentes e loresheets pendentes |
+| Livro Básico | Perdições e Compulsões dos sete clãs principais; características de Caitiff/Sangue-Ralo e as 16 Qualidades/Defeitos especiais com seleção guiada e 28 Qualidades/Defeitos comuns; todos os dez Predadores, 26 Rituais e sete fórmulas nomeadas; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar e Fortificar a Fachada Interior aguardam esclarecimento; métodos e receitas de imitação de Alquimia, variantes de Afinidade/Maldição de outros livros, Suspeito/Status dos Caitiff, Antecedentes e loresheets pendentes |
 | Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
 | Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas; os seis Predadores; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; Lasombra | Clãs restantes, Vantagens, Defeitos, loresheets e demais seções pendentes |
 | Cultos dos Deuses de Sangue | 3 Cerimônias Shalimitas | Pendente |

@@ -8,7 +8,7 @@ function load(file){file=path.resolve(file);if(cache.has(file))return cache.get(
 const catalog=load('app/content/catalog.json').entries,{catalogAdvantageQuote:quote,purchasedCatalogAdvantage:purchase}=load('app/content/catalog-item-xp.ts'),{itemEligibility}=load('app/content/item-eligibility.ts'),{auditCharacter}=load('app/character-audit.ts');
 const before=JSON.parse(execFileSync('git',['show','f4d5ed2:app/content/catalog.json'],{encoding:'utf8',maxBuffer:20e6})).entries;
 for(const item of before)assert.deepEqual(catalog.find(entry=>entry.id===item.id),item);
-const entries=catalog.filter(entry=>entry.id.startsWith('core-trait-'));assert.equal(entries.length,24);
+const entries=catalog.filter(entry=>entry.id.startsWith('core-trait-'));assert.equal(entries.length,28);
 const context={phase:'xp',clan:'Tremere',activeSources:new Set(['core_v5_ptbr']),items:[]};
 for(const entry of entries)for(const version of entry.versions){assert.ok(version.level>0);assert.ok(version.pages.every(page=>page.printedPage===page.pdfPage-2));for(const locale of ['pt-BR','en'])assert.ok(version.descriptions[locale].every(section=>section.text.trim()));if(entry.kind==='flaw')assert.equal(quote(entry.id,version.id,[],context),undefined)}
 const iron=catalog.find(entry=>entry.id==='core-trait-iron-gullet'),ironId=iron.versions[0].id;
@@ -25,6 +25,22 @@ assert.equal(quote(iron.id,ironId,[{name:'Esôfago de Ferro',dots:3,source:'pred
 assert.equal(itemEligibility(catalog.find(entry=>entry.id==='core-trait-farmer').versions[0],{...context,phase:'creation',clan:'Ventrue'}).allowed,false);
 const data={merits:[{name:'Personalizado',dots:7,source:'custom',notes:''},third.item],xpPurchases:[first.purchase,third.purchase]};
 assert.ok(!auditCharacter({clan:'Tremere',data}).some(issue=>issue.id==='merits'));
-const {removeCreationItem}=load('app/content/creation-item-effects.ts');const locked={...data,flawItems:[],disciplines:{},disciplinePowers:{}};assert.ok(removeCreationItem(locked,'merits',1).error);assert.equal(removeCreationItem(locked,'merits',1).data,locked);
+const {addCreationItem,removeCreationItem}=load('app/content/creation-item-effects.ts');const locked={...data,flawItems:[],disciplines:{},disciplinePowers:{}};assert.ok(removeCreationItem(locked,'merits',1).error);assert.equal(removeCreationItem(locked,'merits',1).data,locked);
 assert.ok(auditCharacter({clan:'Tremere',data:{flawItems:[{name:'Analfabeto',dots:2,source:'core_v5_ptbr'}],skills:{Erudição:2}}}).some(issue=>issue.id==='illiterate-skill-cap'));
-console.log('24 Core traits: source/translation integrity, all printed ratings, Ventrue restrictions, fixed costs, variable upgrades, undo metadata, personal notes, Predator preservation and separate creation budget passed.');
+const block=catalog.find(entry=>entry.id==='core-trait-folkloric-block');assert.equal(block.versions.length,7);
+const creationContext={...context,phase:'creation',ageCategory:'Ancilla'};
+const blockItem=v=>({name:v.names['pt-BR'],dots:1,source:'core_v5_ptbr',notes:'Pessoal',catalogId:block.id,versionId:v.id});
+let multiple={merits:[],flawItems:[],disciplines:{},disciplinePowers:{},xpPurchases:[]};
+multiple=addCreationItem(multiple,'flawItems',blockItem(block.versions[0]),creationContext).data;
+multiple=addCreationItem(multiple,'flawItems',blockItem(block.versions[1]),creationContext).data;assert.equal(multiple.flawItems.length,2);
+assert.equal(addCreationItem(multiple,'flawItems',blockItem(block.versions[0]),creationContext).data.flawItems.length,2);
+multiple=removeCreationItem(multiple,'flawItems',0).data;assert.equal(multiple.flawItems.length,1);assert.equal(multiple.flawItems[0].versionId,block.versions[1].id);
+const archaic=catalog.find(entry=>entry.id==='core-trait-archaic').versions[0];
+for(const ageCategory of ['Neófito','Criança da Noite',undefined])assert.equal(itemEligibility(archaic,{...creationContext,ageCategory}).allowed,false);
+for(const ageCategory of ['Ancilla','Personalizada'])assert.equal(itemEligibility(archaic,{...creationContext,ageCategory}).allowed,true);
+assert.ok(auditCharacter({clan:'Tremere',data:{ageCategory:'Ancilla',flawItems:[{name:'Arcaico',dots:2,source:'core_v5_ptbr'}],skills:{Tecnologia:2}}}).some(issue=>issue.id==='archaic-technology'));
+const {PREDATOR_CHOICES,readPackageChoices}=load('app/predator-choices.ts');const osiris=PREDATOR_CHOICES.osiris['osiris-flaws'];
+assert.equal(osiris.options.filter(option=>option.name.startsWith('Tabu Folclórico —')).length,7);
+assert.ok(readPackageChoices(osiris,JSON.stringify([{name:'Tabu Folclórico — Alho',dots:1},{name:'Tabu Folclórico — Água corrente',dots:1}])));
+assert.ok(readPackageChoices(osiris,JSON.stringify([{name:'Tabu Folclórico',dots:1},{name:'Estigma',dots:1}])),'legacy package remains valid');
+console.log('28 Core traits: bilingual rules, ratings, age/clan gates, fixed costs/upgrades, undo metadata, notes, Predator preservation, separate creation budget and seven independently selectable Folkloric Blocks passed.');

@@ -1,9 +1,11 @@
+import {CONTENT_INDEX} from "./content/resolve";
 export type PackageChoice={name:string;dots:number};
-export type ChoiceSpec={type:"allocation"|"select"|"flaws";points:number;kind:"merit"|"flaw";index:number;options:Array<{name:string;dots?:number}>;creation?:boolean};
+export type ChoiceSpec={type:"allocation"|"select"|"flaws";points:number;kind:"merit"|"flaw";index:number;options:Array<{name:string;dots?:number;legacy?:boolean}>;creation?:boolean};
+const folkloreChoices=CONTENT_INDEX.filter(entry=>["core-trait-folkloric-bane","core-trait-folkloric-block"].includes(entry.id)).flatMap(entry=>(entry.versions||[]).map(version=>({name:version.names?.["pt-BR"]||entry.names["pt-BR"],dots:version.level??1})));
 export const PREDATOR_CHOICES:Record<string,Record<string,ChoiceSpec>>={
   osiris:{
     "fame-herd":{type:"allocation",points:3,kind:"merit",index:0,creation:true,options:[{name:"Fama"},{name:"Rebanho"}]},
-    "osiris-flaws":{type:"flaws",points:2,kind:"flaw",index:0,creation:true,options:[{name:"Inimigo"},{name:"Isca de Estaca",dots:2},{name:"Perdição Folclórica",dots:1},{name:"Tabu Folclórico",dots:1},{name:"Estigma",dots:1}]},
+    "osiris-flaws":{type:"flaws",points:2,kind:"flaw",index:0,creation:true,options:[{name:"Inimigo"},{name:"Isca de Estaca",dots:2},{name:"Perdição Folclórica",dots:1,legacy:true},{name:"Tabu Folclórico",dots:1,legacy:true},{name:"Estigma",dots:1},...folkloreChoices]},
   },
   extortionist:{"contacts-resources":{type:"allocation",points:3,kind:"merit",index:0,options:[{name:"Contatos"},{name:"Recursos"}]}},
   "grim-reaper":{"medical-background":{type:"select",points:1,kind:"merit",index:0,options:[{name:"Aliados"},{name:"Influência"}]}},

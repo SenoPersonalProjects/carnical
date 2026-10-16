@@ -39885,6 +39885,684 @@
         }
       ],
       "level": 5
+    },
+    {
+      "id": "core-trait-archaic",
+      "kind": "flaw",
+      "level": 2,
+      "names": {
+        "pt-BR": "Arcaico",
+        "en": "Archaic"
+      },
+      "aliases": [
+        "Arcaico",
+        "Archaic"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-archaic-core-v5",
+          "book": "core-v5",
+          "level": 2,
+          "sourceTitle": "Livro Básico V5, p. 180",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 182,
+              "printedPage": 180
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Não se adaptou ao presente ou passou muito tempo em Torpor. Não pode usar computadores nem celulares e sua Tecnologia permanece em 0. O Narrador pode aplicar −1 dado em outras paradas envolvendo tecnologia muito moderna."
+              },
+              {
+                "title": "Custo",
+                "text": "2 ponto(s) de Defeito."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Somente ancillae ou vampiros mais velhos. Para categoria Personalizada, confirme com o Narrador que a idade corresponde a essa exigência. Não modifica Convicções nem Habilidades já salvas automaticamente."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Failed to adapt to the present or spent a long time in Torpor. Cannot use computers or mobile phones and Technology remains 0. The Storyteller may apply −1 die to other pools involving very modern technology."
+              },
+              {
+                "title": "Cost",
+                "text": "2 Flaw dot(s)."
+              },
+              {
+                "title": "Requirements",
+                "text": "Only ancillae or older vampires. For a Custom category, confirm with the Storyteller that the age meets this requirement. Does not automatically change saved Convictions or Skills."
+              }
+            ]
+          },
+          "requirements": {
+            "ancillaOrOlder": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-folkloric-bane",
+      "kind": "flaw",
+      "level": 1,
+      "names": {
+        "pt-BR": "Perdição Folclórica",
+        "en": "Folkloric Bane"
+      },
+      "aliases": [
+        "Perdição Folclórica",
+        "Folkloric Bane",
+        "Perdição Folclórica — Luz ultravioleta",
+        "Folkloric Bane — Ultraviolet light",
+        "Perdição Folclórica — Prata",
+        "Folkloric Bane — Silver",
+        "Perdição Folclórica — Água benta",
+        "Folkloric Bane — Holy water"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-folkloric-bane-core-v5-uv",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Luz ultravioleta causa dano Agravado como luz solar direta."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Escolha",
+                "text": "Selecione a Perdição no seletor da fonte. A escolha causa dano Agravado conforme a regra específica abaixo. O texto “pode incluir” permite ao Narrador avaliar outras Perdições; as três opções impressas estão disponíveis aqui."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Ultraviolet light causes Aggravated damage as direct sunlight."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Choice",
+                "text": "Select the Bane using the source selector. It causes Aggravated damage under the specific rule below. The wording “may include” allows the Storyteller to consider other Banes; the three printed options are available here."
+              }
+            ]
+          },
+          "requirements": {},
+          "names": {
+            "pt-BR": "Perdição Folclórica — Luz ultravioleta",
+            "en": "Folkloric Bane — Ultraviolet light"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-bane-core-v5-silver",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Armas de prata ou banhadas em prata causam dano Agravado igual ao dano da arma. Simplesmente tocar uma moeda ou um talher de prata causa 1 dano Agravado."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Escolha",
+                "text": "Selecione a Perdição no seletor da fonte. A escolha causa dano Agravado conforme a regra específica abaixo. O texto “pode incluir” permite ao Narrador avaliar outras Perdições; as três opções impressas estão disponíveis aqui."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Silver or silver-plated weapons cause Aggravated damage equal to the weapon’s damage. Merely touching a silver coin or utensil causes 1 Aggravated damage."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Choice",
+                "text": "Select the Bane using the source selector. It causes Aggravated damage under the specific rule below. The wording “may include” allows the Storyteller to consider other Banes; the three printed options are available here."
+              }
+            ]
+          },
+          "requirements": {},
+          "names": {
+            "pt-BR": "Perdição Folclórica — Prata",
+            "en": "Folkloric Bane — Silver"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-bane-core-v5-holy-water",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Água benta causa dano Agravado como fogo."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Escolha",
+                "text": "Selecione a Perdição no seletor da fonte. A escolha causa dano Agravado conforme a regra específica abaixo. O texto “pode incluir” permite ao Narrador avaliar outras Perdições; as três opções impressas estão disponíveis aqui."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Holy water causes Aggravated damage as fire."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Choice",
+                "text": "Select the Bane using the source selector. It causes Aggravated damage under the specific rule below. The wording “may include” allows the Storyteller to consider other Banes; the three printed options are available here."
+              }
+            ]
+          },
+          "requirements": {},
+          "names": {
+            "pt-BR": "Perdição Folclórica — Água benta",
+            "en": "Folkloric Bane — Holy water"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-folkloric-block",
+      "kind": "flaw",
+      "level": 1,
+      "names": {
+        "pt-BR": "Tabu Folclórico",
+        "en": "Folkloric Block"
+      },
+      "aliases": [
+        "Tabu Folclórico",
+        "Folkloric Block",
+        "Tabu Folclórico — Símbolos sagrados",
+        "Folkloric Block — Holy symbols",
+        "Tabu Folclórico — Água corrente",
+        "Folkloric Block — Running water",
+        "Tabu Folclórico — Casa sem convite",
+        "Folkloric Block — Uninvited homes",
+        "Tabu Folclórico — Animal branco",
+        "Folkloric Block — White animal",
+        "Tabu Folclórico — Alho",
+        "Folkloric Block — Garlic",
+        "Tabu Folclórico — Rosas selvagens",
+        "Folkloric Block — Wild roses",
+        "Tabu Folclórico — Sementes não contadas",
+        "Folkloric Block — Uncounted seeds"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-folkloric-block-core-v5-holy-symbols",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Ao confrontar símbolos sagrados mostrados por qualquer crente, mesmo sem Fé Verdadeira, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Escolha",
+                "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "When confronted with holy symbols displayed by any believer, even without True Faith, must retreat or spend 1 Willpower to overcome the block."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Choice",
+                "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+              }
+            ]
+          },
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Símbolos sagrados",
+            "en": "Folkloric Block — Holy symbols"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-running-water",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Ao confrontar uma travessia de água corrente visível; o livro alerta que isso pode ser impraticável em cidades com muitos canais, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Escolha",
+                "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "When confronted with a crossing of visible running water; the book warns this may be impractical in cities with many waterways, must retreat or spend 1 Willpower to overcome the block."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Choice",
+                "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+              }
+            ]
+          },
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Água corrente",
+            "en": "Folkloric Block — Running water"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-uninvited",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Ao confrontar a entrada em uma casa sem convite do proprietário, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Escolha",
+                "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "When confronted with entry to a home without an invitation from its owner, must retreat or spend 1 Willpower to overcome the block."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Choice",
+                "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+              }
+            ]
+          },
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Casa sem convite",
+            "en": "Folkloric Block — Uninvited homes"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-white-animal",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Ao confrontar um animal branco, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Escolha",
+                "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "When confronted with a white animal, must retreat or spend 1 Willpower to overcome the block."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Choice",
+                "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+              }
+            ]
+          },
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Animal branco",
+            "en": "Folkloric Block — White animal"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-garlic",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Ao confrontar alho, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Escolha",
+                "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "When confronted with garlic, must retreat or spend 1 Willpower to overcome the block."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Choice",
+                "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+              }
+            ]
+          },
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Alho",
+            "en": "Folkloric Block — Garlic"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-wild-roses",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Ao confrontar rosas selvagens, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Escolha",
+                "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "When confronted with wild roses, must retreat or spend 1 Willpower to overcome the block."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Choice",
+                "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+              }
+            ]
+          },
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Rosas selvagens",
+            "en": "Folkloric Block — Wild roses"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-seeds",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Ao confrontar sementes espalhadas que você ainda não contou, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Escolha",
+                "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "When confronted with scattered seeds you have not counted, must retreat or spend 1 Willpower to overcome the block."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Choice",
+                "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+              }
+            ]
+          },
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Sementes não contadas",
+            "en": "Folkloric Block — Uncounted seeds"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-living-in-the-past",
+      "kind": "flaw",
+      "level": 1,
+      "names": {
+        "pt-BR": "Vivendo no Passado",
+        "en": "Living in the Past"
+      },
+      "aliases": [
+        "Vivendo no Passado",
+        "Living in the Past"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-living-in-the-past-core-v5",
+          "book": "core-v5",
+          "level": 1,
+          "sourceTitle": "Livro Básico V5, p. 180",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 182,
+              "printedPage": 180
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Não compreende ou recusa a mentalidade moderna. Uma ou mais Convicções são seriamente antiquadas. Elas ainda sustentam a Humanidade, mas causam repulsa: sofre −1 dado em testes Sociais envolvendo essas crenças, exceto com vampiros de sua idade ou mais velhos que admirem sua virtude inabalável."
+              },
+              {
+                "title": "Custo",
+                "text": "1 ponto(s) de Defeito."
+              },
+              {
+                "title": "Requisitos",
+                "text": "Somente ancillae ou vampiros mais velhos. Para categoria Personalizada, confirme com o Narrador que a idade corresponde a essa exigência. Não modifica Convicções nem Habilidades já salvas automaticamente."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Does not understand or rejects modern thinking. One or more Convictions are seriously outdated. They still support Humanity but offend others: suffer −1 die on Social tests involving these beliefs, except with vampires of the same age or older who admire such unwavering virtue."
+              },
+              {
+                "title": "Cost",
+                "text": "1 Flaw dot(s)."
+              },
+              {
+                "title": "Requirements",
+                "text": "Only ancillae or older vampires. For a Custom category, confirm with the Storyteller that the age meets this requirement. Does not automatically change saved Convictions or Skills."
+              }
+            ]
+          },
+          "requirements": {
+            "ancillaOrOlder": true
+          }
+        }
+      ]
     }
   ]
 }

@@ -12510,6 +12510,240 @@
           "level": 5
         }
       ]
+    },
+    {
+      "id": "core-trait-archaic",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Arcaico",
+        "en": "Archaic"
+      },
+      "aliases": [
+        "Arcaico",
+        "Archaic"
+      ],
+      "level": 2,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-archaic-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 180",
+          "level": 2,
+          "requirements": {
+            "ancillaOrOlder": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-folkloric-bane",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Perdição Folclórica",
+        "en": "Folkloric Bane"
+      },
+      "aliases": [
+        "Perdição Folclórica",
+        "Folkloric Bane",
+        "Perdição Folclórica — Luz ultravioleta",
+        "Folkloric Bane — Ultraviolet light",
+        "Perdição Folclórica — Prata",
+        "Folkloric Bane — Silver",
+        "Perdição Folclórica — Água benta",
+        "Folkloric Bane — Holy water"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-folkloric-bane-core-v5-uv",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "level": 1,
+          "requirements": {},
+          "names": {
+            "pt-BR": "Perdição Folclórica — Luz ultravioleta",
+            "en": "Folkloric Bane — Ultraviolet light"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-bane-core-v5-silver",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "level": 1,
+          "requirements": {},
+          "names": {
+            "pt-BR": "Perdição Folclórica — Prata",
+            "en": "Folkloric Bane — Silver"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-bane-core-v5-holy-water",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "level": 1,
+          "requirements": {},
+          "names": {
+            "pt-BR": "Perdição Folclórica — Água benta",
+            "en": "Folkloric Bane — Holy water"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-folkloric-block",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Tabu Folclórico",
+        "en": "Folkloric Block"
+      },
+      "aliases": [
+        "Tabu Folclórico",
+        "Folkloric Block",
+        "Tabu Folclórico — Símbolos sagrados",
+        "Folkloric Block — Holy symbols",
+        "Tabu Folclórico — Água corrente",
+        "Folkloric Block — Running water",
+        "Tabu Folclórico — Casa sem convite",
+        "Folkloric Block — Uninvited homes",
+        "Tabu Folclórico — Animal branco",
+        "Folkloric Block — White animal",
+        "Tabu Folclórico — Alho",
+        "Folkloric Block — Garlic",
+        "Tabu Folclórico — Rosas selvagens",
+        "Folkloric Block — Wild roses",
+        "Tabu Folclórico — Sementes não contadas",
+        "Folkloric Block — Uncounted seeds"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-folkloric-block-core-v5-holy-symbols",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "level": 1,
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Símbolos sagrados",
+            "en": "Folkloric Block — Holy symbols"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-running-water",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "level": 1,
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Água corrente",
+            "en": "Folkloric Block — Running water"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-uninvited",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "level": 1,
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Casa sem convite",
+            "en": "Folkloric Block — Uninvited homes"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-white-animal",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "level": 1,
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Animal branco",
+            "en": "Folkloric Block — White animal"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-garlic",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "level": 1,
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Alho",
+            "en": "Folkloric Block — Garlic"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-wild-roses",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "level": 1,
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Rosas selvagens",
+            "en": "Folkloric Block — Wild roses"
+          }
+        },
+        {
+          "id": "core-trait-folkloric-block-core-v5-seeds",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 182",
+          "level": 1,
+          "requirements": {
+            "repeatableDifferentChoices": true
+          },
+          "names": {
+            "pt-BR": "Tabu Folclórico — Sementes não contadas",
+            "en": "Folkloric Block — Uncounted seeds"
+          }
+        }
+      ]
+    },
+    {
+      "id": "core-trait-living-in-the-past",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Vivendo no Passado",
+        "en": "Living in the Past"
+      },
+      "aliases": [
+        "Vivendo no Passado",
+        "Living in the Past"
+      ],
+      "level": 1,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "core-trait-living-in-the-past-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 180",
+          "level": 1,
+          "requirements": {
+            "ancillaOrOlder": true
+          }
+        }
+      ]
     }
   ]
 }

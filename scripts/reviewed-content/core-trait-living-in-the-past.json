@@ -1,0 +1,62 @@
+{
+  "id": "core-trait-living-in-the-past",
+  "kind": "flaw",
+  "level": 1,
+  "names": {
+    "pt-BR": "Vivendo no Passado",
+    "en": "Living in the Past"
+  },
+  "aliases": [
+    "Vivendo no Passado",
+    "Living in the Past"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-living-in-the-past-core-v5",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 180",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Não compreende ou recusa a mentalidade moderna. Uma ou mais Convicções são seriamente antiquadas. Elas ainda sustentam a Humanidade, mas causam repulsa: sofre −1 dado em testes Sociais envolvendo essas crenças, exceto com vampiros de sua idade ou mais velhos que admirem sua virtude inabalável."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Somente ancillae ou vampiros mais velhos. Para categoria Personalizada, confirme com o Narrador que a idade corresponde a essa exigência. Não modifica Convicções nem Habilidades já salvas automaticamente."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Does not understand or rejects modern thinking. One or more Convictions are seriously outdated. They still support Humanity but offend others: suffer −1 die on Social tests involving these beliefs, except with vampires of the same age or older who admire such unwavering virtue."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Requirements",
+            "text": "Only ancillae or older vampires. For a Custom category, confirm with the Storyteller that the age meets this requirement. Does not automatically change saved Convictions or Skills."
+          }
+        ]
+      },
+      "requirements": {
+        "ancillaOrOlder": true
+      }
+    }
+  ]
+}

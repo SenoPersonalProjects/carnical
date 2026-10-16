@@ -7,8 +7,8 @@ export function restrictedThinBloodXp(clan:string,intent:string,name:string){
 export type CreationItem={name:string;dots:number;source:string;notes:string;catalogId?:string;versionId?:string;creationGrant?:{discipline:string;from:number;to:number}};
 type CreationData={merits:CreationItem[];flawItems:CreationItem[];disciplines:Record<string,number>;disciplinePowers:Record<string,string[]>;xpPurchases:ReadonlyArray<{name:string;kind:string;catalogId?:string}>};
 export function addCreationItem<T extends CreationData>(data:T,key:"merits"|"flawItems",item:CreationItem,context:ItemContext):{data:T;error?:string;errorEn?:string}{
- if(data[key].some(existing=>existing.catalogId===item.catalogId))return {data};
  const {entry,version}=indexedItem(item);
+ if(data[key].some(existing=>existing.catalogId===item.catalogId&&(!version?.requirements?.repeatableDifferentChoices||existing.versionId===item.versionId)))return {data};
  if(!entry||!version)return {data,error:"Não foi possível identificar a escolha e sua fonte.",errorEn:"Could not identify the choice and its source."};
  const check=itemEligibility(version,{...context,disciplines:data.disciplines,powers:data.disciplinePowers,items:[...data.merits,...data.flawItems]});
  if(!check.allowed)return {data,error:check.reasons.join(". "),errorEn:"The choice no longer meets its requirements. Review prerequisites, conflicting choices and the three-choice limit."};

@@ -1,0 +1,386 @@
+{
+  "id": "core-trait-folkloric-block",
+  "kind": "flaw",
+  "level": 1,
+  "names": {
+    "pt-BR": "Tabu Folclórico",
+    "en": "Folkloric Block"
+  },
+  "aliases": [
+    "Tabu Folclórico",
+    "Folkloric Block",
+    "Tabu Folclórico — Símbolos sagrados",
+    "Folkloric Block — Holy symbols",
+    "Tabu Folclórico — Água corrente",
+    "Folkloric Block — Running water",
+    "Tabu Folclórico — Casa sem convite",
+    "Folkloric Block — Uninvited homes",
+    "Tabu Folclórico — Animal branco",
+    "Folkloric Block — White animal",
+    "Tabu Folclórico — Alho",
+    "Folkloric Block — Garlic",
+    "Tabu Folclórico — Rosas selvagens",
+    "Folkloric Block — Wild roses",
+    "Tabu Folclórico — Sementes não contadas",
+    "Folkloric Block — Uncounted seeds"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-folkloric-block-core-v5-holy-symbols",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 182",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Ao confrontar símbolos sagrados mostrados por qualquer crente, mesmo sem Fé Verdadeira, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Escolha",
+            "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "When confronted with holy symbols displayed by any believer, even without True Faith, must retreat or spend 1 Willpower to overcome the block."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Choice",
+            "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+          }
+        ]
+      },
+      "requirements": {
+        "repeatableDifferentChoices": true
+      },
+      "names": {
+        "pt-BR": "Tabu Folclórico — Símbolos sagrados",
+        "en": "Folkloric Block — Holy symbols"
+      }
+    },
+    {
+      "id": "core-trait-folkloric-block-core-v5-running-water",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 182",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Ao confrontar uma travessia de água corrente visível; o livro alerta que isso pode ser impraticável em cidades com muitos canais, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Escolha",
+            "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "When confronted with a crossing of visible running water; the book warns this may be impractical in cities with many waterways, must retreat or spend 1 Willpower to overcome the block."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Choice",
+            "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+          }
+        ]
+      },
+      "requirements": {
+        "repeatableDifferentChoices": true
+      },
+      "names": {
+        "pt-BR": "Tabu Folclórico — Água corrente",
+        "en": "Folkloric Block — Running water"
+      }
+    },
+    {
+      "id": "core-trait-folkloric-block-core-v5-uninvited",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 182",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Ao confrontar a entrada em uma casa sem convite do proprietário, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Escolha",
+            "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "When confronted with entry to a home without an invitation from its owner, must retreat or spend 1 Willpower to overcome the block."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Choice",
+            "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+          }
+        ]
+      },
+      "requirements": {
+        "repeatableDifferentChoices": true
+      },
+      "names": {
+        "pt-BR": "Tabu Folclórico — Casa sem convite",
+        "en": "Folkloric Block — Uninvited homes"
+      }
+    },
+    {
+      "id": "core-trait-folkloric-block-core-v5-white-animal",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 182",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Ao confrontar um animal branco, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Escolha",
+            "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "When confronted with a white animal, must retreat or spend 1 Willpower to overcome the block."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Choice",
+            "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+          }
+        ]
+      },
+      "requirements": {
+        "repeatableDifferentChoices": true
+      },
+      "names": {
+        "pt-BR": "Tabu Folclórico — Animal branco",
+        "en": "Folkloric Block — White animal"
+      }
+    },
+    {
+      "id": "core-trait-folkloric-block-core-v5-garlic",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 182",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Ao confrontar alho, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Escolha",
+            "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "When confronted with garlic, must retreat or spend 1 Willpower to overcome the block."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Choice",
+            "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+          }
+        ]
+      },
+      "requirements": {
+        "repeatableDifferentChoices": true
+      },
+      "names": {
+        "pt-BR": "Tabu Folclórico — Alho",
+        "en": "Folkloric Block — Garlic"
+      }
+    },
+    {
+      "id": "core-trait-folkloric-block-core-v5-wild-roses",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 182",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Ao confrontar rosas selvagens, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Escolha",
+            "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "When confronted with wild roses, must retreat or spend 1 Willpower to overcome the block."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Choice",
+            "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+          }
+        ]
+      },
+      "requirements": {
+        "repeatableDifferentChoices": true
+      },
+      "names": {
+        "pt-BR": "Tabu Folclórico — Rosas selvagens",
+        "en": "Folkloric Block — Wild roses"
+      }
+    },
+    {
+      "id": "core-trait-folkloric-block-core-v5-seeds",
+      "book": "core-v5",
+      "level": 1,
+      "sourceTitle": "Livro Básico V5, p. 182",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Ao confrontar sementes espalhadas que você ainda não contou, precisa se afastar ou gastar 1 Força de Vontade para superar o tabu."
+          },
+          {
+            "title": "Custo",
+            "text": "1 ponto(s) de Defeito."
+          },
+          {
+            "title": "Escolha",
+            "text": "Ao confrontar o tabu escolhido, precisa se afastar ou gastar 1 Força de Vontade para superá-lo. Cada tabu diferente conta como um Defeito separado de 1 ponto. Pode adicionar escolhas diferentes deste item; não repita o mesmo tabu. Outras opções exigem acordo com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "When confronted with scattered seeds you have not counted, must retreat or spend 1 Willpower to overcome the block."
+          },
+          {
+            "title": "Cost",
+            "text": "1 Flaw dot(s)."
+          },
+          {
+            "title": "Choice",
+            "text": "When confronted with the chosen block, must retreat or spend 1 Willpower to overcome it. Each different block counts as a separate one-dot Flaw. May add different choices of this item; do not repeat the same block. Other options require Storyteller agreement."
+          }
+        ]
+      },
+      "requirements": {
+        "repeatableDifferentChoices": true
+      },
+      "names": {
+        "pt-BR": "Tabu Folclórico — Sementes não contadas",
+        "en": "Folkloric Block — Uncounted seeds"
+      }
+    }
+  ]
+}

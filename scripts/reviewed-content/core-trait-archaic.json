@@ -1,0 +1,62 @@
+{
+  "id": "core-trait-archaic",
+  "kind": "flaw",
+  "level": 2,
+  "names": {
+    "pt-BR": "Arcaico",
+    "en": "Archaic"
+  },
+  "aliases": [
+    "Arcaico",
+    "Archaic"
+  ],
+  "versions": [
+    {
+      "id": "core-trait-archaic-core-v5",
+      "book": "core-v5",
+      "level": 2,
+      "sourceTitle": "Livro Básico V5, p. 180",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Não se adaptou ao presente ou passou muito tempo em Torpor. Não pode usar computadores nem celulares e sua Tecnologia permanece em 0. O Narrador pode aplicar −1 dado em outras paradas envolvendo tecnologia muito moderna."
+          },
+          {
+            "title": "Custo",
+            "text": "2 ponto(s) de Defeito."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Somente ancillae ou vampiros mais velhos. Para categoria Personalizada, confirme com o Narrador que a idade corresponde a essa exigência. Não modifica Convicções nem Habilidades já salvas automaticamente."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Failed to adapt to the present or spent a long time in Torpor. Cannot use computers or mobile phones and Technology remains 0. The Storyteller may apply −1 die to other pools involving very modern technology."
+          },
+          {
+            "title": "Cost",
+            "text": "2 Flaw dot(s)."
+          },
+          {
+            "title": "Requirements",
+            "text": "Only ancillae or older vampires. For a Custom category, confirm with the Storyteller that the age meets this requirement. Does not automatically change saved Convictions or Skills."
+          }
+        ]
+      },
+      "requirements": {
+        "ancillaOrOlder": true
+      }
+    }
+  ]
+}
