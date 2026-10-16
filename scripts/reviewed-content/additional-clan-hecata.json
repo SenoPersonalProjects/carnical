@@ -1,0 +1,141 @@
+{
+  "id": "clan-hecata",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Hecata",
+    "en": "Hecata"
+  },
+  "aliases": [
+    "Hecata",
+    "Clã da Morte",
+    "Clan of Death"
+  ],
+  "versions": [
+    {
+      "id": "clan-hecata-cults-v5",
+      "book": "cultos-deuses-sangue-v5",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, pp. 202–203",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "cca6654b3f6f45a45e51b6097ceb6da50e46be9e418d009f60d79127faff43c3",
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 202
+        },
+        {
+          "pdfPage": 203,
+          "printedPage": 203
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Auspícios, Fortitude e Oblívio. A percepção sobrenatural, resistência e necromancia são as Disciplinas padrão do clã."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "O Beijo causa agonia. Ao beber diretamente de uma vítima, só pode tomar goles prejudiciais que causem perda de sangue. Mortais relutantes e não contidos tentam escapar. Mesmo mortais coagidos ou dispostos precisam vencer Vigor + Determinação, Dificuldade 2 + Gravidade da Perdição, para não se debaterem de dor. Vampiros coagidos ou voluntários precisam resistir ao Frenesi de Terror com Dificuldade 3."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Morbidez: observa as pessoas em busca de doença, fragilidade e morte iminente. Sofre −3 dados nas outras rolagens até prever uma morte sem ajuda sobrenatural ou resolver a causa de uma morte local, ou até o fim da cena. As conclusões não precisam estar absolutamente corretas, mas devem ser possíveis."
+          },
+          {
+            "title": "Exceções e versões",
+            "text": "A Compulsão de Cultos e a do Guia têm gatilhos de resolução e penalidades diferentes. A versão selecionada da fonte é mantida; não são somadas nem substituídas automaticamente. Confirme com o Narrador qual fonte a crônica utiliza.\n\nCultos permite, a critério do Narrador, substituir uma Disciplina por linhagem: Giovanni troca Auspícios por Dominação; Samedi troca Auspícios por Ofuscação; Lamiae troca Auspícios por Potência; Nagaraja troca Fortitude por Dominação. Isso pode impedir Amálgamas que dependam das Disciplinas padrão. Alternativamente, o Narrador pode oferecer uma Qualidade de 4 pontos para adquirir a Disciplina substituta como quarta Disciplina de Clã. Essas são opções dependentes do Narrador, não benefícios automáticos de todo Hecata."
+          },
+          {
+            "title": "Uso e fonte",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue. Esta consulta apresenta a regra da fonte selecionada; não aplica penalidades automaticamente nem modifica textos pessoais da ficha. História e arquétipos continuam na biblioteca. Os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Auspex, Fortitude and Oblivion. Supernatural perception, endurance and necromancy are the clan’s standard Disciplines."
+          },
+          {
+            "title": "Bane",
+            "text": "The Kiss causes agony. When drinking directly from a victim, may take only harmful drinks causing blood loss. Unwilling, unrestrained mortals try to escape. Even coerced or willing mortals must succeed at Stamina + Resolve, Difficulty 2 + Bane Severity, to avoid struggling against the pain. Coerced or willing vampire victims must resist terror frenzy at Difficulty 3."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Morbidity: studies people for disease, frailty and impending death. Suffers −3 dice on other rolls until predicting a death without supernatural aid, solving the cause of a local death, or the scene ends. Conclusions need not be completely correct but must remain possible."
+          },
+          {
+            "title": "Exceptions and versions",
+            "text": "The Cults and Player’s Guide Compulsions have different resolution conditions and penalties. The selected source version is preserved; they are not combined or automatically substituted. Confirm which source the chronicle uses with the Storyteller.\n\nCults permits lineage-based substitutions at the Storyteller’s discretion: Giovanni replaces Auspex with Dominate; Samedi replaces Auspex with Obfuscate; Lamiae replaces Auspex with Potence; Nagaraja replaces Fortitude with Dominate. This may prevent Amalgams relying on the standard Disciplines. Alternatively, the Storyteller may offer a four-dot Merit adding the substitute as a fourth clan Discipline. These are Storyteller-dependent options, not automatic benefits for every Hecata."
+          },
+          {
+            "title": "Use and source",
+            "text": "Bane Severity depends on Blood Potency. This reference presents the selected source’s rule; it does not automatically apply penalties or alter personal sheet text. History and archetypes remain in the library. Powers have their own descriptions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "clan-hecata-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 23–24",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 25,
+          "printedPage": 23
+        },
+        {
+          "pdfPage": 26,
+          "printedPage": 24
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Auspícios, Fortitude e Oblívio. A percepção sobrenatural, resistência e necromancia são as Disciplinas padrão do clã."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "O Beijo causa agonia. Ao beber diretamente de uma vítima, só pode tomar goles prejudiciais que causem perda de sangue. Mortais relutantes e não contidos tentam escapar. Mesmo mortais coagidos ou dispostos precisam vencer Vigor + Determinação, Dificuldade 2 + Gravidade da Perdição, para não se debaterem de dor. Vampiros coagidos ou voluntários precisam resistir ao Frenesi de Terror com Dificuldade 3."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Morbidez: precisa imediatamente mover algo da vida para a morte ou vice-versa. Sofre −2 dados em qualquer ação que não se dedique a encerrar ou ressuscitar algo. O alvo não precisa ser uma pessoa nem estar vivo: pode ser um objeto, uma ideia ou uma conversa. A Compulsão termina quando mata ou devolve algo à vida, literal ou figurativamente; este texto não impõe um término automático ao fim da cena."
+          },
+          {
+            "title": "Exceções e versões",
+            "text": "A Compulsão de Cultos e a do Guia têm gatilhos de resolução e penalidades diferentes. A versão selecionada da fonte é mantida; não são somadas nem substituídas automaticamente. Confirme com o Narrador qual fonte a crônica utiliza. Linhagens e loresheets têm regras próprias; a escolha do clã não concede seus benefícios automaticamente."
+          },
+          {
+            "title": "Uso e fonte",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue. Esta consulta apresenta a regra da fonte selecionada; não aplica penalidades automaticamente nem modifica textos pessoais da ficha. História e arquétipos continuam na biblioteca. Os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Auspex, Fortitude and Oblivion. Supernatural perception, endurance and necromancy are the clan’s standard Disciplines."
+          },
+          {
+            "title": "Bane",
+            "text": "The Kiss causes agony. When drinking directly from a victim, may take only harmful drinks causing blood loss. Unwilling, unrestrained mortals try to escape. Even coerced or willing mortals must succeed at Stamina + Resolve, Difficulty 2 + Bane Severity, to avoid struggling against the pain. Coerced or willing vampire victims must resist terror frenzy at Difficulty 3."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Morbidity: immediately needs to move something from life to death or vice versa. Suffers −2 dice on any action not dedicated to ending or resurrecting something. The subject need not be a person or alive: it may be an object, idea or conversation. The Compulsion ends after killing or returning something to life, literally or figuratively; this text does not impose an automatic end at scene’s close."
+          },
+          {
+            "title": "Exceptions and versions",
+            "text": "The Cults and Player’s Guide Compulsions have different resolution conditions and penalties. The selected source version is preserved; they are not combined or automatically substituted. Confirm which source the chronicle uses with the Storyteller. Bloodlines and loresheets have their own rules; choosing the clan does not automatically grant their benefits."
+          },
+          {
+            "title": "Use and source",
+            "text": "Bane Severity depends on Blood Potency. This reference presents the selected source’s rule; it does not automatically apply penalties or alter personal sheet text. History and archetypes remain in the library. Powers have their own descriptions."
+          }
+        ]
+      }
+    }
+  ]
+}

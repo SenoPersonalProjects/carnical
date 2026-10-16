@@ -32,7 +32,7 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 389 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 392 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
@@ -40,12 +40,12 @@ na mesma entrada quando sua identificação é inequívoca.
 | --- | --- | --- |
 | Livro Básico | Perdições e Compulsões dos sete clãs principais; características de Caitiff/Sangue-Ralo e as 16 Qualidades/Defeitos especiais com seleção guiada e 28 Qualidades/Defeitos comuns; todos os dez Predadores, 26 Rituais e sete fórmulas nomeadas; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar e Fortificar a Fachada Interior aguardam esclarecimento; métodos e receitas de imitação de Alquimia, variantes de Afinidade/Maldição de outros livros, Suspeito/Status dos Caitiff, Antecedentes e loresheets pendentes |
 | Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
-| Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas; os seis Predadores; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; Lasombra | Clãs restantes, Vantagens, Defeitos, loresheets e demais seções pendentes |
-| Cultos dos Deuses de Sangue | 3 Cerimônias Shalimitas | Pendente |
+| Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas; os seis Predadores; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; Lasombra, Banu Haqim, Hecata e Ministério | Versões dos demais clãs, Vantagens, Defeitos, loresheets e demais seções pendentes |
+| Cultos dos Deuses de Sangue | Hecata e sua Compulsão original; 3 Cerimônias Shalimitas | Linhagens, loresheets e demais opções pendentes |
 | Let the Streets Run Red | Assassino de Estrada | Pendente |
 | Chicago by Night | Lasombra e os nove poderes de Oblívio, incluindo as regras gerais da Disciplina | Loresheets e demais opções pendentes |
-| Camarilla | Nenhuma descrição revisada no novo catálogo | Pendente |
-| Anarch | Nenhuma descrição revisada no novo catálogo | Pendente |
+| Camarilla | Banu Haqim: Disciplinas, Perdição e Compulsão | Demais opções pendentes |
+| Anarch | Ministério: Disciplinas, Perdição e Compulsão | Demais opções pendentes |
 | Sabbat | Seção de Disciplinas e magia: 8 poderes, 4 Rituais, 3 Cerimônias e 2 fórmulas | Demais opções e revisão integral da biblioteca pendentes |
 | Gehenna War | Seção de Disciplinas e magia: 10 poderes, 5 Rituais, 1 Cerimônia e 3 fórmulas antes ausentes | Demais opções e revisão integral da biblioteca pendentes |
 | Sigilos de Sangue | Seção de magia: 24 Rituais, 20 fórmulas e 4 escolhas de elemento de Feitiçaria Koldúnica; níveis de três Rituais corrigidos | Demais opções e revisão integral da biblioteca pendentes |
@@ -111,3 +111,18 @@ exigem revisão e não são apresentados como entrega editorial final.
 Os scripts `audit-content-coverage.py` e `audit-source-cache.py` distinguem
 extração, tradução automática e conteúdo revisado. Contagem de páginas extraídas
 ou de candidatos não equivale a cobertura editorial completa.
+
+
+## Três clãs adicionais e versões por fonte
+
+Banu Haqim, Hecata e Ministério têm seis versões bilíngues conferidas no PDF:
+os livros originais e o Guia do Jogador. A Compulsão dos Hecata permanece
+diferente em cada fonte: Cultos usa previsão/investigação de morte e −3 dados;
+o Guia usa encerrar/ressuscitar algo e −2. A consulta e o PDF respeitam a fonte
+da ficha e preservam textos pessoais. O pacote de linhagens Hecata citado em
+Cultos é descrito, mas suas substituições de Disciplinas ainda exigem seleção
+guiada própria. Não é concedido automaticamente a todo Hecata.
+
+Foram exercitados os três clãs, duas fontes, dois tamanhos de tela e dois
+idiomas: 24 PDFs reais, com verificação de todas as páginas, texto, margens,
+paginação, fontes originais e preservação de anotações.

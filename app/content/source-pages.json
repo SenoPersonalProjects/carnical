@@ -545,6 +545,46 @@
       ]
     },
     {
+      "id": "camarilla-v5",
+      "title": "597014098-Vampiro-a-Mascara-V5-Camarilla",
+      "pages": [
+        {
+          "pdfPage": 168,
+          "printedPage": 167,
+          "image": "/source-pages/camarilla-v5/0168.webp",
+          "width": 1500,
+          "height": 1936
+        },
+        {
+          "pdfPage": 169,
+          "printedPage": 168,
+          "image": "/source-pages/camarilla-v5/0169.webp",
+          "width": 1500,
+          "height": 1936
+        }
+      ]
+    },
+    {
+      "id": "anarch-v5",
+      "title": "anarch",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": null,
+          "image": "/source-pages/anarch-v5/0188.webp",
+          "width": 1500,
+          "height": 2123
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": null,
+          "image": "/source-pages/anarch-v5/0189.webp",
+          "width": 1500,
+          "height": 2123
+        }
+      ]
+    },
+    {
       "id": "cultos-deuses-sangue-v5",
       "title": "706383045-v5-Cultos-Dos-Deuses-de-Sangue-Em-Portugues-min",
       "pages": [
@@ -559,6 +599,20 @@
           "pdfPage": 94,
           "printedPage": 94,
           "image": "/source-pages/cultos-deuses-sangue-v5/0094.webp",
+          "width": 1500,
+          "height": 2122
+        },
+        {
+          "pdfPage": 202,
+          "printedPage": 202,
+          "image": "/source-pages/cultos-deuses-sangue-v5/0202.webp",
+          "width": 1500,
+          "height": 2122
+        },
+        {
+          "pdfPage": 203,
+          "printedPage": 203,
+          "image": "/source-pages/cultos-deuses-sangue-v5/0203.webp",
           "width": 1500,
           "height": 2122
         },
@@ -812,6 +866,34 @@
       "title": "VTM 5e - Player's Guide",
       "pages": [
         {
+          "pdfPage": 19,
+          "printedPage": 17,
+          "image": "/source-pages/players-guide-v5/0019.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 20,
+          "printedPage": 18,
+          "image": "/source-pages/players-guide-v5/0020.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 25,
+          "printedPage": 23,
+          "image": "/source-pages/players-guide-v5/0025.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 26,
+          "printedPage": 24,
+          "image": "/source-pages/players-guide-v5/0026.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
           "pdfPage": 31,
           "printedPage": 29,
           "image": "/source-pages/players-guide-v5/0031.webp",
@@ -822,6 +904,20 @@
           "pdfPage": 32,
           "printedPage": 30,
           "image": "/source-pages/players-guide-v5/0032.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 37,
+          "printedPage": 35,
+          "image": "/source-pages/players-guide-v5/0037.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 38,
+          "printedPage": 36,
+          "image": "/source-pages/players-guide-v5/0038.webp",
           "width": 1500,
           "height": 1920
         },

@@ -12744,6 +12744,96 @@
           }
         }
       ]
+    },
+    {
+      "id": "clan-banu-haqim",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Banu Haqim",
+        "en": "Banu Haqim"
+      },
+      "aliases": [
+        "Banu Haqim",
+        "Filhos de Haqim",
+        "Children of Haqim"
+      ],
+      "books": [
+        "camarilla-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-banu-haqim-camarilla-v5",
+          "book": "camarilla-v5",
+          "sourceTitle": "Camarilla V5, pp. 167–168"
+        },
+        {
+          "id": "clan-banu-haqim-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 17–18"
+        }
+      ]
+    },
+    {
+      "id": "clan-hecata",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Hecata",
+        "en": "Hecata"
+      },
+      "aliases": [
+        "Hecata",
+        "Clã da Morte",
+        "Clan of Death"
+      ],
+      "books": [
+        "cultos-deuses-sangue-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-hecata-cults-v5",
+          "book": "cultos-deuses-sangue-v5",
+          "sourceTitle": "Cultos dos Deuses de Sangue V5, pp. 202–203"
+        },
+        {
+          "id": "clan-hecata-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 23–24"
+        }
+      ]
+    },
+    {
+      "id": "clan-ministry",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Ministério",
+        "en": "Ministry"
+      },
+      "aliases": [
+        "Ministério",
+        "Ministry",
+        "The Ministry",
+        "Setitas",
+        "Seguidores de Set",
+        "Followers of Set"
+      ],
+      "books": [
+        "anarch-v5",
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-ministry-anarch-v5",
+          "book": "anarch-v5",
+          "sourceTitle": "Anarch V5, páginas do PDF 188–189"
+        },
+        {
+          "id": "clan-ministry-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 35–36"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,133 @@
+{
+  "id": "clan-banu-haqim",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Banu Haqim",
+    "en": "Banu Haqim"
+  },
+  "aliases": [
+    "Banu Haqim",
+    "Filhos de Haqim",
+    "Children of Haqim"
+  ],
+  "versions": [
+    {
+      "id": "clan-banu-haqim-camarilla-v5",
+      "book": "camarilla-v5",
+      "sourceTitle": "Camarilla V5, pp. 167–168",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "8013be425ac540d2b19c03691cd5a75127e1515cd3910acb37169770894d7ad7",
+      "pages": [
+        {
+          "pdfPage": 168,
+          "printedPage": 167
+        },
+        {
+          "pdfPage": 169,
+          "printedPage": 168
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Feitiçaria de Sangue, Celeridade e Ofuscação. O aprendizado de rituais e poderes segue os requisitos próprios de cada opção."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "Ao saciar pelo menos 1 Fome com Vitae de outro vampiro, faz um teste para resistir ao Frenesi de Fome com Dificuldade 2 + Gravidade da Perdição. Se falhar, tenta beber vorazmente Sangue vampírico, podendo chegar à Diablerie. O gatilho é saciar Fome com Vitae, não apenas a presença de outro vampiro."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Julgamento: precisa punir alguém que transgrida seu código pessoal tomando seu sangue como vingança. Durante a cena, deve saciar ao menos 1 Fome de alguém, amigo ou inimigo, que aja contra uma Convicção sua. Caso contrário, sofre −3 dados em todas as rolagens até satisfazer a Compulsão ou a cena terminar. Se beber de outro vampiro, também aplica o teste de Frenesi da Perdição."
+          },
+          {
+            "title": "Uso e fonte",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue. Esta consulta apresenta a regra da fonte selecionada; não aplica penalidades automaticamente nem modifica textos pessoais da ficha. História e arquétipos continuam na biblioteca. Os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Blood Sorcery, Celerity and Obfuscate. Learning rituals and powers follows each option’s own requirements."
+          },
+          {
+            "title": "Bane",
+            "text": "Slaking at least 1 Hunger with another vampire’s vitae triggers a hunger frenzy resistance test at Difficulty 2 + Bane Severity. Failure makes the vampire attempt to gorge on vampiric Blood, potentially reaching diablerie. The trigger is slaking Hunger with vitae, not merely another vampire’s presence."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Judgment: must punish someone transgressing the vampire’s personal code by taking blood as vengeance. During the scene, must slake at least 1 Hunger from someone, friend or foe, acting against one of the vampire’s Convictions. Otherwise suffers −3 dice on all rolls until the Compulsion is satisfied or the scene ends. Feeding on another vampire also triggers the Bane’s frenzy test."
+          },
+          {
+            "title": "Use and source",
+            "text": "Bane Severity depends on Blood Potency. This reference presents the selected source’s rule; it does not automatically apply penalties or alter personal sheet text. History and archetypes remain in the library. Powers have their own descriptions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "clan-banu-haqim-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 17–18",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 19,
+          "printedPage": 17
+        },
+        {
+          "pdfPage": 20,
+          "printedPage": 18
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Feitiçaria de Sangue, Celeridade e Ofuscação. O aprendizado de rituais e poderes segue os requisitos próprios de cada opção."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "Ao saciar pelo menos 1 Fome com Vitae de outro vampiro, faz um teste para resistir ao Frenesi de Fome com Dificuldade 2 + Gravidade da Perdição. Se falhar, tenta beber vorazmente Sangue vampírico, podendo chegar à Diablerie. O gatilho é saciar Fome com Vitae, não apenas a presença de outro vampiro."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Julgamento: precisa punir alguém que transgrida seu código pessoal tomando seu sangue como vingança. Durante a cena, deve saciar ao menos 1 Fome de alguém, amigo ou inimigo, que aja contra uma Convicção sua. Caso contrário, sofre −3 dados em todas as rolagens até satisfazer a Compulsão ou a cena terminar. Se beber de outro vampiro, também aplica o teste de Frenesi da Perdição."
+          },
+          {
+            "title": "Exceções e versões",
+            "text": "As Convicções podem ser puramente pessoais; não precisam representar uma cultura mortal ou uma seita."
+          },
+          {
+            "title": "Uso e fonte",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue. Esta consulta apresenta a regra da fonte selecionada; não aplica penalidades automaticamente nem modifica textos pessoais da ficha. História e arquétipos continuam na biblioteca. Os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Blood Sorcery, Celerity and Obfuscate. Learning rituals and powers follows each option’s own requirements."
+          },
+          {
+            "title": "Bane",
+            "text": "Slaking at least 1 Hunger with another vampire’s vitae triggers a hunger frenzy resistance test at Difficulty 2 + Bane Severity. Failure makes the vampire attempt to gorge on vampiric Blood, potentially reaching diablerie. The trigger is slaking Hunger with vitae, not merely another vampire’s presence."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Judgment: must punish someone transgressing the vampire’s personal code by taking blood as vengeance. During the scene, must slake at least 1 Hunger from someone, friend or foe, acting against one of the vampire’s Convictions. Otherwise suffers −3 dice on all rolls until the Compulsion is satisfied or the scene ends. Feeding on another vampire also triggers the Bane’s frenzy test."
+          },
+          {
+            "title": "Exceptions and versions",
+            "text": "Convictions may be purely personal; they need not represent a mortal culture or sect."
+          },
+          {
+            "title": "Use and source",
+            "text": "Bane Severity depends on Blood Potency. This reference presents the selected source’s rule; it does not automatically apply penalties or alter personal sheet text. History and archetypes remain in the library. Powers have their own descriptions."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "clan-ministry",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Ministério",
+    "en": "Ministry"
+  },
+  "aliases": [
+    "Ministério",
+    "Ministry",
+    "The Ministry",
+    "Setitas",
+    "Seguidores de Set",
+    "Followers of Set"
+  ],
+  "versions": [
+    {
+      "id": "clan-ministry-anarch-v5",
+      "book": "anarch-v5",
+      "sourceTitle": "Anarch V5, páginas do PDF 188–189",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "7b48f6087171129b56115831bd8ef71bc52db95fd05e1adc04fed12ace724b84",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": null
+        },
+        {
+          "pdfPage": 189,
+          "printedPage": null
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Ofuscação, Presença e Proteanismo. Ocultação, influência emocional e transformação corporal; a tradição do clã pode chamar Proteanismo de Serpentis."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "A luz direta, natural ou artificial, faz o Ministro recuar. Sofre uma penalidade igual à Gravidade da Perdição em todas as paradas quando exposto à luz dirigida diretamente a ele. Também acrescenta a Gravidade da Perdição ao dano Agravado sofrido por luz solar."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Transgressão: sofre −2 dados em todas as paradas que não se relacionem a tentar alguém, incluindo a si mesmo, a quebrar um Princípio da Crônica ou uma Convicção pessoal. Precisa causar ao menos 1 Mácula com essa transgressão para encerrar a Compulsão."
+          },
+          {
+            "title": "Uso e fonte",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue. Esta consulta apresenta a regra da fonte selecionada; não aplica penalidades automaticamente nem modifica textos pessoais da ficha. História e arquétipos continuam na biblioteca. Os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Obfuscate, Presence and Protean. Concealment, emotional influence and bodily transformation; clan tradition may call Protean Serpentis."
+          },
+          {
+            "title": "Bane",
+            "text": "Direct light, natural or artificial, makes the Minister recoil. Suffers a penalty equal to Bane Severity on all pools when subjected to light directed straight at the vampire. Also adds Bane Severity to Aggravated damage from sunlight."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Transgression: suffers −2 dice on all pools unrelated to enticing someone, including the vampire, to break a Chronicle Tenet or personal Conviction. Must cause at least 1 Stain through that transgression to end the Compulsion."
+          },
+          {
+            "title": "Use and source",
+            "text": "Bane Severity depends on Blood Potency. This reference presents the selected source’s rule; it does not automatically apply penalties or alter personal sheet text. History and archetypes remain in the library. Powers have their own descriptions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "clan-ministry-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 35–36",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 37,
+          "printedPage": 35
+        },
+        {
+          "pdfPage": 38,
+          "printedPage": 36
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Ofuscação, Presença e Proteanismo. Ocultação, influência emocional e transformação corporal; a tradição do clã pode chamar Proteanismo de Serpentis."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "Luz direta, natural ou artificial, faz o Ministro recuar. Sob luz brilhante apontada diretamente para ele, sofre uma penalidade igual à Gravidade da Perdição em todas as paradas. Também acrescenta a Gravidade da Perdição ao dano Agravado recebido da luz solar."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Transgressão: sofre −2 dados em todas as paradas que não se relacionem a tentar alguém, incluindo a si mesmo, a quebrar um Princípio da Crônica ou uma Convicção pessoal. Precisa causar ao menos 1 Mácula com essa transgressão para encerrar a Compulsão."
+          },
+          {
+            "title": "Uso e fonte",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue. Esta consulta apresenta a regra da fonte selecionada; não aplica penalidades automaticamente nem modifica textos pessoais da ficha. História e arquétipos continuam na biblioteca. Os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Obfuscate, Presence and Protean. Concealment, emotional influence and bodily transformation; clan tradition may call Protean Serpentis."
+          },
+          {
+            "title": "Bane",
+            "text": "Direct light, natural or artificial, makes the Minister recoil. Bright light directed straight at the vampire imposes a penalty equal to Bane Severity on all pools. Also adds Bane Severity to Aggravated damage taken from sunlight."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Transgression: suffers −2 dice on all pools unrelated to enticing someone, including the vampire, to break a Chronicle Tenet or personal Conviction. Must cause at least 1 Stain through that transgression to end the Compulsion."
+          },
+          {
+            "title": "Use and source",
+            "text": "Bane Severity depends on Blood Potency. This reference presents the selected source’s rule; it does not automatically apply penalties or alter personal sheet text. History and archetypes remain in the library. Powers have their own descriptions."
+          }
+        ]
+      }
+    }
+  ]
+}
