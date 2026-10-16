@@ -162,3 +162,30 @@ Este bloco acrescenta consulta e exportação dessas regras. Aplicação guiada 
 Suspeito/Status, limites de Potência, poderes temporários e Qualidades/Defeitos
 específicos continua pendente; não declara esses fluxos completos. Gerador
 `review-core-clanless.py`; teste `check-core-clanless.mjs`, preservando 343 entradas.
+
+## Nono bloco: 16 escolhas especiais de Sangue-Ralo
+
+PDF 153, 184–186: oito Qualidades e oito Defeitos, sem valor em pontos. O seletor
+controla 1–3 de cada, balanceamento, incompatibilidades e pré-requisitos. Maldição
+de Clã oferece as sete Perdições do Básico, com Gravidade fixa 1 e sem conceder
+Compulsão; Brujah/Gangrel exigem Temperamento Bestial e Tremere exige Sangue
+Agregador. Afinidade oferece as dez Disciplinas do Básico. Variantes de fontes
+adicionais ainda precisam ser revisadas e integradas.
+
+Afinidade e Alquimista concedem o primeiro ponto na etapa correspondente, sem
+duplicar compras existentes. A procedência do ponto é salva. A remoção exige
+primeiro desfazer poderes/compras dependentes; remover pré-requisito de outra
+escolha também é bloqueado. Dados antigos e itens personalizados não recebem
+benefícios retroativos silenciosamente.
+
+As escolhas não entram no orçamento comum nem nas compras de XP. Selecionar
+Sangue-Ralo inicia Potência 0 e uma Geração 14–16; fichas antigas discrepantes
+recebem alerta. Potência de Sangue não é comprada com XP enquanto Sangue-Ralo.
+Fragilidade Mortal bloqueia recuperação vampírica e inclui cura mortal completa
+conferida no PDF 129. Os efeitos narrativos e de cena, como Bebedor Diurno e
+Dependência de Vitae, continuam conduzidos pelo jogador e Narrador.
+
+PDF e jogo mostram a versão escolhida e as regras completas, sem representar
+escolhas especiais como pontos. Testes: `check-thin-blood-choices.mjs`, mais os
+fluxos de celular/computador com salvamentos atrasados, recarregamento e PDFs nos
+dois idiomas. Gerador: `review-core-thin-traits.py`.

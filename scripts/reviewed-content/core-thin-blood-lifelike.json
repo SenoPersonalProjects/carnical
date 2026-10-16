@@ -1,0 +1,69 @@
+{
+  "id": "thin-blood-lifelike",
+  "kind": "merit",
+  "level": 0,
+  "names": {
+    "pt-BR": "Semblante de Vida",
+    "en": "Lifelike"
+  },
+  "aliases": [
+    "Semblante de Vida",
+    "Lifelike"
+  ],
+  "versions": [
+    {
+      "id": "thin-blood-lifelike-core-v5",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit",
+        "incompatibleItems": [
+          "thin-blood-dead-flesh"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Possui batimento cardíaco, pode comer e desfrutar de atividades sexuais como mortal. Exames médicos noturnos, exceto os mais avançados, não revelam nada incomum."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Has a heartbeat, can eat and enjoy sexual activity like a mortal. Medical examinations at night reveal nothing unusual except through the most advanced methods."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          }
+        ]
+      }
+    }
+  ]
+}

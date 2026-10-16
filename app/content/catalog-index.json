@@ -10973,6 +10973,870 @@
           "sourceTitle": "Livro Básico V5, pp. 111, 113"
         }
       ]
+    },
+    {
+      "id": "thin-blood-alchemist",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Alquimista Sangue-Ralo",
+        "en": "Thin-blood Alchemist"
+      },
+      "aliases": [
+        "Alquimista Sangue-Ralo",
+        "Thin-blood Alchemist"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-alchemist-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "grants": {
+            "discipline": "Alquimia do Sangue-Fraco",
+            "level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-anarch-comrades",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Camaradas Anarchs",
+        "en": "Anarch Comrades"
+      },
+      "aliases": [
+        "Camaradas Anarchs",
+        "Anarch Comrades"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-anarch-comrades-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "incompatibleItems": [
+              "thin-blood-shunned-anarchs"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-baby-teeth",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Dente de Leite",
+        "en": "Baby Teeth"
+      },
+      "aliases": [
+        "Dente de Leite",
+        "Baby Teeth"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-baby-teeth-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-bestial-temper",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Temperamento Bestial",
+        "en": "Bestial Temper"
+      },
+      "aliases": [
+        "Temperamento Bestial",
+        "Bestial Temper"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-bestial-temper-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-camarilla-branded",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Marcado pela Camarilla",
+        "en": "Camarilla Branded"
+      },
+      "aliases": [
+        "Marcado pela Camarilla",
+        "Camarilla Branded"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-camarilla-branded-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-camarilla-contact",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Contato na Camarilla",
+        "en": "Camarilla Contact"
+      },
+      "aliases": [
+        "Contato na Camarilla",
+        "Camarilla Contact"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-camarilla-contact-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-catenating-blood",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Sangue Agregador",
+        "en": "Catenating Blood"
+      },
+      "aliases": [
+        "Sangue Agregador",
+        "Catenating Blood"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-catenating-blood-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-clan-curse",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Maldição de Clã",
+        "en": "Clan Curse"
+      },
+      "aliases": [
+        "Maldição de Clã",
+        "Clan Curse",
+        "Maldição de Clã — Brujah",
+        "Clan Curse — Brujah",
+        "Maldição de Clã — Gangrel",
+        "Clan Curse — Gangrel",
+        "Maldição de Clã — Malkaviano",
+        "Clan Curse — Malkavian",
+        "Maldição de Clã — Nosferatu",
+        "Clan Curse — Nosferatu",
+        "Maldição de Clã — Toreador",
+        "Clan Curse — Toreador",
+        "Maldição de Clã — Tremere",
+        "Clan Curse — Tremere",
+        "Maldição de Clã — Ventrue",
+        "Clan Curse — Ventrue"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-clan-curse-core-v5-brujah",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Brujah",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "items": [
+              "thin-blood-bestial-temper"
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Brujah",
+            "en": "Clan Curse — Brujah"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-gangrel",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Gangrel",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "items": [
+              "thin-blood-bestial-temper"
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Gangrel",
+            "en": "Clan Curse — Gangrel"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-malkavian",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Malkaviano",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Malkaviano",
+            "en": "Clan Curse — Malkavian"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-nosferatu",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Nosferatu",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Nosferatu",
+            "en": "Clan Curse — Nosferatu"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-toreador",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Toreador",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Toreador",
+            "en": "Clan Curse — Toreador"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-tremere",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Tremere",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "items": [
+              "thin-blood-catenating-blood"
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Tremere",
+            "en": "Clan Curse — Tremere"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-ventrue",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Ventrue",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Ventrue",
+            "en": "Clan Curse — Ventrue"
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-day-drinker",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Bebedor Diurno",
+        "en": "Day Drinker"
+      },
+      "aliases": [
+        "Bebedor Diurno",
+        "Day Drinker"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-day-drinker-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-dead-flesh",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Carne Morta",
+        "en": "Dead Flesh"
+      },
+      "aliases": [
+        "Carne Morta",
+        "Dead Flesh"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-dead-flesh-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "incompatibleItems": [
+              "thin-blood-lifelike"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-discipline-affinity",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Afinidade com Disciplina",
+        "en": "Discipline Affinity"
+      },
+      "aliases": [
+        "Afinidade com Disciplina",
+        "Discipline Affinity",
+        "Afinidade com Disciplina — Animalismo",
+        "Discipline Affinity — Animalism",
+        "Afinidade com Disciplina — Auspícios",
+        "Discipline Affinity — Auspex",
+        "Afinidade com Disciplina — Celeridade",
+        "Discipline Affinity — Celerity",
+        "Afinidade com Disciplina — Dominação",
+        "Discipline Affinity — Dominate",
+        "Afinidade com Disciplina — Fortitude",
+        "Discipline Affinity — Fortitude",
+        "Afinidade com Disciplina — Ofuscação",
+        "Discipline Affinity — Obfuscate",
+        "Afinidade com Disciplina — Potência",
+        "Discipline Affinity — Potence",
+        "Afinidade com Disciplina — Presença",
+        "Discipline Affinity — Presence",
+        "Afinidade com Disciplina — Proteanismo",
+        "Discipline Affinity — Protean",
+        "Afinidade com Disciplina — Feitiçaria de Sangue",
+        "Discipline Affinity — Blood Sorcery"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-animalism",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Animalismo",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Animalismo",
+            "en": "Discipline Affinity — Animalism"
+          },
+          "grants": {
+            "discipline": "Animalismo",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-auspex",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Auspícios",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Auspícios",
+            "en": "Discipline Affinity — Auspex"
+          },
+          "grants": {
+            "discipline": "Auspícios",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-celerity",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Celeridade",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Celeridade",
+            "en": "Discipline Affinity — Celerity"
+          },
+          "grants": {
+            "discipline": "Celeridade",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-dominate",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Dominação",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Dominação",
+            "en": "Discipline Affinity — Dominate"
+          },
+          "grants": {
+            "discipline": "Dominação",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-fortitude",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Fortitude",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Fortitude",
+            "en": "Discipline Affinity — Fortitude"
+          },
+          "grants": {
+            "discipline": "Fortitude",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-obfuscate",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Ofuscação",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Ofuscação",
+            "en": "Discipline Affinity — Obfuscate"
+          },
+          "grants": {
+            "discipline": "Ofuscação",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-potence",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Potência",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Potência",
+            "en": "Discipline Affinity — Potence"
+          },
+          "grants": {
+            "discipline": "Potência",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-presence",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Presença",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Presença",
+            "en": "Discipline Affinity — Presence"
+          },
+          "grants": {
+            "discipline": "Presença",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-protean",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Proteanismo",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Proteanismo",
+            "en": "Discipline Affinity — Protean"
+          },
+          "grants": {
+            "discipline": "Proteanismo",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-blood-sorcery",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Feitiçaria de Sangue",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Feitiçaria de Sangue",
+            "en": "Discipline Affinity — Blood Sorcery"
+          },
+          "grants": {
+            "discipline": "Feitiçaria de Sangue",
+            "level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-lifelike",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Semblante de Vida",
+        "en": "Lifelike"
+      },
+      "aliases": [
+        "Semblante de Vida",
+        "Lifelike"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-lifelike-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "incompatibleItems": [
+              "thin-blood-dead-flesh"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-mortal-frailty",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Fragilidade Mortal",
+        "en": "Mortal Frailty"
+      },
+      "aliases": [
+        "Fragilidade Mortal",
+        "Mortal Frailty"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-mortal-frailty-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 126, 127, 151, 182, 183",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "incompatibleItems": [
+              "thin-blood-vampiric-resilience"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-shunned-anarchs",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Segregado pelos Anarchs",
+        "en": "Shunned by the Anarchs"
+      },
+      "aliases": [
+        "Segregado pelos Anarchs",
+        "Shunned by the Anarchs"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-shunned-anarchs-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "incompatibleItems": [
+              "thin-blood-anarch-comrades"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-vampiric-resilience",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Resiliência Vampírica",
+        "en": "Vampiric Resilience"
+      },
+      "aliases": [
+        "Resiliência Vampírica",
+        "Vampiric Resilience"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-vampiric-resilience-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "incompatibleItems": [
+              "thin-blood-mortal-frailty"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-vitae-dependency",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Dependência de Vitae",
+        "en": "Vitae Dependency"
+      },
+      "aliases": [
+        "Dependência de Vitae",
+        "Vitae Dependency"
+      ],
+      "level": 0,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-vitae-dependency-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          }
+        }
+      ]
     }
   ]
 }

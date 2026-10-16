@@ -48,6 +48,13 @@ try{
  const clan=catalog.entries.find(entry=>entry.id==="clan-lasombra"),clanVersion=clan.versions.find(version=>version.book==="players-guide-v5");let clanRequests=0;
  globalThis.fetch=async url=>{const params=new URL(url,"http://fixture.local").searchParams;clanRequests++;assert.equal(params.get("id"),clan.id);assert.equal(params.get("book"),clanVersion.book);return Response.json({id:clan.id,name:clan.names.en,source:clanVersion.sourceTitle,sections:clanVersion.descriptions.en})};
  await createCharacterPdf(characterSnapshot(versioned),"en");assert.equal(clanRequests,1);
+ const oldChoice=structuredClone(versioned);oldChoice.clan="Personalizado";oldChoice.data.customClan="Sangue-Ralo";oldChoice.data.merits=[{name:"Afinidade com Disciplina — Fortitude",dots:0,source:"core_v5_ptbr",notes:"Escolha antiga preservada"}];
+ const affinity=catalog.entries.find(entry=>entry.id==="thin-blood-discipline-affinity");
+ if(affinity){const selected=affinity.versions.find(version=>version.grants?.discipline==="Fortitude");let reads=0;
+  globalThis.fetch=async url=>{const params=new URL(url,"http://fixture.local").searchParams;assert.equal(params.get("id"),affinity.id);assert.equal(params.get("version"),selected.id);reads++;return Response.json({id:affinity.id,name:selected.names.en,source:selected.sourceTitle,sections:selected.descriptions.en})};
+  await createCharacterPdf(characterSnapshot(oldChoice),"en");assert.equal(reads,1);
+  oldChoice.data.merits[0].name="Afinidade com Disciplina";globalThis.fetch=async()=>{throw new Error("Ambiguous old choice must not select a Discipline")};await createCharacterPdf(characterSnapshot(oldChoice),"en");
+ }
  globalThis.fetch=async()=>new Response("Unavailable",{status:503});await assert.rejects(()=>createCharacterPdf(characterSnapshot(value),"en"),/Missing item rules/);
  globalThis.fetch=async url=>{
   const params=new URL(url,"http://fixture.local").searchParams;

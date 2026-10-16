@@ -1,0 +1,77 @@
+{
+  "id": "thin-blood-mortal-frailty",
+  "kind": "flaw",
+  "level": 0,
+  "names": {
+    "pt-BR": "Fragilidade Mortal",
+    "en": "Mortal Frailty"
+  },
+  "aliases": [
+    "Fragilidade Mortal",
+    "Mortal Frailty"
+  ],
+  "versions": [
+    {
+      "id": "thin-blood-mortal-frailty-core-v5",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 126, 127, 151, 182, 183",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 128,
+          "printedPage": 126
+        },
+        {
+          "pdfPage": 129,
+          "printedPage": 127
+        },
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 185,
+          "printedPage": 183
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-flaw",
+        "incompatibleItems": [
+          "thin-blood-vampiric-resilience"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Não pode realizar Checagens de Sangue para recuperar dano; cura-se como mortal. No início da sessão, remove até Vigor de dano Superficial de Vitalidade. Para converter dano Agravado em Superficial, alguém com Medicina rola Inteligência + Medicina contra Dificuldade igual ao dano Agravado total; tratar a si mesmo acrescenta +1 à Dificuldade. Converte no máximo metade de Medicina, arredondada para cima, ao longo da noite. O Narrador decide se os ferimentos restantes exigem outro dia de tratamento ou hospitalização. Hospitalização dispensa novas rolagens, mas a cura completa leva semanas iguais ao dano Agravado total, com ajustes narrativos a critério do Narrador."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Cannot make Rouse Checks to mend damage; heals as a mortal. At the start of a session, remove up to Stamina Superficial Health damage. To convert Aggravated damage to Superficial, someone with Medicine rolls Intelligence + Medicine against Difficulty equal to total Aggravated damage; self-treatment adds +1 Difficulty. Convert at most half Medicine, rounded up, over the night. The Storyteller decides whether remaining injuries require another day of treatment or hospitalization. Hospitalization needs no further rolls, but complete healing takes weeks equal to total Aggravated damage, with narrative adjustments at the Storyteller’s discretion."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          }
+        ]
+      }
+    }
+  ]
+}

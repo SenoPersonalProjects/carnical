@@ -1,0 +1,74 @@
+{
+  "id": "thin-blood-camarilla-branded",
+  "kind": "flaw",
+  "level": 0,
+  "names": {
+    "pt-BR": "Marcado pela Camarilla",
+    "en": "Camarilla Branded"
+  },
+  "aliases": [
+    "Marcado pela Camarilla",
+    "Camarilla Branded"
+  ],
+  "versions": [
+    {
+      "id": "thin-blood-camarilla-branded-core-v5",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 185,
+          "printedPage": 183
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-flaw"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Carrega uma marca incurável imposta por um Xerife ou outra autoridade da Camarilla para lembrar seu lugar. A seita vigia possíveis transgressões e pode caçá-lo por desprezo ou capricho. A marca não é apenas uma tatuagem comum que desaparece com recuperação."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Exceções",
+            "text": "Pode possuir Contato na Camarilla ao mesmo tempo. O livro permite explicitamente essa combinação."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Bears an incurable brand imposed by a Sheriff or another Camarilla authority as a reminder of your place. The sect watches for transgressions and may hunt you out of contempt or whim. This is not an ordinary tattoo that disappears through mending."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Exceptions",
+            "text": "May also possess Camarilla Contact. The book explicitly permits this combination."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -35874,6 +35874,2180 @@
           }
         }
       ]
+    },
+    {
+      "id": "thin-blood-alchemist",
+      "kind": "merit",
+      "level": 0,
+      "names": {
+        "pt-BR": "Alquimista Sangue-Ralo",
+        "en": "Thin-blood Alchemist"
+      },
+      "aliases": [
+        "Alquimista Sangue-Ralo",
+        "Thin-blood Alchemist"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-alchemist-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Ganha 1 ponto em Alquimia do Sangue-Fraco e uma fórmula. Pode adquirir pontos e fórmulas adicionais com XP normalmente. Escolha a fórmula na etapa Disciplinas; ela não é uma fórmula genérica capaz de reproduzir qualquer poder."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Gain 1 dot of Thin-blood Alchemy and one formula. Additional dots and formulae may be purchased normally with XP. Choose the formula in the Disciplines step; it is not one generic formula capable of reproducing any power."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          },
+          "grants": {
+            "discipline": "Alquimia do Sangue-Fraco",
+            "level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-anarch-comrades",
+      "kind": "merit",
+      "level": 0,
+      "names": {
+        "pt-BR": "Camaradas Anarchs",
+        "en": "Anarch Comrades"
+      },
+      "aliases": [
+        "Camaradas Anarchs",
+        "Anarch Comrades"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-anarch-comrades-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "incompatibleItems": [
+              "thin-blood-shunned-anarchs"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Uma coterie Anarch tolera sua presença ou o trata como mascote. Seus integrantes atuam em conjunto como um Mawla Anarch de 1 ponto, desde que siga a linha política deles. Inclua-os no Mapa de Relacionamentos."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "An Anarch coterie tolerates your presence or treats you as a pet. Together its members act as a one-dot Anarch Mawla as long as you follow their political line. Add them to the Relationship Map."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-baby-teeth",
+      "kind": "flaw",
+      "level": 0,
+      "names": {
+        "pt-BR": "Dente de Leite",
+        "en": "Baby Teeth"
+      },
+      "aliases": [
+        "Dente de Leite",
+        "Baby Teeth"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-baby-teeth-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Não desenvolveu presas úteis para se alimentar. Precisa cortar a vítima ou extrair o sangue com seringa."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Never developed fangs useful for feeding. Must cut the victim or extract blood with a syringe."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-bestial-temper",
+      "kind": "flaw",
+      "level": 0,
+      "names": {
+        "pt-BR": "Temperamento Bestial",
+        "en": "Bestial Temper"
+      },
+      "aliases": [
+        "Temperamento Bestial",
+        "Bestial Temper"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-bestial-temper-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "A Besta o atormenta como a um vampiro pleno. Precisa testar para Frenesi conforme as regras normais dos vampiros; perde a exceção de não entrar naturalmente em Frenesi dos Sangues-Ralos."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "The Beast torments you like a full vampire. Test for frenzy under normal vampire rules; the Thin-blood exception against natural frenzy no longer applies."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-camarilla-branded",
+      "kind": "flaw",
+      "level": 0,
+      "names": {
+        "pt-BR": "Marcado pela Camarilla",
+        "en": "Camarilla Branded"
+      },
+      "aliases": [
+        "Marcado pela Camarilla",
+        "Camarilla Branded"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-camarilla-branded-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Carrega uma marca incurável imposta por um Xerife ou outra autoridade da Camarilla para lembrar seu lugar. A seita vigia possíveis transgressões e pode caçá-lo por desprezo ou capricho. A marca não é apenas uma tatuagem comum que desaparece com recuperação."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Exceções",
+                "text": "Pode possuir Contato na Camarilla ao mesmo tempo. O livro permite explicitamente essa combinação."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Bears an incurable brand imposed by a Sheriff or another Camarilla authority as a reminder of your place. The sect watches for transgressions and may hunt you out of contempt or whim. This is not an ordinary tattoo that disappears through mending."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Exceptions",
+                "text": "May also possess Camarilla Contact. The book explicitly permits this combination."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-camarilla-contact",
+      "kind": "merit",
+      "level": 0,
+      "names": {
+        "pt-BR": "Contato na Camarilla",
+        "en": "Camarilla Contact"
+      },
+      "aliases": [
+        "Contato na Camarilla",
+        "Camarilla Contact"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-camarilla-contact-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Um recrutador promete admissão e a chance de se tornar um vampiro pleno. Em troca, você vigia, relata suas atividades e as da coterie e aceita as tarefas solicitadas. É o equivalente a um Mawla da Camarilla de 1 ponto que o trata mal. Inclua-o no Mapa de Relacionamentos."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Exceções",
+                "text": "Pode coexistir com Marcado pela Camarilla."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "A recruiter promises admission and a chance to become a full vampire. In exchange, watch, report your own and your coterie’s activities and accept assigned tasks. Equivalent to a one-dot Camarilla Mawla who treats you badly. Add the contact to the Relationship Map."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Exceptions",
+                "text": "May coexist with Camarilla Branded."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-catenating-blood",
+      "kind": "merit",
+      "level": 0,
+      "names": {
+        "pt-BR": "Sangue Agregador",
+        "en": "Catenating Blood"
+      },
+      "aliases": [
+        "Sangue Agregador",
+        "Catenating Blood"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-catenating-blood-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Pode criar Laços de Sangue e realizar o Abraço como um vampiro pleno. Todo vampiro que criar desse modo será Sangue-Ralo."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Can create Blood Bonds and perform the Embrace like a full vampire. Every vampire created this way is a Thin-blood."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-clan-curse",
+      "kind": "flaw",
+      "level": 0,
+      "names": {
+        "pt-BR": "Maldição de Clã",
+        "en": "Clan Curse"
+      },
+      "aliases": [
+        "Maldição de Clã",
+        "Clan Curse",
+        "Maldição de Clã — Brujah",
+        "Clan Curse — Brujah",
+        "Maldição de Clã — Gangrel",
+        "Clan Curse — Gangrel",
+        "Maldição de Clã — Malkaviano",
+        "Clan Curse — Malkavian",
+        "Maldição de Clã — Nosferatu",
+        "Clan Curse — Nosferatu",
+        "Maldição de Clã — Toreador",
+        "Clan Curse — Toreador",
+        "Maldição de Clã — Tremere",
+        "Clan Curse — Tremere",
+        "Maldição de Clã — Ventrue",
+        "Clan Curse — Ventrue"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-clan-curse-core-v5-brujah",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Brujah",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            },
+            {
+              "pdfPage": 69,
+              "printedPage": 67
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "items": [
+              "thin-blood-bestial-temper"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Vestígios do Sangue de seu Senhor impõem uma Perdição de Clã escolhida, com Gravidade da Perdição 1. Brujah ou Gangrel exigem Temperamento Bestial; Tremere exige Sangue Agregador."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Perdição escolhida",
+                "text": "Aplique a Perdição abaixo com Gravidade fixa 1. Não recebe a Compulsão do clã.\n\nSeu Sangue ferve com fúria contida. Subtraia dados iguais à Gravidade da Perdição de qualquer parada para resistir a frenesi de fúria. Essa redução não pode deixar a parada com menos de 1 dado. A regra não estende essa penalidade aos testes de frenesi de fome ou terror."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Traces of the sire’s Blood impose a chosen clan Bane at Bane Severity 1. Brujah or Gangrel requires Bestial Temper; Tremere requires Catenating Blood."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Bane",
+                "text": "Apply the following Bane at fixed Severity 1. Does not gain the clan Compulsion.\n\nTheir Blood boils with suppressed anger. Subtract Bane Severity dice from any pool resisting fury frenzy. This reduction cannot leave fewer than 1 die. This rule does not extend that penalty to hunger or terror frenzy tests."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Brujah",
+            "en": "Clan Curse — Brujah"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-gangrel",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Gangrel",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            },
+            {
+              "pdfPage": 75,
+              "printedPage": 73
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "items": [
+              "thin-blood-bestial-temper"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Vestígios do Sangue de seu Senhor impõem uma Perdição de Clã escolhida, com Gravidade da Perdição 1. Brujah ou Gangrel exigem Temperamento Bestial; Tremere exige Sangue Agregador."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Perdição escolhida",
+                "text": "Aplique a Perdição abaixo com Gravidade fixa 1. Não recebe a Compulsão do clã.\n\nDurante um frenesi, manifesta aspectos animalescos em número igual à Gravidade da Perdição: aparência, odor ou comportamento. Persistem por mais uma noite após o frenesi. Cada aspecto reduz um Atributo em 1 ponto; o Narrador escolhe conforme o traço. Língua bifurcada ou odor de urso podem reduzir Carisma; orelhas de morcego podem reduzir Determinação pela distração. Na dúvida, reduza Inteligência ou Manipulação. Ao Curtir a Onda voluntariamente, pode escolher manifestar apenas um aspecto e sofrer apenas uma penalidade em um Atributo."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Traces of the sire’s Blood impose a chosen clan Bane at Bane Severity 1. Brujah or Gangrel requires Bestial Temper; Tremere requires Catenating Blood."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Bane",
+                "text": "Apply the following Bane at fixed Severity 1. Does not gain the clan Compulsion.\n\nDuring frenzy, manifest animal features equal in number to Bane Severity: physical traits, odors or behavior. They last one additional night after the frenzy. Each feature reduces one Attribute by 1; the Storyteller chooses according to the feature. A forked tongue or bear odor may reduce Charisma; bat ears may reduce Resolve through distraction. When in doubt, reduce Intelligence or Manipulation. When voluntarily Riding the Wave, choose to manifest just one feature and suffer only one Attribute penalty."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Gangrel",
+            "en": "Clan Curse — Gangrel"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-malkavian",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Malkaviano",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            },
+            {
+              "pdfPage": 81,
+              "printedPage": 79
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Vestígios do Sangue de seu Senhor impõem uma Perdição de Clã escolhida, com Gravidade da Perdição 1. Brujah ou Gangrel exigem Temperamento Bestial; Tremere exige Sangue Agregador."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Perdição escolhida",
+                "text": "Aplique a Perdição abaixo com Gravidade fixa 1. Não recebe a Compulsão do clã.\n\nA aflição sobrenatural pode se manifestar como delírios, visões de clareza terrível ou outra experiência definida na criação pelo jogador e Narrador. Ao sofrer uma Falha Bestial ou uma Compulsão, aplique uma penalidade igual à Gravidade da Perdição a uma categoria de paradas — Física, Social ou Mental — durante toda a cena. A categoria e a natureza da aflição são definidas na criação. Essa penalidade se soma às penalidades da própria Compulsão."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Traces of the sire’s Blood impose a chosen clan Bane at Bane Severity 1. Brujah or Gangrel requires Bestial Temper; Tremere requires Catenating Blood."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Bane",
+                "text": "Apply the following Bane at fixed Severity 1. Does not gain the clan Compulsion.\n\nThe supernatural affliction may manifest as delusions, visions of terrible clarity or another experience defined at creation by player and Storyteller. When suffering a Bestial Failure or a Compulsion, apply a Bane Severity penalty to one pool category — Physical, Social or Mental — for the entire scene. Define the category and nature of the affliction at creation. This penalty stacks with the Compulsion’s own penalties."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Malkaviano",
+            "en": "Clan Curse — Malkavian"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-nosferatu",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Nosferatu",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            },
+            {
+              "pdfPage": 87,
+              "printedPage": 85
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Vestígios do Sangue de seu Senhor impõem uma Perdição de Clã escolhida, com Gravidade da Perdição 1. Brujah ou Gangrel exigem Temperamento Bestial; Tremere exige Sangue Agregador."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Perdição escolhida",
+                "text": "Aplique a Perdição abaixo com Gravidade fixa 1. Não recebe a Compulsão do clã.\n\nPossui o Defeito Repulsivo (−2) e nunca pode aumentar seu valor na Qualidade Visual. Tentativas de esconder suas deformidades sofrem uma penalidade de dados igual à Gravidade da Perdição, incluindo poderes como Máscara de Mil Faces e Disfarce do Impostor. Ser visto não é, por si só, uma quebra automática da Máscara: a maioria parece grotesca e aterrorizante, mas nem sempre de modo obviamente sobrenatural."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Traces of the sire’s Blood impose a chosen clan Bane at Bane Severity 1. Brujah or Gangrel requires Bestial Temper; Tremere requires Catenating Blood."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Bane",
+                "text": "Apply the following Bane at fixed Severity 1. Does not gain the clan Compulsion.\n\nHas the Repulsive (−2) Flaw and can never increase their Looks Merit rating. Attempts to hide their deformities suffer a Bane Severity dice penalty, including powers such as Mask of a Thousand Faces and Impostor’s Guise. Being seen is not by itself an automatic Masquerade breach: most appear grotesque and frightening, but not always obviously supernatural."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Nosferatu",
+            "en": "Clan Curse — Nosferatu"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-toreador",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Toreador",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            },
+            {
+              "pdfPage": 93,
+              "printedPage": 91
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Vestígios do Sangue de seu Senhor impõem uma Perdição de Clã escolhida, com Gravidade da Perdição 1. Brujah ou Gangrel exigem Temperamento Bestial; Tremere exige Sangue Agregador."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Perdição escolhida",
+                "text": "Aplique a Perdição abaixo com Gravidade fixa 1. Não recebe a Compulsão do clã.\n\nSofre na ausência de beleza. Num ambiente que considera menos que belo, reduza suas paradas para acionar Disciplinas em dados iguais à Gravidade da Perdição. O Narrador decide a aplicação conforme o senso estético da personagem, considerando ambiente, roupas e pessoas usadas como fonte de sangue. Mesmo gostos voltados ao grotesco não tornam automaticamente belas todas as ruas comuns. Essa obsessão também faz com que Falhas Bestiais frequentemente provoquem o transe de arrebatamento descrito na Compulsão."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Traces of the sire’s Blood impose a chosen clan Bane at Bane Severity 1. Brujah or Gangrel requires Bestial Temper; Tremere requires Catenating Blood."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Bane",
+                "text": "Apply the following Bane at fixed Severity 1. Does not gain the clan Compulsion.\n\nSuffers in the absence of beauty. In surroundings considered less than beautiful, reduce Discipline activation pools by Bane Severity dice. The Storyteller applies this according to the character’s aesthetic sense, including surroundings, clothing and blood dolls. Even a taste for the grotesque does not make every ordinary street automatically beautiful. This obsession also means Bestial Failures often bring the rapturous trance described by the Compulsion."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Toreador",
+            "en": "Clan Curse — Toreador"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-tremere",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Tremere",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            },
+            {
+              "pdfPage": 99,
+              "printedPage": 97
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "items": [
+              "thin-blood-catenating-blood"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Vestígios do Sangue de seu Senhor impõem uma Perdição de Clã escolhida, com Gravidade da Perdição 1. Brujah ou Gangrel exigem Temperamento Bestial; Tremere exige Sangue Agregador."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Perdição escolhida",
+                "text": "Aplique a Perdição abaixo com Gravidade fixa 1. Não recebe a Compulsão do clã.\n\nDepois da queda de Viena, seu Vitae deixou de criar Laços de Sangue em outros Membros. Isso não impede que o Tremere seja Enlaçado por vampiros de outros clãs. Ainda pode Enlaçar mortais e carniçais, mas formar o Laço exige um número adicional de ingestões de seu Vitae igual à Gravidade da Perdição. Essa é a versão presente no Livro Básico fornecido, sem substituir por uma variante de outro suplemento."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Traces of the sire’s Blood impose a chosen clan Bane at Bane Severity 1. Brujah or Gangrel requires Bestial Temper; Tremere requires Catenating Blood."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Bane",
+                "text": "Apply the following Bane at fixed Severity 1. Does not gain the clan Compulsion.\n\nAfter Vienna’s fall, Tremere Vitae can no longer create Blood Bonds in other Kindred. This does not prevent a Tremere from being Bound by vampires of other clans. Mortals and ghouls can still be Bound, but forming the Bond requires additional drinks of their Vitae equal to Bane Severity. This is the supplied Core Rulebook version, without substituting another supplement’s variant."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Tremere",
+            "en": "Clan Curse — Tremere"
+          }
+        },
+        {
+          "id": "thin-blood-clan-curse-core-v5-ventrue",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183 · Ventrue",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            },
+            {
+              "pdfPage": 104,
+              "printedPage": 102
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Vestígios do Sangue de seu Senhor impõem uma Perdição de Clã escolhida, com Gravidade da Perdição 1. Brujah ou Gangrel exigem Temperamento Bestial; Tremere exige Sangue Agregador."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Perdição escolhida",
+                "text": "Aplique a Perdição abaixo com Gravidade fixa 1. Não recebe a Compulsão do clã.\n\nSó tolera facilmente sangue de mortais de um tipo preferido, definido na personagem: características de origem, aparência, ocupação ou experiência são exemplos. Determinação + Percepção, Dificuldade 4 ou maior, permite identificar se um mortal possui o sangue desejado. Para se alimentar de um mortal fora da preferência, gaste Força de Vontade igual à Gravidade da Perdição para não vomitar o sangue. A preferência não é uma lista universal imposta a todos os Ventrue."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Traces of the sire’s Blood impose a chosen clan Bane at Bane Severity 1. Brujah or Gangrel requires Bestial Temper; Tremere requires Catenating Blood."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Bane",
+                "text": "Apply the following Bane at fixed Severity 1. Does not gain the clan Compulsion.\n\nReadily tolerates only mortal blood of a preferred type defined for the character: background, appearance, occupation or experience are examples. Resolve + Awareness at Difficulty 4 or higher identifies whether a mortal has the desired blood. Feeding from a mortal outside the preference requires spending Willpower equal to Bane Severity to avoid vomiting the blood. The preference is not one universal list imposed on every Ventrue."
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Maldição de Clã — Ventrue",
+            "en": "Clan Curse — Ventrue"
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-day-drinker",
+      "kind": "merit",
+      "level": 0,
+      "names": {
+        "pt-BR": "Bebedor Diurno",
+        "en": "Day Drinker"
+      },
+      "aliases": [
+        "Bebedor Diurno",
+        "Day Drinker"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-day-drinker-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Sob luz solar, sua trilha de Vitalidade é reduzida à metade, arredondada para cima. Fora isso, o sol remove os dons vampíricos, incluindo Disciplinas e benefícios de Vitalidade, mas não causa outro dano. A Fome continua e ainda precisa dormir. Se a redução de Vitalidade deixar o dano atual acima da capacidade, sofre Debilitação ou Torpor conforme o tipo de dano, até sair da luz solar."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "In sunlight, halve the Health track, rounding up. Otherwise sunlight removes vampiric gifts, including Disciplines and Health benefits, but causes no other damage. Hunger continues and sleep is still necessary. If reduced Health falls below current damage, suffer impairment or Torpor according to damage type until out of sunlight."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-dead-flesh",
+      "kind": "flaw",
+      "level": 0,
+      "names": {
+        "pt-BR": "Carne Morta",
+        "en": "Dead Flesh"
+      },
+      "aliases": [
+        "Carne Morta",
+        "Dead Flesh"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-dead-flesh-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "incompatibleItems": [
+              "thin-blood-lifelike"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Sua carne se decompõe continuamente, com tonalidade esverdeada e leve odor de podridão. Qualquer exame médico o identifica imediatamente como morto. Sofre −1 dado em testes Sociais presenciais contra mortais."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Flesh continuously decays, with a greenish tint and faint odor of rot. Any medical examination immediately identifies you as dead. Suffer −1 die on face-to-face Social tests against mortals."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-discipline-affinity",
+      "kind": "merit",
+      "level": 0,
+      "names": {
+        "pt-BR": "Afinidade com Disciplina",
+        "en": "Discipline Affinity"
+      },
+      "aliases": [
+        "Afinidade com Disciplina",
+        "Discipline Affinity",
+        "Afinidade com Disciplina — Animalismo",
+        "Discipline Affinity — Animalism",
+        "Afinidade com Disciplina — Auspícios",
+        "Discipline Affinity — Auspex",
+        "Afinidade com Disciplina — Celeridade",
+        "Discipline Affinity — Celerity",
+        "Afinidade com Disciplina — Dominação",
+        "Discipline Affinity — Dominate",
+        "Afinidade com Disciplina — Fortitude",
+        "Discipline Affinity — Fortitude",
+        "Afinidade com Disciplina — Ofuscação",
+        "Discipline Affinity — Obfuscate",
+        "Afinidade com Disciplina — Potência",
+        "Discipline Affinity — Potence",
+        "Afinidade com Disciplina — Presença",
+        "Discipline Affinity — Presence",
+        "Afinidade com Disciplina — Proteanismo",
+        "Discipline Affinity — Protean",
+        "Afinidade com Disciplina — Feitiçaria de Sangue",
+        "Discipline Affinity — Blood Sorcery"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-animalism",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Animalismo",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Disciplina escolhida",
+                "text": "Animalismo"
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Discipline",
+                "text": "Animalism"
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Animalismo",
+            "en": "Discipline Affinity — Animalism"
+          },
+          "grants": {
+            "discipline": "Animalismo",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-auspex",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Auspícios",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Disciplina escolhida",
+                "text": "Auspícios"
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Discipline",
+                "text": "Auspex"
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Auspícios",
+            "en": "Discipline Affinity — Auspex"
+          },
+          "grants": {
+            "discipline": "Auspícios",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-celerity",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Celeridade",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Disciplina escolhida",
+                "text": "Celeridade"
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Discipline",
+                "text": "Celerity"
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Celeridade",
+            "en": "Discipline Affinity — Celerity"
+          },
+          "grants": {
+            "discipline": "Celeridade",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-dominate",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Dominação",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Disciplina escolhida",
+                "text": "Dominação"
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Discipline",
+                "text": "Dominate"
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Dominação",
+            "en": "Discipline Affinity — Dominate"
+          },
+          "grants": {
+            "discipline": "Dominação",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-fortitude",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Fortitude",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Disciplina escolhida",
+                "text": "Fortitude"
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Discipline",
+                "text": "Fortitude"
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Fortitude",
+            "en": "Discipline Affinity — Fortitude"
+          },
+          "grants": {
+            "discipline": "Fortitude",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-obfuscate",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Ofuscação",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Disciplina escolhida",
+                "text": "Ofuscação"
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Discipline",
+                "text": "Obfuscate"
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Ofuscação",
+            "en": "Discipline Affinity — Obfuscate"
+          },
+          "grants": {
+            "discipline": "Ofuscação",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-potence",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Potência",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Disciplina escolhida",
+                "text": "Potência"
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Discipline",
+                "text": "Potence"
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Potência",
+            "en": "Discipline Affinity — Potence"
+          },
+          "grants": {
+            "discipline": "Potência",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-presence",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Presença",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Disciplina escolhida",
+                "text": "Presença"
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Discipline",
+                "text": "Presence"
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Presença",
+            "en": "Discipline Affinity — Presence"
+          },
+          "grants": {
+            "discipline": "Presença",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-protean",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Proteanismo",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Disciplina escolhida",
+                "text": "Proteanismo"
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Discipline",
+                "text": "Protean"
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Proteanismo",
+            "en": "Discipline Affinity — Protean"
+          },
+          "grants": {
+            "discipline": "Proteanismo",
+            "level": 1
+          }
+        },
+        {
+          "id": "thin-blood-discipline-affinity-core-v5-blood-sorcery",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Feitiçaria de Sangue",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              },
+              {
+                "title": "Disciplina escolhida",
+                "text": "Feitiçaria de Sangue"
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              },
+              {
+                "title": "Chosen Discipline",
+                "text": "Blood Sorcery"
+              }
+            ]
+          },
+          "names": {
+            "pt-BR": "Afinidade com Disciplina — Feitiçaria de Sangue",
+            "en": "Discipline Affinity — Blood Sorcery"
+          },
+          "grants": {
+            "discipline": "Feitiçaria de Sangue",
+            "level": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-lifelike",
+      "kind": "merit",
+      "level": 0,
+      "names": {
+        "pt-BR": "Semblante de Vida",
+        "en": "Lifelike"
+      },
+      "aliases": [
+        "Semblante de Vida",
+        "Lifelike"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-lifelike-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "incompatibleItems": [
+              "thin-blood-dead-flesh"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Possui batimento cardíaco, pode comer e desfrutar de atividades sexuais como mortal. Exames médicos noturnos, exceto os mais avançados, não revelam nada incomum."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Has a heartbeat, can eat and enjoy sexual activity like a mortal. Medical examinations at night reveal nothing unusual except through the most advanced methods."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-mortal-frailty",
+      "kind": "flaw",
+      "level": 0,
+      "names": {
+        "pt-BR": "Fragilidade Mortal",
+        "en": "Mortal Frailty"
+      },
+      "aliases": [
+        "Fragilidade Mortal",
+        "Mortal Frailty"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-mortal-frailty-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 126, 127, 151, 182, 183",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 128,
+              "printedPage": 126
+            },
+            {
+              "pdfPage": 129,
+              "printedPage": 127
+            },
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "incompatibleItems": [
+              "thin-blood-vampiric-resilience"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Não pode realizar Checagens de Sangue para recuperar dano; cura-se como mortal. No início da sessão, remove até Vigor de dano Superficial de Vitalidade. Para converter dano Agravado em Superficial, alguém com Medicina rola Inteligência + Medicina contra Dificuldade igual ao dano Agravado total; tratar a si mesmo acrescenta +1 à Dificuldade. Converte no máximo metade de Medicina, arredondada para cima, ao longo da noite. O Narrador decide se os ferimentos restantes exigem outro dia de tratamento ou hospitalização. Hospitalização dispensa novas rolagens, mas a cura completa leva semanas iguais ao dano Agravado total, com ajustes narrativos a critério do Narrador."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Cannot make Rouse Checks to mend damage; heals as a mortal. At the start of a session, remove up to Stamina Superficial Health damage. To convert Aggravated damage to Superficial, someone with Medicine rolls Intelligence + Medicine against Difficulty equal to total Aggravated damage; self-treatment adds +1 Difficulty. Convert at most half Medicine, rounded up, over the night. The Storyteller decides whether remaining injuries require another day of treatment or hospitalization. Hospitalization needs no further rolls, but complete healing takes weeks equal to total Aggravated damage, with narrative adjustments at the Storyteller’s discretion."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-shunned-anarchs",
+      "kind": "flaw",
+      "level": 0,
+      "names": {
+        "pt-BR": "Segregado pelos Anarchs",
+        "en": "Shunned by the Anarchs"
+      },
+      "aliases": [
+        "Segregado pelos Anarchs",
+        "Shunned by the Anarchs"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-shunned-anarchs-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "incompatibleItems": [
+              "thin-blood-anarch-comrades"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Os Anarchs do domínio o conhecem e evitam, seja por uma lei não escrita violada ou por ter presumido igualdade. Preferem entregá-lo à Camarilla a ouvir seus apelos."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "The domain’s Anarchs know and avoid you, whether for breaking an unwritten rule or presuming equality. They would rather hand you to the Camarilla than hear your appeals."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-vampiric-resilience",
+      "kind": "merit",
+      "level": 0,
+      "names": {
+        "pt-BR": "Resiliência Vampírica",
+        "en": "Vampiric Resilience"
+      },
+      "aliases": [
+        "Resiliência Vampírica",
+        "Vampiric Resilience"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-vampiric-resilience-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 184",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 186,
+              "printedPage": 184
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "incompatibleItems": [
+              "thin-blood-mortal-frailty"
+            ]
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Recebe dano como um vampiro pleno: ferimentos comuns cortantes e perfurantes são Superficiais. Não concede o bônus de Vitalidade do poder Resiliência de Fortitude e não elimina dano Agravado de fogo ou sol."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Takes damage like a full vampire: ordinary cutting and piercing wounds are Superficial. Does not grant the Health bonus from the Fortitude power Resilience and does not remove Aggravated damage from fire or sunlight."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-vitae-dependency",
+      "kind": "flaw",
+      "level": 0,
+      "names": {
+        "pt-BR": "Dependência de Vitae",
+        "en": "Vitae Dependency"
+      },
+      "aliases": [
+        "Dependência de Vitae",
+        "Vitae Dependency"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-vitae-dependency-core-v5",
+          "book": "core-v5",
+          "level": 0,
+          "sourceTitle": "Livro Básico V5, pp. 151, 182, 183",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 153,
+              "printedPage": 151
+            },
+            {
+              "pdfPage": 184,
+              "printedPage": 182
+            },
+            {
+              "pdfPage": 185,
+              "printedPage": 183
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw"
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Sistema",
+                "text": "Precisa beber Sangue vampírico suficiente para saciar pelo menos 1 Fome por semana. Sem isso, perde a capacidade de ganhar e usar quaisquer Disciplinas, incluindo Alquimia do Sangue-Fraco. Recupera os poderes assim que sacia ao menos 1 Fome com Vitae."
+              },
+              {
+                "title": "Escolhas e custo",
+                "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+              }
+            ],
+            "en": [
+              {
+                "title": "System",
+                "text": "Must drink enough vampire Blood to slake at least 1 Hunger each week. Otherwise loses the ability to gain or use any Disciplines, including Thin-blood Alchemy. Powers return as soon as at least 1 Hunger is slaked with Vitae."
+              },
+              {
+                "title": "Choices and cost",
+                "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 import raw from "./catalog-index.json";
 import type { ContentKind,ContentVersion } from "./types";
-export type ContentIndexEntry={id:string;legacyIds?:string[];kind:ContentKind;names:Record<"pt-BR"|"en",string>;aliases:string[];discipline?:string;level?:number;books:string[];versions?:Array<Pick<ContentVersion,"id"|"book"|"sourceTitle"|"level"|"requirements"|"names">>};
+export type ContentIndexEntry={id:string;legacyIds?:string[];kind:ContentKind;names:Record<"pt-BR"|"en",string>;aliases:string[];discipline?:string;level?:number;books:string[];versions?:Array<Pick<ContentVersion,"id"|"book"|"sourceTitle"|"level"|"requirements"|"names"|"grants">>};
 export const CONTENT_INDEX=raw.entries as ContentIndexEntry[];
 export function contentById(id:string){const matches=CONTENT_INDEX.filter(entry=>entry.id===id||entry.legacyIds?.includes(id));return matches.length===1?matches[0]:undefined}
 export const foldContent=(value:string)=>value.normalize("NFKD").replace(/[\u0300-\u036f]/g,"").toLocaleLowerCase("en").replace(/[’‘]/g,"'").replace(/\s+/g," ").trim();

@@ -1,6 +1,6 @@
 import {sameContent} from "./content/resolve";
 import {CONTENT_INDEX} from "./content/resolve";
-import {itemEligibility} from "./content/item-eligibility";
+import {indexedItem,itemEligibility,thinBloodChoiceCounts} from "./content/item-eligibility";
 import { creationMagicEligibility, powersForSources, powerRequirementReasons } from "./content/power-eligibility";
 import { normalizeActiveSourcebooks } from "./creation-sources";
 import { resolutionComplete } from "./predator-choices";
@@ -36,12 +36,19 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
   if(!character.clan?.trim())add({id:"identity-clan",kind:"warning",title:"Clã ou linhagem não definido",detail:"A escolha determina as Disciplinas iniciais e outras regras. Conteúdo personalizado continua permitido.",source:creation});
 
   const activeSources=new Set(normalizeActiveSourcebooks(data.activeSourcebooks));
+  const knownItems=[...(data.merits||[]),...(data.flawItems||[])].map(item=>({...item,name:item.name||""}));
+  if(character.clan==="Sangue-Ralo"){
+    const choices=thinBloodChoiceCounts(knownItems);
+    if(!choices.balanced)add({id:"thin-blood-choice-balance",kind:"warning",title:"Equilibre as escolhas especiais de Sangue-Ralo",detail:`Há ${choices.merits} Qualidades e ${choices.flaws} Defeitos especiais. O padrão exige de uma a três de cada, em quantidades iguais, sem usar os pontos comuns.`,source:core("regras-e-criacao-criacao-de-personagem","Qualidades e Defeitos de Sangues-Ralos","Livro Básico V5, pp. 136, 151, 182–184")});
+    if(data.bloodPotency!==0)add({id:"thin-blood-potency",kind:"warning",title:"Sangue-Ralo usa Potência de Sangue zero",detail:"A Potência registrada foi preservada. Confira a criação e as permissões da crônica antes de continuar.",source:core("regras-e-criacao-sangue-fome-geracao-e-potencia-de-sangue","Sangue-Ralo","Livro Básico V5, p. 111")});
+  }
   for(const item of [...(data.merits||[]),...(data.flawItems||[])]){
-    if(!item.catalogId)continue;
+    if(!item.catalogId){const known=indexedItem({...item,name:item.name||""});if(known.version?.requirements?.selectionGroup&&item.dots!==0)add({id:`legacy-thin-blood-cost-${known.entry?.id}`,kind:"warning",title:`Escolha especial sem pontos: ${item.name}`,detail:"Esta escolha de Sangue-Ralo não usa pontos comuns. O valor antigo foi preservado; confira-o ou selecione novamente o item no catálogo."});continue}
     const entry=CONTENT_INDEX.find(entry=>entry.id===item.catalogId),version=entry?.versions?.find(version=>version.id===item.versionId);
     if(!entry||!version){add({id:`catalog-reference-${item.catalogId}`,kind:"warning",title:`Referência não identificada: ${item.name||item.catalogId}`,detail:"O item foi preservado. Confira a identificação e a versão da fonte antes de usá-lo."});continue}
-    const check=itemEligibility(version,{phase:"creation",clan:character.clan||"",activeSources,disciplines:data.disciplines,powers:data.disciplinePowers});
+    const check=itemEligibility(version,{phase:"creation",clan:character.clan||"",activeSources,disciplines:data.disciplines,powers:data.disciplinePowers,items:knownItems});
     if(!check.allowed)add({id:`catalog-requirement-${entry.id}`,kind:"warning",title:`Requisitos de ${item.name||entry.names["pt-BR"]}`,detail:check.reasons.join(". ")+". A escolha salva foi preservada."});
+    if(version.grants&&(data.disciplines?.[version.grants.discipline]||0)<version.grants.level)add({id:`catalog-grant-${entry.id}`,kind:"warning",title:`Benefício de ${item.name||entry.names["pt-BR"]}`,detail:`Esta escolha concede ${version.grants.discipline} ${version.grants.level}. Confira a etapa Disciplinas; os dados antigos não foram alterados automaticamente.`});
     if(version.level!==undefined&&item.dots!==version.level)add({id:`catalog-cost-${entry.id}`,kind:"warning",title:`Pontuação de ${item.name||entry.names["pt-BR"]}`,detail:`Esta versão exige ${version.level} ponto(s). A pontuação registrada foi preservada para revisão.`});
   }
   const powerCatalog=powersForSources(POWER_CATALOG,activeSources);

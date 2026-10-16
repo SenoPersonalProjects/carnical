@@ -1,0 +1,705 @@
+{
+  "id": "thin-blood-discipline-affinity",
+  "kind": "merit",
+  "level": 0,
+  "names": {
+    "pt-BR": "Afinidade com Disciplina",
+    "en": "Discipline Affinity"
+  },
+  "aliases": [
+    "Afinidade com Disciplina",
+    "Discipline Affinity",
+    "Afinidade com Disciplina — Animalismo",
+    "Discipline Affinity — Animalism",
+    "Afinidade com Disciplina — Auspícios",
+    "Discipline Affinity — Auspex",
+    "Afinidade com Disciplina — Celeridade",
+    "Discipline Affinity — Celerity",
+    "Afinidade com Disciplina — Dominação",
+    "Discipline Affinity — Dominate",
+    "Afinidade com Disciplina — Fortitude",
+    "Discipline Affinity — Fortitude",
+    "Afinidade com Disciplina — Ofuscação",
+    "Discipline Affinity — Obfuscate",
+    "Afinidade com Disciplina — Potência",
+    "Discipline Affinity — Potence",
+    "Afinidade com Disciplina — Presença",
+    "Discipline Affinity — Presence",
+    "Afinidade com Disciplina — Proteanismo",
+    "Discipline Affinity — Protean",
+    "Afinidade com Disciplina — Feitiçaria de Sangue",
+    "Discipline Affinity — Blood Sorcery"
+  ],
+  "versions": [
+    {
+      "id": "thin-blood-discipline-affinity-core-v5-animalism",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Animalismo",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Disciplina escolhida",
+            "text": "Animalismo"
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Chosen Discipline",
+            "text": "Animalism"
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Afinidade com Disciplina — Animalismo",
+        "en": "Discipline Affinity — Animalism"
+      },
+      "grants": {
+        "discipline": "Animalismo",
+        "level": 1
+      }
+    },
+    {
+      "id": "thin-blood-discipline-affinity-core-v5-auspex",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Auspícios",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Disciplina escolhida",
+            "text": "Auspícios"
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Chosen Discipline",
+            "text": "Auspex"
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Afinidade com Disciplina — Auspícios",
+        "en": "Discipline Affinity — Auspex"
+      },
+      "grants": {
+        "discipline": "Auspícios",
+        "level": 1
+      }
+    },
+    {
+      "id": "thin-blood-discipline-affinity-core-v5-celerity",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Celeridade",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Disciplina escolhida",
+            "text": "Celeridade"
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Chosen Discipline",
+            "text": "Celerity"
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Afinidade com Disciplina — Celeridade",
+        "en": "Discipline Affinity — Celerity"
+      },
+      "grants": {
+        "discipline": "Celeridade",
+        "level": 1
+      }
+    },
+    {
+      "id": "thin-blood-discipline-affinity-core-v5-dominate",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Dominação",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Disciplina escolhida",
+            "text": "Dominação"
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Chosen Discipline",
+            "text": "Dominate"
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Afinidade com Disciplina — Dominação",
+        "en": "Discipline Affinity — Dominate"
+      },
+      "grants": {
+        "discipline": "Dominação",
+        "level": 1
+      }
+    },
+    {
+      "id": "thin-blood-discipline-affinity-core-v5-fortitude",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Fortitude",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Disciplina escolhida",
+            "text": "Fortitude"
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Chosen Discipline",
+            "text": "Fortitude"
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Afinidade com Disciplina — Fortitude",
+        "en": "Discipline Affinity — Fortitude"
+      },
+      "grants": {
+        "discipline": "Fortitude",
+        "level": 1
+      }
+    },
+    {
+      "id": "thin-blood-discipline-affinity-core-v5-obfuscate",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Ofuscação",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Disciplina escolhida",
+            "text": "Ofuscação"
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Chosen Discipline",
+            "text": "Obfuscate"
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Afinidade com Disciplina — Ofuscação",
+        "en": "Discipline Affinity — Obfuscate"
+      },
+      "grants": {
+        "discipline": "Ofuscação",
+        "level": 1
+      }
+    },
+    {
+      "id": "thin-blood-discipline-affinity-core-v5-potence",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Potência",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Disciplina escolhida",
+            "text": "Potência"
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Chosen Discipline",
+            "text": "Potence"
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Afinidade com Disciplina — Potência",
+        "en": "Discipline Affinity — Potence"
+      },
+      "grants": {
+        "discipline": "Potência",
+        "level": 1
+      }
+    },
+    {
+      "id": "thin-blood-discipline-affinity-core-v5-presence",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Presença",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Disciplina escolhida",
+            "text": "Presença"
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Chosen Discipline",
+            "text": "Presence"
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Afinidade com Disciplina — Presença",
+        "en": "Discipline Affinity — Presence"
+      },
+      "grants": {
+        "discipline": "Presença",
+        "level": 1
+      }
+    },
+    {
+      "id": "thin-blood-discipline-affinity-core-v5-protean",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Proteanismo",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Disciplina escolhida",
+            "text": "Proteanismo"
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Chosen Discipline",
+            "text": "Protean"
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Afinidade com Disciplina — Proteanismo",
+        "en": "Discipline Affinity — Protean"
+      },
+      "grants": {
+        "discipline": "Proteanismo",
+        "level": 1
+      }
+    },
+    {
+      "id": "thin-blood-discipline-affinity-core-v5-blood-sorcery",
+      "book": "core-v5",
+      "level": 0,
+      "sourceTitle": "Livro Básico V5, pp. 151, 182, 184 · Feitiçaria de Sangue",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 153,
+          "printedPage": 151
+        },
+        {
+          "pdfPage": 184,
+          "printedPage": 182
+        },
+        {
+          "pdfPage": 186,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Escolha uma Disciplina na criação. Ganha 1 ponto nela e pode aprender e aumentar seu valor com XP como um vampiro normal, pagando o custo de Disciplina fora do Clã: novo nível × 7 XP no padrão. Beber sangue de Ressonância correspondente não concede pontos extras nessa Disciplina, temporários ou permanentes."
+          },
+          {
+            "title": "Escolhas e custo",
+            "text": "Somente Sangue-Ralo. Na criação, escolha de uma a três Qualidades especiais e a mesma quantidade de Defeitos especiais. Não possuem valor em pontos e não consomem nem fornecem os pontos comuns de Vantagens/Defeitos. Cada Defeito compensa uma Qualidade. Não são adquiridos com XP."
+          },
+          {
+            "title": "Disciplina escolhida",
+            "text": "Feitiçaria de Sangue"
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Choose one Discipline at creation. Gain 1 dot and may learn and increase it with XP like a normal vampire, paying the out-of-clan Discipline cost: new level × 7 XP under standard rules. Drinking matching Resonance blood grants no extra temporary or permanent dots in that Discipline."
+          },
+          {
+            "title": "Choices and cost",
+            "text": "Thin-blood only. At creation choose one to three special Merits and the same number of special Flaws. They have no dot value and neither consume nor provide ordinary Advantage/Flaw dots. Each Flaw balances one Merit. They are not purchased with XP."
+          },
+          {
+            "title": "Chosen Discipline",
+            "text": "Blood Sorcery"
+          }
+        ]
+      },
+      "names": {
+        "pt-BR": "Afinidade com Disciplina — Feitiçaria de Sangue",
+        "en": "Discipline Affinity — Blood Sorcery"
+      },
+      "grants": {
+        "discipline": "Feitiçaria de Sangue",
+        "level": 1
+      }
+    }
+  ]
+}
