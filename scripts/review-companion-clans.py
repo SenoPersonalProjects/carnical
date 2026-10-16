@@ -26,5 +26,7 @@ for slug,name,refs,items in data:
  id='clan-'+slug
  descriptions={lang:[{'title':item[1] if lang=='en' else item[0],'text':item[3] if lang=='en' else item[2]} for item in items] for lang in ['pt-BR','en']}
  entry={'id':id,'kind':'clan','names':{'pt-BR':name,'en':name},'aliases':[name],'versions':[{'id':id+'-companion','book':'companion-v5','sourceTitle':f'Companion V5, pp. {refs[0]}–{refs[-1]}','sourceLanguage':'pt-BR','pdfSha256':source['sha256'],'pages':[{'pdfPage':n,'printedPage':n} for n in refs],'descriptions':descriptions}]}
- (repo/'scripts/reviewed-content'/f'{id}.json').write_text(json.dumps(entry,ensure_ascii=False,indent=2),encoding='utf-8')
+ target=repo/'scripts/reviewed-content'/f'{id}.json'
+ if target.exists():entry['versions']+= [version for version in json.loads(target.read_text(encoding='utf-8'))['versions'] if version['book']!='companion-v5']
+ target.write_text(json.dumps(entry,ensure_ascii=False,indent=2),encoding='utf-8')
 print(f'{len(data)} Companion clans compiled in both languages')

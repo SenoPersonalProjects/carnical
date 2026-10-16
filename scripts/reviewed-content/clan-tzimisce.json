@@ -63,6 +63,61 @@
           }
         ]
       }
+    },
+    {
+      "id": "clan-tzimisce-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 53–54",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 55,
+          "printedPage": 53
+        },
+        {
+          "pdfPage": 56,
+          "printedPage": 54
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Os Dragões definem-se pela posse e pelo domínio: terras, pessoas, organizações ou outras obsessões podem se tornar extensões de sua identidade. Sua maestria sobre o corpo inclui os métodos da Vicissitude."
+          },
+          {
+            "title": "Disciplinas",
+            "text": "Animalismo, Dominação e Proteanismo. Animalismo relaciona o Tzimisce às criaturas do domínio, Dominação impõe sua vontade e Proteanismo altera o próprio corpo."
+          },
+          {
+            "title": "Perdição",
+            "text": "Escolha uma posse específica, claramente definida e limitada: um domínio físico, grupo de pessoas, organização ou algo mais esotérico. O Tzimisce deve passar seu sono diurno cercado por essa posse. Dormir no solo de suas terras é uma forma tradicional, mas não a única: a posse pode ser uma construção, um tipo de pessoa ou uma facção local.\n\nSe não cumprir essa exigência, ao despertar na noite seguinte sofre dano agravado à Força de Vontade igual à sua Gravidade da Perdição."
+          },
+          {
+            "title": "Compulsão: Cobiça",
+            "text": "O vampiro fica obcecado em possuir algo presente na cena, seja objeto ou pessoa. Toda ação que não busque tomar posse desse alvo sofre uma penalidade de dois dados. A Compulsão termina quando a posse é obtida ou se torna inalcançável. Para um alvo que não seja um objeto, o Narrador determina o que conta como posse."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "The Dragons define themselves through ownership and dominion: land, people, organizations or other obsessions may become extensions of their identity. Their mastery over the body includes the methods of Vicissitude."
+          },
+          {
+            "title": "Disciplines",
+            "text": "Animalism, Dominate and Protean. Animalism connects the Tzimisce to their domain’s creatures, Dominate imposes their will and Protean reshapes their body."
+          },
+          {
+            "title": "Bane",
+            "text": "Choose a specific, clearly defined and limited possession: a physical domain, a group of people, an organization or something more esoteric. The Tzimisce must spend their daytime sleep surrounded by that possession. Sleeping in their homeland’s soil is traditional but not mandatory: the possession may be a building, a kind of person or a local faction.\n\nIf they fail to meet this requirement, they suffer aggravated Willpower damage equal to their Bane Severity on waking the following night."
+          },
+          {
+            "title": "Compulsion: Covetousness",
+            "text": "The vampire becomes obsessed with possessing something in the scene, whether an object or a person. Any action not aimed at obtaining it takes a two-dice penalty. The Compulsion ends when possession is achieved or becomes unattainable. For a target that is not an object, the Storyteller decides what constitutes possession."
+          }
+        ]
+      }
     }
   ]
 }

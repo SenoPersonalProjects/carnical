@@ -985,6 +985,48 @@
           "height": 1920
         },
         {
+          "pdfPage": 43,
+          "printedPage": 41,
+          "image": "/source-pages/players-guide-v5/0043.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 44,
+          "printedPage": 42,
+          "image": "/source-pages/players-guide-v5/0044.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 49,
+          "printedPage": 47,
+          "image": "/source-pages/players-guide-v5/0049.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 50,
+          "printedPage": 48,
+          "image": "/source-pages/players-guide-v5/0050.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 55,
+          "printedPage": 53,
+          "image": "/source-pages/players-guide-v5/0055.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 56,
+          "printedPage": 54,
+          "image": "/source-pages/players-guide-v5/0056.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
           "pdfPage": 71,
           "printedPage": 69,
           "image": "/source-pages/players-guide-v5/0071.webp",

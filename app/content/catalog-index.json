@@ -751,13 +751,19 @@
         "Ravnos"
       ],
       "books": [
-        "companion-v5"
+        "companion-v5",
+        "players-guide-v5"
       ],
       "versions": [
         {
           "id": "clan-ravnos-companion",
           "book": "companion-v5",
           "sourceTitle": "Companion V5, pp. 8–9"
+        },
+        {
+          "id": "clan-ravnos-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 41–42"
         }
       ]
     },
@@ -772,13 +778,19 @@
         "Salubri"
       ],
       "books": [
-        "companion-v5"
+        "companion-v5",
+        "players-guide-v5"
       ],
       "versions": [
         {
           "id": "clan-salubri-companion",
           "book": "companion-v5",
           "sourceTitle": "Companion V5, pp. 14–15"
+        },
+        {
+          "id": "clan-salubri-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 47–48"
         }
       ]
     },
@@ -793,13 +805,19 @@
         "Tzimisce"
       ],
       "books": [
-        "companion-v5"
+        "companion-v5",
+        "players-guide-v5"
       ],
       "versions": [
         {
           "id": "clan-tzimisce-companion",
           "book": "companion-v5",
           "sourceTitle": "Companion V5, pp. 18–19"
+        },
+        {
+          "id": "clan-tzimisce-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 53–54"
         }
       ]
     },
