@@ -1,0 +1,70 @@
+{
+  "id": "clan-malkavian",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Malkaviano",
+    "en": "Malkavian"
+  },
+  "aliases": [
+    "Malkaviano",
+    "Malkaviano",
+    "Malkavian"
+  ],
+  "versions": [
+    {
+      "id": "clan-malkavian-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 79, 210",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 81,
+          "printedPage": 79
+        },
+        {
+          "pdfPage": 212,
+          "printedPage": 210
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Auspícios, Dominação e Ofuscação. Percepção sobrenatural, influência mental e ocultação permitem observar, manipular e aproximar-se das vítimas."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "A aflição sobrenatural pode se manifestar como delírios, visões de clareza terrível ou outra experiência definida na criação pelo jogador e Narrador. Ao sofrer uma Falha Bestial ou uma Compulsão, aplique uma penalidade igual à Gravidade da Perdição a uma categoria de paradas — Física, Social ou Mental — durante toda a cena. A categoria e a natureza da aflição são definidas na criação. Essa penalidade se soma às penalidades da própria Compulsão."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Delírio: seus dons extrassensoriais distorcem mente e percepções com possíveis verdades, presságios ou delírios da Fome. Continua funcional, mas sofre −2 dados por uma cena em rolagens envolvendo Destreza, Manipulação, Autocontrole e Raciocínio, além dos testes para resistir ao frenesi de terror."
+          },
+          {
+            "title": "Uso e referência",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue; não é um valor fixo escolhido pelo clã. Perdição e Compulsão são regras distintas: observe seus gatilhos, duração e penalidades. Esta é a versão do Livro Básico fornecido. A consulta não aplica penalidades temporárias nem altera textos pessoais da ficha. A história e os arquétipos do clã continuam na biblioteca; os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Auspex, Dominate and Obfuscate. Supernatural perception, mental influence and concealment allow observation, manipulation and access to victims."
+          },
+          {
+            "title": "Bane",
+            "text": "The supernatural affliction may manifest as delusions, visions of terrible clarity or another experience defined at creation by player and Storyteller. When suffering a Bestial Failure or a Compulsion, apply a Bane Severity penalty to one pool category — Physical, Social or Mental — for the entire scene. Define the category and nature of the affliction at creation. This penalty stacks with the Compulsion’s own penalties."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Delusion: extrasensory gifts distort mind and perception with possible truths, omens or Hunger-driven delusions. Remains functional but suffers −2 dice for one scene on rolls involving Dexterity, Manipulation, Composure and Wits, as well as tests resisting terror frenzy."
+          },
+          {
+            "title": "Use and reference",
+            "text": "Bane Severity depends on Blood Potency; it is not a fixed value assigned by clan. Bane and Compulsion are distinct rules: observe their triggers, duration and penalties. This is the supplied Core Rulebook version. Consultation does not apply temporary penalties or alter personal sheet text. Clan history and archetypes remain in the library; powers have their own descriptions."
+          }
+        ]
+      }
+    }
+  ]
+}

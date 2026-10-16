@@ -1,0 +1,72 @@
+{
+  "id": "clan-tremere",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Tremere",
+    "en": "Tremere"
+  },
+  "aliases": [
+    "Tremere"
+  ],
+  "versions": [
+    {
+      "id": "clan-tremere-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 97, 210, 211",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 99,
+          "printedPage": 97
+        },
+        {
+          "pdfPage": 212,
+          "printedPage": 210
+        },
+        {
+          "pdfPage": 213,
+          "printedPage": 211
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Auspícios, Dominação e Feitiçaria de Sangue. Percepção identifica auras e vestígios; influência mental favorece conhecimento e controle; magia do sangue oferece poderes e Rituais aprendidos separadamente."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "Depois da queda de Viena, seu Vitae deixou de criar Laços de Sangue em outros Membros. Isso não impede que o Tremere seja Enlaçado por vampiros de outros clãs. Ainda pode Enlaçar mortais e carniçais, mas formar o Laço exige um número adicional de ingestões de seu Vitae igual à Gravidade da Perdição. Essa é a versão presente no Livro Básico fornecido, sem substituir por uma variante de outro suplemento."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Perfeccionismo: repete tarefas por considerar insuficiente qualquer resultado que não seja excepcional. Sofre −2 dados em todas as paradas até obter uma vitória crítica numa rolagem de Habilidade ou até o fim da cena. Para uma ação repetida, a penalidade cai para −1; numa segunda repetição da mesma ação, é removida por completo."
+          },
+          {
+            "title": "Uso e referência",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue; não é um valor fixo escolhido pelo clã. Perdição e Compulsão são regras distintas: observe seus gatilhos, duração e penalidades. Esta é a versão do Livro Básico fornecido. A consulta não aplica penalidades temporárias nem altera textos pessoais da ficha. A história e os arquétipos do clã continuam na biblioteca; os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Auspex, Dominate and Blood Sorcery. Perception identifies auras and traces; mental influence supports knowledge and control; blood magic offers powers and separately learned Rituals."
+          },
+          {
+            "title": "Bane",
+            "text": "After Vienna’s fall, Tremere Vitae can no longer create Blood Bonds in other Kindred. This does not prevent a Tremere from being Bound by vampires of other clans. Mortals and ghouls can still be Bound, but forming the Bond requires additional drinks of their Vitae equal to Bane Severity. This is the supplied Core Rulebook version, without substituting another supplement’s variant."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Perfectionism: repeats tasks because anything short of an exceptional result feels inadequate. Suffer −2 dice on all pools until achieving a critical win on a Skill roll or the scene ends. On repeating an action, reduce its penalty to −1; on a second repetition of the same action, remove it entirely."
+          },
+          {
+            "title": "Use and reference",
+            "text": "Bane Severity depends on Blood Potency; it is not a fixed value assigned by clan. Bane and Compulsion are distinct rules: observe their triggers, duration and penalties. This is the supplied Core Rulebook version. Consultation does not apply temporary penalties or alter personal sheet text. Clan history and archetypes remain in the library; powers have their own descriptions."
+          }
+        ]
+      }
+    }
+  ]
+}

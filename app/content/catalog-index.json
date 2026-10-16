@@ -10775,6 +10775,155 @@
           "sourceTitle": "Livro Básico V5, pp. 178"
         }
       ]
+    },
+    {
+      "id": "clan-brujah",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Brujah",
+        "en": "Brujah"
+      },
+      "aliases": [
+        "Brujah"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-brujah-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 67, 210"
+        }
+      ]
+    },
+    {
+      "id": "clan-gangrel",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Gangrel",
+        "en": "Gangrel"
+      },
+      "aliases": [
+        "Gangrel"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-gangrel-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 73, 210"
+        }
+      ]
+    },
+    {
+      "id": "clan-malkavian",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Malkaviano",
+        "en": "Malkavian"
+      },
+      "aliases": [
+        "Malkaviano",
+        "Malkaviano",
+        "Malkavian"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-malkavian-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 79, 210"
+        }
+      ]
+    },
+    {
+      "id": "clan-nosferatu",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Nosferatu",
+        "en": "Nosferatu"
+      },
+      "aliases": [
+        "Nosferatu"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-nosferatu-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 85, 210"
+        }
+      ]
+    },
+    {
+      "id": "clan-toreador",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Toreador",
+        "en": "Toreador"
+      },
+      "aliases": [
+        "Toreador"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-toreador-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 91, 210"
+        }
+      ]
+    },
+    {
+      "id": "clan-tremere",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Tremere",
+        "en": "Tremere"
+      },
+      "aliases": [
+        "Tremere"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-tremere-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 97, 210, 211"
+        }
+      ]
+    },
+    {
+      "id": "clan-ventrue",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Ventrue",
+        "en": "Ventrue"
+      },
+      "aliases": [
+        "Ventrue"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-ventrue-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 102, 211"
+        }
+      ]
     }
   ]
 }

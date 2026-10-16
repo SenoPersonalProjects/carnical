@@ -25,7 +25,7 @@ const output=process.argv[2]||"D:/DEV/2026/carnical-content-work/pdf-checks";fs.
 const base={name:"João da Noite",concept:"Investigador",clan:"Tremere",data:{attributes:{Força:2,Destreza:2,Vigor:3,Carisma:2,Manipulação:3,Autocontrole:3,Inteligência:4,Raciocínio:2,Determinação:3},skills:{Investigação:3,Erudição:4,Ocultismo:3,Tecnologia:2},disciplines:{Auspícios:2},disciplinePowers:{Auspícios:["Sentidos Aguçados","Premonição"]},specialties:[{skill:"Erudição",name:"História do Brasil",source:"Criação"}],merits:[{name:"Biblioteca pessoal",dots:2,source:"Personalizado",notes:"Livros antigos com anotações do senhor."}],flawItems:[{name:"Inimigo",dots:2,source:"Criação",notes:"Um rival mortal."}],convictions:"Nunca ferir inocentes.",touchstones:"Marília — irmã mortal",humanity:7,stains:4,hunger:3,healthSuperficial:2,healthAggravated:1,willpowerSuperficial:1,willpowerAggravated:2,bloodPotency:2,chronicle:"Ventos de Fortaleza",generation:"12ª",xpTotal:"15",xpSpent:"3",xpPurchases:[],bloodSession:{night:3,turn:8,lastMendTurn:8,lastAggravatedNight:2,aggravatedNights:[2],torpor:false},notes:"Alteração ainda não salva: ação amanhã às 22h.",rollHistory:[{label:"DO NOT EXPORT ROLL HISTORY"}]}};
 assert.equal(pdfFilename("João / ?",new Date("2026-10-01T01:00:00Z")),"Carnical-Joao-2026-09-30.pdf");
 const snapshot=characterSnapshot(base);base.data.notes="Changed after snapshot";assert.equal(snapshot.prose.notes,"Alteração ainda não salva: ação amanhã às 22h.");assert.ok(!("rollHistory" in snapshot));
-for(const locale of ["pt-BR","en"]){
+for(const locale of process.argv.includes("--checks-only")?[]:["pt-BR","en"]){
  for(const large of [false,true]){
   const value=structuredClone(snapshot);if(large){value.concept="Investigador dedicado aos mistérios de Fortaleza. ".repeat(200)+"FIM DO CONCEITO EXTENSO";value.prose.history=Array.from({length:120},(_,i)=>`Capítulo ${i+1}. A personagem percorreu as ruas de Fortaleza. Guardou suas convicções e voltou para casa depois do amanhecer. Nenhuma informação deve ser cortada ao passar de página.`).join("\n\n")}
   const rules=[...catalog.entries.map(entry=>({id:entry.id,name:entry.names[locale],source:entry.versions[0].sourceTitle,sections:entry.versions[0].descriptions[locale]})),{id:"custom",name:locale==="en"?"Custom documented rule":"Regra personalizada documentada",source:"Informação existente na ficha",sections:[{title:locale==="en"?"System":"Sistema",text:"Dados: Inteligência + Investigação. Resistência: Autocontrole. Custo: 1. A informação é selecionável."}]}];
@@ -35,9 +35,9 @@ for(const locale of ["pt-BR","en"]){
 }
 const fetchOriginal=globalThis.fetch;
 try{
- const value=structuredClone(base);value.data.disciplinePowers={Oblívio:["O Chamado do Viajante"]};value.data.disciplines={Oblívio:1};let requests=0;
- globalThis.fetch=async url=>{requests++;const params=new URL(url,"http://fixture.local").searchParams,entry=catalog.entries.find(entry=>entry.id===params.get("id"));assert.ok(entry);const locale=params.get("lang");return Response.json({id:entry.id,name:entry.names[locale],source:entry.versions[0].sourceTitle,sections:entry.versions[0].descriptions[locale]})};
- const blob=await createCharacterPdf(characterSnapshot(value),"en");assert.equal(Buffer.from(await blob.arrayBuffer()).subarray(0,5).toString(),"%PDF-");assert.equal(requests,1);
+ const value=structuredClone(base);value.data.disciplinePowers={Oblívio:["O Chamado do Viajante"]};value.data.disciplines={Oblívio:1};const requests=[];
+ globalThis.fetch=async url=>{const params=new URL(url,"http://fixture.local").searchParams,entry=catalog.entries.find(entry=>entry.id===params.get("id"));assert.ok(entry);requests.push(entry.id);const locale=params.get("lang");return Response.json({id:entry.id,name:entry.names[locale],source:entry.versions[0].sourceTitle,sections:entry.versions[0].descriptions[locale]})};
+ const blob=await createCharacterPdf(characterSnapshot(value),"en");assert.equal(Buffer.from(await blob.arrayBuffer()).subarray(0,5).toString(),"%PDF-");assert.deepEqual(requests.sort(),["clan-tremere","cultos-deuses-sangue-v5-ceremony-obl-vio-o-chamado-do-viajante"].sort(),"Known Core clan and selected power both need full rules");
  const versioned=structuredClone(value);versioned.clan="Personalizado";versioned.data.customClan="Ravnos";versioned.data.disciplinePowers={};
  const item=catalog.entries.find(entry=>entry.id==="coterie-merit-call-to-purpose"),version=item.versions.find(version=>version.book==="companion-v5");
  versioned.data.merits=[{name:item.names["pt-BR"],dots:version.level,source:"companion_v5",notes:"Escolha preservada",catalogId:item.id,versionId:version.id}];
@@ -49,10 +49,17 @@ try{
  globalThis.fetch=async url=>{const params=new URL(url,"http://fixture.local").searchParams;clanRequests++;assert.equal(params.get("id"),clan.id);assert.equal(params.get("book"),clanVersion.book);return Response.json({id:clan.id,name:clan.names.en,source:clanVersion.sourceTitle,sections:clanVersion.descriptions.en})};
  await createCharacterPdf(characterSnapshot(versioned),"en");assert.equal(clanRequests,1);
  globalThis.fetch=async()=>new Response("Unavailable",{status:503});await assert.rejects(()=>createCharacterPdf(characterSnapshot(value),"en"),/Missing item rules/);
- globalThis.fetch=async()=>new Response("Not reviewed",{status:404});
+ globalThis.fetch=async url=>{
+  const params=new URL(url,"http://fixture.local").searchParams;
+  if(params.get("id")==="clan-tremere"){
+   const entry=catalog.entries.find(entry=>entry.id==="clan-tremere"),version=entry.versions.find(version=>version.book==="core-v5");
+   return Response.json({id:entry.id,name:entry.names["pt-BR"],source:version.sourceTitle,sections:version.descriptions["pt-BR"]});
+  }
+  return new Response("Not reviewed",{status:404});
+ };
  const legacy=structuredClone(value);legacy.data.disciplinePowers={"Auspícios":["Sentidos Aguçados"]};
  const legacyBlob=await createCharacterPdf(characterSnapshot(legacy),"pt-BR");
  fs.writeFileSync(path.join(output,"legacy-reference.pdf"),Buffer.from(await legacyBlob.arrayBuffer()));
 }finally{globalThis.fetch=fetchOriginal}
 fs.writeFileSync(path.join(output,"expectations.json"),JSON.stringify({name:snapshot.name,notes:snapshot.prose.notes,largeLast:"Capítulo 120.",excluded:"DO NOT EXPORT ROLL HISTORY"}));
-console.log("4 PDFs created; snapshot, filename and history exclusion assertions passed.");
+console.log(`${process.argv.includes("--checks-only")?"Export regression checks":"4 PDFs created"}; snapshot, filename and history exclusion assertions passed.`);

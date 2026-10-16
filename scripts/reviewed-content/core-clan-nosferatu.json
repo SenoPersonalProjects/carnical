@@ -1,0 +1,68 @@
+{
+  "id": "clan-nosferatu",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Nosferatu",
+    "en": "Nosferatu"
+  },
+  "aliases": [
+    "Nosferatu"
+  ],
+  "versions": [
+    {
+      "id": "clan-nosferatu-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 85, 210",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 87,
+          "printedPage": 85
+        },
+        {
+          "pdfPage": 212,
+          "printedPage": 210
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Animalismo, Ofuscação e Potência. Animais e servos ajudam a reunir informações; ocultação permite circular e caçar; força sobrenatural subjuga inimigos."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "Possui o Defeito Repulsivo (−2) e nunca pode aumentar seu valor na Qualidade Visual. Tentativas de esconder suas deformidades sofrem uma penalidade de dados igual à Gravidade da Perdição, incluindo poderes como Máscara de Mil Faces e Disfarce do Impostor. Ser visto não é, por si só, uma quebra automática da Máscara: a maioria parece grotesca e aterrorizante, mas nem sempre de modo obviamente sobrenatural."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Criptofilia: uma fome de segredos quase tão forte quanto a de sangue o domina. Recusa compartilhar segredos, exceto em troca estrita por segredos maiores. Ações que não sirvam para descobrir um segredo sofrem −2 dados. Encerra quando aprende um segredo grande o bastante para ser útil; compartilhá-lo depois é opcional."
+          },
+          {
+            "title": "Uso e referência",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue; não é um valor fixo escolhido pelo clã. Perdição e Compulsão são regras distintas: observe seus gatilhos, duração e penalidades. Esta é a versão do Livro Básico fornecido. A consulta não aplica penalidades temporárias nem altera textos pessoais da ficha. A história e os arquétipos do clã continuam na biblioteca; os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Animalism, Obfuscate and Potence. Animals and servants gather information; concealment permits movement and hunting; supernatural strength subdues enemies."
+          },
+          {
+            "title": "Bane",
+            "text": "Has the Repulsive (−2) Flaw and can never increase their Looks Merit rating. Attempts to hide their deformities suffer a Bane Severity dice penalty, including powers such as Mask of a Thousand Faces and Impostor’s Guise. Being seen is not by itself an automatic Masquerade breach: most appear grotesque and frightening, but not always obviously supernatural."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Cryptophilia: a hunger for secrets almost as strong as the thirst for blood takes over. Refuses to share secrets except in strict exchange for greater secrets. Actions not directed toward learning a secret suffer −2 dice. Ends after learning a secret important enough to be useful; sharing it afterward is optional."
+          },
+          {
+            "title": "Use and reference",
+            "text": "Bane Severity depends on Blood Potency; it is not a fixed value assigned by clan. Bane and Compulsion are distinct rules: observe their triggers, duration and penalties. This is the supplied Core Rulebook version. Consultation does not apply temporary penalties or alter personal sheet text. Clan history and archetypes remain in the library; powers have their own descriptions."
+          }
+        ]
+      }
+    }
+  ]
+}

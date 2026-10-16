@@ -137,3 +137,16 @@ As descrições são compartilhadas entre a criação, a consulta em jogo e o an
 do PDF; a aplicação dos benefícios continua usando o pacote existente, sem
 conceder pontos pela abertura do accordion. Gerador `review-core-predators.py`;
 verificação `check-core-predators.mjs`, preservando as 326 entradas anteriores.
+
+## Sétimo bloco: regras dos sete clãs principais
+
+Brujah, Gangrel, Malkaviano, Nosferatu, Toreador, Tremere e Ventrue: Disciplinas,
+Perdição integral e Compulsão integral, em português e inglês, com fontes nas
+páginas PDF 69, 75, 81, 87, 93, 99, 104, 212 e 213. As nove páginas foram
+conferidas visualmente, em especial o término de Perfeccionismo na página 213.
+
+A versão de Perdição Tremere é a do PDF básico fornecido; não foi substituída
+silenciosamente por variantes. Não há aplicação automática de efeitos de cena.
+Os textos pessoais de Perdição e Compulsão salvos continuam preservados. História
+e arquétipos permanecem na biblioteca, e Caitiff/Sangue-Ralo continuam pendentes
+deste bloco. Gerador `review-core-clans.py`; teste `check-core-clans.mjs`.

@@ -1,0 +1,68 @@
+{
+  "id": "clan-brujah",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Brujah",
+    "en": "Brujah"
+  },
+  "aliases": [
+    "Brujah"
+  ],
+  "versions": [
+    {
+      "id": "clan-brujah-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 67, 210",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 69,
+          "printedPage": 67
+        },
+        {
+          "pdfPage": 212,
+          "printedPage": 210
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Celeridade, Potência e Presença. Velocidade e força permitem atacar, subjugar e escapar; Presença influencia multidões, intimida e atrai vítimas."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "Seu Sangue ferve com fúria contida. Subtraia dados iguais à Gravidade da Perdição de qualquer parada para resistir a frenesi de fúria. Essa redução não pode deixar a parada com menos de 1 dado. A regra não estende essa penalidade aos testes de frenesi de fome ou terror."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Rebelião: opõe-se ao que percebe como status quo, seja um líder, uma opinião ou a tarefa esperada. Sofre −2 dados em todas as rolagens até contrariar ordens reais ou percebidas, ou expectativas reais ou presumidas. Encerra ao fazer alguém mudar de ideia, pela força se necessário, ou ao fazer o oposto do esperado."
+          },
+          {
+            "title": "Uso e referência",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue; não é um valor fixo escolhido pelo clã. Perdição e Compulsão são regras distintas: observe seus gatilhos, duração e penalidades. Esta é a versão do Livro Básico fornecido. A consulta não aplica penalidades temporárias nem altera textos pessoais da ficha. A história e os arquétipos do clã continuam na biblioteca; os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Celerity, Potence and Presence. Speed and strength allow attacks, restraint and escape; Presence influences crowds, intimidates and attracts victims."
+          },
+          {
+            "title": "Bane",
+            "text": "Their Blood boils with suppressed anger. Subtract Bane Severity dice from any pool resisting fury frenzy. This reduction cannot leave fewer than 1 die. This rule does not extend that penalty to hunger or terror frenzy tests."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Rebellion: opposes the perceived status quo, whether a leader, an opinion or an expected task. Suffer −2 dice on all rolls until defying real or perceived orders, or actual or assumed expectations. It ends after making someone change their mind, by force if necessary, or doing the opposite of what was expected."
+          },
+          {
+            "title": "Use and reference",
+            "text": "Bane Severity depends on Blood Potency; it is not a fixed value assigned by clan. Bane and Compulsion are distinct rules: observe their triggers, duration and penalties. This is the supplied Core Rulebook version. Consultation does not apply temporary penalties or alter personal sheet text. Clan history and archetypes remain in the library; powers have their own descriptions."
+          }
+        ]
+      }
+    }
+  ]
+}

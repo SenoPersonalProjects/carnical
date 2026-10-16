@@ -1,0 +1,68 @@
+{
+  "id": "clan-toreador",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Toreador",
+    "en": "Toreador"
+  },
+  "aliases": [
+    "Toreador"
+  ],
+  "versions": [
+    {
+      "id": "clan-toreador-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 91, 210",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 93,
+          "printedPage": 91
+        },
+        {
+          "pdfPage": 212,
+          "printedPage": 210
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Auspícios, Celeridade e Presença. Sentidos refinados, velocidade sobrenatural e domínio emocional favorecem a percepção, a arte e a caça social."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "Sofre na ausência de beleza. Num ambiente que considera menos que belo, reduza suas paradas para acionar Disciplinas em dados iguais à Gravidade da Perdição. O Narrador decide a aplicação conforme o senso estético da personagem, considerando ambiente, roupas e pessoas usadas como fonte de sangue. Mesmo gostos voltados ao grotesco não tornam automaticamente belas todas as ruas comuns. Essa obsessão também faz com que Falhas Bestiais frequentemente provoquem o transe de arrebatamento descrito na Compulsão."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Obsessão: escolha algo singularmente belo — pessoa, canção, obra de arte, mancha de sangue ou até a aurora. Quase não consegue desviar a atenção e, ao conversar, só fala do objeto. Outras ações sofrem −2 dados. Dura até deixar de perceber o objeto ou até o fim da cena."
+          },
+          {
+            "title": "Uso e referência",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue; não é um valor fixo escolhido pelo clã. Perdição e Compulsão são regras distintas: observe seus gatilhos, duração e penalidades. Esta é a versão do Livro Básico fornecido. A consulta não aplica penalidades temporárias nem altera textos pessoais da ficha. A história e os arquétipos do clã continuam na biblioteca; os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Auspex, Celerity and Presence. Refined senses, supernatural speed and emotional influence support perception, art and social hunting."
+          },
+          {
+            "title": "Bane",
+            "text": "Suffers in the absence of beauty. In surroundings considered less than beautiful, reduce Discipline activation pools by Bane Severity dice. The Storyteller applies this according to the character’s aesthetic sense, including surroundings, clothing and blood dolls. Even a taste for the grotesque does not make every ordinary street automatically beautiful. This obsession also means Bestial Failures often bring the rapturous trance described by the Compulsion."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Obsession: choose something uniquely beautiful — a person, song, artwork, bloodstain or even dawn. Can barely turn attention away and talks only about it when addressed. Other actions suffer −2 dice. Lasts until the object can no longer be perceived or the scene ends."
+          },
+          {
+            "title": "Use and reference",
+            "text": "Bane Severity depends on Blood Potency; it is not a fixed value assigned by clan. Bane and Compulsion are distinct rules: observe their triggers, duration and penalties. This is the supplied Core Rulebook version. Consultation does not apply temporary penalties or alter personal sheet text. Clan history and archetypes remain in the library; powers have their own descriptions."
+          }
+        ]
+      }
+    }
+  ]
+}

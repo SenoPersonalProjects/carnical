@@ -1,0 +1,68 @@
+{
+  "id": "clan-gangrel",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Gangrel",
+    "en": "Gangrel"
+  },
+  "aliases": [
+    "Gangrel"
+  ],
+  "versions": [
+    {
+      "id": "clan-gangrel-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 73, 210",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 75,
+          "printedPage": 73
+        },
+        {
+          "pdfPage": 212,
+          "printedPage": 210
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Animalismo, Fortitude e Proteanismo. O contato com animais, a resistência sobrenatural e a mudança corporal sustentam a existência predatória."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "Durante um frenesi, manifesta aspectos animalescos em número igual à Gravidade da Perdição: aparência, odor ou comportamento. Persistem por mais uma noite após o frenesi. Cada aspecto reduz um Atributo em 1 ponto; o Narrador escolhe conforme o traço. Língua bifurcada ou odor de urso podem reduzir Carisma; orelhas de morcego podem reduzir Determinação pela distração. Na dúvida, reduza Inteligência ou Manipulação. Ao Curtir a Onda voluntariamente, pode escolher manifestar apenas um aspecto e sofrer apenas uma penalidade em um Atributo."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Impulsos Ferais: regride a um estado animal; falar é difícil, roupas incomodam e disputas parecem exigir presas e garras. Por uma cena, sofre −3 dados nas rolagens envolvendo Manipulação e Inteligência e só consegue pronunciar sentenças monossilábicas."
+          },
+          {
+            "title": "Uso e referência",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue; não é um valor fixo escolhido pelo clã. Perdição e Compulsão são regras distintas: observe seus gatilhos, duração e penalidades. Esta é a versão do Livro Básico fornecido. A consulta não aplica penalidades temporárias nem altera textos pessoais da ficha. A história e os arquétipos do clã continuam na biblioteca; os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Animalism, Fortitude and Protean. Animal communion, supernatural endurance and bodily transformation support a predatory existence."
+          },
+          {
+            "title": "Bane",
+            "text": "During frenzy, manifest animal features equal in number to Bane Severity: physical traits, odors or behavior. They last one additional night after the frenzy. Each feature reduces one Attribute by 1; the Storyteller chooses according to the feature. A forked tongue or bear odor may reduce Charisma; bat ears may reduce Resolve through distraction. When in doubt, reduce Intelligence or Manipulation. When voluntarily Riding the Wave, choose to manifest just one feature and suffer only one Attribute penalty."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Feral Impulses: regresses to an animal state; speech is difficult, clothes uncomfortable and disputes seem to require fangs and claws. For one scene, suffer −3 dice on rolls involving Manipulation and Intelligence and speak only in monosyllabic sentences."
+          },
+          {
+            "title": "Use and reference",
+            "text": "Bane Severity depends on Blood Potency; it is not a fixed value assigned by clan. Bane and Compulsion are distinct rules: observe their triggers, duration and penalties. This is the supplied Core Rulebook version. Consultation does not apply temporary penalties or alter personal sheet text. Clan history and archetypes remain in the library; powers have their own descriptions."
+          }
+        ]
+      }
+    }
+  ]
+}

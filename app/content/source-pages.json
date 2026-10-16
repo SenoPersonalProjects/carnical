@@ -5,6 +5,55 @@
       "title": "Vampiro a Mascara Corebook 5ED PORTUGUES",
       "pages": [
         {
+          "pdfPage": 69,
+          "printedPage": 67,
+          "image": "/source-pages/core-v5/0069.webp",
+          "width": 1500,
+          "height": 1946
+        },
+        {
+          "pdfPage": 75,
+          "printedPage": 73,
+          "image": "/source-pages/core-v5/0075.webp",
+          "width": 1500,
+          "height": 1946
+        },
+        {
+          "pdfPage": 81,
+          "printedPage": 79,
+          "image": "/source-pages/core-v5/0081.webp",
+          "width": 1500,
+          "height": 1946
+        },
+        {
+          "pdfPage": 87,
+          "printedPage": 85,
+          "image": "/source-pages/core-v5/0087.webp",
+          "width": 1500,
+          "height": 1946
+        },
+        {
+          "pdfPage": 93,
+          "printedPage": 91,
+          "image": "/source-pages/core-v5/0093.webp",
+          "width": 1500,
+          "height": 1946
+        },
+        {
+          "pdfPage": 99,
+          "printedPage": 97,
+          "image": "/source-pages/core-v5/0099.webp",
+          "width": 1500,
+          "height": 1946
+        },
+        {
+          "pdfPage": 104,
+          "printedPage": 102,
+          "image": "/source-pages/core-v5/0104.webp",
+          "width": 1500,
+          "height": 1946
+        },
+        {
           "pdfPage": 177,
           "printedPage": 175,
           "image": "/source-pages/core-v5/0177.webp",
@@ -29,6 +78,20 @@
           "pdfPage": 180,
           "printedPage": 178,
           "image": "/source-pages/core-v5/0180.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
+          "pdfPage": 212,
+          "printedPage": 210,
+          "image": "/source-pages/core-v5/0212.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
+          "pdfPage": 213,
+          "printedPage": 211,
+          "image": "/source-pages/core-v5/0213.webp",
           "width": 1500,
           "height": 1945
         },

@@ -1,0 +1,68 @@
+{
+  "id": "clan-ventrue",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Ventrue",
+    "en": "Ventrue"
+  },
+  "aliases": [
+    "Ventrue"
+  ],
+  "versions": [
+    {
+      "id": "clan-ventrue-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 102, 211",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 104,
+          "printedPage": 102
+        },
+        {
+          "pdfPage": 213,
+          "printedPage": 211
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Disciplinas de Clã",
+            "text": "Dominação, Fortitude e Presença. Controle mental e devoção sustentam a autoridade; resistência sobrenatural permite sobreviver aos ataques contra ela."
+          },
+          {
+            "title": "Perdição (Fraqueza)",
+            "text": "Só tolera facilmente sangue de mortais de um tipo preferido, definido na personagem: características de origem, aparência, ocupação ou experiência são exemplos. Determinação + Percepção, Dificuldade 4 ou maior, permite identificar se um mortal possui o sangue desejado. Para se alimentar de um mortal fora da preferência, gaste Força de Vontade igual à Gravidade da Perdição para não vomitar o sangue. A preferência não é uma lista universal imposta a todos os Ventrue."
+          },
+          {
+            "title": "Compulsão do Clã",
+            "text": "Arrogância: precisa assumir o controle e fazer alguém obedecer a uma ordem. Ações sem relação direta com liderança sofrem −2 dados. Encerra quando a ordem é obedecida, desde que a obediência não seja obtida por meios sobrenaturais, como Dominação."
+          },
+          {
+            "title": "Uso e referência",
+            "text": "A Gravidade da Perdição depende da Potência de Sangue; não é um valor fixo escolhido pelo clã. Perdição e Compulsão são regras distintas: observe seus gatilhos, duração e penalidades. Esta é a versão do Livro Básico fornecido. A consulta não aplica penalidades temporárias nem altera textos pessoais da ficha. A história e os arquétipos do clã continuam na biblioteca; os poderes têm descrições próprias."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Disciplines",
+            "text": "Dominate, Fortitude and Presence. Mental control and devotion support authority; supernatural endurance survives attacks against it."
+          },
+          {
+            "title": "Bane",
+            "text": "Readily tolerates only mortal blood of a preferred type defined for the character: background, appearance, occupation or experience are examples. Resolve + Awareness at Difficulty 4 or higher identifies whether a mortal has the desired blood. Feeding from a mortal outside the preference requires spending Willpower equal to Bane Severity to avoid vomiting the blood. The preference is not one universal list imposed on every Ventrue."
+          },
+          {
+            "title": "Clan Compulsion",
+            "text": "Arrogance: must take control and make someone obey an order. Actions not directly related to leadership suffer −2 dice. Ends when the order is obeyed, provided obedience was not obtained through supernatural means such as Dominate."
+          },
+          {
+            "title": "Use and reference",
+            "text": "Bane Severity depends on Blood Potency; it is not a fixed value assigned by clan. Bane and Compulsion are distinct rules: observe their triggers, duration and penalties. This is the supplied Core Rulebook version. Consultation does not apply temporary penalties or alter personal sheet text. Clan history and archetypes remain in the library; powers have their own descriptions."
+          }
+        ]
+      }
+    }
+  ]
+}
