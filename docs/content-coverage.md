@@ -2,6 +2,10 @@
 
 ## Estado desta entrega
 
+As dúvidas de interpretação e de tradução estão centralizadas em
+[Dúvidas para revisão](DUVIDAS-PARA-REVISAO.md), com contexto, páginas,
+impacto e tratamento provisório de cada caso.
+
 ### Antecedentes do Livro Básico
 
 - 41 entradas e 135 versões conferidas nas páginas 186–196 do PDF, com
