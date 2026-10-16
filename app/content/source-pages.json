@@ -54,6 +54,27 @@
           "height": 1946
         },
         {
+          "pdfPage": 109,
+          "printedPage": 107,
+          "image": "/source-pages/core-v5/0109.webp",
+          "width": 1500,
+          "height": 1946
+        },
+        {
+          "pdfPage": 113,
+          "printedPage": 111,
+          "image": "/source-pages/core-v5/0113.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
+          "pdfPage": 115,
+          "printedPage": 113,
+          "image": "/source-pages/core-v5/0115.webp",
+          "width": 1500,
+          "height": 1945
+        },
+        {
           "pdfPage": 177,
           "printedPage": 175,
           "image": "/source-pages/core-v5/0177.webp",

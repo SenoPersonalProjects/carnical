@@ -10924,6 +10924,55 @@
           "sourceTitle": "Livro Básico V5, pp. 102, 211"
         }
       ]
+    },
+    {
+      "id": "clan-caitiff",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Caitiff",
+        "en": "Caitiff"
+      },
+      "aliases": [
+        "Caitiff",
+        "Sem-Clã",
+        "Clanless"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-caitiff-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 107"
+        }
+      ]
+    },
+    {
+      "id": "clan-thin-blood",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Sangue-Ralo",
+        "en": "Thin-blood"
+      },
+      "aliases": [
+        "Sangue-Ralo",
+        "Thin-blood",
+        "Sangue-Fraco",
+        "Sangues-Ralos",
+        "Thin Blood",
+        "Duskborn"
+      ],
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "clan-thin-blood-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 111, 113"
+        }
+      ]
     }
   ]
 }

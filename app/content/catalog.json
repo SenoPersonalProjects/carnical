@@ -35703,6 +35703,177 @@
           }
         }
       ]
+    },
+    {
+      "id": "clan-caitiff",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Caitiff",
+        "en": "Caitiff"
+      },
+      "aliases": [
+        "Caitiff",
+        "Sem-Clã",
+        "Clanless"
+      ],
+      "versions": [
+        {
+          "id": "clan-caitiff-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 107",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 109,
+              "printedPage": 107
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Descrição",
+                "text": "Sem uma linhagem reconhecida, Caitiff podem nascer de Senhores Sem-Clã ou de um Abraço cujo Sangue ancestral não se manifesta. A ausência de Perdição herdada vem acompanhada de rejeição social e de aprendizado menos especializado."
+              },
+              {
+                "title": "Disciplinas e aprendizado",
+                "text": "Escolha três Disciplinas às quais terá acesso após o Abraço. Elas não contam como Disciplinas de Clã para custos de XP. Pode aprender outras pelo mesmo preço, desde que prove ao menos uma vez o Sangue de alguém que possua a Disciplina e cumpra os requisitos normais. O custo padrão de aumento é novo nível × 6 XP, independentemente de ser uma das três escolhas iniciais."
+              },
+              {
+                "title": "Perdição e restrições de criação",
+                "text": "Não herda uma Perdição dos Antediluvianos. Começa com o Defeito Suspeito 1 e não pode adquirir Status durante a criação. O Narrador pode impor −1 ou −2 dados em testes Sociais contra Membros que saibam que é Caitiff, mesmo que mais tarde tenha obtido Status."
+              },
+              {
+                "title": "Uso e fonte",
+                "text": "A ausência de Perdição não elimina os Defeitos e restrições sociais acima. Requisitos narrativos, consumo de Vitae e reações de outros Membros continuam sob condução do Narrador. Consulte a página original para história e arquétipos. Esta consulta não concede pontos nem reescreve escolhas salvas."
+              }
+            ],
+            "en": [
+              {
+                "title": "Description",
+                "text": "Without a recognized lineage, Caitiff may descend from Clanless sires or an Embrace in which ancestral Blood fails to manifest. Freedom from an inherited Bane comes with social rejection and less specialized learning."
+              },
+              {
+                "title": "Disciplines and learning",
+                "text": "Choose three Disciplines available after the Embrace. They do not count as Clan Disciplines for XP costs. Other Disciplines can be learned at the same price after tasting the Blood of someone who possesses the Discipline at least once and meeting its normal requirements. The standard increase cost is new level × 6 XP, whether or not it was one of the original three choices."
+              },
+              {
+                "title": "Bane and creation restrictions",
+                "text": "Does not inherit an Antediluvian Bane. Starts with the Suspect 1 Flaw and cannot purchase Status during creation. The Storyteller may impose −1 or −2 dice on Social tests against Kindred who know the character is Caitiff, even if Status was acquired later."
+              },
+              {
+                "title": "Use and source",
+                "text": "Absence of a Bane does not remove the Flaws and social restrictions above. Narrative requirements, Vitae consumption and other Kindred’s reactions remain under Storyteller control. Consult the original page for history and archetypes. This consultation grants no dots and does not rewrite saved choices."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "clan-thin-blood",
+      "kind": "clan",
+      "names": {
+        "pt-BR": "Sangue-Ralo",
+        "en": "Thin-blood"
+      },
+      "aliases": [
+        "Sangue-Ralo",
+        "Thin-blood",
+        "Sangue-Fraco",
+        "Sangues-Ralos",
+        "Thin Blood",
+        "Duskborn"
+      ],
+      "versions": [
+        {
+          "id": "clan-thin-blood-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, pp. 111, 113",
+          "sourceLanguage": "pt-BR",
+          "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+          "pages": [
+            {
+              "pdfPage": 113,
+              "printedPage": 111
+            },
+            {
+              "pdfPage": 115,
+              "printedPage": 113
+            }
+          ],
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Natureza, Sangue e Potência",
+                "text": "Criado por um vampiro da 13ª geração ou superior, pertence formalmente à 14ª, 15ª ou 16ª geração, mas os traços variam sem uma relação rígida com esse número. É fundamentalmente um vampiro e segue as regras gerais salvo exceções. Potência de Sangue é sempre 0. A capacidade de criar Laços e Abraçar não é garantida. Vitae equivalente a uma Checagem de Sangue concede poderes de carniçal a um mortal por apenas uma noite."
+              },
+              {
+                "title": "Clã, Perdição e Compulsão",
+                "text": "É considerado Sem-Clã e não sofre Perdição nem Compulsão específica de um clã. Qualidades e Defeitos próprios de Sangue-Ralo podem modificar suas características e devem ser conferidos separadamente."
+              },
+              {
+                "title": "Dano e recuperação",
+                "text": "Normalmente recebe dano como mortal e se recupera como vampiro. Armas cortantes e perfurantes causam dano Agravado, assim como fogo. Uma estaca não o paralisa sobrenaturalmente: provoca trauma físico grave e pode levá-lo ao Torpor. Use a recuperação vampírica após o ferimento."
+              },
+              {
+                "title": "Disciplinas por alimentação",
+                "text": "Alquimia permite reproduzir poderes por receitas próprias. Além disso, ao se alimentar, ganha temporariamente 1 ponto numa Disciplina associada à Ressonância consumida e um poder de nível 1. Ressonância intensa ou mais forte concede outro ponto e um segundo poder. Não recebe poderes adicionais dessa forma e não aumenta essa Disciplina temporária com XP. Ela dura até a Fome chegar a 5 ou até a próxima alimentação."
+              },
+              {
+                "title": "Fome e Frenesi",
+                "text": "Sofre Fome como os outros vampiros, mas não entra em Frenesi naturalmente. Meios sobrenaturais, como Animalismo, ainda podem provocá-lo. A imunidade ao Frenesi natural não elimina a Fome nem seus demais efeitos."
+              },
+              {
+                "title": "Semblante de Vida e luz solar",
+                "text": "Sempre parece ter usado Rubor de Vida, com efeitos conforme sua Humanidade. Sob sol direto, recebe apenas 1 dano Superficial por turno. Luz menos direta causa dano com menor frequência: nuvens pesadas, disfarce e proteção de roupas ou filtro solar de alto fator podem reduzir a frequência para cada três turnos ou uma vez por minuto, conforme a situação."
+              },
+              {
+                "title": "Mudança de condição",
+                "text": "Pode continuar Sangue-Ralo sem envelhecer. Diablerizar um Membro pode transformá-lo em vampiro da 13ª geração do clã da vítima. O livro também apresenta como rumor a volta à mortalidade pela preservação da Humanidade e eliminação do próprio Senhor; isso não é uma cura automática garantida por esta ficha."
+              },
+              {
+                "title": "Uso e referência",
+                "text": "As regras acima são as características gerais das páginas impressas 111 e 113 do PDF fornecido. Não ativam automaticamente poderes de Ressonância, Diablerie ou proteção solar. As Qualidades e Defeitos específicos são escolhas separadas; a consulta não os concede nem os substitui."
+              }
+            ],
+            "en": [
+              {
+                "title": "Nature, Blood and Potency",
+                "text": "Embraced by a vampire of 13th Generation or higher, formally belongs to the 14th, 15th or 16th Generation, but traits vary without a strict relationship to that number. Fundamentally a vampire and follows general rules unless an exception applies. Blood Potency is always 0. The ability to Bond or Embrace is not guaranteed. Vitae equivalent to one Rouse Check grants a mortal ghoul powers for only one night."
+              },
+              {
+                "title": "Clan, Bane and Compulsion",
+                "text": "Considered Clanless and suffers no clan-specific Bane or Compulsion. Thin-blood Merits and Flaws can modify these traits and must be checked separately."
+              },
+              {
+                "title": "Damage and mending",
+                "text": "Normally takes damage as a mortal but mends as a vampire. Cutting and piercing weapons cause Aggravated damage, as does fire. A stake does not supernaturally paralyze the character: it causes severe physical trauma and may cause Torpor. Use vampire mending after injury."
+              },
+              {
+                "title": "Disciplines from feeding",
+                "text": "Alchemy reproduces powers through individual recipes. Additionally, feeding temporarily grants 1 dot in a Discipline associated with the consumed Resonance and one level-1 power. Intense or stronger Resonance grants another dot and a second power. No additional powers can be gained this way and this temporary Discipline cannot be increased with XP. It lasts until Hunger reaches 5 or the next feeding."
+              },
+              {
+                "title": "Hunger and frenzy",
+                "text": "Suffers Hunger like other vampires but does not naturally frenzy. Supernatural means such as Animalism can still provoke it. Immunity to natural frenzy does not remove Hunger or its other effects."
+              },
+              {
+                "title": "Lifelike appearance and sunlight",
+                "text": "Always appears to have used Blush of Life, with effects determined by Humanity. Direct sunlight causes only 1 Superficial damage each turn. Less direct light damages less frequently: heavy cloud cover, disguise and protection from clothing or high-factor sunscreen may reduce the frequency to once every three turns or once per minute, as appropriate."
+              },
+              {
+                "title": "Changing condition",
+                "text": "Can remain a Thin-blood without aging. Diablerizing a Kindred can transform the character into a 13th-Generation vampire of the victim’s clan. The book also presents returning to mortality through preserving Humanity and destroying one’s own sire as a rumor; this sheet does not guarantee that as an automatic cure."
+              },
+              {
+                "title": "Use and reference",
+                "text": "These are the general traits on printed pages 111 and 113 of the supplied PDF. They do not automatically activate Resonance powers, Diablerie or sunlight protection. Specific Merits and Flaws are separate choices; consultation neither grants nor replaces them."
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

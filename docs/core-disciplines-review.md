@@ -150,3 +150,15 @@ silenciosamente por variantes. Não há aplicação automática de efeitos de ce
 Os textos pessoais de Perdição e Compulsão salvos continuam preservados. História
 e arquétipos permanecem na biblioteca, e Caitiff/Sangue-Ralo continuam pendentes
 deste bloco. Gerador `review-core-clans.py`; teste `check-core-clans.mjs`.
+
+## Oitavo bloco: referências de Caitiff e Sangue-Ralo
+
+PDF 109, 113 e 115, conferidos nas imagens. Caitiff inclui acesso a Disciplinas,
+custo padrão de XP, Suspeito e restrição de Status. Sangue-Ralo inclui Potência
+zero, Vitae, dano, recuperação, Ressonância temporária, Frenesi, Semblante de
+Vida, sol e a distinção entre Diablerie e rumores de retorno à mortalidade.
+
+Este bloco acrescenta consulta e exportação dessas regras. Aplicação guiada de
+Suspeito/Status, limites de Potência, poderes temporários e Qualidades/Defeitos
+específicos continua pendente; não declara esses fluxos completos. Gerador
+`review-core-clanless.py`; teste `check-core-clanless.mjs`, preservando 343 entradas.

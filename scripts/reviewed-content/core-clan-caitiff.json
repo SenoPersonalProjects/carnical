@@ -1,0 +1,66 @@
+{
+  "id": "clan-caitiff",
+  "kind": "clan",
+  "names": {
+    "pt-BR": "Caitiff",
+    "en": "Caitiff"
+  },
+  "aliases": [
+    "Caitiff",
+    "Sem-Clã",
+    "Clanless"
+  ],
+  "versions": [
+    {
+      "id": "clan-caitiff-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, pp. 107",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 109,
+          "printedPage": 107
+        }
+      ],
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Sem uma linhagem reconhecida, Caitiff podem nascer de Senhores Sem-Clã ou de um Abraço cujo Sangue ancestral não se manifesta. A ausência de Perdição herdada vem acompanhada de rejeição social e de aprendizado menos especializado."
+          },
+          {
+            "title": "Disciplinas e aprendizado",
+            "text": "Escolha três Disciplinas às quais terá acesso após o Abraço. Elas não contam como Disciplinas de Clã para custos de XP. Pode aprender outras pelo mesmo preço, desde que prove ao menos uma vez o Sangue de alguém que possua a Disciplina e cumpra os requisitos normais. O custo padrão de aumento é novo nível × 6 XP, independentemente de ser uma das três escolhas iniciais."
+          },
+          {
+            "title": "Perdição e restrições de criação",
+            "text": "Não herda uma Perdição dos Antediluvianos. Começa com o Defeito Suspeito 1 e não pode adquirir Status durante a criação. O Narrador pode impor −1 ou −2 dados em testes Sociais contra Membros que saibam que é Caitiff, mesmo que mais tarde tenha obtido Status."
+          },
+          {
+            "title": "Uso e fonte",
+            "text": "A ausência de Perdição não elimina os Defeitos e restrições sociais acima. Requisitos narrativos, consumo de Vitae e reações de outros Membros continuam sob condução do Narrador. Consulte a página original para história e arquétipos. Esta consulta não concede pontos nem reescreve escolhas salvas."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Without a recognized lineage, Caitiff may descend from Clanless sires or an Embrace in which ancestral Blood fails to manifest. Freedom from an inherited Bane comes with social rejection and less specialized learning."
+          },
+          {
+            "title": "Disciplines and learning",
+            "text": "Choose three Disciplines available after the Embrace. They do not count as Clan Disciplines for XP costs. Other Disciplines can be learned at the same price after tasting the Blood of someone who possesses the Discipline at least once and meeting its normal requirements. The standard increase cost is new level × 6 XP, whether or not it was one of the original three choices."
+          },
+          {
+            "title": "Bane and creation restrictions",
+            "text": "Does not inherit an Antediluvian Bane. Starts with the Suspect 1 Flaw and cannot purchase Status during creation. The Storyteller may impose −1 or −2 dice on Social tests against Kindred who know the character is Caitiff, even if Status was acquired later."
+          },
+          {
+            "title": "Use and source",
+            "text": "Absence of a Bane does not remove the Flaws and social restrictions above. Narrative requirements, Vitae consumption and other Kindred’s reactions remain under Storyteller control. Consult the original page for history and archetypes. This consultation grants no dots and does not rewrite saved choices."
+          }
+        ]
+      }
+    }
+  ]
+}
