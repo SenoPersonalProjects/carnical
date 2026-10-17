@@ -16841,6 +16841,409 @@
           }
         }
       ]
+    },
+    {
+      "id": "caitiff-befouling-vitae",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Vitae Corruptora",
+        "en": "Befouling Vitae"
+      },
+      "aliases": [
+        "Vitae Corruptora",
+        "Befouling Vitae"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-befouling-vitae-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 127",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-clan-curse",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Maldição de Clã",
+        "en": "Clan Curse"
+      },
+      "aliases": [
+        "Maldição de Clã",
+        "Clan Curse"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-clan-curse-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 127",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true,
+            "requiresDetail": true,
+            "detailLabel": {
+              "pt-BR": "Clã cuja Perdição foi herdada",
+              "en": "Clan whose Bane was inherited"
+            },
+            "detailOptions": [
+              "Banu Haqim",
+              "Brujah",
+              "Gangrel",
+              "Hecata",
+              "Lasombra",
+              "Malkavian",
+              "Ministry",
+              "Nosferatu",
+              "Ravnos",
+              "Salubri",
+              "Toreador",
+              "Tremere",
+              "Tzimisce",
+              "Ventrue"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-debt-peon",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Servo das Dívidas",
+        "en": "Debt Peon"
+      },
+      "aliases": [
+        "Servo das Dívidas",
+        "Debt Peon"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-debt-peon-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 127",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true,
+            "requiresDetail": true,
+            "detailLabel": {
+              "pt-BR": "Credor e favores devidos",
+              "en": "Creditor and boons owed"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-favored-blood",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Sangue Favorecido",
+        "en": "Favored Blood"
+      },
+      "aliases": [
+        "Sangue Favorecido",
+        "Favored Blood"
+      ],
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-favored-blood-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 126",
+          "level": 4,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true,
+            "incompatibleItems": [
+              "caitiff-muddled-blood"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-liquidator",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Liquidador",
+        "en": "Liquidator"
+      },
+      "aliases": [
+        "Liquidador",
+        "Liquidator"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-liquidator-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 127",
+          "level": 1,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true,
+            "incompatibleItems": [
+              "caitiff-uncle-fangs"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-mark-of-caine",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Marca de Caim",
+        "en": "Mark of Caine"
+      },
+      "aliases": [
+        "Marca de Caim",
+        "Mark of Caine"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-mark-of-caine-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 126",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-mockingbird",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Pássaro Imitador",
+        "en": "Mockingbird"
+      },
+      "aliases": [
+        "Pássaro Imitador",
+        "Mockingbird"
+      ],
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-mockingbird-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 126",
+          "level": 3,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-muddled-blood",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Sangue Confuso",
+        "en": "Muddled Blood"
+      },
+      "aliases": [
+        "Sangue Confuso",
+        "Muddled Blood"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-muddled-blood-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 127",
+          "level": 1,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true,
+            "incompatibleItems": [
+              "caitiff-favored-blood"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-sun-scarred",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Marcado pelo Sol",
+        "en": "Sun-Scarred"
+      },
+      "aliases": [
+        "Marcado pelo Sol",
+        "Sun-Scarred"
+      ],
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-sun-scarred-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 126",
+          "level": 5,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-uncle-fangs",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Tio Presas",
+        "en": "Uncle Fangs"
+      },
+      "aliases": [
+        "Tio Presas",
+        "Uncle Fangs"
+      ],
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-uncle-fangs-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 127",
+          "level": 3,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true,
+            "incompatibleItems": [
+              "caitiff-liquidator"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-walking-omen",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Presságio Ambulante",
+        "en": "Walking Omen"
+      },
+      "aliases": [
+        "Presságio Ambulante",
+        "Walking Omen"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-walking-omen-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 127, 128",
+          "level": 2,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "caitiff-word-scarred",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Marcado por Palavras",
+        "en": "Word-Scarred"
+      },
+      "aliases": [
+        "Marcado por Palavras",
+        "Word-Scarred"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "caitiff-word-scarred-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 128",
+          "level": 1,
+          "requirements": {
+            "clans": [
+              "Caitiff"
+            ],
+            "storytellerApproval": true,
+            "requiresDetail": true,
+            "detailLabel": {
+              "pt-BR": "Força ocultista e conhecimento inscrito",
+              "en": "Occult force and inscribed lore"
+            }
+          }
+        }
+      ]
     }
   ]
 }

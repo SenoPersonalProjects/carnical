@@ -1,0 +1,64 @@
+{
+  "id": "caitiff-uncle-fangs",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Tio Presas",
+    "en": "Uncle Fangs"
+  },
+  "aliases": [
+    "Tio Presas",
+    "Uncle Fangs"
+  ],
+  "level": 3,
+  "versions": [
+    {
+      "id": "caitiff-uncle-fangs-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 127",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 3,
+      "pages": [
+        {
+          "pdfPage": 129,
+          "printedPage": 127
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true,
+        "incompatibleItems": [
+          "caitiff-liquidator"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Os Sangues-Ralos locais o conhecem como mentor e guia. Quaisquer que sejam suas verdadeiras motivações, você normalmente consegue ajuda entre os Crepusculares sem precisar pedir duas vezes."
+          },
+          {
+            "title": "Sistema",
+            "text": "Você tem fácil acesso a uma coterie local de três a cinco Sangues-Ralos. Eles costumam saber dos acontecimentos das ruas antes dos demais e às vezes podem fornecer preparados de Alquimia. Trate-os como um grupo de Aliados (Livro Básico, p. 192), mas, diferentemente dos Aliados comuns, esse grupo é morto-vivo, ainda que por pouco. Não pode ser combinado com Liquidador."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "3 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "The local thin-bloods know you as a mentor and guide. Whatever your true motivations, you can often find aid among the Duskborn without having to ask twice. You have easy access to a local coterie of three to five thin-bloods. They often know what’s happening on the street before anyone else, and can sometimes provide you with Alchemical concoctions. Treat this group as an Ally group (Vampire: The Masquerade, p. 192), though contrary to regular Allies, this group is undead, if only just. Cannot be taken with Liquidator (p. 127). "
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "3 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

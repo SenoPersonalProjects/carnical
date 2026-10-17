@@ -1,0 +1,65 @@
+{
+  "id": "caitiff-walking-omen",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Presságio Ambulante",
+    "en": "Walking Omen"
+  },
+  "aliases": [
+    "Presságio Ambulante",
+    "Walking Omen"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "caitiff-walking-omen-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 127, 128",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 129,
+          "printedPage": 127
+        },
+        {
+          "pdfPage": 130,
+          "printedPage": 128
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Muitos vampiros dependem de premonições e presságios noturnos. Você funciona como um ímã que desvia essas bússolas sobrenaturais. Adivinhações, premonições e outras previsões do futuro ou da sorte em seu domínio frequentemente apontam você como fonte de desastres. Aliados próximos aprenderam a ignorar isso; outros oráculos o denunciam aos gritos, quando você não está sendo caçado por quem tenta impedir um futuro que acredita que você causará."
+          },
+          {
+            "title": "Sistema",
+            "text": "Os efeitos finais deste Defeito cabem ao Narrador, mas ele deve causar pelo menos um conflito sério por história."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "2 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Many vampires rely on prescience or read omens on a nightly basis, and you happen to act as a magnet, skewing these supernatural compasses. Any scrying, premonitions, or other forms of future- or fortune telling in your domain regularly points to you as a source of disaster and misfortune. While your close allies have learned to tune it out, other oracles single you out, screeching, when you are not being hunted by those who want to redirect a future that they believe will come to pass at your hands. The effects of this Flaw are ultimately up to the Storyteller, but it should at the very least cause one serious altercation per story."
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "2 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

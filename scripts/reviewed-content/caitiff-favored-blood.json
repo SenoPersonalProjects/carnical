@@ -1,0 +1,64 @@
+{
+  "id": "caitiff-favored-blood",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Sangue Favorecido",
+    "en": "Favored Blood"
+  },
+  "aliases": [
+    "Sangue Favorecido",
+    "Favored Blood"
+  ],
+  "level": 4,
+  "versions": [
+    {
+      "id": "caitiff-favored-blood-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 126",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 4,
+      "pages": [
+        {
+          "pdfPage": 128,
+          "printedPage": 126
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true,
+        "incompatibleItems": [
+          "caitiff-muddled-blood"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "O poder vampírico, livre da maldição dos Antigos, flui por você. Seu domínio intuitivo e lendário das capacidades dos Membros provavelmente inspira admiração e medo em outros vampiros."
+          },
+          {
+            "title": "Sistema",
+            "text": "Você pode comprar pontos em qualquer Disciplina mesmo sem jamais ter provado o sangue de outro vampiro que a possua. Não pode ser combinado com o Defeito Sangue Confuso."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "4 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Vampiric power unfettered by the curse of the Ancients flows through you. Your intuitive and legendary command of Kindred prowess likely inspires both awe and fear in other vampires. You can buy dots in any Discipline even if you’ve never tasted the blood of another vampire with that Discipline. Cannot be taken with the Muddled Blood Flaw (see p. 127)."
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "4 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

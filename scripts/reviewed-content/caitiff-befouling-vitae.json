@@ -1,0 +1,61 @@
+{
+  "id": "caitiff-befouling-vitae",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Vitae Corruptora",
+    "en": "Befouling Vitae"
+  },
+  "aliases": [
+    "Vitae Corruptora",
+    "Befouling Vitae"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "caitiff-befouling-vitae-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 127",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 129,
+          "printedPage": 127
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Quando você Abraça mortais ou os deixa mortos após se alimentar, seu Sangue os transforma em cadáveres maníacos de fome insaciável."
+          },
+          {
+            "title": "Sistema",
+            "text": "Qualquer mortal que você Abrace ou mate ao se alimentar retorna como um ser degenerado e desesperado em poucas noites. Essas criaturas geralmente são fracas (trate como Carniçal, Livro Básico, p. 372), mas às vezes o Sangue produz um verdadeiro monstro (trate como Degenerado, Livro Básico, p. 375). Sua não vida exige constantes operações de limpeza: se o Príncipe ou Barão descobrir sua condição, os poderosos provavelmente farão uma visita pessoal e fatal."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "2 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "When you Embrace mortals or leave them for dead from feeding, the Blood twists them into maniacal corpses with an unquenchable hunger. Any mortal you Embrace or kill by feeding returns as a desperate wight within a few nights. While these unfortunates are often too weak to be much of a threat (treat as a Ghoul; see Vampire: The Masquerade, p. 372), sometimes a trick of the Blood sees a real monster arise (treat as a Wight; see Vampire: The Masquerade, p. 375). Your unlife is a steady stream of clean-up jobs, for as soon as the local Prince or Baron gets wind of your condition you are likely to receive a personal (and terminal) visit from the powers that be."
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "2 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

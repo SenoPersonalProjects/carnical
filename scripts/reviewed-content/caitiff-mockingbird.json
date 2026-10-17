@@ -1,0 +1,61 @@
+{
+  "id": "caitiff-mockingbird",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Pássaro Imitador",
+    "en": "Mockingbird"
+  },
+  "aliases": [
+    "Pássaro Imitador",
+    "Mockingbird"
+  ],
+  "level": 3,
+  "versions": [
+    {
+      "id": "caitiff-mockingbird-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 126",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 3,
+      "pages": [
+        {
+          "pdfPage": 128,
+          "printedPage": 126
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Órfãos costumam ser injustamente chamados de ladrões e diableristas, mas alguns realmente conseguem imitar poderes de outros vampiros após provar seu sangue."
+          },
+          {
+            "title": "Sistema",
+            "text": "Durante uma noite após beber sangue de um vampiro em quantidade equivalente a um dado de Fome, você pode escolher e usar um poder de Disciplina que ele possua. O nível do poder não pode superar sua Disciplina mais alta; você não precisa possuir a mesma Disciplina. Faça normalmente os Testes de Sangue para ativá-lo. Outras rolagens necessárias usam o nível de Disciplina do doador e seus próprios Atributos. Durante esse período, você também imita a Perdição do clã do doador, com a mesma Gravidade dele. Apenas um poder pode ser emprestado dessa maneira por noite."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "3 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Orphans are often unfairly labeled thieves and diablerists, but some actually do have the power to mimic the powers of other vampires after tasting their blood. For one night after drinking one Hunger die worth of blood from a vampire, you can choose and employ one Discipline power possessed by the Kindred from whom you fed. The power cannot be of a level higher than your highest Discipline, though you do not need to possess the same Discipline. Roll Rouse Checks as normal to activate this power. Any other rolls required to use the power use the donor’s Discipline level and your Attributes. During this time, you mimic the donor’s clan bane with the same severity level as the donor. Only one power can be “borrowed” in this way per night."
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "3 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

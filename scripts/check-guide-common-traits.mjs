@@ -5,7 +5,7 @@ function load(file){file=path.resolve(file);if(cache.has(file))return cache.get(
 const entries=load('app/content/catalog.json').entries,eligibility=load('app/content/item-eligibility.ts'),banes=load('app/content/clan-banes.ts'),{addCreationItem}=load('app/content/creation-item-effects.ts'),{catalogAdvantageQuote:quote}=load('app/content/catalog-item-xp.ts');
 const old=JSON.parse(execFileSync('git',['show','16c00d9:app/content/catalog.json'],{encoding:'utf8',maxBuffer:30e6})).entries;
 for(const entry of old)assert.deepEqual(entries.find(e=>e.id===entry.id),entry);
-const added=entries.filter(e=>!old.some(v=>v.id===e.id));assert.equal(added.length,20);
+const added=entries.filter(e=>e.id.startsWith('guide-merit-')||e.id.startsWith('guide-flaw-')||e.id==='guide-background-city-secrets');assert.equal(added.length,20);
 for(const entry of added)for(const version of entry.versions){for(const locale of ['pt-BR','en'])assert.ok(version.descriptions[locale].length>=2);for(const page of version.pages)assert.ok(fs.existsSync(`public/source-pages/${version.book}/${String(page.pdfPage).padStart(4,'0')}.webp`));}
 const entry=id=>entries.find(e=>e.id===id),version=id=>entry(id).versions[0],item=(id,detail)=>({name:entry(id).names['pt-BR'],dots:version(id).level,source:'players_guide_v5',notes:'',catalogId:id,versionId:version(id).id,instanceId:crypto.randomUUID(),instanceName:detail});
 const context={phase:'creation',clan:'Lasombra',activeSources:new Set(['core_v5_ptbr','players_guide_v5']),skills:{},disciplines:{},bloodPotency:1};

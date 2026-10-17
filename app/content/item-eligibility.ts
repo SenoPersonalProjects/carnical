@@ -52,6 +52,7 @@ export function catalogInstanceCount(items:ReadonlyArray<KnownItem>,id:string){r
 export function catalogDetailValid(id:string,version:IndexedVersion,items:ReadonlyArray<KnownItem>,detail:string|undefined){
  const requirements=version.requirements,name=detail?.trim()||"";
  if((requirements?.requiresDetail||requirements?.repeatableInstances)&&!name)return false;
+ if(requirements?.detailOptions&&!requirements.detailOptions.includes(name))return false;
  if(requirements?.maxInstances&&catalogInstanceCount(items,id)>=requirements.maxInstances)return false;
  if(requirements?.differentDetails&&items.some(item=>indexedItem(item).entry?.id===id&&!!indexedItem(item).version&&foldContent(item.instanceName||"")===foldContent(name)))return false;
  return true;

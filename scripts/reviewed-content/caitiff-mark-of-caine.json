@@ -1,0 +1,61 @@
+{
+  "id": "caitiff-mark-of-caine",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Marca de Caim",
+    "en": "Mark of Caine"
+  },
+  "aliases": [
+    "Marca de Caim",
+    "Mark of Caine"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "caitiff-mark-of-caine-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 126",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 128,
+          "printedPage": 126
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Você possui uma marca física ou espiritual que faz outros vampiros hesitarem. Membros da Camarilla e Ashirra a temem. Anarquistas alegam respeitar sua brincadeira com as superstições dos anciões, mas também evitam olhar de perto. Até Cainitas do Sabá hesitam em enfrentá-lo, embora Nodistas especialmente religiosos possam lhe dar atenção indesejada."
+          },
+          {
+            "title": "Sistema",
+            "text": "Receba dois dados adicionais em qualquer tentativa de intimidar, ameaçar ou subjugar outros vampiros que acreditem no mito de Caim. Quem tentar cometer diablerie em você não pode acrescentar a própria Potência de Sangue à rolagem; qualquer falha nessa rolagem resulta em falha bestial."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "2 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "You bear a mark, either physical or spiritual, that gives other vampires pause. Camarilla and Ashirra vampires look on your mark with fear, while Anarchs claim to respect you for playing with elder superstition — but they don’t look at your mark too closely either. Even Sabbat Cainites hesitate to tangle with you, though particularly religious Noddists might target you for special attention. You gain two bonus dice on any attempt to intimidate, bully, or cow other vampires who subscribe to the myth of Caine. Anyone attempting to commit diablerie on you cannot add their Blood Potency to the roll and any failure to their roll results in a bestial failure."
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "2 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

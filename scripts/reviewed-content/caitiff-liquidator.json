@@ -1,0 +1,64 @@
+{
+  "id": "caitiff-liquidator",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Liquidador",
+    "en": "Liquidator"
+  },
+  "aliases": [
+    "Liquidador",
+    "Liquidator"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "caitiff-liquidator-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 127",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 1,
+      "pages": [
+        {
+          "pdfPage": 129,
+          "printedPage": 127
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true,
+        "incompatibleItems": [
+          "caitiff-uncle-fangs"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Sangues-Ralos o chamam de Pander e o evitam sempre que possível. Eles até se recusam a falar abertamente com seus companheiros de coterie e associados. Talvez você tenha sido algoz ou demonstrado crueldade especial no grupo do Xerife."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sofra uma penalidade de dois dados em todas as paradas de Habilidades Sociais contra Sangues-Ralos, exceto Intimidação. Não pode ser combinado com Tio Presas."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "1 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Thin-bloods call you a Pander and avoid you whenever possible. They even refuse to speak openly with your coterie mates or other associates. Perhaps you served as a scourge, or just displayed particular cruelty as a member of the Sheriff’s posse. Take a two-dice penalty to all your Social skill dice pools against thin-bloods, other than Intimidation. Cannot be taken with Uncle Fangs (p. 127)."
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "1 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

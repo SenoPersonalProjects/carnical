@@ -1,0 +1,61 @@
+{
+  "id": "caitiff-sun-scarred",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Marcado pelo Sol",
+    "en": "Sun-Scarred"
+  },
+  "aliases": [
+    "Marcado pelo Sol",
+    "Sun-Scarred"
+  ],
+  "level": 5,
+  "versions": [
+    {
+      "id": "caitiff-sun-scarred-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 126",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 5,
+      "pages": [
+        {
+          "pdfPage": 128,
+          "printedPage": 126
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "É um mito comum que Caitiff e Sangues-Ralos possam caminhar ao sol, mas pouquíssimos possuem algo semelhante a essa capacidade. Às vezes chamados de Andarilhos do Dia, os Caitiff com esse poder normalmente o escondem para evitar serem caçados e devorados. Outros podem procurá-los pela experiência e pela vantagem sobre aqueles que precisam dormir durante o dia."
+          },
+          {
+            "title": "Sistema",
+            "text": "No primeiro turno em que for exposto à luz solar em uma cena, não receba dano de Vitalidade: receba 1 dano agravado em Vontade e obtenha sucesso automático nos testes para resistir ao Frenesi de Terror. Pelo restante da cena, todo dano agravado de Vitalidade causado pela luz solar é imediatamente convertido em dano superficial."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "5 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "While it’s a common myth among Kindred that Caitiff and thin-bloods can walk in the sunlight, only a rare few have anything resembling that ability. These few are sometimes called Daywalkers, and those Caitiff who have this power usually keep it a secret for fear of being hunted and cannibalized by others. Unsurprisingly, Outcasts who can walk in the day may find themselves sought out for their particular acumen and the advantage it grants them over those who must slumber by day. The first turn you are exposed to Sunlight in a scene, take no Health damage, take 1 Aggravated Willpower damage, and automatically succeed on any rolls to resist terror frenzy. For the remainder of the scene all Aggravated Health damage you take from sunlight is instantly converted into Superficial damage."
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "5 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "caitiff-clan-curse",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Maldição de Clã",
+    "en": "Clan Curse"
+  },
+  "aliases": [
+    "Maldição de Clã",
+    "Clan Curse"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "caitiff-clan-curse-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 127",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 129,
+          "printedPage": 127
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Clã cuja Perdição foi herdada",
+          "en": "Clan whose Bane was inherited"
+        },
+        "detailOptions": [
+          "Banu Haqim",
+          "Brujah",
+          "Gangrel",
+          "Hecata",
+          "Lasombra",
+          "Malkavian",
+          "Ministry",
+          "Nosferatu",
+          "Ravnos",
+          "Salubri",
+          "Toreador",
+          "Tremere",
+          "Tzimisce",
+          "Ventrue"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Você é Caitiff por muito pouco e ainda sofre a maldição do clã de seu senhor. Isso às vezes permite passar por integrante daquele clã, mas normalmente só acrescenta sofrimento à sua existência."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sofra uma Perdição de clã vampírico à sua escolha, provavelmente a de seu senhor, se souber quem ele é. A Gravidade é reduzida à metade, arredondada para baixo, com mínimo de 1."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "2 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "A Caitiff by hair’s breadth, you still suffer the curse of your sire’s clan. While this can sometimes help you pass for a member of that clan, most often than not it just adds another pain to your tortured existence. You suffer from a vampire clan bane of your choice, likely that of your sire (if you even know who they are). Its severity is halved (round down, minimum of 1)."
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "2 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

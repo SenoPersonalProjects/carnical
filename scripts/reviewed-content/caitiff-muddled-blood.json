@@ -1,0 +1,64 @@
+{
+  "id": "caitiff-muddled-blood",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Sangue Confuso",
+    "en": "Muddled Blood"
+  },
+  "aliases": [
+    "Sangue Confuso",
+    "Muddled Blood"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "caitiff-muddled-blood-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 127",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 1,
+      "pages": [
+        {
+          "pdfPage": 129,
+          "printedPage": 127
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true,
+        "incompatibleItems": [
+          "caitiff-favored-blood"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Seu Sangue não consegue recordar sua natureza e precisa ser lembrado de seu poder inerente toda vez que você deseja fortalecê-lo."
+          },
+          {
+            "title": "Sistema",
+            "text": "Mesmo que já possua uma Disciplina, você precisa beber o Sangue de alguém que a possua para comprar pontos nela. Não pode ser combinado com a Qualidade Sangue Favorecido."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "1 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your Blood cannot recall its nature and must be reminded of its inherent power every time you want to strengthen it. Even if you already possess a Discipline you must drink the Blood of someone who possesses it in order to buy dots in it. Cannot be taken with the Favored Blood Merit (see p. 126)."
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "1 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

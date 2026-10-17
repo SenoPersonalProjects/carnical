@@ -1,0 +1,66 @@
+{
+  "id": "caitiff-word-scarred",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Marcado por Palavras",
+    "en": "Word-Scarred"
+  },
+  "aliases": [
+    "Marcado por Palavras",
+    "Word-Scarred"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "caitiff-word-scarred-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 128",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 1,
+      "pages": [
+        {
+          "pdfPage": 130,
+          "printedPage": 128
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Força ocultista e conhecimento inscrito",
+          "en": "Occult force and inscribed lore"
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Seu corpo, ou parte dele, está coberto por textos antigos do saber vampírico. Talvez seu senhor os tenha inscrito em você ou tenham surgido sozinhos após o Abraço. Forças obscuras conspiram para usar ou destruir esse conhecimento."
+          },
+          {
+            "title": "Sistema",
+            "text": "O principal adversário ou força ocultista da crônica interfere com frequência em sua vida, tentando aprisioná-lo, esfolá-lo, apagar sua memória, prendê-lo por Laço de Sangue ou neutralizá-lo de outra maneira. Essas forças não se rebaixariam a recrutar um Caitiff: para elas, você é um livro perdido e desobediente. Talvez duas forças disputem o direito de editá-lo. Qualquer outro personagem que leia o texto inteiro em sua pele descobre um segredo terrível sobre a Gehenna, profecias Nodistas, mistérios Bahari ou algo semelhante. Você e o Narrador podem decidir isso juntos, ou o segredo pode ser um mistério até para você."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "1 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your body or a portion of it is covered in ancient texts of vampiric lore. Perhaps your sire inscribed them upon you, or they appeared on their own after the Embrace. Either way, shadowy forces conspire to use or destroy this lore. The major occult foe or force in the chronicle often interferes in your life, seeking to imprison, flense, mind-wipe, Blood Bond, or otherwise neutralize you. (They would never lower themselves to recruit a Caitiff, don’t be silly. You’re just a lost, disobedient book to them.) Maybe two such forces fight over the right to edit you! Any other character who “reads” the full text on your skin learns a terrible secret regarding Gehenna, Noddist prophecy, Bahari mysteries, or the like. You and the Storyteller may decide this together, or it may be a mystery to you!"
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "1 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}

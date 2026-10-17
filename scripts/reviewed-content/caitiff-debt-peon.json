@@ -1,0 +1,66 @@
+{
+  "id": "caitiff-debt-peon",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Servo das Dívidas",
+    "en": "Debt Peon"
+  },
+  "aliases": [
+    "Servo das Dívidas",
+    "Debt Peon"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "caitiff-debt-peon-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 127",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 2,
+      "pages": [
+        {
+          "pdfPage": 129,
+          "printedPage": 127
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Caitiff"
+        ],
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Credor e favores devidos",
+          "en": "Creditor and boons owed"
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Órfãos frequentemente precisam vender a própria alma a Príncipes e Barões para encontrar um lugar na noite. Poucos conseguem sair do bolso dos poderosos: o sistema de favores deixa de funcionar quando a sociedade dos Membros se recusa a reconhecer a existência política e os direitos do devedor."
+          },
+          {
+            "title": "Sistema",
+            "text": "Você deve vários favores menores, ou até alguns maiores, a um vampiro de Status elevado; talvez seu senhor tenha contraído as dívidas. Contabilizá-las é inútil: o credor exige novos favores sempre que tem vantagem sobre você e só considera um favor quitado quando seus pares o obrigam. Ele recebe dois dados adicionais em combate social contra você diante de outros Membros. Recusar-se a honrar a dívida acrescenta o Defeito Rejeitado (2 pontos) e pode até provocar uma Caçada de Sangue."
+          },
+          {
+            "title": "Valor e requisitos",
+            "text": "2 ponto(s). Apenas para Caitiff."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Orphans often have to sell their proverbial souls to Princes and Barons to find their place in the night. These debts add up and few Caitiff ever climb out of the pocket of those in power, because the prestation system breaks down when Kindred society refuses to recognize the political existence, much less the rights, of the debtor. You owe several minor boons, or even a few major boons, to a high-Status vampire, possibly originally incurred by your Sire. Tracking these debts proves pointless, as the creditor extracts new boons whenever they have leverage over you and only considers any boon settled when forced to by their peers. They have a two-dice bonus to Social combat against you in front of other Kindred. Refusal to honor your debt adds the Shunned (••) Flaw, and may even result in a Blood Hunt against you."
+          },
+          {
+            "title": "Rating and requirements",
+            "text": "2 dot(s). Caitiff only."
+          }
+        ]
+      }
+    }
+  ]
+}
