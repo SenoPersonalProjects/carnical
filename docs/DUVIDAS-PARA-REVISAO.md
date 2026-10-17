@@ -169,6 +169,14 @@ ela não deve substituir silenciosamente o padrão do livro.
   da própria variante.
 - **Decisão / referência:** pendente para os casos de proibição nos itens.
 
+## 12. Duplamente Amaldiçoado e Perdição alternativa da crônica
+
+- **Item / nome:** Duplamente Amaldiçoado / Twice-Cursed, Guia do Jogador, p. 120 impressa (p. 122 do PDF).
+- **Contexto:** o Defeito mantém a Perdição padrão e acrescenta a variante do clã. Uma crônica pode substituir a padrão pela mesma variante para todos os membros do clã.
+- **Dúvida:** o trecho não esclarece a combinação entre essas duas escolhas. Não foi presumida duplicação da mesma variante, retorno obrigatório à padrão ou concessão gratuita de pontos.
+- **Tratamento provisório:** a seleção guiada exige a Perdição padrão. Uma escolha antiga conflitante é preservada e sinalizada para revisão; a variante não é aplicada duas vezes.
+- **Estado:** pendente de decisão do Narrador e referência, 17/10/2026.
+
 ## Apêndice — revisão editorial da tradução de Let the Streets Run Red
 
 Este grupo trata da fidelidade da tradução, não de decisões sobre regras.

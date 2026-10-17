@@ -1,0 +1,58 @@
+{
+  "id": "guide-flaw-weak-willed",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Vontade Fraca",
+    "en": "Weak-Willed"
+  },
+  "aliases": [
+    "Vontade Fraca",
+    "Weak-Willed"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "guide-flaw-weak-willed-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Player’s Guide V5, pp. 121",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 123,
+          "printedPage": 121
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Tem dificuldade em afirmar a própria personalidade contra a vontade alheia; pode sentir-se mais seguro seguindo outra pessoa, sem ser necessariamente leal a ela. Sofre −1 dado em paradas Sociais contra seu líder ou superior. Mesmo percebendo tentativas de influenciá-lo mental ou emocionalmente, como Dominação ou Presença, não pode usar sistemas de resistência ativa para evitar esses efeitos."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "2 ponto(s). Defeito: não concede XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "You struggle to assert your personality against another’s will, perhaps feeling safer following someone without necessarily being loyal. Take −1 die on Social pools against your leader or superior. Even when aware of mental or emotional influence, such as Dominate or Presence, you cannot use active resistance systems to avoid those effects."
+          },
+          {
+            "title": "Rating and use",
+            "text": "2 dot(s). Flaw: does not grant XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "guide-merit-untouchable",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Intocável",
+    "en": "Untouchable"
+  },
+  "aliases": [
+    "Intocável",
+    "Untouchable"
+  ],
+  "level": 5,
+  "versions": [
+    {
+      "id": "guide-merit-untouchable-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "sourceTitle": "Player’s Guide V5, pp. 120",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 122,
+          "printedPage": 120
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Uma vez por história, escapa de toda punição oficial por um crime que normalmente causaria sua destruição ou expulsão da seita. Ainda pode receber reprimenda privada ou consequências por canais não oficiais. A Corte ou Conselho frequentemente ignora delitos menores, mas Membros de menor posição podem agir por conta própria contra suas transgressões e impunidade. Defina com o Narrador a proteção política que explica esse privilégio."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "5 ponto(s). Qualidade: a escolha completa custa 15 XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Once per story, escape all official punishment for a crime that would normally lead to destruction or expulsion from your sect. Private reprimands and unofficial consequences may still occur. The Court or Council often ignores lesser crimes, but lower-ranking Kindred may act independently against your transgressions and impunity. Agree with the Storyteller what political protection explains the privilege."
+          },
+          {
+            "title": "Rating and use",
+            "text": "5 dot(s). Merit: the full fixed-rated choice costs 15 XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

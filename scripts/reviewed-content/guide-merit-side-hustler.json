@@ -1,0 +1,62 @@
+{
+  "id": "guide-merit-side-hustler",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Fazedor de Bicos",
+    "en": "Side Hustler"
+  },
+  "aliases": [
+    "Fazedor de Bicos",
+    "Side Hustler"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "guide-merit-side-hustler-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Player’s Guide V5, pp. 119, 120",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 121,
+          "printedPage": 119
+        },
+        {
+          "pdfPage": 122,
+          "printedPage": 120
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Uma vez por sessão, consegue um item, informação ou acesso a um evento como se tivesse 2 pontos no Antecedente apropriado: Recursos, Contatos ou Influência. Itens obtidos por Recursos provavelmente precisam ser devolvidos intactos. Frequentemente exige passar parte da noite cobrando favores e mobilizando sua rede informal. Não concede pontos permanentes nesses Antecedentes."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "2 ponto(s). Qualidade: a escolha completa custa 6 XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Once per session, obtain an item, information or access to an event as if you had 2 dots in the appropriate Resources, Contacts or Influence Background. Items obtained through Resources likely must be returned intact. This often takes part of the night calling in favors and mobilizing an informal network. It does not grant permanent dots in those Backgrounds."
+          },
+          {
+            "title": "Rating and use",
+            "text": "2 dot(s). Merit: the full fixed-rated choice costs 6 XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1342,6 +1342,27 @@
           "height": 1920
         },
         {
+          "pdfPage": 120,
+          "printedPage": 118,
+          "image": "/source-pages/players-guide-v5/0120.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 121,
+          "printedPage": 119,
+          "image": "/source-pages/players-guide-v5/0121.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
+          "pdfPage": 122,
+          "printedPage": 120,
+          "image": "/source-pages/players-guide-v5/0122.webp",
+          "width": 1500,
+          "height": 1920
+        },
+        {
           "pdfPage": 123,
           "printedPage": 121,
           "image": "/source-pages/players-guide-v5/0123.webp",

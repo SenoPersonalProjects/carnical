@@ -1,5 +1,5 @@
 import {contentById,sameContent} from "./resolve";
-import {indexedItem,itemEligibility,type ItemContext} from "./item-eligibility";
+import {indexedItem,itemEligibility,catalogInstanceCount,type ItemContext} from "./item-eligibility";
 import {sourcebookForLibraryId} from "../creation-sources";
 import {isPredatorItem,isPredatorPackageItem} from "../predator-benefits";
 import type {CreationItem} from "./creation-item-effects";
@@ -24,6 +24,7 @@ export function catalogAdvantageQuote(id:string,versionId:string,items:ReadonlyA
  const existing=target==="new"?undefined:target?items.find((item,index)=>catalogItemKey(item,index)===target):matches[0];
  if(target&&target!=="new"&&(!existing||!matches.includes(existing)))return undefined;
  if(target==="new"&&matches.length&&!version.requirements?.repeatableInstances)return undefined;
+ if(!existing&&version.requirements?.maxInstances&&catalogInstanceCount(items,id)>=version.requirements.maxInstances)return undefined;
  const old=existing?indexedItem(existing):undefined;
  if(existing&&["custom","personalizado","conteúdo personalizado","homebrew"].includes(existing.source.toLocaleLowerCase("pt-BR")))return undefined;
  if(existing&&(!old?.version&&!target||old?.version&&old.version.book!==version.book))return undefined;

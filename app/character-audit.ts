@@ -12,7 +12,7 @@ import { ownItemDots } from "./predator-benefits";
 import { purchasedLevels, xpBudget, xpSpent, type XpPurchase } from "./experience";
 
 export type AuditIssue={id:string;kind:"warning"|"info"|"approved";title:string;detail:string;source?:SourceRef};
-type Merit={dots?:number;name?:string;source?:string;catalogId?:string;versionId?:string;instanceId?:string};
+type Merit={dots?:number;name?:string;source?:string;catalogId?:string;versionId?:string;instanceId?:string;instanceName?:string};
 type AuditData={hecataDecayBuyoff?:boolean;
   attributes?:Record<string,number>;skills?:Record<string,number>;skillPreset?:string;disciplines?:Record<string,number>;disciplinePowers?:Record<string,string[]>;
   merits?:Merit[];flawItems?:Merit[];ageCategory?:string;generation?:string;bloodPotency?:number;predator?:string;predatorApplied?:string;
@@ -41,6 +41,7 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
 
   const activeSources=new Set(normalizeActiveSourcebooks(data.activeSourcebooks));
   const knownItems=[...(data.merits||[]),...(data.flawItems||[])].map(item=>({...item,name:item.name||""}));
+  const knownFlaws=(data.flawItems||[]).map(item=>({...item,name:item.name||""}));
   if(character.clan==="Sangue-Ralo"){
     const choices=thinBloodChoiceCounts(knownItems);
     if(!choices.balanced)add({id:"thin-blood-choice-balance",kind:"warning",title:"Equilibre as escolhas especiais de Sangue-Ralo",detail:`Há ${choices.merits} Qualidades e ${choices.flaws} Defeitos especiais. O padrão exige de uma a três de cada, em quantidades iguais, sem usar os pontos comuns.`,source:core("regras-e-criacao-criacao-de-personagem","Qualidades e Defeitos de Sangues-Ralos","Livro Básico V5, pp. 136, 151, 182–184")});
@@ -50,8 +51,9 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
     if(!item.catalogId){const known=indexedItem({...item,name:item.name||""});if(known.version?.requirements?.selectionGroup&&item.dots!==0)add({id:`legacy-thin-blood-cost-${known.entry?.id}`,kind:"warning",title:`Escolha especial sem pontos: ${item.name}`,detail:"Esta escolha de Sangue-Ralo não usa pontos comuns. O valor antigo foi preservado; confira-o ou selecione novamente o item no catálogo."});continue}
     const entry=CONTENT_INDEX.find(entry=>entry.id===item.catalogId),version=entry?.versions?.find(version=>version.id===item.versionId);
     if(!entry||!version){add({id:`catalog-reference-${item.catalogId}`,kind:"warning",title:`Referência não identificada: ${item.name||item.catalogId}`,detail:"O item foi preservado. Confira a identificação e a versão da fonte antes de usá-lo."});continue}
-    const check=itemEligibility(version,{clanBaneId:selectedClanBane(character.clan||"",chronicle)?.id,phase:data.xpPurchases?.some(purchase=>purchase.catalogId?purchase.catalogId===entry.id&&(!purchase.itemInstanceId||purchase.itemInstanceId===item.instanceId):purchase.kind==="advantage"&&purchase.name===item.name)?"xp":"creation",clan:character.clan||"",ageCategory:data.ageCategory,activeSources,disciplines:data.disciplines,powers:data.disciplinePowers,items:knownItems});
+    const check=itemEligibility(version,{skills:data.skills,bloodPotency:data.bloodPotency,configuredBaneId:selectedClanBane(character.clan||"",chronicle)?.id,clanBaneId:selectedClanBane(character.clan||"",chronicle,knownFlaws)?.id,phase:data.xpPurchases?.some(purchase=>purchase.catalogId?purchase.catalogId===entry.id&&(!purchase.itemInstanceId||purchase.itemInstanceId===item.instanceId):purchase.kind==="advantage"&&purchase.name===item.name)?"xp":"creation",clan:character.clan||"",ageCategory:data.ageCategory,activeSources,disciplines:data.disciplines,powers:data.disciplinePowers,items:knownItems});
     if(!check.allowed)add({id:`catalog-requirement-${entry.id}`,kind:"warning",title:`Requisitos de ${item.name||entry.names["pt-BR"]}`,detail:check.reasons.join(". ")+". A escolha salva foi preservada."});
+    if((version.requirements?.requiresDetail||version.requirements?.repeatableInstances)&&!item.instanceName?.trim())add({id:`catalog-detail-${entry.id}-${item.instanceId||"legacy"}`,kind:"warning",title:`Complete o detalhe de ${entry.names["pt-BR"]}`,detail:"Identifique o detalhe solicitado nas regras desta escolha. A ficha existente foi preservada."});
     if(version.grants&&(data.disciplines?.[version.grants.discipline]||0)<version.grants.level)add({id:`catalog-grant-${entry.id}`,kind:"warning",title:`Benefício de ${item.name||entry.names["pt-BR"]}`,detail:`Esta escolha concede ${version.grants.discipline} ${version.grants.level}. Confira a etapa Disciplinas; os dados antigos não foram alterados automaticamente.`});
     if(version.level!==undefined&&item.dots!==version.level)add({id:`catalog-cost-${entry.id}`,kind:"warning",title:`Pontuação de ${item.name||entry.names["pt-BR"]}`,detail:`Esta versão exige ${version.level} ponto(s). A pontuação registrada foi preservada para revisão.`});
   }
@@ -107,9 +109,9 @@ export function auditCharacter(character:AuditableCharacter):AuditIssue[]{
     }
   }
 
-  const decay=decayCreationAdjustment(character.clan||"",data.bloodPotency??1,chronicle,!!data.hecataDecayBuyoff,data.xpPurchases||[]);
+  const decay=decayCreationAdjustment(character.clan||"",data.bloodPotency??1,chronicle,!!data.hecataDecayBuyoff,data.xpPurchases||[],knownFlaws);
   if(decay.extraFlaws>0&&decayFlawDots(data.flawItems as Parameters<typeof decayFlawDots>[0]||[])<decay.extraFlaws)add({id:"hecata-decay-flaws",kind:"warning",title:"Decadência: Defeitos adicionais pendentes",detail:`Escolha ${decay.extraFlaws} pontos de Defeitos de Lacaios, Refúgio ou Recursos, além do mínimo normal, ou pague ${decay.severity*2} pontos de Antecedentes na criação.`});
-  if(selectedClanBane(character.clan||"",chronicle)&&!normalizeActiveSourcebooks(data.activeSourcebooks).includes("players_guide_v5"))add({id:"bane-source-disabled",kind:"warning",title:"Fonte da Perdição alternativa desativada",detail:"A regra da crônica foi preservada. Habilite o Guia do Jogador para manter sua fonte disponível."});
+  if(selectedClanBane(character.clan||"",chronicle,knownFlaws)&&!normalizeActiveSourcebooks(data.activeSourcebooks).includes("players_guide_v5"))add({id:"bane-source-disabled",kind:"warning",title:"Fonte da Perdição alternativa desativada",detail:"A regra da crônica foi preservada. Habilite o Guia do Jogador para manter sua fonte disponível."});
   const meritDots=ownItemDots(data.merits||[])-purchases.filter(item=>item.kind==="advantage").reduce((total,item)=>total+item.to-item.from,0),flawDots=ownItemDots(data.flawItems||[]),meritTarget=(chronicle.customTargets?chronicle.meritPoints:data.ageCategory==="Ancilla"?9:7)-decay.backgroundCost,flawTarget=(chronicle.customTargets?chronicle.flawPoints:data.ageCategory==="Ancilla"?4:2)+decay.extraFlaws;
   if(meritDots!==meritTarget)add({id:"merits",kind:"warning",title:`Vantagens não somam ${meritTarget} pontos`,detail:`A regra ativa distribui ${meritTarget} pontos livres em Vantagens; a ficha soma ${meritDots}. Benefícios do Predador e compras com XP aparecem na lista, mas não consomem esses pontos.`,source:core("regras-e-criacao-vantagens-e-defeitos","7 pontos","Livro Básico V5, criação de personagem")});
   if(flawDots<flawTarget)add({id:"flaws",kind:"warning",title:`Menos de ${flawTarget} pontos de Defeitos`,detail:`A regra ativa adquire ao menos ${flawTarget} pontos de Defeitos, além dos recebidos pelo Predador; a ficha soma ${flawDots}.`,source:core("regras-e-criacao-vantagens-e-defeitos","2 pontos","Livro Básico V5, criação de personagem")});

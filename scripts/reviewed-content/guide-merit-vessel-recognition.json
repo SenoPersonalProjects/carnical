@@ -1,0 +1,60 @@
+{
+  "id": "guide-merit-vessel-recognition",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Reconhecimento de Presas",
+    "en": "Vessel Recognition"
+  },
+  "aliases": [
+    "Reconhecimento de Presas",
+    "Vessel Recognition"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "guide-merit-vessel-recognition-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Player’s Guide V5, pp. 118, 119",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 120,
+          "printedPage": 118
+        },
+        {
+          "pdfPage": 121,
+          "printedPage": 119
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Aprendeu a reconhecer pelo cheiro presas usadas por outros vampiros, evitando alimentar-se inadvertidamente de seus Rebanhos ou Bonecos de Sangue. Um sucesso em Determinação + Percepção, Dificuldade 2, detecta se um mortal foi alvo de alimentação recentemente. Um sucesso crítico também revela se a alimentação é recorrente, sugerindo que pertence ao Rebanho de alguém."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "1 ponto(s). Qualidade: a escolha completa custa 3 XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "You can smell vessels used by other vampires, helping avoid their Herds or Blood Dolls. A successful Resolve + Awareness test at Difficulty 2 detects whether a mortal has been fed on recently. A critical win also detects recurring feeding, suggesting membership in someone’s Herd."
+          },
+          {
+            "title": "Rating and use",
+            "text": "1 dot(s). Merit: the full fixed-rated choice costs 3 XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

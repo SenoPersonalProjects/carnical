@@ -1,0 +1,58 @@
+{
+  "id": "guide-merit-ingenue",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Aparência Inocente",
+    "en": "Ingénue"
+  },
+  "aliases": [
+    "Aparência Inocente",
+    "Ingénue"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "guide-merit-ingenue-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Player’s Guide V5, pp. 118",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 120,
+          "printedPage": 118
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Parece completamente inocente e isento de culpa, facilitando que acreditem em suas boas intenções. Recebe +2 dados em testes para evitar suspeitas ou desviar culpa, a critério do Narrador."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "1 ponto(s). Qualidade: a escolha completa custa 3 XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "You look completely innocent and blameless, making others more likely to trust your intentions. Gain +2 dice on rolls to avoid suspicion or deflect blame, at the Storyteller’s discretion."
+          },
+          {
+            "title": "Rating and use",
+            "text": "1 dot(s). Merit: the full fixed-rated choice costs 3 XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

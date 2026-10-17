@@ -1,4 +1,4 @@
-import {indexedItem,itemEligibility,type ItemContext} from "./item-eligibility";
+import {indexedItem,itemEligibility,catalogDetailValid,type ItemContext} from "./item-eligibility";
 import {resolveContent} from "./resolve";
 export function restrictedThinBloodXp(clan:string,intent:string,name:string){
  if(intent==="blood-potency"&&clan==="Sangue-Ralo")return true;
@@ -9,7 +9,7 @@ type CreationData={merits:CreationItem[];flawItems:CreationItem[];disciplines:Re
 export function addCreationItem<T extends CreationData>(data:T,key:"merits"|"flawItems",item:CreationItem,context:ItemContext):{data:T;error?:string;errorEn?:string}{
  const {entry,version}=indexedItem(item);
  if(data[key].some(existing=>existing.catalogId===item.catalogId&&(!version?.requirements?.repeatableInstances&&(!version?.requirements?.repeatableDifferentChoices||existing.versionId===item.versionId))))return {data};
- if(version?.requirements?.repeatableInstances&&!item.instanceName?.trim())return {data,error:"Identifique a pessoa, grupo ou local desta escolha.",errorEn:"Identify the person, group or location for this choice."};
+ if(entry&&version&&!catalogDetailValid(entry.id,version,data[key],item.instanceName))return {data,error:"Preencha o detalhe da escolha e confira o limite de instâncias diferentes.",errorEn:"Fill in the choice’s detail and check its limit of different instances."};
  if(!entry||!version)return {data,error:"Não foi possível identificar a escolha e sua fonte.",errorEn:"Could not identify the choice and its source."};
  const check=itemEligibility(version,{...context,disciplines:data.disciplines,powers:data.disciplinePowers,items:[...data.merits,...data.flawItems]});
  if(!check.allowed)return {data,error:check.reasons.join(". "),errorEn:"The choice no longer meets its requirements. Review prerequisites, conflicting choices and the three-choice limit."};

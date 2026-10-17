@@ -1,0 +1,58 @@
+{
+  "id": "guide-merit-luck-of-the-devil",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Sorte do Diabo",
+    "en": "Luck of the Devil"
+  },
+  "aliases": [
+    "Sorte do Diabo",
+    "Luck of the Devil"
+  ],
+  "level": 4,
+  "versions": [
+    {
+      "id": "guide-merit-luck-of-the-devil-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 4,
+      "sourceTitle": "Player’s Guide V5, pp. 119",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 121,
+          "printedPage": 119
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Uma vez por sessão, pode fazer uma desgraça dirigida a você atingir outra pessoa próxima, desde que haja alguém disponível para recebê-la. Pode ser ataque, acusação, culpa ou outra desgraça adequada. A vítima pode ser Aliado, Lacaio, integrante da coterie ou até Pilar. O Narrador decide o que constitui uma desgraça apropriada. Usar repetidamente outras pessoas dessa forma pode destruir suas relações."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "4 ponto(s). Qualidade: a escolha completa custa 12 XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Once per session, redirect a misfortune aimed at you onto someone else close by, provided someone is available to take the fall. It may be an attack, accusation, blame or another appropriate misfortune. The victim can be an Ally, Retainer, coterie mate or even a Touchstone. The Storyteller decides what counts as a suitable misfortune. Repeatedly sacrificing others this way can destroy relationships."
+          },
+          {
+            "title": "Rating and use",
+            "text": "4 dot(s). Merit: the full fixed-rated choice costs 12 XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

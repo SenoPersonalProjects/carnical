@@ -1,0 +1,61 @@
+{
+  "id": "guide-flaw-transparent",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Transparente",
+    "en": "Transparent"
+  },
+  "aliases": [
+    "Transparente",
+    "Transparent"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "guide-flaw-transparent-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Player’s Guide V5, pp. 120",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 122,
+          "printedPage": 120
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ],
+        "zeroSkills": [
+          "Subterfúgio"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Não mente bem: sua expressão ou necessidade de dizer a verdade o denuncia. Sofre −1 dado em qualquer parada que exija Subterfúgio e não pode adquirir pontos nessa Habilidade. A proibição de pontos não elimina a penalidade quando um teste de Subterfúgio ainda for exigido."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "1 ponto(s). Defeito: não concede XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "You are visibly poor at lying, whether through expression or a compulsion toward truthfulness. Take −1 die on any pool requiring Subterfuge and cannot gain dots in that Skill. The prohibition on dots does not remove the penalty when a Subterfuge test is still required."
+          },
+          {
+            "title": "Rating and use",
+            "text": "1 dot(s). Flaw: does not grant XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

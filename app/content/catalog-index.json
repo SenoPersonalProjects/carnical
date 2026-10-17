@@ -16193,6 +16193,654 @@
           }
         }
       ]
+    },
+    {
+      "id": "guide-background-city-secrets",
+      "kind": "background",
+      "names": {
+        "pt-BR": "Segredos da Cidade",
+        "en": "City Secrets"
+      },
+      "aliases": [
+        "Segredos da Cidade",
+        "City Secrets"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-background-city-secrets-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, p. 118",
+          "level": 1,
+          "requirements": {
+            "repeatableInstances": true,
+            "differentDetails": true,
+            "maxInstances": 3,
+            "detailLabel": {
+              "pt-BR": "Segredo da cidade",
+              "en": "City secret"
+            },
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-flaw-knowledge-hungry",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Faminto por Conhecimento",
+        "en": "Knowledge Hungry"
+      },
+      "aliases": [
+        "Faminto por Conhecimento",
+        "Knowledge Hungry"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-flaw-knowledge-hungry-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 121",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ],
+            "requiresDetail": true,
+            "detailLabel": {
+              "pt-BR": "Tema de estudo",
+              "en": "Study topic"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-flaw-prestation-debts",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Dívidas de Favores",
+        "en": "Prestation Debts"
+      },
+      "aliases": [
+        "Dívidas de Favores",
+        "Prestation Debts"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-flaw-prestation-debts-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 121",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire"
+            ],
+            "requiresDetail": true,
+            "detailLabel": {
+              "pt-BR": "Credor(es) e favores — personagens do Narrador",
+              "en": "Creditors and boons — Storyteller characters"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-flaw-risk-taker",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Amante do Risco",
+        "en": "Risk-Taker"
+      },
+      "aliases": [
+        "Amante do Risco",
+        "Risk-Taker"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-flaw-risk-taker-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 121",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-flaw-starving-decay",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Decomposição pela Fome",
+        "en": "Starving Decay"
+      },
+      "aliases": [
+        "Decomposição pela Fome",
+        "Starving Decay"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-flaw-starving-decay-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 120",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-flaw-stench",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Fedor",
+        "en": "Stench"
+      },
+      "aliases": [
+        "Fedor",
+        "Stench"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-flaw-stench-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 120",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-flaw-transparent",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Transparente",
+        "en": "Transparent"
+      },
+      "aliases": [
+        "Transparente",
+        "Transparent"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-flaw-transparent-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 120",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ],
+            "zeroSkills": [
+              "Subterfúgio"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-flaw-twice-cursed",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Duplamente Amaldiçoado",
+        "en": "Twice-Cursed"
+      },
+      "aliases": [
+        "Duplamente Amaldiçoado",
+        "Twice-Cursed"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-flaw-twice-cursed-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56, 57, 58, 59, 121",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "vampire"
+            ],
+            "clans": [
+              "Banu Haqim",
+              "Brujah",
+              "Gangrel",
+              "Hecata",
+              "Lasombra",
+              "Malkavian",
+              "Ministério",
+              "Nosferatu",
+              "Ravnos",
+              "Salubri",
+              "Toreador",
+              "Tremere",
+              "Tzimisce",
+              "Ventrue"
+            ],
+            "standardBaneOnly": true,
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-flaw-vein-tapper",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Perfurador de Veias",
+        "en": "Vein Tapper"
+      },
+      "aliases": [
+        "Perfurador de Veias",
+        "Vein Tapper"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-flaw-vein-tapper-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 120",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-flaw-weak-willed",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Vontade Fraca",
+        "en": "Weak-Willed"
+      },
+      "aliases": [
+        "Vontade Fraca",
+        "Weak-Willed"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-flaw-weak-willed-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 121",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-merit-check-the-trunk",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Confira o Porta-Malas",
+        "en": "Check the Trunk"
+      },
+      "aliases": [
+        "Confira o Porta-Malas",
+        "Check the Trunk"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-merit-check-the-trunk-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 119",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-merit-famous-face",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Rosto Famoso",
+        "en": "Famous Face"
+      },
+      "aliases": [
+        "Rosto Famoso",
+        "Famous Face"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-merit-famous-face-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 118",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-merit-ingenue",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Aparência Inocente",
+        "en": "Ingénue"
+      },
+      "aliases": [
+        "Aparência Inocente",
+        "Ingénue"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-merit-ingenue-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 118",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-merit-luck-of-the-devil",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Sorte do Diabo",
+        "en": "Luck of the Devil"
+      },
+      "aliases": [
+        "Sorte do Diabo",
+        "Luck of the Devil"
+      ],
+      "level": 4,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-merit-luck-of-the-devil-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 119",
+          "level": 4,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-merit-nuit-mode",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Modo Nuit",
+        "en": "Nuit Mode"
+      },
+      "aliases": [
+        "Modo Nuit",
+        "Nuit Mode"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-merit-nuit-mode-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 119",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "vampire"
+            ],
+            "maxBloodPotency": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-merit-remarkable-feature",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Traço Marcante",
+        "en": "Remarkable Feature"
+      },
+      "aliases": [
+        "Traço Marcante",
+        "Remarkable Feature"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-merit-remarkable-feature-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 118",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ],
+            "requiresDetail": true,
+            "detailLabel": {
+              "pt-BR": "Característica marcante",
+              "en": "Memorable feature"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-merit-side-hustler",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Fazedor de Bicos",
+        "en": "Side Hustler"
+      },
+      "aliases": [
+        "Fazedor de Bicos",
+        "Side Hustler"
+      ],
+      "level": 2,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-merit-side-hustler-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 119, 120",
+          "level": 2,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-merit-tempered-will",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Vontade Temperada",
+        "en": "Tempered Will"
+      },
+      "aliases": [
+        "Vontade Temperada",
+        "Tempered Will"
+      ],
+      "level": 3,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-merit-tempered-will-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 120",
+          "level": 3,
+          "requirements": {
+            "characterTypes": [
+              "vampire",
+              "ghoul",
+              "mortal"
+            ],
+            "forbiddenDisciplines": [
+              "Dominação",
+              "Presença"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-merit-untouchable",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Intocável",
+        "en": "Untouchable"
+      },
+      "aliases": [
+        "Intocável",
+        "Untouchable"
+      ],
+      "level": 5,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-merit-untouchable-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 120",
+          "level": 5,
+          "requirements": {
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "guide-merit-vessel-recognition",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Reconhecimento de Presas",
+        "en": "Vessel Recognition"
+      },
+      "aliases": [
+        "Reconhecimento de Presas",
+        "Vessel Recognition"
+      ],
+      "level": 1,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "guide-merit-vessel-recognition-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 118, 119",
+          "level": 1,
+          "requirements": {
+            "characterTypes": [
+              "vampire"
+            ]
+          }
+        }
+      ]
     }
   ]
 }

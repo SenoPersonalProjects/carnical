@@ -1,0 +1,62 @@
+{
+  "id": "guide-merit-tempered-will",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Vontade Temperada",
+    "en": "Tempered Will"
+  },
+  "aliases": [
+    "Vontade Temperada",
+    "Tempered Will"
+  ],
+  "level": 3,
+  "versions": [
+    {
+      "id": "guide-merit-tempered-will-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 3,
+      "sourceTitle": "Player’s Guide V5, pp. 120",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 122,
+          "printedPage": 120
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ],
+        "forbiddenDisciplines": [
+          "Dominação",
+          "Presença"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Sempre percebe quando Dominação ou Presença está sendo usada contra você. Uma vez por sessão, pode somar +2 dados à parada para resistir a uma dessas Disciplinas. Só pode adquirir a Qualidade se não tiver pontos em nenhuma delas. Se obtiver Dominação ou Presença posteriormente, mesmo de modo temporário como Sangue-Ralo, o benefício fica inativo enquanto possuir esses pontos. Perceber o uso não garante resistir ao efeito."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "3 ponto(s). Qualidade: a escolha completa custa 9 XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "You always know when Dominate or Presence is being used against you. Once per session, add +2 dice to a pool resisting either Discipline. Only someone with no dots in either can acquire this Merit. If you later gain Dominate or Presence, even temporarily as a Thin-blood, its benefit is inactive while those dots are possessed. Awareness of use does not guarantee successful resistance."
+          },
+          {
+            "title": "Rating and use",
+            "text": "3 dot(s). Merit: the full fixed-rated choice costs 9 XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

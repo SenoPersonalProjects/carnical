@@ -1,0 +1,61 @@
+{
+  "id": "guide-flaw-prestation-debts",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Dívidas de Favores",
+    "en": "Prestation Debts"
+  },
+  "aliases": [
+    "Dívidas de Favores",
+    "Prestation Debts"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "guide-flaw-prestation-debts-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Player’s Guide V5, pp. 121",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 123,
+          "printedPage": 121
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire"
+        ],
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Credor(es) e favores — personagens do Narrador",
+          "en": "Creditors and boons — Storyteller characters"
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Deve dois favores menores a um Membro ou a dois Membros com mais poder e influência que você na sociedade vampírica, embora não necessariamente na sua seita. Enquanto cobra a dívida, o credor recebe +1 dado em conflito Social contra você e pode exigir o pagamento a qualquer momento, geralmente inconveniente. Mesmo após quitar os dois favores, não precisa substituir este Defeito e o credor mantém o bônus de +1 dado. Pode ser adquirido junto a um ou mais Favores Menores na criação. Não pode dever esses favores ao personagem de outro jogador. Veja também Favores e Dívidas, Guia p. 115."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "1 ponto(s). Defeito: não concede XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Owe two minor boons to one Kindred or two Kindred with more power and influence than you in vampire society, though not necessarily in your sect. A creditor gains +1 die in Social conflict against you while holding your marker and may demand repayment at any time, usually an inconvenient one. After both boons are repaid, no replacement Flaw is needed and the creditor retains the +1 die bonus. May coexist with one or more Minor Boons during creation. The boons cannot be owed to another player’s character. See also Boons and Debts, Guide p. 115."
+          },
+          {
+            "title": "Rating and use",
+            "text": "1 dot(s). Flaw: does not grant XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

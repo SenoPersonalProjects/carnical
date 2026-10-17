@@ -1,0 +1,58 @@
+{
+  "id": "guide-merit-check-the-trunk",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Confira o Porta-Malas",
+    "en": "Check the Trunk"
+  },
+  "aliases": [
+    "Confira o Porta-Malas",
+    "Check the Trunk"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "guide-merit-check-the-trunk-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Player’s Guide V5, pp. 119",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 121,
+          "printedPage": 119
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Tem fácil acesso a um arsenal ou estoque de ferramentas e equipamentos. Nenhum item pode exceder o valor disponível com Recursos 2; o Narrador aprova o conteúdo. Exemplos incluem arma de cano serrado, corta-vergalhões, fita adesiva, estacas caseiras e fluido de isqueiro. Acrescente 2 pontos às paradas de Preparação para encontrar itens dessa faixa de Recursos, conforme Livro Básico, p. 410. Perder carro, Refúgio ou outro depósito pode interromper o benefício até montar novo estoque."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "1 ponto(s). Qualidade: a escolha completa custa 3 XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "You have easy access to an armory or cache of tools and hardware. No item may exceed what Resources 2 can provide; contents require Storyteller approval. Examples include a sawed-off shotgun, bolt cutters, duct tape, homemade stakes and lighter fluid. Add 2 dots to Preparedness pools for items within that Resource band, following Corebook p. 410. Losing the car, Haven or other storage may interrupt the benefit until a new cache is built."
+          },
+          {
+            "title": "Rating and use",
+            "text": "1 dot(s). Merit: the full fixed-rated choice costs 3 XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "guide-merit-famous-face",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Rosto Famoso",
+    "en": "Famous Face"
+  },
+  "aliases": [
+    "Rosto Famoso",
+    "Famous Face"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "guide-merit-famous-face-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Player’s Guide V5, pp. 118",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 120,
+          "printedPage": 118
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Sua aparência lembra alguém muito conhecido. Recebe +2 dados em testes Sociais quando puder aproveitar essa semelhança, mas sofre −2 dados ao esconder-se em uma multidão ou em situações nas quais precisa evitar reconhecimento. A semelhança também pode levar terceiros a atribuir suas ações à pessoa famosa."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "1 ponto(s). Qualidade: a escolha completa custa 3 XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "You resemble someone very well known. Gain +2 dice on Social tests when leveraging that resemblance, but take −2 dice when hiding in a crowd or otherwise trying to avoid recognition. Others may also attribute your actions to the famous person."
+          },
+          {
+            "title": "Rating and use",
+            "text": "1 dot(s). Merit: the full fixed-rated choice costs 3 XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

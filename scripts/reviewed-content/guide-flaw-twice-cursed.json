@@ -1,0 +1,90 @@
+{
+  "id": "guide-flaw-twice-cursed",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Duplamente Amaldiçoado",
+    "en": "Twice-Cursed"
+  },
+  "aliases": [
+    "Duplamente Amaldiçoado",
+    "Twice-Cursed"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "guide-flaw-twice-cursed-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Player’s Guide V5, pp. 56, 57, 58, 59, 121",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 58,
+          "printedPage": 56
+        },
+        {
+          "pdfPage": 59,
+          "printedPage": 57
+        },
+        {
+          "pdfPage": 60,
+          "printedPage": 58
+        },
+        {
+          "pdfPage": 61,
+          "printedPage": 59
+        },
+        {
+          "pdfPage": 123,
+          "printedPage": 121
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire"
+        ],
+        "clans": [
+          "Banu Haqim",
+          "Brujah",
+          "Gangrel",
+          "Hecata",
+          "Lasombra",
+          "Malkavian",
+          "Ministério",
+          "Nosferatu",
+          "Ravnos",
+          "Salubri",
+          "Toreador",
+          "Tremere",
+          "Tzimisce",
+          "Ventrue"
+        ],
+        "standardBaneOnly": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Recebe a Perdição alternativa do seu clã descrita no Guia, pp. 56–59, além da Perdição padrão. Não é uma substituição e não concede uma segunda Compulsão ou Disciplinas adicionais. O Narrador pode proibir este Defeito se a Perdição adicional não tiver impacto ou causar problemas na crônica. A ficha usa a variante correspondente ao clã; não é uma escolha livre entre as 14. Se a crônica já substitui a Perdição padrão por uma variante, a combinação requer revisão do Narrador antes de selecionar este Defeito."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "2 ponto(s). Defeito: não concede XP. A Perdição adicional é registrada na ficha; consulte sua descrição para os efeitos aplicáveis."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Gain your clan’s variant Bane from Guide pp. 56–59 in addition to its regular Bane. This is not a replacement and does not add a second Compulsion or extra Disciplines. The Storyteller may prohibit this Flaw if the additional Bane lacks impact or causes problems. The character uses the variant matching the clan, not a free choice among all 14. If the chronicle already replaces the regular Bane with a variant, that combination requires Storyteller review before selecting this Flaw."
+          },
+          {
+            "title": "Rating and use",
+            "text": "2 dot(s). Flaw: does not grant XP. The additional Bane is recorded with the character; consult its description for applicable effects."
+          }
+        ]
+      }
+    }
+  ]
+}

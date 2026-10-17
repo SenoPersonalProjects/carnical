@@ -1,0 +1,57 @@
+{
+  "id": "guide-merit-nuit-mode",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Modo Nuit",
+    "en": "Nuit Mode"
+  },
+  "aliases": [
+    "Modo Nuit",
+    "Nuit Mode"
+  ],
+  "level": 2,
+  "versions": [
+    {
+      "id": "guide-merit-nuit-mode-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 2,
+      "sourceTitle": "Player’s Guide V5, pp. 119",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 121,
+          "printedPage": 119
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire"
+        ],
+        "maxBloodPotency": 1
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Seu corpo não retorna automaticamente ao estado da morte a cada noite: pode manter novos cortes de cabelo, tatuagens e outras modificações corporais. Ainda pode retornar ao estado original, recuperando modificações posteriores como se fossem dano Agravado. Disponível somente para Membros com Potência de Sangue 1 ou menor. Se a Potência aumentar, a Qualidade deixa de produzir benefício; o benefício retorna caso volte a 1 ou menos. Não apague a escolha nem reembolse pontos automaticamente por essa mudança."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "2 ponto(s). Qualidade: a escolha completa custa 6 XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "Your body does not automatically return to its death-state each night, allowing you to keep new haircuts, tattoos and other body modifications. You may still return to the original state, mending later modifications as if they were Aggravated damage. Available only to Kindred at Blood Potency 1 or lower. If Potency increases, the Merit grants no benefit; its benefit returns if Potency returns to 1 or lower. Do not automatically erase the choice or refund its dots when that changes."
+          },
+          {
+            "title": "Rating and use",
+            "text": "2 dot(s). Merit: the full fixed-rated choice costs 6 XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

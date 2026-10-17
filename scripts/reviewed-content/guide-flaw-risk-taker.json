@@ -1,0 +1,58 @@
+{
+  "id": "guide-flaw-risk-taker",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Amante do Risco",
+    "en": "Risk-Taker"
+  },
+  "aliases": [
+    "Amante do Risco",
+    "Risk-Taker"
+  ],
+  "level": 1,
+  "versions": [
+    {
+      "id": "guide-flaw-risk-taker-players-guide-v5",
+      "book": "players-guide-v5",
+      "level": 1,
+      "sourceTitle": "Player’s Guide V5, pp. 121",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 123,
+          "printedPage": 121
+        }
+      ],
+      "requirements": {
+        "characterTypes": [
+          "vampire",
+          "ghoul",
+          "mortal"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sistema",
+            "text": "Ao ser confrontado com a oportunidade de uma experiência arriscada que ainda não viveu, como usar uma droga nova, beber Sangue vampírico ou ter um amante Membro, sofre −2 dados em todas as ações até experimentar ou a cena terminar. Não obriga a realizar algo suicida, embora possa subestimar as consequências."
+          },
+          {
+            "title": "Valor e uso",
+            "text": "1 ponto(s). Defeito: não concede XP. Os efeitos de cena e limites por sessão/história são resolvidos manualmente com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "System",
+            "text": "When faced with a risky temptation never experienced before, such as a new drug, vampire Blood or a Kindred lover, take −2 dice on all actions until you partake or the scene ends. It does not compel suicide, though you may underestimate the consequences."
+          },
+          {
+            "title": "Rating and use",
+            "text": "1 dot(s). Flaw: does not grant XP. Scene effects and per-session/story limits are resolved manually with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}
