@@ -2,6 +2,40 @@
 
 ## Estado desta entrega
 
+### Atualização de 17/10/2026
+
+- 20 Qualidades, Defeitos e Antecedentes gerais do Guia foram acrescentados,
+  com detalhes obrigatórios e limites de instâncias. Segredos da Cidade aceita
+  até três segredos diferentes. Transparente bloqueia novas compras guiadas de
+  Subterfúgio; valores antigos são preservados e sinalizados. Modo Nuit e
+  Vontade Temperada conferem seus requisitos de Potência e Disciplinas.
+- Duplamente Amaldiçoado acrescenta a variante do clã e mantém a Perdição
+  padrão. Remorso, Frenesi de Terror e Decadência usam essa Perdição adicional
+  quando pertinente. Uma combinação antiga com a substituição da crônica é
+  preservada e sinalizada; não duplica a variante.
+- 12 Qualidades e Defeitos de Caitiff do Guia, com incompatibilidades nos
+  dois sentidos e seleção guiada do clã em Maldição de Clã.
+- 14 escolhas adicionais de Sangues-Ralos do Guia, sem pontos comuns ou XP,
+  respeitando o limite combinado de uma a três Qualidades e igual número de
+  Defeitos. Os efeitos de cena permanecem manuais. Pouco Apetite tem uma
+  questão de alcance registrada; o modo de jogo avisa que as ferramentas
+  gerais de Sangue ainda usam um dado. Heliofobia consta da referência do PDF.
+- Ocultar e Fortificar a Fachada Interior agora têm o texto completo fornecido
+  nos accordions e no PDF. As ambiguidades da tradução são expostas no próprio
+  texto e continuam pendentes no registro central; nenhuma correção foi presumida.
+- Cada grupo passou por verificações de preservação dos itens anteriores,
+  requisitos e fontes, interface em390 e1440 pixels e quatro PDFs reais em
+  português e inglês. Todas as páginas foram extraídas, renderizadas e
+  conferidas quanto a limites e legibilidade. Lint e build passaram. A
+  persistência usada nos testes da ficha foi simulada; não equivale a um
+  teste autenticado de crônica em produção.
+
+O pedido completo continua **em andamento**: inventário de todos os itens e
+loresheets por livro, linhagens Hecata, métodos/receitas de imitação de Alquimia,
+traduções persistidas da biblioteca e revisão editorial integral de Streets
+com entrega final do ZIP ainda não foram concluídos. Nenhum livro foi declarado
+integralmente coberto com base apenas na contagem de itens ou páginas extraídas.
+
 ### Perdições alternativas do Guia
 
 - 14 Perdições conferidas no PDF58–61 / páginas impressas56–59, com regras
@@ -83,15 +117,16 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 447 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 495 entradas com texto conferido, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
-na mesma entrada quando sua identificação é inequívoca.
+na mesma entrada quando sua identificação é inequívoca. Duas entradas preservam
+redação ambígua da fonte com avisos explícitos; não representam regras esclarecidas.
 
 | Fonte | Entradas revisadas nesta entrega | Cobertura integral |
 | --- | --- | --- |
-| Livro Básico | Perdições e Compulsões dos sete clãs principais; características de Caitiff/Sangue-Ralo e as 16 Qualidades/Defeitos especiais com seleção guiada e 28 Qualidades/Defeitos comuns; 41 Antecedentes e itens associados, incluindo Suspeito/Status dos Caitiff; todos os dez Predadores, 26 Rituais e sete fórmulas nomeadas; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar, Fortificar a Fachada Interior e Infâmia aguardam esclarecimento; métodos e receitas de imitação de Alquimia, variantes de Afinidade/Maldição de outros livros e loresheets pendentes |
+| Livro Básico | Perdições e Compulsões dos sete clãs principais; características de Caitiff/Sangue-Ralo e as 16 Qualidades/Defeitos especiais com seleção guiada e 28 Qualidades/Defeitos comuns; 41 Antecedentes e itens associados, incluindo Suspeito/Status dos Caitiff; todos os dez Predadores, 26 Rituais e sete fórmulas nomeadas; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 9 de Ofuscação e 9 de Fortitude, com avisos de redação ambígua nos dois poderes pendentes de interpretação | Ocultar, Fortificar a Fachada Interior e Infâmia aguardam esclarecimento; métodos e receitas de imitação de Alquimia, variantes de Afinidade/Maldição de outros livros e loresheets pendentes |
 | Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
-| Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas; os seis Predadores; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; versões dos sete clãs adicionais (Banu Haqim, Hecata, Lasombra, Ministério, Ravnos, Salubri e Tzimisce); as 14 Perdições alternativas | Vantagens, Defeitos, loresheets e demais seções pendentes |
+| Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas; os seis Predadores; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; versões dos sete clãs adicionais (Banu Haqim, Hecata, Lasombra, Ministério, Ravnos, Salubri e Tzimisce); as 14 Perdições alternativas; 20 opções gerais, 12 opções de Caitiff e 14 escolhas especiais adicionais de Sangues-Ralos | Loresheets e demais seções e inventário integral pendentes |
 | Cultos dos Deuses de Sangue | Hecata e sua Compulsão original; 3 Cerimônias Shalimitas | Linhagens, loresheets e demais opções pendentes |
 | Let the Streets Run Red | Assassino de Estrada | Pendente |
 | Chicago by Night | Lasombra e os nove poderes de Oblívio, incluindo as regras gerais da Disciplina | Loresheets e demais opções pendentes |

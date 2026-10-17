@@ -1,0 +1,113 @@
+{
+  "id": "conceal",
+  "kind": "power",
+  "names": {
+    "pt-BR": "Ocultar",
+    "en": "Conceal"
+  },
+  "aliases": [
+    "Ocultar",
+    "Conceal"
+  ],
+  "discipline": "Ofuscação",
+  "level": 4,
+  "versions": [
+    {
+      "id": "conceal-core-v5",
+      "book": "core-v5",
+      "sourceTitle": "Livro Básico V5, p. 262",
+      "sourceLanguage": "pt-BR",
+      "pdfSha256": "d719807ea872174b6617bf41a4ebe4c2ce4e77e1f3facc946643afc52f2af311",
+      "pages": [
+        {
+          "pdfPage": 264,
+          "printedPage": 262
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Ofuscação": 4,
+          "Auspícios": 3
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição",
+            "text": "Este poder permite que o usuário oculte um objeto inanimado, como uma porta, carro ou casa pequena. Como outros poderes de Ofuscação, não torna o objeto de fato invisível: cria um efeito hipnótico persistente que faz a maioria das pessoas ignorá-lo. É especialmente efetivo quando o objeto já é discreto. A menos que algo faça um transeunte colidir com o objeto ou alguém o aponte, as pessoas se comportam como se ele não estivesse lá, contornando objetos maiores quando necessário para manter a ilusão."
+          },
+          {
+            "title": "Requisitos",
+            "text": "Ofuscação 4; Amálgama: Auspícios 3."
+          },
+          {
+            "title": "Custo",
+            "text": "Um Teste de Sangue."
+          },
+          {
+            "title": "Parada",
+            "text": "Inteligência + Ofuscação."
+          },
+          {
+            "title": "Sistema",
+            "text": "Toque o objeto e faça um teste de Inteligência + Ofuscação. A Dificuldade varia de 2, para esconder um anel numa gaveta cheia de bugigangas, a 6, para esconder uma casa no meio de uma quadra aberta, conforme o tamanho e a localização. O poder dura uma noite; cada ponto de margem de vitória acrescenta uma noite. Qualquer pessoa ou coisa dentro do objeto, como pessoas em um carro ou galpão, também é escondida enquanto o observador permanece no exterior."
+          },
+          {
+            "title": "Limites — redação da fonte fornecida",
+            "text": "Este poder não pode afetar nada maior do que um sobrado de dois andares ou qualquer automóvel (como um carro em movimento)."
+          },
+          {
+            "title": "Resistência",
+            "text": "Sentir o Invisível, de Auspícios, ou equivalente, pode perceber o objeto ao vencer uma disputa de Raciocínio + Auspícios contra Inteligência + Ofuscação do usuário."
+          },
+          {
+            "title": "Duração",
+            "text": "Uma noite, mais uma noite por ponto de margem de vitória."
+          },
+          {
+            "title": "Revisão do Narrador — dúvida 2",
+            "text": "O PDF inclui carros entre os exemplos e depois restringe “qualquer automóvel (como um carro em movimento)”. O trecho foi preservado sem decidir se a proibição é ao veículo, ao movimento ou a outra categoria mal traduzida. Confirme o alvo com o Narrador. A dúvida permanece em no registro central de revisão, item 2."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description",
+            "text": "Hide an inanimate object such as a door, car or small house. As with other Obfuscate powers, this does not actually make it invisible: a lasting hypnotic effect makes most people ignore it, particularly if it is already inconspicuous. Unless someone collides with it or points it out, people act as if it were absent, walking around larger objects when necessary to maintain the illusion."
+          },
+          {
+            "title": "Requirements",
+            "text": "Obfuscate 4; Amalgam: Auspex 3."
+          },
+          {
+            "title": "Cost",
+            "text": "One Rouse Check."
+          },
+          {
+            "title": "Dice Pool",
+            "text": "Intelligence + Obfuscate."
+          },
+          {
+            "title": "System",
+            "text": "Touch the object and roll Intelligence + Obfuscate. Difficulty ranges from 2 for a ring in a drawer full of trinkets to 6 for a house in an open block, depending on size and location. The power lasts one night, plus another night per point of margin. People and things inside the object, such as people in a car or shed, are also hidden while the observer remains outside."
+          },
+          {
+            "title": "Limits — translation of the supplied Portuguese source",
+            "text": "The power cannot affect anything larger than a two-story house or any automobile (such as a moving car)."
+          },
+          {
+            "title": "Resistance",
+            "text": "Sense the Unseen, or an equivalent ability, can detect the object by winning Wits + Auspex against the user’s Intelligence + Obfuscate."
+          },
+          {
+            "title": "Duration",
+            "text": "One night plus one night per point of margin."
+          },
+          {
+            "title": "Storyteller review — question 2",
+            "text": "The supplied Portuguese PDF lists cars as examples, then restricts any automobile, such as a moving car. This wording is preserved without deciding whether it forbids vehicles, motion or another mistranslated category. Confirm the target with the Storyteller. Tracked in the central review log, question 2."
+          }
+        ]
+      }
+    }
+  ]
+}

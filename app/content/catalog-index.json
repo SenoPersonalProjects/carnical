@@ -17692,6 +17692,65 @@
           }
         }
       ]
+    },
+    {
+      "id": "conceal",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Ocultar",
+        "en": "Conceal"
+      },
+      "aliases": [
+        "Ocultar",
+        "Conceal"
+      ],
+      "discipline": "Ofuscação",
+      "level": 4,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "conceal-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 262",
+          "requirements": {
+            "disciplines": {
+              "Ofuscação": 4,
+              "Auspícios": 3
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "fortify-inner-facade",
+      "kind": "power",
+      "names": {
+        "pt-BR": "Fortificar a Fachada Interior",
+        "en": "Fortify the Inner Facade"
+      },
+      "aliases": [
+        "Fortificar a Fachada Interior",
+        "Fortify the Inner Facade"
+      ],
+      "discipline": "Fortitude",
+      "level": 3,
+      "books": [
+        "core-v5"
+      ],
+      "versions": [
+        {
+          "id": "fortify-inner-facade-core-v5",
+          "book": "core-v5",
+          "sourceTitle": "Livro Básico V5, p. 259",
+          "requirements": {
+            "disciplines": {
+              "Fortitude": 3
+            }
+          }
+        }
+      ]
     }
   ]
 }

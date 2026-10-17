@@ -1,6 +1,6 @@
 # Dúvidas de regras para revisão
 
-Atualizado em 16/10/2026. Este é o registro central das dúvidas identificadas
+Atualizado em 17/10/2026. Este é o registro central das dúvidas identificadas
 durante a integração do Carniçal. Novas dúvidas devem ser acrescentadas aqui.
 
 Você informou que não dispõe de outro trecho ou errata para esclarecer
@@ -36,9 +36,10 @@ ela não deve substituir silenciosamente o padrão do livro.
 - **Dúvida:** a restrição é a qualquer veículo, ao veículo em movimento ou a
   outra categoria de objeto que foi traduzida incorretamente?
 - **Impacto:** quais objetos podem ser ocultados e quando o efeito deixa de valer.
-- **Tratamento atual:** a descrição desse poder ainda não foi concluída na
-  camada revisada. Não foi publicada uma interpretação corretiva como regra;
-  registros anteriores da ficha continuam preservados.
+- **Tratamento atual:** o texto completo fornecido passou a estar disponível
+  no accordion e no PDF, com aviso explícito sobre esta contradição. Não foi
+  publicada uma interpretação corretiva nem automatizada uma restrição de
+  alvo; registros anteriores da ficha continuam preservados.
 - **Decisão / referência:** pendente.
 
 ## 3. Fortificar a Fachada Interior / Fortify the Inner Facade — parada de resistência
@@ -51,8 +52,9 @@ ela não deve substituir silenciosamente o padrão do livro.
   resistência do alvo, em vez de à ativação do poder adversário? Confirmar
   também a substituição do aumento de Dificuldade, sem acumular os dois efeitos.
 - **Impacto:** quem recebe o bônus e como resolver testes resistidos.
-- **Tratamento atual:** descrição revisada pendente; nenhuma correção presumida
-  foi publicada ou automatizada.
+- **Tratamento atual:** o texto completo está disponível no accordion e no
+  PDF com a redação ambígua e aviso contextual. Nenhuma correção presumida
+  foi publicada ou automatizada; a interpretação da parada permanece pendente.
 - **Decisão / referência:** pendente.
 
 ## 4. Macular o Receptáculo / Befoul Vessel — pré-requisito não identificado
