@@ -1,0 +1,269 @@
+{
+  "id": "loresheet-society-of-st-leopold",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Sociedade de São Leopoldo",
+    "en": "The Society of St. Leopold"
+  },
+  "aliases": [
+    "Sociedade de São Leopoldo",
+    "The Society of St. Leopold",
+    "Sociedade de São Leopoldo — Postulante",
+    "The Society of St. Leopold — Postulant",
+    "Sociedade de São Leopoldo — Novato",
+    "The Society of St. Leopold — Novice",
+    "Sociedade de São Leopoldo — Irmão ou irmã",
+    "The Society of St. Leopold — Brother or Sister",
+    "Sociedade de São Leopoldo — Pai ou Mãe",
+    "The Society of St. Leopold — Father or Mother",
+    "Sociedade de São Leopoldo — Inquisidor",
+    "The Society of St. Leopold — Inquisitor"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-society-of-st-leopold-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Sociedade de São Leopoldo — Postulante",
+        "en": "The Society of St. Leopold — Postulant"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 284, 285 · 1",
+      "pages": [
+        {
+          "pdfPage": 285,
+          "printedPage": 284
+        },
+        {
+          "pdfPage": 286,
+          "printedPage": 285
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Postulante",
+            "text": "Seu relacionamento com sua antiga (ou atual?) Igreja é que você uma vez considerou seriamente aceitar as Ordens Sagradas. Durante o processo de consideração, você mergulhou profundamente na história da arquidiocese e de suas organizações constituintes, que podem ou não já incluir um escritório associado à Sociedade de São Leopoldo. Uma vez por história, você pode pedir ao Narrador uma informação conhecida sobre a Sociedade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Postulant",
+            "text": "Your relationship with your former (or current?) Church is that you once seriously considered taking Holy Orders. During the process of consideration, you dove deep into the history of the archdiocese and its constituent organizations, which may or may not have already included an office associated with the Society of St. Leopold. Once per story, you may ask the Storyteller for a piece of known information about the Society."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-society-of-st-leopold-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Sociedade de São Leopoldo — Novato",
+        "en": "The Society of St. Leopold — Novice"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 284, 285 · 2",
+      "pages": [
+        {
+          "pdfPage": 285,
+          "printedPage": 284
+        },
+        {
+          "pdfPage": 286,
+          "printedPage": 285
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Novato",
+            "text": "O seu interesse em fazer uma profissão de fé era mais profundo do que a maioria: você estava prestes a entrar no noviciado quando aquela vida lhe foi arrancada para sempre. Quer você se ressente ou tenha aceitado isso, você mantém um interesse considerável e um contato potencial com os membros da igreja local. Estes Contatos (equivalente a ••) incluiriam naturalmente o seu confessor, os membros da ordem que você estava procurando ingressar e que supervisionaram seu treinamento, colegas noviços ou membros dos grupos locais de voluntários congregacionais."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Novice",
+            "text": "Your interest in entering into a profession of faith went deeper than most: you were on the verge of entering into your novitiate when that life was permanently torn away from you. Whether you resent this or have accepted it, you retain a considerable amount of interest in and potential contact with members of the local church. These Contacts (equivalent of ••) would naturally include your confessor, the members of the order you were seeking to enter who oversaw your training, fellow novices, or members of the local congregational volunteer groups."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-society-of-st-leopold-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Sociedade de São Leopoldo — Irmão ou irmã",
+        "en": "The Society of St. Leopold — Brother or Sister"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 284, 285 · 3",
+      "pages": [
+        {
+          "pdfPage": 285,
+          "printedPage": 284
+        },
+        {
+          "pdfPage": 286,
+          "printedPage": 285
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Irmão ou irmã",
+            "text": "Antes do seu Abraço você era membro da Igreja, juramentado e consagrado a uma comunidade religiosa de caráter contemplativo, monástico ou apostólico. O seu actual estado de existência já não lhe permite prosseguir a sua vocação, mas mesmo assim retém o conhecimento que adquiriu durante o período da sua existência em que serviu activamente a Igreja. Você possui conhecimento detalhado da diocese local, incluindo seus membros e propriedades, quando os grupos se reúnem e onde, e quais são afiliados da Sociedade, permitindo-lhe dois dados extras em todos os testes Erudição e Ocultismo relacionados ao distrito religioso de sua especialidade. Você pode usar esse conhecimento uma vez por história para encontrar um lugar seguro para se esconder entre as diversas propriedades pertencentes à Igreja (equivalente o refúgio •)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Brother or Sister",
+            "text": "Before your Embrace you were a member of the Church, sworn and consecrated to a religious community of contemplative, monastic, or apostolic character. Your current state of existence no longer allows you to pursue your vocation but you nonetheless retain the knowledge you acquired during the period of your existence when you actively served the Church. You possess detailed knowledge of the local diocese, including its members and properties, when groups meet and where, and which are affiliates of the Society, allowing you two extra dice on all Academics and Occult rolls relating to the religious district of your expertise. You may use this knowledge once per story to find a safe place to hide among the various properties belonging to the Church (equivalent of Haven •)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-society-of-st-leopold-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Sociedade de São Leopoldo — Pai ou Mãe",
+        "en": "The Society of St. Leopold — Father or Mother"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 284, 285 · 4",
+      "pages": [
+        {
+          "pdfPage": 285,
+          "printedPage": 284
+        },
+        {
+          "pdfPage": 286,
+          "printedPage": 285
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Pai ou Mãe",
+            "text": "Você era um sacerdote professo e ordenado ou uma cônego sênior que supervisionava uma comunidade de freiras antes do seu Abraço. Embora agora esteja separado de sua antiga profissão de fé, você ainda possui muitas das vantagens que obteve durante o serviço. Você sabe exatamente quem são os membros da Sociedade de São Leopoldo na cidade e onde eles se reúnem, geralmente com que frequência, tem alguma ideia de quais forças seculares estão afiliados e desenvolveu algumas estratégias sobre como evitá-los ou direcioná-los mal, totalizando Influência (•••) sobre a diocese quando se trata de lidar com a Sociedade. Além disso, você ainda possui acesso às propriedades da igreja que podem funcionar como um Refúgio (••) permanente, onde nenhum caçador de vampiros geralmente pensará em procurar por você. Este Ficha de Conhecimento vem com a Infâmia Defeito (•), pois embora a diocese local possa confiar em você, a grande Sociedade não confia. Eles sabem o que você era e sabem que você se afastou daquela vida. Eles simplesmente ainda não sabem por quê."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Father or Mother",
+            "text": "You were a fully professed and ordained priest or the senior canoness overseeing a community of nuns prior to your Embrace. While you are separated now from your former profession of faith, you nonetheless still possess many of the advantages you gained while in service. You know exactly who the members of the Society of St. Leopold are in the city and where they meet, generally how often, have some idea which secular forces they are affiliated with, and have developed some strategies on how to avoid or misdirect them, amounting to Influence (•••) with the diocese when it comes to dealing with the Society. Additionally, you still possess access to church properties that can act as a permanent Haven (••) where no vampire hunter will generally think to look for you. This loresheet comes with the Infamy Flaw (•), as while the local diocese might trust you, the grander Society does not. They know what you were and know you stepped back from that life. They just don’t yet know why."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-society-of-st-leopold-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Sociedade de São Leopoldo — Inquisidor",
+        "en": "The Society of St. Leopold — Inquisitor"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 284, 285 · 5",
+      "pages": [
+        {
+          "pdfPage": 285,
+          "printedPage": 284
+        },
+        {
+          "pdfPage": 286,
+          "printedPage": 285
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Inquisidor",
+            "text": "Você é um antigo integrante, agora decaído, da Sociedade de São Leopoldo ou de uma de suas organizações: os Condotierri, Gladius Dei, o Ofício do Censor ou a Ordem de Santa Joana. Pode ter aceitado o Abraço por seus próprios motivos traiçoeiros ou ter sido Abraçado e preso por um Laço para servir ao propósito de seu senhor. Em qualquer caso, conhece profundamente a Sociedade, seu funcionamento histórico e sua possível atuação conjunta com o Grupo de Operações Especiais da Entidade. Uma vez por história, peça ao Narrador uma informação verdadeira e precisa sobre a Sociedade e suas atividades atuais. Se é traidor, sua traição ainda pode dar frutos; se está preso contra sua vontade, sua vingança pode estar próxima."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Inquisitor",
+            "text": "You are a former, fallen member of the Society of St. Leopold or one of its constituent organizations (the Condotierri, the Gladius Dei, the Office of the Censor, or the Order of St. Joan). You may have chosen to accept the Embrace for treacherous reasons of your own or you may have been Embraced and bound for some purpose of your sire’s, but in any case, you possess deep personal knowledge of the Society and its inner workings, how it functioned historically and how it may be functioning in concert with the Entity Special Operations Group. Once per story, you may ask the Storyteller for one piece of true and accurate information about the Society and its current activities. If you are a traitor, congratulations! Your treachery may yet bear fruit. If you are in bondage against your will, congratulations! Your vengeance may well be nigh."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

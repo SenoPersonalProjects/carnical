@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-descendant-of-karl-schrekt",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Descendente de Karl Schrekt",
+    "en": "Descendant of Karl Schrekt"
+  },
+  "aliases": [
+    "Descendente de Karl Schrekt",
+    "Descendant of Karl Schrekt",
+    "Descendente de Karl Schrekt — Não Esqueça a Casa",
+    "Descendant of Karl Schrekt — Don't Forget Home",
+    "Descendente de Karl Schrekt — Linha Dura",
+    "Descendant of Karl Schrekt — Hard Line",
+    "Descendente de Karl Schrekt — Rituais Preparados",
+    "Descendant of Karl Schrekt — Prepared Rituals",
+    "Descendente de Karl Schrekt — Perdição dos Arcontes",
+    "Descendant of Karl Schrekt — Doom of the Archons",
+    "Descendente de Karl Schrekt — Conheça o Mundo",
+    "Descendant of Karl Schrekt — Discover the World"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-descendant-of-karl-schrekt-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Karl Schrekt — Não Esqueça a Casa",
+        "en": "Descendant of Karl Schrekt — Don't Forget Home"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 405 · 1",
+      "pages": [
+        {
+          "pdfPage": 409,
+          "printedPage": 405
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Não Esqueça a Casa",
+            "text": "Uma vez por história, você pode pedir ao Narrador uma informação sobre as atividades da Casa Tremere ou do clã antes do ataque tanto o prejudicou."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Don't Forget Home",
+            "text": "Once per story, you may ask Storyteller for information about the activities of House Tremere or the clan before the attack so harmed them."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-karl-schrekt-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Karl Schrekt — Linha Dura",
+        "en": "Descendant of Karl Schrekt — Hard Line"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 405 · 2",
+      "pages": [
+        {
+          "pdfPage": 409,
+          "printedPage": 405
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linha Dura",
+            "text": "O modo de Schrekt é o único capaz de levar o clã adiante. Você segue as leis de Schrekt fanaticamente. Com a aprovação do Narrador, adicione dois dados a qualquer parada de dados ao testar para resistir a tentativas de desviá-lo dos objetivos de Schrekt."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hard Line",
+            "text": "Schrekt's way is the only one capable of taking the clan forward. You follow Schrekt's laws fanatically. With Storyteller's approval, add two dice to any dice pool when rolling to resist attempts to divert you from Schrekt's goals."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-karl-schrekt-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Karl Schrekt — Rituais Preparados",
+        "en": "Descendant of Karl Schrekt — Prepared Rituals"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 405 · 3",
+      "pages": [
+        {
+          "pdfPage": 409,
+          "printedPage": 405
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Rituais Preparados",
+            "text": "Alegadamente, Karl Schrekt prepara todos os rituais dele de antemão e mantém alguns deles consigo o tempo todo. Uma vez por história, você pode realizar um dos seus rituais em cinco minutos, sem preparação, pois já deixou tudo preparado."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Prepared Rituals",
+            "text": "Reportedly, Karl Schrekt prepares all of his rituals beforehand and keeps some of them with him at all times. Once per story, you can perform one of your rituals in five minutes, without preparation, as you have already prepared everything."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-karl-schrekt-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Karl Schrekt — Perdição dos Arcontes",
+        "en": "Descendant of Karl Schrekt — Doom of the Archons"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 405 · 4",
+      "pages": [
+        {
+          "pdfPage": 409,
+          "printedPage": 405
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Perdição dos Arcontes",
+            "text": "Você acha os ataques de Schrekt a entidades sobrenaturais deplorável, e formou um laço estreito com um membro de outras origens sobrenaturais. Você tem um Aliado de quatro pontos: um mago, lobisomem, aparição, changeling ou algo ainda mais estranho. Você deve manter seu amigo a salvo, pois ele está sendo caçado. Uma vez por história, ele aparece para ajudá-lo dentro de uma a dez horas após ter sido chamado."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Doom of the Archons",
+            "text": "You find Schrekt's attacks on supernatural entities deplorable, and have formed a close bond with a member of other supernatural origins. You have a four-point Ally: a wizard, werewolf, wraith, changeling, or something even stranger. You must keep your friend safe as he is being hunted. Once per story, he appears to help you within one to ten hours of being called."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-karl-schrekt-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Karl Schrekt — Conheça o Mundo",
+        "en": "Descendant of Karl Schrekt — Discover the World"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 405 · 5",
+      "pages": [
+        {
+          "pdfPage": 409,
+          "printedPage": 405
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Conheça o Mundo",
+            "text": "Karl Schrekt acredita que conhecimento é poder e que vampiros que limitam seu aprendizado ao estudo de outros Membros são tolos. Marionete ou nêmesis de Schrekt, você concorda com essa opinião e mantém arquivos sobre lobisomens, magos, aparições, feéricos e outras entidades sobrenaturais. Essa coleção equivale a uma Biblioteca de Refúgio de três pontos (escolha três especializações adequadas de Ocultismo), embora você não possa armazenar seu material de referência em seu refúgio. Também uma vez por história, você pode pedir ao Narrador que responda a qualquer pergunta simples relacionada àquelas criaturas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Discover the World",
+            "text": "Karl Schrekt believes that knowledge is power and that vampires who limit their learning to the study of other Kindred are fools. Schrekt's puppet or nemesis, you agree with this opinion and keep files on werewolves, wizards, wraiths, fey and other supernatural entities. This collection is equivalent to a three-point Haven Library (choose three appropriate specializations from Occult), although you cannot store your reference material in your Haven. Also once per story, you can ask Storyteller to answer any simple question related to those creatures."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

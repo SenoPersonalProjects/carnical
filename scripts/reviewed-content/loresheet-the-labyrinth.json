@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-the-labyrinth",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "O Labirinto",
+    "en": "The Labyrinth"
+  },
+  "aliases": [
+    "O Labirinto",
+    "The Labyrinth",
+    "O Labirinto — Acesso ao túnel",
+    "The Labyrinth — Tunnel Access",
+    "O Labirinto — Azul do vagão",
+    "The Labyrinth — Boxcar Blues",
+    "O Labirinto — Igreja",
+    "The Labyrinth — Church",
+    "O Labirinto — Covil de Lydia",
+    "The Labyrinth — Lydia’s Lair",
+    "O Labirinto — Esconderijo",
+    "The Labyrinth — Hideout"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-the-labyrinth-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "O Labirinto — Acesso ao túnel",
+        "en": "The Labyrinth — Tunnel Access"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 279 · 1",
+      "pages": [
+        {
+          "pdfPage": 280,
+          "printedPage": 279
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Acesso ao túnel",
+            "text": "Existem vários túneis pelos quais se pode viajar no Labirinto que levam a diferentes níveis da cidade. Um Membros do Labirinto que conhece o caminho mostrou quais curvas seguir e quais marcadores seguir. Se você seguir esse caminho, ninguém no Labirinto irá prejudicá-lo, mas se você se desviar dele você corre o risco de morrer ou coisa pior. Este conhecimento é útil ao tentar escapar de um inimigo em perseguição ou quando você precisa se esconder por uma noite, aproveitando o tempo nos túneis."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Tunnel Access",
+            "text": "There are several tunnels one can travel through in the Labyrinth that exit to different levels of the city. A Kindred from the Labyrinth who knows the way has shown you which turns to take and markers to follow. If you follow that path, none in the Labyrinth will harm you, but if you stray from it you risk death or worse. This knowledge is useful when trying to escape a pursuing enemy or you need to hide for a night by taking your time in the tunnels."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-labyrinth-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "O Labirinto — Azul do vagão",
+        "en": "The Labyrinth — Boxcar Blues"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 279 · 2",
+      "pages": [
+        {
+          "pdfPage": 280,
+          "printedPage": 279
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Azul do vagão",
+            "text": "As histórias contadas no Labirinto são contos estranhos e incomuns sobre o que seus habitantes viram em seus anos de Chicago. Por uma razão ou outra os Membros habitantes deste local decidiram passar à clandestinidade, e por isso possuem uma forma única de divulgar notícias através do boca a boca. Bem, através da música. Eles cantam várias canções folclóricas que têm duplo sentido, ou personagens que representam certas figuras políticas atualmente no poder. Você aprendeu como decifrar essas letras e discernir informações importantes delas. Ganhe especialidades de habilidade gratuitas em Performance (Canção Folclórica) e Manha (Rumores do Labirinto)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Boxcar Blues",
+            "text": "The stories told in the Labyrinth are strange and unusual tales of what its inhabitants have seen in their years of Chicago. For one reason or another the Kindred inhabitants of this place have decided to go underground, and because of that they have a unique form of spreading news through word of mouth. Well, through song. There are various folk songs they sing that have double meanings, or characters in them who represent certain political figures currently in power. You’ve been taught how to decipher these lyrics and discern important information from them. Gain free Skill Specialties in Performance (Folk Song) and Streetwise (Labyrinth Rumors)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-labyrinth-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "O Labirinto — Igreja",
+        "en": "The Labyrinth — Church"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 279 · 3",
+      "pages": [
+        {
+          "pdfPage": 280,
+          "printedPage": 279
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Igreja",
+            "text": "Uma vez por mês há uma pequena boate em uma das maiores salas vazias de concreto. O Membros subterrâneo o equipou com luzes, alto-falantes e barras. Chama-se Church, ironicamente, é claro, e toca sintetizadores de masmorras e house music até o nascer do sol para seus adoradores da noite dançante. Há atividades vampíricas mais sombrias em algumas salas adjacentes a este espaço aberto, projetadas para confundir humanos com estados alterados de consciência que vagam e se tornam refeições. Ninguém o desligou ainda porque os Membros que o administram têm o cuidado de encobrir seus rastros. Você conhece sua localização e pode trazer um acompanhante a qualquer momento."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Church",
+            "text": "Once a month there’s a small club night hosted in one of the larger empty concrete rooms. The subterranean Kindred have kitted it out with lights, speakers, and bars. It’s called Church, ironically of course, and it pumps dungeon synth and witch house music until sunrise for its dancing night worshippers. There’s darker vampiric activity in some rooms adjacent to this open space, designed to confuse humans with altered states of consciousness who wander in and become meals. Nobody’s shut it down yet because the Kindred who run it are careful to cover their tracks. You know its location and are welcome to bring a plus one anytime."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-labyrinth-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "O Labirinto — Covil de Lydia",
+        "en": "The Labyrinth — Lydia’s Lair"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 279 · 4",
+      "pages": [
+        {
+          "pdfPage": 280,
+          "printedPage": 279
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Covil de Lydia",
+            "text": "Há um oráculo chamado Lydia que vive entre essas ruínas de trens abandonados. Seu covil é decorado com lindas sedas e uma coleção de ossos de coisas mortas que ela cultivou ao longo dos anos. Ela é uma mulher branca de aparência jovem, com longos cabelos pretos, que usa jeans simples e camiseta. Lydia é uma Tremere e cega, uma condição que se tornar-se Membro não resolveu para ela. É possível que ela seja muito velha, mas não revela sua idade exata e ninguém entende como ela utiliza Feitiçaria de Sangue para ver futuros tão específicos. Se você levar algo para ela comer, ela lerá a palma da sua mão e lhe dirá algo específico sobre o futuro. Você tem acesso a ela, já que ela não verá qualquer um, apenas aqueles em quem a comunidade de vampiros subterrâneos confia. Lydia conta como Mawla (••••)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Lydia’s Lair",
+            "text": "There’s an oracle named Lydia who lives amidst these abandoned train ruins. Her lair is decorated with beautiful silks and a collection of the bones of dead things she’s cultivated over the years. She’s a young-looking white woman with long black hair who wears simple jeans and a t-shirt. Lydia’s a Tremere, and blind, a condition that becoming Kindred didn’t solve for her. It’s possible she’s very old but she won’t reveal her exact age, and nobody understands how she utilizes Blood Sorcery to see such specific futures. If you bring her something to eat, she’ll read your palm, telling you one specific thing about the future. You’ve got access to her, since she won’t see just anyone, only those who are trusted by the subterranean vampire community. Lydia counts as a Mawla (••••)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-labyrinth-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "O Labirinto — Esconderijo",
+        "en": "The Labyrinth — Hideout"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 279 · 5",
+      "pages": [
+        {
+          "pdfPage": 280,
+          "printedPage": 279
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Esconderijo",
+            "text": "Os Membros que moram aqui confiam em você o suficiente para segurá-lo por um tempo se você quiser se esconder de alguém. É um refúgio seguro para vampiros de fora, e nenhum julgamento é feito. No entanto, se forem cometidos crimes contra a comunidade, você será rapidamente deposto. Ganhe Aliados: Comunidade Labirintos Membros (••••)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hideout",
+            "text": "The Kindred living here trust you enough to hold you over for a time if you’re looking to hide out from anyone. It’s a safe haven for outsider vampires, and no judgment is made. If crimes are committed against the community, however, you’re quick to be ousted. Gain Allies: Labyrinth Kindred Community (••••)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

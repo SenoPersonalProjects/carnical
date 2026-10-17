@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-the-pyramid",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "A Pirâmide",
+    "en": "The Pyramid"
+  },
+  "aliases": [
+    "A Pirâmide",
+    "The Pyramid",
+    "A Pirâmide — Aprendiz",
+    "The Pyramid — Apprentice",
+    "A Pirâmide — Savant (sábio)",
+    "The Pyramid — Savant (wise)",
+    "A Pirâmide — Regente",
+    "The Pyramid — Regent",
+    "A Pirâmide — Pontífice",
+    "The Pyramid — Pontiff",
+    "A Pirâmide — O Novo Conselho",
+    "The Pyramid — The New Council"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-the-pyramid-camarilla-v5-1",
+      "book": "camarilla-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "A Pirâmide — Aprendiz",
+        "en": "The Pyramid — Apprentice"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 189 · 1",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 189
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aprendiz",
+            "text": "Apesar de sua recente desestabilização, a maioria dos senhores do Clã Tremere ainda concedem prontamente a seus neófitos a classificação de aprendiz. Você é um desses aprendizes, ou o mestre de um, premiando você com o equivalente a um Mawla de um ponto."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Apprentice",
+            "text": "Despite their recent destabilization, most lords of Clan Tremere still readily grant their neophytes the rank of apprentice. You are one of these apprentices, or the master of one, awarding you the equivalent of a Mawla of a point."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-pyramid-camarilla-v5-2",
+      "book": "camarilla-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "A Pirâmide — Savant (sábio)",
+        "en": "The Pyramid — Savant (wise)"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 189 · 2",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 189
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Savant (sábio)",
+            "text": "Apesar de sua nova entrada na pirâmide, você já desenhou a atenção dos membros mais do que apenas uma experiência bem-sucedida em que você cortejou o perigo, a criação de um novo ritual menor, ou a descoberta de alguma tradição uma vez perdida do clã. Uma vez por crônica, esta tradição permite que você perguntar sobre uma Menção Maior de um regente, e fornecer a benção não é um insulto, basta manter bom termos com aquele Tremere depois disso."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Savant (wise)",
+            "text": "Despite your new entry into the pyramid, you have already drawn the attention of the Kindred more than just a successful experiment in which you courted danger, the creation of a new minor ritual, or the discovery of some once-lost clan tradition. Once per chronicle, this tradition allows you to ask about a major boon from a regent, and provided the boon is not an insult, just remain on good terms with that Tremere afterward."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-pyramid-camarilla-v5-3",
+      "book": "camarilla-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "A Pirâmide — Regente",
+        "en": "The Pyramid — Regent"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 189 · 3",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 189
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Regente",
+            "text": "Cada capela tem um Regente. O Regente é responsável pela tutela de todos os outros Tremere no domínio. Embora o regente não possa ensinar a eles pessoalmente, ele deve garantir que todos os Tremere estão sendo educados. Entre outros deveres do Regente, se estende ao clã a proteção no domínio, e às vezes sua representação no Conselho do Primogênito. Você é o regente de uma capela. Isso dá a você um ponto no Status Tremere, bem como três pontos em Refúgio, representando a capela. Esteja ciente de que você é esperado para supervisionar a segurança da capela, bem como fornecer alojamento imediato e recursos para outros membros do clã."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Regent",
+            "text": "Each chapel has a Regent. The Regent is responsible for the guardianship of all other Tremere in the domain. Although the Regent cannot teach them personally, he must ensure that all Tremere are being educated. Among the Regent's other duties, protection in the domain is extended to the clan, and sometimes representation on the Council of the Firstborn. You are the regent of a chapel. This gives you one point in Status Tremere, as well as three points in Haven, representing the chapel. Please be aware that you are expected to oversee the security of the chapel, as well as provide immediate housing and Resources for other Kindred of the clan."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-pyramid-camarilla-v5-4",
+      "book": "camarilla-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "A Pirâmide — Pontífice",
+        "en": "The Pyramid — Pontiff"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 189 · 4",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 189
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Pontífice",
+            "text": "Cada Bruxo ativo do Conselho dos Sete tem sete Pontífices reportando a ele. Estes pontifícios supervisionam um vasto domínio, embora seja raramente definido geograficamente. Diferentes Pontífices são nomeados como representantes do clã nas áreas da arte, economia, estudos de lobisomem e outros campos semelhantes. Você é visto como o maior especialista do clã em qualquer domínio que você tenha Pontífice e seus recursos em relação a esse campo é extenso. Você ganha um bônus de três dados para qualquer teste de coleta de informações relacionado ao seu campo específico, provenientes do acesso à sua biblioteca de estudos, bem como três pontos no Status Tremere."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Pontiff",
+            "text": "Each active Warlock of the Council of Seven has seven Pontiffs reporting to him. These pontificals oversee a vast domain, although it is rarely defined geographically. Different Pontiffs are appointed as representatives of the clan in the areas of art, economics, werewolf studies and other similar fields. You are seen as the clan's foremost expert in whatever domain you have Pontiff and your Resources in relation to that field is extensive. You gain a three-dice bonus to any information-gathering check related to your specific field from accessing your study library, as well as three points in Status Tremere."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-pyramid-camarilla-v5-5",
+      "book": "camarilla-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "A Pirâmide — O Novo Conselho",
+        "en": "The Pyramid — The New Council"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 189 · 5",
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 189
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Novo Conselho",
+            "text": "O novo Conselho Tremere dos Sete foi montado como uma medida de emergência após o sucesso da Segunda Inquisição ao ataque em Viena. A explosão foi programada para coincidir com uma reunião entre os membros do Conselho, transformando a todos, exceto alguns, em cinzas, enquanto o restante entrou em torpor. Você foi considerado um dos novos potenciais membros do Conselho dos Sete porque você tem algo único para oferecer ao clã Tremere. O que é isso e como você exerce seu poder depende de você e do Narrador. Você também tem quatro pontos em Status Tremere."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The New Council",
+            "text": "The new Tremere Council of Seven was assembled as an emergency measure following the Second Inquisition's successful attack on Vienna. The explosion was timed to coincide with a meeting between the Kindred of the Council, turning all but a few to ash, while the rest went into torpor. You have been considered one of the Council of Seven's potential new Kindred because you have something unique to offer the Tremere clan. What that is and how you wield its power is up to you and Storyteller. You also have four points in Status Tremere."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

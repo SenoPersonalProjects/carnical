@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-high-clan",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Alto-Clã",
+    "en": "High Clan"
+  },
+  "aliases": [
+    "Alto-Clã",
+    "High Clan",
+    "Alto-Clã — Pavão",
+    "High Clan — Peacock",
+    "Alto-Clã — Controle de Massas",
+    "High Clan — Mass Control",
+    "Alto-Clã — Erguer o Baixo",
+    "High Clan — Raise the Bass",
+    "Alto-Clã — Abraçar para Governar",
+    "High Clan — Embrace to Govern",
+    "Alto-Clã — Abençoado, não Amaldiçoado",
+    "High Clan — Blessed, not Cursed"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-high-clan-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Alto-Clã — Pavão",
+        "en": "High Clan — Peacock"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 400 · 1",
+      "pages": [
+        {
+          "pdfPage": 404,
+          "printedPage": 400
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Pavão",
+            "text": "Você tem orgulho do status do seu clã como Alto, e se comporta com toda a pompa e circunstância própria de um vampiro nobre. Uma vez por sessão, você pode rerrolar um único dado ao tentar ordenar que um vampiro sem título o trate com deferência dentro do seu domínio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Peacock",
+            "text": "You are proud of your clan's Status as Tall, and carry yourself with all the pomp and circumstance befitting a noble vampire. Once per session, you may reroll a single die when attempting to command an untitled vampire to treat you with deference within your domain."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-high-clan-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Alto-Clã — Controle de Massas",
+        "en": "High Clan — Mass Control"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 400 · 2",
+      "pages": [
+        {
+          "pdfPage": 404,
+          "printedPage": 400
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Controle de Massas",
+            "text": "Os Altos-Clãs já se sentaram em tronos, ordenando que vampiros Baixos-Clãs morressem em seu nome nos campos de batalha e se submetessem na corte. Você ainda possui a habilidade de persuadir vampiros de Baixos-Clãs mais facilmente do que vampiros de Altos-Clãs. Você possui um abusado e leal séquito de vampiros Baixos-Clãs que equivale a três pontos de Mawla. Você ganha três dados adicionais em paradas que utilizem Intimidação ou Liderança contra aqueles Membros; caso role uma falha total em um desses testes ou disputas, você precisará compensá-los, ou eles se virarão contra você."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Mass Control",
+            "text": "The High Clans once sat on thrones, ordering Low Clan vampires to die in their name on the battlefield and submit at court. You still have the ability to persuade Low-Clan vampires more easily than High-Clan vampires. You have an abused and loyal retinue of Low-Clan vampires that equals three points of Mawla. You gain three additional dice on pools that use Intimidation or Leadership versus those Kindred; If you completely fail one of these tests or contests, you will need to compensate them, or they will turn against you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-high-clan-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Alto-Clã — Erguer o Baixo",
+        "en": "High Clan — Raise the Bass"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 400 · 3",
+      "pages": [
+        {
+          "pdfPage": 404,
+          "printedPage": 400
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Erguer o Baixo",
+            "text": "Alguma peculiaridade da sua linhagem de sangue ou antigo decreto Príncipesco permite que você proclame a ascendência de um Baixo-Clã na sua cidade ao status de Alto-Clã. Você pode fazer isso uma vez por crônica, mas, naturalmente, pode enrolar por um bom tempo antes de fazê-lo. Até lá, adicione um dado a testes Sociais contra Membros Baixo-Clã ao aludir a essa possibilidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Raise the Bass",
+            "text": "Some peculiarity of your Bloodline or ancient Princely decree allows you to proclaim the ancestry of a Low-Clan in your city to the Status of High-Clan. You can do this once per chronicle, but naturally you can stall for a good while before doing it. Until then, add a die to Social rolls against Kindred Low-Clan when alluding to this possibility."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-high-clan-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Alto-Clã — Abraçar para Governar",
+        "en": "High Clan — Embrace to Govern"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 400 · 4",
+      "pages": [
+        {
+          "pdfPage": 404,
+          "printedPage": 400
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Abraçar para Governar",
+            "text": "Vampiros dos Altos-Clãs muitas vezes optavam por Abraçar mortais de descendéncia nobre ou ancestralidade poderosa. Seus ancestrais podem nao ser reis e rainhas, mas você foi Abracado para governar. Adicione um dado a paradas de testes de Liderança que envolvam vampiros Alto-Clã que conheçam sua linhagem. Uma vez por história, outros vampiros dos Altos-Clãs adiam votar em você, ou permitem que você assuma mais responsabilidade (e poder), a menos que você tenha gerado algum agravo pessoal entre vocês."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Embrace to Govern",
+            "text": "High-Clan Vampires often chose to Embrace Kine of noble descent or powerful ancestry. Your ancestors may not be kings and queens, but you were Embraced to rule. Add a die to Leadership rolls that involve High-Clan vampires who know your lineage. Once per story, other High-Clan vampires postpone voting for you, or allow you to take on more responsibility (and power), unless you have generated some personal grievance between you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-high-clan-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Alto-Clã — Abençoado, não Amaldiçoado",
+        "en": "High Clan — Blessed, not Cursed"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 400 · 5",
+      "pages": [
+        {
+          "pdfPage": 404,
+          "printedPage": 400
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Abençoado, não Amaldiçoado",
+            "text": "Como muitos vampiros dos Altos-Clãs, você se convenceu de que você não carrega nenhuma Maldição de Caim. Em vez disso, sua fraqueza de clã é uma dádiva que lhe revela mais da sua natureza, sua posição na Terra de Deus e as áreas da vida que deve reforçar. Uma vez por sessão, você pode gastar um ponto de Força de Vontade para ignorar os fardos da sua Perdição de Clã."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Blessed, not Cursed",
+            "text": "Like many High-Clan vampires, you have convinced yourself that you carry no Curse of Caine. Instead, your clan weakness is a gift that reveals more of your nature, your position in God's Land, and the areas of life you must strengthen. Once per session, you may spend a point of Willpower to ignore the burdens of your Clan Bane."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

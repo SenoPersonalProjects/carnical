@@ -1,0 +1,278 @@
+{
+  "id": "loresheet-null-zone",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Zona Nula",
+    "en": "Null Zone"
+  },
+  "aliases": [
+    "Zona Nula",
+    "Null Zone",
+    "Zona Nula — lendas de usla",
+    "Null Zone — legends of usla",
+    "Zona Nula — Para a zona",
+    "Null Zone — Into the Zone",
+    "Zona Nula — rua. Capela Joana D'arc",
+    "Null Zone — st. Joan of arc Chapel",
+    "Zona Nula — Igreja de Ísis",
+    "Null Zone — Church of Isis",
+    "Zona Nula — Talismãs de Usla (escolha um)",
+    "Null Zone — usla’s Talismans (choose one)"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-null-zone-let-the-streets-run-red-v5-1",
+      "book": "let-the-streets-run-red-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Zona Nula — lendas de usla",
+        "en": "Null Zone — legends of usla"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 231, 232 · 1",
+      "pages": [
+        {
+          "pdfPage": 232,
+          "printedPage": 231
+        },
+        {
+          "pdfPage": 233,
+          "printedPage": 232
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "lendas de usla",
+            "text": "Você conhece a lenda da batalha entre Usla e Chiclena e percebe que algo extremamente importante para os Lupinos está enterrado dentro da “Zona Nula”. Você não sabe exatamente onde o item está enterrado, mas está à caça. Ganhe um dado adicional em todos os testes de Investigação e Ocultismo relacionados à “Zona Nula”."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "legends of usla",
+            "text": "You know the legend of the battle between Usla and Chiclena and discern something extremely important to the Lupines is buried inside the “Null Zone.” You don’t know exactly where the item is buried, but you are on the hunt. Gain one bonus die to all Investigation and Occult rolls related to the “Null Zone.”"
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-null-zone-let-the-streets-run-red-v5-2",
+      "book": "let-the-streets-run-red-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Zona Nula — Para a zona",
+        "en": "Null Zone — Into the Zone"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 231, 232 · 2",
+      "pages": [
+        {
+          "pdfPage": 232,
+          "printedPage": 231
+        },
+        {
+          "pdfPage": 233,
+          "printedPage": 232
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Para a zona",
+            "text": "Você tem acesso à “Zona Nula” de Milwaukee e pode permanecer lá por breves períodos sem ser observado ou atacado por forças externas. Dentro da zona, todos os usos de Auspícios têm sua dificuldade reduzida em um. O uso de Proteanismo não requer Testes de Sangue, mas você deve gastar um ponto de Força de Vontade por cena para evitar que poderes transformadores como Armas Ferais e Mudança de Forma sejam ativados automaticamente. Todos os testes de Feitiçaria de Sangue requerem sete sucessos para serem bem-sucedidos e os rituais que os acompanham falham automaticamente. A falha em qualquer um dos usos acima de Auspícios, Proteanismo ou Feitiçaria de Sangue proporciona níveis de dano agravado iguais à sua margem de falha. Falha total causa a mesma quantidade de dano, além de deixar uma marca mística em sua aura que atua como um poderoso farol para todos os Lupinos na área."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Into the Zone",
+            "text": "You have access to the Milwaukee “Null Zone” and can linger there for brief periods without observation or being assailed by outside forces. Within the zone, all uses of Auspex have their difficulty reduced by one. Uses of Protean do not require Rouse checks, but you must spend one Willpower per scene to prevent transformative powers like Feral Weapons and Shapechange from activating automatically. All Blood Sorcery rolls require seven successes to succeed and its attendant rituals fail automatically. Failure on any of the above uses of Auspex, Protean, or Blood Sorcery delivers levels of Aggravated damage equal to their margin of failure. Total Failure delivers the same amount of damage in addition to leaving a mystical mark on your aura that acts as a powerful beacon to all Lupines in the area."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-null-zone-let-the-streets-run-red-v5-3",
+      "book": "let-the-streets-run-red-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Zona Nula — rua. Capela Joana D'arc",
+        "en": "Null Zone — st. Joan of arc Chapel"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 231, 232 · 3",
+      "pages": [
+        {
+          "pdfPage": 232,
+          "printedPage": 231
+        },
+        {
+          "pdfPage": 233,
+          "printedPage": 232
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "rua. Capela Joana D'arc",
+            "text": "Você descobre que um poderoso mago mandou mover e reconstruir a Capela medieval de Santa Joana d'Arc diretamente sobre o centro da “Zona Nula” na década de 1960. Embora tenha sido morto pelos Lupinos, seu legado permanece. A capela é cercada por proteções extremamente poderosas contra os Lupinos e a presença da Pedra Joana D'Arc torna quase insuportável para Membros (a estrutura tem o equivalente à Fé Verdadeira 5). Uma escada secreta escondida sob as pedras atrás do altar leva a uma série de túneis subterrâneos e escavações usadas pelo mago para facilitar seu Investigação. A capela é uma das principais razões pelas quais Membros e os Lupinos não conseguiram reivindicar seu prêmio, e ela é protegida por uma variedade de proteções feitiçarias e mundanas. Qualquer entrada na capela será contestada por Lupinos, magos ou agentes da Sociedade de São Leopoldo estacionados no campus de Marquette."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "st. Joan of arc Chapel",
+            "text": "You discover that a powerful mage had the medieval St. Joan of Arc Chapel moved and reconstructed directly over the center of the “Null Zone” in the 1960s. While ultimately slain by Lupines, his legacy endures. The chapel is surrounded by extremely powerful wards against Lupines and the presence of the Joan of Arc Stone makes it almost unbearable to Kindred (the structure has the equivalent of True Faith 5). A secret staircase concealed under the stones behind the altar leads to a series of underground tunnels and excavations used by the mage to facilitate his investigation. The chapel is one of the primary reasons Kindred and Lupines have been unable to claim their prize, and it is warded by a variety of sorcerous and mundane protections. Any entrance to the chapel will be opposed by Lupines, magi, or agents of the Society of St. Leopold stationed on the Marquette campus."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-null-zone-let-the-streets-run-red-v5-4",
+      "book": "let-the-streets-run-red-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Zona Nula — Igreja de Ísis",
+        "en": "Null Zone — Church of Isis"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 231, 232 · 4",
+      "pages": [
+        {
+          "pdfPage": 232,
+          "printedPage": 231
+        },
+        {
+          "pdfPage": 233,
+          "printedPage": 232
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Igreja de Ísis",
+            "text": "O Mount Mary College abriga a Igreja de Ísis, sociedade ocultista de posições feministas radicais formada por humanos e praticantes de magia do Culto de Ísis. Querem recuperar os talismãs de Usla e trabalham com Membros e Lupinos para isso. Antes ligados ao Dr. Mortius, procuram novos aliados entre os Membros após seu desaparecimento. Você forma uma aliança com a Igreja de Ísis e pode pedir sua ajuda uma vez por crônica. Contam como um grupo de Aliados de cinco pontos, capaz de oferecer ajuda mundana e mágica."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Church of Isis",
+            "text": "Mount Mary College plays host to the Church of Isis, an occult society espousing radical feminist views composed of humans and magick users from the Cult of Isis. They are eager to recover Usla’s talismans and work with Kindred and Lupine alike to achieve their purpose. Formerly affiliated with Dr. Mortius prior to his disappearance, they seek new Kindred allies to further their quest. You forge an alliance with the Church of Isis, allowing you to call upon their aid once per Chronicle. They count as a five dot Ally group that can provide both mundane and sorcerous assistance."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-null-zone-let-the-streets-run-red-v5-5",
+      "book": "let-the-streets-run-red-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Zona Nula — Talismãs de Usla (escolha um)",
+        "en": "Null Zone — usla’s Talismans (choose one)"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 231, 232 · 5",
+      "pages": [
+        {
+          "pdfPage": 232,
+          "printedPage": 231
+        },
+        {
+          "pdfPage": 233,
+          "printedPage": 232
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Escolha o benefício",
+          "en": "Choose the benefit"
+        },
+        "detailOptions": [
+          "Eye of the Coyote / Olho do Coiote",
+          "Talon of the Eagle / Garra da Águia"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Talismãs de Usla (escolha um)",
+            "text": "Escolha um talismã, com permissão do Narrador.\n\nOlho do Coiote: você sabe onde encontrar o Olho. Enquanto o carrega, tem o equivalente a cinco pontos de Auspícios com todas as capacidades relacionadas, e a dificuldade de todos os testes de Feitiçaria de Sangue contra você aumenta em quatro. O Narrador pode conceder capacidades adicionais ao Olho. Todos os Lupinos o caçam dia e noite até recuperar o objeto. O Olho só pode ser usado uma vez por história, mas a atração que exerce é permanente.\n\nGarra da Águia: você conhece sua localização. Enquanto a carrega, todos os seus Atributos Físicos dobram, até o máximo de cinco, e você tem o equivalente a cinco pontos de Proteanismo com todas as capacidades relacionadas. O Narrador pode conceder capacidades adicionais à Garra. Todos os Lupinos o caçam dia e noite até recuperá-la. A Garra só pode ser usada uma vez por história, mas sua atração é permanente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "usla’s Talismans (choose one)",
+            "text": "eye of the Coyote: With Storyteller’s permission, you know where to find the Eye of the Coyote. You have the equivalent of five-dots of Auspex with all related abilities and the difficulty of all Blood Sorcery tests made against you are increased by four while the Eye is on your person. The Storyteller can grant the Eye additional abilities and you are hunted day and night by all Lupines until the Eye is recovered. The Eye is only usable once per story, but the lure attached to it is permanent. Talon of the eagle: With Storyteller’s permission, you know the location of the Talon of the Eagle. All your physical Attributes are doubled (up to a maximum of five), and you have the equivalent of five dots of Protean with all related abilities while the Talon is on your person. The Storyteller can grant the Talon additional abilities, and you are hunted day and night by all Lupines until the Talon is recovered. The Talon is only usable once per story, but the lure attached to it is permanent."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

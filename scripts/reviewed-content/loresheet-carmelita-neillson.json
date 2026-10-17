@@ -1,0 +1,477 @@
+{
+  "id": "loresheet-carmelita-neillson",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Carmelita Neillson",
+    "en": "Carmelita Neillson"
+  },
+  "aliases": [
+    "Carmelita Neillson",
+    "Carmelita Neillson — A Arte da Narrativa",
+    "Carmelita Neillson — The Art of Narrative",
+    "Carmelita Neillson — A Arte da Vontade",
+    "Carmelita Neillson — The Art of Will",
+    "Carmelita Neillson — Biblioteca Neillson",
+    "Carmelita Neillson — Neillson Library",
+    "Carmelita Neillson — Entrevista com o Matusalém",
+    "Carmelita Neillson — Interview with Methuselah",
+    "Carmelita Neillson — A Tumba do Ancestral",
+    "Carmelita Neillson — The Ancestor's Tomb",
+    "Carmelita Neillson — A Arte da História",
+    "Carmelita Neillson — The Art of History",
+    "Carmelita Neillson — Tumba do Antepassado",
+    "Carmelita Neillson — Ancestor's Tomb"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-carmelita-neillson-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Carmelita Neillson — A Arte da Narrativa",
+        "en": "Carmelita Neillson — The Art of Narrative"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 403 · 1",
+      "pages": [
+        {
+          "pdfPage": 407,
+          "printedPage": 403
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Arte da Narrativa",
+            "text": "Você e Carmelita compartilham a crença de que a narração de histórias é uma das formas de arte perdidas. Sempre que você regala outros vampiros com informações históricas ou mitos e lendas, os Toreador são naturalmente atraídos para as suas palavras, independentemente do relacionamento que haja entre vocês."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Art of Narrative",
+            "text": "You and Carmelita share the belief that storytelling is one of the lost art forms. Whenever you regale other vampires with historical information or myths and legends, the Toreador are naturally drawn to your words, regardless of your relationship."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carmelita-neillson-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Carmelita Neillson — A Arte da Vontade",
+        "en": "Carmelita Neillson — The Art of Will"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 403 · 2",
+      "pages": [
+        {
+          "pdfPage": 407,
+          "printedPage": 403
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Arte da Vontade",
+            "text": "Uma relíquia ou objet d'art específico, confiado a você pela Dra. Neillson, o inspira e encanta. Se você passar uma hora meditando sobre ele (e realizar um teste de Determinação + Erudição com Dificuldade 5) antes de descansar no dia, você desperta com um ponto de Força de Vontade extra. Você pode meditar desse modo uma vez por sessão."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Art of Will",
+            "text": "A specific relic or objet d'art, entrusted to you by Dr. Neillson, inspires and delights you. If you spend an hour meditating on it (and roll Resolve + Academics with Difficulty 5) before resting for the day, you awaken with an extra Willpower point. You can meditate in this way once per session."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carmelita-neillson-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Carmelita Neillson — Biblioteca Neillson",
+        "en": "Carmelita Neillson — Neillson Library"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 403 · 3",
+      "pages": [
+        {
+          "pdfPage": 407,
+          "printedPage": 403
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Biblioteca Neillson",
+            "text": "As pequenas bibliotecas de Carmelita Neillson salpicam o mundo nos domínios da Camarilla, servindo como centros de dados usados para estimular e apoiar as memórias de vampiros Anciões. Você é O curador ou guardião de uma dessas bibliotecas, que conta como um Refúgio de dois pontos (••) com uma Biblioteca de dois pontos (••). Outros vampiros e Membros historiadores também usam o local como ponto de encontro, o que tem suas vantagens e desvantagens."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Neillson Library",
+            "text": "Carmelita Neillson's small libraries dot the world in the Camarilla domain, serving as data centers used to stimulate and support the memories of Elder vampires. You are the curator or guardian of one of these libraries, which counts as a two-point Haven (••) with a two-point Library (••). Other vampires and Kindred historians also use the location as a meeting place, which has its advantages and disadvantages."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carmelita-neillson-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Carmelita Neillson — Entrevista com o Matusalém",
+        "en": "Carmelita Neillson — Interview with Methuselah"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 403 · 4",
+      "pages": [
+        {
+          "pdfPage": 407,
+          "printedPage": 403
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Entrevista com o Matusalém",
+            "text": "Você obteve a gravação de Carmelita entrevistando um vampiro impossivelmente antigo que divulga segredos sobre um dos clãs no seu domínio. Uma vez por história, você pode pedir ao Narrador que lhe conte um desses segredos. Independentemente de Carmelita conhecer esse registro e tê-lo dado para você ou alguém tê-lo gravado em segredo, a informação contida lhe dá uma vantagem sobre o vampiro entrevistado e o clã discutido. Um fato interessante é que a voz que se segue à de Carmelita no final da fita menciona outras gravações."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Interview with Methuselah",
+            "text": "You have obtained recording of Carmelita interviewing an impossibly ancient vampire who divulges secrets about one of the clans in her domain. Once per story, you can ask Storyteller to tell you one of these secrets. Regardless of whether Carmelita knows this record and gave it to you or someone else secretly recorded it, the information it contains gives you an advantage over the vampire being interviewed and the clan being discussed. An interesting fact is that the voice that follows Carmelita's at the end of the tape mentions other recordings."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carmelita-neillson-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Carmelita Neillson — A Tumba do Ancestral",
+        "en": "Carmelita Neillson — The Ancestor's Tomb"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 403 · 5",
+      "pages": [
+        {
+          "pdfPage": 407,
+          "printedPage": 403
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Tumba do Ancestral",
+            "text": "Carmelita confiou em você para guardar o suposto local de descanso de um dos seus ancestrais. Enquanto você mantiver o local seguro, poderá cobrar dela um favor maior uma vez por história. Se você falhar em guarda-lo, provavelmente haverá... outras consequências."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Ancestor's Tomb",
+            "text": "Carmelita trusted you to guard the supposed resting place of one of her ancestors. As long as you keep the place safe, you can call in a major favor from her once per story. If you fail to keep it, there will probably be... other consequences."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carmelita-neillson-camarilla-v5-1",
+      "book": "camarilla-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Carmelita Neillson — A Arte da História",
+        "en": "Carmelita Neillson — The Art of History"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 184 · 1",
+      "pages": [
+        {
+          "pdfPage": 185,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Arte da História",
+            "text": "Você e Carmelita compartilham a crença de que o narrador é uma das formas de arte perdidas. Sempre que estiver entretendo outros vampiros com conhecimento histórico ou contos de mitos e lendas, o Toreador naturalmente gravita para escutar as suas palavras, independentemente da sua posição em relação um ao outro."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Art of History",
+            "text": "You and Carmelita share the belief that storytelling is one of the lost art forms. Whenever entertaining other vampires with historical knowledge or tales of myth and legend, the Toreador naturally gravitates to listening to their words, regardless of their position in relation to one another."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carmelita-neillson-camarilla-v5-2",
+      "book": "camarilla-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Carmelita Neillson — A Arte da Vontade",
+        "en": "Carmelita Neillson — The Art of Will"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 184 · 2",
+      "pages": [
+        {
+          "pdfPage": 185,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Arte da Vontade",
+            "text": "Um objeto de arte ou relíquia específico, confiado à sua guarda por Dr. Neillson, inspira e fascina você. Se você gastar uma hora meditando sobre este objeto (e fazer um teste de Determinação + Erudição em Dificuldade 5) antes de descansar durante o dia, você desperta com um ponto de Força de Vontade extra. Você pode meditar desta forma uma vez por sessão."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Art of Will",
+            "text": "A specific art object or relic, entrusted to your keeping by Dr. Neillson, inspires and fascinates you. If you spend an hour meditating on this object (and roll Resolve + Academics at Difficulty 5) before resting for the day, you awaken with an extra Willpower point. You can meditate this way once per session."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carmelita-neillson-camarilla-v5-3",
+      "book": "camarilla-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Carmelita Neillson — Biblioteca Neillson",
+        "en": "Carmelita Neillson — Neillson Library"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 184 · 3",
+      "pages": [
+        {
+          "pdfPage": 185,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Biblioteca Neillson",
+            "text": "Pequenas bibliotecas da Carmelita Neillson pontilham o mundo nos domínios da Camarilla, servindo como colmeias de informação usadas para fazer lembrar e apoiar as memórias dos vampiros anciões. Você é o curador ou o diretor de uma destas bibliotecas, o que conta como um Refúgio ( ) de dois pontos com uma Biblioteca ( ) de dois pontos. Outros vampiros e Membros historiadores se encontram lá também, o que tem tanto vantagens quanto desvantagens."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Neillson Library",
+            "text": "Small libraries of Carmelita Neillson dot the world in the Camarilla domains, serving as hives of information used to recall and support the memories of elder vampires. You are the curator or director of one of these libraries, which counts as a two-point Haven ( ) with a two-point Library ( ). Other vampires and Kindred historians meet there as well, which has both advantages and disadvantages."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carmelita-neillson-camarilla-v5-4",
+      "book": "camarilla-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Carmelita Neillson — Entrevista com o Matusalém",
+        "en": "Carmelita Neillson — Interview with Methuselah"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 184 · 4",
+      "pages": [
+        {
+          "pdfPage": 185,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Entrevista com o Matusalém",
+            "text": "Você obteve uma gravação de Carmelita entrevistando um impossivelmente vampiro antigo que revela segredos sobre um dos clãs em seu domínio. Uma vez por história, você pode pedir ao Narrador para fornecer à você tal segredo. Se Carmelita sabia desta gravação e deu a você ou alguém fez esta gravação em segredo, a informação na entrevista dá à você uma vantagem sobre o vampiro no clipe e o clã discutido. Interessantemente, a voz seguindo a de Carmelita no final da fita menciona gravações adicionais."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Interview with Methuselah",
+            "text": "You have obtained a recording of Carmelita interviewing an impossibly ancient vampire who reveals secrets about one of the clans in her domain. Once per story, you can ask Storyteller to provide you with that secret. If Carmelita knew about this recording and gave it to you or someone made this recording in secret, the information in the interview gives you an advantage over the vampire in the clip and the clan discussed. Interestingly, the voice following Carmelita's at the end of the tape mentions additional recordings."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carmelita-neillson-camarilla-v5-5",
+      "book": "camarilla-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Carmelita Neillson — Tumba do Antepassado",
+        "en": "Carmelita Neillson — Ancestor's Tomb"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 184 · 5",
+      "pages": [
+        {
+          "pdfPage": 185,
+          "printedPage": 184
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Tumba do Antepassado",
+            "text": "Carmelita confiou à você a guarda do suposto local de descanso de um de seus antepassados. Enquanto você mantê-lo seguro, você pode chamá-la para uma benção maior uma vez por história. Se você não conseguir mantê-lo seguro, provavelmente haverá... outras consequências."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ancestor's Tomb",
+            "text": "Carmelita entrusted you with the care of the supposed resting place of one of her ancestors. As long as you keep it safe, you can call upon her for a major boon once per story. If you can't keep it safe, there will probably be... other consequences."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

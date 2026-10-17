@@ -1,0 +1,257 @@
+{
+  "id": "loresheet-fires-floods-devils-night",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Incêndios, Enchentes e a Noite do Diabo",
+    "en": "Fires and Floods and Devil’s Night"
+  },
+  "aliases": [
+    "Incêndios, Enchentes e a Noite do Diabo",
+    "Fires and Floods and Devil’s Night",
+    "Incêndios, Enchentes e a Noite do Diabo — Curiosidades",
+    "Fires and Floods and Devil’s Night — Trivia Buff",
+    "Incêndios, Enchentes e a Noite do Diabo — Ossos Velhos",
+    "Fires and Floods and Devil’s Night — Old Bones",
+    "Incêndios, Enchentes e a Noite do Diabo — Sobrevivente da Noite do Diabo",
+    "Fires and Floods and Devil’s Night — Devil’s Night Survivor",
+    "Incêndios, Enchentes e a Noite do Diabo — Herói local",
+    "Fires and Floods and Devil’s Night — Local Hero",
+    "Incêndios, Enchentes e a Noite do Diabo — Mestre de marionetes",
+    "Fires and Floods and Devil’s Night — Puppetmaster"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-fires-floods-devils-night-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Incêndios, Enchentes e a Noite do Diabo — Curiosidades",
+        "en": "Fires and Floods and Devil’s Night — Trivia Buff"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 275 · 1",
+      "pages": [
+        {
+          "pdfPage": 276,
+          "printedPage": 275
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Curiosidades",
+            "text": "Seu conhecimento sobre os desastres de Chicago é sólido como uma rocha. Você conhece datas e detalhes e escreveu listas sobre fatos estranhos, mas verdadeiros, sobre as tragédias. Adicione dois dados aos testes Erudição ou Investigação relativos ao tópico."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Trivia Buff",
+            "text": "Your knowledge of Chicago disasters is rock solid. You know dates and details, and have written listicles on the strange-but-true facts about the tragedies. Add two dice to Academics or Investigation rolls pertaining to the topic."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fires-floods-devils-night-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Incêndios, Enchentes e a Noite do Diabo — Ossos Velhos",
+        "en": "Fires and Floods and Devil’s Night — Old Bones"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 275 · 2",
+      "pages": [
+        {
+          "pdfPage": 276,
+          "printedPage": 275
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ossos Velhos",
+            "text": "Novas partes da cidade foram reconstruídas em cima das antigas. Talvez você tenha estudado registros arquitetônicos ou talvez seus antigos locais estivessem em vias de destruição. Partes deles ainda estão de pé e você sabe como entrar nelas. Uma vez por história, você pode se esconder em um desses lugares para despistar um perseguidor."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Old Bones",
+            "text": "New parts of the city were rebuilt on top of the old. Perhaps you’ve studied architectural records, or maybe your old haunts were in the path of destruction. Parts of them still stand, and you know how to get into them. Once per story, you may hide in one of these places to throw off a pursuer."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fires-floods-devils-night-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Incêndios, Enchentes e a Noite do Diabo — Sobrevivente da Noite do Diabo",
+        "en": "Fires and Floods and Devil’s Night — Devil’s Night Survivor"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 275 · 3",
+      "pages": [
+        {
+          "pdfPage": 276,
+          "printedPage": 275
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sobrevivente da Noite do Diabo",
+            "text": "Você viveu o Grande Fogo e a Noite do Diabo e pode ter participado dos expurgos de Lodin. Uma vez por história, adicione três dados a um teste Social envolvendo outra pessoa que sobreviveu ao incêndio ou suas crias."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Devil’s Night Survivor",
+            "text": "You lived through the Great Fire and Devil’s Night, and may have participated in Lodin’s purges. Once per story, add three dice to a Social roll involving another person who survived the fire or their childer."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fires-floods-devils-night-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Incêndios, Enchentes e a Noite do Diabo — Herói local",
+        "en": "Fires and Floods and Devil’s Night — Local Hero"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 275 · 4",
+      "pages": [
+        {
+          "pdfPage": 276,
+          "printedPage": 275
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Herói local",
+            "text": "Você ajudou a reconstruir após o desastre, ou foi um dos socorristas no local, e as pessoas se lembram de você com carinho por isso. Uma vez por história, você pode aproveitar essa boa vontade para influenciar a opinião mortal para o seu lado em uma questão, concedendo-lhe Influência: Boa Vontade (•••••) para uma única sessão, uma vez por crônica."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          },
+          {
+            "title": "Nota sobre a fonte",
+            "text": "Esta fonte contém redação ambígua, mantida sem criar uma regra alternativa. Consulte a página original e confirme a aplicação com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Local Hero",
+            "text": "You helped rebuild after disaster struck, or were one of the rescuers at the scene, and people remember you fondly for it. Once per story, you may leverage this goodwill to sway mortal opinion to your side of an issue, granting you Influence: Goodwill (•••••) for a single session, once per chronicle."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          },
+          {
+            "title": "Source note",
+            "text": "This source contains ambiguous wording, preserved without inventing an alternative rule. Consult the original page and confirm its application with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fires-floods-devils-night-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Incêndios, Enchentes e a Noite do Diabo — Mestre de marionetes",
+        "en": "Fires and Floods and Devil’s Night — Puppetmaster"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 275 · 5",
+      "pages": [
+        {
+          "pdfPage": 276,
+          "printedPage": 275
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Mestre de marionetes",
+            "text": "Você foi um dos principais orquestradores de um desastre. Trabalhe com o Narrador para determinar como você se envolveu e quais foram os resultados. Quais eram seus objetivos? Quem morreu como resultado? Quem sabe você estava por trás da tragédia? Quais são alguns dos rumores em torno disso? O que você ganhou com isso?"
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Puppetmaster",
+            "text": "You were one of the primary orchestrators of a disaster. Work with the Storyteller to determine how you were involved and what the results were. What were your goals? Who died as a result? Who knows you were behind the tragedy? What are some of the rumors surrounding it? What did you gain from it?"
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

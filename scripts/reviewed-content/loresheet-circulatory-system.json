@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-circulatory-system",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "O Sistema Circulatório",
+    "en": "The Circulatory System"
+  },
+  "aliases": [
+    "O Sistema Circulatório",
+    "The Circulatory System",
+    "O Sistema Circulatório — Acessar o Sistema",
+    "The Circulatory System — Access the System",
+    "O Sistema Circulatório — Livrinho Preto",
+    "The Circulatory System — Little Black Book",
+    "O Sistema Circulatório — Fazenda Remota",
+    "The Circulatory System — Remote Farm",
+    "O Sistema Circulatório — Trânsito Seguro",
+    "The Circulatory System — Safe Traffic",
+    "O Sistema Circulatório — Sommelier de Sangue",
+    "The Circulatory System — Blood Sommelier"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-circulatory-system-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "O Sistema Circulatório — Acessar o Sistema",
+        "en": "The Circulatory System — Access the System"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 386 · 1",
+      "pages": [
+        {
+          "pdfPage": 390,
+          "printedPage": 386
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Acessar o Sistema",
+            "text": "Uma vez por história, você pode solicitar bolsas específicas do Sistema Circulatório para transmitir certas habilidades — ou para fornecer a um Ventrue que tenha suas preferências alimentares negligenciadas no domínio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Access the System",
+            "text": "Once per story, you may request specific vessels from the Circulatory System to convey certain abilities — or to provide for a Ventrue whose feeding preferences are otherwise neglected in the domain."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-circulatory-system-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "O Sistema Circulatório — Livrinho Preto",
+        "en": "The Circulatory System — Little Black Book"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 386 · 2",
+      "pages": [
+        {
+          "pdfPage": 390,
+          "printedPage": 386
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Livrinho Preto",
+            "text": "Você obteve a posse de um dos livrinhos pretos do sistema. Esses livros contêm registros de experimentos de sangue e teorias sobre o poder de bolsas selecionadas. O Narrador determina quão preciso O livro é em cada tópico; em geral, ele soma um dado a testes de Investigação, Alquimia, Medicina ou Ciência para encontrar ou testar uma determinada safra. Ele também corta pela metade o tempo de pesquisa de uma fórmula de Alquimia sangue-ralo de dois ou três pontos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Little Black Book",
+            "text": "You have gained possession of one of the system's little black books. These books contain records of blood experiments and theories about the power of selected bags. The Storyteller determines how accurate the book is on each topic; In general, it adds a die to Investigation, Alchemy, Medicine, or Science rolls to find or test a particular crop. It also cuts the research time for a two- or three-point Thin-blood Alchemy formula in half."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-circulatory-system-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "O Sistema Circulatório — Fazenda Remota",
+        "en": "The Circulatory System — Remote Farm"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 386 · 3",
+      "pages": [
+        {
+          "pdfPage": 390,
+          "printedPage": 386
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Fazenda Remota",
+            "text": "Você sabe onde o Sistema mantêm uma fazenda de bolsas valiosas: mortais com sangue suficientemente potente para beneficiar bebedores Membros. Você pode assaltar a fazenda, arrendar bolsas específicas pagando o devido preço ou tentar invadir o lugar à força. Essas bolsas equivalem a um Rebanho de quatro pontos, mas você só pode se alimentar delas uma vez por semana, a menos que tome abertamente o controle da fazenda."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Remote Farm",
+            "text": "You know where the System maintains a farm of valuable bags: Kine with blood potent enough to benefit Kindred drinkers. You can rob the farm, rent specific bags paying the appropriate price or try to invade the place by force. These pouches are equivalent to a four-point Herd, but you can only feed on them once a week unless you openly take control of the farm."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-circulatory-system-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "O Sistema Circulatório — Trânsito Seguro",
+        "en": "The Circulatory System — Safe Traffic"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 386 · 4",
+      "pages": [
+        {
+          "pdfPage": 390,
+          "printedPage": 386
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Trânsito Seguro",
+            "text": "O Sistema Circulatório emprega furgões blindados e motoristas carniçais armados para transportar as bolsas. Esse modo de trânsito protegido conta com mais do que meros furgões blindados; estão armados até os dentes e, às vezes, contêm bolsas incrivelmente valiosas destinadas a compradores importantes. Você tem acesso a um desses furgões. Seja você um motorista legítimo na frente de um comboio ou tenha sequestrado um dos veículos, você pode transportar com segurança um ou mais Membros com pouco esforço."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Safe Traffic",
+            "text": "The Circulatory System employs armored vans and armed ghoul drivers to transport the bags. This protected mode of transit relies on more than just armored vans; they are armed to the teeth and sometimes contain incredibly valuable bags intended for important buyers. You have access to one of these vans. Whether you are a legitimate driver at the front of a convoy or have hijacked one of the vehicles, you can safely transport one or more Kindred with little effort."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-circulatory-system-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "O Sistema Circulatório — Sommelier de Sangue",
+        "en": "The Circulatory System — Blood Sommelier"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 386 · 5",
+      "pages": [
+        {
+          "pdfPage": 390,
+          "printedPage": 386
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sommelier de Sangue",
+            "text": "Você conhece os métodos secretos do Sistema Circulatório para provar, analisar e refinar sangue, e pode replicá-los. Talvez você possua um laboratório de hematologia, possa chamar um alquimista ou feiticeiro de sangue, ou simplesmente se mantém por dentro dos rumores entre os entendidos do assunto. Você pode somar dois dados a qualquer teste feito para descobrir uma Ressonância, e pode distribuir três pontos entre Contatos, Aliados ou Refúgio para explicar seu conhecimento. Uma vez por história, você pode perguntar ao Narrador quais são as propriedades do sangue da bolsa mais valiosa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Blood Sommelier",
+            "text": "You know the Circulatory System's secret methods for tasting, analyzing, and refining blood, and you can replicate them. Maybe you have a hematology laboratory, you can call an alchemist or blood wizard, or you simply keep up to date with rumors among those in the know. You can add two dice to any roll you make to find a Resonance, and you can distribute three points between Contacts, Allies, or Haven to explain your knowledge. Once per story, you can ask Storyteller what the properties of the blood from the most valuable bag are."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

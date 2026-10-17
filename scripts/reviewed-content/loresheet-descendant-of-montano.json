@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-descendant-of-montano",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Descendente de Montano",
+    "en": "Descendant of Montano"
+  },
+  "aliases": [
+    "Descendente de Montano",
+    "Descendant of Montano",
+    "Descendente de Montano — A sombra de ontem",
+    "Descendant of Montano — The Shadow of Yesterday",
+    "Descendente de Montano — Irmãos na escuridão",
+    "Descendant of Montano — Siblings in Darkness",
+    "Descendente de Montano — Aprendiz Abissal",
+    "Descendant of Montano — Abyssal Apprentice",
+    "Descendente de Montano — Boca a Boca",
+    "Descendant of Montano — Word of Mouth",
+    "Descendente de Montano — Pureza do Remorso",
+    "Descendant of Montano — Purity of Remorse"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-descendant-of-montano-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Montano — A sombra de ontem",
+        "en": "Descendant of Montano — The Shadow of Yesterday"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 274 · 1",
+      "pages": [
+        {
+          "pdfPage": 275,
+          "printedPage": 274
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Lasombra"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A sombra de ontem",
+            "text": "Montano não se lembra de nada sobre seus primeiros dias, mas lembra muito sobre sua seita e seu clã. Uma vez por história, você pode escrever uma carta para Montano pedindo uma única informação sobre a Camarilla ou o Clã Lasombra. Do seu distante Refúgio, ele responderá com a verdade ou com pistas que levem a ela, com a implicação de que a jornada é sua própria recompensa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Shadow of Yesterday",
+            "text": "Montano remembers nothing about his early days, but remembers plenty about his sect and clan. Once per story, you may write a letter to Montano asking for a single piece of information about either the Camarilla or Clan Lasombra. From his distant haven, he will respond either with truth or clues leading to it, with the implication that the journey is its own reward."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-montano-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Montano — Irmãos na escuridão",
+        "en": "Descendant of Montano — Siblings in Darkness"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 274 · 2",
+      "pages": [
+        {
+          "pdfPage": 275,
+          "printedPage": 274
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Lasombra"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Irmãos na escuridão",
+            "text": "Os feitos de Montano levaram o clã à sua posição elevada. A linhagem que ele cultivou é baseada na mesma honra que o manteve na Camarilla. Você recebe um respeito que até mesmo seus companheiros de clã no Sabá e em outros lugares não podem deixar de reconhecer. Seu Status: Lasombra (••) se aplica a Lasombra em todas as seitas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Siblings in Darkness",
+            "text": "Montano’s deeds brought the clan to its lofty position. The line he has cultivated is one based in the same honor that kept him in the Camarilla. You are afforded a respect even your clanmates in the Sabbat and elsewhere cannot help but acknowledge. Your Status: Lasombra (••) applies to Lasombra across all sects."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-montano-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Montano — Aprendiz Abissal",
+        "en": "Descendant of Montano — Abyssal Apprentice"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 274 · 3",
+      "pages": [
+        {
+          "pdfPage": 275,
+          "printedPage": 274
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Lasombra"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aprendiz Abissal",
+            "text": "Montano não pode lhe ensinar tudo sobre os segredos de Oblívio, devido à relativa fraqueza de seu sangue, mas você aprendeu alguns truques. Uma vez por história, você pode usar um poder Oblívio que você ainda não conhece e que está no seu nível atual ou inferior."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Abyssal Apprentice",
+            "text": "Montano cannot teach you everything about the secrets of Oblivion, due to the comparative weakness of your blood, but you’ve picked up a few tricks. Once per story, you may use an Oblivion power you do not already know that is at your current level or lower."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-montano-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Montano — Boca a Boca",
+        "en": "Descendant of Montano — Word of Mouth"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 274 · 4",
+      "pages": [
+        {
+          "pdfPage": 275,
+          "printedPage": 274
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Lasombra"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Boca a Boca",
+            "text": "Inspirado pela paciência de Montano, você manteve seu lugar na Camarilla mesmo quando o resto do seu clã serviu como líderes nos domínios controlados pelo Sabá. À medida que seus irmãos se juntam ao rebanho, seus aliados na Camarilla não se esquecem de onde você realmente se posiciona. Seu Status entre os não-Lasombra da Camarilla está no mesmo nível, não importa para onde você viaje em seu país de origem, mesmo que você não ocupe nenhum cargo na cidade em que reside atualmente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Word of Mouth",
+            "text": "Inspired by Montano’s patience, you held fast to your place in the Camarilla even when the rest of your clan served as leaders in the Sabbat-held domains. As your siblings join the fold, your allies in the Camarilla have not forgotten where you truly stand. Your status among non-Lasombra in the Camarilla is at the same level no matter where you travel in your home country, even if you do not hold any position in the city you currently reside in."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-montano-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Montano — Pureza do Remorso",
+        "en": "Descendant of Montano — Purity of Remorse"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 274 · 5",
+      "pages": [
+        {
+          "pdfPage": 275,
+          "printedPage": 274
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Lasombra"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Pureza do Remorso",
+            "text": "Certa vez, Montano assassinou seus queridos amigos e familiares para salvar o resto de sua aldeia de seu senhor. Embora ele não consiga se lembrar disso, ele chora do mesmo jeito. Você espera lamentar seus pecados tão profundamente quanto ele. Sempre que você joga Remorso, você nunca joga com menos de dois dados."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Purity of Remorse",
+            "text": "Once, Montano murdered his beloved friends and family to save the rest of his village from his sire. Though he cannot remember this, he weeps over it just the same. You hope to mourn for your sins as deeply as he does. Whenever you roll for Remorse, you never roll with fewer than two dice."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

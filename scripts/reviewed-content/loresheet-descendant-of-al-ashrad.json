@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-descendant-of-al-ashrad",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Descendente de Al-Ashrad",
+    "en": "Descendant of al-Ashrad"
+  },
+  "aliases": [
+    "Descendente de Al-Ashrad",
+    "Descendant of al-Ashrad",
+    "Descendente de Al-Ashrad — Histórias antigas",
+    "Descendant of al-Ashrad — Ancient stories",
+    "Descendente de Al-Ashrad — Visão Além da Visão",
+    "Descendant of al-Ashrad — Vision Beyond Vision",
+    "Descendente de Al-Ashrad — Feitiçaria Vingativa",
+    "Descendant of al-Ashrad — Vengeful Sorcery",
+    "Descendente de Al-Ashrad — Banir o Intangível",
+    "Descendant of al-Ashrad — Ban the Intangible",
+    "Descendente de Al-Ashrad — Amr-em-Esperança",
+    "Descendant of al-Ashrad — Amr-in-Hope"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-descendant-of-al-ashrad-sigilos-de-sangue-v5-1",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Al-Ashrad — Histórias antigas",
+        "en": "Descendant of al-Ashrad — Ancient stories"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 177 · 1",
+      "pages": [
+        {
+          "pdfPage": 179,
+          "printedPage": 177
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Histórias antigas",
+            "text": "Você aprendeu das histórias que você ouviu de seu senhor, transmitido por al-Ashrad, e você sabe como aplicar essas lições em essas noites. Quando você invoca o legado de al-Ashrad e Haqim para motivar outros, você recebe um bônus de dois dados para Testes e concursos de liderança."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ancient stories",
+            "text": "You have learned from the stories you heard from your lord, transmitted by al-Ashrad, and you know how to apply these lessons in these nights. When you invoke the legacy of al-Ashrad and Haqim to motivate others, you receive a two-dice bonus to Leadership Trials and Contests."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-al-ashrad-sigilos-de-sangue-v5-2",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Al-Ashrad — Visão Além da Visão",
+        "en": "Descendant of al-Ashrad — Vision Beyond Vision"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 177 · 2",
+      "pages": [
+        {
+          "pdfPage": 179,
+          "printedPage": 177
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Visão Além da Visão",
+            "text": "Antes de sua Abraço, Haqim arrancou o olho esquerdo de al-Ashrad. Como um vampiro, ele o substituiu por um diamante. Dizem que o diamante lhe dá visões de mundos além do nosso. Uma fração desse poder passou a você. Uma vez por sessão, você (ou seu Narrador em seu nome) pode usar o poder de Auspícios Sentir o Invisível (Vampiro: A Máscara, p. 249) como se você tivesse a Disciplina, usando sua Potência de Sangue no lugar de Auspícios ao usar ativamente o poder. Se você já possui esse poder, você receba um bônus de +2 dados quando estiver ativamente usando-o."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Vision Beyond Vision",
+            "text": "Before his Embrace, Haqim gouged out al-Ashrad's left eye. As a vampire, he replaced it with a diamond. They say the diamond gives you visions of worlds beyond our own. A fraction of that power has passed to you. Once per session, you (or your Storyteller on your behalf) may use the power of Auspex Sense the Unseen (Vampire: The Masquerade, p. 249) as if you had the Discipline, using your Blood Potency in place of Auspex when actively using the power. If you already have this power, you receive a bonus of +2 dice when you are actively using it."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-al-ashrad-sigilos-de-sangue-v5-3",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Al-Ashrad — Feitiçaria Vingativa",
+        "en": "Descendant of al-Ashrad — Vengeful Sorcery"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 177 · 3",
+      "pages": [
+        {
+          "pdfPage": 179,
+          "printedPage": 177
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Feitiçaria Vingativa",
+            "text": "Você nunca perdoou seus companheiros de clã pelo Cisma e canaliza sua raiva para sua feitiçaria. Uma vez por sessão, em um conflito violento, você pode escolher receber um bônus de dois dados para usar qualquer poder de Feitiçaria de Sangue destinado a ferir outro vampiro."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Vengeful Sorcery",
+            "text": "You have never forgiven your clanmates for the Schism and channel your anger into your sorcery. Once per session, in a violent conflict, you may choose to receive a two-dice bonus to use any Blood Sorcery power intended to harm another vampire."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-al-ashrad-sigilos-de-sangue-v5-4",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Al-Ashrad — Banir o Intangível",
+        "en": "Descendant of al-Ashrad — Ban the Intangible"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 177 · 4",
+      "pages": [
+        {
+          "pdfPage": 179,
+          "printedPage": 177
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Banir o Intangível",
+            "text": "O ódio de Al- Ashrad por espíritos malévolos é lendário. Embora seres incorpóreos não sejam necessariamente malévolos, eles ainda se encolhem ao descobrir de quem é o sangue que você compartilha. Qualquer poder ou ritual de Feitiçaria de Sangue que cause dano a seres corpóreos também afeta criaturas incorpóreas com o mesmo efeito."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ban the Intangible",
+            "text": "Al-Ashrad's hatred for malevolent spirits is legendary. While incorporeal beings aren't necessarily malevolent, they still cringe when they find out whose blood you share. Any Blood Sorcery power or ritual that damages corporeal beings also affects incorporeal creatures with the same effect."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-al-ashrad-sigilos-de-sangue-v5-5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Al-Ashrad — Amr-em-Esperança",
+        "en": "Descendant of al-Ashrad — Amr-in-Hope"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 177 · 5",
+      "pages": [
+        {
+          "pdfPage": 179,
+          "printedPage": 177
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Amr-em-Esperança",
+            "text": "Al-Ashrad escolheu você para sucedê-lo como Amr, caso ele enfrente a morte final antes do o cisma é resolvido e os feiticeiros Recuperem seu lugar no clã. Ganhem o Status ••••• (Banu Haqim) e um Ritual grátis no seu nível de Feitiçaria de Sangue ou inferior. Ganhe o Adversário ••• na forma de um líder dos feiticeiros do Sangue de ur-Shulgi e seu irmão de sangue."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Amr-in-Hope",
+            "text": "Al-Ashrad has chosen you to succeed him as Amr, should he face final death before the schism is resolved and the sorcerers regain their place in the clan. Earn Status ••••• (Banu Haqim) and a free Ritual at your Blood Sorcery level or lower. Win the Adversary ••• in the form of a leader of the sorcerers of the Blood of ur-Shulgi and his blood brother."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

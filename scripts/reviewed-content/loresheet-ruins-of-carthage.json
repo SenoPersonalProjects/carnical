@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-ruins-of-carthage",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Ruínas de Cartago",
+    "en": "Ruins of Carthage"
+  },
+  "aliases": [
+    "Ruínas de Cartago",
+    "Ruins of Carthage",
+    "Ruínas de Cartago — Historiador do Clã",
+    "Ruins of Carthage — Clan Historian",
+    "Ruínas de Cartago — Orgulho Púnico",
+    "Ruins of Carthage — Punic Pride",
+    "Ruínas de Cartago — Morte aos Tiranos",
+    "Ruins of Carthage — Death to Tyrants",
+    "Ruínas de Cartago — O Desejo de Troile",
+    "Ruins of Carthage — Troile's Desire",
+    "Ruínas de Cartago — Cartago Renovada",
+    "Ruins of Carthage — Renewed Carthage"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-ruins-of-carthage-anarch-v5-1",
+      "book": "anarch-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Ruínas de Cartago — Historiador do Clã",
+        "en": "Ruins of Carthage — Clan Historian"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 196 · 1",
+      "pages": [
+        {
+          "pdfPage": 200,
+          "printedPage": 196
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Historiador do Clã",
+            "text": "Você estudou Brujah, Lasombra e Filhos de Haqim desde antes de Cartago até a Camarilla: suas vitórias, derrotas e conflitos com Ventrue, Malkavianos e Toreador. Nomes e datas impressionam historiadores e rebeldes. Receba um dado adicional em testes Sociais em que possa usar esse conhecimento."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clan Historian",
+            "text": "You have studied Brujah, Lasombra, and Sons of Haqim from before Carthage to the Camarilla: their victories, defeats, and conflicts with Ventrue, Malkavians, and Toreador. Names and dates impress historians and rebels. Receive an additional die on Social tests where you can use this knowledge."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ruins-of-carthage-anarch-v5-2",
+      "book": "anarch-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Ruínas de Cartago — Orgulho Púnico",
+        "en": "Ruins of Carthage — Punic Pride"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 196 · 2",
+      "pages": [
+        {
+          "pdfPage": 200,
+          "printedPage": 196
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Orgulho Púnico",
+            "text": "Os Brujah veem Cartago como símbolo de rebelião contra Roma Ventrue, até seu fim calamitoso. Você se orgulha da ancestralidade cartaginesa mortal ou vampírica. Ao invocá-la, receba dois dados em testes de Liderança para conduzir outros contra uma opressão percebida."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Punic Pride",
+            "text": "The Brujah see Carthage as a symbol of rebellion against Ventrue Rome, until its calamitous end. You are proud of mortal or vampiric Carthaginian ancestry. When you invoke her, gain two dice on Leadership rolls to lead others against perceived oppression."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ruins-of-carthage-anarch-v5-3",
+      "book": "anarch-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Ruínas de Cartago — Morte aos Tiranos",
+        "en": "Ruins of Carthage — Death to Tyrants"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 196 · 3",
+      "pages": [
+        {
+          "pdfPage": 200,
+          "printedPage": 196
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Morte aos Tiranos",
+            "text": "Cartago ensinou aos Brujah e Filhos de Haqim a lutar até o fim. Nem a Revolta Anarch abalou tanto o sistema. Você se fortalece com os que tombaram contra Roma: receba um dado adicional em todas as disputas contra alguém que possa reivindicar autoridade sobre você."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Death to Tyrants",
+            "text": "Carthage taught the Brujah and Sons of Haqim to fight to the end. Not even the Anarch Revolt shook the system that much. You are strengthened by those who fell against Rome: gain an additional die in all contests against someone who can claim authority over you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ruins-of-carthage-anarch-v5-4",
+      "book": "anarch-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Ruínas de Cartago — O Desejo de Troile",
+        "en": "Ruins of Carthage — Troile's Desire"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 196 · 4",
+      "pages": [
+        {
+          "pdfPage": 200,
+          "printedPage": 196
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Desejo de Troile",
+            "text": "Muitos Brujah atribuem as histórias condenatórias de Cartago à propaganda Ventrue. Estudiosos Brujah e Banu Haqim falam de Troile como governante benevolente que alimentava, educava e amava Membros e mortais igualmente. Sua confiança nessa crença atrai seguidores e ajuda em seus planos. Receba dois dados em todos os testes Sociais envolvendo servos vampíricos seus ou de outros, como lacaios ou integrantes de um rebanho."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Troile's Desire",
+            "text": "Many Brujah attribute Carthage's damning stories to Ventrue propaganda. Brujah and Banu Haqim scholars speak of Troile as a benevolent ruler who fed, educated, and loved Kindred and Kine equally. Your confidence in this belief attracts followers and helps with your plans. Receive two dice on all Social rolls involving your or others' vampiric servants, such as Retainers or members of a Herd."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ruins-of-carthage-anarch-v5-5",
+      "book": "anarch-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Ruínas de Cartago — Cartago Renovada",
+        "en": "Ruins of Carthage — Renewed Carthage"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 196 · 5",
+      "pages": [
+        {
+          "pdfPage": 200,
+          "printedPage": 196
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Cartago Renovada",
+            "text": "Você defende a nova Cartago e os planos já estão em andamento numa cidade Anarch escolhida, onde a Máscara cairá sem atrair agências mortais. Os acordos necessários cabem a você e ao Narrador. Até a renovação, uma vez por história você pode violar a Máscara nessa cidade e escapar das consequências, qualquer que seja a gravidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Renewed Carthage",
+            "text": "You defend the new Carthage and plans are already underway in a chosen Anarch city where the Masquerade will fall without attracting Kine agencies. The necessary agreements are up to you and Storyteller. Until renewal, once per story you can violate the Masquerade in that city and escape the consequences, however severe."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

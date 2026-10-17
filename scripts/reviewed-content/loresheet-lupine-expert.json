@@ -1,0 +1,257 @@
+{
+  "id": "loresheet-lupine-expert",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Especialista em Lupinos",
+    "en": "Lupine Expert"
+  },
+  "aliases": [
+    "Especialista em Lupinos",
+    "Lupine Expert",
+    "Especialista em Lupinos — Caçador",
+    "Lupine Expert — Huntsman",
+    "Especialista em Lupinos — Tático",
+    "Lupine Expert — Tactician",
+    "Especialista em Lupinos — Soldado",
+    "Lupine Expert — Soldier",
+    "Especialista em Lupinos — Troféu",
+    "Lupine Expert — Trophy",
+    "Especialista em Lupinos — Embaixador",
+    "Lupine Expert — Ambassador"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-lupine-expert-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Especialista em Lupinos — Caçador",
+        "en": "Lupine Expert — Huntsman"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 280 · 1",
+      "pages": [
+        {
+          "pdfPage": 281,
+          "printedPage": 280
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Caçador",
+            "text": "Você desenvolveu um olhar aguçado para rastrear Lupinos, mesmo quando eles fingem ser humanos. Uma vez por sessão, você pode receber três dados extras para qualquer teste Mental para perseguir Lupinos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Huntsman",
+            "text": "You’ve developed a keen eye for tracking Lupines, even when they’re pretending to be human. Once per session, you may receive three extra dice to any Mental test to pursue Lupines."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-lupine-expert-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Especialista em Lupinos — Tático",
+        "en": "Lupine Expert — Tactician"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 280 · 2",
+      "pages": [
+        {
+          "pdfPage": 281,
+          "printedPage": 280
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Tático",
+            "text": "Um ataque Lupino é uma das experiências mais aterrorizantes na não vida de um vampiro. Você já passou por eles o suficiente para manter a cabeça fria e ajudar seu círculo a reagir. Quando você e seus aliados usam Trabalho em Equipe (Vampiro: A Máscara p. 122) contra Lupinos, o grupo sempre pode ajudar um ao outro. Cada personagem pode contribuir com um dado para o teste de Trabalho em Equipe, não importa qual Habilidade o teste exija."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Tactician",
+            "text": "A Lupine attack is one of the most terrifying experiences in a vampire’s unlife. You’ve lived through enough of them to keep a cool head and help your coterie fight back. When you and your allies use Teamwork (Vampire: The Masquerade p. 122) against Lupines, the group can always assist each other. Every character can contribute one die to the Teamwork roll, no matter what Skill the test requires."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-lupine-expert-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Especialista em Lupinos — Soldado",
+        "en": "Lupine Expert — Soldier"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 280 · 3",
+      "pages": [
+        {
+          "pdfPage": 281,
+          "printedPage": 280
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Soldado",
+            "text": "A capacidade de combate de um lobisomem nunca deve ser subestimada. Você sabe disso melhor que ninguém, mas ainda enfrenta o perigo. Ao combater fisicamente com você, um Lupino transformado tem apenas um modificador de dano de −2 ao usar garras e dentes."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          },
+          {
+            "title": "Nota sobre a fonte",
+            "text": "Esta fonte contém redação ambígua, mantida sem criar uma regra alternativa. Consulte a página original e confirme a aplicação com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Soldier",
+            "text": "A werewolf’s ability for combat should never be underestimated. You know that more than anyone, but it won’t stop you from getting into the thick of it. When engaging you in Physical combat, a shifted Lupine only has a −2 damage modifier when using its claws and teeth."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          },
+          {
+            "title": "Source note",
+            "text": "This source contains ambiguous wording, preserved without inventing an alternative rule. Consult the original page and confirm its application with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-lupine-expert-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Especialista em Lupinos — Troféu",
+        "en": "Lupine Expert — Trophy"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 280 · 4",
+      "pages": [
+        {
+          "pdfPage": 281,
+          "printedPage": 280
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Troféu",
+            "text": "Você matou um Lupino e tem evidências para provar isso. Esta lembrança pode ser algo como um fragmento do crânio humano dos Lupinos, um pedaço de suas roupas com uma insígnia representando uma facção Lupina, ou os restos despedaçados de uma de suas armas valiosas. Uma vez por história, ao revelar este troféu a um lobisomem, você pode escolher sua reação inicial: ou ele foge de você ou apenas o ataca em conflito físico. Revelar este troféu aos Lupinos mais de uma vez por história inicia a mesma escolha, mas o Narrador escolhe a reação."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Trophy",
+            "text": "You have slain a Lupine, and you have the evidence to prove it. This memento may be something like a fragment of the Lupine’s human skull, a scrap of their clothing with an insignia representing a Lupine faction, or the shattered remains of one of their prized weapons. Once per story, when you reveal this trophy to a werewolf, you may choose its initial reaction: Either it flees from you, or only targets you for Physical conflict. Revealing this trophy to Lupines for more than once per story initiates the same choice, but the Storyteller chooses the reaction instead."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-lupine-expert-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Especialista em Lupinos — Embaixador",
+        "en": "Lupine Expert — Ambassador"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 280 · 5",
+      "pages": [
+        {
+          "pdfPage": 281,
+          "printedPage": 280
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Embaixador",
+            "text": "Seu conhecimento sobre lobisomens é tão grande que você pode negociar com eles. Você conquistou o respeito mútuo tanto dos Membros quanto dos Lupinos e pode usar esse respeito para estabelecer alianças entre os dois. As alianças que você forma são tensas e passageiras, mas comparadas ao Status quo de “matar à vista”, elas são uma melhoria dramática. Sempre que você tentar curar a divisão entre vampiros e lobisomens individualmente, ou estimular a união dos dois, você receberá dois dados extras para testes Sociais em busca de seu objetivo. Com esforço e sacrifício suficientes, você pode convencer os Membros e os Lupinos de uma cidade a agirem como um só para realizar uma tarefa uma vez por crônica, sem necessidade de teste."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ambassador",
+            "text": "Your knowledge of werewolves is so great that you can parley with them. You’ve earned mutual respect from both the Kindred and the Lupines, and you can use that respect to establish alliances between the two. The alliances you form are tense and fleeting, but compared to the status quo of “kill on sight,” they’re a dramatic improvement. Whenever you try to heal the rift between individual vampires and werewolves, or stir the two to unite, you receive two extra dice to Social tests in pursuit of your goal. With sufficient effort and sacrifice, you may convince the Kindred and Lupines of a city to act as one to accomplish a task once per chronicle, with no roll necessary."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

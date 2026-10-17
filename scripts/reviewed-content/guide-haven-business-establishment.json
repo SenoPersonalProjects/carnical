@@ -1,0 +1,120 @@
+{
+  "id": "guide-haven-business-establishment",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Estabelecimento Comercial",
+    "en": "Business Establishment"
+  },
+  "aliases": [
+    "Estabelecimento Comercial",
+    "Business Establishment"
+  ],
+  "versions": [
+    {
+      "id": "guide-haven-business-establishment-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Estabelecimento Comercial — 2",
+        "en": "Business Establishment — 2"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 112",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 114,
+          "printedPage": 112
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Vulnerabilidade escolhida",
+          "en": "Chosen vulnerability"
+        },
+        "detailOptions": [
+          "Intrusão financeira / Financial intrusion",
+          "Intrusão criminosa / Criminal intrusion"
+        ],
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Você aluga parte do refúgio para um negócio separado: central de atendimento diurna, cafeteria, lavanderia ou salão. Também pode operá-lo com Lacaios, como uma coterie Corporativa; o Narrador deve evitar transformar horror pessoal em administração de empresas. Enquanto mortais trabalham, você dorme num depósito ou sala de servidores desativados. O aluguel ou lucro gera renda regular, mas atrai estranhos, autoridades, impostos e registros públicos. Criminosos dispensam impostos e papelada, mas aumentam a exposição à polícia e rivais menos flexíveis.\n\nAo adquirir, escolha vulnerabilidade financeira ou criminosa. Reduza em um os pontos básicos de Refúgio nas paradas para privacidade e segurança contra esse tipo de intrusão. Os pontos desta Qualidade equivalem aproximadamente a Recursos, e o Narrador pode permitir a substituição quando fizer sentido. Acrescente dois dados às paradas relacionadas à atividade principal do negócio, à interação com empresas locais e aos testes de preparo para já ter algo necessário à mão (Livro Básico, p. 410): empresas têm estoques e depósitos.\n\nSe algo acontecer ao refúgio, perde essa renda: um salão de sinuca queimado ou fechado pelo FBI não paga. Recursos comuns podem servir de reserva. Não se somam: negócio 2 e Recursos 2 são duas fontes de renda de classe média, não Recursos 4.\n\nDois pontos: negócio local próspero ou filial de uma rede nacional. Três: negócio dominante na região ou escritório de empresa internacional, talvez andares num arranha-céu, prédio perto do aeroporto ou cais e armazéns que cobram taxas de navios e transportadoras."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "You rent out your haven to a separate business: a 9–5 call center, coffee shop, laundromat, or salon. You might even operate the business yourselves (or with Retainers) as a Corporate coterie (p. 160) although the Storyteller should avoid turning this game of personal horror into a game of business management horror. The kine mill around living their daily lives while you sleep in the repurposed storage basement, or one of the server rooms where all of the out of service equipment is stored. The business pays a monthly rent (or profit, if you own it), providing you with a steady stream of funding. The downside: A lot of strangers walking around, and exposure to local officials, and business taxes that potentially put you very much on the grid. Renting to criminals takes the taxes and paperwork out of the picture, but adds even more exposure to cops and other less pliable criminals. Reduce your base Haven dots by one for pools involving your Haven’s privacy and for security against either financial or criminal intrusion (pick when you choose this Merit). Dots in this Merit roughly equate to their Resources equivalent, and the Storyteller may let you use its dots instead of Resources if the substitution makes sense. It also adds two dice to pools to do things related to your business’ activities or core competency, to interact with other local businesses, and to tests of preparedness to already have something you need in the moment (Vampire:\n\nThe Masquerade, p. 410). Businesses have\n\ninventory and supply closets, after all. However, if something happens to your Haven, you don’t have those Resource-like dots any more: no money comes into your pool hall if it burns down or if the FBI closes it off as a crime scene. You may want to take “regular” Resources dots as a backup. They don’t stack: a two-dot Business Establishment plus two dots in Resources means you have two Middle Class income streams; you’re not four-dot Wealthy. •• Your haven’s business is a thriving local concern or national chain outlet. ••• Your haven’s business is a dominant local concern or an office of an international company. Perhaps you have a few floors of a skyscraper, or an office building near the airport, or even a pier and warehouses on the docks where you collect fees from ships and shippers alike."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    },
+    {
+      "id": "guide-haven-business-establishment-players-guide-v5-3",
+      "book": "players-guide-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Estabelecimento Comercial — 3",
+        "en": "Business Establishment — 3"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 112",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 114,
+          "printedPage": 112
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Vulnerabilidade escolhida",
+          "en": "Chosen vulnerability"
+        },
+        "detailOptions": [
+          "Intrusão financeira / Financial intrusion",
+          "Intrusão criminosa / Criminal intrusion"
+        ],
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Você aluga parte do refúgio para um negócio separado: central de atendimento diurna, cafeteria, lavanderia ou salão. Também pode operá-lo com Lacaios, como uma coterie Corporativa; o Narrador deve evitar transformar horror pessoal em administração de empresas. Enquanto mortais trabalham, você dorme num depósito ou sala de servidores desativados. O aluguel ou lucro gera renda regular, mas atrai estranhos, autoridades, impostos e registros públicos. Criminosos dispensam impostos e papelada, mas aumentam a exposição à polícia e rivais menos flexíveis.\n\nAo adquirir, escolha vulnerabilidade financeira ou criminosa. Reduza em um os pontos básicos de Refúgio nas paradas para privacidade e segurança contra esse tipo de intrusão. Os pontos desta Qualidade equivalem aproximadamente a Recursos, e o Narrador pode permitir a substituição quando fizer sentido. Acrescente dois dados às paradas relacionadas à atividade principal do negócio, à interação com empresas locais e aos testes de preparo para já ter algo necessário à mão (Livro Básico, p. 410): empresas têm estoques e depósitos.\n\nSe algo acontecer ao refúgio, perde essa renda: um salão de sinuca queimado ou fechado pelo FBI não paga. Recursos comuns podem servir de reserva. Não se somam: negócio 2 e Recursos 2 são duas fontes de renda de classe média, não Recursos 4.\n\nDois pontos: negócio local próspero ou filial de uma rede nacional. Três: negócio dominante na região ou escritório de empresa internacional, talvez andares num arranha-céu, prédio perto do aeroporto ou cais e armazéns que cobram taxas de navios e transportadoras."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "You rent out your haven to a separate business: a 9–5 call center, coffee shop, laundromat, or salon. You might even operate the business yourselves (or with Retainers) as a Corporate coterie (p. 160) although the Storyteller should avoid turning this game of personal horror into a game of business management horror. The kine mill around living their daily lives while you sleep in the repurposed storage basement, or one of the server rooms where all of the out of service equipment is stored. The business pays a monthly rent (or profit, if you own it), providing you with a steady stream of funding. The downside: A lot of strangers walking around, and exposure to local officials, and business taxes that potentially put you very much on the grid. Renting to criminals takes the taxes and paperwork out of the picture, but adds even more exposure to cops and other less pliable criminals. Reduce your base Haven dots by one for pools involving your Haven’s privacy and for security against either financial or criminal intrusion (pick when you choose this Merit). Dots in this Merit roughly equate to their Resources equivalent, and the Storyteller may let you use its dots instead of Resources if the substitution makes sense. It also adds two dice to pools to do things related to your business’ activities or core competency, to interact with other local businesses, and to tests of preparedness to already have something you need in the moment (Vampire:\n\nThe Masquerade, p. 410). Businesses have\n\ninventory and supply closets, after all. However, if something happens to your Haven, you don’t have those Resource-like dots any more: no money comes into your pool hall if it burns down or if the FBI closes it off as a crime scene. You may want to take “regular” Resources dots as a backup. They don’t stack: a two-dot Business Establishment plus two dots in Resources means you have two Middle Class income streams; you’re not four-dot Wealthy. •• Your haven’s business is a thriving local concern or national chain outlet. ••• Your haven’s business is a dominant local concern or an office of an international company. Perhaps you have a few floors of a skyscraper, or an office building near the airport, or even a pier and warehouses on the docks where you collect fees from ships and shippers alike."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    }
+  ]
+}

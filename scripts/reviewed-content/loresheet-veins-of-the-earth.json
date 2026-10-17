@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-veins-of-the-earth",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Veias da Terra",
+    "en": "Veins of the Earth"
+  },
+  "aliases": [
+    "Veias da Terra",
+    "Veins of the Earth",
+    "Veias da Terra — Procurando uma veia",
+    "Veins of the Earth — Looking for a vein",
+    "Veias da Terra — Atraindo as Moscas",
+    "Veins of the Earth — Attracting the Flies",
+    "Veias da Terra — Revelações da Terra",
+    "Veins of the Earth — Revelations of Earth",
+    "Veias da Terra — Canalizando a Terra",
+    "Veins of the Earth — Channeling the Earth",
+    "Veias da Terra — Troca de Tiamat",
+    "Veins of the Earth — Tiamat Exchange"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-veins-of-the-earth-sigilos-de-sangue-v5-1",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Veias da Terra — Procurando uma veia",
+        "en": "Veins of the Earth — Looking for a vein"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 179 · 1",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Procurando uma veia",
+            "text": "Você desenvolveu o talento de encontrar coisas estranhas e só agora percebeu a razão: sabe onde o sangue do planeta converge. Uma vez por história, a critério do Narrador, pode declarar que o local onde está é um furcus (p. 35)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Looking for a vein",
+            "text": "You have developed a talent for finding strange things and only now have you realized why: you know where the planet's blood converges. Once per story, at the discretion of Storyteller, you can declare that the place you are in is a furcus (e.g. 35)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-veins-of-the-earth-sigilos-de-sangue-v5-2",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Veias da Terra — Atraindo as Moscas",
+        "en": "Veins of the Earth — Attracting the Flies"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 179 · 2",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Atraindo as Moscas",
+            "text": "Alguns mortais são atraídos às venae terrae como você. Você conheceu pessoas em busca das energias do planeta. Elas buscam seu conhecimento e você pede um pequeno preço em troca. Receba Rebanho 3 representando esse grupo, mas ele pode se desfazer se você não trouxer informações novas e interessantes sobre as espirais de Tiamat."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Attracting the Flies",
+            "text": "Some Kine are drawn to the venae terrae like you. You met people in search of the planet's energies. They seek your knowledge and you ask a small price in return. Get Herd 3 representing this group, but it may fall apart if you don't bring new and interesting information about Tiamat's spirals."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-veins-of-the-earth-sigilos-de-sangue-v5-3",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Veias da Terra — Revelações da Terra",
+        "en": "Veins of the Earth — Revelations of Earth"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 179 · 3",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Revelações da Terra",
+            "text": "Você escuta as veias da Terra e ouve quem passa por elas. Uma vez por sessão, quando meditar por pelo menos meia hora em uma furcus, você pode fazer uma pergunta ao Narrador sobre a localização, direção do movimento e velocidade de um Membro naquele momento. O Narrador responde com sinceridade. As veias não conseguem localizar um Membro que esteja no ar naquele momento."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Revelations of Earth",
+            "text": "You listen to the veins of the Earth and hear who passes through them. Once per session, when meditating for at least half an hour in a furcus, you may ask the Storyteller a question about the location, direction of movement, and speed of a Kindred at that moment. Storyteller responds sincerely. The veins cannot locate a Kindred who is in the air at the time."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-veins-of-the-earth-sigilos-de-sangue-v5-4",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Veias da Terra — Canalizando a Terra",
+        "en": "Veins of the Earth — Channeling the Earth"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 179 · 4",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Canalizando a Terra",
+            "text": "Embora sua habilidade de acessar as veias da Terra possa não ser tão poderosa quanto a de feiticeiros ou místicos do Sangue, você sabe como usar o poder do planeta em seu próprio benefício. Uma vez por sessão, ao meditar por pelo menos meia hora em um furcus, adicione um dado a uma reserva de Disciplina, além de qualquer dado fornecido pela Potência do Sangue."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Channeling the Earth",
+            "text": "While your ability to access the Earth's veins may not be as powerful as that of sorcerers or Blood mystics, you know how to use the planet's power to your own advantage. Once per session, when meditating for at least half an hour in a furcus, add one die to a Discipline pool in addition to any die provided by the Blood Potency."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-veins-of-the-earth-sigilos-de-sangue-v5-5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Veias da Terra — Troca de Tiamat",
+        "en": "Veins of the Earth — Tiamat Exchange"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 179 · 5",
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Troca de Tiamat",
+            "text": "Seu conhecimento das veias da Terra é tão grande que parece que a própria Serpente de Sangue o abençoa se você pagar o preço. Uma vez por história, se você fornecer uma grande oferta (de tamanho humano ou maior) de carne ou sangue a um furcus no início da história, você pode ganhar automaticamente três sucessos adicionais em um teste ou concurso de sua escolha."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Tiamat Exchange",
+            "text": "Your knowledge of the Earth's veins is so great that it seems the Blood Serpent itself will bless you if you pay the price. Once per story, if you provide a large supply (human-sized or larger) of flesh or blood to a furcus at the start of the story, you can automatically gain three additional successes on a test or contest of your choice."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

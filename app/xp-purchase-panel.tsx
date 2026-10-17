@@ -1,4 +1,5 @@
 "use client";
+import {catalogClanDisciplines,loresheetXpCost} from "./content/loresheet-xp";
 import {catalogPurchaseName} from "./content/catalog-item-xp";
 import {bloodPotencyRange,canIncreaseBloodPotency} from "./blood-potency-limits";
 import { UiText, useUiText } from "./ui-text";
@@ -6,7 +7,7 @@ import { UiText, useUiText } from "./ui-text";
 
 import { useState } from "react";
 import { isPredatorItem } from "./predator-benefits";
-import { xpBudget, xpCost, xpSpent, type XpCostMode, type XpKind, type XpPurchase } from "./experience";
+import { xpBudget, xpSpent, type XpCostMode, type XpKind, type XpPurchase } from "./experience";
 import { POWER_CATALOG } from "./game-rules";
 import { powerEligibility,powersForSources } from "./content/power-eligibility";
 import ContentDetails from "./content/content-details";
@@ -40,8 +41,8 @@ export default function XpPurchasePanel(props:Props){
   const targetName=kind==="advantage"&&chosen==="__new__"?newAdvantage.trim():chosen;
   const magic=magicOptions.find(item=>item.name===chosen);
   const current=kind==="attribute"?props.attributes[chosen]||0:kind==="skill"?props.skills[chosen]||0:kind==="discipline"?props.disciplines[chosen]||0:kind==="blood-potency"?props.bloodPotency:kind==="advantage"?props.merits.find(item=>item.name===targetName&&!isPredatorItem(item))?.dots||0:0;
-  const disciplineKind:XpKind=props.clan==="Caitiff"?"caitiff-discipline":props.clan==="Sangue-Ralo"&&chosen==="Alquimia do Sangue-Fraco"||props.clanDisciplines.includes(chosen)?"clan-discipline":"other-discipline";
-  const cost=xpCost(kind==="discipline"?disciplineKind:kind,isMagic?magic?.level||0:current+1,props.costMode);
+  const disciplineKind:XpKind=props.clan==="Caitiff"?"caitiff-discipline":props.clan==="Sangue-Ralo"&&chosen==="Alquimia do Sangue-Fraco"||catalogClanDisciplines(props.clanDisciplines,props.clan,props.merits).includes(chosen)?"clan-discipline":"other-discipline";
+  const cost=loresheetXpCost(kind==="discipline"?disciplineKind:kind,isMagic?magic?.level||0:current+1,props.costMode,props.merits,chosen,props.clan);
   const budget=xpBudget(props.total,props.ageCategory),used=xpSpent(props.spent,props.purchases),remaining=budget-used;
   const duplicateSpecialty=kind==="specialty"&&props.specialties.some(item=>item.skill===chosen&&item.name.trim().toLocaleLowerCase("pt-BR")===specialtyName.trim().toLocaleLowerCase("pt-BR"));
   const restricted=restrictedThinBloodXp(props.clan,kind,targetName);

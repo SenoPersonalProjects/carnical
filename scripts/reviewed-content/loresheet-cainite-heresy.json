@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-cainite-heresy",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Heresia Cainita",
+    "en": "Cainite Heresy"
+  },
+  "aliases": [
+    "Heresia Cainita",
+    "Cainite Heresy",
+    "Heresia Cainita — Que Ele tenha Compreensão",
+    "Cainite Heresy — May He Have Understanding",
+    "Heresia Cainita — Mão da Heresia",
+    "Cainite Heresy — Hand of Heresy",
+    "Heresia Cainita — Contra-Inquisição",
+    "Cainite Heresy — Counter-Inquisition",
+    "Heresia Cainita — Celebrante Vermelho",
+    "Cainite Heresy — Red Celebrant",
+    "Heresia Cainita — Nomeado na Profecia",
+    "Cainite Heresy — Named in Prophecy"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-cainite-heresy-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Heresia Cainita — Que Ele tenha Compreensão",
+        "en": "Cainite Heresy — May He Have Understanding"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 384 · 1",
+      "pages": [
+        {
+          "pdfPage": 388,
+          "printedPage": 384
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Que Ele tenha Compreensão",
+            "text": "O Narrador lhe dará uma pista grátis para entender, investigar ou detectar as ações ou planos da Heresia, agora ou em séculos anteriores. Você pode usar esse conhecimento uma vez por história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "May He Have Understanding",
+            "text": "Storyteller will give you a free clue to understand, investigate or detect the actions or plans of the Heresy, now or in previous centuries. You can use this knowledge once per story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cainite-heresy-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Heresia Cainita — Mão da Heresia",
+        "en": "Cainite Heresy — Hand of Heresy"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 384 · 2",
+      "pages": [
+        {
+          "pdfPage": 388,
+          "printedPage": 384
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Mão da Heresia",
+            "text": "Distribua um total de três pontos entre Aliados, Rebanho, Mawla ou Lacaios para representar seu papel no diaconato herético da cidade. Por exemplo, se você escolher Rebanho • e Mawla ••, poderá consagrar um pequeno culto de adoradores humanos e ter um estudioso da Heresia como tutor. Você também tem um Defeito Segredo Sombrio (Heresia) em alguns domínios."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hand of Heresy",
+            "text": "Distribute three dots in total among Allies, Herd, Mawla, or Retainers to represent your role in the city’s heretical diaconate. For example, Herd 1 and Mawla 2 can represent a small cult of human worshipers and a scholar of the Heresy as your tutor. You also have the Dark Secret (Heresy) Flaw in some domains."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cainite-heresy-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Heresia Cainita — Contra-Inquisição",
+        "en": "Cainite Heresy — Counter-Inquisition"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 384 · 3",
+      "pages": [
+        {
+          "pdfPage": 388,
+          "printedPage": 384
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Contra-Inquisição",
+            "text": "Você consegue detectar a Fé Verdadeira em um humano; se precisar realizar um teste para tanto, sua parada é Determinação + seu maior valor em Heresia Cainita. Você também pode ser contra a Heresia, neste caso usando seu dom para saber em quem confiar."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Counter-Inquisition",
+            "text": "You can detect True Faith in a human; if you need to make a test to do so, your pool is Resolve + your highest Cainite Heresy value. You can also be against Heresy, in this case using your gift to know who to trust."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cainite-heresy-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Heresia Cainita — Celebrante Vermelho",
+        "en": "Cainite Heresy — Red Celebrant"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 384 · 4",
+      "pages": [
+        {
+          "pdfPage": 388,
+          "printedPage": 384
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Celebrante Vermelho",
+            "text": "Você conhece os rituais e dosagens específicas para induzir Pentecostes Vermelho em uma congregação humana: uma versão religiosa extática do frenesi. Nesse estado, os humanos agem de acordo com o pior em sua natureza. Você consegue obter ervas e fungos suficientes para uma cerimônia por história; a Cerimônia Vermelha requer uma Checagem de Sangue e pode despertar frenesi em Membros participantes."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Red Celebrant",
+            "text": "You know the specific rituals and dosages for inducing Red Pentecost in a human congregation: an ecstatic religious version of frenzy. In this state, humans act according to the worst in their nature. You can get enough herbs and fungi for one ceremony per story; The Red Ceremony requires a Rouse Check and can stir frenzy in Kindred participants."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cainite-heresy-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Heresia Cainita — Nomeado na Profecia",
+        "en": "Cainite Heresy — Named in Prophecy"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 384 · 5",
+      "pages": [
+        {
+          "pdfPage": 388,
+          "printedPage": 384
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Nomeado na Profecia",
+            "text": "Você é uma peça-chave nos planos da Heresia: talvez eles o considerem um avatar de Caim, talvez você possua a única cópia do Testemunho de São Pantaleão, ou seu Vitae seja o único sacrifício eficaz para aplacar ou distrair laldabaoth. Todo integrante informado da Heresia, e muitos que simplesmente querem obter os favores dos Anarchs, conhecem seu papel. Uma vez por história, você pode usar esse fato para escolher o vencedor de um conflito Social, se puder dar uma explicação plausível para esse resultado."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Named in Prophecy",
+            "text": "You are a key player in the Heresy's plans: perhaps they consider you an avatar of Caine, perhaps you possess the only copy of the Testimony of Saint Pantaleon, or your Vitae is the only effective sacrifice to placate or distract laldabaoth. Every informed member of the Heresy, and many who simply wish to curry favor with the Anarchs, knows their role. Once per story, you can use this fact to choose the winner of a Social conflict, if you can give a plausible explanation for that outcome."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

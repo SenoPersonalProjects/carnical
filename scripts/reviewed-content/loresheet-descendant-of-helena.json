@@ -1,0 +1,274 @@
+{
+  "id": "loresheet-descendant-of-helena",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Descendente de Helena",
+    "en": "Descendant of Helena"
+  },
+  "aliases": [
+    "Descendente de Helena",
+    "Descendant of Helena",
+    "Descendente de Helena — À Flor da Pele",
+    "Descendant of Helena — In the Flower of the Skin",
+    "Descendente de Helena — Talento Inato",
+    "Descendant of Helena — Innate Talent",
+    "Descendente de Helena — Abrace o Estereótipo",
+    "Descendant of Helena — Embrace the Stereotype",
+    "Descendente de Helena — Pureza Divina",
+    "Descendant of Helena — Divine Purity",
+    "Descendente de Helena — Franquia do Succubus Club",
+    "Descendant of Helena — Succubus Club Franchise"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-descendant-of-helena-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Helena — À Flor da Pele",
+        "en": "Descendant of Helena — In the Flower of the Skin"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 391 · 1",
+      "pages": [
+        {
+          "pdfPage": 395,
+          "printedPage": 391
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Toreador"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "À Flor da Pele",
+            "text": "Independentemente do seu status, mencionar o nome de Helena em uma conversa com um Toreador ou qualquer vampiro que a conheça aumenta seu Status em um ponto. Você pode usar esse efeito uma vez por história, ou mais vezes para encher o saco dos outros jogadores."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "In the Flower of the Skin",
+            "text": "Regardless of your Status, mentioning Helena's name in conversation with a Toreador or any vampire who knows her increases your Status by one point. You can use this effect once per story, or more times to annoy other players."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-helena-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Helena — Talento Inato",
+        "en": "Descendant of Helena — Innate Talent"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 391 · 2",
+      "pages": [
+        {
+          "pdfPage": 395,
+          "printedPage": 391
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Toreador"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Habilidade favorecida",
+          "en": "Favored Skill"
+        },
+        "detailOptions": [
+          "Ofícios / Craft",
+          "Etiqueta / Etiquette",
+          "Performance"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Talento Inato",
+            "text": "Diferentemente de outros Toreador insípidos que dependem exclusivamente dos seus rostos e corpos, você foi Abraçado por seu talento. Escolha uma Habilidade entre Ofícios, Etiqueta ou Performance. Aumentar essa Habilidade custa metade dos pontos de experiência (arredondando para baixo) que custaria normalmente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Innate Talent",
+            "text": "Unlike other bland Toreador who rely solely on their faces and bodies, you have been Embraced for your talent. Choose a Skill from Craft, Etiquette or Performance. Increasing this Skill costs half the experience points (rounding down) as it would normally."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-helena-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Helena — Abrace o Estereótipo",
+        "en": "Descendant of Helena — Embrace the Stereotype"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 391 · 3",
+      "pages": [
+        {
+          "pdfPage": 395,
+          "printedPage": 391
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Toreador"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Abrace o Estereótipo",
+            "text": "No momento adequado, você pode representar o papel de Toreador i superficial, cercar-se de bajuladores e dar uma festa lendária. Uma vez por história, você pode dar uma festa para aumentar seu Status e/ou Influência com o grupo de convidados em dois pontos; o aumento dura tanto quanto a festa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Embrace the Stereotype",
+            "text": "When the time is right, you can play the role of superficial Toreador, surround yourself with sycophants, and throw a legendary party. Once per story, you can throw a party to increase your Status and/or Influence with the party of guests by two points; the increase lasts as long as the party."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-helena-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Helena — Pureza Divina",
+        "en": "Descendant of Helena — Divine Purity"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 391 · 4",
+      "pages": [
+        {
+          "pdfPage": 395,
+          "printedPage": 391
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Toreador"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Pureza Divina",
+            "text": "Ao contrário de muitos na grande família de Helena, sua perfeição é mais angélica do que demoniaca. Você pode cometer qualquer pecado e sempre parecer inocente. Adicione dois dados às suas paradas de dados ao realizar testes para evitar a culpa por suas ações."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Divine Purity",
+            "text": "Unlike many in Helena's large family, her perfection is more angelic than demonic. You can commit any sin and always appear innocent. Add two dice to your dice pools when performing tests to avoid guilt for your actions."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-helena-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Helena — Franquia do Succubus Club",
+        "en": "Descendant of Helena — Succubus Club Franchise"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 391 · 5",
+      "pages": [
+        {
+          "pdfPage": 395,
+          "printedPage": 391
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Toreador"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Franquia do Succubus Club",
+            "text": "Helena sucumbiu ao Chamado nos últimos anos, abandonando uma vez mais o Succubus Club em Chicago nas mãos de um gerente. Essa honra rara garante que os Membros da cidade respondam à sua convocação, e todo vampiro Abraçado nos últimos dois séculos ouviu falar do Succubus Club. Enquanto o clube estiver aberto, o valor de Chasse do Domínio da sua coterie aumenta em dois pontos. Você também tem quatro pontos para distribuir entre Recursos, Fama e Status entre todos os Membros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Succubus Club Franchise",
+            "text": "Helena succumbed to the Call in recent years, once again abandoning the Succubus Club in Chicago into the hands of a manager. This rare honor ensures that the city's Kindred respond to your summons, and every Embraced vampire in the last two centuries has heard of the Succubus Club. While the club is open, your coterie's Domain Chasse value increases by two points. You also have four points to distribute between Resources, Fame and Status among all Kindred."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

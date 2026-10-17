@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-convention-of-thorns",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Convenção de Thorns",
+    "en": "Convention of Thorns"
+  },
+  "aliases": [
+    "Convenção de Thorns",
+    "Convention of Thorns",
+    "Convenção de Thorns — Historiador de Thorns",
+    "Convention of Thorns — Thorns Historian",
+    "Convenção de Thorns — Mestre da Tradição",
+    "Convention of Thorns — Master of Tradition",
+    "Convenção de Thorns — Segredos da Convenção",
+    "Convention of Thorns — Convention Secrets",
+    "Convenção de Thorns — Candidato a Justicar",
+    "Convention of Thorns — Justicar Candidate",
+    "Convenção de Thorns — Novas Tradições",
+    "Convention of Thorns — New Traditions"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-convention-of-thorns-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Convenção de Thorns — Historiador de Thorns",
+        "en": "Convention of Thorns — Thorns Historian"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 387 · 1",
+      "pages": [
+        {
+          "pdfPage": 391,
+          "printedPage": 387
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Historiador de Thorns",
+            "text": "A Convenção de Thorns foi uma complexa e comovente fera da diplomacia. Centenas de pequenas reuniões ocorreram entre representantes deste ou daquele clã, forjando pactos que duraram anos, décadas ou séculos, em alguns casos. Você possui um conhecimento enciclopédico das reuniões menores da convenção, e pode usá-lo para aplicar pressão legal nos participantes ou seus descendentes, nos casos em que pactos porventura estejam vigentes, mas não possam ser praticados Ou revogados sem o consentimento de todos os lados. Uma vez por história, você pode pedir ao Narrador uma informação sobre a convenção."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Thorns Historian",
+            "text": "The Convention of Thorns was a complex and moving beast of diplomacy. Hundreds of small meetings took place between representatives of this or that clan, forging pacts that lasted years, decades or centuries, in some cases. You have an encyclopedic knowledge of the smaller convention meetings, and can use it to apply legal pressure on participants or their descendants in cases where pacts may be in force but cannot be enforced or revoked without the consent of all sides. Once per story, you can ask Storyteller for information about the convention."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-convention-of-thorns-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Convenção de Thorns — Mestre da Tradição",
+        "en": "Convention of Thorns — Master of Tradition"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 387 · 2",
+      "pages": [
+        {
+          "pdfPage": 391,
+          "printedPage": 387
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Mestre da Tradição",
+            "text": "As seis Tradições a que a Camarilla se apega nas noites de hoje foram originalmente codificadas e aceitas na Convenção de Thorns. Seu conhecimento da convenção inclui várias Tradições apócrifas ou propostas, algumas das quais quase foram aprovadas. Uma vez por crônica, você pode aplicar leis marginais em domínios onde os clãs governantes ainda possam ter simpatia pelas Tradições rejeitadas de Thorns. Exemplos de pseudotradições podem incluir: Aos Membros neste domínio só é permitido um Abraço; é proibido se alimentar de oficiais da lei; combates no Elísio são puníveis com a Morte Final; permite-se a Diablerie contra qualquer Caitiff descoberto dentro do domínio; etc."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Master of Tradition",
+            "text": "The six Traditions to which the Camarilla clings today were originally codified and accepted in the Convention of Thorns. His knowledge of the convention includes several apocryphal or proposed Traditions, some of which were nearly approved. Once per chronicle, you can apply marginal laws in domains where the ruling clans may still have sympathy for the rejected Traditions of Thorns. Examples of pseudo-traditions may include: Kindred in this domain are only allowed one Embrace; it is prohibited to feed on law enforcement officers; combats in Elysium are punishable by Final Death; Diablerie is permitted against any Caitiff discovered within the domain; etc."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-convention-of-thorns-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Convenção de Thorns — Segredos da Convenção",
+        "en": "Convention of Thorns — Convention Secrets"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 387 · 3",
+      "pages": [
+        {
+          "pdfPage": 391,
+          "printedPage": 387
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Segredos da Convenção",
+            "text": "O Ministério declinou um convite para se juntar como o oitavo clã basilar; os Lasombra rejeitaram a Camarilla quando ela se recusou a reconhecer a existência dos Antediluvianos. Você descobriu propostas ainda mais obscuras da Convenção: a petição dos Capadócios para se juntar, o rascunho do símbolo dos Malkavianos, e mais. Você pode soltar pistas suficientes para sempre ganhar um bônus de um dado a testes Sociais que envolvam Membros que estiveram na convenção. Você também conhece alguns segredos maiores, cada qual valendo a um Favor Maior para um Cainita poderoso. Uma vez por história, você pode perguntar ao Narrador o nome de um Membro que precise dos seus conhecimentos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Convention Secrets",
+            "text": "The Ministry declined an invitation to join as the eighth basilar clan; the Lasombra rejected the Camarilla when it refused to acknowledge the existence of the Antediluvians. You've discovered even more obscure proposals from the Convention: the Cappadocians' petition to join, the Malkavians' draft symbol, and more. You can drop enough clues to always gain a one die bonus to Social rolls involving Kindred who were at the convention. You also know some greater secrets, each worth a Greater Favor to a powerful Cainite. Once per story, you can ask Storyteller for the name of a Member who needs your expertise."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-convention-of-thorns-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Convenção de Thorns — Candidato a Justicar",
+        "en": "Convention of Thorns — Justicar Candidate"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 387 · 4",
+      "pages": [
+        {
+          "pdfPage": 391,
+          "printedPage": 387
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Candidato a Justicar",
+            "text": "Os Justicars da Camarilla foram nomeados pela primeira vez durante a Convenção de Thorns. Independentemente da sua filiação política, de algum modo você (ou seu Senhor, se você for jovem demais) tem apoio poderoso o bastante para se tornar o próximo Justicar do seu clã. Se seu clã não tiver representação ampla na Camarilla, talvez essa nomeação aponte uma mudança entre os clãs da seita."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Justicar Candidate",
+            "text": "Camarilla Justicars were first named during the Convention of Thorns. Regardless of your Politics parentage, somehow you (or your Lord, if you're too young) have powerful enough support to become your clan's next Justicar. If your clan does not have broad representation in the Camarilla, perhaps this appointment signals a shift among the sect's clans."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-convention-of-thorns-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Convenção de Thorns — Novas Tradições",
+        "en": "Convention of Thorns — New Traditions"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 387 · 5",
+      "pages": [
+        {
+          "pdfPage": 391,
+          "printedPage": 387
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Novas Tradições",
+            "text": "Seu conhecimento da Convenção de Thorns é tal que você pode reunir suficiente evidência e apoio para propor uma nova Tradição, ou uma emenda a uma existente, ao Círculo Interno da Camarilla. Essa Tradição pode ser aceita, caso pareça sensata e ajude a cada vez mais rigorosa Camarilla nas noite de hoje, ou pode evidenciá-lo como um perigo para a seita. Além disso, sua voz será ouvida sem julgamentos prévios."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "New Traditions",
+            "text": "Your knowledge of the Convention of Thorns is such that you can gather enough evidence and support to propose a new Tradition, or an amendment to an existing one, to the Camarilla Inner Circle. This Tradition can be accepted if it seems sensible and helps the increasingly strict Camarilla today, or it can highlight you as a danger to the sect. Furthermore, your voice will be heard without prior judgment."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

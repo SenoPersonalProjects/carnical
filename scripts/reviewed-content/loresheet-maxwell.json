@@ -1,0 +1,256 @@
+{
+  "id": "loresheet-maxwell",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Maxwell",
+    "en": "Maxwell"
+  },
+  "aliases": [
+    "Maxwell",
+    "Maxwell — Tático",
+    "Maxwell — Tactician",
+    "Maxwell — Companheiro de viagem",
+    "Maxwell — Travelling Companion",
+    "Maxwell — Vanguarda",
+    "Maxwell — Vanguard",
+    "Maxwell — A arte de desaparecer",
+    "Maxwell — The art of disappearing",
+    "Maxwell — O antigo e futuro Príncipe",
+    "Maxwell — The once and future Prince"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-maxwell-let-the-streets-run-red-v5-1",
+      "book": "let-the-streets-run-red-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Maxwell — Tático",
+        "en": "Maxwell — Tactician"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 230 · 1",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 230
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Tático",
+            "text": "Você estudou as estratégias de Maxwell como Príncipe de Chicago e desvendou alguns dos segredos de seu governo. Adicione dois dados de bônus a um teste de Erudição, Política ou Subterfúgio relacionado a planejamento político ou manobras militares."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Tactician",
+            "text": "You’ve studied Maxwell’s strategies as Prince of Chicago and sussed out some of the secrets of his rule. Add two bonus dice to an Academics, Politics, or Subterfuge roll relating to political planning or military maneuvers."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-maxwell-let-the-streets-run-red-v5-2",
+      "book": "let-the-streets-run-red-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Maxwell — Companheiro de viagem",
+        "en": "Maxwell — Travelling Companion"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 230 · 2",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 230
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Companheiro de viagem",
+            "text": "Enquanto os Membros o considerava morto após a Noite do Diabo, Maxwell percorria o mundo construindo Aliados em outros países. Uma coisa que ele aprendeu nessas noites modernas hipervigiladas foi como evitar a detecção durante uma viagem. Você viajou com ele durante esse período e ele está disposto a compartilhar seu Contatos. Uma vez por história, você pode ligar para o Aliados da Maxwell para obter transporte confiável e seguro entre cidades."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Travelling Companion",
+            "text": "While Kindred considered him dead after Devil’s Night, Maxwell roamed the world building up allies in other countries. One thing he learned in these hyper-surveilled modern nights is how to evade detection while travelling. You traveled with him during this time, and he’s willing to share his contacts. Once per story, you can call on Maxwell’s allies for reliable and secure transportation between cities."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-maxwell-let-the-streets-run-red-v5-3",
+      "book": "let-the-streets-run-red-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Maxwell — Vanguarda",
+        "en": "Maxwell — Vanguard"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 230 · 3",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 230
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Vanguarda",
+            "text": "Você é um membro da Vanguarda de Gary, em quem Eric Sharpe e Maxwell confiam. Receba Status: Gary (•••). Sharpe concedeu a você território na cidade, onde você tem um Refúgio de dois pontos e direitos de alimentação. Se você não estiver participando de Rusted Jungle (veja a pág. XX), esta tradição lhe dará a posição de um residente Membros respeitado e de longa data de Gary."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          },
+          {
+            "title": "Nota sobre a fonte",
+            "text": "Esta fonte contém redação ambígua, mantida sem criar uma regra alternativa. Consulte a página original e confirme a aplicação com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Vanguard",
+            "text": "You’re a member of Gary’s Vanguard, trusted by Eric Sharpe and Maxwell alike. Gain Status: Gary (•••). Sharpe has granted you territory in the city, where you have a two-dot Haven and feeding rights. If not participating in rusted Jungle (see p. XX), this lore gives you standing as a long-time, respected Kindred resident of Gary."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          },
+          {
+            "title": "Source note",
+            "text": "This source contains ambiguous wording, preserved without inventing an alternative rule. Consult the original page and confirm its application with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-maxwell-let-the-streets-run-red-v5-4",
+      "book": "let-the-streets-run-red-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Maxwell — A arte de desaparecer",
+        "en": "Maxwell — The art of disappearing"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 230 · 4",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 230
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A arte de desaparecer",
+            "text": "Se seus inimigos pensam que você está morto, eles param de se preocupar em como você está conspirando contra eles. Maxwell ensinou truques para você ficar escondido e trabalhar nas sombras. Uma vez por história, ele o ajudará a criar um Máscara de dois pontos sob o qual você pode promover uma meta anonimamente. Como alternativa, ele o ajudará a fingir de forma convincente a morte de uma de suas máscaras atuais e a transferir seus Recursos para uma nova identidade sem deixar rastros de papel."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The art of disappearing",
+            "text": "If your enemies think you’re dead, they stop worrying about how you’re plotting against them. Maxwell has taught you tricks for staying hidden and working from the shadows. Once per story, he’ll help you create a two-dot Mask under which you can anonymously further a goal. Alternately, he’ll help you convincingly fake the death of one of your current Masks and transfer its resources to a new identity without leaving a paper trail."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-maxwell-let-the-streets-run-red-v5-5",
+      "book": "let-the-streets-run-red-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Maxwell — O antigo e futuro Príncipe",
+        "en": "Maxwell — The once and future Prince"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 230 · 5",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 230
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O antigo e futuro Príncipe",
+            "text": "Você é um dos Membros influentes com quem Maxwell conta em Chicago. Ele orientou e financiou sua ascensão no clã, ajudou a eliminar inimigos e forneceu informações sobre o Príncipe Jackson e a Primigênie. Receba Recursos 5: dois pontos devem garantir os planos de Maxwell; os três restantes são seus. Você tem uma lista dos Membros de Chicago que lhe devem favores. Uma vez por história, cobre um favor menor de alguém da lista. Uma vez por crônica, cobre um favor maior. Pode usá-los para qualquer propósito, mas Maxwell espera um relato de como gastou seus favores. Desperdiçá-los atrairá a ira do futuro Príncipe: ele o ergueu e também pode derrubá-lo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The once and future Prince",
+            "text": "You’re one of the highly placed Kindred Maxwell is counting on in Chicago. He’s guided and financed your rise among your clan’s ranks, helped rid you of enemies, and provided you with information about the machinations of Prince Jackson and the Primogen. Gain Resources (•••••); two dots must be spent securing Maxwell’s plans, but the remaining three are yours to spend as you like. You have a list of those Kindred in Chicago who owe Maxwell boons. Once per story, you can call in a minor boon from someone on the list. Once per chronicle, you can call in a major boon. Though you may use these for any purpose that suits you, Maxwell expects you to send him an account of how you’ve spent his favors. Using them foolishly will earn the soon-to-be Prince’s ire. He’s built you up; never doubt that he can tear you back down."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

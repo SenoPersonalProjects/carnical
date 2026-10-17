@@ -1,0 +1,250 @@
+{
+  "id": "loresheet-tegyrius-the-vizier",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Tegyrius, o Vizir",
+    "en": "Tegyrius the Vizier"
+  },
+  "aliases": [
+    "Tegyrius, o Vizir",
+    "Tegyrius the Vizier",
+    "Tegyrius, o Vizir — A Arte da Negociação",
+    "Tegyrius the Vizier — The Art of Negotiation",
+    "Tegyrius, o Vizir — A caneta é mais poderosa",
+    "Tegyrius the Vizier — The Pen is Mightier",
+    "Tegyrius, o Vizir — Ouça minhas palavras",
+    "Tegyrius the Vizier — Hear My Words",
+    "Tegyrius, o Vizir — Percepção é poder",
+    "Tegyrius the Vizier — Perception is Power",
+    "Tegyrius, o Vizir — Uma questão de honra",
+    "Tegyrius the Vizier — A Matter of Honor"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-tegyrius-the-vizier-gehenna-war-v5-1",
+      "book": "gehenna-war-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Tegyrius, o Vizir — A Arte da Negociação",
+        "en": "Tegyrius the Vizier — The Art of Negotiation"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Gehenna War V5, p. 159 · 1",
+      "pages": [
+        {
+          "pdfPage": 161,
+          "printedPage": 159
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Arte da Negociação",
+            "text": "Como diplomata, conselheiro ou negociador habilidoso, o legado de Tegyrius se reflete em você. Ao mediar entre dois indivíduos ou grupos opostos, você recebe um bônus de dois dados em testes de habilidade Intimidação ou Persuasão."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Art of Negotiation",
+            "text": "As a skilled diplomat, advisor, or negotiator, the legacy of Tegyrius is reflected in you. When you mediate between two opposing individuals or groups, you receive a two-dice bonus to Intimidation or Persuasion skill tests."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-tegyrius-the-vizier-gehenna-war-v5-2",
+      "book": "gehenna-war-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Tegyrius, o Vizir — A caneta é mais poderosa",
+        "en": "Tegyrius the Vizier — The Pen is Mightier"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Gehenna War V5, p. 159 · 2",
+      "pages": [
+        {
+          "pdfPage": 161,
+          "printedPage": 159
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A caneta é mais poderosa",
+            "text": "Seguindo os passos de Tegyrius, você valoriza o conhecimento e escolhe aprimorar suas habilidades mentais tanto quanto suas habilidades de luta. Como protegido de Tegyrius, você tem acesso a uma biblioteca Banu Haqim transplantada de Alamut durante o Cisma. A biblioteca conta como um Refúgio (••) de dois pontos com uma Biblioteca de dois pontos (••), mas seu conteúdo está sendo procurado por um dos Pastores de Ur-Shulgi, contando como um Adversário de dois pontos"
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Pen is Mightier",
+            "text": "Following in the footsteps of Tegyrius, you value knowledge and choose to hone your mental abilities just as much as you do your fighting skills. As a protégé of Tegyrius, you have access to a Banu Haqim library transplanted from Alamut during the Schism. The library counts as a two-dot Haven (••) with a two-dot Library (••), but its contents are being sought after by one of the Shepherds of Ur-Shulgi, counting as a two-dot Adversary"
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-tegyrius-the-vizier-gehenna-war-v5-3",
+      "book": "gehenna-war-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Tegyrius, o Vizir — Ouça minhas palavras",
+        "en": "Tegyrius the Vizier — Hear My Words"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Gehenna War V5, p. 159 · 3",
+      "pages": [
+        {
+          "pdfPage": 161,
+          "printedPage": 159
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ouça minhas palavras",
+            "text": "Você é um aliado conhecido de Tegyrius e quando fala, os outros ouvem. Como fonte de sabedoria e moderação, você recebe três dados adicionais para qualquer teste social contra outro Banu Haqim da mesma seita, e dois dados adicionais para qualquer teste social contra um Banu Haqim de uma seita diferente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hear My Words",
+            "text": "You are a known ally of Tegyrius, and when you speak, others listen. As a source of wisdom and restraint, you get three additional dice for any social test against another Banu Haqim of the same sect, and two additional dice for any social test against a Banu Haqim of a different sect."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-tegyrius-the-vizier-gehenna-war-v5-4",
+      "book": "gehenna-war-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Tegyrius, o Vizir — Percepção é poder",
+        "en": "Tegyrius the Vizier — Perception is Power"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Gehenna War V5, p. 159 · 4",
+      "pages": [
+        {
+          "pdfPage": 161,
+          "printedPage": 159
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "clanDiscipline": "Auspícios"
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Percepção é poder",
+            "text": "Nos salões sagrados de Alamut, o Conselho dos Pergaminhos dedicou suas não vidas à busca do conhecimento acadêmico. Mas quando Ur-Shulgi acordou e tomou o Trono Negro, o Conselho se desfez. Você fez parte do Conselho e, sob a orientação de Tegyrius, aprendeu que não se pode lutar contra o que não se pode ver. Você tem acesso à Disciplina Auspícios e pode comprar pontos usando pontos de experiência como se fosse uma das Disciplinas do seu clã."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Perception is Power",
+            "text": "In the hallowed halls of Alamut, the Council of Scrolls dedicated their unlives to the pursuit of academic knowledge. But when Ur-Shulgi awoke and seized the Black Throne, the Council disbanded. You sat on the Council, and under Tegyrius’ guidance, learned that one cannot fight what one cannot see. You have access to the Auspex Discipline and may buy dots using experience points as if it was one of your clan Disciplines."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-tegyrius-the-vizier-gehenna-war-v5-5",
+      "book": "gehenna-war-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Tegyrius, o Vizir — Uma questão de honra",
+        "en": "Tegyrius the Vizier — A Matter of Honor"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Gehenna War V5, p. 159 · 5",
+      "pages": [
+        {
+          "pdfPage": 161,
+          "printedPage": 159
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Uma questão de honra",
+            "text": "Você não apenas foi um convidado de honra no Casamento Vermillion, mas o próprio Tegyrius tem uma dívida de gratidão com você. Talvez você tenha ajudado nas negociações dele com a Camarilla, ou talvez tenha salvado a vida dele há vários anos. Uma vez por crônica, Tegyrius funciona como um Mawla de cinco pontos e usa sua posição elevada para ajudá-lo da melhor maneira que pode (exceto violar a aliança entre a Camarilla e os Ashirra)"
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "A Matter of Honor",
+            "text": "Not only were you a guest of honor at the Vermillion Wedding, but Tegyrius himself owes you a debt of gratitude. Perhaps you assisted in his negotiations with the Camarilla, or maybe you saved his life several years ago. Once per chronicle, Tegyrius functions as a five-dot Mawla, and uses his lofty position to aid you as best he can (short of violating the alliance between the Camarilla and the Ashirra)"
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

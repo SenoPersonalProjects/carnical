@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-descendant-of-hardestadt",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Descendente de Hardestadt",
+    "en": "Descendant of Hardestadt"
+  },
+  "aliases": [
+    "Descendente de Hardestadt",
+    "Descendant of Hardestadt",
+    "Descendente de Hardestadt — A Voz de Hardestadt",
+    "Descendant of Hardestadt — Hardestadt's Voice",
+    "Descendente de Hardestadt — Líder Supremo",
+    "Descendant of Hardestadt — Supreme Leader",
+    "Descendente de Hardestadt — Esteio Ventrue",
+    "Descendant of Hardestadt — Ventrue Brace",
+    "Descendente de Hardestadt — Linha Direta com os Fundadores",
+    "Descendant of Hardestadt — Direct Line with Founders",
+    "Descendente de Hardestadt — Herdeiro de Hardestadt",
+    "Descendant of Hardestadt — Heir of Hardestadt"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-descendant-of-hardestadt-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Hardestadt — A Voz de Hardestadt",
+        "en": "Descendant of Hardestadt — Hardestadt's Voice"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 390 · 1",
+      "pages": [
+        {
+          "pdfPage": 394,
+          "printedPage": 390
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Voz de Hardestadt",
+            "text": "Hardestadt costumava gritar, pontuando sua fala com socos em mesas, paredes ou infelizes carniçais. Seu Sangue permite que você fale acima de qualquer barulho e atraia a atenção, seja em uma reunião repleta de falatório ou em uma rave. Algo na sua voz permite que os outros o escutem. Se prestam atenção, depende do que você diz."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hardestadt's Voice",
+            "text": "Hardestadt would often scream, punctuating his speech with punches at tables, walls, or hapless ghouls. Your Blood allows you to speak above the noise and attract attention, whether in a chatter-filled meeting or at a rave. Something about your voice allows others to hear you. Whether they pay attention depends on what you say."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-hardestadt-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Hardestadt — Líder Supremo",
+        "en": "Descendant of Hardestadt — Supreme Leader"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 390 · 2",
+      "pages": [
+        {
+          "pdfPage": 394,
+          "printedPage": 390
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Líder Supremo",
+            "text": "Em muitos sentidos, a autoconfiança de Hardestadt como líder foi sua ruína, mas, até sua Morte Final, foi ela que o levou à grandeza. Você pode ordenar a partir da retaguarda, convencer os outros a segui-lo em situações fatais ou enviar seus comandados para a perdição com o intuito de obter vantagem. Uma vez por história, você não sofre nenhuma penalidade em sua parada de dados por enviar pessoas para o perigo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Supreme Leader",
+            "text": "In many ways, Hardestadt's self-confidence as a leader was his undoing, but until his Final Death, it was what led him to greatness. You can command from the rear, convince others to follow you in life-threatening situations, or send your subordinates to their doom to gain the upper hand. Once per story, you suffer no penalty to your dice pool for sending people into danger."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-hardestadt-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Hardestadt — Esteio Ventrue",
+        "en": "Descendant of Hardestadt — Ventrue Brace"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 390 · 3",
+      "pages": [
+        {
+          "pdfPage": 394,
+          "printedPage": 390
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Esteio Ventrue",
+            "text": "Graças à sua prestigiosa linhagem, outros Ventrue procuram sua orientação. Independentemente do seu Status com outros grupos, você sempre tem três pontos de Status (•••) com os Ventrue."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ventrue Brace",
+            "text": "Thanks to your prestigious bloodline, other Ventrue look to you for guidance. Regardless of your Status with other groups, you always have three points of Status (•••) with the Ventrue."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-hardestadt-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Hardestadt — Linha Direta com os Fundadores",
+        "en": "Descendant of Hardestadt — Direct Line with Founders"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 390 · 4",
+      "pages": [
+        {
+          "pdfPage": 394,
+          "printedPage": 390
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linha Direta com os Fundadores",
+            "text": "Hardestadt assegurou que toda a sua linhagem pudesse alcançá-lo quando em perigo. Ele raramente respondia, a menos que a situação fosse extrema, e punia severamente o mau uso, mas seu método ainda persiste apesar da sua morte. Uma vez por crônica, você pode ligar, escrever ou marcar uma reunião com um dos fundadores da Camarilla em nome de Hardestadt. Se eles responderão dependerá da importância da sua solicitação."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Direct Line with Founders",
+            "text": "Hardestadt ensured that his entire lineage could reach him when in danger. He rarely responded unless the situation was extreme, and severely punished misused it, but his method still persists despite his death. Once per chronicle, you can call, write, or arrange a meeting with one of the Camarilla founders on Hardestadt's behalf. Whether they respond will depend on the importance of your request."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-hardestadt-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Hardestadt — Herdeiro de Hardestadt",
+        "en": "Descendant of Hardestadt — Heir of Hardestadt"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 390 · 5",
+      "pages": [
+        {
+          "pdfPage": 394,
+          "printedPage": 390
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Herdeiro de Hardestadt",
+            "text": "Você tem a posse de um documento assinado em que Hardestadt o nomeia seu sucessor. Você não sabe ao certo do que é sucessor: apenas riqueza e poder, o reinado Ventrue, quem sabe do Círculo Interno da Camarilla. Quando você assumir o nome de “Hardestadt”, o documento afirma que a Camarilla deverá marchar segundo o ritmo do seu tambor — e garante que os Anarchs se unirão para derrubá-lo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Heir of Hardestadt",
+            "text": "You are in possession of a signed document in which Hardestadt names you his successor. You're not sure what you're a successor to: just wealth and power, the Ventrue kingship, perhaps the Camarilla Inner Circle. When you take on the name “Hardestadt,” the document states that the Camarilla must march to the beat of your drum—and guarantees that the Anarchs will unite to overthrow you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "id": "loresheet-ducheski",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Família de Revenantes: Ducheski",
+    "en": "Revenant Family: Ducheski"
+  },
+  "aliases": [
+    "Família de Revenantes: Ducheski",
+    "Revenant Family: Ducheski",
+    "Família de Revenantes: Ducheski — Sangue Nutritivo",
+    "Revenant Family: Ducheski — Nourishing Blood",
+    "Família de Revenantes: Ducheski — Biblioteca Pessoal",
+    "Revenant Family: Ducheski — Personal Library",
+    "Família de Revenantes: Ducheski — Equipe de Pesquisa",
+    "Revenant Family: Ducheski — Research Team",
+    "Família de Revenantes: Ducheski — Assistente Ritual",
+    "Revenant Family: Ducheski — Ritual Assistant",
+    "Família de Revenantes: Ducheski — Invenção Ducheski",
+    "Revenant Family: Ducheski — Ducheski Invention"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-ducheski-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Família de Revenantes: Ducheski — Sangue Nutritivo",
+        "en": "Revenant Family: Ducheski — Nourishing Blood"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 283 · 1",
+      "pages": [
+        {
+          "pdfPage": 284,
+          "printedPage": 283
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sangue Nutritivo",
+            "text": "Embora o Vitae de um revenante seja muito menos potente que o dos Membros, bebê-lo pode ser igualmente nutritivo. Ao se alimentar de seu revenante Ducheski, não aplique a redução de saciedade com sangue humano de sua Potência de Sangue. Alimentar-se dele nunca oferece risco de Laço de Sangue. Ele ainda sofre os ferimentos da alimentação como um humano."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Nourishing Blood",
+            "text": "While a revenant’s vitae is nowhere near as potent as the Kindred, drinking it can be just as sustaining. When you feed from your Ducheski revenant, they are not subject to the Human slake penalty of your Blood Potency. Feeding from them never risks a Blood Bond. The revenant is still harmed by your feeding like a human would be."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ducheski-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Família de Revenantes: Ducheski — Biblioteca Pessoal",
+        "en": "Revenant Family: Ducheski — Personal Library"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 283 · 2",
+      "pages": [
+        {
+          "pdfPage": 284,
+          "printedPage": 283
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Escolha o benefício",
+          "en": "Choose the benefit"
+        },
+        "detailOptions": [
+          "Academics + Investigation / Erudição + Investigação",
+          "Academics + Occult / Erudição + Ocultismo",
+          "Investigation + Occult / Investigação + Ocultismo"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Biblioteca Pessoal",
+            "text": "Os Ducheskis possuem uma riqueza de conhecimento dentro de suas fortalezas ancestrais dilapidadas. Seu revenant adicionou sua biblioteca pessoal de textos antigos à sua, aumentando sua compreensão dos mistérios do mundo. Escolha duas destas três habilidades: Erudição, Investigação ou Ocultismo. Sempre que você fizer um teste com qualquer Especialidade nas Habilidades escolhidas, você receberá um dado extra, além de quaisquer bônus aplicáveis."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Personal Library",
+            "text": "The Ducheskis hold a wealth of knowledge within their dilapidated ancestral strongholds. Your revenant has added their personal library of ancient texts to yours, increasing your understanding of the world’s mysteries. Choose two of these three Skills: Academics, Investigation, or Occult. Whenever you make a test with any Specialty in your chosen Skills, you receive one extra die, in addition to any applicable bonuses."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ducheski-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Família de Revenantes: Ducheski — Equipe de Pesquisa",
+        "en": "Revenant Family: Ducheski — Research Team"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 283 · 3",
+      "pages": [
+        {
+          "pdfPage": 284,
+          "printedPage": 283
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Equipe de Pesquisa",
+            "text": "Você cuida de uma família unida de três a cinco revenantes Ducheski. Receba Lacaios (••) para representá-los. Uma vez por história, ao encarregar sua equipe de pesquisa de estudar um novo Ritual, sua dedicação e cooperação permitem aprender esse Ritual na metade do tempo habitual."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Research Team",
+            "text": "You have a tight-knit family unit of three to five Ducheski revenants in your care. You receive Retainer (••) to represent them. Once per story, when you task your research time with studying a new Ritual, their dedication and teamwork allow you to learn the Ritual in half of the usual learning time."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ducheski-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Família de Revenantes: Ducheski — Assistente Ritual",
+        "en": "Revenant Family: Ducheski — Ritual Assistant"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 283 · 4",
+      "pages": [
+        {
+          "pdfPage": 284,
+          "printedPage": 283
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Assistente Ritual",
+            "text": "Seu revenante Ducheski tem aptidão especial para o estudo da Feitiçaria de Sangue e ajuda a aperfeiçoar suas técnicas mágicas. Quando ele está presente e ajuda a preparar um Ritual conhecido, reduza em 1 a dificuldade do teste de ativação. Se houver mais de um Assistente de Ritual, acrescente um dado à parada por cada dois assistentes presentes além do primeiro."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ritual Assistant",
+            "text": "Your Ducheski revenant has a special aptitude for the story of Blood Sorcery, and can help enhance your magical techniques. When your revenant is present and helps you prepare a known Ritual, the Difficulty of the roll to activate it is reduced by 1. If more than one Ritual Assistant is present, the Ritual pool increases by one die for every two Ritual Assistants present after the first."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ducheski-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Família de Revenantes: Ducheski — Invenção Ducheski",
+        "en": "Revenant Family: Ducheski — Ducheski Invention"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 283 · 5",
+      "pages": [
+        {
+          "pdfPage": 284,
+          "printedPage": 283
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Invenção Ducheski",
+            "text": "Você possui uma criação Ducheski única. Este poderia ser um de seus infames dispositivos mecânicos, ou até mesmo uma moderna maravilha tecnológica projetada por um revenante a seu serviço. Dê um nome e uma função à invenção e escolha uma Habilidade. Seu Narrador nomeará até três componentes que tornam possível seu funcionamento. A invenção é uma Especialidade daquela Habilidade que fornece três dados extras quando a invenção é usada em tarefas que envolvem aquela Habilidade. Se estiver danificado ou destruído, qualquer Ducheski do seu serviço sabe como consertá-lo, desde que tenha todos os componentes disponíveis."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ducheski Invention",
+            "text": "You own a one-of-a-kind Ducheski creation. This could be one of their infamous clockwork devices, or even a modern technological marvel designed by a revenant in your service. Give the invention a name and function, and choose a Skill. Your Storyteller will name up to three components that make its function possible. The invention is a Specialty of that Skill that provides three extra dice when the invention is used in tasks involving that Skill. If it is damaged or destroyed, any Ducheski in your service knows how to fix it, if they have all the components available."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-salvador-garcia",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Salvador Garcia",
+    "en": "Salvador Garcia"
+  },
+  "aliases": [
+    "Salvador Garcia",
+    "Salvador Garcia — Eloquente",
+    "Salvador Garcia — Eloquent",
+    "Salvador Garcia — À Moda Antiga",
+    "Salvador Garcia — Old Fashioned",
+    "Salvador Garcia — Inimigo do Estado",
+    "Salvador Garcia — Enemy of the State",
+    "Salvador Garcia — A Guerra de Ideias",
+    "Salvador Garcia — The War of Ideas",
+    "Salvador Garcia — Erguer-se",
+    "Salvador Garcia — Rise"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-salvador-garcia-anarch-v5-1",
+      "book": "anarch-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Salvador Garcia — Eloquente",
+        "en": "Salvador Garcia — Eloquent"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 190 · 1",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Eloquente",
+            "text": "Você estudou Salvador Garcia e outros ideólogos Anarchs, conhece os debates do Movimento e é resistente nas discussões. Receba dois dados adicionais em qualquer rolagem de debate político em que invoque princípios Anarchs."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Eloquent",
+            "text": "You studied Salvador Garcia and other Anarchs ideologues, you know the Movement's debates and are resistant in the discussions. Receive two additional dice on any political debate roll in which you invoke Anarchs principles."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-salvador-garcia-anarch-v5-2",
+      "book": "anarch-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Salvador Garcia — À Moda Antiga",
+        "en": "Salvador Garcia — Old Fashioned"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 190 · 2",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "À Moda Antiga",
+            "text": "Você conheceu Garcia e defendeu a abolição dos Príncipes e domínios descentralizados. Isso lhe dá crédito com os Anarchs da velha escola dos Estados Livres da Califórnia, que mantiveram o Movimento nos anos difíceis. Tenha o equivalente a Mawla 3 representando esses Anarchs mais velhos; eles só ajudam em assuntos do Movimento."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Old Fashioned",
+            "text": "You met Garcia and defended the abolition of Princes and decentralized domains. This gives him credit with the old school Anarchs of the California Free States who kept the Movement going through the difficult years. Have the equivalent of Mawla 3 representing these older Anarchs; they only help with Movement matters."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-salvador-garcia-anarch-v5-3",
+      "book": "anarch-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Salvador Garcia — Inimigo do Estado",
+        "en": "Salvador Garcia — Enemy of the State"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 190 · 3",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Inimigo do Estado",
+            "text": "A Camarilla o despreza por defender as ideias Anarchs e tenta arruinar sua reputação com rumores bizarros: venda do domínio à Segunda Inquisição, feitos heroicos falsos, infiltração do Sabá. Como consequência involuntária, todas as tentativas de encontrar fatos sobre você sofrem dois dados de penalidade, e toda informação obtida contém falsidades, exceto se o teste resultar em vitória crítica."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Enemy of the State",
+            "text": "The Camarilla despises him for defending Anarchs' ideas and tries to ruin his reputation with bizarre rumors: sale of the domain to the Second Inquisition, fake heroic deeds, Sabbat infiltration. As an unintended consequence, all attempts to find facts about you suffer a two dice penalty, and all information obtained contains falsehoods, unless the roll results in a critical victory."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-salvador-garcia-anarch-v5-4",
+      "book": "anarch-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Salvador Garcia — A Guerra de Ideias",
+        "en": "Salvador Garcia — The War of Ideas"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 190 · 4",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Guerra de Ideias",
+            "text": "Garcia ensina as ideias do Movimento aos jovens, mas nem todas são dele. Um texto que você escreveu sobre a organização da sociedade dos não vivos entrou em seu discurso habitual. Por isso, você é conhecido em territórios Anarchs e pode usar essa fama como Aliados 3 em qualquer domínio do Movimento."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The War of Ideas",
+            "text": "Garcia teaches young people the ideas of the Movement, but not all of them are his. A text you wrote about the organization of non-living society entered your usual speech. Therefore, you are known in Anarchs territories and can use this fame as Allies 3 in any domain of the Movement."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-salvador-garcia-anarch-v5-5",
+      "book": "anarch-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Salvador Garcia — Erguer-se",
+        "en": "Salvador Garcia — Rise"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 190 · 5",
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Erguer-se",
+            "text": "Seus companheiros conhecem suas ideias; quando você pede revolução, algo acontece, embora não controle exatamente o quê. Uma vez por história, teste Política para incitar os Anarchs locais. A escala depende dos sucessos: três podem gerar um ataque espontâneo ao refúgio do Príncipe; seis, uma revolta de quase toda a população Anarch da cidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Rise",
+            "text": "Your teammates know your ideas; When you call for revolution, something happens, although I don't control exactly what. Once per story, test Politics to incite the local Anarchs. The scale depends on the successes: three can generate a spontaneous attack on the Prince's Haven; six, an uprising of nearly the entire Anarch population of the city."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

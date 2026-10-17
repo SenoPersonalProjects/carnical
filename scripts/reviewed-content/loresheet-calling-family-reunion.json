@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-calling-family-reunion",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Chamado para a Reunião da Família",
+    "en": "Calling to the Family Reunion"
+  },
+  "aliases": [
+    "Chamado para a Reunião da Família",
+    "Calling to the Family Reunion",
+    "Chamado para a Reunião da Família — Mesa das Crianças",
+    "Calling to the Family Reunion — Children's Table",
+    "Chamado para a Reunião da Família — Lista Atualizada",
+    "Calling to the Family Reunion — Updated List",
+    "Chamado para a Reunião da Família — Esconder os Corpos",
+    "Calling to the Family Reunion — Hide the Bodies",
+    "Chamado para a Reunião da Família — Negociador",
+    "Calling to the Family Reunion — Negotiator",
+    "Chamado para a Reunião da Família — Ataque Espiritual",
+    "Calling to the Family Reunion — Spiritual Attack"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-calling-family-reunion-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Chamado para a Reunião da Família — Mesa das Crianças",
+        "en": "Calling to the Family Reunion — Children's Table"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 228 · 1",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 228
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Mesa das Crianças",
+            "text": "Você esteve no jantar que definiu os detalhes finais da Reunião da Família. Não influenciou significativamente a conversa, mas conhece as discussões e animosidades antigas. Receba dois dados em qualquer teste de Persuasão contra outro Hecata que tente ressuscitar essas divergências."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Children's Table",
+            "text": "You were at the dinner that defined the final details of the Family Reunion. Didn't significantly influence the conversation, but knows about old arguments and animosities. Get two dice on any Persuasion roll against another Hecata that tries to resurrect these divergences."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-calling-family-reunion-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Chamado para a Reunião da Família — Lista Atualizada",
+        "en": "Calling to the Family Reunion — Updated List"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 228 · 2",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 228
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Lista Atualizada",
+            "text": "Nem todos os grupos convivem bem no novo Hecata, mas você participou da negociação inicial e tem muitos contatos novos. Ao pedir informações ou pequenos favores, tenha o equivalente a Status 3 no clã Hecata."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Updated List",
+            "text": "Not all groups coexist well in the new Hecata, but you participated in the initial negotiation and there are many new Contacts. When asking for information or small favors, have the equivalent of Status 3 in the Hecata clan."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-calling-family-reunion-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Chamado para a Reunião da Família — Esconder os Corpos",
+        "en": "Calling to the Family Reunion — Hide the Bodies"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 228 · 3",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 228
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Esconder os Corpos",
+            "text": "Você ajudou a encobrir um assassinato importante e um ancião Hecata lhe deve muito. Uma vez por história, lembre-o da dívida e receba o efeito de um favor menor ou trivial (Livro Básico, p. 315). Uma vez por crônica, encerre a dívida por um favor maior. Se importuná-lo demais ou pedir favores grandes demais, ele ainda ajudará, mas depois se tornará um Adversário persistente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hide the Bodies",
+            "text": "You helped cover up an important murder and an elder Hecata owes you a lot. Once per story, remind him of the debt and receive the effect of a minor or trivial favor (Core Book, p. 315). Once per chronicle, close the debt for a greater favor. If you pester him too much or ask for too many favors, he will still help, but then become a persistent Adversary."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-calling-family-reunion-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Chamado para a Reunião da Família — Negociador",
+        "en": "Calling to the Family Reunion — Negotiator"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 228 · 4",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 228
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Negociador",
+            "text": "Cada discussão pública na reunificação dos Hecata teve uma contraparte nos bastidores. Você ajudou num desses acordos e um ancião influente lhe deve uma dívida. Ele conta como Mawla 5, mas se tornará um Adversário poderoso se o segredo for revelado."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Negotiator",
+            "text": "Every public discussion in the Hecata reunification had a behind-the-scenes counterpart. You helped with one of these deals and an influential elder owes you a debt. He counts as Mawla 5, but will become a powerful Adversary if the secret is revealed."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-calling-family-reunion-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Chamado para a Reunião da Família — Ataque Espiritual",
+        "en": "Calling to the Family Reunion — Spiritual Attack"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 228 · 5",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 228
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ataque Espiritual",
+            "text": "Você participou do assassinato de Augustus Giovanni, o Matusalém responsável pela suposta destruição dos Capadócios, e sabe que sua morte desencadeou o turbilhão de espectros contra os Hecata. Quando você ou alguém que o consulte usa uma Cerimônia de Oblívio para lidar com um espectro ou outro fantasma antagonista, ganhe dois sucessos automáticos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Spiritual Attack",
+            "text": "You participated in the murder of Augustus Giovanni, the Methuselah responsible for the supposed destruction of the Cappadocians, and you know that his death unleashed the maelstrom of specters against the Hecata. When you or someone consulting you uses a Ceremony of Oblivion to deal with a wraith or other antagonistic ghost, gain two automatic successes."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

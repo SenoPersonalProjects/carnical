@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-sect-war-veteran",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Veterano da Guerra das Seitas",
+    "en": "Sect War Veteran"
+  },
+  "aliases": [
+    "Veterano da Guerra das Seitas",
+    "Sect War Veteran",
+    "Veterano da Guerra das Seitas — Sobrevivente",
+    "Sect War Veteran — Survivor",
+    "Veterano da Guerra das Seitas — Participante Ativo",
+    "Sect War Veteran — Active Participant",
+    "Veterano da Guerra das Seitas — Troféu",
+    "Sect War Veteran — Trophy",
+    "Veterano da Guerra das Seitas — Terra de nenhum Vampiro",
+    "Sect War Veteran — No Vampire's Land",
+    "Veterano da Guerra das Seitas — Agitador de Seita",
+    "Sect War Veteran — Sect Agitator"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-sect-war-veteran-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Veterano da Guerra das Seitas — Sobrevivente",
+        "en": "Sect War Veteran — Survivor"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 392 · 1",
+      "pages": [
+        {
+          "pdfPage": 396,
+          "printedPage": 392
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sobrevivente",
+            "text": "Seu domínio, ou o de um vampiro próximo de você, foi devastado durante a guerra das seitas. Você pode descrever as estratégias de ambas as seitas, como elas guerrearam na cidade sem alertar os mortais e listar os nomes das vítimas vampíricas. Uma vez por história, você pode pedir ao Narrador uma informação relacionada à guerra das seitas no seu domínio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Survivor",
+            "text": "Your domain, or that of a vampire close to you, was devastated during the sect war. You can describe the strategies of both sects, how they fought in the city without alerting the Kine, and list the names of the vampiric victims. Once per story, you can ask Storyteller for information related to the sect war in your domain."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-sect-war-veteran-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Veterano da Guerra das Seitas — Participante Ativo",
+        "en": "Sect War Veteran — Active Participant"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 392 · 2",
+      "pages": [
+        {
+          "pdfPage": 396,
+          "printedPage": 392
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Participante Ativo",
+            "text": "Independentemente da seita, a guerra arrastou para si muitos vampiros. Até mesmo independentes serviram como mercenários ou fornecedores para um dos lados ou ambos. Você pode mostrar as cicatrizes da sua participação. Sua própria seita pode considerá-lo um herói de guerra; a outra, como um criminoso de guerra. Ganhe três pontos em Status ou Mawla para refletir sua posição ou a de um dos seus companheiros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Active Participant",
+            "text": "Regardless of the sect, the war took many vampires with it. Even independents served as mercenaries or suppliers for one or both sides. You can show the scars of your participation. His own sect may consider him a war hero; the other, as a war criminal. Earn three points in Status or Mawla to reflect your position or that of one of your teammates."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-sect-war-veteran-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Veterano da Guerra das Seitas — Troféu",
+        "en": "Sect War Veteran — Trophy"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 392 · 3",
+      "pages": [
+        {
+          "pdfPage": 396,
+          "printedPage": 392
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Troféu",
+            "text": "Muitos vampiros notáveis foram vítimas da guerra das seitas, e se tornou uma questão de orgulho competitivo para muitos Arcontes e Templários que participaram da guerra derrubar um \"nome\" do lado inimigo. Seja por sorte ou planejamento, você é responsável pela morte de um desses vampiros. Você pode ostentar orgulhosamente tal fato ou abafar os rumores a respeito; em todo caso, suas mãos estão cobertas com aquele Vitae. Uma vez por história, você pode usar esta lenda para evitar uma disputa que ela possa ajudar, do mesmo modo como o Narrador pode usá-la para enviar inimigos atrás da sua cabeça."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Trophy",
+            "text": "Many notable vampires fell victim to the sect war, and it became a matter of competitive pride for many Archons and Templars who participated in the war to overthrow a \"name\" on the enemy side. Whether by luck or planning, you are responsible for the death of one of these vampires. You can proudly flaunt it or stifle rumors about it; in any case, your hands are covered with that Vitae. Once per story, you can use this legend to avoid a dispute it might help, just as Storyteller can use it to send enemies after your head."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-sect-war-veteran-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Veterano da Guerra das Seitas — Terra de nenhum Vampiro",
+        "en": "Sect War Veteran — No Vampire's Land"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 392 · 4",
+      "pages": [
+        {
+          "pdfPage": 396,
+          "printedPage": 392
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Terra de nenhum Vampiro",
+            "text": "Equipes de Assalto compostas por Membros de ambos os lados da guerra das seitas atacavam domínio atrás de domínio e regressavam quando os defensores se reagrupavam. Esse tipo de conflito das Grandes Guerras estilo “mola” levou alguns vampiros a ficarem obcecados com domínios e seus santuários, arsenais, redes de túneis e ruas laterais secretos. Você conhece os melhores recantos do seu domínio e de dois domínios adjacentes que dariam boas bases para emboscadas, esconderijos contra atacantes, locais de reabastecimento de milícias ou para se fazer contato com mercenários. Adicione dois pontos ao Portillon do seu Domínio, e adicione dois dados às paradas relevantes de Manha, Ladroagem e Furtividade em dois domínios vizinhos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "No Vampire's Land",
+            "text": "Strike Teams made up of Kindred from both sides of the sect war attacked domain after domain and returned when the defenders regrouped. This kind of spring-style Great Wars conflict has led some vampires to become obsessed with domains and their secret sanctuaries, arsenals, tunnel networks, and side streets. You know the best corners of your domain and two adjacent domains that would make good bases for ambushes, hiding places against attackers, places to resupply militias or to make contact with mercenaries. Add two points to your Domain's Portillon, and add two dice to the relevant stops of Streetwise, Larceny, and Stealth in two neighboring domains."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-sect-war-veteran-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Veterano da Guerra das Seitas — Agitador de Seita",
+        "en": "Sect War Veteran — Sect Agitator"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 392 · 5",
+      "pages": [
+        {
+          "pdfPage": 396,
+          "printedPage": 392
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Agitador de Seita",
+            "text": "Alguns vampiros só existem para causar derramamentos de sangue, e você se considera parte desse grupo. Indivíduos como Lucinda da Camarilla e Francisco Domingo de Polonia do Sabá foram mimados pela guerra e acabaram sem chão quando ela terminou. Você conhece todos os gatilhos e botões a serem acionados para dar início a uma nova guerra das seitas. Tal conflito pode abranger um único domínio no começo, mas, iniciado Oo incêndio, você pode fazer com que se espalhe. Adicione dois dados a todas as suas paradas de testes Sociais para inflamar a tensão entre as seitas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Sect Agitator",
+            "text": "Some vampires only exist to cause bloodshed, and you consider yourself part of that group. Individuals like Lucinda da Camarilla and Francisco Domingo de Polonia do Sabá were spoiled by the war and ended up stranded when it ended. You know all the triggers and buttons to press to start a new sect war. Such a conflict may encompass a single domain at first, but once you start the fire, you can cause it to spread. Add two dice to all of your Social roll pools to ignite tension between the sects."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

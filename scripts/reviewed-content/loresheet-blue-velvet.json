@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-blue-velvet",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "The Blue Velvet",
+    "en": "The Blue Velvet"
+  },
+  "aliases": [
+    "The Blue Velvet",
+    "The Blue Velvet — Husa. 1972",
+    "The Blue Velvet — Est. 1972",
+    "The Blue Velvet — Quem é quem",
+    "The Blue Velvet — Who’s Who",
+    "The Blue Velvet — Show em pé",
+    "The Blue Velvet — Standing Gig",
+    "The Blue Velvet — Clube VIP",
+    "The Blue Velvet — VIP Club",
+    "The Blue Velvet — Passe para os bastidores",
+    "The Blue Velvet — Backstage Pass"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-blue-velvet-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "The Blue Velvet — Husa. 1972",
+        "en": "The Blue Velvet — Est. 1972"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 266 · 1",
+      "pages": [
+        {
+          "pdfPage": 267,
+          "printedPage": 266
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Husa. 1972",
+            "text": "Você frequenta o local desde o início e talvez conheça os bares que antecederam o Blue Velvet. A história do clube é também sua história: as bandas que começaram ali, as rivalidades dos Membros na sala VIP. Se aconteceu no Blue Velvet, você sabe. Acrescente dois dados a qualquer teste para recordar e usar a história do clube."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Est. 1972",
+            "text": "You’ve been there since the start, and may have been familiar with some of the bars that preceded The Blue Velvet. In many ways, the club’s history is your history, and others consider you an authority on it: bands whose rise started here, Kindred rivalries that played out in the VIP lounge, if it happened at The Blue Velvet, you’ve got the skinny. Add two dice to any roll related to recalling and using the club’s history."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blue-velvet-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "The Blue Velvet — Quem é quem",
+        "en": "The Blue Velvet — Who’s Who"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 266 · 2",
+      "pages": [
+        {
+          "pdfPage": 267,
+          "printedPage": 266
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Quem é quem",
+            "text": "Todo mundo que é alguém passa pelo Blue Velvet. Você conhece todos eles pelo nome, mas eles não sabem que você está monitorando quem entra e sai, com quem conversam e quando saem. Uma vez por história, peça ao seu Narrador informações sobre os movimentos de um colega frequentador do clube. O Narrador informará quando o patrono nomeado esteve pela última vez no Blue Velvet, como ele agiu e com quem estava."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Who’s Who",
+            "text": "Everyone who’s anyone stops in at the Blue Velvet. You know them all by name, but they don’t know you’re keeping tabs on who comes and goes, who they talk to, and when they leave. Once per story, ask your Storyteller for information on a fellow club-goer’s movements. The Storyteller will tell you when the named patron was last at the Blue Velvet, how they acted, and who they were with."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blue-velvet-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "The Blue Velvet — Show em pé",
+        "en": "The Blue Velvet — Standing Gig"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 266 · 3",
+      "pages": [
+        {
+          "pdfPage": 267,
+          "printedPage": 266
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Show em pé",
+            "text": "Só as bandas mais badaladas tocam no Blue Velvet, e as filas das noites dançantes dão a volta no quarteirão. Você já tocou ou foi DJ no clube e se apresenta regularmente. Uma vez por história, ao se apresentar no clube, escolha entre Recursos 3, até o fim da história, ou Rebanho 3, formado pelos fãs que comparecem a todas as suas apresentações."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Standing Gig",
+            "text": "Only the hottest bands play at the Blue Velvet, and its dance nights have lines stretching around the block. You’ve played or DJed at the club and appear on its calendar regularly. Once per story, when you perform at the club, choose between gaining a three-dot Resource Background (lasting until the end of the story) or a three-dot Herd from fans who attend your every performance."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blue-velvet-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "The Blue Velvet — Clube VIP",
+        "en": "The Blue Velvet — VIP Club"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 266 · 4",
+      "pages": [
+        {
+          "pdfPage": 267,
+          "printedPage": 266
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Clube VIP",
+            "text": "Seu Status é muito respeitado no The Blue Velvet. Sua fama ou influência atrai outras pessoas para o clube, e Bronwyn aprecia seu patrocínio, agindo como um Aliado de quatro pontos ou Mawla. Uma mesa está sempre pronta para você e você tem acesso a uma sala privativa na sala VIP para reuniões e refeições."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "VIP Club",
+            "text": "Your status is well-respected at The Blue Velvet. Your fame or influence draws others to the club, and Bronwyn appreciates your patronage, acting as a four-dot Ally or Mawla. A table’s always ready for you, and you have access to a private room in the VIP lounge for meetings and feedings."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blue-velvet-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "The Blue Velvet — Passe para os bastidores",
+        "en": "The Blue Velvet — Backstage Pass"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 266 · 5",
+      "pages": [
+        {
+          "pdfPage": 267,
+          "printedPage": 266
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Passe para os bastidores",
+            "text": "Você é um funcionário confiável e de alto nível do The Blue Velvet. Ian Gibson depende de você para operações noturnas, e você é membro do círculo íntimo de Bronwyn. Uma por história, você pode solicitar e receber a ajuda dela, seja por meio de influência, apoio financeiro ou uso do clube para um empreendimento privado."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Backstage Pass",
+            "text": "You are a trusted, high-level employee at The Blue Velvet. Ian Gibson relies on you for night-to-night operations, and you’re a member of Bronwyn’s inner circle. One per story, you may request and receive her aid, whether that’s via influence, financial backing, or use of the club for a private endeavor."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

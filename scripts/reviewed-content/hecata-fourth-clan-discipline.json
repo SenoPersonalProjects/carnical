@@ -1,0 +1,231 @@
+{
+  "id": "hecata-fourth-clan-discipline",
+  "kind": "merit",
+  "level": 4,
+  "names": {
+    "pt-BR": "Quarta Disciplina de Clã — Hecata",
+    "en": "Fourth Clan Discipline — Hecata"
+  },
+  "aliases": [
+    "Mudanças no Sangue",
+    "Changes in the Blood"
+  ],
+  "versions": [
+    {
+      "id": "hecata-fourth-clan-discipline-cultos-giovanni",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Quarta Disciplina Hecata — Giovanni: Dominação",
+        "en": "Fourth Hecata Discipline — Giovanni: Dominate"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 202",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 202
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "clanDiscipline": "Dominação",
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Opção do Narrador",
+            "text": "O livro não dá um nome próprio a esta Qualidade; o rótulo do catálogo descreve seu efeito. O Narrador pode oferecer esta Qualidade de quatro pontos exclusivamente aos Hecata para comprar a Disciplina substituta de sua linhagem como quarta Disciplina de Clã. Não é uma regra automática de todo Hecata."
+          },
+          {
+            "title": "Sistema",
+            "text": "Para a linhagem Giovanni, acrescente Dominação às Disciplinas de Clã Auspícios, Fortitude e Oblívio. A Qualidade não concede pontos nem poderes nessa Disciplina e não retira as três originais. Os aumentos usam o custo de Disciplina de Clã. Confirme a ascendência e a disponibilidade desta opção com o Narrador. Não é preciso comprar uma loresheet de linhagem para provar ascendência."
+          },
+          {
+            "title": "Alternativa distinta",
+            "text": "Sem esta Qualidade, o Narrador pode autorizar substituir, em vez de acrescentar: Giovanni troca Auspícios por Dominação; Samedi troca Auspícios por Ofuscação; Lamiae troca Auspícios por Potência; Nagaraja troca Fortitude por Dominação. Essa substituição não é aplicada por esta compra. Ela pode tornar Amálgamas indisponíveis."
+          }
+        ],
+        "en": [
+          {
+            "title": "Storyteller option",
+            "text": "The book does not give this Merit a proper name; the catalog label describes its effect. The Storyteller may offer this four-dot Merit exclusively to Hecata so they can purchase their bloodline’s substitute Discipline as a fourth clan Discipline. It is not automatic for every Hecata."
+          },
+          {
+            "title": "System",
+            "text": "For the Giovanni lineage, add Dominate to Auspex, Fortitude, and Oblivion as a clan Discipline. This Merit grants no dots or powers in that Discipline and removes none of the original three. Increases use clan Discipline costs. Confirm ancestry and availability with the Storyteller. Purchasing a bloodline Loresheet is not required to establish ancestry."
+          },
+          {
+            "title": "Separate alternative",
+            "text": "Without this Merit, the Storyteller may instead authorize replacement: Giovanni replaces Auspex with Dominate; Samedi replaces Auspex with Obfuscate; Lamiae replaces Auspex with Potence; Nagaraja replaces Fortitude with Dominate. This purchase does not apply that replacement. It can make Amalgams unavailable."
+          }
+        ]
+      }
+    },
+    {
+      "id": "hecata-fourth-clan-discipline-cultos-samedi",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Quarta Disciplina Hecata — Samedi: Ofuscação",
+        "en": "Fourth Hecata Discipline — Samedi: Obfuscate"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 202",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 202
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "clanDiscipline": "Ofuscação",
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Opção do Narrador",
+            "text": "O livro não dá um nome próprio a esta Qualidade; o rótulo do catálogo descreve seu efeito. O Narrador pode oferecer esta Qualidade de quatro pontos exclusivamente aos Hecata para comprar a Disciplina substituta de sua linhagem como quarta Disciplina de Clã. Não é uma regra automática de todo Hecata."
+          },
+          {
+            "title": "Sistema",
+            "text": "Para a linhagem Samedi, acrescente Ofuscação às Disciplinas de Clã Auspícios, Fortitude e Oblívio. A Qualidade não concede pontos nem poderes nessa Disciplina e não retira as três originais. Os aumentos usam o custo de Disciplina de Clã. Confirme a ascendência e a disponibilidade desta opção com o Narrador. Não é preciso comprar uma loresheet de linhagem para provar ascendência."
+          },
+          {
+            "title": "Alternativa distinta",
+            "text": "Sem esta Qualidade, o Narrador pode autorizar substituir, em vez de acrescentar: Giovanni troca Auspícios por Dominação; Samedi troca Auspícios por Ofuscação; Lamiae troca Auspícios por Potência; Nagaraja troca Fortitude por Dominação. Essa substituição não é aplicada por esta compra. Ela pode tornar Amálgamas indisponíveis."
+          }
+        ],
+        "en": [
+          {
+            "title": "Storyteller option",
+            "text": "The book does not give this Merit a proper name; the catalog label describes its effect. The Storyteller may offer this four-dot Merit exclusively to Hecata so they can purchase their bloodline’s substitute Discipline as a fourth clan Discipline. It is not automatic for every Hecata."
+          },
+          {
+            "title": "System",
+            "text": "For the Samedi lineage, add Obfuscate to Auspex, Fortitude, and Oblivion as a clan Discipline. This Merit grants no dots or powers in that Discipline and removes none of the original three. Increases use clan Discipline costs. Confirm ancestry and availability with the Storyteller. Purchasing a bloodline Loresheet is not required to establish ancestry."
+          },
+          {
+            "title": "Separate alternative",
+            "text": "Without this Merit, the Storyteller may instead authorize replacement: Giovanni replaces Auspex with Dominate; Samedi replaces Auspex with Obfuscate; Lamiae replaces Auspex with Potence; Nagaraja replaces Fortitude with Dominate. This purchase does not apply that replacement. It can make Amalgams unavailable."
+          }
+        ]
+      }
+    },
+    {
+      "id": "hecata-fourth-clan-discipline-cultos-lamiae",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Quarta Disciplina Hecata — Lamiae: Potência",
+        "en": "Fourth Hecata Discipline — Lamiae: Potence"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 202",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 202
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "clanDiscipline": "Potência",
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Opção do Narrador",
+            "text": "O livro não dá um nome próprio a esta Qualidade; o rótulo do catálogo descreve seu efeito. O Narrador pode oferecer esta Qualidade de quatro pontos exclusivamente aos Hecata para comprar a Disciplina substituta de sua linhagem como quarta Disciplina de Clã. Não é uma regra automática de todo Hecata."
+          },
+          {
+            "title": "Sistema",
+            "text": "Para a linhagem Lamiae, acrescente Potência às Disciplinas de Clã Auspícios, Fortitude e Oblívio. A Qualidade não concede pontos nem poderes nessa Disciplina e não retira as três originais. Os aumentos usam o custo de Disciplina de Clã. Confirme a ascendência e a disponibilidade desta opção com o Narrador. Não é preciso comprar uma loresheet de linhagem para provar ascendência."
+          },
+          {
+            "title": "Alternativa distinta",
+            "text": "Sem esta Qualidade, o Narrador pode autorizar substituir, em vez de acrescentar: Giovanni troca Auspícios por Dominação; Samedi troca Auspícios por Ofuscação; Lamiae troca Auspícios por Potência; Nagaraja troca Fortitude por Dominação. Essa substituição não é aplicada por esta compra. Ela pode tornar Amálgamas indisponíveis."
+          }
+        ],
+        "en": [
+          {
+            "title": "Storyteller option",
+            "text": "The book does not give this Merit a proper name; the catalog label describes its effect. The Storyteller may offer this four-dot Merit exclusively to Hecata so they can purchase their bloodline’s substitute Discipline as a fourth clan Discipline. It is not automatic for every Hecata."
+          },
+          {
+            "title": "System",
+            "text": "For the Lamiae lineage, add Potence to Auspex, Fortitude, and Oblivion as a clan Discipline. This Merit grants no dots or powers in that Discipline and removes none of the original three. Increases use clan Discipline costs. Confirm ancestry and availability with the Storyteller. Purchasing a bloodline Loresheet is not required to establish ancestry."
+          },
+          {
+            "title": "Separate alternative",
+            "text": "Without this Merit, the Storyteller may instead authorize replacement: Giovanni replaces Auspex with Dominate; Samedi replaces Auspex with Obfuscate; Lamiae replaces Auspex with Potence; Nagaraja replaces Fortitude with Dominate. This purchase does not apply that replacement. It can make Amalgams unavailable."
+          }
+        ]
+      }
+    },
+    {
+      "id": "hecata-fourth-clan-discipline-cultos-nagaraja",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Quarta Disciplina Hecata — Nagaraja: Dominação",
+        "en": "Fourth Hecata Discipline — Nagaraja: Dominate"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 202",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 202
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "clanDiscipline": "Dominação",
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Opção do Narrador",
+            "text": "O livro não dá um nome próprio a esta Qualidade; o rótulo do catálogo descreve seu efeito. O Narrador pode oferecer esta Qualidade de quatro pontos exclusivamente aos Hecata para comprar a Disciplina substituta de sua linhagem como quarta Disciplina de Clã. Não é uma regra automática de todo Hecata."
+          },
+          {
+            "title": "Sistema",
+            "text": "Para a linhagem Nagaraja, acrescente Dominação às Disciplinas de Clã Auspícios, Fortitude e Oblívio. A Qualidade não concede pontos nem poderes nessa Disciplina e não retira as três originais. Os aumentos usam o custo de Disciplina de Clã. Confirme a ascendência e a disponibilidade desta opção com o Narrador. Não é preciso comprar uma loresheet de linhagem para provar ascendência."
+          },
+          {
+            "title": "Alternativa distinta",
+            "text": "Sem esta Qualidade, o Narrador pode autorizar substituir, em vez de acrescentar: Giovanni troca Auspícios por Dominação; Samedi troca Auspícios por Ofuscação; Lamiae troca Auspícios por Potência; Nagaraja troca Fortitude por Dominação. Essa substituição não é aplicada por esta compra. Ela pode tornar Amálgamas indisponíveis."
+          }
+        ],
+        "en": [
+          {
+            "title": "Storyteller option",
+            "text": "The book does not give this Merit a proper name; the catalog label describes its effect. The Storyteller may offer this four-dot Merit exclusively to Hecata so they can purchase their bloodline’s substitute Discipline as a fourth clan Discipline. It is not automatic for every Hecata."
+          },
+          {
+            "title": "System",
+            "text": "For the Nagaraja lineage, add Dominate to Auspex, Fortitude, and Oblivion as a clan Discipline. This Merit grants no dots or powers in that Discipline and removes none of the original three. Increases use clan Discipline costs. Confirm ancestry and availability with the Storyteller. Purchasing a bloodline Loresheet is not required to establish ancestry."
+          },
+          {
+            "title": "Separate alternative",
+            "text": "Without this Merit, the Storyteller may instead authorize replacement: Giovanni replaces Auspex with Dominate; Samedi replaces Auspex with Obfuscate; Lamiae replaces Auspex with Potence; Nagaraja replaces Fortitude with Dominate. This purchase does not apply that replacement. It can make Amalgams unavailable."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-descendant-of-vasantasena",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Descendente de Vasantasena",
+    "en": "Descendant of Vasantasena"
+  },
+  "aliases": [
+    "Descendente de Vasantasena",
+    "Descendant of Vasantasena",
+    "Descendente de Vasantasena — Agente do Caos",
+    "Descendant of Vasantasena — Agent of Chaos",
+    "Descendente de Vasantasena — Ouça minhas Palavras",
+    "Descendant of Vasantasena — Hear my Words",
+    "Descendente de Vasantasena — Odor do Laço",
+    "Descendant of Vasantasena — Lace Odor",
+    "Descendente de Vasantasena — Destruir o Laço",
+    "Descendant of Vasantasena — Destroy the Lasso",
+    "Descendente de Vasantasena — Sabá se torna a Camarilla",
+    "Descendant of Vasantasena — Sabbat becomes the Camarilla"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-descendant-of-vasantasena-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Vasantasena — Agente do Caos",
+        "en": "Descendant of Vasantasena — Agent of Chaos"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 399 · 1",
+      "pages": [
+        {
+          "pdfPage": 403,
+          "printedPage": 399
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Agente do Caos",
+            "text": "Você é bem-sucedido enquanto tudo ao seu redor queima ou termina em catástrofe. Em situações turbulentas, como em um combate incomumente caótico e imprevisível, uma perseguição de carros através de uma cidade cheia ou ao fugir de uma construção prestes a explodir, uma vez por sessão, você pode rerrolar um único dado sem gastar Força de Vontade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Agent of Chaos",
+            "text": "You succeed while everything around you burns or ends in catastrophe. In turbulent situations, such as in unusually chaotic and unpredictable combat, a car chase through a crowded city, or when fleeing a building about to explode, once per session you can reroll a single die without spending Willpower."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-vasantasena-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Vasantasena — Ouça minhas Palavras",
+        "en": "Descendant of Vasantasena — Hear my Words"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 399 · 2",
+      "pages": [
+        {
+          "pdfPage": 403,
+          "printedPage": 399
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ouça minhas Palavras",
+            "text": "Você herdou as habilidades de persuasão do seu ancestral, pois a sua voz fala ao Sangue de terceiros antes de alcançar suas mentes. Uma vez por história, quando você tentar dar conselhos em um ambiente caótico e alguém parar para escutá-lo, esse indivíduo poderá rerrolar uma parada de dados em um teste futuro durante a mesma situação."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hear my Words",
+            "text": "You inherited your ancestor's Persuasion abilities, as your voice speaks to the Blood of others before reaching their minds. Once per story, when you attempt to give advice in a chaotic environment and someone stops to listen, that individual may reroll a dice pool on a future roll during the same situation."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-vasantasena-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Vasantasena — Odor do Laço",
+        "en": "Descendant of Vasantasena — Lace Odor"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 399 · 3",
+      "pages": [
+        {
+          "pdfPage": 403,
+          "printedPage": 399
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Odor do Laço",
+            "text": "A aversão de Vasantasena por Laços de Sangue era parte da razão que a levou a atacar os Antediluvianos e os laços que eles mantinham com sua prole. Tamanho era seu poder que ela podia detectar pelo olfato o Laço em vampiros individuais e reconhecer o mesmo odor no vampiro Enlaçado ou Enlaçador Uma vez por história, em caso de sucesso em um teste de Determinação + Percepção (Dificuldade 4), você consegue fazer a mesma coisa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Lace Odor",
+            "text": "Vasantasena's distaste for Blood Bonds was part of the reason she attacked the Antediluvians and the bonds they had with their offspring. Such was her power that she could detect the Bond in individual vampires by smell and recognize the same odor in the Blood Bound or Blood Bonding vampire. Once per story, if you successfully roll a Resolve + Awareness (Difficulty 4), you can do the same thing."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-vasantasena-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Vasantasena — Destruir o Laço",
+        "en": "Descendant of Vasantasena — Destroy the Lasso"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 399 · 4",
+      "pages": [
+        {
+          "pdfPage": 403,
+          "printedPage": 399
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Destruir o Laço",
+            "text": "O maior ato para Vasantasena é a destruição de um Laço de Sangue. Alguns dizem que ela realizou esse feito muitas vezes em anos recentes dentro do Sabá, o que, em parte, os levou a sua rápida degeneração. Uma vez por história, você também pode remover o Laço de Sangue imposta a uma vítima, bebendo um gole do Vitae dela e então entrando em frenesi."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Destroy the Lasso",
+            "text": "The greatest act for Vasantasena is the destruction of a Blood Bond. Some say she accomplished this feat many times in recent years within the Sabbat, which, in part, led to their rapid degeneration. Once per story, you can also remove the Blood Bond imposed on a victim by drinking a sip of their Vitae and then going into a frenzy."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-vasantasena-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Vasantasena — Sabá se torna a Camarilla",
+        "en": "Descendant of Vasantasena — Sabbat becomes the Camarilla"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 399 · 5",
+      "pages": [
+        {
+          "pdfPage": 403,
+          "printedPage": 399
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sabá se torna a Camarilla",
+            "text": "Vasantasena realizou o impossível e mostrou aos seus descendentes como fazê-lo. Filosofias estranhas e inumanas aprisionaram muitos vampiros ao Sabá. Uma vez por história, você pode desprogramar as crenças da seita em um vampiro. Para tanto, deve isolá-lo por completo e realizar um teste estendido (pag. 293) de Inteligência ou Carisma + Sagacidade em uma atmosfera repleta de perfumes especializados. Role uma vez a cada três noites de disputa; você vence após acumular uma quantidade de sucessos igual ao dobro da Força de Vontade do alvo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Sabbat becomes the Camarilla",
+            "text": "Vasantasena accomplished the impossible and showed her descendants how. Strange and inhuman philosophies have trapped many vampires in the Sabbat. Once per story, you can deprogram a vampire’s sect beliefs. Completely isolate the subject and make an extended Intelligence or Charisma + Insight test (p. 293) in an atmosphere filled with specialized perfumes. Roll once every three nights of contest; you win after accumulating successes equal to twice the target’s Willpower."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

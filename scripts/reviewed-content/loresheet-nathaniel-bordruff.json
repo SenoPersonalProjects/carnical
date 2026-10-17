@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-nathaniel-bordruff",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Nathaniel Bordruff",
+    "en": "Nathaniel Bordruff"
+  },
+  "aliases": [
+    "Nathaniel Bordruff",
+    "Nathaniel Bordruff — Recrutar",
+    "Nathaniel Bordruff — Recruit",
+    "Nathaniel Bordruff — Colaborador",
+    "Nathaniel Bordruff — Collaborator",
+    "Nathaniel Bordruff — Cúmplice",
+    "Nathaniel Bordruff — Accomplice",
+    "Nathaniel Bordruff — Conspirador",
+    "Nathaniel Bordruff — Conspirator",
+    "Nathaniel Bordruff — Traidor",
+    "Nathaniel Bordruff — Betrayer"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-nathaniel-bordruff-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Nathaniel Bordruff — Recrutar",
+        "en": "Nathaniel Bordruff — Recruit"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 281 · 1",
+      "pages": [
+        {
+          "pdfPage": 282,
+          "printedPage": 281
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Recrutar",
+            "text": "Algo em você – talvez seja sua atitude preconceituosa, talvez seja seu coração irado, talvez seja a maneira como você reclamou amargamente uma vez, não sobre a sociedade vampírica, mas sobre a própria condição vampírica – atraiu a atenção de Bordruff. Seja você um Nosferatu ou não, ele estendeu a mão em amizade para você, na forma de Mawla (••), mas exige que você aceite um Laço de Sangue de uma etapa com ele."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Recruit",
+            "text": "Something about you — maybe it’s your jaundiced attitude, maybe it’s your angry heart, maybe it’s the way you complained bitterly once not about vampire society but about the vampiric condition itself — has attracted Bordruff’s attention. Whether or not you’re Nosferatu, he has extended his hand in friendship to you, in the form of Mawla (••) but requires you accept a one-step Blood Bond with him."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-nathaniel-bordruff-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Nathaniel Bordruff — Colaborador",
+        "en": "Nathaniel Bordruff — Collaborator"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 281 · 2",
+      "pages": [
+        {
+          "pdfPage": 282,
+          "printedPage": 281
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Colaborador",
+            "text": "Por qualquer motivo, você optou por aceitar a amizade ou o patrocínio de Bordruff. A princípio, isso parece um acordo de troca de dinheiro perfeitamente razoável, no qual vocês fazem favores pequenos, mas significativos, mas gradualmente o relacionamento se torna mais profundo do que isso e você começa a suspeitar que ele quer mais de você do que carregar uma sacola ocasional ou um ato de pequena sabotagem social. Como resultado, você desenvolveu Recursos (•) e Status (•) e uma reputação de ambicioso e trabalhador, mas com um certo fedor vindo de suas associações."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Collaborator",
+            "text": "For whatever reasons, you have chosen to accept Bordruff’s friendship or patronage. At first, this seems like a perfectly reasonable quid pro quo arrangement in which you do one another small but meaningful favors, but gradually the relationship grows deeper than that and you begin to suspect he wants more out of you than the occasional bag carrying or act of minor social sabotage. As a result, you have developed Resources (•) and Status (•) and a reputation as ambitious and hardworking, but with a certain stench clinging to you from your associations."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-nathaniel-bordruff-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Nathaniel Bordruff — Cúmplice",
+        "en": "Nathaniel Bordruff — Accomplice"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 281 · 3",
+      "pages": [
+        {
+          "pdfPage": 282,
+          "printedPage": 281
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Cúmplice",
+            "text": "Bordruff começou a oferecer-lhe maiores favores em troca de maiores riscos ou ações tomadas em seu nome. Você começou a perceber, seja porque ele começou a compartilhar mais Sagacidade em seus objetivos maiores ou através de Investigação ou intuição sua, que há alguma causa aqui cujas dimensões você só agora está começando a compreender. A generosidade do seu patrono concedeu-lhe acesso o refúgio: Sala Segura (•) na cave de um paroquiano, Contatos: Consistório CoC (••), e um conhecimento crescente das desigualdades da sociedade dos Membros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Accomplice",
+            "text": "Bordruff has begun offering you greater favors in return for greater risks or actions taken upon his behalf. You have begun to realize, either because he has begun sharing more insight into his greater goals or through investigation or intuition of your own that there is some cause here whose dimensions you are only now beginning to comprehend. Your patron’s largesse has granted you access to Haven: Secured Room (•) in a parishioner’s basement, Contacts: CoC Consistory (••), and a growing knowledge of the inequities of Kindred society."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-nathaniel-bordruff-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Nathaniel Bordruff — Conspirador",
+        "en": "Nathaniel Bordruff — Conspirator"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 281 · 4",
+      "pages": [
+        {
+          "pdfPage": 282,
+          "printedPage": 281
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Conspirador",
+            "text": "Você sabe tudo, Bordruff, satisfeito com sua lealdade, trouxe você totalmente para sua confiança, expôs a você todo o escopo de sua visão e pediu que você se juntasse à sua conspiração para derrubar a sociedade dos Membros por dentro como um parceiro e companheiro visionário que limpará o mundo da mancha do vampirismo. Ele concedeu-lhe acesso aos seus principais asseclas humanos, o pastor da Igreja de Cristo e do consistório, todos eles seus carniçais e em quem ele incutiu um ódio virulento pelos mortos-vivos. Isto constitui Aliados (••••) que considera você um potencial salvador da humanidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Conspirator",
+            "text": "You know it all know — Bordruff, satisfied of your loyalty, has brought you fully into his confidence, exposed to you the full scope of his vision, and asked you to join in his conspiracy to bring down Kindred society from within as a partner and fellow visionary who will cleanse the world of the stain of vampirism. He has granted you access to his principal human minions, the pastor of the Church of Christ and the consistory, all of whom are his ghouls and in whom he has instilled a virulent hatred of the undead. This constitutes Allies (••••) who regard you as a potential savior of humanity."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-nathaniel-bordruff-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Nathaniel Bordruff — Traidor",
+        "en": "Nathaniel Bordruff — Betrayer"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 281 · 5",
+      "pages": [
+        {
+          "pdfPage": 282,
+          "printedPage": 281
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Traidor",
+            "text": "Que caminho você escolherá: trair os Membros como um todo e buscar algum meio de levar totalmente à destruição o mundo onde você existe agora? Ou você trairá aquele que escolheu confiar em você ao Príncipe e à justiça dos condenados? Escolha sabiamente. De qualquer forma, você tem a ganhar (Status e potencialmente Mawla com o Príncipe) e perder."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Betrayer",
+            "text": "What course will you choose: to betray the Kindred as a whole and seek some means of bringing the world where you now exist wholly to destruction? Or will you betray the one who chose to trust you to the Prince and the justice of the damned? Choose wisely. Either way you stand to gain (Status and potentially Mawla with the Prince) and lose."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

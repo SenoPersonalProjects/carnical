@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-bahari",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Os Bahari",
+    "en": "The Bahari"
+  },
+  "aliases": [
+    "Os Bahari",
+    "The Bahari",
+    "Os Bahari — Reputação Perigosa",
+    "The Bahari — Dangerous Reputation",
+    "Os Bahari — Escarificação Ritual",
+    "The Bahari — Ritual Scarification",
+    "Os Bahari — Sacrifício dos Filhos",
+    "The Bahari — Sacrifice of the Sons",
+    "Os Bahari — Sangue do Útero",
+    "The Bahari — Blood from the Uterus",
+    "Os Bahari — Amaldiçoada Original",
+    "The Bahari — Original Cursed"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-bahari-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Os Bahari — Reputação Perigosa",
+        "en": "The Bahari — Dangerous Reputation"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 382 · 1",
+      "pages": [
+        {
+          "pdfPage": 386,
+          "printedPage": 382
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Reputação Perigosa",
+            "text": "Os Bahari intimidam os vampiros que não pertencem à ordem. Os vampiros que creem no mito Cainita se sentem desconfortáveis em sua presença. Uma vez por história, você pode somar dois dados a paradas de Intimidação em testes contra adoradores de Caim, presumindo que conheçam sua filiação."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Dangerous Reputation",
+            "text": "The Bahari intimidate vampires who do not belong to the order. Vampires who believe in the Cainite myth feel uncomfortable in their presence. Once per story, you may add two dice to Intimidation pools on rolls against worshipers of Cain, assuming they know your affiliation."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-bahari-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Os Bahari — Escarificação Ritual",
+        "en": "The Bahari — Ritual Scarification"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 382 · 2",
+      "pages": [
+        {
+          "pdfPage": 386,
+          "printedPage": 382
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Escarificação Ritual",
+            "text": "Você sabe que o sofrimento leva à iluminação. Especificamente, os Lilitu pregam que levar a própria casca física aos extremos dos sentidos concede maior compreensão. Uma vez por sessão, você pode causar em si mesmo escarificação equivalente a um ponto de dano Agravado para recuperar um nível de dano à Força de Vontade: superficial ou Agravado."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ritual Scarification",
+            "text": "You know that suffering leads to enlightenment. Specifically, the Lilitu preach that taking one's physical shell to the extremes of the senses grants greater understanding. Once per session, you can inflict scarification on yourself equal to one point of Aggravated damage to recover one level of damage to Willpower: superficial or Aggravated."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-bahari-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Os Bahari — Sacrifício dos Filhos",
+        "en": "The Bahari — Sacrifice of the Sons"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 382 · 3",
+      "pages": [
+        {
+          "pdfPage": 386,
+          "printedPage": 382
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sacrifício dos Filhos",
+            "text": "Os Bahari acreditam na geração e sacrifício de crianças. Bahari fiéis sabem que o sacrifício supremo é o assassinato da própria criança. Ao diablerizar sua criança, você ganha três dados extra em sua parada de dados de Humanidade + Potência de Sangue para absorver Disciplinas (veja Diablerie, pág. 234)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Sacrifice of the Sons",
+            "text": "The Bahari believe in childbearing and child sacrifice. Bahari faithful know that the ultimate sacrifice is the murder of one's own child. When diablerizing your child, you gain three extra dice in your Humanity + Blood Potency dice pool to absorb Disciplines (see Diablerie, pg. 234)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-bahari-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Os Bahari — Sangue do Útero",
+        "en": "The Bahari — Blood from the Uterus"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 382 · 4",
+      "pages": [
+        {
+          "pdfPage": 386,
+          "printedPage": 382
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sangue do Útero",
+            "text": "Os Bahari consideram a fertilidade e o sexo fontes de força, com algumas facções colocando ênfase especial no sangue ou Vitae do útero. Uma vez por história, após beber sangue do útero, você ganha dois pontos adicionais em Vigor ou Determinação (o que também aumenta Vitalidade ou Força de Vontade em dois) até o amanhecer."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Blood from the Uterus",
+            "text": "The Bahari consider fertility and sex sources of Strength, with some factions placing special emphasis on the blood or Vitae of the uterus. Once per story, after drinking blood from the womb, you gain two additional points in Stamina or Resolve (which also increases Health or Willpower by two) until dawn."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-bahari-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Os Bahari — Amaldiçoada Original",
+        "en": "The Bahari — Original Cursed"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 382 · 5",
+      "pages": [
+        {
+          "pdfPage": 386,
+          "printedPage": 382
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Amaldiçoada Original",
+            "text": "Os adoradores de Lilith sustentam que ela foi o primeiro ser vivo amaldiçoado por Deus, antes de Adão, Eva ou Caim. Os Bahari lutam para imitar a maldição menor de Lilith, e, com isso, diminuem suas fraquezas de Caim. Você ainda sofre sua Perdição de Clã, porém pode caminhar sob a primeira hora de luz do sol e a hora final do entardecer; você também pode se envolver em intercurso sem Inflamar o Sangue. No entanto, você irradia perigo: o equivalente ao Defeito Predador Manifesto (••). Todos os testes Sociais para bani-lo ou difamá-lo têm a Dificuldade reduzida em um. Finalmente, qualquer vampiro que o analise com Auspícios imediatamente sofre de enxaqueca; subtraia metade da sua Determinação (arredando para cima) da Determinação e Força de Vontade dele durante uma cena."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Original Cursed",
+            "text": "Lilith’s worshipers hold that she was the first living being cursed by God, before Adam, Eve, or Caine. The Bahari strive to emulate Lilith’s lesser curse and diminish their weaknesses from Caine. You still suffer your Clan Bane, but may walk in the first hour of sunlight and the last hour of dusk, and have intercourse without Blush of Life. However, you radiate danger, equivalent to the Obvious Predator Flaw (••). All Social tests to banish or slander you have their Difficulty reduced by one. Any vampire examining you with Auspex immediately suffers a migraine: subtract half your Resolve, rounded up, from their Resolve and Willpower for one scene."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

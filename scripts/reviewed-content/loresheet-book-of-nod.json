@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-book-of-nod",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "O Livro de Nod",
+    "en": "The Book of Nod"
+  },
+  "aliases": [
+    "O Livro de Nod",
+    "The Book of Nod",
+    "O Livro de Nod — Preciso",
+    "The Book of Nod — Precis",
+    "O Livro de Nod — Bem versado",
+    "The Book of Nod — Well-versed",
+    "O Livro de Nod — Estudioso",
+    "The Book of Nod — Scholar",
+    "O Livro de Nod — Coletor",
+    "The Book of Nod — Collector",
+    "O Livro de Nod — Mestre Nodista",
+    "The Book of Nod — Noddist Master"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-book-of-nod-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "O Livro de Nod — Preciso",
+        "en": "The Book of Nod — Precis"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 267 · 1",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 267
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Preciso",
+            "text": "Você está familiarizado com os conceitos mais amplos do Livro de Nod e com algumas das profecias mais conhecidas. Uma vez por história, adicione dois dados a um teste de Erudição ou Ocultismo relacionado à antiga história Cainita."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Precis",
+            "text": "You are familiar with the broader concepts of the Book of Nod and some of the more commonly known prophecies. Once per story, add two dice to an Academics or Occult roll related to ancient Cainite history."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-book-of-nod-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "O Livro de Nod — Bem versado",
+        "en": "The Book of Nod — Well-versed"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 267 · 2",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 267
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Bem versado",
+            "text": "Seu senhor ou Mawla lhe ensinou certas passagens do livro e pode até ter fragmentos físicos em sua posse. Uma vez por história, você pode buscar a opinião deles sobre um assunto relacionado ao conhecimento Nodista, ganhando um bônus de dois dados em qualquer teste de Ocultismo relacionado ao livro."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Well-versed",
+            "text": "Your sire or Mawla taught you certain passages from the book, and may even have physical fragments in their possession. Once per story, you may seek their input on a matter regarding Noddist lore, gaining a two-dice bonus to any Occult test related to the book."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-book-of-nod-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "O Livro de Nod — Estudioso",
+        "en": "The Book of Nod — Scholar"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 267 · 3",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 267
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Estudioso",
+            "text": "Você dedicou muito tempo e estudo ao Livro de Nod e está familiarizado com pelo menos uma versão completa do texto. Você pode apoiar suas teorias com citações dessa versão e estar ciente de contra-argumentos ou interpretações alternativas. Uma vez por sessão, adicione três dados a um teste de Persuasão ao debater os pontos mais delicados do Livro de Nod."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Scholar",
+            "text": "You’ve dedicated significant time and study to the Book of Nod, and are familiar with at least one complete version of the text. You can support your theories with quotes from that version and are aware of counterarguments or alternative interpretations. Once per session, add three dice to a Persuasion roll when debating the Book of Nod’s finer points."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-book-of-nod-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "O Livro de Nod — Coletor",
+        "en": "The Book of Nod — Collector"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 267 · 4",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 267
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Coletor",
+            "text": "Você possui vários fragmentos do livro ou memorizou seções da história de Caim. Os nodistas procuram você na esperança de examinar suas cópias ou ouvi-lo recitar as histórias, e estão dispostos a pagar por isso. Esta nem sempre é uma negociação monetária; alguns oferecem favores, troca de informações ou acesso a outros recursos que seu personagem considera valiosos. Uma vez por história, quando você concede a alguém acesso à sua coleção, ganhe três pontos temporários em Recursos (ou outro Antecedente apropriado conforme aprovado por seu Narrador) para o restante da história, ou a capacidade de solicitar um favor futuro do Nodista."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Collector",
+            "text": "You own several fragments from the book or have memorized sections of Caine’s history. Noddists seek you out hoping to examine your copies or hear you recite the tales, and they’re willing to pay for it. This isn’t always a monetary trade; some offer favors, an exchange of information, or access to other resources your character finds valuable. Once per story, when you grant someone access to your collection, gain three temporary dots in Resources (or other appropriate Background as approved by your Storyteller) for the remainder of the story, or the ability to call in a future favor from the Noddist."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-book-of-nod-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "O Livro de Nod — Mestre Nodista",
+        "en": "The Book of Nod — Noddist Master"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 267 · 5",
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 267
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Mestre Nodista",
+            "text": "Outros Nodistas procuram você em busca de Sagacidade e interpretação dos textos, e suas teses sobre o assunto são consideradas leituras obrigatórias. Você trocou correspondência com especialistas nodistas sobre pontos mais delicados da tradição. Uma vez por história, você pode derivar um fato ou profecia do Livro de Nod que seu personagem pode aplicar para influenciar uma decisão, obtendo sucesso automaticamente em um teste de Persuasão a critério de Narrador."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Noddist Master",
+            "text": "Other Noddists look to you for insight and interpretation on the texts, and your theses on the subject are regarded as must-reads. You have exchanged correspondence with Noddist experts on finer points of lore. Once per story, you may derive a fact or prophecy from the Book of Nod that your character can apply to sway a decision, automatically succeeding at a Persuasion test at the Storyteller’s discretion."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-voerman",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Jeanette/Therese Voerman",
+    "en": "Jeanette/Therese Voerman"
+  },
+  "aliases": [
+    "Jeanette/Therese Voerman",
+    "Jeanette/Therese Voerman — Membro do Asylum",
+    "Jeanette/Therese Voerman — Asylum Member",
+    "Jeanette/Therese Voerman — Pau Mandado",
+    "Jeanette/Therese Voerman — Mandatory Dick",
+    "Jeanette/Therese Voerman — Queridinho da Jeanette",
+    "Jeanette/Therese Voerman — Jeanette's favorite",
+    "Jeanette/Therese Voerman — Queridinho da Therese",
+    "Jeanette/Therese Voerman — Therese's favorite",
+    "Jeanette/Therese Voerman — Gerente do Asylum",
+    "Jeanette/Therese Voerman — Asylum Manager"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-voerman-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Jeanette/Therese Voerman — Membro do Asylum",
+        "en": "Jeanette/Therese Voerman — Asylum Member"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 394 · 1",
+      "pages": [
+        {
+          "pdfPage": 398,
+          "printedPage": 394
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Membro do Asylum",
+            "text": "Você nunca precisa esperar em uma fila para entrar no Asylum, sempre tem um dos melhores lugares da casa e, contanto que não faça merda, pode caçar ali uma ou duas vezes por sessão (Dificuldade 2), com discrição."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Asylum Member",
+            "text": "You never have to wait in line to get into the Asylum, you always have one of the best seats in the house, and as long as you don't screw up, you can hunt there once or twice per session (Difficulty 2), with discretion."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-voerman-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Jeanette/Therese Voerman — Pau Mandado",
+        "en": "Jeanette/Therese Voerman — Mandatory Dick"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 394 · 2",
+      "pages": [
+        {
+          "pdfPage": 398,
+          "printedPage": 394
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Pau Mandado",
+            "text": "Jeanette e Therese o consideram um recurso confiável, sujeitando-o com frequência a missões que vão de investigações sérias a imensas viagens na maionese. Embora perigosas, elas também são generosas, e pagam todos os favores devidos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Mandatory Dick",
+            "text": "Jeanette and Therese consider him a reliable resource, frequently subjecting him to missions ranging from serious investigations to bizarre wild-goose chases. Although dangerous, they are also generous, and pay all due favors."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-voerman-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Jeanette/Therese Voerman — Queridinho da Jeanette",
+        "en": "Jeanette/Therese Voerman — Jeanette's favorite"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 394 · 3",
+      "pages": [
+        {
+          "pdfPage": 398,
+          "printedPage": 394
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Queridinho da Jeanette",
+            "text": "Jeanette Voerman, a filha selvagem da família, O adora, paparica e paquera. Embora supostamente seja a mais instável das irmãs, ela também é a mais generosa. Você pode ficar na câmara diurna de qualquer clube Asylum, bastando pedir (se Jeanette estiver presente, ela insiste que você fique), usar o clube para dar suas próprias festas e pedir favores pequenos e grandes para o Barão Anarch. Jeanette conta como um Mawla de quatro pontos, mas somente no que diz respeito a negócios dos Malkavianos e Anarchs."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Jeanette's favorite",
+            "text": "Jeanette Voerman, the wild daughter of the family, adores him, pampers him and flirts. Although she is supposedly the most unstable of the sisters, she is also the most generous. You can stay in the day chamber of any Asylum club if you ask (if Jeanette is present, she insists you stay), use the club to throw your own parties, and ask Baron Anarch for favors large and small. Jeanette counts as a four-point Mawla, but only when it comes to Malkavian and Anarch business."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-voerman-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Jeanette/Therese Voerman — Queridinho da Therese",
+        "en": "Jeanette/Therese Voerman — Therese's favorite"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 394 · 4",
+      "pages": [
+        {
+          "pdfPage": 398,
+          "printedPage": 394
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Queridinho da Therese",
+            "text": "Therese Voerman, o correto e austero membro da familia, o respeita e valoriza. A mente dela, orientada para os negócios, não permite que ela gaste os recursos do Asylum com seus luxos, mas ela fala em seu benefício em qualquer regnum onde o Asylum esteja presente, e pode orientálo em negócios e finanças se você pedir. Ela conta como um Mawla de três pontos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Therese's favorite",
+            "text": "Therese Voerman, the correct and austere member of the family, respects and values ​​him. Her business-oriented mind does not allow her to spend the Asylum's Resources on its luxuries, but she speaks to your benefit in any regnum where the Asylum is present, and can guide you in business and Finance if you ask. It counts as a three-point Mawla."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-voerman-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Jeanette/Therese Voerman — Gerente do Asylum",
+        "en": "Jeanette/Therese Voerman — Asylum Manager"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 394 · 5",
+      "pages": [
+        {
+          "pdfPage": 398,
+          "printedPage": 394
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Gerente do Asylum",
+            "text": "Jeanette ou Therese permitem que você tenha uma unidade do clube Asylum em seu domínio. Enquanto o clube estiver aberto, você terá quatro pontos para distribuir entre Refúgio, Rebanho, Recursos ou o Chasse do seu Domínio — dependendo do foco do seu clube, que pode mudar com o tempo. Se o clube é um Elísio depende de você."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Asylum Manager",
+            "text": "Jeanette or Therese allow you to have an Asylum club unit in your domain. While the club is open, you will have four points to distribute between Haven, Herd, Resources, or your Domain's Chasse — depending on your club's focus, which may change over time. Whether the club is an Elysium depends on you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

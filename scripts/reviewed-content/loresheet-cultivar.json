@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-cultivar",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Cultivar",
+    "en": "Cultivar"
+  },
+  "aliases": [
+    "Cultivar",
+    "Cultivar — Muda Escura",
+    "Cultivar — Dark Seedling",
+    "Cultivar — Corte Fresco",
+    "Cultivar — Fresh Cutting",
+    "Cultivar — Suprimindo a Besta",
+    "Cultivar — Suppressing the Beast",
+    "Cultivar — Iniciado Recém-Feito",
+    "Cultivar — Newly Made Initiate",
+    "Cultivar — Jóia no Jardim",
+    "Cultivar — Jewel in the Garden"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-cultivar-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Cultivar — Muda Escura",
+        "en": "Cultivar — Dark Seedling"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 271 · 1",
+      "pages": [
+        {
+          "pdfPage": 272,
+          "printedPage": 271
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Muda Escura",
+            "text": "As lendas da Mãe Negra sempre atraíram você, mas talvez você estivesse intimidado demais para abordar abertamente um dos Bahari. Agora, porém, seus novos associados colocaram você em algo que faz sentido, parece real. Eles estão explorados em algo poderoso e que vale a pena conhecer. Uma vez por história você pode usar dois pontos em Aliados: Cultivares que representam cultistas mortais que vêm em seu auxílio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Dark Seedling",
+            "text": "The legends of the Dark Mother always appealed to you, but perhaps you were too intimidated to openly approach one of the Bahari. Now, though, your new associates have put you onto something that makes sense, feels real. They are tapped into something powerful and that’s worth getting to know. Once per story you may use two dots in Allies: Cultivars representing mortal cultists who come to your aid."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cultivar-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Cultivar — Corte Fresco",
+        "en": "Cultivar — Fresh Cutting"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 271 · 2",
+      "pages": [
+        {
+          "pdfPage": 272,
+          "printedPage": 271
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Corte Fresco",
+            "text": "Sob o patrocínio de um Cultivar atual, você é testado, levado aos seus limites e forçado a ultrapassá-los. Nesta fase, espera-se que você se envolva regularmente em algum tipo de mortificação da carne – escarificação, flagelação e até mesmo passar a chama de uma vela sobre a pele. Você ganha uma Especialidade de Habilidade gratuita em Ocultismo, sendo essa Especialidade Bahari, Lilith ou o Ancestral, e uma cicatriz ritual para marcar sua participação no culto, transmitindo um ponto em Status: Cultivar."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Fresh Cutting",
+            "text": "Under the sponsorship of a current Cultivar, you are tested, pushed to your limits, and forced beyond them. At this stage, it is expected that you regularly engage in some sort of mortification of the flesh — scarification, scourging, even passing a candle flame over your skin. You gain a free Skill Specialty in Occult, with that Specialty being Bahari, Lilith, or the Ancestor, and a ritual scar to mark your membership in the cult, conveying one dot in Status: Cultivar."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cultivar-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Cultivar — Suprimindo a Besta",
+        "en": "Cultivar — Suppressing the Beast"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 271 · 3",
+      "pages": [
+        {
+          "pdfPage": 272,
+          "printedPage": 271
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Suprimindo a Besta",
+            "text": "Caçar mortais traz uma miséria quase constante, mas você está proibido de se alimentar de animais. Felizmente, seu patrocinador lhe dá acesso a locais de alimentação onde os mortais em busca da sabedoria da Mãe derramam seu sangue a serviço dela e, como uma gentileza, permitem que você, um portador da maldição, o consuma. Isso concede a você um Rebanho de três pontos. Você também ganha um Refúgio de um ponto que pode ser acessado uma vez por história, na forma da casa de um cultista. No entanto, você nunca mais poderá se alimentar de animais."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Suppressing the Beast",
+            "text": "Hunting mortals brings you near-constant misery, but you are forbidden from feeding upon animals. Thankfully, your sponsor gives you access to feeding grounds where mortals in pursuit of the Mother’s wisdom spill their blood in service to her and, as a kindness, allow you, a curse-carrier, to consume it. This grants you a three-dot Herd. You also gain a one-dot Haven you can access once per story, in the form of a cultist’s home. You may never again feed from animals, however."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cultivar-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Cultivar — Iniciado Recém-Feito",
+        "en": "Cultivar — Newly Made Initiate"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 271 · 4",
+      "pages": [
+        {
+          "pdfPage": 272,
+          "printedPage": 271
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Iniciado Recém-Feito",
+            "text": "Um mês passado em um iate particular, 150 milhas nas águas do Lago Michigan, suportando noite após noite de tormento abrasador e visões induzidas pelo delírio, você ganha o título de Iniciado. Você desfruta de Status elevado e agora é um guia para outros no caminho. Como Iniciado, você gosta de Status: Cultivar (•••). Uma vez por história, você pode usar dois dados adicionais em um teste de Força de Vontade ao se lembrar do severo jejum sofrido durante seu mês na água."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Newly Made Initiate",
+            "text": "One month spent on a private yacht, 150 miles out into the waters of Lake Michigan, enduring night after night of searing torment and delirium-induced visions earns you the title of Initiate. You enjoy elevated status and are now a guide for others on the path. As an Initiate, you enjoy Status: Cultivar (•••). Once per story, you may use an additional two dice on a Willpower roll when calling to mind the harsh fasting endured during your month on water."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cultivar-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Cultivar — Jóia no Jardim",
+        "en": "Cultivar — Jewel in the Garden"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 271 · 5",
+      "pages": [
+        {
+          "pdfPage": 272,
+          "printedPage": 271
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Jóia no Jardim",
+            "text": "Três gotas do sangue de um Matusalém agora cantam ferozmente em suas veias, concedendo-lhe visões, sem deixar dúvidas: A Mãe retornará. Se esta vitae veio do Ancestral, Nerissa ou de alguma outra fonte, é uma questão a ser interpretada a partir de seus devaneios confusos. Espera-se que você mantenha seu próprio Jardim - seja um espaço físico com coisas em crescimento ou uma interpretação mais figurativa - e venha quando convocado pelo Ancestral ou pelas Águas Negras. Como uma joia, você recebe quatro dados adicionais nas rolagens para resistir ao frenesi devido à harmonia do seu Éden interior."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Jewel in the Garden",
+            "text": "Three drops of a methuselah’s blood now sing fiercely within your veins, granting you visions, leaving you in no doubt: The Mother will return. Whether this vitae came from the Ancestor, Nerissa, or some other source is a matter to interpret from your vision-addled daydreams. You are expected to maintain your own Garden — be that a physical space with growing things or a more figurative interpretation — and come when summoned by the Ancestor or the Blackwaters. As a Jewel, you receive an additional four dice on rolls to resist frenzy due to the harmony of your inner Eden.."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -4,6 +4,40 @@
 
 ### Atualização de 17/10/2026
 
+- Loresheets: 78 identidades comuns, com 82 versões de fonte e 410 benefícios
+  individuais. Linhagens Hecata: oito identidades, sete versões do Guia e oito
+  de Cultos, com 75 benefícios individuais. O inventário e as transcrições
+  persistidas permitem conferir cada grupo e suas páginas; não certificam
+  cobertura integral dos demais conteúdos dos onze livros.
+- Cada benefício é independente na criação e no XP: valor completo, sem
+  pré-requisito nem concessão dos níveis inferiores. Uma loresheet comum e uma
+  linhagem podem coexistir. Repetir o mesmo nível numa fonte diferente não
+  duplica o benefício. Registros antigos e personalizados são preservados.
+- Escolhas internas como os três caminhos dos Anubi, os dois talismãs da Zona
+  Nula, as linhagens Ventrue e a Habilidade de Helena possuem seleção explícita.
+  Requisitos por clã e fonte também são conferidos na mutação da ficha.
+- Compras novas respeitam Talento Inato de Helena, Recursos a 2 XP dos Dunsirn
+  para o próprio titular e Auspícios como Disciplina de Clã de Tegyrius. Custos
+  de compras anteriores não são recalculados. Concessões a outros integrantes
+  da coterie e efeitos de cena continuam sob condução do Narrador.
+- A Qualidade opcional Hecata de quatro pontos tem quatro escolhas de linhagem.
+  Não concede pontos, poderes nem substitui Disciplinas: acrescenta a quarta
+  Disciplina aos custos de Clã após a compra explícita. A substituição sem a
+  Qualidade continua uma alternativa distinta, descrita na fonte, não aplicada
+  por essa compra.
+- Estabelecimento Comercial, Furcus, Oficina Mecânica e Compartilhado do Guia
+  também estão no catálogo, com escolhas guiadas e sistemas completos. As
+  incompatibilidades com Sem Refúgio são verificadas nas duas ordens de seleção.
+- O catálogo tem 586 entradas. Perguntas 14–20 do arquivo central registram
+  redação ambígua ou cortada, sem preencher lacunas por suposição. Os benefícios
+  completos de cada escolha estão no accordion e no anexo do PDF; a narrativa
+  introdutória das loresheets continua consultável na biblioteca e página original.
+- Verificação deste bloco: compras independentes, requisitos e fontes, bloqueio
+  de duplicatas e as duas ordens de incompatibilidade; interface em 390 e 1440
+  pixels com recarga e persistência simulada; quatro downloads reais de PDF,
+  totalizando 24 páginas extraídas, renderizadas e inspecionadas. A gravação
+  autenticada em produção não foi simulada como se fosse um teste real.
+
 - 20 Qualidades, Defeitos e Antecedentes gerais do Guia foram acrescentados,
   com detalhes obrigatórios e limites de instâncias. Segredos da Cidade aceita
   até três segredos diferentes. Transparente bloqueia novas compras guiadas de
@@ -30,8 +64,8 @@
   persistência usada nos testes da ficha foi simulada; não equivale a um
   teste autenticado de crônica em produção.
 
-O pedido completo continua **em andamento**: inventário de todos os itens e
-loresheets por livro, linhagens Hecata, métodos/receitas de imitação de Alquimia,
+O pedido completo continua **em andamento**: inventário dos demais itens por
+livro, métodos/receitas de imitação de Alquimia,
 traduções persistidas da biblioteca e revisão editorial integral de Streets
 com entrega final do ZIP ainda não foram concluídos. Nenhum livro foi declarado
 integralmente coberto com base apenas na contagem de itens ou páginas extraídas.

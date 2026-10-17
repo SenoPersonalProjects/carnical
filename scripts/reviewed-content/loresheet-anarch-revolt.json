@@ -1,0 +1,258 @@
+{
+  "id": "loresheet-anarch-revolt",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Revolta Anarch",
+    "en": "Anarch Revolt"
+  },
+  "aliases": [
+    "Revolta Anarch",
+    "Anarch Revolt",
+    "Revolta Anarch — Ancestral Crítico",
+    "Anarch Revolt — Critical Ancestor",
+    "Revolta Anarch — Fale as Palavras",
+    "Anarch Revolt — Speak the Words",
+    "Revolta Anarch — Inimigo do Sistema",
+    "Anarch Revolt — Enemy of the System",
+    "Revolta Anarch — Ícone",
+    "Anarch Revolt — Icon",
+    "Revolta Anarch — Reavivando a Revolta",
+    "Anarch Revolt — Reviving the Revolt"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-anarch-revolt-anarch-v5-1",
+      "book": "anarch-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Revolta Anarch — Ancestral Crítico",
+        "en": "Anarch Revolt — Critical Ancestor"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 198 · 1",
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 198
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Lealdade e suspeita",
+          "en": "Standing and suspicion"
+        },
+        "detailOptions": [
+          "Status Anarch 1 + Suspeito (Camarilla)",
+          "Status Camarilla 1 + Suspeito (Anarch)"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ancestral Crítico",
+            "text": "A Revolta Anarch reuniu jovens de todos os clãs, especialmente Brujah, Banu Haqim, Lasombra e Tzimisce, contra anciões manipuladores. Nomeie um ancestral crucial para a Revolta como instigador, cronista ou oponente. O vínculo dá credibilidade e paixão por sua análise. Receba Status Anarch 1 e o Defeito Suspeito (Camarilla), ou vice-versa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Critical Ancestor",
+            "text": "The Anarch Revolt brought together young vampires from all clans, especially Brujah, Banu Haqim, Lasombra, and Tzimisce, against manipulative elders. Name an ancestor crucial to the Rebellion as instigator, chronicler, or opponent. The bond gives credibility and passion for your analysis. Receive Status Anarch 1 and the Suspect (Camarilla) Flaw, or vice versa."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-anarch-revolt-anarch-v5-2",
+      "book": "anarch-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Revolta Anarch — Fale as Palavras",
+        "en": "Anarch Revolt — Speak the Words"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 198 · 2",
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 198
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Fale as Palavras",
+            "text": "A Revolta começou mais com palavras e energia que com lâminas e sangue. Você compartilha essa ambição, identifica opressão e onde é preciso revoltar-se; vampiros que o escutam se inclinam a tomar o poder de seus senhores. Receba dois dados em testes Sociais que instiguem ativismo Anarch."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Speak the Words",
+            "text": "The Revolt began more with words and energy than with blades and blood. You share this ambition, identify oppression and where it is necessary to rebel; Vampires who listen to him are inclined to take power from their sires. Receive two dice on Social rolls that instigate Anarch activism."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-anarch-revolt-anarch-v5-3",
+      "book": "anarch-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Revolta Anarch — Inimigo do Sistema",
+        "en": "Anarch Revolt — Enemy of the System"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 198 · 3",
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 198
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Inimigo do Sistema",
+            "text": "Você se considera um velho Anarch por convicção, não necessariamente idade, e enxerga os pontos fortes e fracos do novo Movimento. Sua oposição aos métodos de subjugação da Camarilla fez dela sua inimiga e atrai Anarchs apáticos. Receba Mawla 4 representando esses camaradas e Adversário 1 representando quem foi encarregado de controlá-lo e, se necessário, eliminá-lo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Enemy of the System",
+            "text": "You consider yourself an old Anarch by Conviction, not necessarily age, and see the strengths and weaknesses of the new Movement. Her opposition to the Camarilla's methods of subjugation has made her their enemy and attracts apathetic Anarchs. Receive Mawla 4 representing these comrades and Adversary 1 representing whoever was tasked with controlling him and, if necessary, eliminating him."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-anarch-revolt-anarch-v5-4",
+      "book": "anarch-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Revolta Anarch — Ícone",
+        "en": "Anarch Revolt — Icon"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 198 · 4",
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 198
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ícone",
+            "text": "Você adotou o nome de um participante original da Revolta e age como seu sucessor, tendo repetido muitos de seus feitos. Outros o veem como o próximo líder, queira ou não. A identidade oferece prestígio e alimento, mas a seita exige ação. Receba dois pontos de Status, dois de Rebanho e dois de Recursos enquanto priorizar a causa Anarch. Qualquer deslize suspende os benefícios até sua redenção."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Icon",
+            "text": "You have adopted the name of an original participant in the Anarch Revolt and act as his successor, having repeated many of his deeds. Others see him as the next leader, whether he likes it or not. Identity offers prestige and nourishment, but the sect demands action. Receive two points from Status, two from Herd, and two from Resources while prioritizing the Anarch cause. Any slip-up suspends benefits until redemption."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-anarch-revolt-anarch-v5-5",
+      "book": "anarch-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Revolta Anarch — Reavivando a Revolta",
+        "en": "Anarch Revolt — Reviving the Revolt"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 198 · 5",
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 198
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Reavivando a Revolta",
+            "text": "Você conhece a Revolta de cinco séculos atrás e como repeti-la hoje, as fraquezas da cidade, ameaças e posições da Camarilla que precisam cair. Pode ameaçar guerra para extorquir ou conter abusos contra os Anarchs. Uma vez por história, receba quatro dados em conflitos Sociais contra o establishment da Camarilla. Se falhar, cumpra a ameaça ou perca esta Vantagem permanentemente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Reviving the Revolt",
+            "text": "You know the Anarch Revolt of five centuries ago and how to repeat it today, the city's weaknesses, threats, and Camarilla positions that need to fall. May threaten war to extort or curb abuses against the Anarchs. Once per story, receive four dice in Social conflicts against the Camarilla establishment. If you fail, carry out the threat or lose this Perk permanently."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

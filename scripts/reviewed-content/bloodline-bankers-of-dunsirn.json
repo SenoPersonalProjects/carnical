@@ -1,0 +1,594 @@
+{
+  "id": "bloodline-bankers-of-dunsirn",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Banqueiros de Dunsirn",
+    "en": "Bankers of Dunsirn"
+  },
+  "aliases": [
+    "Banqueiros de Dunsirn",
+    "Bankers of Dunsirn",
+    "Banqueiros de Dunsirn — Dinheiro Oculta",
+    "Bankers of Dunsirn — Money Obfuscates",
+    "Banqueiros de Dunsirn — Dinheiro Fala",
+    "Bankers of Dunsirn — Money Talks",
+    "Banqueiros de Dunsirn — Dinheiro Melhora",
+    "Bankers of Dunsirn — Money Enhances",
+    "Banqueiros de Dunsirn — Dinheiro Multiplica",
+    "Bankers of Dunsirn — Money Multiplies",
+    "Banqueiros de Dunsirn — Dinheiro Dita",
+    "Bankers of Dunsirn — Money Dictates",
+    "Banqueiros de Dunsirn — O Dinheiro Ofusca",
+    "Banqueiros de Dunsirn — O Dinheiro é Eloquente",
+    "Banqueiros de Dunsirn — O Dinheiro Proporciona",
+    "Banqueiros de Dunsirn — Dinheiro Atrai Dinheiro",
+    "Banqueiros de Dunsirn — O Dinheiro Manda"
+  ],
+  "versions": [
+    {
+      "id": "bloodline-bankers-of-dunsirn-players-guide-v5-1",
+      "book": "players-guide-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Banqueiros de Dunsirn — Dinheiro Oculta",
+        "en": "Bankers of Dunsirn — Money Obfuscates"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 223 · 1",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Por volta do século XVIII, os Giovanni queriam entrar nos mercados do Novo Mundo, mas uma família escocesa de banqueiros dona de vários empreendimentos marítimos frustrava suas tentativas. Impressionados com sua habilidade financeira, investigaram como incorporá-la. Descobrir que os Dunsirn eram canibais, além de financistas, selou o negócio: a combinação perfeita de dinheiro, depravação e discrição.\n\nDurante séculos, os Dunsirn ganhavam dinheiro e os Giovanni o gastavam como água. Embora os mortais Dunsirn ainda apreciem carne humana, seus Membros demonstram pouco interesse ou talento para necromancia. Antes da Reunião da Família, houve tentativas de forçá-los a aprender Oblívio. Agora voltaram a fazer o que sabem: sangrar as pessoas até secá-las, sem precisar prestar contas aos malditos Giovanni."
+          },
+          {
+            "title": "Dinheiro Oculta",
+            "text": "É difícil ganhar dinheiro sem ser notado, mas os Dunsirn trabalham nas sombras há séculos. Você usou parte do dinheiro da família para criar uma identidade alternativa. Receba gratuitamente dois pontos no Antecedente Máscara; é preciso manter essa Máscara ao menos uma vez por história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Sometime around the 18th century, the Giovanni wanted a foothold in the markets of the New World. But all of their attempts were constantly blocked by a Scottish family of bankers who owned several shipping ventures. Impressed by their financial acumen, the Giovanni investigated bringing the family into the fold. What closed the deal was the discovery that the Dunsirn were cannibals as well as financiers. It was the perfect balance of money, depravity, and ability to keep a secret.\n\nFor centuries, the relationship between the two families was clear: The Dunsirn made the money, and the Giovanni family spent it like water. Surprisingly, even though mortal members of the Dunsirn family still indulge in the occasional bit of “long pork,” the Kindred don’t show much aptitude or interest in necromantic pursuits. Prior to the Family Reunion, there was an effort to force them into learning the ways of Oblivion, but now the Dunsirns are happy to go back to what they do best: bleeding people dry. And this time, they don’t need to answer to the fucking Giovanni to do it, either."
+          },
+          {
+            "title": "Money Obfuscates",
+            "text": "It’s hard to make money and not be noticed, but the Dunsirn have worked in the shadows for centuries. You’ve spread some of your family’s money around to make an alternate identity for yourself. You get two dots of the Mask Background for free, though you must maintain this Mask at least once per story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-bankers-of-dunsirn-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Banqueiros de Dunsirn — Dinheiro Fala",
+        "en": "Bankers of Dunsirn — Money Talks"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 223 · 2",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Por volta do século XVIII, os Giovanni queriam entrar nos mercados do Novo Mundo, mas uma família escocesa de banqueiros dona de vários empreendimentos marítimos frustrava suas tentativas. Impressionados com sua habilidade financeira, investigaram como incorporá-la. Descobrir que os Dunsirn eram canibais, além de financistas, selou o negócio: a combinação perfeita de dinheiro, depravação e discrição.\n\nDurante séculos, os Dunsirn ganhavam dinheiro e os Giovanni o gastavam como água. Embora os mortais Dunsirn ainda apreciem carne humana, seus Membros demonstram pouco interesse ou talento para necromancia. Antes da Reunião da Família, houve tentativas de forçá-los a aprender Oblívio. Agora voltaram a fazer o que sabem: sangrar as pessoas até secá-las, sem precisar prestar contas aos malditos Giovanni."
+          },
+          {
+            "title": "Dinheiro Fala",
+            "text": "Os Dunsirn encontram informação em lugares curiosos. Basta espalhar dinheiro para as pessoas aparecerem contando coisas. Uma vez por história, obtenha informações como se tivesse Contatos com tantos pontos quanto seus Recursos. Essa capacidade dura uma cena."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Sometime around the 18th century, the Giovanni wanted a foothold in the markets of the New World. But all of their attempts were constantly blocked by a Scottish family of bankers who owned several shipping ventures. Impressed by their financial acumen, the Giovanni investigated bringing the family into the fold. What closed the deal was the discovery that the Dunsirn were cannibals as well as financiers. It was the perfect balance of money, depravity, and ability to keep a secret.\n\nFor centuries, the relationship between the two families was clear: The Dunsirn made the money, and the Giovanni family spent it like water. Surprisingly, even though mortal members of the Dunsirn family still indulge in the occasional bit of “long pork,” the Kindred don’t show much aptitude or interest in necromantic pursuits. Prior to the Family Reunion, there was an effort to force them into learning the ways of Oblivion, but now the Dunsirns are happy to go back to what they do best: bleeding people dry. And this time, they don’t need to answer to the fucking Giovanni to do it, either."
+          },
+          {
+            "title": "Money Talks",
+            "text": "The Dunsirn find information in the most interesting places. All you have to do is spread a little money around, and people jump out of the woodwork to tell you things. Once per story, you can find information as if you had the Contacts Background with a number of dots equal to your Resources. This ability lasts for a single scene."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-bankers-of-dunsirn-players-guide-v5-3",
+      "book": "players-guide-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Banqueiros de Dunsirn — Dinheiro Melhora",
+        "en": "Bankers of Dunsirn — Money Enhances"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 223 · 3",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Por volta do século XVIII, os Giovanni queriam entrar nos mercados do Novo Mundo, mas uma família escocesa de banqueiros dona de vários empreendimentos marítimos frustrava suas tentativas. Impressionados com sua habilidade financeira, investigaram como incorporá-la. Descobrir que os Dunsirn eram canibais, além de financistas, selou o negócio: a combinação perfeita de dinheiro, depravação e discrição.\n\nDurante séculos, os Dunsirn ganhavam dinheiro e os Giovanni o gastavam como água. Embora os mortais Dunsirn ainda apreciem carne humana, seus Membros demonstram pouco interesse ou talento para necromancia. Antes da Reunião da Família, houve tentativas de forçá-los a aprender Oblívio. Agora voltaram a fazer o que sabem: sangrar as pessoas até secá-las, sem precisar prestar contas aos malditos Giovanni."
+          },
+          {
+            "title": "Dinheiro Melhora",
+            "text": "Você sempre tem acesso ao melhor que o dinheiro pode comprar. Produtos de qualidade são símbolos de status e facilitam tudo. Ao fazer uma rolagem em que possa usar seu próprio equipamento, receba um dado adicional."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Sometime around the 18th century, the Giovanni wanted a foothold in the markets of the New World. But all of their attempts were constantly blocked by a Scottish family of bankers who owned several shipping ventures. Impressed by their financial acumen, the Giovanni investigated bringing the family into the fold. What closed the deal was the discovery that the Dunsirn were cannibals as well as financiers. It was the perfect balance of money, depravity, and ability to keep a secret.\n\nFor centuries, the relationship between the two families was clear: The Dunsirn made the money, and the Giovanni family spent it like water. Surprisingly, even though mortal members of the Dunsirn family still indulge in the occasional bit of “long pork,” the Kindred don’t show much aptitude or interest in necromantic pursuits. Prior to the Family Reunion, there was an effort to force them into learning the ways of Oblivion, but now the Dunsirns are happy to go back to what they do best: bleeding people dry. And this time, they don’t need to answer to the fucking Giovanni to do it, either."
+          },
+          {
+            "title": "Money Enhances",
+            "text": "You always have access to the best that money can buy. Having access to quality products not only acts as a status symbol, it also makes everything a little easier. When making a roll in which you can use your own equipment, you get a bonus die to the roll."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-bankers-of-dunsirn-players-guide-v5-4",
+      "book": "players-guide-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Banqueiros de Dunsirn — Dinheiro Multiplica",
+        "en": "Bankers of Dunsirn — Money Multiplies"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 223 · 4",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Por volta do século XVIII, os Giovanni queriam entrar nos mercados do Novo Mundo, mas uma família escocesa de banqueiros dona de vários empreendimentos marítimos frustrava suas tentativas. Impressionados com sua habilidade financeira, investigaram como incorporá-la. Descobrir que os Dunsirn eram canibais, além de financistas, selou o negócio: a combinação perfeita de dinheiro, depravação e discrição.\n\nDurante séculos, os Dunsirn ganhavam dinheiro e os Giovanni o gastavam como água. Embora os mortais Dunsirn ainda apreciem carne humana, seus Membros demonstram pouco interesse ou talento para necromancia. Antes da Reunião da Família, houve tentativas de forçá-los a aprender Oblívio. Agora voltaram a fazer o que sabem: sangrar as pessoas até secá-las, sem precisar prestar contas aos malditos Giovanni."
+          },
+          {
+            "title": "Dinheiro Multiplica",
+            "text": "Todos os Hecata sabem que os Dunsirn são banqueiros, mas muitos pensam apenas em alguém rico. Você é, ou tem parentesco direto com, um verdadeiro banqueiro de investimentos. Ganhe três pontos em Recursos, até o máximo de cinco. Além disso, qualquer integrante de sua coterie perde o Defeito Destituído e pode comprar Recursos por 2 XP por ponto, em vez dos 3 habituais."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Sometime around the 18th century, the Giovanni wanted a foothold in the markets of the New World. But all of their attempts were constantly blocked by a Scottish family of bankers who owned several shipping ventures. Impressed by their financial acumen, the Giovanni investigated bringing the family into the fold. What closed the deal was the discovery that the Dunsirn were cannibals as well as financiers. It was the perfect balance of money, depravity, and ability to keep a secret.\n\nFor centuries, the relationship between the two families was clear: The Dunsirn made the money, and the Giovanni family spent it like water. Surprisingly, even though mortal members of the Dunsirn family still indulge in the occasional bit of “long pork,” the Kindred don’t show much aptitude or interest in necromantic pursuits. Prior to the Family Reunion, there was an effort to force them into learning the ways of Oblivion, but now the Dunsirns are happy to go back to what they do best: bleeding people dry. And this time, they don’t need to answer to the fucking Giovanni to do it, either."
+          },
+          {
+            "title": "Money Multiplies",
+            "text": "All the Hecata know the Dunsirn are bankers. But most of them think of it in the abstract, as if “banker” is just a different way of saying “someone with a lot of money.” But you are (or are directly related to) a legitimate investment banker. Gain three dots (up to five) in Resources. In addition, anyone in your coterie loses the Destitute Flaw (Vampire: the Masquerade, p. 193), and can purchase dots in Resources at 2 experience points per dot, instead of the usual 3."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-bankers-of-dunsirn-players-guide-v5-5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Banqueiros de Dunsirn — Dinheiro Dita",
+        "en": "Bankers of Dunsirn — Money Dictates"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 223 · 5",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Por volta do século XVIII, os Giovanni queriam entrar nos mercados do Novo Mundo, mas uma família escocesa de banqueiros dona de vários empreendimentos marítimos frustrava suas tentativas. Impressionados com sua habilidade financeira, investigaram como incorporá-la. Descobrir que os Dunsirn eram canibais, além de financistas, selou o negócio: a combinação perfeita de dinheiro, depravação e discrição.\n\nDurante séculos, os Dunsirn ganhavam dinheiro e os Giovanni o gastavam como água. Embora os mortais Dunsirn ainda apreciem carne humana, seus Membros demonstram pouco interesse ou talento para necromancia. Antes da Reunião da Família, houve tentativas de forçá-los a aprender Oblívio. Agora voltaram a fazer o que sabem: sangrar as pessoas até secá-las, sem precisar prestar contas aos malditos Giovanni."
+          },
+          {
+            "title": "Dinheiro Dita",
+            "text": "Você chefia as contas da família Dunsirn e acompanha as finanças dos Hecata, fazendo questão de que todos saibam. Receba três pontos gratuitos de Status nos Hecata. Uma vez por crônica, conceda dois pontos adicionais de Recursos a todos os Hecata da crônica ou remova todos os Recursos de todos eles. A mudança dura uma história. Se remover os Recursos, receba pelo restante da crônica um Defeito Adversário representando um dos vampiros roubados."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Sometime around the 18th century, the Giovanni wanted a foothold in the markets of the New World. But all of their attempts were constantly blocked by a Scottish family of bankers who owned several shipping ventures. Impressed by their financial acumen, the Giovanni investigated bringing the family into the fold. What closed the deal was the discovery that the Dunsirn were cannibals as well as financiers. It was the perfect balance of money, depravity, and ability to keep a secret.\n\nFor centuries, the relationship between the two families was clear: The Dunsirn made the money, and the Giovanni family spent it like water. Surprisingly, even though mortal members of the Dunsirn family still indulge in the occasional bit of “long pork,” the Kindred don’t show much aptitude or interest in necromantic pursuits. Prior to the Family Reunion, there was an effort to force them into learning the ways of Oblivion, but now the Dunsirns are happy to go back to what they do best: bleeding people dry. And this time, they don’t need to answer to the fucking Giovanni to do it, either."
+          },
+          {
+            "title": "Money Dictates",
+            "text": "You are the head of the Dunsirn family accounts. You have your undead finger on the pulse of the Hecata’s financial accounts. And you make sure that everyone else knows it. You gain three free dots of Status in the Hecata. In addition, once per chronicle, you can either give every Hecata in the chronicle two additional dots of Resources or remove all Resource dots from every Hecata in the chronicle. These Resources additions or removals last for a single story, and if removed, generate a chronicle-length Adversary Flaw in the form of one of the robbed vampires."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-bankers-of-dunsirn-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Banqueiros de Dunsirn — O Dinheiro Ofusca",
+        "en": "Bankers of Dunsirn — Money Obfuscates"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 220 · 1",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 220,
+          "printedPage": 220
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Dinheiro Ofusca",
+            "text": "É difícil ganhar dinheiro sem ser notado, mas os Dunsirn trabalham nas sombras há séculos. Você usou parte do dinheiro da família para criar uma identidade alternativa. Receba gratuitamente dois pontos no Antecedente Máscara; é preciso manter essa Máscara ao menos uma vez por história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Money Obfuscates",
+            "text": "It’s hard to make money and not be noticed, but the Dunsirn have worked in the shadows for centuries. You’ve spread some of your family’s money around to make an alternate identity for yourself. You get two dots of the Mask Background for free, though you must maintain this Mask at least once per story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-bankers-of-dunsirn-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Banqueiros de Dunsirn — O Dinheiro é Eloquente",
+        "en": "Bankers of Dunsirn — Money Talks"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 220 · 2",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 220,
+          "printedPage": 220
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Dinheiro é Eloquente",
+            "text": "Os Dunsirn encontram informação em lugares curiosos. Basta espalhar dinheiro para as pessoas aparecerem contando coisas. Uma vez por história, obtenha informações como se tivesse Contatos com tantos pontos quanto seus Recursos. Essa capacidade dura uma cena."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Money Talks",
+            "text": "The Dunsirn find information in the most interesting places. All you have to do is spread a little money around, and people jump out of the woodwork to tell you things. Once per story, you can find information as if you had the Contacts Background with a number of dots equal to your Resources. This ability lasts for a single scene."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-bankers-of-dunsirn-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Banqueiros de Dunsirn — O Dinheiro Proporciona",
+        "en": "Bankers of Dunsirn — Money Enhances"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 220 · 3",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 220,
+          "printedPage": 220
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Dinheiro Proporciona",
+            "text": "Você sempre tem acesso ao melhor que o dinheiro pode comprar. Produtos de qualidade são símbolos de status e facilitam tudo. Ao fazer uma rolagem em que possa usar seu próprio equipamento, receba um dado adicional."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Money Enhances",
+            "text": "You always have access to the best that money can buy. Having access to quality products not only acts as a status symbol, it also makes everything a little easier. When making a roll in which you can use your own equipment, you get a bonus die to the roll."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-bankers-of-dunsirn-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Banqueiros de Dunsirn — Dinheiro Atrai Dinheiro",
+        "en": "Bankers of Dunsirn — Money Multiplies"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 220 · 4",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 220,
+          "printedPage": 220
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Dinheiro Atrai Dinheiro",
+            "text": "Todos os Hecata sabem que os Dunsirn são banqueiros, mas muitos pensam apenas em alguém rico. Você é, ou tem parentesco direto com, um verdadeiro banqueiro de investimentos. Ganhe três pontos em Recursos, até o máximo de cinco. Além disso, qualquer integrante de sua coterie perde o Defeito Destituído e pode comprar Recursos por 2 XP por ponto, em vez dos 3 habituais."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Money Multiplies",
+            "text": "All the Hecata know the Dunsirn are bankers. But most of them think of it in the abstract, as if “banker” is just a different way of saying “someone with a lot of money.” But you are (or are directly related to) a legitimate investment banker. Gain three dots (up to five) in Resources. In addition, anyone in your coterie loses the Destitute Flaw (Vampire: the Masquerade, p. 193), and can purchase dots in Resources at 2 experience points per dot, instead of the usual 3."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-bankers-of-dunsirn-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Banqueiros de Dunsirn — O Dinheiro Manda",
+        "en": "Bankers of Dunsirn — Money Dictates"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 220 · 5",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 220,
+          "printedPage": 220
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Dinheiro Manda",
+            "text": "Você chefia as contas da família Dunsirn e acompanha as finanças dos Hecata, fazendo questão de que todos saibam. Receba três pontos gratuitos de Status nos Hecata. Uma vez por crônica, conceda dois pontos adicionais de Recursos a todos os Hecata da crônica ou remova todos os Recursos de todos eles. A mudança dura uma história. Se remover os Recursos, receba pelo restante da crônica um Defeito Adversário representando um dos vampiros roubados."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Money Dictates",
+            "text": "You are the head of the Dunsirn family accounts. You have your undead finger on the pulse of the Hecata’s financial accounts. And you make sure that everyone else knows it. You gain three free dots of Status in the Hecata. In addition, once per chronicle, you can either give every Hecata in the chronicle two additional dots of Resources or remove all Resource dots from every Hecata in the chronicle. These Resources additions or removals last for a single story, and if removed, generate a chronicle-length Adversary Flaw in the form of one of the robbed vampires."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

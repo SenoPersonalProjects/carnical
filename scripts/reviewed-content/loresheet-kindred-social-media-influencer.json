@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-kindred-social-media-influencer",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Influenciador de Redes Sociais dos Membros",
+    "en": "Kindred Social Media Influencer"
+  },
+  "aliases": [
+    "Influenciador de Redes Sociais dos Membros",
+    "Kindred Social Media Influencer",
+    "Influenciador de Redes Sociais dos Membros — amigos em todos os lugares",
+    "Kindred Social Media Influencer — friends everywhere",
+    "Influenciador de Redes Sociais dos Membros — seguimento de nicho",
+    "Kindred Social Media Influencer — niche following",
+    "Influenciador de Redes Sociais dos Membros — Famoso na Internet",
+    "Kindred Social Media Influencer — Internet famous",
+    "Influenciador de Redes Sociais dos Membros — Colaborações e patrocínios",
+    "Kindred Social Media Influencer — Collabs and sponsorships",
+    "Influenciador de Redes Sociais dos Membros — estrela mundial",
+    "Kindred Social Media Influencer — superstar"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-kindred-social-media-influencer-let-the-streets-run-red-v5-1",
+      "book": "let-the-streets-run-red-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Influenciador de Redes Sociais dos Membros — amigos em todos os lugares",
+        "en": "Kindred Social Media Influencer — friends everywhere"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 226 · 1",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 226
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "amigos em todos os lugares",
+            "text": "Você tem poucos seguidores, em sua maioria amigos e conhecidos próximos. Ocasionalmente, alguém com maior presença nas redes sociais irá impulsionar ou compartilhar uma de suas postagens, proporcionando um aumento temporário na visibilidade. Uma vez por capítulo, você pode encontrar uma solução para um problema, desde que tenha tempo suficiente para consultar seus seguidores, permitindo que você jogue dois dados em uma Habilidade na qual você não possui pontos ou adicionando dois sucessos automáticos em uma área que você já conhece."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "friends everywhere",
+            "text": "You have a small following, mostly consisting of friends and close acquaintances. Occasionally, someone with a larger social media footprint will boost or share one of your posts, bringing you a temporary increase in visibility. Once per chapter, you can crowdsource a solution to a problem, providing you have enough time to consult your followers, allowing you to roll two dice in a Skill you don’t possess or adding two automatic successes in an area you already have familiarity."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kindred-social-media-influencer-let-the-streets-run-red-v5-2",
+      "book": "let-the-streets-run-red-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Influenciador de Redes Sociais dos Membros — seguimento de nicho",
+        "en": "Kindred Social Media Influencer — niche following"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 226 · 2",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 226
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "seguimento de nicho",
+            "text": "Seu conhecimento em uma área específica lhe confere um certo grau de autoridade online. Seus tópicos no Twitter ocasionalmente se tornam virais e você foi pago para escrever artigos para jornais e sites graças à sua voz única. Ganhe dois pontos de Influência em seu campo. Uma vez por história, você pode aumentar temporariamente seus Recursos em um ponto ao escrever um artigo ou fazer um hangout de vídeo para um público pequeno."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "niche following",
+            "text": "Your knowledge in a specific area grants you a degree of online authority. Your Twitter threads occasionally go viral, and you’ve been paid to write articles for newspapers and websites thanks to your unique voice. Gain two dots of Influence in your field. Once per story, you may temporarily increase your Resources by one dot when you pen an article or do a video hangout for a small audience."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kindred-social-media-influencer-let-the-streets-run-red-v5-3",
+      "book": "let-the-streets-run-red-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Influenciador de Redes Sociais dos Membros — Famoso na Internet",
+        "en": "Kindred Social Media Influencer — Internet famous"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 226 · 3",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 226
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Famoso na Internet",
+            "text": "Você tem dezenas de milhares de seguidores em várias redes sociais. Fãs leais geram alguma receita publicitária e compram produtos de sua marca, concedendo dois pontos adicionais em Recursos. Uma vez por história, organize um pequeno encontro local e alimente-se de um participante, recebendo um ponto em Rebanho."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Internet famous",
+            "text": "Your follower count is in the tens of thousands across several social media platforms. Loyal fans provide a small amount of ad revenue and buy branded swag, providing you with an additional two dots in Resources. Once per story, you can arrange a small, local meetup and feed from one of the attendees, granting you one dot in Herd."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kindred-social-media-influencer-let-the-streets-run-red-v5-4",
+      "book": "let-the-streets-run-red-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Influenciador de Redes Sociais dos Membros — Colaborações e patrocínios",
+        "en": "Kindred Social Media Influencer — Collabs and sponsorships"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 226 · 4",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 226
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Colaborações e patrocínios",
+            "text": "Todos os interessados ​​em seu assunto específico sabem seu nome. As empresas se oferecem para trabalhar com você para criar produtos de marca e tentam conquistá-lo com brindes que esperam que você promova. Além de dois pontos em Fama, ganhe Aliados (••) entre seus fãs e declare um Contato de dois pontos em uma das empresas que você promoveu."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Collabs and sponsorships",
+            "text": "Everyone who’s interested in your particular subject matter knows your name. Companies offer to work with you to create branded products and attempt to woo you with freebies they hope you’ll promote. In addition to two dots in Fame, gain Allies (••) from among your fans and declare a two-dot Contact at one of the companies you’ve promoted."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kindred-social-media-influencer-let-the-streets-run-red-v5-5",
+      "book": "let-the-streets-run-red-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Influenciador de Redes Sociais dos Membros — estrela mundial",
+        "en": "Kindred Social Media Influencer — superstar"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 226 · 5",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 226
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "estrela mundial",
+            "text": "Sua mídia social Presença faz de você um nome familiar. Você define tendências e obtém uma receita considerável com produtos, promoções, receita de anúncios e doações de clientes. Manter sua presença e sua posição na hierarquia em constante mudança requer uma programação em tempo integral de gravação, postagem e promoção. Embora isso conceda a você três pontos em Fama e Recursos, sua notoriedade também o coloca em uma posição precária com os anciões Membros. Caso eles (ou pior, FIRSTLIGHT) descubram sua identidade vampírica, a punição será rápida e mortal."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "superstar",
+            "text": "Your social media presence makes you a household name. You set trends and pull in a sizable income from products, promotions, ad revenue, and patron donations. Maintaining your presence and place in the ever-changing hierarchy requires a full-time schedule of recording, posting, promoting. While this grants you three dots in both Fame and Resources, your notoriety also puts you in a precarious position with Kindred elders. Should they (or worse, FIRSTLIGHT) discover your vampiric identity, punishment will be swift and deadly."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

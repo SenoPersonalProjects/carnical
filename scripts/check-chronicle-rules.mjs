@@ -1,10 +1,15 @@
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import ts from "typescript";
+import {createRequire} from "node:module";
+const nativeRequire=createRequire(import.meta.url),cache=new Map();
 function load(file,dependencies) {
-  const compiled=ts.transpileModule(fs.readFileSync(new URL(file,import.meta.url),"utf8"),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022}}).outputText;
-  const loaded={exports:{}};
-  new Function("module","exports","require",compiled)(loaded,loaded.exports,name=>dependencies[name]);
+  const absolute=file.startsWith('file:')?new URL(file):new URL(file,import.meta.url),key=absolute.href;
+  if(cache.has(key))return cache.get(key).exports;
+  const loaded={exports:{}};cache.set(key,loaded);
+  if(absolute.pathname.endsWith('.json')){loaded.exports=JSON.parse(fs.readFileSync(absolute,'utf8'));return loaded.exports;}
+  const compiled=ts.transpileModule(fs.readFileSync(absolute,"utf8"),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022,esModuleInterop:true}}).outputText;
+  new Function("module","exports","require",compiled)(loaded,loaded.exports,name=>dependencies?.[name]??(name.startsWith('.')?load(new URL(/\.(json|ts)$/.test(name)?name:name+'.ts',absolute).href,{}):nativeRequire(name)));
   return loaded.exports;
 }
 const supplement=load("../app/supplemental-powers.ts",{});

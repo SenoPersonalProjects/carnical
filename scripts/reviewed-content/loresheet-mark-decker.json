@@ -1,0 +1,251 @@
+{
+  "id": "loresheet-mark-decker",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Mark Decker",
+    "en": "Mark Decker"
+  },
+  "aliases": [
+    "Mark Decker",
+    "Mark Decker — Boas graças",
+    "Mark Decker — Good Graces",
+    "Mark Decker — inimigo dos lobisomens",
+    "Mark Decker — foe to Werewolves",
+    "Mark Decker — um golpe",
+    "Mark Decker — one strike",
+    "Mark Decker — A confiança do príncipe",
+    "Mark Decker — The Prince’s Trust",
+    "Mark Decker — Filho de Mark Decker (somente Gangrel)",
+    "Mark Decker — Childe of Mark decker (Gangrel only)"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-mark-decker-let-the-streets-run-red-v5-1",
+      "book": "let-the-streets-run-red-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Mark Decker — Boas graças",
+        "en": "Mark Decker — Good Graces"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 229 · 1",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 229
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Boas graças",
+            "text": "Decker depositou um pouco de confiança em você, designando-o para patrulhar a cidade e permitindo que você agisse com a autoridade dele em pequenas violações de suas leis. Ainda assim, ele exige que você estabeleça um Laço de Sangue de uma etapa, caso esse sentimento seja equivocado."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Good Graces",
+            "text": "Decker has put a small amount of trust in you, assigning you to patrol duty around the city and allowing you to act with his authority in minor breaches of his laws. Still, he requires you to enter a one-step Blood Bond in case that feeling is misplaced."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-mark-decker-let-the-streets-run-red-v5-2",
+      "book": "let-the-streets-run-red-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Mark Decker — inimigo dos lobisomens",
+        "en": "Mark Decker — foe to Werewolves"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 229 · 2",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 229
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "inimigo dos lobisomens",
+            "text": "Decker está ciente da contagem de corpos que você acumulou protegendo Milwaukee. Ele concede a você direitos de alimentação para uma pequena zona de caça, fornecendo-lhe um Rebanho de dois pontos e um Refúgio de um ponto."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "foe to Werewolves",
+            "text": "Decker is aware of the body count you’ve racked up protecting Milwaukee. He grants you feeding rights to a small rack, providing you with a two-dot Herd and a one-dot Haven."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-mark-decker-let-the-streets-run-red-v5-3",
+      "book": "let-the-streets-run-red-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Mark Decker — um golpe",
+        "en": "Mark Decker — one strike"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 229 · 3",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 229
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "um golpe",
+            "text": "Sua tendência não apenas para defender, mas também para fazer cumprir as leis do Príncipe, fez com que Decker afrouxasse as rédeas sobre você. Ainda não é sensato quebrá-los, mas uma vez por história ele permite que você defenda sua causa se for pego por uma infração menor. Em vez da morte final, ele imporá sanções."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "one strike",
+            "text": "Your penchant for not only upholding but enforcing the Prince’s laws has caused Decker to loosen his reins on you. It’s still unwise to break them, but once per story he allows you to plead your case if you’re caught for a minor infraction. Rather than the final death, he’ll impose sanctions."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-mark-decker-let-the-streets-run-red-v5-4",
+      "book": "let-the-streets-run-red-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Mark Decker — A confiança do príncipe",
+        "en": "Mark Decker — The Prince’s Trust"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 229 · 4",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 229
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A confiança do príncipe",
+            "text": "Você lutou ao lado de Decker contra os Lupinos e erradicou incursões Anarchs. Você aprendeu como falar com ele sem irritá-lo, ou pelo menos como apertar esses botões sem virar as suspeitas dele para si mesmo. Decker ouve seu conselho e a confiança que ele deposita em você lhe dá uma pequena margem de manobra na cidade. Ganhe Mark Decker como um Mawla de cinco pontos uma vez por história. Além disso, uma vez por história, você pode jantar com ele no Hyatt ou juntar-se a ele em sua suíte privada no Brewers Stadium para uma audiência."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Prince’s Trust",
+            "text": "You’ve fought at Decker’s side against the Lupines and rooted out Anarch incursions. You’ve learned how to talk to him without setting him off, or at least how to push those buttons without turning his suspicions on yourself. Decker listens to your counsel, and his trust in you gives you a little leeway in the city. Gain Mark Decker as a five-dot Mawla once per story. Additionally, once per story, you may dine with him at the Hyatt or join him in his private suite at Brewers Stadium for an audience."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-mark-decker-let-the-streets-run-red-v5-5",
+      "book": "let-the-streets-run-red-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Mark Decker — Filho de Mark Decker (somente Gangrel)",
+        "en": "Mark Decker — Childe of Mark decker (Gangrel only)"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 229 · 5",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 229
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "clans": [
+          "Gangrel"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Filho de Mark Decker (somente Gangrel)",
+            "text": "Decker lhe concedeu o presente de seu Abraço e espera que você trate tal honra de acordo. Ele treinou você como um de seus Anubi e o colocou em uma posição de poder na cidade. Trabalhe com seu Narrador para determinar onde reside sua autoridade. Decker fornece um Refúgio de três pontos e você ganha uma especialidade de habilidade gratuita em atletismo, Briga ou Armas Brancas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Childe of Mark decker (Gangrel only)",
+            "text": "Decker granted you the gift of his Embrace and expects you to treat such an honor accordingly. He’s trained you as one of his Anubi and placed you in a position of power in the city. Work with your Storyteller to determine where your authority lies. Decker provides you with a three-dot Haven, and you gain one free Skill Specialty in Athletics, Brawl, or Melee."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

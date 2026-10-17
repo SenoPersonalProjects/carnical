@@ -1,4 +1,4 @@
-import {indexedItem,itemEligibility,catalogDetailValid,type ItemContext} from "./item-eligibility";
+import {indexedItem,itemEligibility,catalogDetailValid,ownsCatalogChoice,type ItemContext} from "./item-eligibility";
 import {resolveContent} from "./resolve";
 export function restrictedThinBloodXp(clan:string,intent:string,name:string){
  if(intent==="blood-potency"&&clan==="Sangue-Ralo")return true;
@@ -8,6 +8,7 @@ export type CreationItem={name:string;dots:number;source:string;notes:string;cat
 type CreationData={merits:CreationItem[];flawItems:CreationItem[];disciplines:Record<string,number>;disciplinePowers:Record<string,string[]>;xpPurchases:ReadonlyArray<{name:string;kind:string;catalogId?:string;itemInstanceId?:string}>};
 export function addCreationItem<T extends CreationData>(data:T,key:"merits"|"flawItems",item:CreationItem,context:ItemContext):{data:T;error?:string;errorEn?:string}{
  const {entry,version}=indexedItem(item);
+ if(entry&&version?.requirements?.independentChoice&&ownsCatalogChoice(entry.id,version,data[key]))return {data};
  if(data[key].some(existing=>existing.catalogId===item.catalogId&&(!version?.requirements?.repeatableInstances&&(!version?.requirements?.repeatableDifferentChoices||existing.versionId===item.versionId))))return {data};
  if(entry&&version&&!catalogDetailValid(entry.id,version,data[key],item.instanceName))return {data,error:"Preencha o detalhe da escolha e confira o limite de instâncias diferentes.",errorEn:"Fill in the choice’s detail and check its limit of different instances."};
  if(!entry||!version)return {data,error:"Não foi possível identificar a escolha e sua fonte.",errorEn:"Could not identify the choice and its source."};

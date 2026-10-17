@@ -1,0 +1,479 @@
+{
+  "id": "loresheet-fiorenza-savona",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Fiorenza Savona",
+    "en": "Fiorenza Savona"
+  },
+  "aliases": [
+    "Fiorenza Savona",
+    "Fiorenza Savona — Na Lista de Fiorenza",
+    "Fiorenza Savona — On Fiorenza's List",
+    "Fiorenza Savona — Café da Manhã com Fiorenza",
+    "Fiorenza Savona — Breakfast with Fiorenza",
+    "Fiorenza Savona — Benefícios da Amizade",
+    "Fiorenza Savona — Benefits of Friendship",
+    "Fiorenza Savona — A Diretoria",
+    "Fiorenza Savona — The Board",
+    "Fiorenza Savona — Influência no Governo",
+    "Fiorenza Savona — Influence on Government",
+    "Fiorenza Savona — Benefícios Amigáveis",
+    "Fiorenza Savona — Friendly Benefits",
+    "Fiorenza Savona — O Diretório",
+    "Fiorenza Savona — The Directory",
+    "Fiorenza Savona — Movimento do Governo",
+    "Fiorenza Savona — Government Movement"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-fiorenza-savona-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Fiorenza Savona — Na Lista de Fiorenza",
+        "en": "Fiorenza Savona — On Fiorenza's List"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 404 · 1",
+      "pages": [
+        {
+          "pdfPage": 408,
+          "printedPage": 404
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Na Lista de Fiorenza",
+            "text": "Fiorenza sabe quem você é, o que significa que ela pensa que você é útil ou um problema para o clã. Consequentemente, ela designou um Lacaio mortal Talentoso (pág. 185) — guarda-costas, motorista, mordomo, etc. — para você, embora ela continue sendo a empregadora dele. Ele não faz questão de esconder que o espia para Fiorenza, e nunca se distancia de você, mesmo quando dispensado. Se ele for ferido ou morto, Fiorenza passará a considerá-lo indigno de confiança, mas, se sua conduta for boa, você avançará nas boas graças dela."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "On Fiorenza's List",
+            "text": "Fiorenza knows who you are, which means she thinks you're either useful or a problem for the clan. Consequently, she appointed a Talented mortal Retainer (p. 185) — bodyguard, chauffeur, butler, etc. — for you, even though she remains his employer. He makes no attempt to hide the fact that he spies on you from Fiorenza, and he never distances himself from you, even when dismissed. If he is injured or killed, Fiorenza will consider you untrustworthy, but if your conduct is good, you will advance in her good graces."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fiorenza-savona-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Fiorenza Savona — Café da Manhã com Fiorenza",
+        "en": "Fiorenza Savona — Breakfast with Fiorenza"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 404 · 2",
+      "pages": [
+        {
+          "pdfPage": 408,
+          "printedPage": 404
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Café da Manhã com Fiorenza",
+            "text": "Apesar da sua posição de alto-nível, uma vez por história, Fiorenza arranjará tempo na sua agenda cheia para se encontrar com você. Talvez vocês não se deem bem ou talvez sejam amigos. Um encontro com Fiorenza pode ser lucrativo e informativo, se você fizer as perguntas certas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Breakfast with Fiorenza",
+            "text": "Despite her high-level position, once per story, Fiorenza will make time in her busy schedule to meet with you. Maybe you don't get along or maybe you're friends. A meeting with Fiorenza can be profitable and informative if you ask the right questions."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fiorenza-savona-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Fiorenza Savona — Benefícios da Amizade",
+        "en": "Fiorenza Savona — Benefits of Friendship"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 404 · 3",
+      "pages": [
+        {
+          "pdfPage": 408,
+          "printedPage": 404
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Benefícios da Amizade",
+            "text": "Você era próximo de Fiorenza antes que ela se tornasse a “próxima promessa” do Clã Ventrue, e essa amizade pagou dividendos: ela pode acalmar Ventrue irritados, dar a você dicas comerciais internas, emprestar um jato particular — equipado com janelas polarizadas e planos de voo pré-aprovados, etc. Caso você abuse dessa conexão, que equivale a um Mawla de três pontos (•••), ela o dispensará sem hesitar,"
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Benefits of Friendship",
+            "text": "You were close to Fiorenza before she became the Ventrue Clan's “next promise,” and that friendship has paid dividends: she can calm angry Ventrue, give you insider business tips, lend you a private jet — equipped with polarized windows and pre-approved flight plans, etc. If you abuse this connection, which is equivalent to a three-point Mawla (•••), she will dismiss you without hesitation,"
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fiorenza-savona-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Fiorenza Savona — A Diretoria",
+        "en": "Fiorenza Savona — The Board"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 404 · 4",
+      "pages": [
+        {
+          "pdfPage": 408,
+          "printedPage": 404
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Diretoria",
+            "text": "A obscura Diretoria Ventrue o procurou. Preocupados com a ascensão meteórica de Fiorenza,eles o escolheram para abordá-la, suborná-la e subjugar sua vontade. Se aceitar, você será Enlaçado e terá suas memórias das identidades da Diretoria apagadas — mas receberá seis pontos para distribuir entre Contatos, Mawla e Recursos. Naturalmente, você pode oferecer a Fiorenza trabalhar para ela como agente duplo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Board",
+            "text": "The shadowy Ventrue Board sought him out. Concerned about Fiorenza's meteoric rise, they chose him to approach her, bribe her, and subjugate her will. If you accept, you will be Blood Bound and have your memories of the Board's identities erased — but you will receive six points to distribute between Contacts, Mawla, and Resources. Naturally, you can offer Fiorenza to work for her as a double agent."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fiorenza-savona-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Fiorenza Savona — Influência no Governo",
+        "en": "Fiorenza Savona — Influence on Government"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 404 · 5",
+      "pages": [
+        {
+          "pdfPage": 408,
+          "printedPage": 404
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Influência no Governo",
+            "text": "Fiorenza lhe deve um favor — uma vez por crônica, ela concorda em influenciar um líder político mortal a seu pedido. As sugestões dela equivalem a cinco dados a serem distribuídos como você desejar entre quaisquer rolagens que envolvam ação governamental, Se você criar uma perturbação política maior ou de algum modo agir para reforçar as “sugestões” de Fiorenza, o Narrador poderá adicionar outro dado baseado no seu plano e seu grau de sucesso nele."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Influence on Government",
+            "text": "Fiorenza owes him a favor—once per chronicle, she agrees to influence a mortal political leader at his request. Her suggestions amount to five dice to be distributed as you wish among any rolls involving government action. If you create a larger Politics disturbance or otherwise act to reinforce Fiorenza's “suggestions,” Storyteller may add another die based on your plan and your degree of success in it."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fiorenza-savona-camarilla-v5-1",
+      "book": "camarilla-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Fiorenza Savona — Na Lista de Fiorenza",
+        "en": "Fiorenza Savona — On Fiorenza's List"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 186 · 1",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 186
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Na Lista de Fiorenza",
+            "text": "Fiorenza sabe quem é você, o que significa que ou ela acha que você é um recurso para o clã quanto ou um problema. Consequentemente, ela encarregou um Lacaio mortal talentoso (pág. 185) – guarda-costas, motorista, mordomo, etc. – para você, embora ele permaneça sob o emprego dela. Ele não faz segredo de estar espirando você e relatando de volta para a Fiorenza, e ele nunca se afasta, mesmo se dispensado. Se o mortal for machucado ou morto, Fiorenza faz uma anotação de que você não é confiável, mas se a sua conduta for boa, você segue adiante nas boas graças dela."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "On Fiorenza's List",
+            "text": "Fiorenza knows who you are, which means she either thinks you're an asset to the clan or a problem. Consequently, she put a gifted mortal Retainer in charge (p. 185) – bodyguard, chauffeur, butler, etc. – for you, although he remains under her employment. He makes no secret of spying on you and reporting back to Fiorenza, and he never walks away, even if dismissed. If the mortal is harmed or killed, Fiorenza makes a note that you are untrustworthy, but if your conduct is good, you remain in her good graces."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fiorenza-savona-camarilla-v5-2",
+      "book": "camarilla-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Fiorenza Savona — Café da Manhã com Fiorenza",
+        "en": "Fiorenza Savona — Breakfast with Fiorenza"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 186 · 2",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 186
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Café da Manhã com Fiorenza",
+            "text": "Apesar da posição de alto nível dela, uma vez por história Fiorenza abrirá um espaço em sua agenda lotada para se encontrar com você. Talvez você tenha algum podre sobre ela ou talvez vocês sejam amigos próximos. Um encontro com Fiorenza pode ser lucrativo e informativo, se você fizer as perguntas certas para ela."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Breakfast with Fiorenza",
+            "text": "Despite her high-level position, once a story Fiorenza will make room in her busy schedule to meet with you. Maybe you have some dirt on her or maybe you are close friends. A meeting with Fiorenza can be profitable and informative if you ask her the right questions."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fiorenza-savona-camarilla-v5-3",
+      "book": "camarilla-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Fiorenza Savona — Benefícios Amigáveis",
+        "en": "Fiorenza Savona — Friendly Benefits"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 186 · 3",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 186
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Benefícios Amigáveis",
+            "text": "Você foi próximo à Fiorenza antes dela se tornar “a grande novidade” no Clã Ventrue, e este relacionamento paga dividendos: ela pode amenizar Ventrue irritados, fornecê-lo com dicas de negociação privilegiadas, emprestar um Gulfstream equipado com janelas polarizadas e planos de voo pré-autorizados, etc. Se você abusar ou mal utilizar esta conexão, o equivalente de um Mawla de três pontos ( ), ela corta você sem hesitação."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Friendly Benefits",
+            "text": "You were close to Fiorenza before she became “the big thing” in the Ventrue Clan, and this relationship pays dividends: she can soothe angry Ventrue, provide you with insider trading tips, lend you a Gulfstream equipped with polarized windows and pre-authorized flight plans, etc. If you abuse or misuse this connection, the equivalent of a three-dot Mawla ( ), it cuts you off without hesitation."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fiorenza-savona-camarilla-v5-4",
+      "book": "camarilla-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Fiorenza Savona — O Diretório",
+        "en": "Fiorenza Savona — The Directory"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 186 · 4",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 186
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Diretório",
+            "text": "O obscuro Diretório Ventrue chegou até você. Preocupado com a ascensão meteórica de Fiorenza, eles escolheram você para se aproximar dela, suborná-la e quebrá-la à vontade deles. Se você aceitar, você se submete à um Laço de Sangue e tem as suas memórias das identidades do Diretório apagadas – mas você recebe seis pontos para selecionar dentre Contatos, Mawla e Recursos. É claro que, você poderia se aproximar de Fiorenza e se oferecer para trabalhar como seu agente duplo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Directory",
+            "text": "The obscure Ventrue Directory has reached you. Concerned about Fiorenza's meteoric rise, they chose you to get close to her, bribe her, and break her to their will. If you accept, you submit to a Blood Bond and have your memories of Directory identities erased – but you receive six points to select from Contacts, Mawla and Resources. Of course, you could approach Fiorenza and offer to work as her double agent."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fiorenza-savona-camarilla-v5-5",
+      "book": "camarilla-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Fiorenza Savona — Movimento do Governo",
+        "en": "Fiorenza Savona — Government Movement"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 186 · 5",
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 186
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Movimento do Governo",
+            "text": "Fiorenza deve à você um favor – uma vez por crônica, ela concorda em influenciar um líder político mortal quando você requisitar. As sugestões dela igualam a cinco dados para distribuir como você quiser entre qualquer rolagem envolvendo ação do governo. Se você criar um grande distúrbio político ou do contrário agir para reforçar as “sugestões” de Fiorenza, o Narrador pode adicionar outro dado baseado no seu plano e em quão bem você obtém êxito nele."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Government Movement",
+            "text": "Fiorenza owes you a favor – once per chronicle, she agrees to influence a mortal political leader at your request. Her suggestions equal five dice to distribute as you wish among any rolls involving government action. If you create a major political disturbance or otherwise act to reinforce Fiorenza's “suggestions,” Storyteller may add another die based on your plan and how well you succeed in it."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

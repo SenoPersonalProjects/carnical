@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-theo-bell",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Theo Bell",
+    "en": "Theo Bell"
+  },
+  "aliases": [
+    "Theo Bell",
+    "Theo Bell — Célula Rebelde",
+    "Theo Bell — Rebel Cell",
+    "Theo Bell — Anarch Verdadeiro",
+    "Theo Bell — True Anarch",
+    "Theo Bell — Informação de Contato",
+    "Theo Bell — Contact Information",
+    "Theo Bell — Círculo de Bell",
+    "Theo Bell — Bell Circle",
+    "Theo Bell — Neutralidade de Seita",
+    "Theo Bell — Sect Neutrality"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-theo-bell-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Theo Bell — Célula Rebelde",
+        "en": "Theo Bell — Rebel Cell"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 383 · 1",
+      "pages": [
+        {
+          "pdfPage": 387,
+          "printedPage": 383
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Célula Rebelde",
+            "text": "Você comanda um bando de mortais rebeldes e alimenta o fogo revolucionário deles com algo que os mantém na luta. Talvez você os alimente com Vitae ou, quem sabe, incorpore seus ideais. Em todo caso, eles (equivalentes a um grupo Aliado de três pontos) realizam uma tarefa ou missão perigosa para você sem sua participação, antes de debandar até a próxima história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Rebel Cell",
+            "text": "You command a band of mortal rebels and stoke their revolutionary fire with something that keeps them fighting: perhaps Vitae, perhaps your ideals. Equivalent to a three-dot Ally group, they undertake one dangerous task or mission for you without your involvement before dispersing until the next story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-theo-bell-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Theo Bell — Anarch Verdadeiro",
+        "en": "Theo Bell — True Anarch"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 383 · 2",
+      "pages": [
+        {
+          "pdfPage": 387,
+          "printedPage": 383
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Anarch Verdadeiro",
+            "text": "Você foi um Anarch antes que Bell trouxesse um exército de Brujah da Camarilla para o Movimento, e se ressente dessas “Marias vão com as outras agora que o Movimento virou modinha. Você tem registros, nomes, lugares e datas sobre quem os rebeldes foram e são, informações essas conseguidas com o Cara em si ou por meios próprios. Seja como for, você ganha dois sucessos automáticos em qualquer teste de investigação que envolva vampiros que desertaram para o Movimento Anarch."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "True Anarch",
+            "text": "You were an Anarch before Bell brought an army of Brujah from the Camarilla into the Movement, and you resent these \"Marias go with the others\" now that the Movement has become fashionable. You have records, names, places and dates of who the rebels were and are, information obtained from the Dude himself or by your own means. Either way, you gain two automatic successes on any Investigation roll involving vampires who defected to the Anarch Movement."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-theo-bell-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Theo Bell — Informação de Contato",
+        "en": "Theo Bell — Contact Information"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 383 · 3",
+      "pages": [
+        {
+          "pdfPage": 387,
+          "printedPage": 383
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Informação de Contato",
+            "text": "Seja via esconderijo, mensageiro ou envio arcano, você consegue contatar Theo. Se ele vai responder ou escutar depende da mensagem e das interações anteriores entre vocês, porém, se ele gostar do que você tem a dizer, montanhas poderão ser movidas. Os efeitos precisos de uma mensagem para Theo devem ser determinados pelo Narrador."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Contact Information",
+            "text": "Whether via hiding, messenger or arcane sending, you can contact Theo. Whether he responds or listens depends on the message and previous interactions between you, but if he likes what you have to say, mountains can be moved. The precise effects of a message to Theo must be determined by Storyteller."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-theo-bell-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Theo Bell — Círculo de Bell",
+        "en": "Theo Bell — Bell Circle"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 383 · 4",
+      "pages": [
+        {
+          "pdfPage": 387,
+          "printedPage": 383
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Círculo de Bell",
+            "text": "Theo confia em você, talvez por causa das suas ações revolucionárias ou por você ter manipulado seu caminho até as graças sangrentas dele. Bell equivale a um Mawla de cinco pontos, mas sua associação com ele também tem seus problemas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bell Circle",
+            "text": "Theo trusts you, perhaps because of your revolutionary actions or because you manipulated your way into his bloody good graces. Bell equates to a five-point Mawla, but your association with him also has its problems."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-theo-bell-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Theo Bell — Neutralidade de Seita",
+        "en": "Theo Bell — Sect Neutrality"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 383 · 5",
+      "pages": [
+        {
+          "pdfPage": 387,
+          "printedPage": 383
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Neutralidade de Seita",
+            "text": "Seguindo o exemplo de Theo Bell, você tem um pequeno contingente de Brujah leais à sua visão, e você pode influenciá-los em qualquer direção: a Camarilla, os Anarchs ou até mesmo a formação de uma subseita menor em meio à Jyhad. Você pode estar desgostoso com eles ou orgulhoso da sua existência. Não se trata, porém, de discípulos cegos: estes Membros anotam os favores que concedem. Entretanto, até que se rebelem, você tem cinco pontos para distribuir entre Contatos, Refúgio (casas seguras), Mawla e Lacaios."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Sect Neutrality",
+            "text": "Following Theo Bell's example, you have a small contingent of Brujah loyal to your vision, and you can influence them in any direction: the Camarilla, the Anarchs, or even the formation of a smaller subsect within the Jyhad. You may be disgusted with them or proud of their existence. These are not, however, blind disciples: these Kindred write down the favors they grant. However, until they rebel, you have five points to distribute between Contacts, Haven (safe houses), Mawla and Retainers."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

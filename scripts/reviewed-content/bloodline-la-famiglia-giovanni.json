@@ -1,0 +1,592 @@
+{
+  "id": "bloodline-la-famiglia-giovanni",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "La Famiglia Giovanni",
+    "en": "La Famiglia Giovanni"
+  },
+  "aliases": [
+    "La Famiglia Giovanni",
+    "La Famiglia Giovanni — O Ouvido de um Primo",
+    "La Famiglia Giovanni — A Cousin’s Ear",
+    "La Famiglia Giovanni — Glamour Desbotado",
+    "La Famiglia Giovanni — Faded Glamor",
+    "La Famiglia Giovanni — Dinheiro Miúdo",
+    "La Famiglia Giovanni — Petty Cash",
+    "La Famiglia Giovanni — Servo Espectral",
+    "La Famiglia Giovanni — Spectre Servant",
+    "La Famiglia Giovanni — Aspirante a Anziano",
+    "La Famiglia Giovanni — Aspiring Anziano",
+    "La Famiglia Giovanni — Coisa de Primo",
+    "La Famiglia Giovanni — Resquício de Glamour",
+    "La Famiglia Giovanni — Dinheiro Trocado",
+    "La Famiglia Giovanni — Aspirante a Anziani"
+  ],
+  "versions": [
+    {
+      "id": "bloodline-la-famiglia-giovanni-players-guide-v5-1",
+      "book": "players-guide-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "La Famiglia Giovanni — O Ouvido de um Primo",
+        "en": "La Famiglia Giovanni — A Cousin’s Ear"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 227 · 1",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Até recentemente, para um Membro de fora, Clã da Morte significava família Giovanni. Suas origens são anteriores ao Império Romano, quando eram Ioveanus ou Jovianos, e sempre interferiram nos assuntos dos Membros. Sabiam jogar melhor que todos e cultivavam a imagem de Membros diabólicos para equilibrar medo e respeito entre rivais e parentes.\n\nIdentificar família e clã foi uma ficção útil durante séculos, até o Vaticano e o FBI unirem forças contra ambos. A reputação deixou registros; a Segunda Inquisição atingiu todos os lacaios e contas bancárias que encontrou. A Reunião da Família trouxe segurança por meio de novo anonimato. Os sobreviventes, porém, ressentem-se de se esconder e de linhagens emergentes descartarem a história por segurança ou conveniência política. Os verdadeiros Giovanni se acostumaram ao topo e matarão para mantê-lo. Ninguém luta como uma família."
+          },
+          {
+            "title": "O Ouvido de um Primo",
+            "text": "Mesmo parentes que se odeiam seguem o código de compartilhar informação, que os fez sobreviver da queda de Roma à Segunda Inquisição. Uma vez por sessão, faça uma pergunta direta a outro Giovanni e receba uma resposta direta; em troca, responda uma pergunta. Uma vez por história, também peça um favor aos parentes mortais como se tivesse Aliados 3."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Until recently, whenever an outsider Kindred thought about the Clan of Death, they pictured the Giovanni family. Their origins stretch back before the Roman Empire (when they were known as the Ioveanus or Jovians), and the entire time they’ve had their hands in Kindred affairs. The original Giovanni family knew how to play the game better than anyone, crafting an identity as “Devil Kindred” to strike the right balance of fear and respect in their rivals — and their relatives. Identifying the Giovanni family with the Clan of Death was a useful fiction for centuries, until the Vatican and\n\nthe FBI joined forces against the clan — starting with the family. Reputation comes with records, and the Second Inquisition rolled up every family retainer and bank account it could find. When the Family Reunion restructured the Clan of Death, the surviving Giovanni found safety in new anonymity. But they resented having to hide themselves, and further resented upstart bloodlines tossing out years of family history for security or worse, for political convenience. The “true Giovanni” have grown used to being top dogs, and they’ll murder to retain that position. After all, no one fights like a family."
+          },
+          {
+            "title": "A Cousin’s Ear",
+            "text": "Even if family members hate each other, the whole family lives by a certain code to share information — that’s how they’ve survived everything from the fall of the Roman Empire to the Second Inquisition. Once per session, you can ask a direct question of another member of the Giovanni family, and get a straight answer. However, you have to answer a question in return. You can also ask a favor of mortal members of the family once per story, as if you had the Allies Background at three dots."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "La Famiglia Giovanni — Glamour Desbotado",
+        "en": "La Famiglia Giovanni — Faded Glamor"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 227 · 2",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Até recentemente, para um Membro de fora, Clã da Morte significava família Giovanni. Suas origens são anteriores ao Império Romano, quando eram Ioveanus ou Jovianos, e sempre interferiram nos assuntos dos Membros. Sabiam jogar melhor que todos e cultivavam a imagem de Membros diabólicos para equilibrar medo e respeito entre rivais e parentes.\n\nIdentificar família e clã foi uma ficção útil durante séculos, até o Vaticano e o FBI unirem forças contra ambos. A reputação deixou registros; a Segunda Inquisição atingiu todos os lacaios e contas bancárias que encontrou. A Reunião da Família trouxe segurança por meio de novo anonimato. Os sobreviventes, porém, ressentem-se de se esconder e de linhagens emergentes descartarem a história por segurança ou conveniência política. Os verdadeiros Giovanni se acostumaram ao topo e matarão para mantê-lo. Ninguém luta como uma família."
+          },
+          {
+            "title": "Glamour Desbotado",
+            "text": "Ser Giovanni ainda significa algo, mesmo que o nome não seja mais o do clã. Hábitos e obediência persistem no Clã da Morte. Uma vez por sessão, acrescente um sucesso automático a um teste social contra outro Membro Hecata, carniçal ou lacaio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Until recently, whenever an outsider Kindred thought about the Clan of Death, they pictured the Giovanni family. Their origins stretch back before the Roman Empire (when they were known as the Ioveanus or Jovians), and the entire time they’ve had their hands in Kindred affairs. The original Giovanni family knew how to play the game better than anyone, crafting an identity as “Devil Kindred” to strike the right balance of fear and respect in their rivals — and their relatives. Identifying the Giovanni family with the Clan of Death was a useful fiction for centuries, until the Vatican and\n\nthe FBI joined forces against the clan — starting with the family. Reputation comes with records, and the Second Inquisition rolled up every family retainer and bank account it could find. When the Family Reunion restructured the Clan of Death, the surviving Giovanni found safety in new anonymity. But they resented having to hide themselves, and further resented upstart bloodlines tossing out years of family history for security or worse, for political convenience. The “true Giovanni” have grown used to being top dogs, and they’ll murder to retain that position. After all, no one fights like a family."
+          },
+          {
+            "title": "Faded Glamor",
+            "text": "Being a Giovanni still means something, even if it’s not your name on the clan anymore. Old habits die hard, and the instinct to obey is still ingrained in much of the Clan of Death. Once per session, you can add one automatic success to any social roll against another Hecata Kindred, ghoul, or retainer."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni-players-guide-v5-3",
+      "book": "players-guide-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "La Famiglia Giovanni — Dinheiro Miúdo",
+        "en": "La Famiglia Giovanni — Petty Cash"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 227 · 3",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Até recentemente, para um Membro de fora, Clã da Morte significava família Giovanni. Suas origens são anteriores ao Império Romano, quando eram Ioveanus ou Jovianos, e sempre interferiram nos assuntos dos Membros. Sabiam jogar melhor que todos e cultivavam a imagem de Membros diabólicos para equilibrar medo e respeito entre rivais e parentes.\n\nIdentificar família e clã foi uma ficção útil durante séculos, até o Vaticano e o FBI unirem forças contra ambos. A reputação deixou registros; a Segunda Inquisição atingiu todos os lacaios e contas bancárias que encontrou. A Reunião da Família trouxe segurança por meio de novo anonimato. Os sobreviventes, porém, ressentem-se de se esconder e de linhagens emergentes descartarem a história por segurança ou conveniência política. Os verdadeiros Giovanni se acostumaram ao topo e matarão para mantê-lo. Ninguém luta como uma família."
+          },
+          {
+            "title": "Dinheiro Miúdo",
+            "text": "A família começou no comércio e conhece o poder do dinheiro. Como cria favorecida, você acessa uma conta substancial. Receba quatro pontos gratuitos para distribuir entre Recursos e Lacaios; os anciões da família podem retomá-los a qualquer momento, sobretudo se você os contrariar."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Until recently, whenever an outsider Kindred thought about the Clan of Death, they pictured the Giovanni family. Their origins stretch back before the Roman Empire (when they were known as the Ioveanus or Jovians), and the entire time they’ve had their hands in Kindred affairs. The original Giovanni family knew how to play the game better than anyone, crafting an identity as “Devil Kindred” to strike the right balance of fear and respect in their rivals — and their relatives. Identifying the Giovanni family with the Clan of Death was a useful fiction for centuries, until the Vatican and\n\nthe FBI joined forces against the clan — starting with the family. Reputation comes with records, and the Second Inquisition rolled up every family retainer and bank account it could find. When the Family Reunion restructured the Clan of Death, the surviving Giovanni found safety in new anonymity. But they resented having to hide themselves, and further resented upstart bloodlines tossing out years of family history for security or worse, for political convenience. The “true Giovanni” have grown used to being top dogs, and they’ll murder to retain that position. After all, no one fights like a family."
+          },
+          {
+            "title": "Petty Cash",
+            "text": "The Giovanni started as merchants, and they still know the power of cold, hard cash. As one of the favored childer of the family, you have access to a substantial bank account. You get four dots to spread among the Resources and Retainers Backgrounds for free, but these dots can be pulled back by elder members of the family at any time, especially if you cross them."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni-players-guide-v5-4",
+      "book": "players-guide-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "La Famiglia Giovanni — Servo Espectral",
+        "en": "La Famiglia Giovanni — Spectre Servant"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 227 · 4",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Até recentemente, para um Membro de fora, Clã da Morte significava família Giovanni. Suas origens são anteriores ao Império Romano, quando eram Ioveanus ou Jovianos, e sempre interferiram nos assuntos dos Membros. Sabiam jogar melhor que todos e cultivavam a imagem de Membros diabólicos para equilibrar medo e respeito entre rivais e parentes.\n\nIdentificar família e clã foi uma ficção útil durante séculos, até o Vaticano e o FBI unirem forças contra ambos. A reputação deixou registros; a Segunda Inquisição atingiu todos os lacaios e contas bancárias que encontrou. A Reunião da Família trouxe segurança por meio de novo anonimato. Os sobreviventes, porém, ressentem-se de se esconder e de linhagens emergentes descartarem a história por segurança ou conveniência política. Os verdadeiros Giovanni se acostumaram ao topo e matarão para mantê-lo. Ninguém luta como uma família."
+          },
+          {
+            "title": "Servo Espectral",
+            "text": "A família sabe escravizar espíritos. Você herdou ou capturou um espectro como servo. Este Aliado usa a ficha de espectro do Livro Básico, p. 377. Ele deseja se libertar e devorar seu espírito. Até conseguir, pode ser convocado uma vez por sessão, chegando em até 10 horas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Until recently, whenever an outsider Kindred thought about the Clan of Death, they pictured the Giovanni family. Their origins stretch back before the Roman Empire (when they were known as the Ioveanus or Jovians), and the entire time they’ve had their hands in Kindred affairs. The original Giovanni family knew how to play the game better than anyone, crafting an identity as “Devil Kindred” to strike the right balance of fear and respect in their rivals — and their relatives. Identifying the Giovanni family with the Clan of Death was a useful fiction for centuries, until the Vatican and\n\nthe FBI joined forces against the clan — starting with the family. Reputation comes with records, and the Second Inquisition rolled up every family retainer and bank account it could find. When the Family Reunion restructured the Clan of Death, the surviving Giovanni found safety in new anonymity. But they resented having to hide themselves, and further resented upstart bloodlines tossing out years of family history for security or worse, for political convenience. The “true Giovanni” have grown used to being top dogs, and they’ll murder to retain that position. After all, no one fights like a family."
+          },
+          {
+            "title": "Spectre Servant",
+            "text": "There’s a lot the family is good at, but in particular they’re excellent at enslaving the spirits of the dead to their will. You have inherited or personally captured a spectre to act as your servant. This Ally uses the spectre stats (Vampire: The Masquerade, p. 377). The spectre wants nothing more than to break the leash and devour your spirit. Until then, they can be summoned once per session and arrive within 10 hours."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni-players-guide-v5-5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "La Famiglia Giovanni — Aspirante a Anziano",
+        "en": "La Famiglia Giovanni — Aspiring Anziano"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 227 · 5",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Até recentemente, para um Membro de fora, Clã da Morte significava família Giovanni. Suas origens são anteriores ao Império Romano, quando eram Ioveanus ou Jovianos, e sempre interferiram nos assuntos dos Membros. Sabiam jogar melhor que todos e cultivavam a imagem de Membros diabólicos para equilibrar medo e respeito entre rivais e parentes.\n\nIdentificar família e clã foi uma ficção útil durante séculos, até o Vaticano e o FBI unirem forças contra ambos. A reputação deixou registros; a Segunda Inquisição atingiu todos os lacaios e contas bancárias que encontrou. A Reunião da Família trouxe segurança por meio de novo anonimato. Os sobreviventes, porém, ressentem-se de se esconder e de linhagens emergentes descartarem a história por segurança ou conveniência política. Os verdadeiros Giovanni se acostumaram ao topo e matarão para mantê-lo. Ninguém luta como uma família."
+          },
+          {
+            "title": "Aspirante a Anziano",
+            "text": "Você chegou ao topo da política oculta da Reunião da Família por habilidade, zelo cruel e, principalmente, por saber onde os corpos estão enterrados. Receba cinco pontos de Status nos Hecata e uma audiência particular com o Capuchinho a cada poucas histórias. Não abuse da sorte, ou você se juntará aos cadáveres."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Until recently, whenever an outsider Kindred thought about the Clan of Death, they pictured the Giovanni family. Their origins stretch back before the Roman Empire (when they were known as the Ioveanus or Jovians), and the entire time they’ve had their hands in Kindred affairs. The original Giovanni family knew how to play the game better than anyone, crafting an identity as “Devil Kindred” to strike the right balance of fear and respect in their rivals — and their relatives. Identifying the Giovanni family with the Clan of Death was a useful fiction for centuries, until the Vatican and\n\nthe FBI joined forces against the clan — starting with the family. Reputation comes with records, and the Second Inquisition rolled up every family retainer and bank account it could find. When the Family Reunion restructured the Clan of Death, the surviving Giovanni found safety in new anonymity. But they resented having to hide themselves, and further resented upstart bloodlines tossing out years of family history for security or worse, for political convenience. The “true Giovanni” have grown used to being top dogs, and they’ll murder to retain that position. After all, no one fights like a family."
+          },
+          {
+            "title": "Aspiring Anziano",
+            "text": "You have managed to work your way through the hidden politics of the Family Reunion and come out on top. You’ve done so partially from political skill and ruthless zeal, but mostly because you know where the bodies are buried (in every sense). You get five dots of Status among the Hecata, and you can get a private audience with the Capuchin every few stories. Just don’t push your luck, or you’ll join the corpses."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "La Famiglia Giovanni — Coisa de Primo",
+        "en": "La Famiglia Giovanni — A Cousin’s Ear"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 225 · 1",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Coisa de Primo",
+            "text": "Mesmo parentes que se odeiam seguem o código de compartilhar informação, que os fez sobreviver da queda de Roma à Segunda Inquisição. Uma vez por sessão, faça uma pergunta direta a outro Giovanni e receba uma resposta direta; em troca, responda uma pergunta. Uma vez por história, também peça um favor aos parentes mortais como se tivesse Aliados 3."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "A Cousin’s Ear",
+            "text": "Even if family members hate each other, the whole family lives by a certain code to share information — that’s how they’ve survived everything from the fall of the Roman Empire to the Second Inquisition. Once per session, you can ask a direct question of another member of the Giovanni family, and get a straight answer. However, you have to answer a question in return. You can also ask a favor of mortal members of the family once per story, as if you had the Allies Background at three dots."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "La Famiglia Giovanni — Resquício de Glamour",
+        "en": "La Famiglia Giovanni — Faded Glamor"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 225 · 2",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Resquício de Glamour",
+            "text": "Ser Giovanni ainda significa algo, mesmo que o nome não seja mais o do clã. Hábitos e obediência persistem no Clã da Morte. Uma vez por sessão, acrescente um sucesso automático a um teste social contra outro Membro Hecata, carniçal ou lacaio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Faded Glamor",
+            "text": "Being a Giovanni still means something, even if it’s not your name on the clan anymore. Old habits die hard, and the instinct to obey is still ingrained in much of the Clan of Death. Once per session, you can add one automatic success to any social roll against another Hecata Kindred, ghoul, or retainer."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "La Famiglia Giovanni — Dinheiro Trocado",
+        "en": "La Famiglia Giovanni — Petty Cash"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 225 · 3",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Dinheiro Trocado",
+            "text": "A família começou no comércio e conhece o poder do dinheiro. Como cria favorecida, você acessa uma conta substancial. Receba quatro pontos gratuitos para distribuir entre Recursos e Lacaios; os anciões da família podem retomá-los a qualquer momento, sobretudo se você os contrariar."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Petty Cash",
+            "text": "The Giovanni started as merchants, and they still know the power of cold, hard cash. As one of the favored childer of the family, you have access to a substantial bank account. You get four dots to spread among the Resources and Retainers Backgrounds for free, but these dots can be pulled back by elder members of the family at any time, especially if you cross them."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "La Famiglia Giovanni — Servo Espectral",
+        "en": "La Famiglia Giovanni — Spectre Servant"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 225 · 4",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Servo Espectral",
+            "text": "A família sabe escravizar espíritos. Você herdou ou capturou um espectro como servo. Este Aliado usa a ficha de espectro do Livro Básico, p. 377. Ele deseja se libertar e devorar seu espírito. Até conseguir, pode ser convocado uma vez por sessão, chegando em até 10 horas. Nesta fonte, trate o espectro como um Aliado de quatro pontos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Spectre Servant",
+            "text": "There’s a lot the family is good at, but in particular they’re excellent at enslaving the spirits of the dead to their will. You have inherited or personally captured a spectre to act as your servant. This Ally uses the spectre stats (Vampire: The Masquerade, p. 377). The spectre wants nothing more than to break the leash and devour your spirit. Until then, they can be summoned once per session and arrive within 10 hours. In this source, treat the wraith as a four-dot Ally."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "La Famiglia Giovanni — Aspirante a Anziani",
+        "en": "La Famiglia Giovanni — Aspiring Anziano"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 225 · 5",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aspirante a Anziani",
+            "text": "Você chegou ao topo da política oculta da Reunião da Família por habilidade, zelo cruel e, principalmente, por saber onde os corpos estão enterrados. Receba cinco pontos de Status nos Hecata e uma audiência particular com o Capuchinho a cada poucas histórias. Não abuse da sorte, ou você se juntará aos cadáveres."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Aspiring Anziano",
+            "text": "You have managed to work your way through the hidden politics of the Family Reunion and come out on top. You’ve done so partially from political skill and ruthless zeal, but mostly because you know where the bodies are buried (in every sense). You get five dots of Status among the Hecata, and you can get a private audience with the Capuchin every few stories. Just don’t push your luck, or you’ll join the corpses."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

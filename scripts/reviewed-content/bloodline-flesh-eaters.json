@@ -1,0 +1,590 @@
+{
+  "id": "bloodline-flesh-eaters",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Devoradores de Carne",
+    "en": "Flesh-Eaters"
+  },
+  "aliases": [
+    "Devoradores de Carne",
+    "Flesh-Eaters",
+    "Devoradores de Carne — Víscera",
+    "Flesh-Eaters — Viscus",
+    "Devoradores de Carne — Espírito Invisível",
+    "Flesh-Eaters — Unseen Spirit",
+    "Devoradores de Carne — O Assassinato Perfeito",
+    "Flesh-Eaters — The Perfect Murder",
+    "Devoradores de Carne — Envie um Assassino",
+    "Flesh-Eaters — Send a Murderer",
+    "Devoradores de Carne — Mordida Monstruosa",
+    "Flesh-Eaters — Monstrous Bite",
+    "Devoradores de Carne — Encontrar Assassino"
+  ],
+  "versions": [
+    {
+      "id": "bloodline-flesh-eaters-players-guide-v5-1",
+      "book": "players-guide-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Devoradores de Carne — Víscera",
+        "en": "Flesh-Eaters — Viscus"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 225 · 1",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Os Nagaraja são os mais rebeldes de um clã cheio de rebeldes. Acreditam ser os primeiros necromantes e celebram a dificuldade de traçar sua linhagem até um Antediluviano conhecido. Dizem que dominaram as terras dos mortos, adaptando o Sangue para viver lá; talvez essa Cerimônia os tenha levado a comer carne humana em vez de beber sangue. Esperam um dia voltar a dominar o Mundo Inferior.\n\nPoucos e terríveis, capturam mortais e retiram sua carne e sangue noite após noite, mantendo-os vivos com primeiros socorros e Vitae. Sua sociedade dispersa é unida pela afinidade com fantasmas, pelo domínio de Oblívio antes das outras Disciplinas e pela crença de que o tormento físico e espiritual aproxima testemunhas e vítimas dos mistérios da vida, morte e não vida.\n\nAlguns compareceram à Reunião da Família, alegando terem fugido de uma catástrofe. Foram confundidos com Dunsirn radicais, mas, diante desses especialistas, os banqueiros são apenas amadores do canibalismo. Evitar a atenção de mortais e Membros os tornou assassinos seriais eficientes, úteis ao novo clã. Podem não precisar mais de carne como antes, mas conservam suas habilidades; alguns jamais perderam o gosto."
+          },
+          {
+            "title": "Víscera",
+            "text": "Você ainda pode comer carne em vez de beber sangue. Morder um mortal e causar uma ferida agravada funciona, nos demais aspectos, como beber sangue. Também pode comer cadáveres frescos, embora o gosto não seja tão bom."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "The Nagaraja are the most wayward of vampires in a clan now full of wayward vampires. They believe themselves to be the first ever necromancers. They revel in the fact that their lineage is not easy to trace back to one of the known Antediluvians. They believe they once mastered the lands of the dead, having converted their Blood to live in such a place. And, perhaps as a result of said Ceremony, they ate human flesh in lieu of drinking blood. They believe one night they can become masters of the Underworld again. The Nagaraja are rightly seen as bogeymen, as they number but few and advocate for the horrible practice of capturing mortals and stripping them of flesh and blood night after night, while keeping them alive through first aid and gifts of vitae. As a disparate group, they have little that binds them as a society beyond their affinity for ghosts (most master Oblivion ahead of any other Discipline) and their belief that torment of the body and spirit brings any witnesses (or victims) closer to the mysteries of life, death, and undeath. A handful of Nagaraja showed up to the Family Reunion, claiming some kind of catastrophe drove them out of their home. Initially they were believed to be some kind of radical form of Dunsirn, but while the bankers are hobbyists in the realm of cannibalism, the Nagaraja are experts. Years of avoiding attention from both mortals and Kindred society have honed them into efficient serial killers — quite useful to their new clan-mates. They may no longer need flesh the way they did, but their skills are still useful in this new age. And some never lost the taste."
+          },
+          {
+            "title": "Viscus",
+            "text": "You can still eat flesh in lieu of drinking blood — biting a mortal and causing an Aggravated wound acts in all other ways like drinking blood for you. You can also eat fresh corpses, although the taste is not as good."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-flesh-eaters-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Devoradores de Carne — Espírito Invisível",
+        "en": "Flesh-Eaters — Unseen Spirit"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 225 · 2",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Os Nagaraja são os mais rebeldes de um clã cheio de rebeldes. Acreditam ser os primeiros necromantes e celebram a dificuldade de traçar sua linhagem até um Antediluviano conhecido. Dizem que dominaram as terras dos mortos, adaptando o Sangue para viver lá; talvez essa Cerimônia os tenha levado a comer carne humana em vez de beber sangue. Esperam um dia voltar a dominar o Mundo Inferior.\n\nPoucos e terríveis, capturam mortais e retiram sua carne e sangue noite após noite, mantendo-os vivos com primeiros socorros e Vitae. Sua sociedade dispersa é unida pela afinidade com fantasmas, pelo domínio de Oblívio antes das outras Disciplinas e pela crença de que o tormento físico e espiritual aproxima testemunhas e vítimas dos mistérios da vida, morte e não vida.\n\nAlguns compareceram à Reunião da Família, alegando terem fugido de uma catástrofe. Foram confundidos com Dunsirn radicais, mas, diante desses especialistas, os banqueiros são apenas amadores do canibalismo. Evitar a atenção de mortais e Membros os tornou assassinos seriais eficientes, úteis ao novo clã. Podem não precisar mais de carne como antes, mas conservam suas habilidades; alguns jamais perderam o gosto."
+          },
+          {
+            "title": "Espírito Invisível",
+            "text": "Alguns Nagaraja se tornam invisíveis a fantasmas e espíritos. Se não tiver acesso a Ofuscação, receba gratuitamente um poder próprio que funciona como Manto de Sombras, mas somente contra espíritos e fantasmas; isso não concede necessariamente a Disciplina. Se possuir ou posteriormente adquirir Ofuscação, todos os seus poderes da Disciplina passam a funcionar também contra fantasmas e espíritos, além de seus efeitos normais."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "The Nagaraja are the most wayward of vampires in a clan now full of wayward vampires. They believe themselves to be the first ever necromancers. They revel in the fact that their lineage is not easy to trace back to one of the known Antediluvians. They believe they once mastered the lands of the dead, having converted their Blood to live in such a place. And, perhaps as a result of said Ceremony, they ate human flesh in lieu of drinking blood. They believe one night they can become masters of the Underworld again. The Nagaraja are rightly seen as bogeymen, as they number but few and advocate for the horrible practice of capturing mortals and stripping them of flesh and blood night after night, while keeping them alive through first aid and gifts of vitae. As a disparate group, they have little that binds them as a society beyond their affinity for ghosts (most master Oblivion ahead of any other Discipline) and their belief that torment of the body and spirit brings any witnesses (or victims) closer to the mysteries of life, death, and undeath. A handful of Nagaraja showed up to the Family Reunion, claiming some kind of catastrophe drove them out of their home. Initially they were believed to be some kind of radical form of Dunsirn, but while the bankers are hobbyists in the realm of cannibalism, the Nagaraja are experts. Years of avoiding attention from both mortals and Kindred society have honed them into efficient serial killers — quite useful to their new clan-mates. They may no longer need flesh the way they did, but their skills are still useful in this new age. And some never lost the taste."
+          },
+          {
+            "title": "Unseen Spirit",
+            "text": "Some of the Nagaraja can make themselves unseen to ghosts and spirits. If you do not already have access to the Obfuscate Discipline, take Cloak of Shadows (Vampire: The Masquerade, p. 261) at no cost — you do not necessarily have the Obfuscate Discipline, but rather a special power of your own. This power works like Cloak of Shadows, except that it only works against spirits and ghosts. If you do have (or later acquire) Obfuscate, instead all your Obfuscate powers work against ghosts and spirits in addition to their usual effects."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-flesh-eaters-players-guide-v5-3",
+      "book": "players-guide-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Devoradores de Carne — O Assassinato Perfeito",
+        "en": "Flesh-Eaters — The Perfect Murder"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 225 · 3",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Os Nagaraja são os mais rebeldes de um clã cheio de rebeldes. Acreditam ser os primeiros necromantes e celebram a dificuldade de traçar sua linhagem até um Antediluviano conhecido. Dizem que dominaram as terras dos mortos, adaptando o Sangue para viver lá; talvez essa Cerimônia os tenha levado a comer carne humana em vez de beber sangue. Esperam um dia voltar a dominar o Mundo Inferior.\n\nPoucos e terríveis, capturam mortais e retiram sua carne e sangue noite após noite, mantendo-os vivos com primeiros socorros e Vitae. Sua sociedade dispersa é unida pela afinidade com fantasmas, pelo domínio de Oblívio antes das outras Disciplinas e pela crença de que o tormento físico e espiritual aproxima testemunhas e vítimas dos mistérios da vida, morte e não vida.\n\nAlguns compareceram à Reunião da Família, alegando terem fugido de uma catástrofe. Foram confundidos com Dunsirn radicais, mas, diante desses especialistas, os banqueiros são apenas amadores do canibalismo. Evitar a atenção de mortais e Membros os tornou assassinos seriais eficientes, úteis ao novo clã. Podem não precisar mais de carne como antes, mas conservam suas habilidades; alguns jamais perderam o gosto."
+          },
+          {
+            "title": "O Assassinato Perfeito",
+            "text": "Você sabe planejar assassinatos. Se tiver pelo menos uma noite para planejar um assassinato intencional e a sangue-frio, receba um sucesso adicional em todas as rolagens da cena do crime. Esses sucessos são anulados por alguém que possua Envie um Assassino, o benefício seguinte desta linhagem."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "The Nagaraja are the most wayward of vampires in a clan now full of wayward vampires. They believe themselves to be the first ever necromancers. They revel in the fact that their lineage is not easy to trace back to one of the known Antediluvians. They believe they once mastered the lands of the dead, having converted their Blood to live in such a place. And, perhaps as a result of said Ceremony, they ate human flesh in lieu of drinking blood. They believe one night they can become masters of the Underworld again. The Nagaraja are rightly seen as bogeymen, as they number but few and advocate for the horrible practice of capturing mortals and stripping them of flesh and blood night after night, while keeping them alive through first aid and gifts of vitae. As a disparate group, they have little that binds them as a society beyond their affinity for ghosts (most master Oblivion ahead of any other Discipline) and their belief that torment of the body and spirit brings any witnesses (or victims) closer to the mysteries of life, death, and undeath. A handful of Nagaraja showed up to the Family Reunion, claiming some kind of catastrophe drove them out of their home. Initially they were believed to be some kind of radical form of Dunsirn, but while the bankers are hobbyists in the realm of cannibalism, the Nagaraja are experts. Years of avoiding attention from both mortals and Kindred society have honed them into efficient serial killers — quite useful to their new clan-mates. They may no longer need flesh the way they did, but their skills are still useful in this new age. And some never lost the taste."
+          },
+          {
+            "title": "The Perfect Murder",
+            "text": "You have a lot of experience in planning murders. As long as you have at least a night to plan a cold-blooded, intentional murder, you get one extra success on all rolls for that murder scene. These successes are negated by someone who possesses the Send a Murderer Bloodline ability (below)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-flesh-eaters-players-guide-v5-4",
+      "book": "players-guide-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Devoradores de Carne — Envie um Assassino",
+        "en": "Flesh-Eaters — Send a Murderer"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 225 · 4",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Os Nagaraja são os mais rebeldes de um clã cheio de rebeldes. Acreditam ser os primeiros necromantes e celebram a dificuldade de traçar sua linhagem até um Antediluviano conhecido. Dizem que dominaram as terras dos mortos, adaptando o Sangue para viver lá; talvez essa Cerimônia os tenha levado a comer carne humana em vez de beber sangue. Esperam um dia voltar a dominar o Mundo Inferior.\n\nPoucos e terríveis, capturam mortais e retiram sua carne e sangue noite após noite, mantendo-os vivos com primeiros socorros e Vitae. Sua sociedade dispersa é unida pela afinidade com fantasmas, pelo domínio de Oblívio antes das outras Disciplinas e pela crença de que o tormento físico e espiritual aproxima testemunhas e vítimas dos mistérios da vida, morte e não vida.\n\nAlguns compareceram à Reunião da Família, alegando terem fugido de uma catástrofe. Foram confundidos com Dunsirn radicais, mas, diante desses especialistas, os banqueiros são apenas amadores do canibalismo. Evitar a atenção de mortais e Membros os tornou assassinos seriais eficientes, úteis ao novo clã. Podem não precisar mais de carne como antes, mas conservam suas habilidades; alguns jamais perderam o gosto."
+          },
+          {
+            "title": "Envie um Assassino",
+            "text": "Você é assassino serial ou os estudou bastante. Receba dois dados adicionais para estudar cenas de assassinato ou rastrear assassinos. Também colaborou com autoridades mortais, dos Membros ou ambas, por mensagens anônimas ou como consultor. Receba três pontos para distribuir entre Contatos na polícia, Contatos com investigadores da sociedade dos Membros e Status."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "The Nagaraja are the most wayward of vampires in a clan now full of wayward vampires. They believe themselves to be the first ever necromancers. They revel in the fact that their lineage is not easy to trace back to one of the known Antediluvians. They believe they once mastered the lands of the dead, having converted their Blood to live in such a place. And, perhaps as a result of said Ceremony, they ate human flesh in lieu of drinking blood. They believe one night they can become masters of the Underworld again. The Nagaraja are rightly seen as bogeymen, as they number but few and advocate for the horrible practice of capturing mortals and stripping them of flesh and blood night after night, while keeping them alive through first aid and gifts of vitae. As a disparate group, they have little that binds them as a society beyond their affinity for ghosts (most master Oblivion ahead of any other Discipline) and their belief that torment of the body and spirit brings any witnesses (or victims) closer to the mysteries of life, death, and undeath. A handful of Nagaraja showed up to the Family Reunion, claiming some kind of catastrophe drove them out of their home. Initially they were believed to be some kind of radical form of Dunsirn, but while the bankers are hobbyists in the realm of cannibalism, the Nagaraja are experts. Years of avoiding attention from both mortals and Kindred society have honed them into efficient serial killers — quite useful to their new clan-mates. They may no longer need flesh the way they did, but their skills are still useful in this new age. And some never lost the taste."
+          },
+          {
+            "title": "Send a Murderer",
+            "text": "You’re a serial killer, or maybe you’ve spent a lot of time studying them. You get two extra dice on rolls to study murder scenes or track down killers. In addition, you’ve worked with law officials (mortal, Kindred, or both) on some cases, whether it’s through sending them anonymous emails or as a direct consultant. You have three dots to spend between Contacts with the police force, Contacts with investigators in Kindred society, and Status."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-flesh-eaters-players-guide-v5-5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Devoradores de Carne — Mordida Monstruosa",
+        "en": "Flesh-Eaters — Monstrous Bite"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 225 · 5",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Os Nagaraja são os mais rebeldes de um clã cheio de rebeldes. Acreditam ser os primeiros necromantes e celebram a dificuldade de traçar sua linhagem até um Antediluviano conhecido. Dizem que dominaram as terras dos mortos, adaptando o Sangue para viver lá; talvez essa Cerimônia os tenha levado a comer carne humana em vez de beber sangue. Esperam um dia voltar a dominar o Mundo Inferior.\n\nPoucos e terríveis, capturam mortais e retiram sua carne e sangue noite após noite, mantendo-os vivos com primeiros socorros e Vitae. Sua sociedade dispersa é unida pela afinidade com fantasmas, pelo domínio de Oblívio antes das outras Disciplinas e pela crença de que o tormento físico e espiritual aproxima testemunhas e vítimas dos mistérios da vida, morte e não vida.\n\nAlguns compareceram à Reunião da Família, alegando terem fugido de uma catástrofe. Foram confundidos com Dunsirn radicais, mas, diante desses especialistas, os banqueiros são apenas amadores do canibalismo. Evitar a atenção de mortais e Membros os tornou assassinos seriais eficientes, úteis ao novo clã. Podem não precisar mais de carne como antes, mas conservam suas habilidades; alguns jamais perderam o gosto."
+          },
+          {
+            "title": "Mordida Monstruosa",
+            "text": "Ao atacar ou se alimentar, seus dentes se alongam em adagas compridas, abertas e cruéis que saem da boca. Ao atacar com a mordida, não sofra penalidade por golpe localizado, receba um sucesso adicional em todas as rolagens de Intimidação e aumente o dano da mordida para 3."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "The Nagaraja are the most wayward of vampires in a clan now full of wayward vampires. They believe themselves to be the first ever necromancers. They revel in the fact that their lineage is not easy to trace back to one of the known Antediluvians. They believe they once mastered the lands of the dead, having converted their Blood to live in such a place. And, perhaps as a result of said Ceremony, they ate human flesh in lieu of drinking blood. They believe one night they can become masters of the Underworld again. The Nagaraja are rightly seen as bogeymen, as they number but few and advocate for the horrible practice of capturing mortals and stripping them of flesh and blood night after night, while keeping them alive through first aid and gifts of vitae. As a disparate group, they have little that binds them as a society beyond their affinity for ghosts (most master Oblivion ahead of any other Discipline) and their belief that torment of the body and spirit brings any witnesses (or victims) closer to the mysteries of life, death, and undeath. A handful of Nagaraja showed up to the Family Reunion, claiming some kind of catastrophe drove them out of their home. Initially they were believed to be some kind of radical form of Dunsirn, but while the bankers are hobbyists in the realm of cannibalism, the Nagaraja are experts. Years of avoiding attention from both mortals and Kindred society have honed them into efficient serial killers — quite useful to their new clan-mates. They may no longer need flesh the way they did, but their skills are still useful in this new age. And some never lost the taste."
+          },
+          {
+            "title": "Monstrous Bite",
+            "text": "When ready to attack or feed, your teeth extend to lengthy, splayed, and vicious daggers that protrude from your mouth. When attacking with your bite, you suffer no called shot penalty, gain one extra success on all Intimidation rolls, and increase your bite damage to 3."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-flesh-eaters-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Devoradores de Carne — Víscera",
+        "en": "Flesh-Eaters — Viscus"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 223 · 1",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 223,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Víscera",
+            "text": "Você ainda pode comer carne em vez de beber sangue. Morder um mortal e causar uma ferida agravada funciona, nos demais aspectos, como beber sangue. Também pode comer cadáveres frescos, embora o gosto não seja tão bom. A taxa é de um ponto de Fome saciado por ponto de dano causado."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Viscus",
+            "text": "You can still eat flesh in lieu of drinking blood — biting a mortal and causing an Aggravated wound acts in all other ways like drinking blood for you. You can also eat fresh corpses, although the taste is not as good. The rate is one Hunger slaked per point of damage inflicted."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-flesh-eaters-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Devoradores de Carne — Espírito Invisível",
+        "en": "Flesh-Eaters — Unseen Spirit"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 223 · 2",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 223,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Espírito Invisível",
+            "text": "Alguns Nagaraja se tornam invisíveis a fantasmas e espíritos. Se não tiver acesso a Ofuscação, receba gratuitamente um poder próprio que funciona como Manto de Sombras, mas somente contra espíritos e fantasmas; isso não concede necessariamente a Disciplina. Se possuir ou posteriormente adquirir Ofuscação, todos os seus poderes da Disciplina passam a funcionar também contra fantasmas e espíritos, além de seus efeitos normais."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Unseen Spirit",
+            "text": "Some of the Nagaraja can make themselves unseen to ghosts and spirits. If you do not already have access to the Obfuscate Discipline, take Cloak of Shadows (Vampire: The Masquerade, p. 261) at no cost — you do not necessarily have the Obfuscate Discipline, but rather a special power of your own. This power works like Cloak of Shadows, except that it only works against spirits and ghosts. If you do have (or later acquire) Obfuscate, instead all your Obfuscate powers work against ghosts and spirits in addition to their usual effects."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-flesh-eaters-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Devoradores de Carne — O Assassinato Perfeito",
+        "en": "Flesh-Eaters — The Perfect Murder"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 223 · 3",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 223,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Assassinato Perfeito",
+            "text": "Você sabe planejar assassinatos. Se tiver pelo menos uma noite para planejar um assassinato intencional e a sangue-frio, receba um sucesso adicional em todas as rolagens da cena do crime. Esses sucessos são anulados por alguém que possua Envie um Assassino, o benefício seguinte desta linhagem."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Perfect Murder",
+            "text": "You have a lot of experience in planning murders. As long as you have at least a night to plan a cold-blooded, intentional murder, you get one extra success on all rolls for that murder scene. These successes are negated by someone who possesses the Send a Murderer Bloodline ability (below)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-flesh-eaters-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Devoradores de Carne — Encontrar Assassino",
+        "en": "Flesh-Eaters — Send a Murderer"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 223 · 4",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 223,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Encontrar Assassino",
+            "text": "Você é assassino serial ou os estudou bastante. Receba dois dados adicionais para estudar cenas de assassinato ou rastrear assassinos. Também colaborou com autoridades mortais, dos Membros ou ambas, por mensagens anônimas ou como consultor. Receba três pontos para distribuir entre Contatos na polícia, Contatos com investigadores da sociedade dos Membros e Status."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Send a Murderer",
+            "text": "You’re a serial killer, or maybe you’ve spent a lot of time studying them. You get two extra dice on rolls to study murder scenes or track down killers. In addition, you’ve worked with law officials (mortal, Kindred, or both) on some cases, whether it’s through sending them anonymous emails or as a direct consultant. You have three dots to spend between Contacts with the police force, Contacts with investigators in Kindred society, and Status."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-flesh-eaters-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Devoradores de Carne — Mordida Monstruosa",
+        "en": "Flesh-Eaters — Monstrous Bite"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 223 · 5",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 223,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Mordida Monstruosa",
+            "text": "Ao atacar ou se alimentar, seus dentes se alongam em adagas compridas, abertas e cruéis que saem da boca. Ao atacar com a mordida, não sofra penalidade por golpe localizado, receba um sucesso adicional em todas as rolagens de Intimidação e aumente o dano da mordida para 3."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Monstrous Bite",
+            "text": "When ready to attack or feed, your teeth extend to lengthy, splayed, and vicious daggers that protrude from your mouth. When attacking with your bite, you suffer no called shot penalty, gain one extra success on all Intimidation rolls, and increase your bite damage to 3."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-eletria",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Eletria",
+    "en": "Eletria"
+  },
+  "aliases": [
+    "Eletria",
+    "Eletria — Musa",
+    "Eletria — Muse",
+    "Eletria — Retrato de uma mulher",
+    "Eletria — Portrait of a Woman",
+    "Eletria — Isso é Esparta",
+    "Eletria — This is sparta",
+    "Eletria — beleza sem idade",
+    "Eletria — ageless beauty",
+    "Eletria — Consumo Conspícuo",
+    "Eletria — Conspicuous Consumption"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-eletria-let-the-streets-run-red-v5-1",
+      "book": "let-the-streets-run-red-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Eletria — Musa",
+        "en": "Eletria — Muse"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 225 · 1",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 225
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Musa",
+            "text": "A Eletria viu um grande potencial em você e acendeu as brasas do seu talento. Todas as testes de Ofícios (Pintura ou Escultura) ou Performance (Música) têm sua dificuldade reduzida em um."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Muse",
+            "text": "Eletria saw great potential in you and fanned the embers of your talent. All Craft (Painting or Sculpture) or Performance (Music) tests have their difficulty reduced by one."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-eletria-let-the-streets-run-red-v5-2",
+      "book": "let-the-streets-run-red-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Eletria — Retrato de uma mulher",
+        "en": "Eletria — Portrait of a Woman"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 225 · 2",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 225
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Retrato de uma mulher",
+            "text": "Eletria confiou a você uma obra de arte rara e preciosa de profunda importância para ela. Poderia ser o seu querido retrato de Datura nas falésias de Veracruz ou outra pintura, escultura ou peça musical criada por sua mão. Conceder-lhe esta peça é um sinal da sua mais profunda confiança e contém uma parte quase literal da sua alma. Uma vez por capítulo, você pode passar uma hora meditando sobre esta peça e fazer um teste de Determinação + Ofícios (Pintura ou Escultura) ou Performance (Música) na Dificuldade 4 antes de descansar durante o dia. Se for bem sucedido, você acorda tendo recuperado todo o dano superficial de Força de Vontade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Portrait of a Woman",
+            "text": "Eletria entrusted you with a rare and precious piece of art of deep importance to her. It could be her cherished portrait of Datura on the cliffs of Veracruz or another painting, sculpture, or piece of music created by her hand. Granting you this piece is a sign of her deepest trust and contains an almost literal part of her soul. Once per chapter, you can spend an hour meditating upon this piece and make a Resolve + Craft (Painting or Sculpture) or Performance (Music) test at Difficulty 4 before resting for the day. If successful, you awaken having recovered all Superficial Willpower damage."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-eletria-let-the-streets-run-red-v5-3",
+      "book": "let-the-streets-run-red-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Eletria — Isso é Esparta",
+        "en": "Eletria — This is sparta"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 225 · 3",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 225
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Isso é Esparta",
+            "text": "Você serviu sob o comando de Eletria em Veracruz durante sua guerra contra o Sabá ou lutou ao lado dela durante a Guerra de Chicago. Você ganha um dado adicional em todos os testes de Investigação, Erudição e Ocultismo relacionados à defesa de sua cidade contra incursões de seitas hostis."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "This is sparta",
+            "text": "You served under Eletria in Veracruz during her war against the Sabbat or fought by her side during the War of Chicago. You gain a bonus die to all Investigation, Academics, and Occult rolls related to defending your city against hostile sect incursions."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-eletria-let-the-streets-run-red-v5-4",
+      "book": "let-the-streets-run-red-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Eletria — beleza sem idade",
+        "en": "Eletria — ageless beauty"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 225 · 4",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 225
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "beleza sem idade",
+            "text": "Você compartilhou sangue com Eletria e herdou parte da habilidade dela de ver o passado. Você pode ver uma pessoa como ela era em qualquer momento de sua vida (ou não vida). Se tiver inclinação artística, você pode renderizar Membros como eles apareciam séculos atrás com uma precisão chocante. Faça um teste de Raciocínio ou Determinação + Auspícios (dificuldade atribuída por Narrador dependendo de quão longe você tenta ver). Sucesso significa que você capturou uma imagem fotográfica do objeto em sua mente com perfeita precisão e ganhou dois dados de bônus em seu teste Ofícios relevante para replicá-la. Esta habilidade pode ser usada uma vez por sessão."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "ageless beauty",
+            "text": "You shared blood with Eletria and inherited a measure of her ability to see the past. You can see a person as they were at any point in their life (or unlife). If artistically inclined, you can render Kindred as they appeared centuries ago with shocking accuracy. Make a Wits or Resolve + Auspex test (difficulty assigned by Storyteller depending on how far back you attempt to see). Success means you have captured a photographic image of the subject in your mind with perfect accuracy and gain two bonus dice to your relevant Craft test to replicate it. This ability can be used once per session."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-eletria-let-the-streets-run-red-v5-5",
+      "book": "let-the-streets-run-red-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Eletria — Consumo Conspícuo",
+        "en": "Eletria — Conspicuous Consumption"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 225 · 5",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 225
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Consumo Conspícuo",
+            "text": "Sua busca por Eletria leva a Helena. Você integra o círculo de vampiros usado para saciar sua sede e manter o Chamado afastado. O acordo tem benefícios: receba cinco pontos para distribuir entre Mawla, Recursos, Aliados, Rebanho e Contatos. Também pode acessar Helena uma vez por história, embora ela o tenha compelido a não revelar sua presença. Com sorte, essa associação perigosa revelará o destino de Eletria."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Conspicuous Consumption",
+            "text": "Your search for Eletria leads to Helena. You become part of the circle of vampires used to slake her thirst and keep the Beckoning at bay. This arrangement is not without its benefits, as you gain five dots to distribute between Mawla, Resources, Allies, Herd, and Contacts. You also have access to Helena once per story, although she has compelled you not to reveal her presence. If lucky, your perilous association may reveal Eletria’s fate."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

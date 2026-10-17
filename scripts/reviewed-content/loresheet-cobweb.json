@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-cobweb",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "A Teia",
+    "en": "The Cobweb"
+  },
+  "aliases": [
+    "A Teia",
+    "The Cobweb",
+    "A Teia — Uma pausa na estática",
+    "The Cobweb — A Break in the Static",
+    "A Teia — Entre na minha sala",
+    "The Cobweb — Step into My Parlor",
+    "A Teia — Em toda a web",
+    "The Cobweb — Across the Web",
+    "A Teia — Arranque os fios",
+    "The Cobweb — Pluck the Strands",
+    "A Teia — Vontade de Malkav",
+    "The Cobweb — Malkav’s Will"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-cobweb-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "A Teia — Uma pausa na estática",
+        "en": "The Cobweb — A Break in the Static"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 270 · 1",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 270
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Uma pausa na estática",
+            "text": "A Teia é quase imperceptível para você. Você capta trechos esporádicos de conversas, muitas vezes apenas algumas palavras ou imagens distintas. É o suficiente para reunir uma ordem ou um pedido de ajuda, embora você não consiga responder."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "A Break in the Static",
+            "text": "The Cobweb is just barely perceptible to you. You catch sporadic snatches of conversation, often just a few distinct words or images. It’s enough to piece together an order or a call for aid, though you’re unable to respond."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cobweb-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "A Teia — Entre na minha sala",
+        "en": "The Cobweb — Step into My Parlor"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 270 · 2",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 270
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Entre na minha sala",
+            "text": "Você pode se comunicar pela Rede com outros Malkavianos próximos. Essas discussões são fortemente abstratas, limitadas a frases curtas, imagens simples e emoções fortes."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Step into My Parlor",
+            "text": "You can communicate over the Network with other Malkavians nearby. These discussions are heavily abstract, limited to short phrases, simple images, and strong emotions."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cobweb-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "A Teia — Em toda a web",
+        "en": "The Cobweb — Across the Web"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 270 · 3",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 270
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Em toda a web",
+            "text": "Sua voz é uma das mais fortes da Teia. Você pode manter conversas mais envolventes com os Malkavianos em sua cidade. Uma vez por história você pode iniciar a Chamada, enviando impressões da época e local de encontro para todos que puderem ouvir. Isto não garante obediência – pastorear gatos é uma brincadeira de criança comparado a organizar os crias de Malkav."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Across the Web",
+            "text": "Your voice is one of the strongest on the Cobweb. You can hold more involved conversations with Malkavians in your city. Once per story you may initiate the Call, sending impressions of the time and gathering place to all who can hear. This does not guarantee obedience —herding cats is child’s play compared to organizing the children of Malkav."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cobweb-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "A Teia — Arranque os fios",
+        "en": "The Cobweb — Pluck the Strands"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 270 · 4",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 270
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Arranque os fios",
+            "text": "A resistência à tração da seda de aranha rivaliza com a do aço, assim como a força de sua ligação com seus ancestrais e descendentes Cainitas. Uma vez por história, use a Teia para acessar os sentidos de seu senhor ou de uma de suas crias. Você apenas observa; não controla suas reações nem movimentos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Pluck the Strands",
+            "text": "The tensile strength of spider silk rivals steel’s, and your connection to your Cainite ancestors and descendants is equally powerful. Once per story, you may use the cobweb to piggyback on your sire’s or one of your childer’s senses. You are only an observer, and cannot control their responses or their movements."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cobweb-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "A Teia — Vontade de Malkav",
+        "en": "The Cobweb — Malkav’s Will"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 270 · 5",
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 270
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Vontade de Malkav",
+            "text": "A entidade na Teia está desperta e consciente. Eles sabem seu nome e contam seus segredos. Eles têm um plano e querem que você ajude a realizá-lo. Malkav – ou uma consciência que finge ser ele – fala com você diretamente através da Rede. Uma vez por história, você pode pedir ao Narrador para divulgar um segredo sobre outro Malkaviano ou revelar quais ordens a mente na Teia deseja que você siga."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Malkav’s Will",
+            "text": "The entity in the Cobweb is awake and aware. They know your name and tell you their secrets. They have a plan and want you to help carry it out. Malkav — or a consciousness pretending to be him — speaks to you directly via the Network. Once per story, you may ask the Storyteller to divulge a secret about another Malkavian or reveal what orders the mind in the Cobweb wants you to follow."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

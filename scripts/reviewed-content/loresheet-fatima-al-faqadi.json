@@ -1,0 +1,263 @@
+{
+  "id": "loresheet-fatima-al-faqadi",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Fatima al-Faqadi",
+    "en": "Fatima al-Faqadi"
+  },
+  "aliases": [
+    "Fatima al-Faqadi",
+    "Fatima al-Faqadi — Armário de Armas",
+    "Fatima al-Faqadi — Weapons Cabinet",
+    "Fatima al-Faqadi — Rede Estendida",
+    "Fatima al-Faqadi — Extended Network",
+    "Fatima al-Faqadi — Sucesso Perdido",
+    "Fatima al-Faqadi — Lost Success",
+    "Fatima al-Faqadi — Juiz Reconhecido",
+    "Fatima al-Faqadi — Recognized Judge",
+    "Fatima al-Faqadi — Contrato Aberto",
+    "Fatima al-Faqadi — Open Contract"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-fatima-al-faqadi-camarilla-v5-1",
+      "book": "camarilla-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Fatima al-Faqadi — Armário de Armas",
+        "en": "Fatima al-Faqadi — Weapons Cabinet"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 185 · 1",
+      "pages": [
+        {
+          "pdfPage": 186,
+          "printedPage": 185
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Armário de Armas",
+            "text": "Sua conexão com Fátima ou sua rede de Banu Haqim dá acesso a um esconderijo/armário de armas em algum lugar dentro do seu domínio ou o domínio que você está visitando.Você sabe de boatos ou fontes confiáveis onde um desses armários pode ser localizado. Uma vez por crônica você pode usar este conhecimento para se equipar com uma arma de mão de sua escolha, sujeito à aprovação do Narrador."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Weapons Cabinet",
+            "text": "Your connection to Fatima or your Banu Haqim network gives you access to a weapons cache/locker somewhere within your domain or the domain you are visiting. You know from rumor or reliable sources where one of these lockers may be located. Once per chronicle you may use this knowledge to equip yourself with a hand weapon of your choice, subject to Storyteller's approval."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fatima-al-faqadi-camarilla-v5-2",
+      "book": "camarilla-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Fatima al-Faqadi — Rede Estendida",
+        "en": "Fatima al-Faqadi — Extended Network"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 185 · 2",
+      "pages": [
+        {
+          "pdfPage": 186,
+          "printedPage": 185
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Rede Estendida",
+            "text": "Fatima uma vez obteve associação ao culto conhecido como Teia dos Punhais. Embora a Rede continue fiel para com o demoníaco Ur- Shulgi e sua filial em Alamut, alguns cultistas da Rede acompanharam Fátima ao abrir caminho para a Camarilla. Você é um membro da Rede Estendida, ou tem um vínculo estreito com aqueles que são. Você pode alocar três pontos em aliados, contatos e Mawla e atribuí-los entre os membros dea Rede Estendida, que pode ajudá-lo por um preço, ou ensiná-lo a arte de matar. Observe que, ao contrário de Antecedentes regulares,o uso desses pontos exige pagamento, muitas vezes caros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Extended Network",
+            "text": "Fatima once gained membership in the cult known as the Web of Knives. Although the Network remains faithful to the demonic Ur-Shulgi and its branch in Alamut, some Network cultists accompanied Fatima in making her way into the Camarilla. You are a member of the Extended Network, or have a close bond with those who are. You can allocate three points into Allies, Contacts and Mawla and assign them among the Kindred of the Extended Network, which can help you for a price, or teach you the art of killing. Note that unlike regular Backgrounds, use of these points requires payment, often expensive."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fatima-al-faqadi-camarilla-v5-3",
+      "book": "camarilla-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Fatima al-Faqadi — Sucesso Perdido",
+        "en": "Fatima al-Faqadi — Lost Success"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 185 · 3",
+      "pages": [
+        {
+          "pdfPage": 186,
+          "printedPage": 185
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sucesso Perdido",
+            "text": "Você é um dos raros Membros que sobreviveu a uma tentativa de assassinato pela Mão da Vingança. Se você era o alvo ou não, ou apenas parte dos danos colaterais, você tem uma reputação como alguém que Fátima não conseguiu derrubar. Além de conceder dois pontos no status, esta tradição concede um dado de bônus para paradas de dados Sociais quando sua história de sobrevivência puder ser usada para um bom efeito."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Lost Success",
+            "text": "You are one of the rare Kindred who survived an assassination attempt by the Hand of Vengeance. Whether you were the target or not, or just part of the collateral damage, you have a reputation as someone Fatima couldn't take down. In addition to granting two points in Status, this tradition grants a bonus die to Social dice pools when your Survival story can be used to good effect."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fatima-al-faqadi-camarilla-v5-4",
+      "book": "camarilla-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Fatima al-Faqadi — Juiz Reconhecido",
+        "en": "Fatima al-Faqadi — Recognized Judge"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 185 · 4",
+      "pages": [
+        {
+          "pdfPage": 186,
+          "printedPage": 185
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Juiz Reconhecido",
+            "text": "Os Banu Haqim foram feitos para serem juízes dos outros Membros. Ou você foi ensinado as formas de julgamento de Fátima, ou a Teia dos Punhais ensinou a você as Leis de Ur-Shulgi. Em qualquer caso, em qualquer domínio da Camarilla, você pode formalmente anunciar o julgamento e executar um Membro sem retaliação aberta da seita dominante, já que poucos desejam cruzar a Lei dos Banu Haqim. Seu julgamento não impede outros Membros de sutilmente realizar tentativas de represálias."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Recognized Judge",
+            "text": "The Banu Haqim were made to be judges of others Kindred. Either you were taught the ways of judgment of Fatima, or the Web of Daggers taught you the Laws of Ur-Shulgi. In any case, in any Camarilla domain, you can formally announce judgment and execute a Kindred without overt retaliation from the ruling sect, as few wish to cross the Law of the Banu Haqim. Your judgment does not prevent other Kindred from subtly carrying out attempts at reprisals."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-fatima-al-faqadi-camarilla-v5-5",
+      "book": "camarilla-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Fatima al-Faqadi — Contrato Aberto",
+        "en": "Fatima al-Faqadi — Open Contract"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 185 · 5",
+      "pages": [
+        {
+          "pdfPage": 186,
+          "printedPage": 185
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Contrato Aberto",
+            "text": "Sua relação com Fátima é tão próxima que ela concordou em eliminar qualquer oponente de sua escolha. Ela não vai fazer perguntas. Talvez seu relacionamento seja um de confiança ou cuidado, ou talvez Fátima deva a você. Seu sucesso não é garantido, mas é provável."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Open Contract",
+            "text": "Your relationship with Fatima is so close that she has agreed to eliminate any opponent you choose, without questions. Perhaps she trusts or cares for you, or owes you a debt. Her success is not guaranteed, but is likely."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-week-of-nightmares",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "A Semana dos Pesadelos",
+    "en": "The Week of Nightmares"
+  },
+  "aliases": [
+    "A Semana dos Pesadelos",
+    "The Week of Nightmares",
+    "A Semana dos Pesadelos — História Oral",
+    "The Week of Nightmares — Oral History",
+    "A Semana dos Pesadelos — Ravnos Remanescentes",
+    "The Week of Nightmares — Ravnos Remnant",
+    "A Semana dos Pesadelos — Eu estive La",
+    "The Week of Nightmares — I was there",
+    "A Semana dos Pesadelos — A Estrela Vermelha",
+    "The Week of Nightmares — The Red Star",
+    "A Semana dos Pesadelos — Sangue de Zapathasura",
+    "The Week of Nightmares — Blood of Zapathasura"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-week-of-nightmares-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "A Semana dos Pesadelos — História Oral",
+        "en": "The Week of Nightmares — Oral History"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 395 · 1",
+      "pages": [
+        {
+          "pdfPage": 399,
+          "printedPage": 395
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "História Oral",
+            "text": "Você ouviu e contou a história da Semana dos Pesadelos incontáveis vezes, e sabe exatamente o que enfeitar e quais partes ocultar. Sua versão do conto é popular nos Elísios, onde você às vezes é convidado a falar como historiador e animador. Membros importantes vêm de toda parte para ouvir sua história. Adicione três dados a paradas de dados de Performance em testes para contar a história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Oral History",
+            "text": "You've heard and told the story of the Week of Nightmares countless times, and you know exactly what to dress up and what parts to hide. Your version of the tale is popular in Elysium, where you are sometimes invited to speak as a historian and entertainer. Important Kindred come from far and wide to hear your story. Add three dice to Performance dice pools on rolls to tell the story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-week-of-nightmares-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "A Semana dos Pesadelos — Ravnos Remanescentes",
+        "en": "The Week of Nightmares — Ravnos Remnant"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 395 · 2",
+      "pages": [
+        {
+          "pdfPage": 399,
+          "printedPage": 395
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ravnos Remanescentes",
+            "text": "Antes da Semana dos Pesadelos, os Ravnos eram um clã — agora, não passam de uma linhagem de sangue. Você conhece alguns remanescentes dos Ravnos e talvez compartilhe seu rancor com os Gangrel, que os abandonaram para serem aniquilados. Você tem três pontos de Mawla, que representam esse grupo de contatos. Eles lhe trazem novidades e avisos, e talvez possam ser convencidos a lançar poderosas ilusões uma vez por crônica, embora sua associação com eles seja malvista, caso seja descoberta."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ravnos Remnant",
+            "text": "Before the Week of Nightmares, the Ravnos were a clan — now they are merely a bloodline. You know some remaining Ravnos and may share their grudge against the Gangrel, who abandoned them to destruction. You have Mawla 3 representing this group of contacts. They bring news and warnings and may be persuaded to cast powerful illusions once per chronicle, though your association with them is frowned upon if discovered."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-week-of-nightmares-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "A Semana dos Pesadelos — Eu estive La",
+        "en": "The Week of Nightmares — I was there"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 395 · 3",
+      "pages": [
+        {
+          "pdfPage": 399,
+          "printedPage": 395
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Eu estive La",
+            "text": "Você não só ouviu a respeito, você esteve na linha de frente. Sua reputação como um sobrevivente e veterano da Semana dos Pesadelos lhe concede Status entre Membros historiadores, ocultistas, Ravnos e cultistas da Gehenna. Uma vez por história, você pode usar esse Status para obter um favor menor de um daqueles grupos ou de um cortesão proeminente no domínio com um interesse repentino no assunto."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "I was there",
+            "text": "You didn't just hear about it, you were on the front lines. His reputation as a survivor and veteran of the Week of Nightmares earns him Status among Kindred historians, occultists, Ravnos, and Gehenna cultists. Once per story, you can use this Status to gain a minor favor from one of those groups or from a prominent courtier in the domain with a sudden interest in the matter."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-week-of-nightmares-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "A Semana dos Pesadelos — A Estrela Vermelha",
+        "en": "The Week of Nightmares — The Red Star"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 395 · 4",
+      "pages": [
+        {
+          "pdfPage": 399,
+          "printedPage": 395
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Estrela Vermelha",
+            "text": "Anthelios (designação da NASA: 28978 IXION), chamada Absinto, arauto da Gehenna, ainda brilha no céu — aos seus olhos, pelo menos. Você acredita que ela olha de volta, mudando quem você é de algum modo. Uma vez por história, ou você reduz sua Fome ao valor de dois ou adiciona um dado nas paradas de uma Disciplina para uma noite após encarar a estrela por 10 minutos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Red Star",
+            "text": "Anthelios (NASA designation: 28978 IXION), called Wormwood, herald of Gehenna, still shines in the sky—in your eyes, at least. You believe it looks back, changing who you are in some way. Once per story, you either reduce your Hunger to the value of two or add one die to a Discipline pool for a night after staring at the star for 10 minutes."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-week-of-nightmares-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "A Semana dos Pesadelos — Sangue de Zapathasura",
+        "en": "The Week of Nightmares — Blood of Zapathasura"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 395 · 5",
+      "pages": [
+        {
+          "pdfPage": 399,
+          "printedPage": 395
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sangue de Zapathasura",
+            "text": "O Antediluviano Ravnos encontrou a Morte Final em julho de 1999 nas mãos de desconhecidos que empregavam armamento avançado e o poder do sol. Antes de morrer, ele drenou o Vitae de todo o seu clã, levando-os ao frenesi e canibalismo em seus estertores finais. Grossas e sencientes cordas formadas por seu Vitae mancharam o solo em Bangladesh onde ele caiu. O sol do meio-dia não destruiu tudo. Você possui um pequeno frasco contendo o Sangue do Antediluviano Ravnos. O que você fará com esse Vitae é por sua conta, e o que ele fará a quem o beber depende do Narrador"
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Blood of Zapathasura",
+            "text": "The Antediluvian Ravnos met Final Death in July 1999 at the hands of unknowns employing advanced weaponry and the power of the sun. Before dying, he drained the Vitae of his entire clan, driving them into a frenzy and cannibalism in his final throes. Thick, sentient ropes formed by his Vitae stained the ground in Bangladesh where he fell. The midday sun didn't destroy everything. You possess a small vial containing the Blood of the Antediluvian Ravnos. What you do with this Vitae is up to you, and what it does to whoever drinks it depends on Storyteller"
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

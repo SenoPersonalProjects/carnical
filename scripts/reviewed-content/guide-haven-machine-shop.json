@@ -1,0 +1,279 @@
+{
+  "id": "guide-haven-machine-shop",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Oficina Mecânica",
+    "en": "Machine Shop"
+  },
+  "aliases": [
+    "Oficina Mecânica",
+    "Machine Shop"
+  ],
+  "versions": [
+    {
+      "id": "guide-haven-machine-shop-players-guide-v5-1",
+      "book": "players-guide-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Oficina Mecânica — 1",
+        "en": "Machine Shop — 1"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 113",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 115,
+          "printedPage": 113
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Porte e alcance da oficina",
+          "en": "Workshop size and scope"
+        },
+        "detailOptions": [
+          "Refúgio pequeno: uma especialidade de Ofícios / Small haven: one Craft specialty",
+          "Refúgio grande: oficina geral / Large haven: general workshop"
+        ],
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Seu refúgio tem ferramentas, equipamentos e máquinas de última geração num espaço dedicado, além de óleo, produtos químicos industriais, gasolina e suprimentos domésticos. Cada ponto acrescenta um dado a testes de Ofícios ou outros testes para construir, reparar ou desmontar máquinas e equipamentos. Exemplos: Inteligência + Armas de Fogo (Armeiro) para construir uma submetralhadora Sten, Inteligência + Tecnologia para fabricar uma besta composta em impressora 3D, ou Inteligência + Ofícios (Engenharia) para preparar um carro.\n\nPara máquinas especialmente raras, talvez precise explicar sua origem se não tiver Recursos 3 ou mais. Em refúgios pequenos, a Qualidade só acrescenta dados a uma especialidade de Ofícios: não há espaço para oficina geral ou trabalho automotivo. Uma oficina de três pontos pode incluir um incinerador; num refúgio grande, uma oficina de três pontos pode incluir um triturador ou compactador de carros."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your haven has state of the art tools, equipment, and machinery in a dedicated work space, plus supplies of oil, industrial chemicals, gasoline, and other household necessities. Each dot of this Merit adds one to the dice pool for Craft rolls, or to other tests related to building, repairing, or disassembling a piece of machinery or equipment: Intelligence + Firearms (Gunsmithing) to build a Sten submachine gun, Intelligence + Technology to fab a compound crossbow with a 3-D printer, Intelligence + Craft (Engineering) to soup up a car, etc. For particularly recondite machinery, you may have to explain how you sourced it if you don’t have Resources ••• or better. Small havens with this Merit can only add to pools for one specialty of Craft: they don’t have enough room for a general machine shop or for automotive work. A three-dot machine shop can include an incinerator; a three-dot machine shop in a large haven can include a car crusher or compactor."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    },
+    {
+      "id": "guide-haven-machine-shop-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Oficina Mecânica — 2",
+        "en": "Machine Shop — 2"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 113",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 115,
+          "printedPage": 113
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Porte e alcance da oficina",
+          "en": "Workshop size and scope"
+        },
+        "detailOptions": [
+          "Refúgio pequeno: uma especialidade de Ofícios / Small haven: one Craft specialty",
+          "Refúgio grande: oficina geral / Large haven: general workshop"
+        ],
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Seu refúgio tem ferramentas, equipamentos e máquinas de última geração num espaço dedicado, além de óleo, produtos químicos industriais, gasolina e suprimentos domésticos. Cada ponto acrescenta um dado a testes de Ofícios ou outros testes para construir, reparar ou desmontar máquinas e equipamentos. Exemplos: Inteligência + Armas de Fogo (Armeiro) para construir uma submetralhadora Sten, Inteligência + Tecnologia para fabricar uma besta composta em impressora 3D, ou Inteligência + Ofícios (Engenharia) para preparar um carro.\n\nPara máquinas especialmente raras, talvez precise explicar sua origem se não tiver Recursos 3 ou mais. Em refúgios pequenos, a Qualidade só acrescenta dados a uma especialidade de Ofícios: não há espaço para oficina geral ou trabalho automotivo. Uma oficina de três pontos pode incluir um incinerador; num refúgio grande, uma oficina de três pontos pode incluir um triturador ou compactador de carros."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your haven has state of the art tools, equipment, and machinery in a dedicated work space, plus supplies of oil, industrial chemicals, gasoline, and other household necessities. Each dot of this Merit adds one to the dice pool for Craft rolls, or to other tests related to building, repairing, or disassembling a piece of machinery or equipment: Intelligence + Firearms (Gunsmithing) to build a Sten submachine gun, Intelligence + Technology to fab a compound crossbow with a 3-D printer, Intelligence + Craft (Engineering) to soup up a car, etc. For particularly recondite machinery, you may have to explain how you sourced it if you don’t have Resources ••• or better. Small havens with this Merit can only add to pools for one specialty of Craft: they don’t have enough room for a general machine shop or for automotive work. A three-dot machine shop can include an incinerator; a three-dot machine shop in a large haven can include a car crusher or compactor."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    },
+    {
+      "id": "guide-haven-machine-shop-players-guide-v5-3",
+      "book": "players-guide-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Oficina Mecânica — 3",
+        "en": "Machine Shop — 3"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 113",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 115,
+          "printedPage": 113
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Porte e alcance da oficina",
+          "en": "Workshop size and scope"
+        },
+        "detailOptions": [
+          "Refúgio pequeno: uma especialidade de Ofícios / Small haven: one Craft specialty",
+          "Refúgio grande: oficina geral / Large haven: general workshop"
+        ],
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Seu refúgio tem ferramentas, equipamentos e máquinas de última geração num espaço dedicado, além de óleo, produtos químicos industriais, gasolina e suprimentos domésticos. Cada ponto acrescenta um dado a testes de Ofícios ou outros testes para construir, reparar ou desmontar máquinas e equipamentos. Exemplos: Inteligência + Armas de Fogo (Armeiro) para construir uma submetralhadora Sten, Inteligência + Tecnologia para fabricar uma besta composta em impressora 3D, ou Inteligência + Ofícios (Engenharia) para preparar um carro.\n\nPara máquinas especialmente raras, talvez precise explicar sua origem se não tiver Recursos 3 ou mais. Em refúgios pequenos, a Qualidade só acrescenta dados a uma especialidade de Ofícios: não há espaço para oficina geral ou trabalho automotivo. Uma oficina de três pontos pode incluir um incinerador; num refúgio grande, uma oficina de três pontos pode incluir um triturador ou compactador de carros."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your haven has state of the art tools, equipment, and machinery in a dedicated work space, plus supplies of oil, industrial chemicals, gasoline, and other household necessities. Each dot of this Merit adds one to the dice pool for Craft rolls, or to other tests related to building, repairing, or disassembling a piece of machinery or equipment: Intelligence + Firearms (Gunsmithing) to build a Sten submachine gun, Intelligence + Technology to fab a compound crossbow with a 3-D printer, Intelligence + Craft (Engineering) to soup up a car, etc. For particularly recondite machinery, you may have to explain how you sourced it if you don’t have Resources ••• or better. Small havens with this Merit can only add to pools for one specialty of Craft: they don’t have enough room for a general machine shop or for automotive work. A three-dot machine shop can include an incinerator; a three-dot machine shop in a large haven can include a car crusher or compactor."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    },
+    {
+      "id": "guide-haven-machine-shop-players-guide-v5-4",
+      "book": "players-guide-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Oficina Mecânica — 4",
+        "en": "Machine Shop — 4"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 113",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 115,
+          "printedPage": 113
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Porte e alcance da oficina",
+          "en": "Workshop size and scope"
+        },
+        "detailOptions": [
+          "Refúgio pequeno: uma especialidade de Ofícios / Small haven: one Craft specialty",
+          "Refúgio grande: oficina geral / Large haven: general workshop"
+        ],
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Seu refúgio tem ferramentas, equipamentos e máquinas de última geração num espaço dedicado, além de óleo, produtos químicos industriais, gasolina e suprimentos domésticos. Cada ponto acrescenta um dado a testes de Ofícios ou outros testes para construir, reparar ou desmontar máquinas e equipamentos. Exemplos: Inteligência + Armas de Fogo (Armeiro) para construir uma submetralhadora Sten, Inteligência + Tecnologia para fabricar uma besta composta em impressora 3D, ou Inteligência + Ofícios (Engenharia) para preparar um carro.\n\nPara máquinas especialmente raras, talvez precise explicar sua origem se não tiver Recursos 3 ou mais. Em refúgios pequenos, a Qualidade só acrescenta dados a uma especialidade de Ofícios: não há espaço para oficina geral ou trabalho automotivo. Uma oficina de três pontos pode incluir um incinerador; num refúgio grande, uma oficina de três pontos pode incluir um triturador ou compactador de carros."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your haven has state of the art tools, equipment, and machinery in a dedicated work space, plus supplies of oil, industrial chemicals, gasoline, and other household necessities. Each dot of this Merit adds one to the dice pool for Craft rolls, or to other tests related to building, repairing, or disassembling a piece of machinery or equipment: Intelligence + Firearms (Gunsmithing) to build a Sten submachine gun, Intelligence + Technology to fab a compound crossbow with a 3-D printer, Intelligence + Craft (Engineering) to soup up a car, etc. For particularly recondite machinery, you may have to explain how you sourced it if you don’t have Resources ••• or better. Small havens with this Merit can only add to pools for one specialty of Craft: they don’t have enough room for a general machine shop or for automotive work. A three-dot machine shop can include an incinerator; a three-dot machine shop in a large haven can include a car crusher or compactor."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    },
+    {
+      "id": "guide-haven-machine-shop-players-guide-v5-5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Oficina Mecânica — 5",
+        "en": "Machine Shop — 5"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 113",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 115,
+          "printedPage": 113
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Porte e alcance da oficina",
+          "en": "Workshop size and scope"
+        },
+        "detailOptions": [
+          "Refúgio pequeno: uma especialidade de Ofícios / Small haven: one Craft specialty",
+          "Refúgio grande: oficina geral / Large haven: general workshop"
+        ],
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Seu refúgio tem ferramentas, equipamentos e máquinas de última geração num espaço dedicado, além de óleo, produtos químicos industriais, gasolina e suprimentos domésticos. Cada ponto acrescenta um dado a testes de Ofícios ou outros testes para construir, reparar ou desmontar máquinas e equipamentos. Exemplos: Inteligência + Armas de Fogo (Armeiro) para construir uma submetralhadora Sten, Inteligência + Tecnologia para fabricar uma besta composta em impressora 3D, ou Inteligência + Ofícios (Engenharia) para preparar um carro.\n\nPara máquinas especialmente raras, talvez precise explicar sua origem se não tiver Recursos 3 ou mais. Em refúgios pequenos, a Qualidade só acrescenta dados a uma especialidade de Ofícios: não há espaço para oficina geral ou trabalho automotivo. Uma oficina de três pontos pode incluir um incinerador; num refúgio grande, uma oficina de três pontos pode incluir um triturador ou compactador de carros."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your haven has state of the art tools, equipment, and machinery in a dedicated work space, plus supplies of oil, industrial chemicals, gasoline, and other household necessities. Each dot of this Merit adds one to the dice pool for Craft rolls, or to other tests related to building, repairing, or disassembling a piece of machinery or equipment: Intelligence + Firearms (Gunsmithing) to build a Sten submachine gun, Intelligence + Technology to fab a compound crossbow with a 3-D printer, Intelligence + Craft (Engineering) to soup up a car, etc. For particularly recondite machinery, you may have to explain how you sourced it if you don’t have Resources ••• or better. Small havens with this Merit can only add to pools for one specialty of Craft: they don’t have enough room for a general machine shop or for automotive work. A three-dot machine shop can include an incinerator; a three-dot machine shop in a large haven can include a car crusher or compactor."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    }
+  ]
+}

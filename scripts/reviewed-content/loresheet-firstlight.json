@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-firstlight",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "FIRSTLIGHT",
+    "en": "FIRSTLIGHT"
+  },
+  "aliases": [
+    "FIRSTLIGHT",
+    "FIRSTLIGHT — Táticas de Evasão",
+    "FIRSTLIGHT — Evasion Tactics",
+    "FIRSTLIGHT — Filial",
+    "FIRSTLIGHT — Branch Office",
+    "FIRSTLIGHT — O que eles sabem",
+    "FIRSTLIGHT — What Do They Know",
+    "FIRSTLIGHT — Nenhum registro encontrado",
+    "FIRSTLIGHT — No Records Found",
+    "FIRSTLIGHT — Amigo por dentro",
+    "FIRSTLIGHT — Friend on the Inside"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-firstlight-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "FIRSTLIGHT — Táticas de Evasão",
+        "en": "FIRSTLIGHT — Evasion Tactics"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 276 · 1",
+      "pages": [
+        {
+          "pdfPage": 277,
+          "printedPage": 276
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Táticas de Evasão",
+            "text": "Você está familiarizado com algumas táticas básicas de vigilância e conhece maneiras simples de evitar ser seguido ou espionado. Você mantém sua presença on-line mínima ou bloqueada e possui um gerador de ruído branco, um bloqueador de telefone celular ou um telefone portátil para evitar gravação. Adicione um dado nas rolagens para evitar ser seguido ou ouvido (Habilidades potenciais: Condução, Furtividade, Manha, Tecnologia.)"
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Evasion Tactics",
+            "text": "You’re familiar with some basic surveillance tactics, and know simple ways to avoid being followed or spied upon. You keep your online footprint minimal or locked down, and own a whitenoise generator, a cell-phone jammer, or a burner phone to keep from being recorded. Add one die on rolls to avoid being tailed or listened in on (Potential Skills: Drive, Stealth, Streetwise, Technology.)"
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-firstlight-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "FIRSTLIGHT — Filial",
+        "en": "FIRSTLIGHT — Branch Office"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 276 · 2",
+      "pages": [
+        {
+          "pdfPage": 277,
+          "printedPage": 276
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Filial",
+            "text": "Talvez alguém tenha cometido um deslize e você tenha sentido o cheiro dele. Talvez os tipos de aparência militar no bar pensassem que estavam falando baixo demais para que os outros ouvissem, mas seus ouvidos aguçados captaram a conversa perfeitamente. Talvez você tenha clicado na armadilha mal disfarçada de um URL e hackeado de volta. Seja como for, você sabe onde está localizada a base de operações mais próxima."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Branch Office",
+            "text": "Maybe someone slipped up and you’ve got their scent. Maybe the military-looking types at the bar thought they were talking too low for others to hear, but your keen ears picked up their conversation just fine. Maybe you clicked their thinly disguised trap of a URL and hacked them right back. However you did it, you know where their closest base of operations is located."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-firstlight-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "FIRSTLIGHT — O que eles sabem",
+        "en": "FIRSTLIGHT — What Do They Know"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 276 · 3",
+      "pages": [
+        {
+          "pdfPage": 277,
+          "printedPage": 276
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O que eles sabem",
+            "text": "Você interceptou algumas comunicações entre agências, quer tenha aprendido a localização de um ponto morto ou descriptografado seu sinal. Uma vez por história, você pode pedir ao Narrador uma informação que a FIRSTLIGHT tem sobre você ou um colega de círculo que você conseguiu obter."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "What Do They Know",
+            "text": "You’ve intercepted some communications between agencies, whether you learned the location of a dead drop or decrypted their signal. Once per story, you may ask the Storyteller for a piece of information FIRSTLIGHT has on you or a coterie-mate that you’ve managed to seize."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-firstlight-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "FIRSTLIGHT — Nenhum registro encontrado",
+        "en": "FIRSTLIGHT — No Records Found"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 276 · 4",
+      "pages": [
+        {
+          "pdfPage": 277,
+          "printedPage": 276
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Nenhum registro encontrado",
+            "text": "Através de subornos, arrombamentos e uma grande dose de paranóia, você conseguiu se apagar dos registros do FIRSTLIGHT. Sua lousa está limpa... por enquanto. Depende de você permanecer longe deles daqui para frente, mas se você se encontrar novamente nos alvos deles, você sabe por onde começar para corrigir a situação. Adicione três dados aos testes Ladroagem, Furtividade ou Sobrevivência ao lidar com operações FIRSTLIGHT."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "No Records Found",
+            "text": "Through bribes, break-ins, and a heaping dose of paranoia, you’ve managed to erase yourself from FIRSTLIGHT’s records. Your slate is clean... for now. It’s up to you to remain off of them going forward, but should you find yourself in their targets again, you know where to start to rectify the situation. Add three dice to Larceny, Stealth, or Survival rolls when handling FIRSTLIGHT operations."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-firstlight-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "FIRSTLIGHT — Amigo por dentro",
+        "en": "FIRSTLIGHT — Friend on the Inside"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 276 · 5",
+      "pages": [
+        {
+          "pdfPage": 277,
+          "printedPage": 276
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Amigo por dentro",
+            "text": "Você tem alguém na folha de pagamento da FIRSTLIGHT que responde a você. Discuta com seu Narrador se o seu controle sobre eles assume a forma de coerção sobrenatural, ameaças ou suborno periódico pesado. A toupeira alerta você se a organização deles estiver atrás de você e, uma vez por história, cometerá um ato de sabotagem menor (destruindo evidências, estragando uma operação, etc.) sob suas ordens."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Friend on the Inside",
+            "text": "You’ve got someone on FIRST- LIGHT’s payroll who reports back to you. Discuss with your Storyteller whether your control over them takes the form of supernatural coercion, threats, or a hefty periodic bribe. The mole alerts you if their organization is coming after you, and once per story will commit an act of minor sabotage (destroying evidence, screwing up an operation, etc.) on your orders."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

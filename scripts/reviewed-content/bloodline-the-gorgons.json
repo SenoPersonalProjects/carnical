@@ -1,0 +1,590 @@
+{
+  "id": "bloodline-the-gorgons",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "As Górgonas",
+    "en": "The Gorgons"
+  },
+  "aliases": [
+    "As Górgonas",
+    "The Gorgons",
+    "As Górgonas — O Beijo da Serpente",
+    "The Gorgons — The Serpent’s Kiss",
+    "As Górgonas — Proteção",
+    "The Gorgons — Protection",
+    "As Górgonas — Quatro Humores",
+    "The Gorgons — Four Humours",
+    "As Górgonas — Controlando a Besta",
+    "The Gorgons — Controlling the Beast",
+    "As Górgonas — Olhar de Medusa",
+    "The Gorgons — Medusa’s Gaze",
+    "As Górgonas — Olhar da Medusa"
+  ],
+  "versions": [
+    {
+      "id": "bloodline-the-gorgons-players-guide-v5-1",
+      "book": "players-guide-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "As Górgonas — O Beijo da Serpente",
+        "en": "The Gorgons — The Serpent’s Kiss"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 228 · 1",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 228
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "As Lamiae eram tidas como descendentes de Lilith e Caim. Lamia, fundadora e suma sacerdotisa, dizia ser filha da própria Mãe Sombria. Um ancião Capadócio a encontrou em ritos Bahari e a Abraçou, impressionado com sua pele e resistência à dor. As Lamiae tornaram-se guerreiras protetoras dos Capadócios até a suposta destruição do clã pelos Giovanni. Acreditava-se que a última Lamia fora destruída em 1718.\n\nMas as Górgonas sobreviveram, assim como aqueles que protegiam. Enquanto estes viraram Arautos das Caveiras, elas se chamaram Lilins, espalhando a palavra de Lilith e a fé Bahari, investigando os Capadócios e sabotando os Giovanni em segredo. Após a Reunião da Família, voltaram orgulhosamente ao lado de seus senhores, menos dispostas a tolerar Cainitas que condenem sua fé."
+          },
+          {
+            "title": "O Beijo da Serpente",
+            "text": "Segundo a lenda, a mordida Lamia transmitia peste. Hoje não é mais fatal, mas algumas ainda carregam resquícios da doença. Uma vez por história, infecte uma presa mortal: ela recebe um dano agravado de Vitalidade por noite durante três noites. Isso não afeta vampiros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "The Lamiae were a bloodline of Kindred believed to be descended from Lilith as well as Caine — their founder and high priestess (named Lamia) claimed to be the daughter of the Dark Mother herself. In ancient times, a Cappadocian elder found Lamia performing sacred Bahari rites, and was so taken by her skin and resistance to pain that he Embraced her. From then on, the Lamiae were dedicated warriors protecting the Cappadocian clan, until the clan’s alleged destruction by the Giovanni. The last Lamia was believed destroyed in 1718.\n\nHowever, the Gorgons lived on, much like their Cappadocian charges. While the latter claimed the title “Harbingers of Skulls,” the Lamiae took the title of “Lilins,” spreading the word of Lilith and the Bahari faith while secretly uncovering the fate of the Cappadocians and undermining the Giovanni. Now, in the wake of the Family Reunion, these women stand proudly once again at the side of the Kindred that Embraced them — although they are less inclined to tolerate so-called “Cainites” who chastise their faith."
+          },
+          {
+            "title": "The Serpent’s Kiss",
+            "text": "Legend claims the bite of the Lamiae once spread plague to their victims. These nights the bite of the Lamiae is no longer fatal, although a few like yourself have some remnants of the disease left in their system. Once per story, you can choose to infect your mortal prey with disease, causing them one Aggravated Health damage every night for three nights. This ability has no effect on vampires."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-the-gorgons-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "As Górgonas — Proteção",
+        "en": "The Gorgons — Protection"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 228 · 2",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 228
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "As Lamiae eram tidas como descendentes de Lilith e Caim. Lamia, fundadora e suma sacerdotisa, dizia ser filha da própria Mãe Sombria. Um ancião Capadócio a encontrou em ritos Bahari e a Abraçou, impressionado com sua pele e resistência à dor. As Lamiae tornaram-se guerreiras protetoras dos Capadócios até a suposta destruição do clã pelos Giovanni. Acreditava-se que a última Lamia fora destruída em 1718.\n\nMas as Górgonas sobreviveram, assim como aqueles que protegiam. Enquanto estes viraram Arautos das Caveiras, elas se chamaram Lilins, espalhando a palavra de Lilith e a fé Bahari, investigando os Capadócios e sabotando os Giovanni em segredo. Após a Reunião da Família, voltaram orgulhosamente ao lado de seus senhores, menos dispostas a tolerar Cainitas que condenem sua fé."
+          },
+          {
+            "title": "Proteção",
+            "text": "Você encarna a função original das Lamiae: proteger seus tutelados por qualquer meio. Receba dois dados adicionais ao usar a manobra Bloquear para proteger outra pessoa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "The Lamiae were a bloodline of Kindred believed to be descended from Lilith as well as Caine — their founder and high priestess (named Lamia) claimed to be the daughter of the Dark Mother herself. In ancient times, a Cappadocian elder found Lamia performing sacred Bahari rites, and was so taken by her skin and resistance to pain that he Embraced her. From then on, the Lamiae were dedicated warriors protecting the Cappadocian clan, until the clan’s alleged destruction by the Giovanni. The last Lamia was believed destroyed in 1718.\n\nHowever, the Gorgons lived on, much like their Cappadocian charges. While the latter claimed the title “Harbingers of Skulls,” the Lamiae took the title of “Lilins,” spreading the word of Lilith and the Bahari faith while secretly uncovering the fate of the Cappadocians and undermining the Giovanni. Now, in the wake of the Family Reunion, these women stand proudly once again at the side of the Kindred that Embraced them — although they are less inclined to tolerate so-called “Cainites” who chastise their faith."
+          },
+          {
+            "title": "Protection",
+            "text": "You embody the original purpose of the Lamiae — the protection of your charges, by any means necessary. You gain a two-dice bonus when using the Block maneuver (Vampire: The Masquerade, p. 297) to protect someone else."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-the-gorgons-players-guide-v5-3",
+      "book": "players-guide-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "As Górgonas — Quatro Humores",
+        "en": "The Gorgons — Four Humours"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 228 · 3",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 228
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "As Lamiae eram tidas como descendentes de Lilith e Caim. Lamia, fundadora e suma sacerdotisa, dizia ser filha da própria Mãe Sombria. Um ancião Capadócio a encontrou em ritos Bahari e a Abraçou, impressionado com sua pele e resistência à dor. As Lamiae tornaram-se guerreiras protetoras dos Capadócios até a suposta destruição do clã pelos Giovanni. Acreditava-se que a última Lamia fora destruída em 1718.\n\nMas as Górgonas sobreviveram, assim como aqueles que protegiam. Enquanto estes viraram Arautos das Caveiras, elas se chamaram Lilins, espalhando a palavra de Lilith e a fé Bahari, investigando os Capadócios e sabotando os Giovanni em segredo. Após a Reunião da Família, voltaram orgulhosamente ao lado de seus senhores, menos dispostas a tolerar Cainitas que condenem sua fé."
+          },
+          {
+            "title": "Quatro Humores",
+            "text": "Muitas Lamiae antigas manipulam os quatro humores para controlar corpo ou mente. Uma vez por história, morda um mortal e imponha dois dados de penalidade em ações que não favoreçam imediatamente a Ressonância atual desse mortal. Dura até o fim da noite ou até a Ressonância mudar de humor. Se houver uma Discrasia no sangue, aumente a penalidade para três dados."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "The Lamiae were a bloodline of Kindred believed to be descended from Lilith as well as Caine — their founder and high priestess (named Lamia) claimed to be the daughter of the Dark Mother herself. In ancient times, a Cappadocian elder found Lamia performing sacred Bahari rites, and was so taken by her skin and resistance to pain that he Embraced her. From then on, the Lamiae were dedicated warriors protecting the Cappadocian clan, until the clan’s alleged destruction by the Giovanni. The last Lamia was believed destroyed in 1718.\n\nHowever, the Gorgons lived on, much like their Cappadocian charges. While the latter claimed the title “Harbingers of Skulls,” the Lamiae took the title of “Lilins,” spreading the word of Lilith and the Bahari faith while secretly uncovering the fate of the Cappadocians and undermining the Giovanni. Now, in the wake of the Family Reunion, these women stand proudly once again at the side of the Kindred that Embraced them — although they are less inclined to tolerate so-called “Cainites” who chastise their faith."
+          },
+          {
+            "title": "Four Humours",
+            "text": "Many ancient Lamiae practice manipulation of the four humors, allowing control over their victim’s body or mind. Once per story you may bite a mortal and inflict a two-dice penalty on all actions which don’t immediately further their current resonance, until the end of the night or their resonance changes humours. If their blood contains a Dyscrasia, increase this penalty to three-dice."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-the-gorgons-players-guide-v5-4",
+      "book": "players-guide-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "As Górgonas — Controlando a Besta",
+        "en": "The Gorgons — Controlling the Beast"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 228 · 4",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 228
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "As Lamiae eram tidas como descendentes de Lilith e Caim. Lamia, fundadora e suma sacerdotisa, dizia ser filha da própria Mãe Sombria. Um ancião Capadócio a encontrou em ritos Bahari e a Abraçou, impressionado com sua pele e resistência à dor. As Lamiae tornaram-se guerreiras protetoras dos Capadócios até a suposta destruição do clã pelos Giovanni. Acreditava-se que a última Lamia fora destruída em 1718.\n\nMas as Górgonas sobreviveram, assim como aqueles que protegiam. Enquanto estes viraram Arautos das Caveiras, elas se chamaram Lilins, espalhando a palavra de Lilith e a fé Bahari, investigando os Capadócios e sabotando os Giovanni em segredo. Após a Reunião da Família, voltaram orgulhosamente ao lado de seus senhores, menos dispostas a tolerar Cainitas que condenem sua fé."
+          },
+          {
+            "title": "Controlando a Besta",
+            "text": "Caos e dor são aspectos da fé Bahari de muitas Lamiae, mas, sem propósito, nada ensinam; controlar sua imposição acidental é importante. Uma vez por sessão, transforme um crítico bestial em combate em um crítico normal."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "The Lamiae were a bloodline of Kindred believed to be descended from Lilith as well as Caine — their founder and high priestess (named Lamia) claimed to be the daughter of the Dark Mother herself. In ancient times, a Cappadocian elder found Lamia performing sacred Bahari rites, and was so taken by her skin and resistance to pain that he Embraced her. From then on, the Lamiae were dedicated warriors protecting the Cappadocian clan, until the clan’s alleged destruction by the Giovanni. The last Lamia was believed destroyed in 1718.\n\nHowever, the Gorgons lived on, much like their Cappadocian charges. While the latter claimed the title “Harbingers of Skulls,” the Lamiae took the title of “Lilins,” spreading the word of Lilith and the Bahari faith while secretly uncovering the fate of the Cappadocians and undermining the Giovanni. Now, in the wake of the Family Reunion, these women stand proudly once again at the side of the Kindred that Embraced them — although they are less inclined to tolerate so-called “Cainites” who chastise their faith."
+          },
+          {
+            "title": "Controlling the Beast",
+            "text": "Chaos and pain are key aspects of the Bahari faith (and, thus, the faith of many Lamiae). However, mindless chaos and pain do not lead to education, so controlling accidental infliction of both is important. Once per session, you can convert a messy critical in combat into a critical."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-the-gorgons-players-guide-v5-5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "As Górgonas — Olhar de Medusa",
+        "en": "The Gorgons — Medusa’s Gaze"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 228 · 5",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 228
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "As Lamiae eram tidas como descendentes de Lilith e Caim. Lamia, fundadora e suma sacerdotisa, dizia ser filha da própria Mãe Sombria. Um ancião Capadócio a encontrou em ritos Bahari e a Abraçou, impressionado com sua pele e resistência à dor. As Lamiae tornaram-se guerreiras protetoras dos Capadócios até a suposta destruição do clã pelos Giovanni. Acreditava-se que a última Lamia fora destruída em 1718.\n\nMas as Górgonas sobreviveram, assim como aqueles que protegiam. Enquanto estes viraram Arautos das Caveiras, elas se chamaram Lilins, espalhando a palavra de Lilith e a fé Bahari, investigando os Capadócios e sabotando os Giovanni em segredo. Após a Reunião da Família, voltaram orgulhosamente ao lado de seus senhores, menos dispostas a tolerar Cainitas que condenem sua fé."
+          },
+          {
+            "title": "Olhar de Medusa",
+            "text": "Quem conhece os mistérios mais profundos da linhagem possui um poder que torna literal o nome Górgona. Uma vez por sessão, após vencer um teste de Intimidação ou de conflito, impeça os perdedores de agir no turno de conflito seguinte. Fora de combate, eles não conseguem se mover por uma cena, a menos que passem num teste de Vontade com dificuldade 5."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "The Lamiae were a bloodline of Kindred believed to be descended from Lilith as well as Caine — their founder and high priestess (named Lamia) claimed to be the daughter of the Dark Mother herself. In ancient times, a Cappadocian elder found Lamia performing sacred Bahari rites, and was so taken by her skin and resistance to pain that he Embraced her. From then on, the Lamiae were dedicated warriors protecting the Cappadocian clan, until the clan’s alleged destruction by the Giovanni. The last Lamia was believed destroyed in 1718.\n\nHowever, the Gorgons lived on, much like their Cappadocian charges. While the latter claimed the title “Harbingers of Skulls,” the Lamiae took the title of “Lilins,” spreading the word of Lilith and the Bahari faith while secretly uncovering the fate of the Cappadocians and undermining the Giovanni. Now, in the wake of the Family Reunion, these women stand proudly once again at the side of the Kindred that Embraced them — although they are less inclined to tolerate so-called “Cainites” who chastise their faith."
+          },
+          {
+            "title": "Medusa’s Gaze",
+            "text": "The Lamiae most steeped in the bloodline’s mysteries hold a private power that betrays a more literal meaning behind their epithet than many realize. Once per session after you win an Intimidation or conflict roll, those who lost become unable to act on the following conflict turn. Outside of combat, they become unable to move for a scene unless they succeed at a Willpower roll (Difficulty 5)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-the-gorgons-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "As Górgonas — O Beijo da Serpente",
+        "en": "The Gorgons — The Serpent’s Kiss"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 227 · 1",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Beijo da Serpente",
+            "text": "Segundo a lenda, a mordida Lamia transmitia peste. Hoje não é mais fatal, mas algumas ainda carregam resquícios da doença. Uma vez por história, infecte uma presa mortal: ela recebe um dano agravado de Vitalidade por noite durante três noites. Isso não afeta vampiros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Serpent’s Kiss",
+            "text": "Legend claims the bite of the Lamiae once spread plague to their victims. These nights the bite of the Lamiae is no longer fatal, although a few like yourself have some remnants of the disease left in their system. Once per story, you can choose to infect your mortal prey with disease, causing them one Aggravated Health damage every night for three nights. This ability has no effect on vampires."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-the-gorgons-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "As Górgonas — Proteção",
+        "en": "The Gorgons — Protection"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 227 · 2",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Proteção",
+            "text": "Você encarna a função original das Lamiae: proteger seus tutelados por qualquer meio. Receba dois dados adicionais ao usar a manobra Bloquear para proteger outra pessoa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Protection",
+            "text": "You embody the original purpose of the Lamiae — the protection of your charges, by any means necessary. You gain a two-dice bonus when using the Block maneuver (Vampire: The Masquerade, p. 297) to protect someone else."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-the-gorgons-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "As Górgonas — Quatro Humores",
+        "en": "The Gorgons — Four Humours"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 227 · 3",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Quatro Humores",
+            "text": "Muitas Lamiae antigas manipulam os quatro humores para controlar corpo ou mente. Uma vez por história, morda um mortal e imponha dois dados de penalidade em ações que não favoreçam imediatamente a Ressonância atual desse mortal. Dura até o fim da noite ou até a Ressonância mudar de humor. Se houver uma Discrasia no sangue, aumente a penalidade para três dados."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Four Humours",
+            "text": "Many ancient Lamiae practice manipulation of the four humors, allowing control over their victim’s body or mind. Once per story you may bite a mortal and inflict a two-dice penalty on all actions which don’t immediately further their current resonance, until the end of the night or their resonance changes humours. If their blood contains a Dyscrasia, increase this penalty to three-dice."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-the-gorgons-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "As Górgonas — Controlando a Besta",
+        "en": "The Gorgons — Controlling the Beast"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 227 · 4",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Controlando a Besta",
+            "text": "Caos e dor são aspectos da fé Bahari de muitas Lamiae, mas, sem propósito, nada ensinam; controlar sua imposição acidental é importante. Uma vez por sessão, transforme um crítico bestial em combate em um crítico normal."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Controlling the Beast",
+            "text": "Chaos and pain are key aspects of the Bahari faith (and, thus, the faith of many Lamiae). However, mindless chaos and pain do not lead to education, so controlling accidental infliction of both is important. Once per session, you can convert a messy critical in combat into a critical."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-the-gorgons-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "As Górgonas — Olhar da Medusa",
+        "en": "The Gorgons — Medusa’s Gaze"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 227 · 5",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Olhar da Medusa",
+            "text": "As Lamiae mais profundas nos mistérios da linhagem possuem um olhar que torna literal o nome Górgona. Uma vez por sessão, após vencer um teste de Intimidação ou de conflito, os perdedores não conseguem agir no turno seguinte do conflito. Fora de combate, não conseguem se mover por uma cena, a menos que gastem um ponto de Força de Vontade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Medusa’s Gaze",
+            "text": "The Lamiae most steeped in their bloodline’s mysteries have a gaze that makes the name Gorgon literal. Once per session, after you win an Intimidation or conflict roll, those who lost cannot act on the following conflict turn. Outside combat, they cannot move for one scene unless they spend one Willpower point."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

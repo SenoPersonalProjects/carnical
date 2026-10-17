@@ -206,6 +206,54 @@ especialmente custos, dificuldades, níveis, quantidades e negações.
 O manifesto do pacote lista essas páginas. A revisão deve registrar o trecho
 conferido e a correção necessária; não basta apagar a sinalização.
 
+## 14. Arena Eterna: primeiro benefício repete Beckett
+
+- **Fonte:** Gehenna War, p. 158 impressa / 160 do PDF; comparação com Beckett, p. 157 / 159.
+- **Contexto:** a imagem original da Arena Eterna realmente traz “Bloody Ancestry”, com rastreamento de descendentes e +2 em Ocultismo, idêntico ao primeiro benefício de Beckett. Não é mistura da extração.
+- **Tratamento:** conservado exatamente o benefício fornecido pela fonte, com nota nos dois idiomas. Não foi inventado um benefício de combate substituto. Aguardando errata ou orientação do revisor.
+
+## 15. Incêndios, Enchentes e Noite do Diabo: frequência de Herói Local
+
+- **Fonte:** Chicago by Night, p. 275 impressa / 276 do PDF, benefício de quatro pontos “Local Hero”.
+- **Contexto:** o mesmo parágrafo diz “once per story”, concede Influência 5 por uma sessão, e termina em “once per chronicle”.
+- **Tratamento:** as duas frequências são preservadas na descrição, com nota sobre a ambiguidade. Não há recarga automática presumida. Confirmar a frequência com o Narrador.
+
+## 16. Especialista em Lupinos: modificador de Soldado
+
+- **Fonte:** Chicago by Night, p. 280 impressa / 281 do PDF, benefício de três pontos “Soldier”.
+- **Contexto:** o texto fornecido diz literalmente “only has a −2 damage modifier” para garras e dentes do Lupino transformado em combate com o personagem.
+- **Tratamento:** o sinal negativo foi preservado nos dois idiomas. Nenhum ajuste automático de dano; confirmar eventual errata antes de alterar o sinal.
+
+## 17. Maxwell: referência editorial não resolvida
+
+- **Fonte:** Let the Streets Run Red, p. 230 impressa / 231 do PDF, benefício de três pontos “Vanguard”.
+- **Contexto:** a fonte remete à aventura Rusted Jungle com “see p. XX”, sem número válido.
+- **Tratamento:** a descrição conserva a referência como aparece no original, com nota de fonte. A referência não foi convertida em link para uma página adivinhada.
+
+## 18. Agata Starek: ressalva cortada na própria página
+
+- **Fonte:** Anarch, p. 191 impressa / 195 do PDF, benefício de cinco pontos “A Alegria da Transgressão”.
+- **Contexto:** a imagem fornecida termina depois de “a potencial perda de Humanidade quando você rola os efeitos da Diablerie ainda”. A página seguinte já inicia Hesha. A ressalva não está completa no PDF recebido.
+- **Tratamento:** o benefício explícito de não perder automaticamente um ponto de Humanidade ao diablerizar alguém com mais Status de seita está descrito. O corte da ressalva aparece nas duas línguas. Não foi concedida imunidade a toda perda de Humanidade por Diablerie e não se inventou a continuação.
+
+## 19. Puttanesca: três pontos de O Don
+
+- **Fonte:** Cultos dos Deuses de Sangue, p. 226 do PDF e impressa, benefício de cinco pontos.
+- **Contexto:** a fonte diz “três pontos adicionais em Contatos, Influência e Recursos”, sem explicitar se são três em cada Antecedente ou três distribuídos entre eles.
+- **Tratamento:** texto preservado nos dois idiomas; não se atribuem automaticamente três ou nove pontos. O Narrador deve confirmar a quantidade antes de aplicar a concessão.
+
+## Diferenças confirmadas entre fontes — não são erros de extração
+
+- **Górgonas, Olhar da Medusa:** Cultos p. 227 pede gasto de um ponto de Vontade para mover-se fora de combate; Guia p. 228 impressa / 230 do PDF pede teste de Vontade, dificuldade 5. Cada versão mantém sua condição.
+- **Samedi / Nasyon San An:** os benefícios de dois e três pontos mudaram entre Descendentes do Barão em Cultos p. 222 e Nasyon San An no Guia p. 229 impressa / 231 do PDF. São versões da mesma linhagem, não concessões cumulativas do mesmo nível.
+- **Arautos, Máscara de Freixo:** Cultos p. 224 limita a Convicção sem Pilar vivo à conservação reconhecível do cadáver. Esse complemento é mantido na versão de Cultos; não foi acrescentado à versão do Guia.
+
+## 20. Furcus: exemplo de parada com “Architecture”
+
+- **Fonte:** Guia do Jogador, p. 112 impressa / 114 do PDF.
+- **Contexto:** o exemplo para deduzir a localização diz “Architecture + Occult”, sem indicar uma Habilidade padrão chamada Arquitetura. O bônus principal de Furcus para Rituais ou Cerimônias é claro.
+- **Tratamento:** o exemplo foi preservado como Arquitetura + Ocultismo. Não foi criada uma Habilidade, nem substituído o exemplo automaticamente por Inteligência ou Ofícios. O Narrador precisa definir a parada desse exemplo.
+
 ## Modelo para acrescentar uma nova dúvida
 
 - **Item / nome nos dois idiomas:**

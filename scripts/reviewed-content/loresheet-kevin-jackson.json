@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-kevin-jackson",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Kevin Jackson",
+    "en": "Kevin Jackson"
+  },
+  "aliases": [
+    "Kevin Jackson",
+    "Kevin Jackson — Sangue novo",
+    "Kevin Jackson — New Blood",
+    "Kevin Jackson — Recém-Graduado",
+    "Kevin Jackson — Recent Graduate",
+    "Kevin Jackson — Para cima e para baixo",
+    "Kevin Jackson — Up and Comer",
+    "Kevin Jackson — Ajudante",
+    "Kevin Jackson — Adjutant",
+    "Kevin Jackson — O Tenente do Príncipe",
+    "Kevin Jackson — The Prince’s Lieutenant"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-kevin-jackson-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Kevin Jackson — Sangue novo",
+        "en": "Kevin Jackson — New Blood"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 277 · 1",
+      "pages": [
+        {
+          "pdfPage": 278,
+          "printedPage": 277
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sangue novo",
+            "text": "Um recém-chegado ao serviço do Príncipe, possivelmente um recém-chegado de outro domínio, você tem acesso a um Máscara especialmente construído no valor de dois pontos para uso uma vez por história, criado usando a Influência de Jackson. Se você causar uma violação da Máscara usando esse Máscara, você não sofrerá nenhuma consequência adversa além de uma conversa severa do Xerife ou do desdém vocal das Harpias no Elísio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "New Blood",
+            "text": "A newcomer to the Prince’s service, possibly a recent arrival from another domain, you have access to a specially constructed Mask worth two dots for use once per story, created using Jackson’s Influence. If you cause a breach of the Masquerade using that Mask, you suffer no adverse consequences beyond a stern talking-to by the Sheriff or the vocal disdain of Harpies in Elysium."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kevin-jackson-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Kevin Jackson — Recém-Graduado",
+        "en": "Kevin Jackson — Recent Graduate"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 277 · 2",
+      "pages": [
+        {
+          "pdfPage": 278,
+          "printedPage": 277
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Recém-Graduado",
+            "text": "Você emergiu de uma das novas “escolas de aperfeiçoamento” do Príncipe, dedicado à sua causa e pronto para ajudá-lo a alcançar os seus objetivos de unidade e justiça. Você recebeu a assistência de um de seus carniçais equivalente a Lacaios (••) que o ensina em Chicago e seu funcionamento e tem a tarefa de ajudá-lo em quaisquer tarefas que o Príncipe lhe atribua."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Recent Graduate",
+            "text": "You have emerged from one of the Prince’s new “finishing schools,” devoted to his cause and ready to help him achieve his goals of unity and justice. You have been granted the assistance of one of his ghouls equivalent to Retainers (••) who schools you in Chicago and its workings and is tasked with assisting you in whatever duties the Prince assigns you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kevin-jackson-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Kevin Jackson — Para cima e para baixo",
+        "en": "Kevin Jackson — Up and Comer"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 277 · 3",
+      "pages": [
+        {
+          "pdfPage": 278,
+          "printedPage": 277
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Para cima e para baixo",
+            "text": "O Príncipe concedeu a você acesso provisório a uma de suas áreas de interesse não-criminal, equivalente a Influência (•••). Uma vez por história, você pode invocar o nome de Jackson para obter sucesso automaticamente em um teste social com um personagem do Narrador Membros cujos interesses se sobreponham aos do Príncipe."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Up and Comer",
+            "text": "The Prince has granted you provisional access to one of his non-criminal areas of interest, equivalent to Influence (•••). Once per story, you may invoke Jackson’s name to automatically succeed in a Social test with a Kindred SPC whose interests overlap with those of the Prince."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kevin-jackson-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Kevin Jackson — Ajudante",
+        "en": "Kevin Jackson — Adjutant"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 277 · 4",
+      "pages": [
+        {
+          "pdfPage": 278,
+          "printedPage": 277
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ajudante",
+            "text": "O Príncipe conhece e valoriza suas capacidades. Ele lhe deu acesso ao núcleo de seu poder pessoal: as gangues que passou anos transformando em seu exército. Uma vez por história, convoque os Bloods para ajudar em uma cena futura, contando como Aliados (Bloods) 3 e Contatos (Bloods) 2."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Adjutant",
+            "text": "The Prince knows your capabilities and values them. He has granted you access to the core of his personal power, the gangs he spent years developing into his personal army. Once per story, you may call upon the Bloods to assist in an upcoming scene, where they count as an effective Allies (Bloods) ••• and Contacts (Bloods) •• Background."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kevin-jackson-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Kevin Jackson — O Tenente do Príncipe",
+        "en": "Kevin Jackson — The Prince’s Lieutenant"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 277 · 5",
+      "pages": [
+        {
+          "pdfPage": 278,
+          "printedPage": 277
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Tenente do Príncipe",
+            "text": "Você é o forte braço direito do Príncipe, o vampiro a quem ele recorre tanto para ações decisivas quanto para conselhos sábios. Você possui Mawla •••• (Kevin Jackson). Uma vez por história, você pode solicitar a oportunidade de presentear o mortal de sua escolha com o Abraço e o Príncipe aprovará esse pedido."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Prince’s Lieutenant",
+            "text": "You are the Prince’s strong right hand, the vampire he turns to for decisive action and wise counsel alike. You possess Mawla •••• (Kevin Jackson). Once per story, you may request the opportunity to gift the mortal of your choosing the Embrace and the Prince will approve that request."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

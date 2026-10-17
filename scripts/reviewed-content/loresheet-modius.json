@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-modius",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Modius",
+    "en": "Modius"
+  },
+  "aliases": [
+    "Modius",
+    "Modius — seguidores",
+    "Modius — followers",
+    "Modius — Aliado da Cidade Ventosa",
+    "Modius — Windy City ally",
+    "Modius — chaves da mansão",
+    "Modius — keys to the Mansion",
+    "Modius — desde 1913",
+    "Modius — since 1913",
+    "Modius — Dinastia indigente",
+    "Modius — Pauper dynasty"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-modius-let-the-streets-run-red-v5-1",
+      "book": "let-the-streets-run-red-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Modius — seguidores",
+        "en": "Modius — followers"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 233 · 1",
+      "pages": [
+        {
+          "pdfPage": 234,
+          "printedPage": 233
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "seguidores",
+            "text": "Você acredita na capacidade de Modius, mesmo que a maioria dos outros não entenda o porquê. Você está em contato com alguns outros Membros que pensam como você. Uma vez por capítulo, você pode pedir a um deles que faça um pequeno favor para você em Gary."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "followers",
+            "text": "You believe in Modius’s capability, even if most others don’t understand why. You’re in contact with a few other like-minded Kindred. Once per chapter, you can call on one of them to do a small favor for you in Gary."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-modius-let-the-streets-run-red-v5-2",
+      "book": "let-the-streets-run-red-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Modius — Aliado da Cidade Ventosa",
+        "en": "Modius — Windy City ally"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 233 · 2",
+      "pages": [
+        {
+          "pdfPage": 234,
+          "printedPage": 233
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aliado da Cidade Ventosa",
+            "text": "Você foi um dos poucos que apoiou a ideia de nomear Modius como Príncipe de Chicago nesta última rodada. Isso lhe rendeu zombarias e inimizade dentro da cidade, mas a notícia de seu apoio chegou ao pobre Príncipe. Como agradecimento, ele enviou um de seus empregados até você e permitiu que você os tornasse seus Lacaios de dois pontos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Windy City ally",
+            "text": "You were one of the few who backed the idea of naming Modius as Prince of Chicago this last go-round. It earned you sneers and enmity within the city, but word of your support got back to the pauper Prince. As thanks, he sent one of his employees to you and permitted you to make them your two-dot Retainer."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-modius-let-the-streets-run-red-v5-3",
+      "book": "let-the-streets-run-red-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Modius — chaves da mansão",
+        "en": "Modius — keys to the Mansion"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 233 · 3",
+      "pages": [
+        {
+          "pdfPage": 234,
+          "printedPage": 233
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "chaves da mansão",
+            "text": "Modius valoriza sua mente estratégica, especialmente quando se trata de pensar sobre os Anarchs. Ele forneceu a você as chaves dos aposentos de hóspedes na mansão do governador (Refúgio •••) e acesso aos arquivos dele, com informações sobre os planos do Juggler. Uma vez por história, peça ao seu Narrador alguma informação sobre os movimentos Anarchs recentes na cidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "keys to the Mansion",
+            "text": "Modius values your strategic mind, especially when it comes to out thinking the Anarchs. He’s provided you with keys to the guest quarters at the governor’s mansion (Haven •••) and access to his files, with intel on Juggler’s plans. Once per story, ask your Storyteller for a piece of information on recent Anarch movements in the city."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-modius-let-the-streets-run-red-v5-4",
+      "book": "let-the-streets-run-red-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Modius — desde 1913",
+        "en": "Modius — since 1913"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 233 · 4",
+      "pages": [
+        {
+          "pdfPage": 234,
+          "printedPage": 233
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "desde 1913",
+            "text": "Você fez parte da tentativa original de Modius de tomar a práxis e participou de alguns dos ataques aos partidários de Lodin. Ele nunca esqueceu o seu serviço e garantiu que os vampiros em Gary ouvissem sobre seus atos. Receba Status: Gary Camarilla (••••). Modius também declarou que você pode se alimentar em qualquer lugar de Gary, embora seja improvável que os Anarchs aceitem isso se você entrar em seu território."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "since 1913",
+            "text": "You were part of Modius’s original attempt at seizing praxis and took part in some of the attacks on Lodin’s loyalists. He’s never forgotten your service and made sure the vampires in Gary heard about your deeds. Gain Status: Gary Camarilla (••••). Modius has also declared that you may feed anywhere in Gary, though the Anarchs are unlikely to abide by that if you wander into their territory."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-modius-let-the-streets-run-red-v5-5",
+      "book": "let-the-streets-run-red-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Modius — Dinastia indigente",
+        "en": "Modius — Pauper dynasty"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 233 · 5",
+      "pages": [
+        {
+          "pdfPage": 234,
+          "printedPage": 233
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Dinastia indigente",
+            "text": "O que quer que os Membros de Chicago pensem, Modius é um príncipe e já o é há mais de meio século. Ele tem Sagacidade sobre o que é preciso para governar e transmite essa sabedoria a você na esperança de que você aproveite a práxis em algum outro domínio - desde que não seja Gary nem Chicago. Ganhe Modius como um Mawla de cinco pontos e ganhe Influência (••) em uma cidade de sua escolha para refletir a base que ele ajudou você a estabelecer lá."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Pauper dynasty",
+            "text": "Whatever Chicago’s Kindred think, Modius is a Prince and has been one for over half a century now. He has insight into what it takes to rule and imparts that wisdom to you in the hopes you’ll seize praxis in some other domain — provided it’s neither Gary nor Chicago. Gain Modius as a five-dot Mawla, and gain Influence (••) in a city of your choosing to reflect the groundwork he’s helped you lay there."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

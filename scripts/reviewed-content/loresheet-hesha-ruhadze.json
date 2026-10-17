@@ -1,0 +1,254 @@
+{
+  "id": "loresheet-hesha-ruhadze",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Hesha Ruhadze",
+    "en": "Hesha Ruhadze"
+  },
+  "aliases": [
+    "Hesha Ruhadze",
+    "Hesha Ruhadze — Uma das Obras de Hesha",
+    "Hesha Ruhadze — One of Hesha's Works",
+    "Hesha Ruhadze — Algo que Hesha Quer",
+    "Hesha Ruhadze — Something Hesha Wants",
+    "Hesha Ruhadze — Museu dos Fiéis",
+    "Hesha Ruhadze — Museum of the Faithful",
+    "Hesha Ruhadze — Culto de Sangue",
+    "Hesha Ruhadze — Blood Cult",
+    "Hesha Ruhadze — Ouça o Sangue Cantar",
+    "Hesha Ruhadze — Hear the Blood Sing"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-hesha-ruhadze-anarch-v5-1",
+      "book": "anarch-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Hesha Ruhadze — Uma das Obras de Hesha",
+        "en": "Hesha Ruhadze — One of Hesha's Works"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 192 · 1",
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 192
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Uma das Obras de Hesha",
+            "text": "Você possui um tratado de Hesha sobre a história da existência dos Membros. Embora controverso e contrário à mitologia Cainita tradicional, ele acrescenta um dado às paradas baseadas em Ocultismo ou relacionadas às origens dos vampiros. Pode ser vendido em troca de um ponto de Recursos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "One of Hesha's Works",
+            "text": "You own a treatise by Hesha on the history of Kindred existence. Though controversial and opposed to traditional Cainite mythology, it adds one die to Occult-based pools or pools concerning vampire origins. It can be sold for one dot of Resources."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-hesha-ruhadze-anarch-v5-2",
+      "book": "anarch-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Hesha Ruhadze — Algo que Hesha Quer",
+        "en": "Hesha Ruhadze — Something Hesha Wants"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 192 · 2",
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 192
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Algo que Hesha Quer",
+            "text": "Você sabe o que Hesha busca e pode obtê-lo, ou já o possui. O item ou informação pode servir para barganhar, chantagear ou ameaçar Hesha, ou como presente em troca de um favor futuro. Acrescente três dados a testes de Persuasão ou Intimidação que envolvam Hesha ou seu culto. Também pode vendê-lo e acrescentar três pontos aos seus Recursos, até cinco, durante a história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Something Hesha Wants",
+            "text": "You know what Hesha seeks and can get it, or you already have it. The item or information can be used to bargain, blackmail or threaten Hesha, or as a gift in exchange for a future favor. Add three dice to Persuasion or Intimidation rolls involving Hesha or his cult. You can also sell it and add three points to your Resources, up to five, during the story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-hesha-ruhadze-anarch-v5-3",
+      "book": "anarch-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Hesha Ruhadze — Museu dos Fiéis",
+        "en": "Hesha Ruhadze — Museum of the Faithful"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 192 · 3",
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 192
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Museu dos Fiéis",
+            "text": "Você pertence a um museu subterrâneo de história vampírica do Ministério, fortemente protegido e cheio de informações sobre Cainitas lendários. Deve apresentar um tesouro novo todos os anos para manter a associação; perderá o acesso se não o fizer ou roubar o acervo Setita. Enquanto for integrante, receba três dados adicionais em todos os testes de pesquisa sobre vampiros e sua história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Museum of the Faithful",
+            "text": "You belong to an underground Ministry vampire history museum, heavily guarded and full of information about legendary Cainites. You must present a new treasure every year to maintain the association; you will lose access if you do not do so or steal the Setite collection. While a member, receive three additional dice on all research tests about vampires and their history."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-hesha-ruhadze-anarch-v5-4",
+      "book": "anarch-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Hesha Ruhadze — Culto de Sangue",
+        "en": "Hesha Ruhadze — Blood Cult"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 192 · 4",
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 192
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "clans": [
+          "Ministério"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Culto de Sangue",
+            "text": "Somente personagens do Ministério. Hesha ensinou os velhos métodos dos Seguidores de Set, nos quais mortais e carniçais vão além da servidão. Seu culto inclui um guerreiro, um sacerdote e um erudito, além de fontes voluntárias de alimentação. Distribua três pontos entre esses cultistas especializados como Rebanho ou Lacaios. Eles conhecem melhor sua espécie que servos comuns e recebem um dado adicional em todas as interações com vampiros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Blood Cult",
+            "text": "Ministry characters only. Hesha taught the old ways of the Followers of Set, in which Kine and ghouls go beyond servitude. Their cult includes a warrior, a priest and a scholar, as well as voluntary sources of food. Distribute three points among these specialized cultists as Herd or Retainers. They know their species better than ordinary servants and receive an additional die in all interactions with vampires."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-hesha-ruhadze-anarch-v5-5",
+      "book": "anarch-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Hesha Ruhadze — Ouça o Sangue Cantar",
+        "en": "Hesha Ruhadze — Hear the Blood Sing"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 192 · 5",
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 192
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "clans": [
+          "Ministério"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ouça o Sangue Cantar",
+            "text": "Somente personagens do Ministério. Ensinado por Hesha ou por conquista própria, você escuta Sutekh mais alto que a Besta. Por enigmas, visões e refrões, o Narrador ocasionalmente oferece orientações vindas da voz divina em seu Vitae. Uma vez por sessão, resista automaticamente ao Frenesi, tratando-o como uma Compulsão do Ministério."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hear the Blood Sing",
+            "text": "Ministry characters only. Taught by Hesha or by self-conquest, you hear Sutekh louder than the Beast. Through riddles, visions, and refrains, the Storyteller occasionally offers guidance from the divine voice in its Vitae. Once per session, automatically resist Frenzy, treating it as a Ministry Compulsion."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

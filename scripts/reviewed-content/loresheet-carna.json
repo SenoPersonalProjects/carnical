@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-carna",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Carna",
+    "en": "Carna"
+  },
+  "aliases": [
+    "Carna",
+    "Carna — Abraçar a Visão",
+    "Carna — Embrace the Vision",
+    "Carna — Rastro Rebelde",
+    "Carna — Rebel Trail",
+    "Carna — Rituais Heterodoxos",
+    "Carna — Heterodox Rituals",
+    "Carna — Laço Reimaginado",
+    "Carna — Lasso Reimagined",
+    "Carna — Livro da Guerra dos Túmulos",
+    "Carna — Tomb War Book"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-carna-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Carna — Abraçar a Visão",
+        "en": "Carna — Embrace the Vision"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 385 · 1",
+      "pages": [
+        {
+          "pdfPage": 389,
+          "printedPage": 385
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Abraçar a Visão",
+            "text": "Você está plenamente comprometido com a visão de Carna para um novo Clã Tremere e é tomado por um sentido de autoconfiança maior na presença de seus companheiros de subfacção. Nessa situação, você tem um dado adicional em todos os testes de Força de Vontade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Embrace the Vision",
+            "text": "You are fully committed to Carna's vision for a new Tremere Clan and are filled with a greater sense of self-confidence in the Presence of your fellow subfaction. In this situation, you have an additional die on all Willpower tests."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carna-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Carna — Rastro Rebelde",
+        "en": "Carna — Rebel Trail"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 385 · 2",
+      "pages": [
+        {
+          "pdfPage": 389,
+          "printedPage": 385
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Rastro Rebelde",
+            "text": "Você seguiu o rastro de Carna após o rompimento inicial dela com o Clã Tremere, absorvendo os sentimentos de rebelião e liberdade. Você resolveu nunca mais ser um escravo de Sangue outra vez. Sempre que correr tal risco, você pode realizar um teste de Força de Vontade (com uma Dificuldade igual à Potência de Sangue do Vitae ingerido) para ignorá-lo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Rebel Trail",
+            "text": "You followed Carna's trail after her initial break with the Tremere Clan, absorbing the feelings of rebellion and freedom. You resolved never to be a slave of Blood again. Whenever you run such a risk, you can make a Willpower roll (with a Difficulty equal to the Blood Potency of the ingested Vitae) to ignore it."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carna-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Carna — Rituais Heterodoxos",
+        "en": "Carna — Heterodox Rituals"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 385 · 3",
+      "pages": [
+        {
+          "pdfPage": 389,
+          "printedPage": 385
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Rituais Heterodoxos",
+            "text": "Carna emprega a própria sanidade ou alma para abastecer sua magia, em vez de se despojar de seu Vitae em ortodoxia Hermética. O entendimento que você tem do processo dela o capacita a realizar rituais do mesmo modo. Uma vez por história você pode realizar um ritual do seu conhecimento sem precisar gastar Sangue, porém, se tirar um crítico bestial, também se transtorna de algum modo (geralmente ficando intensamente paranoico ou temeroso de sangue) até o final da história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Heterodox Rituals",
+            "text": "Carna uses her own sanity or soul to fuel her magic, rather than shedding her Vitae in Hermetic orthodoxy. Your understanding of her process lets you perform rituals the same way. Once per story, you may perform a ritual you know without spending Blood. However, if you roll a messy critical, you also become disturbed in some way (usually intensely paranoid or fearful of blood) until the end of the story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carna-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Carna — Laço Reimaginado",
+        "en": "Carna — Lasso Reimagined"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 385 · 4",
+      "pages": [
+        {
+          "pdfPage": 389,
+          "printedPage": 385
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Laço Reimaginado",
+            "text": "Você estudou a magia de Carna e seu método incomum de reimaginar o vinculum, e pode estender os efeitos do ritual dela para terceiros. Transar com um alvo, mortal ou não vivo, cria um Laço de Sangue entre ele, você e Carna, apesar da ausência dela. Encontros sexuais repetidos reforçam o Laço de Sangue, conforme as regras normais do Laço. Com isso você pode contornar a perdição do Clã Tremere, porém, o Laço só dura até a conclusão da história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Lasso Reimagined",
+            "text": "You have studied Carna's magic and her unusual method of reimagining the vinculum, and can extend the effects of her ritual to others. Having sex with a target, mortal or non-living, creates a Blood Bond between them, you and Carna, despite her absence. Repeated sexual encounters reinforce the Blood Bond, as per the Bond's normal rules. With this you can bypass the Bane of Clan Tremere, however, the Bond only lasts until the conclusion of the story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-carna-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Carna — Livro da Guerra dos Túmulos",
+        "en": "Carna — Tomb War Book"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 385 · 5",
+      "pages": [
+        {
+          "pdfPage": 389,
+          "printedPage": 385
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Livro da Guerra dos Túmulos",
+            "text": "Segundo os rumores, o tomo conhecido como Livro da Guerra dos Túmulos permitiu que Carna rompesse o Laço dela com o Clã Tremere. Você possui uma cópia, que lhe concede um sucesso automático em todos os testes de Ocultismo relacionados à Gehenna, sua prevenção e o rompimento das correntes que prendem os vampiros aos seus Anciões. O livro o torna imune ao Laço enquanto estiver em sua posse e você seguir seus ensinamentos arcanos. No entanto, os Tremere buscam destruí-lo e ao livro; o Narrador também pode penalizá-lo com um dado em qualquer teste Social ou Mental afetado por sua paranoia constante."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Tomb War Book",
+            "text": "According to rumors, the tome known as the Book of Gravewars allowed Carna to break her bond with the Tremere Clan. You possess a copy, which grants you an automatic success on all Occult checks related to Gehenna, its prevention, and the breaking of the chains that bind vampires to their Elders. The book makes you immune to the Blood Bond as long as it is in your possession and you follow its arcane teachings. However, the Tremere seek to destroy him and the book; Storyteller can also penalize you with one die on any Social or Mental rolls affected by your constant paranoia."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

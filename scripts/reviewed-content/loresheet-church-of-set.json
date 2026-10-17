@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-church-of-set",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "A Igreja de Set",
+    "en": "The Church of Set"
+  },
+  "aliases": [
+    "A Igreja de Set",
+    "The Church of Set",
+    "A Igreja de Set — Congregação",
+    "The Church of Set — Congregation",
+    "A Igreja de Set — Acesso à Veia Secreta",
+    "The Church of Set — Access to the Secret Vein",
+    "A Igreja de Set — Liberdade dos Aeons",
+    "The Church of Set — Freedom of the Aeons",
+    "A Igreja de Set — Processo Degenerativo",
+    "The Church of Set — Degenerative Process",
+    "A Igreja de Set — Corpo de Set",
+    "The Church of Set — Set Body"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-church-of-set-anarch-v5-1",
+      "book": "anarch-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "A Igreja de Set — Congregação",
+        "en": "The Church of Set — Congregation"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 193 · 1",
+      "pages": [
+        {
+          "pdfPage": 197,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Congregação",
+            "text": "Você tem acesso a um rebanho religioso unificado que pode manipular. Pode ser de qualquer religião dominante; os fiéis podem vê-lo como líder ou apenas outro paroquiano. Tenha Rebanho 2 para alimentar-se facilmente, desde que demonstre e pratique essa fé regularmente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Congregation",
+            "text": "You have access to a unified religious Herd that you can manipulate. It can be from any dominant religion; congregants may see him as a leader or just another parishioner. Have Herd 2 to feed yourself easily, as long as you demonstrate and practice this faith regularly."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-church-of-set-anarch-v5-2",
+      "book": "anarch-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "A Igreja de Set — Acesso à Veia Secreta",
+        "en": "The Church of Set — Access to the Secret Vein"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 193 · 2",
+      "pages": [
+        {
+          "pdfPage": 197,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Acesso à Veia Secreta",
+            "text": "Por uma entrevista simples, você percebe se um mortal ou Membro esconde algum segredo. Receba dois dados adicionais em testes baseados em Percepção para descobrir se alguém guarda um segredo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Access to the Secret Vein",
+            "text": "By a simple interview, you can tell if a mortal or Kindred is hiding any secrets. Receive two additional dice in tests based on Awareness to find out if someone is keeping a secret."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-church-of-set-anarch-v5-3",
+      "book": "anarch-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "A Igreja de Set — Liberdade dos Aeons",
+        "en": "The Church of Set — Freedom of the Aeons"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 193 · 3",
+      "pages": [
+        {
+          "pdfPage": 197,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Liberdade dos Aeons",
+            "text": "Diz a lenda que Set despreza os outros fundadores, que os Setitas chamam de Aeons. Você compartilha a resistência ao poder deles: receba dois dados adicionais para resistir a Dominação e Presença usadas por vampiros de outros clãs."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Freedom of the Aeons",
+            "text": "Legend has it that Set despises the other founders, who the Setites call Aeons. You share resistance to their power: gain two additional dice to resist Dominate and Presence used by vampires of other clans."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-church-of-set-anarch-v5-4",
+      "book": "anarch-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "A Igreja de Set — Processo Degenerativo",
+        "en": "The Church of Set — Degenerative Process"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 193 · 4",
+      "pages": [
+        {
+          "pdfPage": 197,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Processo Degenerativo",
+            "text": "A Igreja ensina que é preciso chegar ao fundo antes de erguer-se até Sutekh. Você leva mortais ou imortais à corrupção para que saiam purificados. Com sucesso em Manipulação + Persuasão, convença alguém a quebrar um Princípio ou Convicção e ganhar ao menos uma Mácula. Ao final, o alvo sente-se purificado e recupera até três pontos de dano superficial ou um agravado em Força de Vontade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Degenerative Process",
+            "text": "The Church teaches that one must reach the bottom before rising to Sutekh. You lead Kine or immortals to corruption so that they emerge purified. With success on Manipulation + Persuasion, convince someone to break a Principle or Conviction and gain at least one Stain. At the end, the target feels purified and recovers up to three points of Superficial Willpower damage or one Aggravated Willpower damage."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-church-of-set-anarch-v5-5",
+      "book": "anarch-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "A Igreja de Set — Corpo de Set",
+        "en": "The Church of Set — Set Body"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 193 · 5",
+      "pages": [
+        {
+          "pdfPage": 197,
+          "printedPage": 193
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Corpo de Set",
+            "text": "Você tem um fragmento do esqueleto, sarcófago ou túnica de Set. A implicação de sua Morte Final é discutível, mas a relíquia concede Status 4 entre outros Ministros. Ela ajuda a tocar a mente de Set pela meditação: uma vez por história, reduza em um as Máculas por quebrar um Princípio, se seguir o que você e o Narrador interpretam como a vontade de seu deus."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Set Body",
+            "text": "You have a fragment of Set's skeleton, sarcophagus, or robe. The implication of his Final Death is debatable, but the relic grants Status 4 among other Ministers. It helps touch the mind of Set through meditation: once per story, reduce the Stains by one for breaking a Tenet if you follow what you and the Storyteller interpret as your god's will."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

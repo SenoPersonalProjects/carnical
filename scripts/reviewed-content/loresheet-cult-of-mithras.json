@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-cult-of-mithras",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Culto de Mithras",
+    "en": "Cult of Mithras"
+  },
+  "aliases": [
+    "Culto de Mithras",
+    "Cult of Mithras",
+    "Culto de Mithras — Neófito",
+    "Cult of Mithras — Neophyte",
+    "Culto de Mithras — Nymphus",
+    "Cult of Mithras — Nymphus",
+    "Culto de Mithras — Leo",
+    "Cult of Mithras — Leo",
+    "Culto de Mithras — Perses",
+    "Cult of Mithras — Perses",
+    "Culto de Mithras — Invicto",
+    "Cult of Mithras — Undefeated"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-cult-of-mithras-camarilla-v5-1",
+      "book": "camarilla-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Culto de Mithras — Neófito",
+        "en": "Cult of Mithras — Neophyte"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 188 · 1",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Neófito",
+            "text": "Seu serviço a Mitras está na infância, mas você aprendeu como manipular mortais falando de religião e grandeza. Você pode efetivamente liderar um pequeno culto mortal, concedendo-lhe um dado de bônus para todos os testes Sociais ao interagir com seu rebanho ou Lacaios. Esta tradição vem tanto da adesão ao culto ou através do estudo de suas práticas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Neophyte",
+            "text": "Your service to Mithras is in its infancy, but you have learned how to manipulate Kine by talking about religion and greatness. You can effectively lead a small mortal cult, granting you a bonus die to all Social rolls when interacting with your Herd or Retainers. This tradition comes either from adherence to the cult or through the study of its practices."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cult-of-mithras-camarilla-v5-2",
+      "book": "camarilla-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Culto de Mithras — Nymphus",
+        "en": "Cult of Mithras — Nymphus"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 188 · 2",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Nymphus",
+            "text": "Os Mitraistas premiam o título de Nymphus para novos senhores dentro do culto. Esta tradição concede a você conhecimento da linhagem e costumes Ventrue de Abraço, junto com o status cerimonial de um pai reverenciado. Você ganha dois dados de bônus para todas as jogadas em que os costumes Ventrue mitraicos são discutidos ou estudados, e o equivalente a dois pontos no Antecedente de status enquanto estiver entre os Ventrue."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Nymphus",
+            "text": "The Mithraists award the title of Nymphus to new lords within the cult. This tradition grants you knowledge of Embracing Ventrue lineage and customs, along with the ceremonial Status of a revered father. You gain two bonus dice for all rolls in which Mithraic Ventrue customs are discussed or studied, and the equivalent of two points in Background of Status while among the Ventrue."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cult-of-mithras-camarilla-v5-3",
+      "book": "camarilla-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Culto de Mithras — Leo",
+        "en": "Cult of Mithras — Leo"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 188 · 3",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Leo",
+            "text": "Entre os mais homenageados membros do culto mitraico, aqueles Membros com o título de Leo são confiados para entregar mensagens clandestinas entre Mitraístas, e às vezes até fora da ordem. Mitraístas não hesitaram em confiar em você com informações e mensagens, e você ganha um dado para todos os testes não- Disciplinas em que você tenta obter a confiança de outros vampiros em você. Claro se sua lealdade está fora do culto, esta Camada concede a você acesso a uma inteligência profundamente perigosa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Leo",
+            "text": "Among the most honored Kindred of the Mithraic cult, those Kindred with the title Leo are trusted to deliver clandestine messages among Mithraists, and sometimes even outside the order. Mithraists have not hesitated to trust you with information and messages, and you gain one die for all non-Discipline rolls in which you attempt to gain other vampires' trust in you. Of course if your allegiance lies outside the cult, this Layer grants you access to a deeply dangerous intelligence."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cult-of-mithras-camarilla-v5-4",
+      "book": "camarilla-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Culto de Mithras — Perses",
+        "en": "Cult of Mithras — Perses"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 188 · 4",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Perses",
+            "text": "O Culto de Mitras frequentemente se entrega ao ritual de derramamento de sangue e sacrifício, com o Perses como o mestre de tais cerimônias. Um vampiro Declarado Perses de Mithras recebe uma espada curta e autoridade para matar inimigos do culto, com a garantia de proteção total (álibis, refúgios secretos, acesso a recursos) se sua identidade como o assassino se tornou conhecida. Esta tradição dá a você três pontos de Antecedentes para alocar em qualquer domínio em que o Culto de Mitras é presente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Perses",
+            "text": "The Cult of Mithras often indulges in ritual bloodshed and sacrifice, with the Perses as the master of such ceremonies. An Avowed vampire Perses of Mithras is given a short sword and authority to kill enemies of the cult, with the guarantee of full protection (alibis, secret havens, access to Resources) if his identity as the killer becomes known. This tradition gives you three Backgrounds points to allocate to any domain in which the Cult of Mithras is present."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cult-of-mithras-camarilla-v5-5",
+      "book": "camarilla-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Culto de Mithras — Invicto",
+        "en": "Cult of Mithras — Undefeated"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 188 · 5",
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 188
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Invicto",
+            "text": "Você carrega a centelha de Mithras dentro de você. Possivelmente você tirou vitae de seu diablerista MontyCoven, ou talvez você já bebeu do próprio Mithras como parte de um Laço de Sangue. Agora, Mithras vive em você. Ocasionalmente o antigo vampiro fala com você em comando ou orientando, embora ele não seja poderoso o suficiente para compelir. Quando você pede por favor a Mithras, você ganha três dados adicionais nos testes de Dominação, Fortitude ou Presença (escolha um) para o restante da noite."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Undefeated",
+            "text": "You carry the spark of Mithras within you. Possibly you took vitae from his diablerist Monty Coven, or perhaps you already drank from Mithras himself as part of a Blood Bond. Now Mithras lives in you. Occasionally the ancient vampire speaks to you in command or guidance, although he is not powerful enough to compel. When you ask Mithras for a favor, you gain three additional dice on the Dominate, Fortitude, or Presence rolls (choose one) for the remainder of the night."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

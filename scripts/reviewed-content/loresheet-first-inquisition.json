@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-first-inquisition",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "A Primeira Inquisição",
+    "en": "The First Inquisition"
+  },
+  "aliases": [
+    "A Primeira Inquisição",
+    "The First Inquisition",
+    "A Primeira Inquisição — Erros do Passado",
+    "The First Inquisition — Past Mistakes",
+    "A Primeira Inquisição — Os Nomes dos Culpados",
+    "The First Inquisition — The Names of the Culprits",
+    "A Primeira Inquisição — A Seita de Santiago",
+    "The First Inquisition — The Sect of Santiago",
+    "A Primeira Inquisição — Segundo Ato",
+    "The First Inquisition — Second Act",
+    "A Primeira Inquisição — Ponto Obscuro",
+    "The First Inquisition — Dark Spot"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-first-inquisition-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "A Primeira Inquisição — Erros do Passado",
+        "en": "The First Inquisition — Past Mistakes"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 388 · 1",
+      "pages": [
+        {
+          "pdfPage": 392,
+          "printedPage": 388
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Erros do Passado",
+            "text": "Você conhece a história dos Membros e pode citar com todos os detalhes os domínios e Príncipes que a Inquisição destruiu na encarnação original dela. Você pode educar qualquer vampiro sobre os perigos históricos da Inquisição. Uma vez por história, você pode pedir para o Narrador uma informação a respeito da Inquisição original."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Past Mistakes",
+            "text": "You know the history of the Kindred and can mention in detail the domains and Princes that the Inquisition destroyed in its original incarnation. You can educate any vampire about the historical dangers of the Inquisition. Once per story, you can ask Storyteller for information about the original Inquisition."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-first-inquisition-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "A Primeira Inquisição — Os Nomes dos Culpados",
+        "en": "The First Inquisition — The Names of the Culprits"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 388 · 2",
+      "pages": [
+        {
+          "pdfPage": 392,
+          "printedPage": 388
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Os Nomes dos Culpados",
+            "text": "Seus conhecimentos das relações entre vampiros e Inquisição inclui Membros manipuladores. Embora a maioria esteja morta nestas noites, muitos dos seus descendentes sobrevivem e correm o risco de ser chantageados pelas traições dos seus Senhores. Uma vez por história, você pode pedir ao Narrador o nome de um descendente desses traidores em seu domínio, caso exista um."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Names of the Culprits",
+            "text": "His knowledge of relations between vampires and the Inquisition includes Kindred handlers. Although most are dead these nights, many of their descendants survive and are at risk of being blackmailed by the betrayals of their Lords. Once per story, you may ask Storyteller for the name of a descendant of these traitors in your domain, if one exists."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-first-inquisition-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "A Primeira Inquisição — A Seita de Santiago",
+        "en": "The First Inquisition — The Sect of Santiago"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 388 · 3",
+      "pages": [
+        {
+          "pdfPage": 392,
+          "printedPage": 388
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Seita de Santiago",
+            "text": "Você tem contatos que se consideram “velhos Inquisidores”. O Sectus Sancti lacomi cultiva um ressentimento profundo pela espalhafatosa contraparte moderna do grupo. O abade deles é um Contato de quatro pontos que você pode contatar uma vez por história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Sect of Santiago",
+            "text": "You have Contacts who consider themselves “old Inquisitors”. The Sectus Sancti lacomi harbors a deep resentment for the group's flashy modern counterpart. Their abbot is a four-point Contact that you can contact once per story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-first-inquisition-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "A Primeira Inquisição — Segundo Ato",
+        "en": "The First Inquisition — Second Act"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 388 · 4",
+      "pages": [
+        {
+          "pdfPage": 392,
+          "printedPage": 388
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Segundo Ato",
+            "text": "Você tem um Contato dentro da Segunda Inquisição ou da arquidiocese Católica local: um arquivista, exorcista, armeiro, etc. Você não tem nenhum poder sobre eles, mas sabe como obter informação deles — ou alimentá-los com desinformação — caso seja preciso."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Second Act",
+            "text": "You have a Contact within the Second Inquisition or the local Catholic archdiocese: an archivist, exorcist, armorer, etc. You have no power over them, but you know how to get information from them — or feed them misinformation — if necessary."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-first-inquisition-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "A Primeira Inquisição — Ponto Obscuro",
+        "en": "The First Inquisition — Dark Spot"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 388 · 5",
+      "pages": [
+        {
+          "pdfPage": 392,
+          "printedPage": 388
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ponto Obscuro",
+            "text": "Você identificou um local dentro do seu domínio que a Segunda Inquisição teme. Uma vez por história, se você ou qualquer um alvejado pela Segunda Inquisição se esconder nesse local, os caçadores cancelarão a busca. Essa anomalia parece ser uma bênção, mas levanta a questão: o que é tão sagrado ou profano sobre esse lugar que afugenta a maior ameaça aos Membros nas noites de hoje?"
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Dark Spot",
+            "text": "You have identified a location within your domain that the Second Inquisition fears. Once per story, if you or anyone targeted by the Second Inquisition hides in this location, the hunters will call off the search. This anomaly appears to be a blessing, but it raises the question: what is so sacred or profane about this place that it wards off the greatest threat to the Kindred these nights?"
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

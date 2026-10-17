@@ -1,0 +1,269 @@
+{
+  "id": "loresheet-blacksite-24",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Instalação Secreta 24",
+    "en": "Blacksite 24"
+  },
+  "aliases": [
+    "Instalação Secreta 24",
+    "Blacksite 24",
+    "Instalação Secreta 24 — Rumores",
+    "Blacksite 24 — Rumors",
+    "Instalação Secreta 24 — Não, sério!",
+    "Blacksite 24 — No, Really!",
+    "Instalação Secreta 24 — A paranóia atinge profundamente",
+    "Blacksite 24 — Paranoia Strikes Deep",
+    "Instalação Secreta 24 — É meu trabalho saber essas coisas",
+    "Blacksite 24 — It’s My Job To Know This Stuff",
+    "Instalação Secreta 24 — Aquele que partiu",
+    "Blacksite 24 — The One That Got Away"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-blacksite-24-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Instalação Secreta 24 — Rumores",
+        "en": "Blacksite 24 — Rumors"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 264, 265 · 1",
+      "pages": [
+        {
+          "pdfPage": 265,
+          "printedPage": 264
+        },
+        {
+          "pdfPage": 266,
+          "printedPage": 265
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Rumores",
+            "text": "Você conhece um vampiro que conhece outro que conhece alguém levado por sujeitos assustadores, suspeitosamente bem informados e armados, parecidos com homens de preto, em veículos negros sem identificação na entrada da cidade. Uma vez por história, peça ao Narrador um rumor; ele pode ou não ter qualquer fundamento na realidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Rumors",
+            "text": "You know a lick who knows a lick who knows somebody that got scooped up by creepy, suspiciously well-informed and well-armed MIB-looking dudes in unmarked black vehicles on the way into the city. Once per story, you may ask the Storyteller to feed you one rumor — which may or may not be based in anything resembling reality."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blacksite-24-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Instalação Secreta 24 — Não, sério!",
+        "en": "Blacksite 24 — No, Really!"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 264, 265 · 2",
+      "pages": [
+        {
+          "pdfPage": 265,
+          "printedPage": 264
+        },
+        {
+          "pdfPage": 266,
+          "printedPage": 265
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Não, sério!",
+            "text": "Você é o vampiro que os outros conhecem. Talvez tenha acabado de chegar a Chicago e presenciado algo na viagem, ou faça parte de uma rede clandestina de fuga que ajuda Membros desesperados a escapar. Você sabe o que viu. Uma vez por história, peça ao Narrador uma informação sólida sobre o fenômeno estranho que testemunhou."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "No, Really!",
+            "text": "You are the lick the other lick knows. Whether you’re a recent arrival in Chicago who witnessed something in your travels or part of a Kindred underground railroad who helps ferry the desperate fleeing from their situations, you know what you’ve seen. Once per story, you may ask the Storyteller for a solid piece of information about the weirdness you’ve witnessed."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blacksite-24-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Instalação Secreta 24 — A paranóia atinge profundamente",
+        "en": "Blacksite 24 — Paranoia Strikes Deep"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 264, 265 · 3",
+      "pages": [
+        {
+          "pdfPage": 265,
+          "printedPage": 264
+        },
+        {
+          "pdfPage": 266,
+          "printedPage": 265
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A paranóia atinge profundamente",
+            "text": "Talvez você já tenha sido administrador do SchreckNET. Talvez você seja um teórico da conspiração paranóico agora. Talvez você seja um investigador de primeira linha com um milhão de identidades e fontes alternativas queimáveis ​​em todo o mundo. Qualquer que seja a explicação, você sabe da existência do FIRSTLIGHT e sabe que eles estão ativos em algum lugar próximo e possivelmente dentro de Chicago. Você possui Contatos (••••) cuja experiência específica está relacionada ao FIRSTLIGHT ou operações relacionadas de caça a vampiros patrocinadas pelo governo e pode utilizá-los uma vez por história antes que desapareçam fora de alcance."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Paranoia Strikes Deep",
+            "text": "Maybe you were a SchreckNET administrator once. Maybe you’re a paranoid conspiracy theorist now. Maybe you’re a top-flight investigator with a million burnable alternate identities and sources all over the globe. Whatever the explanation, you know about the existence of FIRSTLIGHT and you know they’re active somewhere near, and possibly inside, Chicago. You possess Contacts (••••) whose particular expertise relates to FIRSTLIGHT or related government-sponsored vampire hunting operations and may utilize them once per story before they disappear out of reach."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blacksite-24-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Instalação Secreta 24 — É meu trabalho saber essas coisas",
+        "en": "Blacksite 24 — It’s My Job To Know This Stuff"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 264, 265 · 4",
+      "pages": [
+        {
+          "pdfPage": 265,
+          "printedPage": 264
+        },
+        {
+          "pdfPage": 266,
+          "printedPage": 265
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "É meu trabalho saber essas coisas",
+            "text": "Você faz parte do aparato de segurança do Domínio de Chicago – um conselheiro especialista do Príncipe, um agente do Xerife, um protetor empregado por um dos Primogênitos ou outro membro de alto escalão de um clã poderoso – cuja tarefa envolve descobrir e neutralizar possíveis ameaças aos Membros como um todo. Posteriormente, você teve motivos maiores do que a maioria para descobrir a verdade de certos rumores perturbadores, incluindo a contratação de seus próprios investigadores para separar os fatos dos boatos. Conseqüentemente, você conseguiu descobrir quantidades consideráveis ​​de informações sobre os próprios caçadores de vampiros do governo, incluindo o fato de que eles têm algum tipo de instalação permanente perto de Chicago. Este conhecimento especializado concede a você Status (••) entre os Membros, que frequentemente vêm até você para se beneficiar dele, e Influência (••) entre os mortais, que você usa para manipular o mundo mortal em benefício de seus clientes."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "It’s My Job To Know This Stuff",
+            "text": "You are part of the security apparatus of the Chicago Domain — a specialist advisor to the Prince, an agent of the Sheriff, a protector employed by one of the Primogen or another high-ranking member of a powerful clan — whose task encompasses ferreting out and neutralizing possible threats to the Kindred as a whole. Subsequently, you’ve had greater cause than most to discover the truth of certain disturbing rumors, including employing investigators of your own to sort fact from rumor. Consequently, you have managed to uncover considerable amounts of information about the government’s own vampire hunters, including the fact that they have some sort of permanent installation near Chicago. This specialist knowledge grants you Status (••) among the Kindred, who frequently come to you to benefit from it, and Influence (••) among the kine, which you use to manipulate the mortal world for the benefit of your clients."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blacksite-24-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Instalação Secreta 24 — Aquele que partiu",
+        "en": "Blacksite 24 — The One That Got Away"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 264, 265 · 5",
+      "pages": [
+        {
+          "pdfPage": 265,
+          "printedPage": 264
+        },
+        {
+          "pdfPage": 266,
+          "printedPage": 265
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aquele que partiu",
+            "text": "Você escapou da contenção no Blacksite 24. É muito provável que você esteja sendo caçado por seus ex-captores, que têm todos os motivos para querer recuperá-lo antes que você possa ir para o solo ou, pior ainda, alcançar outros de sua própria espécie e avisá-los dos horrores que você suportou ou testemunhou. Felizmente para eles, esses horrores não estão claros em sua mente, mesmo que você tenha alcançado a segurança: os efeitos posteriores do Rötschreck e a fome prolongada e quase entorpecida turvaram suas memórias de suas experiências - você só consegue lembrar claramente o que viu ou ouviu, com o maior esforço. Uma vez por história, você pode pedir ao Narrador um trecho claro da memória de seu encarceramento. Você ganhou imunidade ao Rötschreck induzido pelo FIRSTLIGHT."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The One That Got Away",
+            "text": "You escaped from containment at Blacksite 24. You are very likely being hunted by your former captors, who have every reason to want to retrieve you before you can go to ground or, even worse, reach others of your own kind and warn them of the horrors you’ve endured or witnessed. Fortunately for them, those horrors are not clear in your own mind, even though you have reached safety: The after-effects of Rötschreck and protracted near-torpid starvation have clouded your memories of your experiences — you can only clearly recall what you saw, or heard, with the greatest effort. Once per story, you may ask the Storyteller for one clear snippet of memory from your incarceration. You have gained immunity from FIRSTLIGHT-induced Rötschreck."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

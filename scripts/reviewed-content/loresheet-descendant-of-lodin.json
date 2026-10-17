@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-descendant-of-lodin",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Descendente de Lodin",
+    "en": "Descendant of Lodin"
+  },
+  "aliases": [
+    "Descendente de Lodin",
+    "Descendant of Lodin",
+    "Descendente de Lodin — Bebê da família",
+    "Descendant of Lodin — Baby of the Family",
+    "Descendente de Lodin — Criança Média Responsável",
+    "Descendant of Lodin — Responsible Middle Childe",
+    "Descendente de Lodin — Ovelha Negra da Família",
+    "Descendant of Lodin — Black Sheep of the Family",
+    "Descendente de Lodin — Tal Senhor, Tal Criança",
+    "Descendant of Lodin — Like Sire, Like Childe",
+    "Descendente de Lodin — Parente há muito perdido",
+    "Descendant of Lodin — Long-Lost Relative"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-descendant-of-lodin-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Lodin — Bebê da família",
+        "en": "Descendant of Lodin — Baby of the Family"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 273 · 1",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 273
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Bebê da família",
+            "text": "Você é o (atual) membro mais jovem da linhagem, Abraçado na última década e ainda jovem o suficiente para ser tratado com algum grau de indulgência enquanto aprende o básico – e praticamente todos os Ventrue que você encontra pensam que têm algo útil para lhe ensinar. Com outros membros do seu clã em Chicago, você sempre tem uma classificação Mawla de um ponto."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Baby of the Family",
+            "text": "You are the (current) youngest member of the lineage, Embraced within the last decade and still young enough to be treated with some degree of indulgence while you learn the ropes — and pretty much every Ventrue you encounter thinks they have something useful to teach you. With other members of your clan in Chicago, you always have a Mawla rating of one dot."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-lodin-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Lodin — Criança Média Responsável",
+        "en": "Descendant of Lodin — Responsible Middle Childe"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 273 · 2",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 273
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Criança Média Responsável",
+            "text": "Você é um membro firme e orgulhoso do amplo Linhagem de Sangue de Lodin, assumindo seu próprio poder e responsabilidades. Devido à sua linhagem e posição, outros Membros de idade e geração semelhantes à sua procuram por Liderança. Com eles você sempre carrega um mínimo de Status (••)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Responsible Middle Childe",
+            "text": "You are a steadfast and proud member of Lodin’s wide bloodline, just coming into your own power and responsibilities. Due to your lineage and position, other Kindred of similar age and Generation to you look to you for leadership. With them you always carry a minimum of Status (••)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-lodin-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Lodin — Ovelha Negra da Família",
+        "en": "Descendant of Lodin — Black Sheep of the Family"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 273 · 3",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 273
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ovelha Negra da Família",
+            "text": "Você é descendente de Lodin... e não gosta nem um pouco disso. Você rompeu com o resto da consanguinidade do falecido Príncipe de uma forma dramática: fugindo para se juntar aos Anarchs, aliando-se publicamente à oposição (des)leal em questões políticas que afetam a estabilidade do governo do seu Linhagem de Sangue, tornando-se o pior e menos apaziguador Arauto do mundo. Você tem um pouco de sujeira sobre cada uma das crias de Lodin. O Narrador revelará um segredo sobre qualquer um deles que você encontrar, uma vez por história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Black Sheep of the Family",
+            "text": "You are a descendant of Lodin...and you don’t like it one little bit. You have split with the rest of the late Prince’s consanguinity in some dramatic way: running off to join the Anarchs, publicly siding with the (dis)loyal opposition in political matters affecting the stability of your bloodline’s rule, turning into the world’s worst and least appeasable Herald. You have a little bit of dirt on every one of Lodin’s childer. The Storyteller will reveal a secret about any one of them you encounter, once per story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-lodin-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Lodin — Tal Senhor, Tal Criança",
+        "en": "Descendant of Lodin — Like Sire, Like Childe"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 273 · 4",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 273
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Tal Senhor, Tal Criança",
+            "text": "Como seu ancestral, você é uma barata de vampiro praticamente impossível de matar, capaz de pegar qualquer coisa que a não vida jogue em você e transformá-la, se não em ouro, pelo menos em um tiro sólido de Sobrevivência. Adicione dois dados às suas paradas de dados ao fazer testes para evitar ferimentos físicos ou sobrenaturais fora do conflito físico direto."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Like Sire, Like Childe",
+            "text": "Like your ancestor, you are a virtually unkillable cockroach of a vampire, capable of taking anything that unlife throws at you and turning it, if not into gold, then at least a solid shot at survival. Add two dice to your dice pools when making tests to avoid physical or supernatural injury outside of direct physical conflict."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-lodin-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Lodin — Parente há muito perdido",
+        "en": "Descendant of Lodin — Long-Lost Relative"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 273 · 5",
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 273
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Parente há muito perdido",
+            "text": "Lodin teve uma não vida antes de vir para Chicago e sua existência é prova desse fato: você é descendente de uma das crias que ele Abraçou nos anos entre sua partida de Veracruz e sua chegada a Chicago, quando ele era um andarilho sem raízes e pragmaticamente sem supervisão. Sua chegada causou uma onda de choque pela cidade e agora você está entre os residentes mais procurados, desfrutando de Status (••••) entre os Ventrue e os oficiais da corte, a atenção de todos os agitadores sociais de Chicago e um assento definitivo à mesa do Príncipe."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Long-Lost Relative",
+            "text": "Lodin had an unlife before he came to Chicago and your existence is proof of that fact: You are the descendant of one of the childer he sired in the years between his departure from Veracruz and his arrival in Chicago, when he was a rootless and pragmatically unsupervised wanderer. Your arrival has sent a shockwave through the city and now you are among the most sought-after of its residents, enjoying Status (••••) among Ventrue and court officials, the attention of every social gadfly in Chicago, and a definite seat at the Prince’s table."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

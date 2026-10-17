@@ -1,0 +1,1716 @@
+{
+  "status": "individual-benefits-reviewed-with-recorded-source-questions",
+  "scope": "Loresheet and Bloodline individual benefits; full book coverage is not asserted.",
+  "entries": [
+    {
+      "book": "core-v5",
+      "id": "loresheet-bahari",
+      "names": {
+        "pt-BR": "Os Bahari",
+        "en": "The Bahari"
+      },
+      "pages": [
+        {
+          "pdfPage": 386,
+          "printedPage": 382
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-theo-bell",
+      "names": {
+        "pt-BR": "Theo Bell",
+        "en": "Theo Bell"
+      },
+      "pages": [
+        {
+          "pdfPage": 387,
+          "printedPage": 383
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-cainite-heresy",
+      "names": {
+        "pt-BR": "Heresia Cainita",
+        "en": "Cainite Heresy"
+      },
+      "pages": [
+        {
+          "pdfPage": 388,
+          "printedPage": 384
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-carna",
+      "names": {
+        "pt-BR": "Carna",
+        "en": "Carna"
+      },
+      "pages": [
+        {
+          "pdfPage": 389,
+          "printedPage": 385
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-circulatory-system",
+      "names": {
+        "pt-BR": "O Sistema Circulatório",
+        "en": "The Circulatory System"
+      },
+      "pages": [
+        {
+          "pdfPage": 390,
+          "printedPage": 386
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-convention-of-thorns",
+      "names": {
+        "pt-BR": "Convenção de Thorns",
+        "en": "Convention of Thorns"
+      },
+      "pages": [
+        {
+          "pdfPage": 391,
+          "printedPage": 387
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-first-inquisition",
+      "names": {
+        "pt-BR": "A Primeira Inquisição",
+        "en": "The First Inquisition"
+      },
+      "pages": [
+        {
+          "pdfPage": 392,
+          "printedPage": 388
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-golconda",
+      "names": {
+        "pt-BR": "Golconda",
+        "en": "Golconda"
+      },
+      "pages": [
+        {
+          "pdfPage": 393,
+          "printedPage": 389
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-descendant-of-hardestadt",
+      "names": {
+        "pt-BR": "Descendente de Hardestadt",
+        "en": "Descendant of Hardestadt"
+      },
+      "pages": [
+        {
+          "pdfPage": 394,
+          "printedPage": 390
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ]
+      }
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-descendant-of-helena",
+      "names": {
+        "pt-BR": "Descendente de Helena",
+        "en": "Descendant of Helena"
+      },
+      "pages": [
+        {
+          "pdfPage": 395,
+          "printedPage": 391
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Toreador"
+        ]
+      }
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-sect-war-veteran",
+      "names": {
+        "pt-BR": "Veterano da Guerra das Seitas",
+        "en": "Sect War Veteran"
+      },
+      "pages": [
+        {
+          "pdfPage": 396,
+          "printedPage": 392
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-the-trinity",
+      "names": {
+        "pt-BR": "A Trindade",
+        "en": "The Trinity"
+      },
+      "pages": [
+        {
+          "pdfPage": 397,
+          "printedPage": 393
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-voerman",
+      "names": {
+        "pt-BR": "Jeanette/Therese Voerman",
+        "en": "Jeanette/Therese Voerman"
+      },
+      "pages": [
+        {
+          "pdfPage": 398,
+          "printedPage": 394
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-week-of-nightmares",
+      "names": {
+        "pt-BR": "A Semana dos Pesadelos",
+        "en": "The Week of Nightmares"
+      },
+      "pages": [
+        {
+          "pdfPage": 399,
+          "printedPage": 395
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-rudi",
+      "names": {
+        "pt-BR": "Rudi",
+        "en": "Rudi"
+      },
+      "pages": [
+        {
+          "pdfPage": 400,
+          "printedPage": 396
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-descendant-of-tyler",
+      "names": {
+        "pt-BR": "Descendente de Tyler",
+        "en": "Descendant of Tyler"
+      },
+      "pages": [
+        {
+          "pdfPage": 401,
+          "printedPage": 397
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ]
+      }
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-descendant-of-zelios",
+      "names": {
+        "pt-BR": "Descendente de Zelios",
+        "en": "Descendant of Zelios"
+      },
+      "pages": [
+        {
+          "pdfPage": 402,
+          "printedPage": 398
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Nosferatu"
+        ]
+      }
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-descendant-of-vasantasena",
+      "names": {
+        "pt-BR": "Descendente de Vasantasena",
+        "en": "Descendant of Vasantasena"
+      },
+      "pages": [
+        {
+          "pdfPage": 403,
+          "printedPage": 399
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ]
+      }
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-high-clan",
+      "names": {
+        "pt-BR": "Alto-Clã",
+        "en": "High Clan"
+      },
+      "pages": [
+        {
+          "pdfPage": 404,
+          "printedPage": 400
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-low-clan",
+      "names": {
+        "pt-BR": "Baixo-Clã",
+        "en": "Low Clan"
+      },
+      "pages": [
+        {
+          "pdfPage": 405,
+          "printedPage": 401
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-ambrus-maropis",
+      "names": {
+        "pt-BR": "Ambrus Maropis",
+        "en": "Ambrus Maropis"
+      },
+      "pages": [
+        {
+          "pdfPage": 406,
+          "printedPage": 402
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-carmelita-neillson",
+      "names": {
+        "pt-BR": "Carmelita Neillson",
+        "en": "Carmelita Neillson"
+      },
+      "pages": [
+        {
+          "pdfPage": 407,
+          "printedPage": 403
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-fiorenza-savona",
+      "names": {
+        "pt-BR": "Fiorenza Savona",
+        "en": "Fiorenza Savona"
+      },
+      "pages": [
+        {
+          "pdfPage": 408,
+          "printedPage": 404
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-descendant-of-karl-schrekt",
+      "names": {
+        "pt-BR": "Descendente de Karl Schrekt",
+        "en": "Descendant of Karl Schrekt"
+      },
+      "pages": [
+        {
+          "pdfPage": 409,
+          "printedPage": 405
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ]
+      }
+    },
+    {
+      "book": "core-v5",
+      "id": "loresheet-descendant-of-xaviar",
+      "names": {
+        "pt-BR": "Descendente de Xaviar",
+        "en": "Descendant of Xaviar"
+      },
+      "pages": [
+        {
+          "pdfPage": 410,
+          "printedPage": 406
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ]
+      }
+    },
+    {
+      "book": "anarch-v5",
+      "id": "loresheet-salvador-garcia",
+      "names": {
+        "pt-BR": "Salvador Garcia",
+        "en": "Salvador Garcia"
+      },
+      "pages": [
+        {
+          "pdfPage": 194,
+          "printedPage": 190
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "anarch-v5",
+      "id": "loresheet-agata-starek",
+      "names": {
+        "pt-BR": "Agata Starek",
+        "en": "Agata Starek"
+      },
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 191
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "anarch-v5",
+      "id": "loresheet-hesha-ruhadze",
+      "names": {
+        "pt-BR": "Hesha Ruhadze",
+        "en": "Hesha Ruhadze"
+      },
+      "pages": [
+        {
+          "pdfPage": 196,
+          "printedPage": 192
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "anarch-v5",
+      "id": "loresheet-church-of-set",
+      "names": {
+        "pt-BR": "A Igreja de Set",
+        "en": "The Church of Set"
+      },
+      "pages": [
+        {
+          "pdfPage": 197,
+          "printedPage": 193
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "anarch-v5",
+      "id": "loresheet-descendant-of-xaviar",
+      "names": {
+        "pt-BR": "Descendente de Xaviar",
+        "en": "Descendant of Xaviar"
+      },
+      "pages": [
+        {
+          "pdfPage": 198,
+          "printedPage": 194
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ]
+      }
+    },
+    {
+      "book": "anarch-v5",
+      "id": "loresheet-descendant-of-tyler",
+      "names": {
+        "pt-BR": "Descendente de Tyler",
+        "en": "Descendant of Tyler"
+      },
+      "pages": [
+        {
+          "pdfPage": 199,
+          "printedPage": 195
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ]
+      }
+    },
+    {
+      "book": "anarch-v5",
+      "id": "loresheet-ruins-of-carthage",
+      "names": {
+        "pt-BR": "Ruínas de Cartago",
+        "en": "Ruins of Carthage"
+      },
+      "pages": [
+        {
+          "pdfPage": 200,
+          "printedPage": 196
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "anarch-v5",
+      "id": "loresheet-blood-plague",
+      "names": {
+        "pt-BR": "Sangue Infectado",
+        "en": "Blood Plague"
+      },
+      "pages": [
+        {
+          "pdfPage": 201,
+          "printedPage": 197
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "anarch-v5",
+      "id": "loresheet-anarch-revolt",
+      "names": {
+        "pt-BR": "Revolta Anarch",
+        "en": "Anarch Revolt"
+      },
+      "pages": [
+        {
+          "pdfPage": 202,
+          "printedPage": 198
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "camarilla-v5",
+      "id": "loresheet-carmelita-neillson",
+      "names": {
+        "pt-BR": "Carmelita Neillson",
+        "en": "Carmelita Neillson"
+      },
+      "pages": [
+        {
+          "pdfPage": 185,
+          "printedPage": 184
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "camarilla-v5",
+      "id": "loresheet-fatima-al-faqadi",
+      "names": {
+        "pt-BR": "Fatima al-Faqadi",
+        "en": "Fatima al-Faqadi"
+      },
+      "pages": [
+        {
+          "pdfPage": 186,
+          "printedPage": 185
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ]
+      }
+    },
+    {
+      "book": "camarilla-v5",
+      "id": "loresheet-fiorenza-savona",
+      "names": {
+        "pt-BR": "Fiorenza Savona",
+        "en": "Fiorenza Savona"
+      },
+      "pages": [
+        {
+          "pdfPage": 187,
+          "printedPage": 186
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "camarilla-v5",
+      "id": "loresheet-pure-ventrue-lineage",
+      "names": {
+        "pt-BR": "Ventrue de Linhagem Pura",
+        "en": "Pure Ventrue Lineage"
+      },
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 187
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ]
+      }
+    },
+    {
+      "book": "camarilla-v5",
+      "id": "loresheet-cult-of-mithras",
+      "names": {
+        "pt-BR": "Culto de Mithras",
+        "en": "Cult of Mithras"
+      },
+      "pages": [
+        {
+          "pdfPage": 189,
+          "printedPage": 188
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "camarilla-v5",
+      "id": "loresheet-the-pyramid",
+      "names": {
+        "pt-BR": "A Pirâmide",
+        "en": "The Pyramid"
+      },
+      "pages": [
+        {
+          "pdfPage": 190,
+          "printedPage": 189
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ]
+      }
+    },
+    {
+      "book": "camarilla-v5",
+      "id": "loresheet-victoria-ash",
+      "names": {
+        "pt-BR": "Victoria Ash",
+        "en": "Victoria Ash"
+      },
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 190
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-annabelle",
+      "names": {
+        "pt-BR": "Annabelle",
+        "en": "Annabelle"
+      },
+      "pages": [
+        {
+          "pdfPage": 263,
+          "printedPage": 262
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-ballard-industries",
+      "names": {
+        "pt-BR": "Indústrias Ballard",
+        "en": "Ballard Industries"
+      },
+      "pages": [
+        {
+          "pdfPage": 264,
+          "printedPage": 263
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-blacksite-24",
+      "names": {
+        "pt-BR": "Instalação Secreta 24",
+        "en": "Blacksite 24"
+      },
+      "pages": [
+        {
+          "pdfPage": 265,
+          "printedPage": 264
+        },
+        {
+          "pdfPage": 266,
+          "printedPage": 265
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-blue-velvet",
+      "names": {
+        "pt-BR": "The Blue Velvet",
+        "en": "The Blue Velvet"
+      },
+      "pages": [
+        {
+          "pdfPage": 267,
+          "printedPage": 266
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-book-of-nod",
+      "names": {
+        "pt-BR": "O Livro de Nod",
+        "en": "The Book of Nod"
+      },
+      "pages": [
+        {
+          "pdfPage": 268,
+          "printedPage": 267
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-capone-gang",
+      "names": {
+        "pt-BR": "Gangue Capone",
+        "en": "Capone Gang"
+      },
+      "pages": [
+        {
+          "pdfPage": 269,
+          "printedPage": 268
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 269
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-cobweb",
+      "names": {
+        "pt-BR": "A Teia",
+        "en": "The Cobweb"
+      },
+      "pages": [
+        {
+          "pdfPage": 271,
+          "printedPage": 270
+        }
+      ],
+      "language": "en",
+      "requirements": {
+        "clans": [
+          "Malkavian"
+        ]
+      }
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-cultivar",
+      "names": {
+        "pt-BR": "Cultivar",
+        "en": "Cultivar"
+      },
+      "pages": [
+        {
+          "pdfPage": 272,
+          "printedPage": 271
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-cult-of-shalim",
+      "names": {
+        "pt-BR": "Culto de Shalim",
+        "en": "Cult of Shalim"
+      },
+      "pages": [
+        {
+          "pdfPage": 273,
+          "printedPage": 272
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-descendant-of-lodin",
+      "names": {
+        "pt-BR": "Descendente de Lodin",
+        "en": "Descendant of Lodin"
+      },
+      "pages": [
+        {
+          "pdfPage": 274,
+          "printedPage": 273
+        }
+      ],
+      "language": "en",
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ]
+      }
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-descendant-of-montano",
+      "names": {
+        "pt-BR": "Descendente de Montano",
+        "en": "Descendant of Montano"
+      },
+      "pages": [
+        {
+          "pdfPage": 275,
+          "printedPage": 274
+        }
+      ],
+      "language": "en",
+      "requirements": {
+        "clans": [
+          "Lasombra"
+        ]
+      }
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-fires-floods-devils-night",
+      "names": {
+        "pt-BR": "Incêndios, Enchentes e a Noite do Diabo",
+        "en": "Fires and Floods and Devil’s Night"
+      },
+      "pages": [
+        {
+          "pdfPage": 276,
+          "printedPage": 275
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-firstlight",
+      "names": {
+        "pt-BR": "FIRSTLIGHT",
+        "en": "FIRSTLIGHT"
+      },
+      "pages": [
+        {
+          "pdfPage": 277,
+          "printedPage": 276
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-kevin-jackson",
+      "names": {
+        "pt-BR": "Kevin Jackson",
+        "en": "Kevin Jackson"
+      },
+      "pages": [
+        {
+          "pdfPage": 278,
+          "printedPage": 277
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-kindred-iconography",
+      "names": {
+        "pt-BR": "Iconografia dos Membros",
+        "en": "Kindred Iconography"
+      },
+      "pages": [
+        {
+          "pdfPage": 279,
+          "printedPage": 278
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-the-labyrinth",
+      "names": {
+        "pt-BR": "O Labirinto",
+        "en": "The Labyrinth"
+      },
+      "pages": [
+        {
+          "pdfPage": 280,
+          "printedPage": 279
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-lupine-expert",
+      "names": {
+        "pt-BR": "Especialista em Lupinos",
+        "en": "Lupine Expert"
+      },
+      "pages": [
+        {
+          "pdfPage": 281,
+          "printedPage": 280
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-nathaniel-bordruff",
+      "names": {
+        "pt-BR": "Nathaniel Bordruff",
+        "en": "Nathaniel Bordruff"
+      },
+      "pages": [
+        {
+          "pdfPage": 282,
+          "printedPage": 281
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-painted-lady",
+      "names": {
+        "pt-BR": "A Dama Pintada",
+        "en": "The Painted Lady"
+      },
+      "pages": [
+        {
+          "pdfPage": 283,
+          "printedPage": 282
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-ducheski",
+      "names": {
+        "pt-BR": "Família de Revenantes: Ducheski",
+        "en": "Revenant Family: Ducheski"
+      },
+      "pages": [
+        {
+          "pdfPage": 284,
+          "printedPage": 283
+        }
+      ],
+      "language": "en",
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ]
+      }
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "id": "loresheet-society-of-st-leopold",
+      "names": {
+        "pt-BR": "Sociedade de São Leopoldo",
+        "en": "The Society of St. Leopold"
+      },
+      "pages": [
+        {
+          "pdfPage": 285,
+          "printedPage": 284
+        },
+        {
+          "pdfPage": 286,
+          "printedPage": 285
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "gehenna-war-v5",
+      "id": "loresheet-beckett",
+      "names": {
+        "pt-BR": "Beckett",
+        "en": "Beckett"
+      },
+      "pages": [
+        {
+          "pdfPage": 159,
+          "printedPage": 157
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "gehenna-war-v5",
+      "id": "loresheet-eternal-arena",
+      "names": {
+        "pt-BR": "A Arena Eterna",
+        "en": "The Eternal Arena"
+      },
+      "pages": [
+        {
+          "pdfPage": 160,
+          "printedPage": 158
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "gehenna-war-v5",
+      "id": "loresheet-tegyrius-the-vizier",
+      "names": {
+        "pt-BR": "Tegyrius, o Vizir",
+        "en": "Tegyrius the Vizier"
+      },
+      "pages": [
+        {
+          "pdfPage": 161,
+          "printedPage": 159
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "sigilos-de-sangue-v5",
+      "id": "loresheet-descendant-of-al-ashrad",
+      "names": {
+        "pt-BR": "Descendente de Al-Ashrad",
+        "en": "Descendant of al-Ashrad"
+      },
+      "pages": [
+        {
+          "pdfPage": 179,
+          "printedPage": 177
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ]
+      }
+    },
+    {
+      "book": "sigilos-de-sangue-v5",
+      "id": "loresheet-student-of-kirin-taunk",
+      "names": {
+        "pt-BR": "Estudante de Kirin Taunk",
+        "en": "Student of Kirin Taunk"
+      },
+      "pages": [
+        {
+          "pdfPage": 180,
+          "printedPage": 178
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        }
+      }
+    },
+    {
+      "book": "sigilos-de-sangue-v5",
+      "id": "loresheet-veins-of-the-earth",
+      "names": {
+        "pt-BR": "Veias da Terra",
+        "en": "Veins of the Earth"
+      },
+      "pages": [
+        {
+          "pdfPage": 181,
+          "printedPage": 179
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "sigilos-de-sangue-v5",
+      "id": "loresheet-vienna-zero",
+      "names": {
+        "pt-BR": "Viena Zero",
+        "en": "Vienna Zero"
+      },
+      "pages": [
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        }
+      }
+    },
+    {
+      "book": "let-the-streets-run-red-v5",
+      "id": "loresheet-the-anubi",
+      "names": {
+        "pt-BR": "Os Anubi",
+        "en": "The Anubi"
+      },
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 224
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "let-the-streets-run-red-v5",
+      "id": "loresheet-eletria",
+      "names": {
+        "pt-BR": "Eletria",
+        "en": "Eletria"
+      },
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 225
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "let-the-streets-run-red-v5",
+      "id": "loresheet-kindred-social-media-influencer",
+      "names": {
+        "pt-BR": "Influenciador de Redes Sociais dos Membros",
+        "en": "Kindred Social Media Influencer"
+      },
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 226
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "let-the-streets-run-red-v5",
+      "id": "loresheet-juggler",
+      "names": {
+        "pt-BR": "Juggler",
+        "en": "Juggler"
+      },
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 227
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "let-the-streets-run-red-v5",
+      "id": "loresheet-lost-secrets-milwaukee-chantry",
+      "names": {
+        "pt-BR": "Segredos Perdidos da Capela de Milwaukee",
+        "en": "Lost Secrets of the Milwaukee Chantry"
+      },
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 228
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "let-the-streets-run-red-v5",
+      "id": "loresheet-mark-decker",
+      "names": {
+        "pt-BR": "Mark Decker",
+        "en": "Mark Decker"
+      },
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 229
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "let-the-streets-run-red-v5",
+      "id": "loresheet-maxwell",
+      "names": {
+        "pt-BR": "Maxwell",
+        "en": "Maxwell"
+      },
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 230
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "let-the-streets-run-red-v5",
+      "id": "loresheet-null-zone",
+      "names": {
+        "pt-BR": "Zona Nula",
+        "en": "Null Zone"
+      },
+      "pages": [
+        {
+          "pdfPage": 232,
+          "printedPage": 231
+        },
+        {
+          "pdfPage": 233,
+          "printedPage": 232
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "let-the-streets-run-red-v5",
+      "id": "loresheet-modius",
+      "names": {
+        "pt-BR": "Modius",
+        "en": "Modius"
+      },
+      "pages": [
+        {
+          "pdfPage": 234,
+          "printedPage": 233
+        }
+      ],
+      "language": "en",
+      "requirements": {}
+    },
+    {
+      "book": "cultos-deuses-sangue-v5",
+      "id": "loresheet-calling-family-reunion",
+      "names": {
+        "pt-BR": "Chamado para a Reunião da Família",
+        "en": "Calling to the Family Reunion"
+      },
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 228
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ]
+      }
+    },
+    {
+      "book": "cultos-deuses-sangue-v5",
+      "id": "loresheet-children-of-the-angel-michael",
+      "names": {
+        "pt-BR": "Crias do Anjo Michael",
+        "en": "Children of the Angel Michael"
+      },
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 229
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {
+        "excludedClans": [
+          "Nosferatu"
+        ]
+      }
+    },
+    {
+      "book": "cultos-deuses-sangue-v5",
+      "id": "loresheet-servitors-of-irad",
+      "names": {
+        "pt-BR": "Servos de Irad",
+        "en": "Servitors of Irad"
+      },
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 230
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    },
+    {
+      "book": "cultos-deuses-sangue-v5",
+      "id": "loresheet-promise-of-1528",
+      "names": {
+        "pt-BR": "A Promessa de 1528",
+        "en": "The Promise of 1528"
+      },
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 231
+        }
+      ],
+      "language": "pt-BR",
+      "requirements": {}
+    }
+  ],
+  "bloodlines": [
+    {
+      "id": "bloodline-bankers-of-dunsirn",
+      "book": "cultos-deuses-sangue-v5",
+      "pages": [
+        {
+          "pdfPage": 220,
+          "printedPage": 220
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan",
+      "book": "cultos-deuses-sangue-v5",
+      "pages": [
+        {
+          "pdfPage": 221,
+          "printedPage": 221
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-criminal-puttanesca",
+      "book": "cultos-deuses-sangue-v5",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-flesh-eaters",
+      "book": "cultos-deuses-sangue-v5",
+      "pages": [
+        {
+          "pdfPage": 223,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur",
+      "book": "cultos-deuses-sangue-v5",
+      "pages": [
+        {
+          "pdfPage": 224,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni",
+      "book": "cultos-deuses-sangue-v5",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-nasyon-san-an",
+      "book": "cultos-deuses-sangue-v5",
+      "pages": [
+        {
+          "pdfPage": 222,
+          "printedPage": 222
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-the-gorgons",
+      "book": "cultos-deuses-sangue-v5",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-bankers-of-dunsirn",
+      "book": "players-guide-v5",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 223
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan",
+      "book": "players-guide-v5",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-flesh-eaters",
+      "book": "players-guide-v5",
+      "pages": [
+        {
+          "pdfPage": 227,
+          "printedPage": 225
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur",
+      "book": "players-guide-v5",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-la-famiglia-giovanni",
+      "book": "players-guide-v5",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 227
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-nasyon-san-an",
+      "book": "players-guide-v5",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 229
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "benefits": 5
+    },
+    {
+      "id": "bloodline-the-gorgons",
+      "book": "players-guide-v5",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 228
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "benefits": 5
+    }
+  ],
+  "books": [
+    {
+      "book": "core-v5",
+      "ordinarySources": 25,
+      "bloodlineSources": 0,
+      "note": "Individual loresheet benefits indexed; this is not certification of all character options in the book."
+    },
+    {
+      "book": "chicago-by-night-v5",
+      "ordinarySources": 21,
+      "bloodlineSources": 0,
+      "note": "Individual loresheet benefits indexed; this is not certification of all character options in the book."
+    },
+    {
+      "book": "camarilla-v5",
+      "ordinarySources": 7,
+      "bloodlineSources": 0,
+      "note": "Individual loresheet benefits indexed; this is not certification of all character options in the book."
+    },
+    {
+      "book": "anarch-v5",
+      "ordinarySources": 9,
+      "bloodlineSources": 0,
+      "note": "Individual loresheet benefits indexed; this is not certification of all character options in the book."
+    },
+    {
+      "book": "cultos-deuses-sangue-v5",
+      "ordinarySources": 4,
+      "bloodlineSources": 8,
+      "note": "Individual loresheet benefits indexed; this is not certification of all character options in the book."
+    },
+    {
+      "book": "companion-v5",
+      "ordinarySources": 0,
+      "bloodlineSources": 0,
+      "note": "No individual Loresheet or Bloodline appendix identified. Other character options and collective coterie rules remain separate catalog/library categories."
+    },
+    {
+      "book": "sabbat-black-hand-v5",
+      "ordinarySources": 0,
+      "bloodlineSources": 0,
+      "note": "No individual Loresheet or Bloodline appendix identified. Other character options and collective coterie rules remain separate catalog/library categories."
+    },
+    {
+      "book": "players-guide-v5",
+      "ordinarySources": 0,
+      "bloodlineSources": 7,
+      "note": "Individual loresheet benefits indexed; this is not certification of all character options in the book."
+    },
+    {
+      "book": "gehenna-war-v5",
+      "ordinarySources": 3,
+      "bloodlineSources": 0,
+      "note": "Individual loresheet benefits indexed; this is not certification of all character options in the book."
+    },
+    {
+      "book": "sigilos-de-sangue-v5",
+      "ordinarySources": 4,
+      "bloodlineSources": 0,
+      "note": "Individual loresheet benefits indexed; this is not certification of all character options in the book."
+    },
+    {
+      "book": "let-the-streets-run-red-v5",
+      "ordinarySources": 9,
+      "bloodlineSources": 0,
+      "note": "Individual loresheet benefits indexed; this is not certification of all character options in the book."
+    }
+  ]
+}

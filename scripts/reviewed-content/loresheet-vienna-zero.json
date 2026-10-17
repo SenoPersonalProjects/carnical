@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-vienna-zero",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Viena Zero",
+    "en": "Vienna Zero"
+  },
+  "aliases": [
+    "Viena Zero",
+    "Vienna Zero",
+    "Viena Zero — Conhecimento Interno",
+    "Vienna Zero — Insider Knowledge",
+    "Viena Zero — Da traseira de um caminhão",
+    "Vienna Zero — From the back of a truck",
+    "Viena Zero — Instrumento de Poder",
+    "Vienna Zero — Instrument of Power",
+    "Viena Zero — A Última Cópia",
+    "Vienna Zero — The Last Copy",
+    "Viena Zero — Liquidação Profunda",
+    "Vienna Zero — Deep Liquidation"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-vienna-zero-sigilos-de-sangue-v5-1",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Viena Zero — Conhecimento Interno",
+        "en": "Vienna Zero — Insider Knowledge"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 180 · 1",
+      "pages": [
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        },
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Conhecimento Interno",
+            "text": "O conhecimento obtido ao explorar Viena Zero é inestimável, prática e politicamente. Receba sempre dois dados adicionais ao testar Ocultismo sobre artes do Sangue ou Política sobre os Tremere."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Insider Knowledge",
+            "text": "The knowledge gained from exploring Vienna Zero is invaluable, practically and politically. Always receive two additional dice when rolling Occult on Blood arts or Politics on Tremere."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-vienna-zero-sigilos-de-sangue-v5-2",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Viena Zero — Da traseira de um caminhão",
+        "en": "Vienna Zero — From the back of a truck"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 180 · 2",
+      "pages": [
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        },
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Da traseira de um caminhão",
+            "text": "o Vaticano destrói oficialmente tudo de Viena Zero eles consideram muito perigosos ou inúteis para sua investigação. Extraoficialmente, alguns deles acabam em suas mãos. Você ganha um Contato ••• (The Slow Drip), um empreiteiro descontente de Viena Zero. Se você tem algo a oferecer, às vezes eles podem procure as coisas boas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "From the back of a truck",
+            "text": "the Vatican officially destroys everything in Vienna Zero they consider too dangerous or useless for their Investigation. Unofficially, some of them end up in your hands. You gain a Contact ••• (The Slow Drip), a disgruntled contractor from Vienna Zero. If you have something to offer, sometimes they can look for the good stuff."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-vienna-zero-sigilos-de-sangue-v5-3",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Viena Zero — Instrumento de Poder",
+        "en": "Vienna Zero — Instrument of Power"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 180 · 3",
+      "pages": [
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        },
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Instrumento de Poder",
+            "text": "Através de um amigo de um amigo, você conseguiu algo especial e, para sua alegria, é muito bom em usá-lo. Combine com o Narrador sobre um Artefato (págs. 136–142) e adicione um dado de bônus à sua reserva para quaisquer testes que ele exija. No entanto, a cada sessão em que usálo, você precisa ser bem-sucedido em um teste de Raciocínio + Furtividade (mais sua Influência, se houver, com a mídia) contra Dificuldade 3. (ou possivelmente mais, para mais potentes artefatos) para evitar atrair a atenção dos Leopolditas, FIRSTLIGHT, ou algum outra força da Coalizão."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Instrument of Power",
+            "text": "Through a friend of a friend, you got something special and, to your delight, you are very good at using it. Combine with the Storyteller on an Artifact (pp. 136–142) and add a bonus die to your pool for any rolls it requires. However, each session in which you use it, you must succeed on a roll of Wits + Stealth (plus your Influence, if any, with the media) against Difficulty 3. (or possibly more, for more potent artifacts) to avoid attracting the attention of the Leopoldites, FIRSTLIGHT, or some other force of the Coalition."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-vienna-zero-sigilos-de-sangue-v5-4",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Viena Zero — A Última Cópia",
+        "en": "Vienna Zero — The Last Copy"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 180 · 4",
+      "pages": [
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        },
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Última Cópia",
+            "text": "Por acaso ou por meio de um assalto incrível em Viena Zero, você possui a última cópia restante de um grimório Tremere. Dê um nome ao grimório, e cite quatro rituais que você ainda não conhece. Esses rituais podem ser de qualquer nível. Você pode aprender esses rituais sem um professor pela metade do tempo de aprendizagem. O custo da experiência permanece o mesmo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Last Copy",
+            "text": "By chance or through an incredible heist in Vienna Zero, you possess the last remaining copy of a Tremere grimoire. Give the grimoire a name, and name four rituals you don't know yet. These rituals can be of any level. You can learn these rituals without a teacher in half the learning time. The cost of the experience remains the same."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-vienna-zero-sigilos-de-sangue-v5-5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Viena Zero — Liquidação Profunda",
+        "en": "Vienna Zero — Deep Liquidation"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 180 · 5",
+      "pages": [
+        {
+          "pdfPage": 182,
+          "printedPage": 180
+        }
+      ],
+      "requirements": {
+        "disciplines": {
+          "Feitiçaria de Sangue": 1
+        },
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Liquidação Profunda",
+            "text": "Você não é apenas um leitor da Vienna Zero, você é um membro valioso da equipe. Ganhe Máscara ••• (Zerado) e descreva seu lugar no projeto de escavação. Uma vez por história, você pode pegar um artefato (p. 136-142) do sítio Viena Zero e usá-lo como você desejar, embora a equipe perceba que ele se foi. Você também tem o Inimigo ••• (Eficácia 3, Confiabilidade 2), um membro da equipe FIRSTLIGHT ou St. Leopold que suspeita da sua verdadeira natureza."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Deep Liquidation",
+            "text": "You're not just a Vienna Zero reader, you're a valued member of the team. Earn Mask ••• (Zeroed) and describe your place in the excavation project. Once per story, you can take an artifact (p. 136-142) from the Vienna Zero site and use it as you wish, although the team notices it is gone. You also have the Enemy ••• (Effectiveness 3, Reliability 2), a member of the FIRSTLIGHT or St. Leopold team who suspects your true nature."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

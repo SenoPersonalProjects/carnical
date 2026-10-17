@@ -1,0 +1,594 @@
+{
+  "id": "bloodline-children-of-tenochtitlan",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Filhos de Tenochtitlan",
+    "en": "Children of Tenochtitlan"
+  },
+  "aliases": [
+    "Filhos de Tenochtitlan",
+    "Children of Tenochtitlan",
+    "Filhos de Tenochtitlan — Escondendo-se do Lobo",
+    "Children of Tenochtitlan — Hiding from the Wolf",
+    "Filhos de Tenochtitlan — Instintos Fantasmagóricos",
+    "Children of Tenochtitlan — Ghostly Instincts",
+    "Filhos de Tenochtitlan — Pensando Adiante",
+    "Children of Tenochtitlan — Forward Thinking",
+    "Filhos de Tenochtitlan — Prodígio Necromântico",
+    "Children of Tenochtitlan — Necromantic Prodigy",
+    "Filhos de Tenochtitlan — Próximo na Sucessão",
+    "Children of Tenochtitlan — Next in Line",
+    "Filhos de Tenochtitlan — Escondido do Lobo",
+    "Filhos de Tenochtitlan — Instintos de Fantasma",
+    "Filhos de Tenochtitlan — Visão do Futuro",
+    "Filhos de Tenochtitlan — Necromante Prodígio",
+    "Filhos de Tenochtitlan — Próximo da Fila"
+  ],
+  "versions": [
+    {
+      "id": "bloodline-children-of-tenochtitlan-players-guide-v5-1",
+      "book": "players-guide-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Filhos de Tenochtitlan — Escondendo-se do Lobo",
+        "en": "Children of Tenochtitlan — Hiding from the Wolf"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 224 · 1",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "No início do século XVI, Giovanni espanhóis encontraram a civilização asteca nas expedições de Cortés. Em Tenochtitlan, hoje parte da Cidade do México, conheceram uma tradição necromântica vasta e formalizada. Mataram, escravizaram e converteram os chamados pagãos, incorporando-os. Chamaram os convertidos de pisanob, termo maia aproximadamente equivalente a fantasmas dos mortos que caminham na Terra; não lhes importava que os astecas não fossem maias, nem que esses vampiros já tivessem nome, legado e crenças.\n\nPochtli liderou os Pisanob até a Reunião da Família. Ataques contínuos dos Arautos das Caveiras, por razões desconhecidas, reduziram a família a poucos sobreviventes. Pochtli ofereceu sua não vida em troca do fim das hostilidades; os Arautos aceitaram. Agora os sobreviventes escolhem outro líder enquanto planejam vingança."
+          },
+          {
+            "title": "Escondendo-se do Lobo",
+            "text": "Os Pisanob restantes sobreviveram porque são excelentes em se esconder. Você aprendeu técnicas para não ser visto por quem o caça e por suas próprias presas. Receba um dado adicional em qualquer teste para se esconder, inclusive com Disciplinas ou Cerimônias."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "In the early sixteenth century, Spanish Giovanni met representatives of the Aztec civilization as part of the Cortez expeditions. In the city of Tenochtitlan (now part of Mexico City), these Giovanni were introduced to a massive, formalized necromantic tradition. So naturally they killed, enslaved, and converted the “heathens,” bringing them into the fold. The Giovanni called these converts pisanob, a Mayan term that roughly translates to “ghosts of the dead that walk the Earth” (the fact that the Aztecs weren’t Maya didn’t concern the Europeans). That\n\nthese vampires already had a name, a legacy, and their own beliefs mattered little to the Giovanni. Their leader, Pochtli, was still in charge of the Pisanob up through the Family Reunion. However, the family had been whittled down to a bare few remaining Kindred after the ongoing attacks by the Harbingers of Skulls (see p. 226), although the reasons for the attacks were unknown. Pochtli offered his unlife to the Harbingers in exchange for an end to hostilities, which the Harbingers accepted. Now, the remaining children of Tenochtitlan are deciding on a new leader, while planning their revenge."
+          },
+          {
+            "title": "Hiding from the Wolf",
+            "text": "The remaining Pisanob survived because they are really, really good at hiding. You’ve learned all manner of techniques to remain out of sight of those that would hunt you... and those you would hunt. You get one extra die on any roll to hide, including via the use of Disciplines or Ceremonies."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Filhos de Tenochtitlan — Instintos Fantasmagóricos",
+        "en": "Children of Tenochtitlan — Ghostly Instincts"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 224 · 2",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "No início do século XVI, Giovanni espanhóis encontraram a civilização asteca nas expedições de Cortés. Em Tenochtitlan, hoje parte da Cidade do México, conheceram uma tradição necromântica vasta e formalizada. Mataram, escravizaram e converteram os chamados pagãos, incorporando-os. Chamaram os convertidos de pisanob, termo maia aproximadamente equivalente a fantasmas dos mortos que caminham na Terra; não lhes importava que os astecas não fossem maias, nem que esses vampiros já tivessem nome, legado e crenças.\n\nPochtli liderou os Pisanob até a Reunião da Família. Ataques contínuos dos Arautos das Caveiras, por razões desconhecidas, reduziram a família a poucos sobreviventes. Pochtli ofereceu sua não vida em troca do fim das hostilidades; os Arautos aceitaram. Agora os sobreviventes escolhem outro líder enquanto planejam vingança."
+          },
+          {
+            "title": "Instintos Fantasmagóricos",
+            "text": "Os primeiros Membros Abraçados em Tenochtitlan eram necromantes talentosos e transmitiram muitos segredos. Você conhece alguns: receba dois dados adicionais em testes de Cerimônias de Oblívio que envolvam invocar, controlar ou destruir fantasmas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "In the early sixteenth century, Spanish Giovanni met representatives of the Aztec civilization as part of the Cortez expeditions. In the city of Tenochtitlan (now part of Mexico City), these Giovanni were introduced to a massive, formalized necromantic tradition. So naturally they killed, enslaved, and converted the “heathens,” bringing them into the fold. The Giovanni called these converts pisanob, a Mayan term that roughly translates to “ghosts of the dead that walk the Earth” (the fact that the Aztecs weren’t Maya didn’t concern the Europeans). That\n\nthese vampires already had a name, a legacy, and their own beliefs mattered little to the Giovanni. Their leader, Pochtli, was still in charge of the Pisanob up through the Family Reunion. However, the family had been whittled down to a bare few remaining Kindred after the ongoing attacks by the Harbingers of Skulls (see p. 226), although the reasons for the attacks were unknown. Pochtli offered his unlife to the Harbingers in exchange for an end to hostilities, which the Harbingers accepted. Now, the remaining children of Tenochtitlan are deciding on a new leader, while planning their revenge."
+          },
+          {
+            "title": "Ghostly Instincts",
+            "text": "The original Kindred embraced in Tenochtitlan were extremely talented necromancers, and they have carried on a wide variety of tips, tricks, and secrets among their brethren. You’ve learned some of those secrets, which give you two additional dice on any Oblivion Ceremony roll involving the summoning, control, or destruction of ghosts."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan-players-guide-v5-3",
+      "book": "players-guide-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Filhos de Tenochtitlan — Pensando Adiante",
+        "en": "Children of Tenochtitlan — Forward Thinking"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 224 · 3",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "No início do século XVI, Giovanni espanhóis encontraram a civilização asteca nas expedições de Cortés. Em Tenochtitlan, hoje parte da Cidade do México, conheceram uma tradição necromântica vasta e formalizada. Mataram, escravizaram e converteram os chamados pagãos, incorporando-os. Chamaram os convertidos de pisanob, termo maia aproximadamente equivalente a fantasmas dos mortos que caminham na Terra; não lhes importava que os astecas não fossem maias, nem que esses vampiros já tivessem nome, legado e crenças.\n\nPochtli liderou os Pisanob até a Reunião da Família. Ataques contínuos dos Arautos das Caveiras, por razões desconhecidas, reduziram a família a poucos sobreviventes. Pochtli ofereceu sua não vida em troca do fim das hostilidades; os Arautos aceitaram. Agora os sobreviventes escolhem outro líder enquanto planejam vingança."
+          },
+          {
+            "title": "Pensando Adiante",
+            "text": "Anos de perseguição pelos Arautos das Caveiras ensinaram você a planejar e transformar tragédia em triunfo. Uma vez por história, rerrole qualquer teste de Habilidade. Além disso, receba uma rerrolagem gratuita de Habilidade em cada cena em que agir contra outro Hecata. Se ele pertencer aos Arautos das Caveiras, acrescente um sucesso nessa rerrolagem."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "In the early sixteenth century, Spanish Giovanni met representatives of the Aztec civilization as part of the Cortez expeditions. In the city of Tenochtitlan (now part of Mexico City), these Giovanni were introduced to a massive, formalized necromantic tradition. So naturally they killed, enslaved, and converted the “heathens,” bringing them into the fold. The Giovanni called these converts pisanob, a Mayan term that roughly translates to “ghosts of the dead that walk the Earth” (the fact that the Aztecs weren’t Maya didn’t concern the Europeans). That\n\nthese vampires already had a name, a legacy, and their own beliefs mattered little to the Giovanni. Their leader, Pochtli, was still in charge of the Pisanob up through the Family Reunion. However, the family had been whittled down to a bare few remaining Kindred after the ongoing attacks by the Harbingers of Skulls (see p. 226), although the reasons for the attacks were unknown. Pochtli offered his unlife to the Harbingers in exchange for an end to hostilities, which the Harbingers accepted. Now, the remaining children of Tenochtitlan are deciding on a new leader, while planning their revenge."
+          },
+          {
+            "title": "Forward Thinking",
+            "text": "After years of being hunted down by the Harbingers of Skulls, you’ve learned to always plan ahead, turning potential tragedy into a triumph. Once per story, you can reroll any Skill roll. In addition, you always get one free Skill reroll in any scene in which you work against another Hecata. If the Hecata in question is a member of the Harbingers of Skulls, you get an additional success on that reroll."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan-players-guide-v5-4",
+      "book": "players-guide-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Filhos de Tenochtitlan — Prodígio Necromântico",
+        "en": "Children of Tenochtitlan — Necromantic Prodigy"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 224 · 4",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "No início do século XVI, Giovanni espanhóis encontraram a civilização asteca nas expedições de Cortés. Em Tenochtitlan, hoje parte da Cidade do México, conheceram uma tradição necromântica vasta e formalizada. Mataram, escravizaram e converteram os chamados pagãos, incorporando-os. Chamaram os convertidos de pisanob, termo maia aproximadamente equivalente a fantasmas dos mortos que caminham na Terra; não lhes importava que os astecas não fossem maias, nem que esses vampiros já tivessem nome, legado e crenças.\n\nPochtli liderou os Pisanob até a Reunião da Família. Ataques contínuos dos Arautos das Caveiras, por razões desconhecidas, reduziram a família a poucos sobreviventes. Pochtli ofereceu sua não vida em troca do fim das hostilidades; os Arautos aceitaram. Agora os sobreviventes escolhem outro líder enquanto planejam vingança."
+          },
+          {
+            "title": "Prodígio Necromântico",
+            "text": "Por estudo, sangue ancestral ou segredos adquiridos dos primos, você domina Oblívio e suas cerimônias. Receba dois sucessos automáticos em qualquer teste necessário para ativar uma Cerimônia necromântica de Oblívio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "In the early sixteenth century, Spanish Giovanni met representatives of the Aztec civilization as part of the Cortez expeditions. In the city of Tenochtitlan (now part of Mexico City), these Giovanni were introduced to a massive, formalized necromantic tradition. So naturally they killed, enslaved, and converted the “heathens,” bringing them into the fold. The Giovanni called these converts pisanob, a Mayan term that roughly translates to “ghosts of the dead that walk the Earth” (the fact that the Aztecs weren’t Maya didn’t concern the Europeans). That\n\nthese vampires already had a name, a legacy, and their own beliefs mattered little to the Giovanni. Their leader, Pochtli, was still in charge of the Pisanob up through the Family Reunion. However, the family had been whittled down to a bare few remaining Kindred after the ongoing attacks by the Harbingers of Skulls (see p. 226), although the reasons for the attacks were unknown. Pochtli offered his unlife to the Harbingers in exchange for an end to hostilities, which the Harbingers accepted. Now, the remaining children of Tenochtitlan are deciding on a new leader, while planning their revenge."
+          },
+          {
+            "title": "Necromantic Prodigy",
+            "text": "The secrets of Oblivion are yours to command, whether through study, your ancient bloodline, or secrets you have acquired from your cousins over the years. Your mastery of necromantic ceremonies is unparalleled. You get two automatic successes on any roll necessary for activating a necromantic Oblivion Ceremony."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan-players-guide-v5-5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Filhos de Tenochtitlan — Próximo na Sucessão",
+        "en": "Children of Tenochtitlan — Next in Line"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 224 · 5",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "No início do século XVI, Giovanni espanhóis encontraram a civilização asteca nas expedições de Cortés. Em Tenochtitlan, hoje parte da Cidade do México, conheceram uma tradição necromântica vasta e formalizada. Mataram, escravizaram e converteram os chamados pagãos, incorporando-os. Chamaram os convertidos de pisanob, termo maia aproximadamente equivalente a fantasmas dos mortos que caminham na Terra; não lhes importava que os astecas não fossem maias, nem que esses vampiros já tivessem nome, legado e crenças.\n\nPochtli liderou os Pisanob até a Reunião da Família. Ataques contínuos dos Arautos das Caveiras, por razões desconhecidas, reduziram a família a poucos sobreviventes. Pochtli ofereceu sua não vida em troca do fim das hostilidades; os Arautos aceitaram. Agora os sobreviventes escolhem outro líder enquanto planejam vingança."
+          },
+          {
+            "title": "Próximo na Sucessão",
+            "text": "Pochtli se sacrificou pelo plano de união Hecata; alguém precisa liderar os Pisanob. Você combina necromancia e habilidade política. Receba dois pontos adicionais de Status nos Hecata e um aliado na liderança que atua como Mawla de cinco pontos uma vez a cada duas histórias. Você pode comprar Mawla normalmente para torná-lo um mentor ou patrono mais frequente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "In the early sixteenth century, Spanish Giovanni met representatives of the Aztec civilization as part of the Cortez expeditions. In the city of Tenochtitlan (now part of Mexico City), these Giovanni were introduced to a massive, formalized necromantic tradition. So naturally they killed, enslaved, and converted the “heathens,” bringing them into the fold. The Giovanni called these converts pisanob, a Mayan term that roughly translates to “ghosts of the dead that walk the Earth” (the fact that the Aztecs weren’t Maya didn’t concern the Europeans). That\n\nthese vampires already had a name, a legacy, and their own beliefs mattered little to the Giovanni. Their leader, Pochtli, was still in charge of the Pisanob up through the Family Reunion. However, the family had been whittled down to a bare few remaining Kindred after the ongoing attacks by the Harbingers of Skulls (see p. 226), although the reasons for the attacks were unknown. Pochtli offered his unlife to the Harbingers in exchange for an end to hostilities, which the Harbingers accepted. Now, the remaining children of Tenochtitlan are deciding on a new leader, while planning their revenge."
+          },
+          {
+            "title": "Next in Line",
+            "text": "Now that Pochtli has sacrificed himself to the Hecata’s grand plan of unity, it is time for another to step up and lead the Pisanob to future glory. You are one such individual, wielding a balance of necromantic skill and political savvy. You have an additional two dots of Status within the Hecata. Further, you have an ally among the Hecata leadership, who acts as a five-dot Mawla once every other story. (You can purchase the Mawla Background as normal to make the character a more regular mentor or patron."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Filhos de Tenochtitlan — Escondido do Lobo",
+        "en": "Children of Tenochtitlan — Hiding from the Wolf"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 221 · 1",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 221,
+          "printedPage": 221
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Escondido do Lobo",
+            "text": "Os Pisanob restantes sobreviveram porque são excelentes em se esconder. Você aprendeu técnicas para não ser visto por quem o caça e por suas próprias presas. Receba um dado adicional em qualquer teste para se esconder, inclusive com Disciplinas ou Cerimônias."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hiding from the Wolf",
+            "text": "The remaining Pisanob survived because they are really, really good at hiding. You’ve learned all manner of techniques to remain out of sight of those that would hunt you... and those you would hunt. You get one extra die on any roll to hide, including via the use of Disciplines or Ceremonies."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Filhos de Tenochtitlan — Instintos de Fantasma",
+        "en": "Children of Tenochtitlan — Ghostly Instincts"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 221 · 2",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 221,
+          "printedPage": 221
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Instintos de Fantasma",
+            "text": "Os primeiros Membros Abraçados em Tenochtitlan eram necromantes talentosos e transmitiram muitos segredos. Você conhece alguns: receba dois dados adicionais em testes de Cerimônias de Oblívio que envolvam invocar, controlar ou destruir fantasmas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Ghostly Instincts",
+            "text": "The original Kindred embraced in Tenochtitlan were extremely talented necromancers, and they have carried on a wide variety of tips, tricks, and secrets among their brethren. You’ve learned some of those secrets, which give you two additional dice on any Oblivion Ceremony roll involving the summoning, control, or destruction of ghosts."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Filhos de Tenochtitlan — Visão do Futuro",
+        "en": "Children of Tenochtitlan — Forward Thinking"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 221 · 3",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 221,
+          "printedPage": 221
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Visão do Futuro",
+            "text": "Anos de perseguição pelos Arautos das Caveiras ensinaram você a planejar e transformar tragédia em triunfo. Uma vez por história, rerrole qualquer teste de Habilidade. Além disso, receba uma rerrolagem gratuita de Habilidade em cada cena em que agir contra outro Hecata. Se ele pertencer aos Arautos das Caveiras, acrescente um sucesso nessa rerrolagem."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Forward Thinking",
+            "text": "After years of being hunted down by the Harbingers of Skulls, you’ve learned to always plan ahead, turning potential tragedy into a triumph. Once per story, you can reroll any Skill roll. In addition, you always get one free Skill reroll in any scene in which you work against another Hecata. If the Hecata in question is a member of the Harbingers of Skulls, you get an additional success on that reroll."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Filhos de Tenochtitlan — Necromante Prodígio",
+        "en": "Children of Tenochtitlan — Necromantic Prodigy"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 221 · 4",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 221,
+          "printedPage": 221
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Necromante Prodígio",
+            "text": "Por estudo, sangue ancestral ou segredos adquiridos dos primos, você domina Oblívio e suas cerimônias. Receba dois sucessos automáticos em qualquer teste necessário para ativar uma Cerimônia necromântica de Oblívio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Necromantic Prodigy",
+            "text": "The secrets of Oblivion are yours to command, whether through study, your ancient bloodline, or secrets you have acquired from your cousins over the years. Your mastery of necromantic ceremonies is unparalleled. You get two automatic successes on any roll necessary for activating a necromantic Oblivion Ceremony."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-children-of-tenochtitlan-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Filhos de Tenochtitlan — Próximo da Fila",
+        "en": "Children of Tenochtitlan — Next in Line"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 221 · 5",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 221,
+          "printedPage": 221
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Próximo da Fila",
+            "text": "Pochtli se sacrificou pelo plano de união Hecata; alguém precisa liderar os Pisanob. Você combina necromancia e habilidade política. Receba dois pontos adicionais de Status nos Hecata e um aliado na liderança que atua como Mawla de cinco pontos uma vez a cada duas histórias. Você pode comprar Mawla normalmente para torná-lo um mentor ou patrono mais frequente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Next in Line",
+            "text": "Now that Pochtli has sacrificed himself to the Hecata’s grand plan of unity, it is time for another to step up and lead the Pisanob to future glory. You are one such individual, wielding a balance of necromantic skill and political savvy. You have an additional two dots of Status within the Hecata. Further, you have an ally among the Hecata leadership, who acts as a five-dot Mawla once every other story. (You can purchase the Mawla Background as normal to make the character a more regular mentor or patron."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

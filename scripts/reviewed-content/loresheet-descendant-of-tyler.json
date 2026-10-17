@@ -1,0 +1,504 @@
+{
+  "id": "loresheet-descendant-of-tyler",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Descendente de Tyler",
+    "en": "Descendant of Tyler"
+  },
+  "aliases": [
+    "Descendente de Tyler",
+    "Descendant of Tyler",
+    "Descendente de Tyler — Instigador",
+    "Descendant of Tyler — Instigator",
+    "Descendente de Tyler — Campeão da Causa",
+    "Descendant of Tyler — Champion of the Cause",
+    "Descendente de Tyler — A Piedade de Tyler",
+    "Descendant of Tyler — Tyler's Pity",
+    "Descendente de Tyler — Os Furores",
+    "Descendant of Tyler — The Furors",
+    "Descendente de Tyler — Revolução Permanente",
+    "Descendant of Tyler — Permanent Revolution"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-descendant-of-tyler-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Tyler — Instigador",
+        "en": "Descendant of Tyler — Instigator"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 397 · 1",
+      "pages": [
+        {
+          "pdfPage": 401,
+          "printedPage": 397
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Instigador",
+            "text": "Uma vez por história, sempre que você tentar persuadir uma multidão de mortais a agir com violência, sua natureza explosiva adicionará dois dados à sua parada de dados usada para tanto."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Instigator",
+            "text": "Once per story, whenever you attempt to persuade a mob of Kine to act violently, your explosive nature adds two dice to your dice pool used to do so."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-tyler-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Tyler — Campeão da Causa",
+        "en": "Descendant of Tyler — Champion of the Cause"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 397 · 2",
+      "pages": [
+        {
+          "pdfPage": 401,
+          "printedPage": 397
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Campeão da Causa",
+            "text": "Quando os vampiros querem um líder para uma rebelião, eles o procuram em busca de conselhos ou liderança. Eles podem até escutar as suas palavras, e dar seu conselho não é de todo ridículo. Você adiciona dois dados ao seu Status com eles durante uma rebelião, e pode achar os numerosos contatos adquiridos antes de uma rebelião mais valiosos e com certeza menos perigosos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Champion of the Cause",
+            "text": "When vampires want a leader for a rebellion, they look to him for advice or Leadership. They can even listen to your words, and giving their advice is not at all ridiculous. You add two dice to your Status with them during a rebellion, and you may find the numerous Contacts acquired before a rebellion more valuable and certainly less dangerous."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-tyler-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Tyler — A Piedade de Tyler",
+        "en": "Descendant of Tyler — Tyler's Pity"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 397 · 3",
+      "pages": [
+        {
+          "pdfPage": 401,
+          "printedPage": 397
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Piedade de Tyler",
+            "text": "Você sabe quando parar. Tyler reconheceu quando o Sabá foi longe demais com seus ideais Anarch, e você do mesmo modo reconhecer os limites da revolução violenta. Uma vez por história, ao entrar em frenesi, você pode assumir uma Compulsão Brujah (pag. 210) a qualquer momento para cessar imediatamente o surto. Você não sofre nenhuma confusão ou exaustão após um frenesi interrompido, voltando abruptamente para sua condição humana."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Tyler's Pity",
+            "text": "You know when to stop. Tyler recognized when the Sabbat went too far with its Anarch ideals, and you likewise recognize the limits of violent revolution. Once per story, when going into a frenzy, you can take a Brujah Compulsion (page 210) at any time to immediately cease the frenzy. You suffer no confusion or exhaustion after an interrupted frenzy, abruptly returning to your human condition."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-tyler-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Tyler — Os Furores",
+        "en": "Descendant of Tyler — The Furors"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 397 · 4",
+      "pages": [
+        {
+          "pdfPage": 401,
+          "printedPage": 397
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Os Furores",
+            "text": "As filosofias de Tyler surgiram originalmente entre um grupo vampírico histórico conhecido como os Furores, que se dedicou a destruição de todos os Membros tiranos. Esse grupo ainda existe em segredo, e você é um dos seus integrantes. Quando chegada a hora (uma vez por crônica), os Furores o armam, fornecem santuário em um regnum onde exercem influência e acionam recursos no domínio alvo, tais como Aliados surpresa (disponiveis dentro de uma cena). Esses Aliados somam cinco pontos de Efetividade; o restante depende da sua colaboração com o Narrador. Os recursos dos Furores só podem ser usados em uma tentativa de derrubar um Príncipe, Barão ou outro vampiro de posto elevado. O uso incorreto o transforma em alvo dos Furores e seus agentes desconhecidos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Furors",
+            "text": "Tyler's philosophies originally arose among a historical vampiric group known as the Furors, who were dedicated to the destruction of all Kindred tyrants. This group still exists in secret, and you are one of its members. When the time comes (once per chronicle), the Furors arm him, provide sanctuary in a regnum where they exert influence, and trigger Resources in the target domain, such as surprise Allies (available within a scene). These Allies add up to five Effectiveness points; the rest depends on your collaboration with Storyteller. The Furors' Resources can only be used in an attempt to overthrow a Prince, Baron, or other high-ranking vampire. Incorrect use makes you a target of Furores and their unknown agents."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-tyler-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Tyler — Revolução Permanente",
+        "en": "Descendant of Tyler — Permanent Revolution"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 397 · 5",
+      "pages": [
+        {
+          "pdfPage": 401,
+          "printedPage": 397
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Revolução Permanente",
+            "text": "Você já derrubou o líder de uma seita. Agora você lidera um exército de revolucionários na derrocada de regnae vizinhos. Enquanto você continuar lutando e não for pego se excedendo nos luxos da sua posição, os Anarchs escutarão cada palavra sua, e os Anarchs Brujah o obedecerão ao pé da letra, incluindo embarcar em missões suicidas. Nenhuma rolagem será exigida se seu discurso for forte e sua argumentação convincente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Permanent Revolution",
+            "text": "You've already taken down a cult leader. Now you lead an army of revolutionaries in overthrowing neighboring regnae. As long as you keep fighting and don't get caught indulging in the luxuries of your position, the Anarchs will listen to your every word, and the Brujah Anarchs will obey you to the letter, including embarking on suicide missions. No roll is required if your speech is strong and your argument convincing."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-tyler-anarch-v5-1",
+      "book": "anarch-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Tyler — Instigador",
+        "en": "Descendant of Tyler — Instigator"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 195 · 1",
+      "pages": [
+        {
+          "pdfPage": 199,
+          "printedPage": 195
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Instigador",
+            "text": "Uma vez por história, sempre que você tentar persuadir uma multidão de mortais a agir com violência, sua natureza explosiva adicionará dois dados à sua parada de dados usada para tanto."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Instigator",
+            "text": "Once per story, whenever you attempt to persuade a mob of Kine to act violently, your explosive nature adds two dice to your dice pool used to do so."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-tyler-anarch-v5-2",
+      "book": "anarch-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Tyler — Campeão da Causa",
+        "en": "Descendant of Tyler — Champion of the Cause"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 195 · 2",
+      "pages": [
+        {
+          "pdfPage": 199,
+          "printedPage": 195
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Campeão da Causa",
+            "text": "Quando os vampiros querem um líder para uma rebelião, eles o procuram em busca de conselhos ou liderança. Eles podem até escutar as suas palavras, e dar seu conselho não é de todo ridículo. Você adiciona dois dados ao seu Status com eles durante uma rebelião, e pode achar os numerosos contatos adquiridos antes de uma rebelião mais valiosos e com certeza menos perigosos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Champion of the Cause",
+            "text": "When vampires want a leader for a rebellion, they look to him for advice or Leadership. They can even listen to your words, and giving their advice is not at all ridiculous. You add two dice to your Status with them during a rebellion, and you may find the numerous Contacts acquired before a rebellion more valuable and certainly less dangerous."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-tyler-anarch-v5-3",
+      "book": "anarch-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Tyler — A Piedade de Tyler",
+        "en": "Descendant of Tyler — Tyler's Pity"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 195 · 3",
+      "pages": [
+        {
+          "pdfPage": 199,
+          "printedPage": 195
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Piedade de Tyler",
+            "text": "Você sabe quando parar. Tyler reconheceu quando o Sabá foi longe demais com seus ideais Anarch, e você do mesmo modo reconhecer os limites da revolução violenta. Uma vez por história, ao entrar em frenesi, você pode assumir uma Compulsão Brujah (pag. 210) a qualquer momento para cessar imediatamente o surto. Você não sofre nenhuma confusão ou exaustão após um frenesi interrompido, voltando abruptamente para sua condição humana."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Tyler's Pity",
+            "text": "You know when to stop. Tyler recognized when the Sabbat went too far with its Anarch ideals, and you likewise recognize the limits of violent revolution. Once per story, when going into a frenzy, you can take a Brujah Compulsion (page 210) at any time to immediately cease the frenzy. You suffer no confusion or exhaustion after an interrupted frenzy, abruptly returning to your human condition."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-tyler-anarch-v5-4",
+      "book": "anarch-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Tyler — Os Furores",
+        "en": "Descendant of Tyler — The Furors"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 195 · 4",
+      "pages": [
+        {
+          "pdfPage": 199,
+          "printedPage": 195
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Os Furores",
+            "text": "As filosofias de Tyler surgiram originalmente entre um grupo vampírico histórico conhecido como os Furores, que se dedicou a destruição de todos os Membros tiranos. Esse grupo ainda existe em segredo, e você é um dos seus integrantes. Quando chegada a hora (uma vez por crônica), os Furores o armam, fornecem santuário em um regnum onde exercem influência e acionam recursos no domínio alvo, tais como Aliados surpresa (disponiveis dentro de uma cena). Esses Aliados somam cinco pontos de Efetividade; o restante depende da sua colaboração com o Narrador. Os recursos dos Furores só podem ser usados em uma tentativa de derrubar um Príncipe, Barão ou outro vampiro de posto elevado. O uso incorreto o transforma em alvo dos Furores e seus agentes desconhecidos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Furors",
+            "text": "Tyler's philosophies originally arose among a historical vampiric group known as the Furors, who were dedicated to the destruction of all Kindred tyrants. This group still exists in secret, and you are one of its members. When the time comes (once per chronicle), the Furors arm him, provide sanctuary in a regnum where they exert influence, and trigger Resources in the target domain, such as surprise Allies (available within a scene). These Allies add up to five Effectiveness points; the rest depends on your collaboration with Storyteller. The Furors' Resources can only be used in an attempt to overthrow a Prince, Baron, or other high-ranking vampire. Incorrect use makes you a target of Furores and their unknown agents."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-tyler-anarch-v5-5",
+      "book": "anarch-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Tyler — Revolução Permanente",
+        "en": "Descendant of Tyler — Permanent Revolution"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 195 · 5",
+      "pages": [
+        {
+          "pdfPage": 199,
+          "printedPage": 195
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Revolução Permanente",
+            "text": "Você já derrubou o líder de uma seita. Agora você lidera um exército de revolucionários na derrocada de regnae vizinhos. Enquanto você continuar lutando e não for pego se excedendo nos luxos da sua posição, os Anarchs escutarão cada palavra sua, e os Anarchs Brujah o obedecerão ao pé da letra, incluindo embarcar em missões suicidas. Nenhuma rolagem será exigida se seu discurso for forte e sua argumentação convincente."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Permanent Revolution",
+            "text": "You've already taken down a cult leader. Now you lead an army of revolutionaries in overthrowing neighboring regnae. As long as you keep fighting and don't get caught indulging in the luxuries of your position, the Anarchs will listen to your every word, and the Brujah Anarchs will obey you to the letter, including embarking on suicide missions. No roll is required if your speech is strong and your argument convincing."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

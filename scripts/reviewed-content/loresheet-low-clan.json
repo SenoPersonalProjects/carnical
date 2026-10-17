@@ -1,0 +1,254 @@
+{
+  "id": "loresheet-low-clan",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Baixo-Clã",
+    "en": "Low Clan"
+  },
+  "aliases": [
+    "Baixo-Clã",
+    "Low Clan",
+    "Baixo-Clã — Casca-Grossa",
+    "Low Clan — Thick Shell",
+    "Baixo-Clã — Amaldiçoado com Orgulho",
+    "Low Clan — Cursed with Pride",
+    "Baixo-Clã — Parentesco Misterioso",
+    "Low Clan — Mysterious Kinship",
+    "Baixo-Clã — Comércio entre Iguais",
+    "Low Clan — Trade between Equals",
+    "Baixo-Clã — Incidente Crítico",
+    "Low Clan — Critical Incident"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-low-clan-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Baixo-Clã — Casca-Grossa",
+        "en": "Low Clan — Thick Shell"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 401 · 1",
+      "pages": [
+        {
+          "pdfPage": 405,
+          "printedPage": 401
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Casca-Grossa",
+            "text": "Muitas vezes difamado por aqueles que se dizem \"Alto-Clã\", sua ambição e independência não vacilam perante afrontas e palavras esnobes. Não é fácil fazê-lo reagir a provocações simples. Uma vez por história, você pode ignorar farpas verbais por uma cena sem precisar fazer um teste."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Thick Shell",
+            "text": "Often maligned by those who call themselves \"High-Clan\", their ambition and independence do not waver in the face of affronts and snobbish words. It's not easy to make him react to simple provocations. Once per story, you can ignore verbal barbs for a scene without needing to make a check."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-low-clan-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Baixo-Clã — Amaldiçoado com Orgulho",
+        "en": "Low Clan — Cursed with Pride"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 401 · 2",
+      "pages": [
+        {
+          "pdfPage": 405,
+          "printedPage": 401
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Amaldiçoado com Orgulho",
+            "text": "Em alguns casos, os Baixos-Clãs se orgulham enormemente da gravidade das suas Perdições. Por exemplo, alguns Nosferatu acreditam que sua aparência hedionda é a marca de uma monstruosidade gloriosa, em vez de algo a ser escondido. Você aprendeu a usar a Perdição do seu clã como uma arma, ganhando um sucesso automático em uma rolagem por história ao incorporar sua Perdição a uma ação."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Cursed with Pride",
+            "text": "Some Low Clans take great pride in the severity of their Banes. Some Nosferatu, for instance, see their hideous appearance as glorious monstrosity rather than something to hide. You have learned to use your clan’s Bane as a weapon. Once per story, gain one automatic success on a roll by incorporating your Bane into the action."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-low-clan-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Baixo-Clã — Parentesco Misterioso",
+        "en": "Low Clan — Mysterious Kinship"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 401 · 3",
+      "pages": [
+        {
+          "pdfPage": 405,
+          "printedPage": 401
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Parentesco Misterioso",
+            "text": "Por causa da constante perseguição dos Altos-Clãs, vampiros dos Baixos-Clãs sentem-se inclinados a permanecerem juntos. Frequentemente você media entre disputantes dos Baixos-Clãs, e enxerga o mérito da união dos Membros do submundo contra a hegemonia da elite. Você pode selecionar três pontos entre Mawla ou Status dentre outros Baixos-Clãs do domínio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Mysterious Kinship",
+            "text": "Because of constant persecution from the High Clans, vampires from the Low Clans feel inclined to stay together. You often mediate between disputes from the Lower Clans, and see the merit of the unity of the Kindred of the underworld against the hegemony of the elite. You can select three points between Mawla or Status among other Low-Clans in the domain."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-low-clan-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Baixo-Clã — Comércio entre Iguais",
+        "en": "Low Clan — Trade between Equals"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 401 · 4",
+      "pages": [
+        {
+          "pdfPage": 405,
+          "printedPage": 401
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Disciplina de um Baixo-Clã, confirmada com o Narrador",
+          "en": "A Low Clan Discipline, confirmed with the Storyteller"
+        }
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Comércio entre Iguais",
+            "text": "Apesar de todo o seu sofrimento, * os Baixos-Clãs se beneficiaram da adversidade de um modo importante — eles compartilharam entre si seus poderes. Tal colaboração pode não ser verdadeira em todos os domínios, mas essa velha história é um fato no seu. Você pode escolher uma Disciplina de um Baixo-Clã e adquirir pontos nela, para tanto usando pontos de experiência como se se tratasse de uma Disciplina do seu clã."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Trade between Equals",
+            "text": "For all their suffering, * the Low-Clans benefited from the adversity in one important way—they shared their powers among themselves. Such collaboration may not be true in all domains, but this old story is a fact in yours. You can choose a Discipline from a Low-Clan and acquire points in it, using experience points as if it were a Discipline from your clan."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-low-clan-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Baixo-Clã — Incidente Crítico",
+        "en": "Low Clan — Critical Incident"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 401 · 5",
+      "pages": [
+        {
+          "pdfPage": 405,
+          "printedPage": 401
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Incidente Crítico",
+            "text": "Sua influência entre vampiros Baixo-Clã pode permitir que você inverta a balança do poder no seu domínio — caso queira. Adicione um dado a todas as suas paradas para Projetos que visem minar os Altos-Clãs do seu domínio. Uma vez por crônica, você pode sacrificar até 10 dos seus pontos de Antecedentes para derrubar a mesma quantidade de Membros Alto-Clã numa cajadada só."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Critical Incident",
+            "text": "Your influence among Low-Clan vampires can allow you to reverse the balance of power in your domain—if you wish. Add a die to all your pools for Projects that aim to undermine the High Clans in your domain. Once per chronicle, you can sacrifice up to 10 of your Backgrounds points to drop the same amount of Kindred High-Clan with one stone."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

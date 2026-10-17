@@ -1,0 +1,601 @@
+{
+  "id": "bloodline-nasyon-san-an",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Nasyon San An",
+    "en": "Nasyon San An"
+  },
+  "aliases": [
+    "Nasyon San An",
+    "Nasyon San An — Parada de CSI",
+    "Nasyon San An — CSI Shit",
+    "Nasyon San An — Libra de Carne",
+    "Nasyon San An — Pound of Flesh",
+    "Nasyon San An — Mime-se",
+    "Nasyon San An — Treat Yourself",
+    "Nasyon San An — Meu Amigo Setita",
+    "Nasyon San An — My Setite Friend",
+    "Nasyon San An — A Cartola de Seda",
+    "Nasyon San An — The Silk Hat",
+    "Descendentes do Barão — Coisas de CSI",
+    "Descendants of the Baron — CSI Shit",
+    "Descendentes do Barão — Cadáver Requintado",
+    "Descendants of the Baron — Exquisite Corpse",
+    "Descendentes do Barão — Oco por Dentro",
+    "Descendants of the Baron — Hollow Inside",
+    "Descendentes do Barão — Meu Amigo Setita",
+    "Descendants of the Baron — My Setite Friend",
+    "Descendentes do Barão — O Chapéu de Seda",
+    "Descendants of the Baron — The Silk Hat",
+    "Samedi",
+    "Descendentes do Barão",
+    "Descendants of the Baron"
+  ],
+  "versions": [
+    {
+      "id": "bloodline-nasyon-san-an-players-guide-v5-1",
+      "book": "players-guide-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Nasyon San An — Parada de CSI",
+        "en": "Nasyon San An — CSI Shit"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 229 · 1",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 229
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Linhagem jovem de raízes no Atlântico Negro e supostas conexões Capadócias, os antigos Samedi eram espiões mercenários e necromantes. Mantinham rebanhos e confidentes em círculos religiosos e agiam discretamente, cercados de rumores e equívocos. Na Reunião da Família, saíram das mentiras para integrar o Clã da Morte.\n\nPersistem perguntas sobre seu infame patriarca, chamado nas noites modernas de Doc San. Mas os tempos mudam: o vodu e eles já não se escondem. A Nasyon San An aparece em vestidos esvoaçantes, roupas de rua impecavelmente combinadas e até uma ocasional cartola de seda. Da Bahia a Ilé-Ifẹ̀, Nova Orleans e além, preparem rum e charutos. Deixem os bons tempos rolar."
+          },
+          {
+            "title": "Parada de CSI",
+            "text": "Como aspirante a gede, você conhece alguns truques sobre morte, podridão e decomposição. Ao examinar cuidadosamente um cadáver mortal, sabe imediatamente a causa da morte. Se ela estiver escondida sobrenaturalmente, você ainda pode fazer uma rolagem para descobri-la."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Ayoung lineage with Black Atlantic roots and rumored Cappadocian connections, the vampires once known as the Samedi carried on business as mercenary spies and necromancers, maintaining herds and confidants in religious circles and keeping a low profile. Rumors and misconceptions shrouded them in secrecy; but at the Family Reunion, they emerged from the lies to enter into the Clan of Death. Unanswered questions still abound, many focused on their infamous paterfamilias, known in modern nights as Doc San. But times change, vodou isn’t hiding anymore, and neither are they. Nasyon san an are stepping out in billowing dresses, immaculately coordinated streetwear, and even the occasional silk hat. From Bahia to Ilé-Ifẹ̀ to New Orleans and beyond, ready the rum and cigars. Laissez les bon temps rouler."
+          },
+          {
+            "title": "CSI Shit",
+            "text": "As an aspiring gede, you’ve learned a few tricks about death. One of them is knowing a lot about rot, decay, and how bodies die. By carefully examining a mortal corpse you can immediately know the cause of death. If the cause of death is supernaturally concealed, you gain the ability to roll despite that."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-nasyon-san-an-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Nasyon San An — Libra de Carne",
+        "en": "Nasyon San An — Pound of Flesh"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 229 · 2",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 229
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Linhagem jovem de raízes no Atlântico Negro e supostas conexões Capadócias, os antigos Samedi eram espiões mercenários e necromantes. Mantinham rebanhos e confidentes em círculos religiosos e agiam discretamente, cercados de rumores e equívocos. Na Reunião da Família, saíram das mentiras para integrar o Clã da Morte.\n\nPersistem perguntas sobre seu infame patriarca, chamado nas noites modernas de Doc San. Mas os tempos mudam: o vodu e eles já não se escondem. A Nasyon San An aparece em vestidos esvoaçantes, roupas de rua impecavelmente combinadas e até uma ocasional cartola de seda. Da Bahia a Ilé-Ifẹ̀, Nova Orleans e além, preparem rum e charutos. Deixem os bons tempos rolar."
+          },
+          {
+            "title": "Libra de Carne",
+            "text": "Algo da fraqueza antiga da linhagem permanece e pode ser compartilhado. Se aceitar um presente oferecido livremente, você e quem o deu recebem três dados de penalidade em qualquer parada para agir um contra o outro pelo restante da noite."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Ayoung lineage with Black Atlantic roots and rumored Cappadocian connections, the vampires once known as the Samedi carried on business as mercenary spies and necromancers, maintaining herds and confidants in religious circles and keeping a low profile. Rumors and misconceptions shrouded them in secrecy; but at the Family Reunion, they emerged from the lies to enter into the Clan of Death. Unanswered questions still abound, many focused on their infamous paterfamilias, known in modern nights as Doc San. But times change, vodou isn’t hiding anymore, and neither are they. Nasyon san an are stepping out in billowing dresses, immaculately coordinated streetwear, and even the occasional silk hat. From Bahia to Ilé-Ifẹ̀ to New Orleans and beyond, ready the rum and cigars. Laissez les bon temps rouler."
+          },
+          {
+            "title": "Pound of Flesh",
+            "text": "Something of your bloodline’s original weakness remains with you, even as a full-fledged Hecata. In fact, you can even share it around. If you accept a gift freely given, you and whoever gave it to you receive a three-dice penalty from any pools used for any actions against one another for the remainder of that night."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-nasyon-san-an-players-guide-v5-3",
+      "book": "players-guide-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Nasyon San An — Mime-se",
+        "en": "Nasyon San An — Treat Yourself"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 229 · 3",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 229
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Linhagem jovem de raízes no Atlântico Negro e supostas conexões Capadócias, os antigos Samedi eram espiões mercenários e necromantes. Mantinham rebanhos e confidentes em círculos religiosos e agiam discretamente, cercados de rumores e equívocos. Na Reunião da Família, saíram das mentiras para integrar o Clã da Morte.\n\nPersistem perguntas sobre seu infame patriarca, chamado nas noites modernas de Doc San. Mas os tempos mudam: o vodu e eles já não se escondem. A Nasyon San An aparece em vestidos esvoaçantes, roupas de rua impecavelmente combinadas e até uma ocasional cartola de seda. Da Bahia a Ilé-Ifẹ̀, Nova Orleans e além, preparem rum e charutos. Deixem os bons tempos rolar."
+          },
+          {
+            "title": "Mime-se",
+            "text": "Você levou a sério o apetite lendário dos gedes. Uma vez por noite, desfrute de uma refeição, charuto, bebida alcoólica ou encontro sexual como um humano, ignorando penalidades de Humanidade e sem efeitos negativos na Fome. Para quem observa, seu consumo parece convincentemente humano."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Ayoung lineage with Black Atlantic roots and rumored Cappadocian connections, the vampires once known as the Samedi carried on business as mercenary spies and necromancers, maintaining herds and confidants in religious circles and keeping a low profile. Rumors and misconceptions shrouded them in secrecy; but at the Family Reunion, they emerged from the lies to enter into the Clan of Death. Unanswered questions still abound, many focused on their infamous paterfamilias, known in modern nights as Doc San. But times change, vodou isn’t hiding anymore, and neither are they. Nasyon san an are stepping out in billowing dresses, immaculately coordinated streetwear, and even the occasional silk hat. From Bahia to Ilé-Ifẹ̀ to New Orleans and beyond, ready the rum and cigars. Laissez les bon temps rouler."
+          },
+          {
+            "title": "Treat Yourself",
+            "text": "You’ve taken the gedes’ legendary appetite to heart. Once a night, you can indulge in a meal, a cigar, an alcoholic drink, or a sexual tryst just as a human would, regardless of any penalties which Humanity might inflict and incurring no negative effects in terms of Hunger. Your consumption thereof appears convincingly human to anyone paying attention to that kind of thing."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-nasyon-san-an-players-guide-v5-4",
+      "book": "players-guide-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Nasyon San An — Meu Amigo Setita",
+        "en": "Nasyon San An — My Setite Friend"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 229 · 4",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 229
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Linhagem jovem de raízes no Atlântico Negro e supostas conexões Capadócias, os antigos Samedi eram espiões mercenários e necromantes. Mantinham rebanhos e confidentes em círculos religiosos e agiam discretamente, cercados de rumores e equívocos. Na Reunião da Família, saíram das mentiras para integrar o Clã da Morte.\n\nPersistem perguntas sobre seu infame patriarca, chamado nas noites modernas de Doc San. Mas os tempos mudam: o vodu e eles já não se escondem. A Nasyon San An aparece em vestidos esvoaçantes, roupas de rua impecavelmente combinadas e até uma ocasional cartola de seda. Da Bahia a Ilé-Ifẹ̀, Nova Orleans e além, preparem rum e charutos. Deixem os bons tempos rolar."
+          },
+          {
+            "title": "Meu Amigo Setita",
+            "text": "Sua linhagem tem uma relação peculiar com o Ministério, com interesses comuns e alguns integrantes que o escolheram em vez dos Hecata. Você conhece um desses Samedi ou outro Seguidor de Set. Uma vez por história, peça um favor equivalente a três pontos em Antecedentes apropriados, como Aliados, Influência e Recursos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Ayoung lineage with Black Atlantic roots and rumored Cappadocian connections, the vampires once known as the Samedi carried on business as mercenary spies and necromancers, maintaining herds and confidants in religious circles and keeping a low profile. Rumors and misconceptions shrouded them in secrecy; but at the Family Reunion, they emerged from the lies to enter into the Clan of Death. Unanswered questions still abound, many focused on their infamous paterfamilias, known in modern nights as Doc San. But times change, vodou isn’t hiding anymore, and neither are they. Nasyon san an are stepping out in billowing dresses, immaculately coordinated streetwear, and even the occasional silk hat. From Bahia to Ilé-Ifẹ̀ to New Orleans and beyond, ready the rum and cigars. Laissez les bon temps rouler."
+          },
+          {
+            "title": "My Setite Friend",
+            "text": "Your bloodline has a strange relationship with the Ministry. There’s a lot of overlap in interest, and more than a few have decided to join the Ministry rather than stay with the Hecata. You have a connection with the Ministry, whether it’s one of those wayward “Samedi” or another Follower of Set. You can ask your friend for a favor once per story, which translates to the equivalent of three dots in appropriate Backgrounds such as Allies, Influence, and Resources."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-nasyon-san-an-players-guide-v5-5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Nasyon San An — A Cartola de Seda",
+        "en": "Nasyon San An — The Silk Hat"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 229 · 5",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 229
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Linhagem jovem de raízes no Atlântico Negro e supostas conexões Capadócias, os antigos Samedi eram espiões mercenários e necromantes. Mantinham rebanhos e confidentes em círculos religiosos e agiam discretamente, cercados de rumores e equívocos. Na Reunião da Família, saíram das mentiras para integrar o Clã da Morte.\n\nPersistem perguntas sobre seu infame patriarca, chamado nas noites modernas de Doc San. Mas os tempos mudam: o vodu e eles já não se escondem. A Nasyon San An aparece em vestidos esvoaçantes, roupas de rua impecavelmente combinadas e até uma ocasional cartola de seda. Da Bahia a Ilé-Ifẹ̀, Nova Orleans e além, preparem rum e charutos. Deixem os bons tempos rolar."
+          },
+          {
+            "title": "A Cartola de Seda",
+            "text": "Ninguém sabe ao certo quem é o Doutor Sangrento, mas sabem que ele o favorece e que você é o próximo a assumir sua prática. Você não sabe se aceitar a cartola trará apenas uma função política, poderes espirituais fantásticos ou, certamente, os inimigos do Doutor. Antes de aceitar o cargo, tenha o efeito de Mawla 5, cuja ajuda chega por caminhos crípticos e ações misteriosas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Ayoung lineage with Black Atlantic roots and rumored Cappadocian connections, the vampires once known as the Samedi carried on business as mercenary spies and necromancers, maintaining herds and confidants in religious circles and keeping a low profile. Rumors and misconceptions shrouded them in secrecy; but at the Family Reunion, they emerged from the lies to enter into the Clan of Death. Unanswered questions still abound, many focused on their infamous paterfamilias, known in modern nights as Doc San. But times change, vodou isn’t hiding anymore, and neither are they. Nasyon san an are stepping out in billowing dresses, immaculately coordinated streetwear, and even the occasional silk hat. From Bahia to Ilé-Ifẹ̀ to New Orleans and beyond, ready the rum and cigars. Laissez les bon temps rouler."
+          },
+          {
+            "title": "The Silk Hat",
+            "text": "No one is entirely sure who the Bloody Doctor is, but they do know you have his favor, and are the next in line to his practice. Whatever that is. You’re not entirely sure what will happen if you step up and claim the silk hat of the Doctor. It may be a purely political position within the Hecata, or it may invest you with fantastic spiritual powers. It’ll certainly invest you with the Doctor’s enemies. Before you accept the role, however, you have the effect of Mawla at five dots, although the help comes in cryptic ways and via mysterious actions."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-nasyon-san-an-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendentes do Barão — Coisas de CSI",
+        "en": "Descendants of the Baron — CSI Shit"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 222 · 1",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 222,
+          "printedPage": 222
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Coisas de CSI",
+            "text": "Como cria do Barão, você conhece alguns truques sobre morte, podridão e decomposição. Ao examinar cuidadosamente um cadáver mortal, sabe imediatamente a causa da morte. Se ela estiver escondida sobrenaturalmente, você ainda pode fazer uma rolagem para descobri-la."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "CSI Shit",
+            "text": "As a childe of the Baron, you’ve learned a few tricks about death. One of them is knowing a lot about rot, decay, and how bodies die. By carefully examining a mortal corpse you can immediately know the cause of death. If the cause of death is supernaturally concealed, you gain the ability to roll despite that."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-nasyon-san-an-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendentes do Barão — Cadáver Requintado",
+        "en": "Descendants of the Baron — Exquisite Corpse"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 222 · 2",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 222,
+          "printedPage": 222
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Cadáver Requintado",
+            "text": "Os Samedi já foram cadáveres ambulantes, mas a Reunião da Família lhes deu novos rostos. Você pode retomar sua aparência cadavérica quando quiser. Uma vez por sessão, assuma a aparência de um cadáver que tocou, com sua podridão e cheiro atuais. Para perceber falhas reveladoras, observadores testam Determinação + Percepção contra dificuldade igual à sua Determinação."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Exquisite Corpse",
+            "text": "The Samedi once looked like walking corpses, but the Family Reunion gave them new faces. You can resume your corpse-like appearance at will. Once per session, take on the appearance of a corpse you have touched, including its current decay and smell. To spot revealing flaws, observers roll Resolve + Awareness at a Difficulty equal to your Resolve."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-nasyon-san-an-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendentes do Barão — Oco por Dentro",
+        "en": "Descendants of the Baron — Hollow Inside"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 222 · 3",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 222,
+          "printedPage": 222
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Oco por Dentro",
+            "text": "Os filhos do Barão não parecem mais cadáveres, mas alguns conservam vantagens de sê-lo: cadáveres não sentem. Você não sofre a penalidade de dois dados nas paradas relevantes por debilitação física. A penalidade de debilitação de Força de Vontade ainda se aplica."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hollow Inside",
+            "text": "The Baron’s childer no longer look like corpses, but some retain the advantages of being one: corpses feel nothing. You do not suffer the two-dice penalty to relevant pools from physical Impairment. The penalty from Willpower Impairment still applies."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-nasyon-san-an-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendentes do Barão — Meu Amigo Setita",
+        "en": "Descendants of the Baron — My Setite Friend"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 222 · 4",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 222,
+          "printedPage": 222
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Meu Amigo Setita",
+            "text": "Sua linhagem tem uma relação peculiar com o Ministério, com interesses comuns e alguns integrantes que o escolheram em vez dos Hecata. Você conhece um desses Samedi ou outro Seguidor de Set. Uma vez por história, peça um favor equivalente a três pontos em Antecedentes apropriados, como Aliados, Influência e Recursos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "My Setite Friend",
+            "text": "Your bloodline has a strange relationship with the Ministry. There’s a lot of overlap in interest, and more than a few have decided to join the Ministry rather than stay with the Hecata. You have a connection with the Ministry, whether it’s one of those wayward “Samedi” or another Follower of Set. You can ask your friend for a favor once per story, which translates to the equivalent of three dots in appropriate Backgrounds such as Allies, Influence, and Resources."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-nasyon-san-an-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendentes do Barão — O Chapéu de Seda",
+        "en": "Descendants of the Baron — The Silk Hat"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 222 · 5",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 222,
+          "printedPage": 222
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Chapéu de Seda",
+            "text": "Ninguém sabe ao certo quem é o Barão, mas ele o favorece e você é o próximo na sucessão. Não sabe se assumir o chapéu de seda traz apenas um cargo político nos Hecata ou poderes espirituais fantásticos; os inimigos do Barão certamente virão junto. Enquanto não assume, tenha o efeito de Mawla 5, com ajuda enigmática e ações misteriosas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Silk Hat",
+            "text": "No one knows precisely who the Baron is, but he favors you and you are next in succession. Claiming his silk hat might bring only a political position among the Hecata or fantastic spiritual powers; it certainly brings the Baron’s enemies. Until you take the role, benefit from Mawla 5, whose help comes through enigmatic means and mysterious actions."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

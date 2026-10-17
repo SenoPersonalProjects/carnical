@@ -1,0 +1,273 @@
+{
+  "id": "bloodline-criminal-puttanesca",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Puttanesca Criminosos",
+    "en": "Criminal Puttanesca"
+  },
+  "aliases": [
+    "Puttanesca"
+  ],
+  "versions": [
+    {
+      "id": "bloodline-criminal-puttanesca-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Puttanesca Criminosos — Amigos no Submundo",
+        "en": "Criminal Puttanesca — Underworld Friends"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 226 · 1",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Amigos no Submundo",
+            "text": "Os Puttanesca conhecem as ruas e mantêm atividades paralelas. Receba dois pontos para distribuir entre Aliados e Recursos; pode realocá-los no início de cada história. Essas Vantagens estão sempre sob escrutínio policial."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Underworld Friends",
+            "text": "The Puttanesca know the streets and maintain side businesses. Gain two dots to distribute between Allies and Resources; you may reallocate them at the start of each story. These Advantages are always subject to police scrutiny."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-criminal-puttanesca-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Puttanesca Criminosos — Exibindo a Barriguinha",
+        "en": "Criminal Puttanesca — Showing the Belly"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 226 · 2",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Exibindo a Barriguinha",
+            "text": "Você sobrevive parecendo inofensivo aos poderosos, mesmo que isso seja indigno, para vingar-se depois. Receba três dados em testes para convencer alguém a não feri-lo, colocá-lo em perigo ou agir contra você."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Showing the Belly",
+            "text": "You survive by seeming harmless to the powerful, however undignified, and live to seek revenge later. Gain three dice on rolls to convince someone not to hurt, endanger, or act against you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-criminal-puttanesca-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Puttanesca Criminosos — Erguendo os Punhos",
+        "en": "Criminal Puttanesca — Raising Fists"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 226 · 3",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Erguendo os Punhos",
+            "text": "Nem sempre a submissão funciona. Alguns Puttanesca intimidam os mais fracos para demonstrar autoridade. Contra mortais, receba dois dados em testes de Intimidação e aumente em um seu modificador de dano desarmado."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Raising Fists",
+            "text": "Submission does not always work. Some Puttanesca bully the weak to show who is in charge. Against mortals, gain two dice on Intimidation tests and increase your unarmed damage modifier by one."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-criminal-puttanesca-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Puttanesca Criminosos — Encontro dos Amigos",
+        "en": "Criminal Puttanesca — Gathering Friends"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 226 · 4",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Encontro dos Amigos",
+            "text": "Uma vez por história, reúna uma gangue para uma briga. Inclua quaisquer Membros Puttanesca locais e mortais equivalentes a Aliados 5. Também receba um sucesso automático em testes para convencer outros personagens de que a briga é necessária."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Gathering Friends",
+            "text": "Once per story, gather a gang for a fight. It includes any local Puttanesca Kindred and mortals equivalent to Allies 5. Also gain one automatic success on rolls to convince other characters that the fight is necessary."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-criminal-puttanesca-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Puttanesca Criminosos — O Don",
+        "en": "Criminal Puttanesca — The Don"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 226 · 5",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 226,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Don",
+            "text": "Contra todas as probabilidades, você conquistou respeito, riqueza e influência bajulando e brigando; os Hecata talvez até tenham parado de insultá-lo na sua frente. Você tem três pontos adicionais em Contatos, Influência e Recursos, atribuídos a empreendimentos criminosos. Exigem manutenção cuidadosa para evitar grupos como o FBI, cujos agentes podem se tornar versões potentes do Defeito Inimigo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Don",
+            "text": "Against all odds, flattery and violence earned you respect, wealth, and influence; other Hecata may even have stopped insulting you to your face. You have three additional dots in Contacts, Influence, and Resources, assigned to criminal enterprises. They require careful maintenance to avoid organizations such as the FBI, whose agents can become potent versions of the Enemy Flaw."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

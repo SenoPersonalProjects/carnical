@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-golconda",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Golconda",
+    "en": "Golconda"
+  },
+  "aliases": [
+    "Golconda",
+    "Golconda — Sementes da Golconda",
+    "Golconda — Golconda Seeds",
+    "Golconda — O único Caminho Verdadeiro",
+    "Golconda — The only True Path",
+    "Golconda — Discípulo de Saulot",
+    "Golconda — Disciple of Saulot",
+    "Golconda — Satisfazer a Fome",
+    "Golconda — Satisfy Hunger",
+    "Golconda — Saudar o Sol",
+    "Golconda — Salute the Sun"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-golconda-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Golconda — Sementes da Golconda",
+        "en": "Golconda — Golconda Seeds"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 389 · 1",
+      "pages": [
+        {
+          "pdfPage": 393,
+          "printedPage": 389
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sementes da Golconda",
+            "text": "Você ouviu falar da Golconda e pode ensinar outros sobre a natureza desse estado sem parecer um total amador. Uma vez por história, você pode pedir ao Narrador orientações antes de tomar uma ação, e ele dirá se essa ação comprometerá a chance de alcançar a Golconda."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Golconda Seeds",
+            "text": "You have heard of Golconda and can teach others about the nature of this state without looking like a total amateur. Once per story, you can ask Storyteller for guidance before taking an action, and it will tell you whether that action will compromise your chance of reaching Golconda."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-golconda-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Golconda — O único Caminho Verdadeiro",
+        "en": "Golconda — The only True Path"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 389 · 2",
+      "pages": [
+        {
+          "pdfPage": 393,
+          "printedPage": 389
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O único Caminho Verdadeiro",
+            "text": "Você possui uma cópia da obra “O Caminho Verdadeiro”: um tratado sobre as supostas realidades da Golconda, de autoria do Mestre dos Corvos. Esse panfleto lhe diz que a Golconda é um método para se tornar um predador alfa, em vez de um monstro redimido espiritualmente. Uma vez por história, o panfleto lhe confere três dados adicionais em qualquer teste Social que envolva a natureza da Golconda."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The only True Path",
+            "text": "You have a copy of the work “The True Path”: a treatise on the supposed realities of Golconda, authored by the Master of Crows. This pamphlet tells you that Golconda is a method of becoming an alpha predator rather than a spiritually redeemed monster. Once per story, the pamphlet grants you three additional dice on any Social roll involving the nature of Golconda."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-golconda-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Golconda — Discípulo de Saulot",
+        "en": "Golconda — Disciple of Saulot"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 389 · 3",
+      "pages": [
+        {
+          "pdfPage": 393,
+          "printedPage": 389
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Discípulo de Saulot",
+            "text": "Você se apega aos ideais de Saulot: o vampiro que viajou para a Ásia e retornou portando um terceiro olho e a iluminação da Golconda. Você acredita nos ensinamentos de Saulot, segundo os quais a Golconda é o caminho supremo para um Membro sobrepujar sua maldição. Você pratica uma existência dupla, ocasionalmente permitindo à Besta e à Fome livre-reino para que você experimente a serenidade em outros momentos. Sempre que você sucumbir voluntariamente ao frenesi, tome nota; isso permitirá que obtenha sucesso automático no seu próximo teste de frenesi."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Disciple of Saulot",
+            "text": "You cling to the ideals of Saulot: the vampire who traveled to Asia and returned with a third eye and the enlightenment of Golconda. You believe in the teachings of Saulot, that Golconda is the ultimate path for a Kindred to overcome their curse. You practice a dual existence, occasionally allowing the Beast and Hunger free reign so that you experience serenity at other times. Whenever you willingly succumb to frenzy, take note; This will allow you to automatically succeed on your next frenzy test."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-golconda-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Golconda — Satisfazer a Fome",
+        "en": "Golconda — Satisfy Hunger"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 389 · 4",
+      "pages": [
+        {
+          "pdfPage": 393,
+          "printedPage": 389
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Satisfazer a Fome",
+            "text": "Você não precisa se alimentar com a mesma frequência dos outros vampiros. O foco da sua Golconda é suprimir sua Fome constante, potencialmente às custas de outras Características. Seu temperamento inspira outros vampiros. Uma vez por sessão, você pode diminuir sua Fome em um (mas não para menos de um) sem se alimentar."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Satisfy Hunger",
+            "text": "You don't need to feed as often as other vampires. The focus of your Golconda is to suppress your constant Hunger, potentially at the expense of other Traits. His temperament inspires other vampires. Once per session, you can decrease your Hunger by one (but not less than one) without eating."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-golconda-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Golconda — Saudar o Sol",
+        "en": "Golconda — Salute the Sun"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 389 · 5",
+      "pages": [
+        {
+          "pdfPage": 393,
+          "printedPage": 389
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Saudar o Sol",
+            "text": "Você conhece os segredos da Golconda. Você pode ser incapaz de percorrer a trilha indefinidamente, mas enquanto o fizer, poderá enfrentar a luz do sol direta sem sofrer dano. Entretanto, na noite seguinte, você desperta em frenesi de Fome. Você pode caminhar durante o dia uma vez por historia."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Salute the Sun",
+            "text": "You know the secrets of Golconda. You may be unable to walk the trail indefinitely, but as long as you do, you can face direct sunlight without taking damage. However, the following night, you awaken in a frenzy of Hunger. You can walk during the day once per story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

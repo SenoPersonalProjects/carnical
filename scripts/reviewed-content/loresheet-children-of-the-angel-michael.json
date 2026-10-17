@@ -1,0 +1,273 @@
+{
+  "id": "loresheet-children-of-the-angel-michael",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Crias do Anjo Michael",
+    "en": "Children of the Angel Michael"
+  },
+  "aliases": [
+    "Crias do Anjo Michael",
+    "Children of the Angel Michael",
+    "Crias do Anjo Michael — A Bela Elite",
+    "Children of the Angel Michael — The Beautiful Elite",
+    "Crias do Anjo Michael — Beleza Exterior",
+    "Children of the Angel Michael — Outer Beauty",
+    "Crias do Anjo Michael — Prazer Hedonista",
+    "Children of the Angel Michael — Hedonistic Pleasure",
+    "Crias do Anjo Michael — Chamado de Michael",
+    "Children of the Angel Michael — Michael's Call",
+    "Crias do Anjo Michael — Limpando as Máculas",
+    "Children of the Angel Michael — Cleaning the Stains"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-children-of-the-angel-michael-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Crias do Anjo Michael — A Bela Elite",
+        "en": "Children of the Angel Michael — The Beautiful Elite"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 229 · 1",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 229
+        }
+      ],
+      "requirements": {
+        "excludedClans": [
+          "Nosferatu"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Bela Elite",
+            "text": "A proximidade com beleza e perfeição trouxe contatos úteis com outros cultistas. Receba dois pontos gratuitos para distribuir entre Contatos, Fama, Rebanho e Influência. Seus seguidores são fanáticos e perigosos para você e os seus."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Beautiful Elite",
+            "text": "The proximity to beauty and perfection brought Contacts useful with other cultists. Receive two free points to distribute between Contacts, Fame, Herd and Influence. Your followers are fanatical and dangerous to you and yours."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-children-of-the-angel-michael-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Crias do Anjo Michael — Beleza Exterior",
+        "en": "Children of the Angel Michael — Outer Beauty"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 229 · 2",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 229
+        }
+      ],
+      "requirements": {
+        "excludedClans": [
+          "Nosferatu"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Beleza Exterior",
+            "text": "Visitas ao templo Nephilim realçam sua beleza interior externamente: pele saudável, cabelo brilhante, membros longos e firmes. Receba quatro pontos na Qualidade Visual, mesmo após a criação. Precisa disfarçar a aparência para evitar atenção: seu rosto inevitavelmente será o único lembrado pelas testemunhas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Outer Beauty",
+            "text": "Visits to the Nephilim temple enhance your inner beauty outwardly: healthy skin, shiny hair, long, firm limbs. Receive four points in Looks Merit, even after creation. He needs to disguise his appearance to avoid attention: his face will inevitably be the only one remembered by witnesses."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-children-of-the-angel-michael-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Crias do Anjo Michael — Prazer Hedonista",
+        "en": "Children of the Angel Michael — Hedonistic Pleasure"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 229 · 3",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 229
+        }
+      ],
+      "requirements": {
+        "excludedClans": [
+          "Nosferatu"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Benefício adicional",
+          "en": "Additional benefit"
+        },
+        "detailOptions": [
+          "Fama 2 / Fame 2",
+          "Status 2"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Prazer Hedonista",
+            "text": "Longas noites de excessos ensinaram a divertir-se também fora dos templos. Receba dois dados em qualquer teste para obter drogas, um encontro ou parceiro sexual, ou convite para uma festa. Suas façanhas também são lendárias: escolha Fama 2 ou Status 2."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Hedonistic Pleasure",
+            "text": "Long nights of excess taught people to have fun outside the temples too. Receive two dice on any test to obtain drugs, a date or sexual partner, or invitation to a party. Your exploits are also legendary: choose Fame 2 or Status 2."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-children-of-the-angel-michael-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Crias do Anjo Michael — Chamado de Michael",
+        "en": "Children of the Angel Michael — Michael's Call"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 229 · 4",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 229
+        }
+      ],
+      "requirements": {
+        "excludedClans": [
+          "Nosferatu"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Chamado de Michael",
+            "text": "Você testemunhou cultos que adoravam as crias de Michael em busca do Sonho. Reuni-los sob um teto parece uma farsa conveniente, mas você pode aproveitá-la. Uma vez por história, use todos os Antecedentes apropriados de outro membro do culto como se fossem seus."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Michael's Call",
+            "text": "You have witnessed cults that worshiped Michael's spawn in pursuit of the Dream. Bringing them together under one roof seems like a convenient farce, but you can take advantage of it. Once per story, use all of another cult member's appropriate Backgrounds as your own."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-children-of-the-angel-michael-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Crias do Anjo Michael — Limpando as Máculas",
+        "en": "Children of the Angel Michael — Cleaning the Stains"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 229 · 5",
+      "pages": [
+        {
+          "pdfPage": 229,
+          "printedPage": 229
+        }
+      ],
+      "requirements": {
+        "excludedClans": [
+          "Nosferatu"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Limpando as Máculas",
+            "text": "O culto afirma buscar perfeição interior, embora seus excessos atrapalhem a iluminação. Você permaneceu no caminho. Uma vez por história, gaste um ponto de Força de Vontade para remover uma Mácula de outro vampiro. Ele deve compartilhar sexo, drogas ou outra atividade hedonista com você por pelo menos uma hora."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Cleaning the Stains",
+            "text": "The cult claims to seek inner perfection, although its excesses hinder enlightenment. You stayed on the path. Once per story, spend a Willpower point to remove a Stain from another vampire. He must share sex, drugs, or other hedonistic activity with you for at least an hour."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "id": "loresheet-pure-ventrue-lineage",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Ventrue de Linhagem Pura",
+    "en": "Pure Ventrue Lineage"
+  },
+  "aliases": [
+    "Ventrue de Linhagem Pura",
+    "Pure Ventrue Lineage",
+    "Ventrue de Linhagem Pura — Senhor de Renome",
+    "Pure Ventrue Lineage — Lord of Renown",
+    "Ventrue de Linhagem Pura — Uma Linhagem de Título",
+    "Pure Ventrue Lineage — A Title Lineage",
+    "Ventrue de Linhagem Pura — Recitação",
+    "Pure Ventrue Lineage — Recitation",
+    "Ventrue de Linhagem Pura — Linhagem Lendária — escolha uma",
+    "Pure Ventrue Lineage — Legendary Bloodline — choose one",
+    "Ventrue de Linhagem Pura — Nome do Antediluviano",
+    "Pure Ventrue Lineage — Name of the Antediluvian"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-pure-ventrue-lineage-camarilla-v5-1",
+      "book": "camarilla-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Ventrue de Linhagem Pura — Senhor de Renome",
+        "en": "Pure Ventrue Lineage — Lord of Renown"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 187 · 1",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Senhor de Renome",
+            "text": "Seu senhor é umVentrue notável por sua nobreza e adesão aos valores do clã. Até certo ponto, você pode confiar no nome do seu senhor para obter algum favor com outros Membros, principalmente do Clã Ventrue. Esta tradição permite que você ganhe um dado em verificações sociais apropriadas onde nomear seu senhor pode ter impacto. Se o senhor ainda existir, eles podem vir a se ressentir com você caso use como uma linha de crédito."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Lord of Renown",
+            "text": "Your sire is a Ventrue notable for his nobility and adherence to the clan's values. To some extent, you can rely on your sire's name to curry favor with other Kindred, particularly the Ventrue Clan. This tradition allows you to gain a die on appropriate social checks where naming your sire can have an impact. If your sire still exists, they may resent you if you use it as a line of credit."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-pure-ventrue-lineage-camarilla-v5-2",
+      "book": "camarilla-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Ventrue de Linhagem Pura — Uma Linhagem de Título",
+        "en": "Pure Ventrue Lineage — A Title Lineage"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 187 · 2",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Uma Linhagem de Título",
+            "text": "Você vem de uma linha de Príncipes, Primigênitos ou possivelmente Barões. Se você alguma vez tentar adquirir título em um domínio Ventrue - até mesmo aqueles que você nunca conheceu - irão automaticamente apoiar sua reivindicação, a menos que eles tenham razão suficiente para se opor a você."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "A Title Lineage",
+            "text": "You descend from a line of Princes, Primogen, or perhaps Barons. If you seek a title in a domain, Ventrue — even those you have never met — automatically support your claim unless they have sufficient reason to oppose you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-pure-ventrue-lineage-camarilla-v5-3",
+      "book": "camarilla-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Ventrue de Linhagem Pura — Recitação",
+        "en": "Pure Ventrue Lineage — Recitation"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 187 · 3",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Recitação",
+            "text": "Você pode nomear seus ancestrais até um matusalém da Quarta Geração, impressionando a todos Membros a uma distância de escuta. Cada Membro de sua linhagem têm uma história, e você conhece pelo menos uma versão abreviada de cada uma. Recitando a coisa toda (algo que leva uns bons 30 minutos ou mais) dá a você um dado de bônus para todos os testes baseados em questões Sociais contra outro Membro pelo resto da cena. Isso pode ser usado uma vez por história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Recitation",
+            "text": "You can name your ancestors all the way down to a Fourth Generation Methuselah, impressing everyone Kindred within listening distance. Each Kindred in your bloodline has a story, and you know at least an abbreviated version of each. Reciting the whole thing (something that takes a good 30 minutes or so) gives you a bonus die to all Social-based rolls against another Kindred for the rest of the scene. This can be used once per story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-pure-ventrue-lineage-camarilla-v5-4",
+      "book": "camarilla-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Ventrue de Linhagem Pura — Linhagem Lendária — escolha uma",
+        "en": "Pure Ventrue Lineage — Legendary Bloodline — choose one"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 187 · 4",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Linhagem Lendária",
+          "en": "Legendary Lineage"
+        },
+        "detailOptions": [
+          "Alexander",
+          "Antonius",
+          "Mithras"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem Lendária — escolha uma",
+            "text": "Linhagem de Alexander: Um patrono das artes, paixões e beleza, Alexander de Paris se parecia muito mais com um Toreador do que um Ventrue. Membros que nomeiam seu ancestral como Alexandre de Paris ganham dois dados de bônus em todos os testes de Persuasão e Performance em uma multidão de pessoas, como a linha de Alexander adora uma audiência. Se alguém interromper sua oração, você deve fazer um teste de frenesi de fúria com dificuldade 3.\n\nLinhagem de Antonius: Antonius era um pensador estratégico, planejador obsessivo e arquiteto mestre do Clã Ventrue até sua aparente destruição. Se você descender de Antonius, você ganha dois dados bônus em todos os testes de acadêmicos e de liderança feito ao planejar a defesa ou construção de um domínio. Se alguém atrapalhar você enquanto faz um plano de longo prazo desta natureza, você deve fazer um teste de frenesi de fúria com dificuldade 3.\n\nLinhagem de Mithras: Mithras exemplifica orgulho e poder. Membros de seu culto afirmam que ele era imune às chamas, e de alguma forma esta fortaleza ondula até a força de vontade de seus descendentes. Sua dificuldade em resistir ao frenesi de medo da exposição ao fogo é reduzida em dois. Você sofre uma penalidade de dois dados ao tentar resistir às tentativas de Dominação por vampiros mais velhos também da linha de Mithras.."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Legendary Bloodline — choose one",
+            "text": "Alexander's Lineage: A patron of the arts, passions, and beauty, Alexander of Paris looked much more like a Toreador than a Ventrue. Kindred who name their ancestor Alexander of Paris gain two bonus dice on all Persuasion and Performance rolls in a crowd of people, as the Alexander line loves an audience. If someone interrupts your speech, you must make a rage frenzy roll with difficulty 3.\n\nAntonius Lineage: Antonius was a strategic thinker, obsessive planner, and master architect of Clan Ventrue until its apparent destruction. If you are descended from Antonius, you gain two bonus dice on all Academics and Leadership checks made when planning the defense or construction of a domain. If someone gets in your way while making a long-term plan of this nature, you must make a rage frenzy roll with difficulty 3.\n\nMithras' Lineage: Mithras exemplifies pride and power. Kindred of his cult claim he was immune to the flames, and somehow this fortitude ripples down to the Willpower of his descendants. Your difficulty resisting the frenzy of fear from fire exposure is reduced by two. You suffer a two-dice penalty when trying to resist Dominate attempts by older vampires also of Mithras' line."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-pure-ventrue-lineage-camarilla-v5-5",
+      "book": "camarilla-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Ventrue de Linhagem Pura — Nome do Antediluviano",
+        "en": "Pure Ventrue Lineage — Name of the Antediluvian"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 187 · 5",
+      "pages": [
+        {
+          "pdfPage": 188,
+          "printedPage": 187
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ventrue"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Nome do Antediluviano",
+            "text": "O Antediluviano Ventrue teve muitos nomes, e cada matusalém de seu clã conhece a antiga entidade por um epíteto diferente. Você conhece um destes nomes ou títulos, e uma vez por crônica pode se anunciar como descendente desta criatura para forçar todos os Ventrue nas proximidades para parar o que estão fazendo, ficar em silêncio e, às vezes, cair em seus joelhos. O nome desaparece das mentes de todos que ouvem, mas eles tentarão qualquer coisa - até mesmo o combate - para ouvir você falar."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Name of the Antediluvian",
+            "text": "The Antediluvian Ventrue has had many names, and each Methuselah of its clan knows the ancient entity by a different epithet. You know one of these names or titles, and once per chronicle you can announce yourself as a descendant of this creature to force all nearby Ventrue to stop what they are doing, fall silent, and sometimes fall to their knees. The name fades from the minds of all who hear it, but they will try anything - even combat - to hear you speak."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

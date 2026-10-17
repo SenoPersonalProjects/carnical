@@ -1,0 +1,504 @@
+{
+  "id": "loresheet-descendant-of-xaviar",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Descendente de Xaviar",
+    "en": "Descendant of Xaviar"
+  },
+  "aliases": [
+    "Descendente de Xaviar",
+    "Descendant of Xaviar",
+    "Descendente de Xaviar — Ancestral Martirizado",
+    "Descendant of Xaviar — Martyred Ancestor",
+    "Descendente de Xaviar — Onde os Corpos são Enterrados",
+    "Descendant of Xaviar — Where Bodies Are Buried",
+    "Descendente de Xaviar — Sabujo Leal",
+    "Descendant of Xaviar — Loyal Hound",
+    "Descendente de Xaviar — Morcego Monstruoso",
+    "Descendant of Xaviar — Monstrous Bat",
+    "Descendente de Xaviar — Experiência com o Antediluviano",
+    "Descendant of Xaviar — Experience with the Antediluvian"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-descendant-of-xaviar-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Xaviar — Ancestral Martirizado",
+        "en": "Descendant of Xaviar — Martyred Ancestor"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 406 · 1",
+      "pages": [
+        {
+          "pdfPage": 410,
+          "printedPage": 406
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ancestral Martirizado",
+            "text": "Outros Gangrel o tratam com o respeito que demoraram demais para prestar a Xaviar. Apesar de quaisquer rixas pessoais, você sempre encontra refúgio com outros Gangrel, caso haja algum no domínio em que você se encontra, pelo menos até você os insultar com gravidade. Com eles, você tem dois pontos de Status (••)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Martyred Ancestor",
+            "text": "Other Gangrel treat him with the respect they were too slow to give Xaviar. Despite any personal feuds, you always encounter Haven other Gangrel, if there are any in the domain you are in, at least until you seriously insult them. With them, you have two points of Status (••)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-xaviar-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Xaviar — Onde os Corpos são Enterrados",
+        "en": "Descendant of Xaviar — Where Bodies Are Buried"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 406 · 2",
+      "pages": [
+        {
+          "pdfPage": 410,
+          "printedPage": 406
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Onde os Corpos são Enterrados",
+            "text": "As experiências de Xaviar de fusão com a terra, sangue e Vitae marcaram sua linhagem. Gangrel daquela linhagem podem realizar um teste de Determinação + Percepção para detectar se um vampiro se fundiu com a terra ou jaz em Torpor sob o solo.A Dificuldade depende da área que você precisa analisar."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Where Bodies Are Buried",
+            "text": "Xaviar's experiences of merging with earth, blood, and Vitae marked his lineage. Gangrel of that bloodline can make a roll of Resolve + Awareness to detect whether a vampire has merged with the earth or lies in Torpor beneath the ground. The difficulty depends on the area you need to analyze."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-xaviar-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Xaviar — Sabujo Leal",
+        "en": "Descendant of Xaviar — Loyal Hound"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 406 · 3",
+      "pages": [
+        {
+          "pdfPage": 410,
+          "printedPage": 406
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sabujo Leal",
+            "text": "Você resistiu aos ventos da mudança, permanecendo na Camarilla apesar das ações do seu clã. Por sua lealdade, o Príncipe da Camarilla local lhe concedeu status, direitos de caça e territórios, o equivalente a quatro pontos que podem ser distribuídos entre Domínio, Rebanho e Status. Gangrel de fora da Camarilla o desprezam, e mesmo vampiros de outros clãs lamentam sua solidão, porém você conquistou para si uma voz na Primigênie, caso algum Gangrel rebelde atravesse seu domínio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Loyal Hound",
+            "text": "You have resisted the winds of change, remaining in the Camarilla despite the actions of your clan. For his loyalty, the local Camarilla Prince granted him Status, hunting rights and territories, the equivalent of four points that can be distributed between Domain, Herd and Status. Gangrel outside the Camarilla despise you, and even vampires from other clans lament your loneliness, but you have earned yourself a voice in the Primogen should any rogue Gangrel cross your domain."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-xaviar-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Xaviar — Morcego Monstruoso",
+        "en": "Descendant of Xaviar — Monstrous Bat"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 406 · 4",
+      "pages": [
+        {
+          "pdfPage": 410,
+          "printedPage": 406
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Morcego Monstruoso",
+            "text": "A forma bestial predileta de Xaviar era a de morcego, contudo, após seu encontro com o Antediluviano, ele se viu capaz de se transformar em um híbrido de humano e morcego. Uma vez por história, quando a lua está alinhada, você pode assumir a mesma forma. Esse morcego do tamanho de um homem possui um ponto extra em todos os Atributos Físicos e pode planar de qualquer altura. Morder nessa forma adiciona +1 ponto de dano Agravado a mortais e vampiros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Monstrous Bat",
+            "text": "Xaviar's favorite bestial form was that of a bat, however, after his encounter with the Antediluvian, he found himself capable of transforming into a hybrid of human and bat. Once per story, when the moon is aligned, you can assume the same form. This man-sized bat has an extra point in all Physical Attributes and can glide from any height. Biting in this form adds +1 points of Aggravated damage to Kine and vampires."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-xaviar-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Xaviar — Experiência com o Antediluviano",
+        "en": "Descendant of Xaviar — Experience with the Antediluvian"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 406 · 5",
+      "pages": [
+        {
+          "pdfPage": 410,
+          "printedPage": 406
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Experiência com o Antediluviano",
+            "text": "Xaviar não foi o único Gangrel a afundar na terra e se ver dentro da vasta e inumana forma do fundador do seu clã. Você também fez isso, e a experiência o transformou. Agora você está parcialmente louco, provavelmente sofrendo de paranoia ou claustrofobia. Sempre que recorda seu encontro, você sente suas veias enraizadas ao solo, conectadas a todos os Gangrel do mundo. Uma vez por história, você consegue sentir a localização de qualquer Gangrel e drenar um pequeno gole de Vitae deles para restabelecer sua Fome a 2. Você precisa estar em contato com a terra, não concreto, para usar este poder."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Experience with the Antediluvian",
+            "text": "Xaviar was not the only Gangrel to sink into the earth and find himself inside the vast, inhuman form of his clan’s founder. You did too, and it changed you. You are now partially mad, probably suffering from paranoia or claustrophobia. Remembering the encounter, you feel your veins rooted in the earth, connected to every Gangrel in the world. Once per story, you can sense any Gangrel’s location and drain a small sip of their Vitae to reset your own Hunger to 2. You must be in contact with earth, not concrete, to use this power."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-xaviar-anarch-v5-1",
+      "book": "anarch-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Xaviar — Ancestral Martirizado",
+        "en": "Descendant of Xaviar — Martyred Ancestor"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 194 · 1",
+      "pages": [
+        {
+          "pdfPage": 198,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ancestral Martirizado",
+            "text": "Outros Gangrel o tratam com o respeito que demoraram demais para prestar a Xaviar. Apesar de quaisquer rixas pessoais, você sempre encontra refúgio com outros Gangrel, caso haja algum no domínio em que você se encontra, pelo menos até você os insultar com gravidade. Com eles, você tem dois pontos de Status (••)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Martyred Ancestor",
+            "text": "Other Gangrel treat him with the respect they were too slow to give Xaviar. Despite any personal feuds, you always encounter Haven other Gangrel, if there are any in the domain you are in, at least until you seriously insult them. With them, you have two points of Status (••)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-xaviar-anarch-v5-2",
+      "book": "anarch-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Xaviar — Onde os Corpos são Enterrados",
+        "en": "Descendant of Xaviar — Where Bodies Are Buried"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 194 · 2",
+      "pages": [
+        {
+          "pdfPage": 198,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Onde os Corpos são Enterrados",
+            "text": "As experiências de Xaviar de fusão com a terra, sangue e Vitae marcaram sua linhagem. Gangrel daquela linhagem podem realizar um teste de Determinação + Percepção para detectar se um vampiro se fundiu com a terra ou jaz em Torpor sob o solo.A Dificuldade depende da área que você precisa analisar."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Where Bodies Are Buried",
+            "text": "Xaviar's experiences of merging with earth, blood, and Vitae marked his lineage. Gangrel of that bloodline can make a roll of Resolve + Awareness to detect whether a vampire has merged with the earth or lies in Torpor beneath the ground. The difficulty depends on the area you need to analyze."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-xaviar-anarch-v5-3",
+      "book": "anarch-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Xaviar — Sabujo Leal",
+        "en": "Descendant of Xaviar — Loyal Hound"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 194 · 3",
+      "pages": [
+        {
+          "pdfPage": 198,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sabujo Leal",
+            "text": "Você resistiu aos ventos da mudança, permanecendo na Camarilla apesar das ações do seu clã. Por sua lealdade, o Príncipe da Camarilla local lhe concedeu status, direitos de caça e territórios, o equivalente a quatro pontos que podem ser distribuídos entre Domínio, Rebanho e Status. Gangrel de fora da Camarilla o desprezam, e mesmo vampiros de outros clãs lamentam sua solidão, porém você conquistou para si uma voz na Primigênie, caso algum Gangrel rebelde atravesse seu domínio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Loyal Hound",
+            "text": "You have resisted the winds of change, remaining in the Camarilla despite the actions of your clan. For his loyalty, the local Camarilla Prince granted him Status, hunting rights and territories, the equivalent of four points that can be distributed between Domain, Herd and Status. Gangrel outside the Camarilla despise you, and even vampires from other clans lament your loneliness, but you have earned yourself a voice in the Primogen should any rogue Gangrel cross your domain."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-xaviar-anarch-v5-4",
+      "book": "anarch-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Xaviar — Morcego Monstruoso",
+        "en": "Descendant of Xaviar — Monstrous Bat"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 194 · 4",
+      "pages": [
+        {
+          "pdfPage": 198,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Morcego Monstruoso",
+            "text": "A forma bestial predileta de Xaviar era a de morcego, contudo, após seu encontro com o Antediluviano, ele se viu capaz de se transformar em um híbrido de humano e morcego. Uma vez por história, quando a lua está alinhada, você pode assumir a mesma forma. Esse morcego do tamanho de um homem possui um ponto extra em todos os Atributos Físicos e pode planar de qualquer altura. Morder nessa forma adiciona +1 ponto de dano Agravado a mortais e vampiros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Monstrous Bat",
+            "text": "Xaviar's favorite bestial form was that of a bat, however, after his encounter with the Antediluvian, he found himself capable of transforming into a hybrid of human and bat. Once per story, when the moon is aligned, you can assume the same form. This man-sized bat has an extra point in all Physical Attributes and can glide from any height. Biting in this form adds +1 points of Aggravated damage to Kine and vampires."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-xaviar-anarch-v5-5",
+      "book": "anarch-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Xaviar — Experiência com o Antediluviano",
+        "en": "Descendant of Xaviar — Experience with the Antediluvian"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 194 · 5",
+      "pages": [
+        {
+          "pdfPage": 198,
+          "printedPage": 194
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Gangrel"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Experiência com o Antediluviano",
+            "text": "Xaviar não foi o único Gangrel a afundar na terra e se ver dentro da vasta e inumana forma do fundador do seu clã. Você também fez isso, e a experiência o transformou. Agora você está parcialmente louco, provavelmente sofrendo de paranoia ou claustrofobia. Sempre que recorda seu encontro, você sente suas veias enraizadas ao solo, conectadas a todos os Gangrel do mundo. Uma vez por história, você consegue sentir a localização de qualquer Gangrel e drenar um pequeno gole de Vitae deles para restabelecer sua Fome a 2. Você precisa estar em contato com a terra, não concreto, para usar este poder."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Experience with the Antediluvian",
+            "text": "Xaviar was not the only Gangrel to sink into the earth and find himself inside the vast, inhuman form of his clan’s founder. You did too, and it changed you. You are now partially mad, probably suffering from paranoia or claustrophobia. Remembering the encounter, you feel your veins rooted in the earth, connected to every Gangrel in the world. Once per story, you can sense any Gangrel’s location and drain a small sip of their Vitae to reset your own Hunger to 2. You must be in contact with earth, not concrete, to use this power."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "id": "loresheet-capone-gang",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Gangue Capone",
+    "en": "Capone Gang"
+  },
+  "aliases": [
+    "Gangue Capone",
+    "Capone Gang",
+    "Gangue Capone — Um favor por um favor",
+    "Capone Gang — A Favor for a Favor",
+    "Gangue Capone — Em dívida",
+    "Capone Gang — In Debt",
+    "Gangue Capone — Apenas um trabalho",
+    "Capone Gang — Just One Job",
+    "Gangue Capone — Um de nós",
+    "Capone Gang — One of Us",
+    "Gangue Capone — Criança Pródiga",
+    "Capone Gang — Prodigal Child"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-capone-gang-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Gangue Capone — Um favor por um favor",
+        "en": "Capone Gang — A Favor for a Favor"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 268, 269 · 1",
+      "pages": [
+        {
+          "pdfPage": 269,
+          "printedPage": 268
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 269
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Um favor por um favor",
+            "text": "A Gangue Capone fará algo por você se você fizer algo por eles. Você conhece uma garota que pode fazer o que você precisa. Os favores estão na esfera da aquisição de drogas, armas, informações ou alguma outra coisa ilegal. Ganhe Contatos: Capone Gang (•) e Aliados: Capone Gang (•) para um uso cada por história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "A Favor for a Favor",
+            "text": "The Capone Gang will do something for you if you do something for them. You know a gal that can get what you need done. Favors are in the realm of procuring drugs, weapons, information, or some other illegal thing. Gain Contacts: Capone Gang (•) and Allies: Capone Gang (•) for one use each per story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-capone-gang-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Gangue Capone — Em dívida",
+        "en": "Capone Gang — In Debt"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 268, 269 · 2",
+      "pages": [
+        {
+          "pdfPage": 269,
+          "printedPage": 268
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 269
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Em dívida",
+            "text": "Você tem um grande pedido à Gangue Capone. Talvez você precise que alguém vá embora, ou precise lavar algum dinheiro, ou tenha um trabalho de limpeza que eles possam realizar. Sem problemas. Agora você está em dívida com Eddie. Uma vez por história, você pode utilizar isso para resolver algum tipo de problema, mas em troca, em algum momento da história, Eddie pedirá um favor a você."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "In Debt",
+            "text": "You’ve got a big ask of the Capone Gang. Maybe you need someone gone, or you have to launder some cash, or you’ve got a clean-up job they can handle. No problem. Now you’re in Eddie’s debt. Once per story you can utilize this to fix some sort of problem but in exchange, at some point in the story, Eddie’s going to call on you for a favor."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-capone-gang-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Gangue Capone — Apenas um trabalho",
+        "en": "Capone Gang — Just One Job"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 268, 269 · 3",
+      "pages": [
+        {
+          "pdfPage": 269,
+          "printedPage": 268
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 269
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Apenas um trabalho",
+            "text": "Quando você ajuda a Gangue Capone em um assalto, você recebe uma parte dos lucros. Eles costumam usar outros Membros nesses trabalhos, seja como executor ou apenas para utilizar suas habilidades sobrenaturais em conjunto com os carniçais. Eles planejam o trabalho, mapeando o local do roubo, levando em consideração segurança e vigilância, deixando apenas você entrar, pegar o que tem de bom e sair novamente. Ganhe Recursos (•••) pela conclusão bem-sucedida do trabalho. Outros personagens podem participar, mas o quanto você decide incluí-los depende inteiramente de você."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Just One Job",
+            "text": "When you help the Capone Gang out with a heist, you get a cut of the profits. They often use another Kindred on these jobs, either as an enforcer, or just to utilize their supernatural abilities in tandem with the ghouls. They plan out the job, mapping the location for the robbery, taking into account security and surveillance, just leaving you to walk in, grab what’s good, and walk out again. Gain Resources (•••) from a successful completion of the job. Other characters could join in, but how much you decide to cut them in is entirely up to you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-capone-gang-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Gangue Capone — Um de nós",
+        "en": "Capone Gang — One of Us"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 268, 269 · 4",
+      "pages": [
+        {
+          "pdfPage": 269,
+          "printedPage": 268
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 269
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Um de nós",
+            "text": "É oficial, você passou tempo suficiente com a gangue para se tornar um membro. Você pode participar de uma cerimônia de “criação”, onde você faz um juramento de lealdade aos outros vampiros da Gangue Capone e obtém acesso ao seu estoque. Isso lhe dá Recursos (••) e Aliados: Capone Gang (••), permitindo que você contrate alguns dos membros para trabalhar para você, bem como algum dinheiro extra, se necessário - com a permissão de Eddie Wu, é claro. Você recebe um dado adicional em testes de Manha relativos ao crime organizado."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "One of Us",
+            "text": "It’s official, you’ve spent enough time with the gang to become a member. You can join in a “making” ceremony, where you swear an oath of loyalty to the other vampires in the Capone Gang and gain access to their stash. This gets you Resources (••) and Allies: Capone Gang (••), allowing you to hire some of the members to do work for you as well as some extra cash if needed — with Eddie Wu’s permission, of course. You get one additional die o Streetwise rolls concerning organized crime."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-capone-gang-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Gangue Capone — Criança Pródiga",
+        "en": "Capone Gang — Prodigal Child"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 268, 269 · 5",
+      "pages": [
+        {
+          "pdfPage": 269,
+          "printedPage": 268
+        },
+        {
+          "pdfPage": 270,
+          "printedPage": 269
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Criança Pródiga",
+            "text": "Eddie Wu depositou muita confiança em você e o considera um tenente de confiança. Você participa das reuniões de organização e ajuda a decidir os próximos passos da gangue. Receba Contatos: Gangue Capone (••••), Mawla: Eddie Wu (••) e Refúgio: Casa Segura da Gangue Capone (••). Agora precisa ajudar a construir um império duradouro em nome de Capone. A posição dá acesso aos recursos, pessoas e poder disponíveis na gangue, desde que o Príncipe Jackson não reprima sua operação. Se colocar seus interesses acima dos da gangue, perderá esses benefícios e poderá ganhar Eddie como Inimigo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Prodigal Child",
+            "text": "Eddie Wu has put an incredible amount of faith in you, and sees you as a trusted lieutenant. You’re in on the organizational meetings, and can help influence big decisions on what the gang does next. Gain Contacts: Capone Gang (••••), Mawla: Eddie Wu (••), and Haven: Capone Gang Safehouse (••). Now you have to help build a lasting empire in Capone’s name. You gain access to all resources, people, and power this position can grant you within a gang, providing Prince Jackson doesn’t clamp down your operation. Should you ever put your own interests before that of the gang, you lose the above benefits, potentially gaining Eddie as an Enemy."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-rudi",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Rudi",
+    "en": "Rudi"
+  },
+  "aliases": [
+    "Rudi",
+    "Rudi — Novos Direitos",
+    "Rudi — New Rights",
+    "Rudi — Eles e Deles",
+    "Rudi — They and Theirs",
+    "Rudi — Advogado Gangrel",
+    "Rudi — Gangrel Lawyer",
+    "Rudi — Bando do Urso",
+    "Rudi — Bear Gang",
+    "Rudi — Exército de Rudi",
+    "Rudi — Rudi's Army"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-rudi-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Rudi — Novos Direitos",
+        "en": "Rudi — New Rights"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 396 · 1",
+      "pages": [
+        {
+          "pdfPage": 400,
+          "printedPage": 396
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Novos Direitos",
+            "text": "Inspirado no sucesso da independência do Clã Gangrel com relação à Camarilla, como Rudi, você acha essa liberdade revigorante. Uma vez por história, ao combater ou denunciar a classe dominante, você pode rerrolar qualquer parada de dados de um teste de Habilidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "New Rights",
+            "text": "Inspired by the Gangrel Clan's successful independence from the Camarilla, like Rudi, you find this freedom invigorating. Once per story, when fighting or denouncing the ruling class, you may reroll any dice pool from an Ability check."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-rudi-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Rudi — Eles e Deles",
+        "en": "Rudi — They and Theirs"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 396 · 2",
+      "pages": [
+        {
+          "pdfPage": 400,
+          "printedPage": 396
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Eles e Deles",
+            "text": "Quando apoia os despossuídos ou perseguidos, você é o campeão resoluto. Talvez você acredite que os vampiros só possam resistir apoiando-se mutuamente, ou que um bando só é tão forte quanto seu integrante mais fraco, porém, a um alto custo, você defende os outros. Quando um Pilar de qualquer integrante da sua coterie é ameaçado, você fica atento e pronto para agir."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "They and Theirs",
+            "text": "When you support the dispossessed or persecuted, you are the resolute champion. Perhaps you believe that vampires can only resist by supporting each other, or that a pack is only as strong as its weakest member, but at great cost, you defend others. When a Touchstone of any member of your coterie is threatened, you are alert and ready to act."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-rudi-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Rudi — Advogado Gangrel",
+        "en": "Rudi — Gangrel Lawyer"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 396 · 3",
+      "pages": [
+        {
+          "pdfPage": 400,
+          "printedPage": 396
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Advogado Gangrel",
+            "text": "A exemplo de Rudi no norte da Europa, muitos creem que você defende os Gangrel no seu domínio local, para o bem ou para o mal. Os integrantes do clã reagem bem a você; adicione um dado aos testes Sociais que os envolvem. Embora essa reputação signifique que você fala em nome de muitos, ela também significa que alguns o responsabilizam pelas ações de muitos. Você pode organizar convocações e discretas reuniões de trégua entre representantes Gangrel e da Camarilla, bastando para isso que obtenha sucesso em um teste de Carisma + Política (com Dificuldade determinada pelo Narrador)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Gangrel Lawyer",
+            "text": "Like Rudi in northern Europe, many believe that you defend the Gangrel in your local domain, for better or for worse. Clan members respond well to you; add one die to the Social rolls that involve them. While this reputation means that you speak for many, it also means that some hold you accountable for the actions of many. You can organize summons and discreet truce meetings between Gangrel and Camarilla representatives, simply by succeeding on a roll of Charisma + Politics (with Difficulty determined by Storyteller)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-rudi-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Rudi — Bando do Urso",
+        "en": "Rudi — Bear Gang"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 396 · 4",
+      "pages": [
+        {
+          "pdfPage": 400,
+          "printedPage": 396
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Bando do Urso",
+            "text": "Você é, ou foi, integrante do Bando do Urso: Membros Rudistas fanáticos que ao mesmo tempo são oradores clamorosos e combatentes ferozes. (Considere seus companheiros do Bando do Urso um Mawla grupal de três pontos que gosta de comprar brigas.) Uma vez por história, esses revolucionários modernos, incluindo você, ganham um sucesso automático sempre que tentam inflamar Anarchs e mortais despossuídos contra a elite. Integrantes do Bando do Urso são temidos nos domínios da Camarilla, o que pode ser tanto uma vantagem quanto uma desvantagem, dependendo para quem você pergunte, e desse indivíduo reconhecê-lo,"
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bear Gang",
+            "text": "You are, or were, a member of the Bando do Urso: Kindred Fanatical rudists who are at the same time clamorous speakers and fierce fighters. (Consider your fellow Bear Pack members a Mawla three-point group that likes to pick fights.) Once per story, these modern revolutionaries, including you, gain an automatic success whenever they attempt to ignite dispossessed Anarchs and Kine against the elite. Members of the Bear Pack are feared throughout the Camarilla, which can be both an advantage and a disadvantage, depending on who you ask and whether that individual recognizes you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-rudi-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Rudi — Exército de Rudi",
+        "en": "Rudi — Rudi's Army"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 396 · 5",
+      "pages": [
+        {
+          "pdfPage": 400,
+          "printedPage": 396
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Exército de Rudi",
+            "text": "O exército de Rudi inclui forasteiros de todos os clãs, raças e credos. Você controla uma brigada dessa força “paramilitar”. Você pode ordenar que ela aja contra governos mortais ou imortais de muitas maneiras, desde a formação de protestos pacíficos na frente da casa de um governador, a comícios contra os líderes de grupos opressivos. Grande, difícil de controlar e potencialmente perigosa, sua brigada lhe confere seis pontos para distribuir entre Aliados, Influência e Contatos que podem ser direcionados, mas nunca controlados."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Rudi's Army",
+            "text": "Rudi's army includes outsiders of all clans, races and creeds. You control a brigade of this Strength “paramilitary”. You can order her to act against Kine or immortal governments in many ways, from forming peaceful protests in front of a governor's house, to rallies against the leaders of oppressive groups. Large, difficult to control and potentially dangerous, your brigade gives you six points to distribute between Allies, Influence and Contacts that can be directed, but never controlled."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

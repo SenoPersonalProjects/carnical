@@ -1,0 +1,259 @@
+{
+  "id": "loresheet-the-anubi",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Os Anubi",
+    "en": "The Anubi"
+  },
+  "aliases": [
+    "Os Anubi",
+    "The Anubi",
+    "Os Anubi — fúria argentina",
+    "The Anubi — argent fury",
+    "Os Anubi — Que olhos grandes você tem",
+    "The Anubi — What big eyes You Have",
+    "Os Anubi — casa de tijolos",
+    "The Anubi — brick House",
+    "Os Anubi — Na cidade, na floresta (escolha uma)",
+    "The Anubi — In the City, In the Woods (choose one)",
+    "Os Anubi — invocar o Pacote",
+    "The Anubi — summon the Pack"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-the-anubi-let-the-streets-run-red-v5-1",
+      "book": "let-the-streets-run-red-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Os Anubi — fúria argentina",
+        "en": "The Anubi — argent fury"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 224 · 1",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 224
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "fúria argentina",
+            "text": "Sua conexão com a Anubi ou uma organização similar fornece acesso a esconderijos escondidos de armas de prata e/ou daqueles que as fabricam. Uma vez por história, você pode se equipar com uma arma portátil prateada ou munição de sua escolha."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "argent fury",
+            "text": "Your connection to the Anubi or a similar organization provides access to hidden caches of silver weapons and/or those who manufacture them. Once per story, you can equip yourself with a silver hand-held weapon or ammunition of your choice."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-anubi-let-the-streets-run-red-v5-2",
+      "book": "let-the-streets-run-red-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Os Anubi — Que olhos grandes você tem",
+        "en": "The Anubi — What big eyes You Have"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 224 · 2",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 224
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Que olhos grandes você tem",
+            "text": "Um Lupin deve ser localizado antes de ser morto. Sua organização semeou sua cidade com uma rede de informantes, Contatos e dispositivos de vigilância para facilitar a caça. Uma vez por história, você obtém dois sucessos automáticos em um teste de Investigação relacionado à localização de Lupinos em seu domínio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "What big eyes You Have",
+            "text": "A Lupine must be located before it can be slain. Your organization has seeded your city with a web of informants, contacts, and surveillance devices to facilitate the hunt. Once per story, you gain two automatic successes on an Investigation roll related to locating Lupines within your domain."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-anubi-let-the-streets-run-red-v5-3",
+      "book": "let-the-streets-run-red-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Os Anubi — casa de tijolos",
+        "en": "The Anubi — brick House"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 224 · 3",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 224
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "casa de tijolos",
+            "text": "O caçador muitas vezes se torna a caça quando Lupinos estão envolvidos. Você gasta Recursos substanciais equipando seu Refúgio exatamente para essas ocasiões. Você ganha quatro pontos para gastar em Refúgio e/ou Lacaios relacionados à defesa contra Lupinos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "brick House",
+            "text": "The hunter often becomes the hunted when Lupines are involved. You spend substantial resources outfitting your haven for just such occasions. You gain four points to spend on Haven and/ or Retainers relating to defense against Lupines."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-anubi-let-the-streets-run-red-v5-4",
+      "book": "let-the-streets-run-red-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Os Anubi — Na cidade, na floresta (escolha uma)",
+        "en": "The Anubi — In the City, In the Woods (choose one)"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 224 · 4",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 224
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true,
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Escolha o benefício",
+          "en": "Choose the benefit"
+        },
+        "detailOptions": [
+          "War Eternal / Guerra Eterna",
+          "Strange Bedfellows / Companheiros Improváveis",
+          "Most Dangerous Game / A Caça Mais Perigosa"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Na cidade, na floresta (escolha uma)",
+            "text": "Escolha uma opção.\n\nGuerra Eterna: sua organização enfrenta os Lupinos. Seu conhecimento avançado de caça concede dois dados adicionais em todos os testes de Armas de Fogo e Atletismo ao lutar contra Lupinos.\n\nCompanheiros Improváveis: sua organização busca a paz e mantém tréguas tensas, mas geralmente eficazes, com os lobisomens locais. Receba dois dados adicionais em todos os testes de Persuasão com Lupinos e um Aliado lobisomem de dois pontos, representando seu contato na comunidade local. Ele provavelmente não arriscará a vida por você, mas ouvirá seu lado antes de começar a uivar.\n\nA Caça Mais Perigosa: suas caçadas dão acesso a sangue Lupino, talvez refletindo um vício perigoso. Uma vez por história, sacie dois pontos de Fome com um gole de sangue de lobisomem, com todos os benefícios e desvantagens correspondentes (Vampiro: A Máscara, p. 376)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "In the City, In the Woods (choose one)",
+            "text": "War eternal: Your organization takes the fight to the Lupines. Your advanced knowledge of Lupine hunting grants you two bonus dice to all Firearms and Athletics rolls when fighting Lupines. strange bedfellows: Your organization seeks peace with Lupines, forging strained but (mostly) effective truces with the werewolves in your area. Gain two bonus dice to all Persuasion rolls when dealing with Lupines and a two-dot werewolf Ally reflecting your contact in the local Lupine community. Your Ally is unlikely to risk their life for you but will at least listen to your side of the story before the howling starts. Most dangerous Game: Your nightly hunt grants you access to a quantity of Lupine blood that may reflect an unhealthy addiction to werewolf blood. Once per story, you can slake two Hunger via a sip of werewolf blood with all the attendant benefits and drawbacks (Vampire: The Masquerade, p. 376)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-anubi-let-the-streets-run-red-v5-5",
+      "book": "let-the-streets-run-red-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Os Anubi — invocar o Pacote",
+        "en": "The Anubi — summon the Pack"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 224 · 5",
+      "pages": [
+        {
+          "pdfPage": 225,
+          "printedPage": 224
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "invocar o Pacote",
+            "text": "Você é um membro formal da Anubi ou de uma organização semelhante de caça aos Lupinos e pode pedir ajuda a estes Membros a qualquer momento quando os Lupinos estiverem próximos. Situações que não envolvem Lupinos podem exigir troca de favores e/ou benefícios, dependendo de seu relacionamento com os indivíduos dentro da organização. Sua associação concede a você um Mawla temporário (•••) e quatro pontos de Aliados (Motociclistas Anubi), representando motociclistas mortais que seguem os Anubi, que podem ser chamados uma vez por história quando Lupinos estão envolvidos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "summon the Pack",
+            "text": "You are a formal member of the Anubi or a similar Lupine-hunting organization and can call on these Kindred for aid at a moment’s notice when Lupines are near. Situations not involving Lupines may require favor trading and/or boons, depending on your relationships with the individuals within the organization. Your membership grants you a temporary Mawla (•••) and four dots of Allies (Anubi Bikers), representing mortal bikers who follow the Anubi, who can be called on once per story when Lupines are involved."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

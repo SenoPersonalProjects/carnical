@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-kindred-iconography",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Iconografia dos Membros",
+    "en": "Kindred Iconography"
+  },
+  "aliases": [
+    "Iconografia dos Membros",
+    "Kindred Iconography",
+    "Iconografia dos Membros — Iconógrafo",
+    "Kindred Iconography — Iconographer",
+    "Iconografia dos Membros — A escrita na parede",
+    "Kindred Iconography — The Writing on the Wall",
+    "Iconografia dos Membros — Criador de tendências",
+    "Kindred Iconography — Trendsetter",
+    "Iconografia dos Membros — Grafiteiro",
+    "Kindred Iconography — Graffiti Artist",
+    "Iconografia dos Membros — Giorgio Quem? Você tem",
+    "Kindred Iconography — Giorgio Who? You’ve"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-kindred-iconography-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Iconografia dos Membros — Iconógrafo",
+        "en": "Kindred Iconography — Iconographer"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 278 · 1",
+      "pages": [
+        {
+          "pdfPage": 279,
+          "printedPage": 278
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Iconógrafo",
+            "text": "Você é versado em símbolos dos Membros, é capaz de identificar o clã de alguém pelos motivos em suas roupas e pode dar palestras aos neófitos sobre como e por que as imagens mudaram ao longo dos séculos. Adicione dois dados aos testes Erudição relevantes."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Iconographer",
+            "text": "You’re versed in Kindred symbols, able to identify someone’s clan by the motifs in their clothing and could lecture neonates on how and why the imagery has changed over the centuries. Add two dice to relevant Academics rolls."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kindred-iconography-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Iconografia dos Membros — A escrita na parede",
+        "en": "Kindred Iconography — The Writing on the Wall"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 278 · 2",
+      "pages": [
+        {
+          "pdfPage": 279,
+          "printedPage": 278
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A escrita na parede",
+            "text": "Você aprendeu a procurar marcas que outros Membros deixaram para trás. Ganhe três dados em testes relevantes de Manha ao procurar informações sobre domínios locais e vampiros disponíveis em grafites, folhetos publicados ou outras obras de arte na área."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Writing on the Wall",
+            "text": "You’ve learned to look for marks other Kindred have left behind. Gain three dice on relevant Streetwise rolls when looking for information on local domains and vampires available in graffiti, posted flyers, or other artwork in the area."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kindred-iconography-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Iconografia dos Membros — Criador de tendências",
+        "en": "Kindred Iconography — Trendsetter"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 278 · 3",
+      "pages": [
+        {
+          "pdfPage": 279,
+          "printedPage": 278
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Criador de tendências",
+            "text": "Seu estilo chama a atenção no Elísio e os outros Membros querem saber o que você está vestindo nesta semana. Acrescente dois dados a testes Sociais quando estiver usando a iconografia de seu clã ou da afiliação que escolheu."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Trendsetter",
+            "text": "You make this look good. Your style catches eyes in Elysium, and other Kindred look to see what you’re wearing this week. Add two dice to Social rolls when you’re decked out in the imagery of your clan or chosen affiliation."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kindred-iconography-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Iconografia dos Membros — Grafiteiro",
+        "en": "Kindred Iconography — Graffiti Artist"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 278 · 4",
+      "pages": [
+        {
+          "pdfPage": 279,
+          "printedPage": 278
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Grafiteiro",
+            "text": "Esses avisos na parede? Esse é o seu projeto. Seus murais são obras de arte e atraíram a atenção não apenas dos círculos que atendem às suas advertências, mas também dos Toreador que passam a admirá-los. Você pode até ter atraído a atenção da própria Annabelle. Ofícios testes relativos à sua arte recebem três dados extras quando envolvem iconografia dos Membros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Graffiti Artist",
+            "text": "Those warnings on the wall? That’s your design. Your murals are works of art, and have drawn the eye not only of coteries heeding your warnings, but of Toreador who come to admire it. You may even have attracted the attention of Annabelle herself. Craft rolls regarding your art receive three extra dice when involving Kindred iconography."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-kindred-iconography-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Iconografia dos Membros — Giorgio Quem? Você tem",
+        "en": "Kindred Iconography — Giorgio Who? You’ve"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 278 · 5",
+      "pages": [
+        {
+          "pdfPage": 279,
+          "printedPage": 278
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Giorgio Quem? Você tem",
+            "text": "Você já vestiu Príncipes e integrantes da Primigênie, incorporando sutilmente a iconografia dos clãs às linhas de ternos e vestidos. Seu trabalho não faz apenas declarações, mas dissertações. Uma vez por história, um traje criado por você concede dois pontos de Status a um personagem à sua escolha durante a sessão. Alternativamente, sua crítica mordaz às más escolhas de vestuário de outro Membro remove um ponto de Status pelo mesmo período."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Giorgio Who? You’ve",
+            "text": "dressed Princes and Primogen, subtly weaving clan iconography into the lines of a suit or the cut of a dress. You don’t make statements with your work, you make dissertations. Once per story, an outfit of your design grants two dots of Status to a character of your choosing for the session. Alternately, your scathing critique of another Kindred’s poor sartorial choices removes one dot of Status for the same period of time."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

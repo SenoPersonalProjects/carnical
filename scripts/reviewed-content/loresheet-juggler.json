@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-juggler",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Juggler",
+    "en": "Juggler"
+  },
+  "aliases": [
+    "Juggler",
+    "Juggler — pela Causa",
+    "Juggler — for the Cause",
+    "Juggler — Armas para uma luta de facas",
+    "Juggler — Guns to a knife fight",
+    "Juggler — agitador",
+    "Juggler — rabble rouser",
+    "Juggler — Coordenação é fundamental",
+    "Juggler — Coordination is key",
+    "Juggler — ferrugem nunca dorme",
+    "Juggler — rust never sleeps"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-juggler-let-the-streets-run-red-v5-1",
+      "book": "let-the-streets-run-red-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Juggler — pela Causa",
+        "en": "Juggler — for the Cause"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 227 · 1",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 227
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "pela Causa",
+            "text": "Você trabalhou com os Anarchs em Chicago sob a direção do Juggler. Adicione um dado adicional aos testes de Briga, Armas Brancas e Manha ao enfrentar membros da Camarilla."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "for the Cause",
+            "text": "You’ve run with the Anarchs in Chicago under Juggler’s direction. Add one additional die to Brawl, Melee, and Streetwise rolls when going up against members of the Camarilla."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-juggler-let-the-streets-run-red-v5-2",
+      "book": "let-the-streets-run-red-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Juggler — Armas para uma luta de facas",
+        "en": "Juggler — Guns to a knife fight"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 227 · 2",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 227
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Armas para uma luta de facas",
+            "text": "Quando um Príncipe começa a perder, ele primeiro culpa os Anarchs e tenta eliminá-los. Juggler aprendeu essa lição com Lodin e em noites mais recentes, quando Modius denunciou seus inimigos a Sullivan Dane. Uma vez por história, você tem acesso a um esconderijo de armas que Juggler escondeu em Gary e pode comprar até Recursos (•••) em equipamentos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Guns to a knife fight",
+            "text": "When a Prince starts losing, he blames the Anarchs first and tries to wipe them out. Juggler learned that lesson with Lodin, and in more recent nights, when Modius ratted out his enemies to Sullivan Dane. Once per story, you have access to a weapons cache that Juggler has secreted away in Gary and can buy up to Resources (•••) worth of gear."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-juggler-let-the-streets-run-red-v5-3",
+      "book": "let-the-streets-run-red-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Juggler — agitador",
+        "en": "Juggler — rabble rouser"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 227 · 3",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 227
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "agitador",
+            "text": "Você sabe lutar sujo. Juggler o colocou à frente de um grupo de Anarchs que resolve as coisas em Gary. Uma vez por capítulo, convoque um pequeno grupo de três a cinco pessoas para semear o caos nas ruas de Gary ou ajudá-lo numa briga."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "rabble rouser",
+            "text": "You have a knack for dirty fighting. Juggler put you in charge of a group of Anarchs who Get Shit Done around Gary. Once per chapter, you can call upon a small group (3-5 people) to sow chaos in Gary’s streets or back you up in a brawl."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-juggler-let-the-streets-run-red-v5-4",
+      "book": "let-the-streets-run-red-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Juggler — Coordenação é fundamental",
+        "en": "Juggler — Coordination is key"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 227 · 4",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 227
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Coordenação é fundamental",
+            "text": "Juggler colocou você como uma parte fundamental das comunicações Anarchs. Outros Membros fornecem informações sobre suas atividades, que você repassa para quem precisa saber. Isso concede a você um prestígio significativo no Movimento, manifestando-se como Status: Anarchs (•••) e Influência: Gary (•••). Uma vez por história, peça ao seu Narrador uma informação que tenha chegado recentemente à sua mesa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Coordination is key",
+            "text": "Juggler set you up as a key part of Anarch communications. Other Kindred slip you information about their activities, which you pass along to those who need to know. This grants you significant cachet in the Movement, manifesting as Status: Anarchs (•••) and Influence: Gary (•••). Once per story, ask your Storyteller for a piece of intel that’s recently come across your desk."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-juggler-let-the-streets-run-red-v5-5",
+      "book": "let-the-streets-run-red-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Juggler — ferrugem nunca dorme",
+        "en": "Juggler — rust never sleeps"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Let the Streets Run Red V5, p. 227 · 5",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 227
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "ferrugem nunca dorme",
+            "text": "Juggler confiou em você com seus planos e valorizou sua contribuição em seus ataques contra a Camarilla e Modius. Ele é o seu Mawla de quatro pontos (em sua ausência, Evelyn Stephens preenche essa função). Uma vez por história, trabalhe com seu Narrador para nomear um membro do Movimento em outra cidade cujas habilidades ou acesso sejam úteis para você. Um amigo do Juggler é amigo deles e eles estão ansiosos para ajudar os Anarchs a ascender. Eles atuam como um contato de três pontos para você até o final da história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "rust never sleeps",
+            "text": "Juggler trusted you with his plans and valued your input in his strikes against the Camarilla and Modius. He is your four-dot Mawla (in his absence, Evelyn Stephens fills this role). Once per story, work with your Storyteller to name a member of the Movement in another city whose skills or access are useful to you. A friend of Juggler’s is a friend of theirs, and they’re eager to help the Anarchs rise. They act as a three-dot Contact for you until the end of that story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

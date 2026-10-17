@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-cult-of-shalim",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Culto de Shalim",
+    "en": "Cult of Shalim"
+  },
+  "aliases": [
+    "Culto de Shalim",
+    "Cult of Shalim",
+    "Culto de Shalim — Sussurros Sombrios",
+    "Cult of Shalim — Dark Whispers",
+    "Culto de Shalim — Iniciado de Culto",
+    "Cult of Shalim — Cult Initiate",
+    "Culto de Shalim — Poder da Fé",
+    "Cult of Shalim — Power of Faith",
+    "Culto de Shalim — Esmague os sonhos da vida",
+    "Cult of Shalim — Crush the Dreams of Life",
+    "Culto de Shalim — Shalim é",
+    "Cult of Shalim — Shalim Is"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-cult-of-shalim-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Culto de Shalim — Sussurros Sombrios",
+        "en": "Cult of Shalim — Dark Whispers"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 272 · 1",
+      "pages": [
+        {
+          "pdfPage": 273,
+          "printedPage": 272
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sussurros Sombrios",
+            "text": "Você ouviu rumores sobre o culto daqueles que retornaram da Cruzada Gehenna. Uma vez por história, você ganha dois dados adicionais para Sagacidade ou Investigação para investigar os mitos do culto ou para identificar se alguém é membro."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Dark Whispers",
+            "text": "You have heard rumors of the cult from those returning from the Gehenna Crusade. Once per story, you gain an additional two dice to either Insight or Investigation to look into the myths of the cult or to identify if someone is a member."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cult-of-shalim-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Culto de Shalim — Iniciado de Culto",
+        "en": "Cult of Shalim — Cult Initiate"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 272 · 2",
+      "pages": [
+        {
+          "pdfPage": 273,
+          "printedPage": 272
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Iniciado de Culto",
+            "text": "Como iniciado nos mistérios do culto, você está ciente do significado da frase semítica “Shin-Lamedh-Mem” como identificador de outros membros. Você pode falar esta frase para um membro iniciado para ganhar imediatamente dois dados em qualquer rolagem de Persuasão para obter sua ajuda. Falar isso para os não iniciados pode não apenas resultar em confusão, mas pode expô-lo a um Lasombra experiente como membro do culto do Juízo Final."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Cult Initiate",
+            "text": "As an initiate into the cult’s mysteries, you are aware of the significance of the Semitic phrase “Shin- Lamedh-Mem” as the identifier of other members. You can speak this phrase to an initiated member to immediately gain two dice on any Persuasion roll to gain their assistance. Speaking it to the uninitiated may not only result in their confusion but may expose you to a savvy Lasombra as a member of the doomsday cult."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cult-of-shalim-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Culto de Shalim — Poder da Fé",
+        "en": "Cult of Shalim — Power of Faith"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 272 · 3",
+      "pages": [
+        {
+          "pdfPage": 273,
+          "printedPage": 272
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Poder da Fé",
+            "text": "O culto tem seu alcance mais profundo na comunidade religiosa. Quando falam de um céu sem sofrimento, tristeza ou miséria, você sabe que ele só existe na felicidade do nada. Na paz de qualquer igreja ou templo, seu fervor permite ignorar os efeitos negativos da debilitação."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Power of Faith",
+            "text": "The cult’s reach extends deepest into the religious community. When they speak of heaven, a place where suffering, sadness, and misery do not exist, you know this can only be found in the bliss of nothingness. In the peace of any church or temple, your zeal allows you to ignore the negative effects of Impairment."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cult-of-shalim-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Culto de Shalim — Esmague os sonhos da vida",
+        "en": "Cult of Shalim — Crush the Dreams of Life"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 272 · 4",
+      "pages": [
+        {
+          "pdfPage": 273,
+          "printedPage": 272
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Esmague os sonhos da vida",
+            "text": "Shalim ensina que sonhos e ambições da carne devem ser abandonados para alcançar a perfeição. Todos são iguais sob seu olhar; derrubar a ambição presunçosa revela a gloriosa escuridão do vazio. Ao obter sucesso em um teste de Sagacidade contra qualquer personagem, o Narrador revela sua principal Ambição, além da informação buscada pelo teste. Com esse conhecimento, uma vez por cena você pode rerrolar quaisquer dados de um teste fracassado de Persuasão contra ele, usando seus desejos em seu favor. Além disso, pode testar Manipulação + Persuasão contra a dificuldade igual a Autocontrole + Sagacidade do alvo. Com sucesso, destrói suas esperanças e sonhos, levando-o ao desespero e à inação pelo restante da história na forma de um dano agravado de Vontade. Uma falha total revela o estratagema e o volta contra você."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Crush the Dreams of Life",
+            "text": "Shalim’s teachings say the dreams and ambitions of the flesh must be cast off to achieve perfection. All are equal under its gaze and so all must witness the path to the glorious dark of emptiness through the felling of their conceited ambition. When you succeed on an Insight roll against any character, the Storyteller reveals to you their foremost ambition in addition to the information sought by the roll. Armed with this knowledge, you may now reroll any dice in a failed Persuasion roll per scene against them as you turn their desires to your advantage. Furthermore, you may choose to roll Manipulation + Persuasion against the difficulty of the target’s Composure + Insight. If you succeed, you crush their hopes and dreams, plunging them into despair and inaction for the remainder of the story in the form of one Aggravated Willpower damage. A total failure exposes your ruse and turns them against you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-cult-of-shalim-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Culto de Shalim — Shalim é",
+        "en": "Cult of Shalim — Shalim Is"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 272 · 5",
+      "pages": [
+        {
+          "pdfPage": 273,
+          "printedPage": 272
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Shalim é",
+            "text": "Você é um verdadeiro servo de Shalim. Seu zelo e fé no fim que se aproxima não têm limites e você tem certeza de que o Abismo o escolheu para cumprir seu propósito. Sua posição no culto lhe dá acesso ao Rebanho Antecedente (••) para seus seguidores, bem como à Influência (•••) na comunidade religiosa de sua escolha entre os muitos Contatos do culto nesses círculos. Você ganha o Segredo Sombrio Defeito (•) ao pegar este Ficha de Conhecimento. Você também passa automaticamente em qualquer teste baseado em Autocontrole para ocultar sua posição como membro do culto."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Shalim Is",
+            "text": "You are a true servant of Shalim. Your zeal and faith in the coming end know no bounds and you are certain that the Abyss has chosen you to enact its purpose. Your position in the cult gives you access to the Herd background (••) for your followers as well as Influence (•••) in the religious community of your choice from the cult’s many contacts in those circles. You gain the Dark Secret Flaw (•) when taking this loresheet. You also automatically pass any Composure-based roll to hide your position as a member of the cult."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

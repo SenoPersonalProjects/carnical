@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-blood-plague",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Sangue Infectado",
+    "en": "Blood Plague"
+  },
+  "aliases": [
+    "Sangue Infectado",
+    "Blood Plague",
+    "Sangue Infectado — Detecção",
+    "Blood Plague — Detection",
+    "Sangue Infectado — A Ciência do Sangue",
+    "Blood Plague — The Science of the Blood",
+    "Sangue Infectado — Rastreando as Vítimas Entorpecidas",
+    "Blood Plague — Tracking the Drugged Victims",
+    "Sangue Infectado — Vitae Curativo",
+    "Blood Plague — Vitae Curative",
+    "Sangue Infectado — Vetor",
+    "Blood Plague — Vector"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-blood-plague-anarch-v5-1",
+      "book": "anarch-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Sangue Infectado — Detecção",
+        "en": "Blood Plague — Detection"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 197 · 1",
+      "pages": [
+        {
+          "pdfPage": 201,
+          "printedPage": 197
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Detecção",
+            "text": "Você conhece os sintomas das várias manifestações da praga do Sangue. Pode reconhecer portadores ou espalhar rumores fundamentados sobre sua presença no domínio. Receba dois dados em qualquer teste de Medicina ou Ocultismo que envolva a praga."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Detection",
+            "text": "You know the symptoms of the various manifestations of the Blood plague. It can recognize carriers or spread substantiated rumors about their Presence in the domain. Receive two dice on any Medicine or Occult roll involving the plague."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blood-plague-anarch-v5-2",
+      "book": "anarch-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Sangue Infectado — A Ciência do Sangue",
+        "en": "Blood Plague — The Science of the Blood"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 197 · 2",
+      "pages": [
+        {
+          "pdfPage": 201,
+          "printedPage": 197
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Ciência do Sangue",
+            "text": "Você acredita na origem fisiológica da praga, talvez mortal antes de alcançar os Membros. Seu estudo identifica caminhos e padrões recentes: onde um hospedeiro esteve, quem o infectou e quando, auxiliando a quarentena. Receba dois dados em Investigação e outros testes para rastrear vítimas ativas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Science of the Blood",
+            "text": "You believe in the physiological origin of the plague, perhaps deadly before reaching Kindred. Their study identifies recent pathways and patterns: where a host has been, who infected it and when, aiding quarantine. Receive two additional dice on Investigation and other tests to track active victims."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blood-plague-anarch-v5-3",
+      "book": "anarch-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Sangue Infectado — Rastreando as Vítimas Entorpecidas",
+        "en": "Blood Plague — Tracking the Drugged Victims"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 197 · 3",
+      "pages": [
+        {
+          "pdfPage": 201,
+          "printedPage": 197
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Rastreando as Vítimas Entorpecidas",
+            "text": "Seu interesse vai além da cura e quarentena: você segue o fedor e a aura da praga até vítimas em torpor. Teste Determinação + Ocultismo, dificuldade 4, modificada pela população vampírica e histórico local da praga, para localizar o corpo de uma vítima infectada em torpor. Sua identidade e se ainda transmite a doença cabem ao Narrador."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Tracking the Drugged Victims",
+            "text": "Your interest goes beyond healing and quarantine: you follow the stench and aura of the plague to victims in torpor. Roll Resolve + Occult, difficulty 4, modified by the vampire population and local history of the plague, to locate the body of an infected victim in torpor. Its identity and whether it still transmits the disease is up to Storyteller."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blood-plague-anarch-v5-4",
+      "book": "anarch-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Sangue Infectado — Vitae Curativo",
+        "en": "Blood Plague — Vitae Curative"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 197 · 4",
+      "pages": [
+        {
+          "pdfPage": 201,
+          "printedPage": 197
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Vitae Curativo",
+            "text": "Você acredita que pesquisa e sacrifício podem curar qualquer doença. Seu Vitae está livre da praga e você não apresenta sintomas apesar da proximidade com vítimas. Talvez seu Sangue contenha a cura; outros clãs exigem muito Vitae para testar. Ao fornecer Sangue suficiente para exigir um Teste de Sangue, acrescente dois dados a qualquer tentativa de produzir cura temporária ou permanente, a critério do Narrador."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Vitae Curative",
+            "text": "You believe that research and sacrifice can cure any disease. Your Vitae is free from the plague and you have no symptoms despite your proximity to victims. Perhaps your Blood contains the cure; other clans require a lot of Vitae to test. When providing enough Blood to require a Rouse Check, add two dice to any attempt to produce a temporary or permanent cure, at the discretion of the Storyteller."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-blood-plague-anarch-v5-5",
+      "book": "anarch-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Sangue Infectado — Vetor",
+        "en": "Blood Plague — Vector"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 197 · 5",
+      "pages": [
+        {
+          "pdfPage": 201,
+          "printedPage": 197
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Vetor",
+            "text": "Você porta a praga e pode transmiti-la sem apresentar sintomas. Pode derramar Vitae num Elísio ou alimentar uma fonte de sangue popular e observar outros Membros adoecerem. Também pode oferecer-se para testes, como arma da seita ou auxílio à busca da cura. Os efeitos específicos de sua variante cabem a você e ao Narrador."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Vector",
+            "text": "You carry the plague and can transmit it without showing symptoms. You can pour Vitae into an Elysium or feed a popular blood fountain and watch other Kindred fall ill. You can also offer yourself for testing, as a weapon for the sect or as an aid in the search for a cure. The specific effects of your variant are up to you and Storyteller."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

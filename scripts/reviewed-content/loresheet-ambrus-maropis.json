@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-ambrus-maropis",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Ambrus Maropis",
+    "en": "Ambrus Maropis"
+  },
+  "aliases": [
+    "Ambrus Maropis",
+    "Ambrus Maropis — Crente Sincero",
+    "Ambrus Maropis — Sincere Believer",
+    "Ambrus Maropis — Informação Clandestina",
+    "Ambrus Maropis — Clandestine Information",
+    "Ambrus Maropis — Ensinado pelos Melhores",
+    "Ambrus Maropis — Taught by the Best",
+    "Ambrus Maropis — Backdoor Panóptico",
+    "Ambrus Maropis — Panopticon Backdoor",
+    "Ambrus Maropis — Totalmente em outra Rede",
+    "Ambrus Maropis — Completely on another Network"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-ambrus-maropis-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Ambrus Maropis — Crente Sincero",
+        "en": "Ambrus Maropis — Sincere Believer"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 402 · 1",
+      "pages": [
+        {
+          "pdfPage": 406,
+          "printedPage": 402
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Crente Sincero",
+            "text": "Se Ambrus lhe ensinou algo, foi que a Camarilla está certa e a Máscara é essencial. Você segue religiosamente o que ele diz sobre segurança e subterfúgio, o que lhe dá conhecimento dos melhores esconderijos compartilhados por Membros em uma cidade e lhe garante um bônus de um dado em testes para encontrar tais lugares. Você pode não ter acesso a esse bônus se o domínio for tipicamente contra seu posicionamento político ou filosófico."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Sincere Believer",
+            "text": "If Ambrus taught him anything, it was that the Camarilla is right and the Masquerade is essential. You religiously follow what he says about security and Subterfuge, which gives you knowledge of the best hiding places shared by Kindred in a city and grants you a one-die bonus on rolls to find such places. You may not have access to this bonus if the domain is typically against your political or philosophical stance."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ambrus-maropis-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Ambrus Maropis — Informação Clandestina",
+        "en": "Ambrus Maropis — Clandestine Information"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 402 · 2",
+      "pages": [
+        {
+          "pdfPage": 406,
+          "printedPage": 402
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Informação Clandestina",
+            "text": "Você pode usar um esconderijo digital para solicitar um hack à comunidade de fãs de Ambrus. Uma vez por história, você pode obter uma informação armazenada online sobre a maioria dos mortais, dentro de duas a 20 horas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Clandestine Information",
+            "text": "You can use a digital cache to request a hack from the Ambrus fan community. Once per story, you can get information stored online about most Kine, within two to 20 hours."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ambrus-maropis-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Ambrus Maropis — Ensinado pelos Melhores",
+        "en": "Ambrus Maropis — Taught by the Best"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 402 · 3",
+      "pages": [
+        {
+          "pdfPage": 406,
+          "printedPage": 402
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ensinado pelos Melhores",
+            "text": "Como um dos discípulos de Ambrus, você tem acesso a um suprimento de informações sobre tópicos que vão das operações da Segunda Inquisição as mais novas tendências na moda Harajuku. Ambrus também pode reter informações na Dark Web ou lhe oferecer seu próprio hacker ucraniano a um “preço amigável\". Considere Ambrus um Mawla de três pontos (•••)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Taught by the Best",
+            "text": "As one of Ambrus's disciples, you have access to a supply of information on topics ranging from the operations of the Second Inquisition to the newest trends in Harajuku fashion. Ambrus may also retain information on the Dark Web or offer you its own Ukrainian hacker at a “friendly price”. Consider Ambrus a three-point Mawla (•••)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ambrus-maropis-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Ambrus Maropis — Backdoor Panóptico",
+        "en": "Ambrus Maropis — Panopticon Backdoor"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 402 · 4",
+      "pages": [
+        {
+          "pdfPage": 406,
+          "printedPage": 402
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Backdoor Panóptico",
+            "text": "Ambrus o pegou com um backdoor em um software de vigilância, rastreando e classificando comunicações online (incluindo chamadas de telefones celulares) atrás de palavras-chave e nomes. Ou talvez você tenha roubado o backdoor dele ou o tenha encontrado em uma máquina em uma casa segura que um fã de Ambrus abandonou às pressas. Seja como for, você só pode logar uma vez por história por questões de segurança, mas isso lhe garante dois sucessos automáticos em qualquer teste de Investigação que envolva as atividades em celulares ou presença online de qualquer um."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Panopticon Backdoor",
+            "text": "Ambrus caught him with a backdoor into surveillance software, tracking and classifying online communications (including cell phone calls) for keywords and names. Or maybe you stole his backdoor or found it on a machine in a safe house that an Ambrus fan hastily abandoned. Regardless, you can only log in once per story for security reasons, but this grants you two automatic successes on any Investigation roll that involves anyone's cellphone or online presence activities."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ambrus-maropis-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Ambrus Maropis — Totalmente em outra Rede",
+        "en": "Ambrus Maropis — Completely on another Network"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 402 · 5",
+      "pages": [
+        {
+          "pdfPage": 406,
+          "printedPage": 402
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Totalmente em outra Rede",
+            "text": "Ambrus foi até o fim com a sua identidade falsa. Você tem identidades falsas equivalentes a dois pontos de Máscara (••) e foi Zerado (pág. 190). Você ganha três dados adicionais para resistir a tentativas de procurá-lo online ou descobrir suas atividades no mundo mortal."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Completely on another Network",
+            "text": "Ambrus went all the way with his fake identity. You have fake IDs equivalent to two points of Mask (••) and have been Zeroed (page 190). You gain three additional dice to resist attempts to look you up online or discover your activities in the mortal world."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

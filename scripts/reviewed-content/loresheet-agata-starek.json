@@ -1,0 +1,256 @@
+{
+  "id": "loresheet-agata-starek",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Agata Starek",
+    "en": "Agata Starek"
+  },
+  "aliases": [
+    "Agata Starek",
+    "Agata Starek — Aterrorizando os Poderosos",
+    "Agata Starek — Terrifying the Powerful",
+    "Agata Starek — Aprendiz",
+    "Agata Starek — Apprentice",
+    "Agata Starek — Um Favor Devido",
+    "Agata Starek — A Favor Due",
+    "Agata Starek — Aliados Improváveis",
+    "Agata Starek — Allies Unlikely",
+    "Agata Starek — A Alegria da Transgressão",
+    "Agata Starek — The Joy of Transgression"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-agata-starek-anarch-v5-1",
+      "book": "anarch-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Agata Starek — Aterrorizando os Poderosos",
+        "en": "Agata Starek — Terrifying the Powerful"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 191 · 1",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 191
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aterrorizando os Poderosos",
+            "text": "Como Agata, você aterroriza vampiros mais influentes e poderosos. Uma vez por história, rerrole um teste de Intimidação ao enfrentar um vampiro de poder superior. Pode ser idade, Recursos ou Status de seita; o Narrador decide se a situação permite o benefício."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Terrifying the Powerful",
+            "text": "As Agata, you terrorize more influential and powerful vampires. Once per story, reroll a Intimidation test when facing a vampire of higher power. It could be age, Resources or Status of sect; Storyteller decides whether the situation allows the benefit."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-agata-starek-anarch-v5-2",
+      "book": "anarch-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Agata Starek — Aprendiz",
+        "en": "Agata Starek — Apprentice"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 191 · 2",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 191
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aprendiz",
+            "text": "Você conheceu Agata Starek e chamou sua atenção. Ela às vezes envia informações sobre fraquezas e vícios dos vampiros poderosos de sua cidade, muitas vezes para que você prove seu Sangue. Uma vez por história, tenha o equivalente a Contatos 4 para descobrir a fraqueza de um inimigo mais forte: hábitos alimentares, Pilares ou falhas na segurança do refúgio."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Apprentice",
+            "text": "You met Agata Starek and caught her attention. She sometimes sends information about the weaknesses and vices of the powerful vampires in her city, often so that you can taste their Blood. Once per story, have the equivalent of Contacts 4 to discover a stronger enemy's weakness: eating habits, Touchstones, or Haven security flaws."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-agata-starek-anarch-v5-3",
+      "book": "anarch-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Agata Starek — Um Favor Devido",
+        "en": "Agata Starek — A Favor Due"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 191 · 3",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 191
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Um Favor Devido",
+            "text": "Você encontrou Agata numa ou duas ocasiões, talvez envolvendo assassinato e Sangue da Camarilla. Uma vez por história, pode cobrar um favor que alguém da cidade deve a ela. Como Starek aprecia Vitae, seus favores sempre envolvem obter um tipo específico de Sangue vampírico. Diga qual precisa e o Narrador informa quem deve o favor, dentro do possível no domínio: Sangue de Matusalém provavelmente não, mas o do Príncipe talvez."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "A Favor Due",
+            "text": "You've encountered Agata on one or two occasions, perhaps involving murder and Blood of the Camarilla. Once per story, you can call in a favor that someone in town owes her. Because Starek appreciates Vitae, her favors always involve obtaining a specific type of vampiric Blood. Say which one you need and Storyteller tells you who owes the favor, as far as possible in the domain: Methuselah's Blood probably not, but the Prince's maybe."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-agata-starek-anarch-v5-4",
+      "book": "anarch-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Agata Starek — Aliados Improváveis",
+        "en": "Agata Starek — Allies Unlikely"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 191 · 4",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 191
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aliados Improváveis",
+            "text": "Starek dá esperança de vingança a quem já não acredita num mundo melhor. Como ela, você dificulta a vida dos poderosos. Uma vez por história, um servo oprimido ou lacaio de seus inimigos não vivos o ajuda numa situação difícil, desde que consiga fazê-lo sem ser descoberto. O Narrador pode fazer isso acontecer, ou você pode apelar ao lacaio com um teste de Persuasão com quatro dados adicionais."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Allies Unlikely",
+            "text": "Starek gives hope of revenge to those who no longer believe in a better world. Like her, you make life difficult for the powerful. Once per story, an oppressed servant or minion of your non-living enemies helps you in a difficult situation, provided he can do so without being discovered. Storyteller can make this happen, or you can appeal to the minion with a Persuasion roll with four additional dice."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-agata-starek-anarch-v5-5",
+      "book": "anarch-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Agata Starek — A Alegria da Transgressão",
+        "en": "Agata Starek — The Joy of Transgression"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Anarch V5, p. 191 · 5",
+      "pages": [
+        {
+          "pdfPage": 195,
+          "printedPage": 191
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Alegria da Transgressão",
+            "text": "Agata ensina que diablerizar vampiros poderosos da Camarilla é uma responsabilidade Anarch e uma das grandes alegrias da revolução. Você não perde automaticamente um ponto de Humanidade ao diablerizar alguém com mais Status de seita que você. A página recebida inicia uma ressalva sobre a perda potencial de Humanidade ao rolar os efeitos da Diablerie, mas termina antes de completar a frase; consulte o Narrador antes de aplicar essa ressalva."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          },
+          {
+            "title": "Nota sobre a fonte",
+            "text": "Esta fonte contém redação ambígua, mantida sem criar uma regra alternativa. Consulte a página original e confirme a aplicação com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Joy of Transgression",
+            "text": "Agata teaches that diablerizing powerful Camarilla vampires is an Anarch responsibility and one of the great joys of the revolution. You do not automatically lose a Humanity point when diablerizing someone with higher sect Status than you. The received page begins a caveat about the potential loss of Humanity when rolling Diablerie effects, but ends before completing the sentence; see Storyteller before applying this caveat."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          },
+          {
+            "title": "Source note",
+            "text": "This source contains ambiguous wording, preserved without inventing an alternative rule. Consult the original page and confirm its application with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

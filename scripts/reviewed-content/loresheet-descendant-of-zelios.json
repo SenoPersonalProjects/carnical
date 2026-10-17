@@ -1,0 +1,264 @@
+{
+  "id": "loresheet-descendant-of-zelios",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Descendente de Zelios",
+    "en": "Descendant of Zelios"
+  },
+  "aliases": [
+    "Descendente de Zelios",
+    "Descendant of Zelios",
+    "Descendente de Zelios — Santuário",
+    "Descendant of Zelios — Sanctuary",
+    "Descendente de Zelios — Sabotador",
+    "Descendant of Zelios — Saboteur",
+    "Descendente de Zelios — Em Comissão",
+    "Descendant of Zelios — In Committee",
+    "Descendente de Zelios — Labirinto",
+    "Descendant of Zelios — Maze",
+    "Descendente de Zelios — Sentir as Linhas Ley",
+    "Descendant of Zelios — Feel the Ley Lines"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-descendant-of-zelios-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Descendente de Zelios — Santuário",
+        "en": "Descendant of Zelios — Sanctuary"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 398 · 1",
+      "pages": [
+        {
+          "pdfPage": 402,
+          "printedPage": 398
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Nosferatu"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Santuário",
+            "text": "Seu refúgio é uma maravilha do design moderno, possuindo proteção na forma de passagens secretas, segurança eletrônica e até mesmo um botão de autodestruição, isso sem deixar de parecer elegante e confortável. Distribua dois pontos entre as Qualidades de Refúgio Poterna e Sistema de Segurança, mas alguém em algum lugar provavelmente tem acesso a todos os detalhes da configuração."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Sanctuary",
+            "text": "Your Haven is a marvel of modern design, featuring protection in the form of secret passages, electronic security and even a self-destruct button, all while looking elegant and comfortable. Distribute two points between the Merits of Haven Postern and Security System, but someone somewhere probably has access to all the configuration details."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-zelios-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Descendente de Zelios — Sabotador",
+        "en": "Descendant of Zelios — Saboteur"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 398 · 2",
+      "pages": [
+        {
+          "pdfPage": 402,
+          "printedPage": 398
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Nosferatu"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sabotador",
+            "text": "Você sabe instintivamente onde ficam as fraquezas de uma construção, e nem sequer precisa de explosivos para destruí-la. Com uma marreta, pé de cabra, cabo e cinzel frio, e tantas noite no local quanto a Dificuldade que o Narrador estabelecer para a construção (ou seja, quatro para uma casa residencial, seis para um banco, Oito para uma prisão, nove para um arranha-céu), você pode colocar um edifício abaixo como se fosse um castelo de cartas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Saboteur",
+            "text": "You instinctively know where a building's weaknesses are, and you don't even need explosives to destroy it. With a sledgehammer, crowbar, cable, and cold chisel, and as many nights on site as the Difficulty the Storyteller sets for the construction (i.e., four for a residential house, six for a bank, eight for a prison, nine for a skyscraper), you can bring a building down like a house of cards."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-zelios-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Descendente de Zelios — Em Comissão",
+        "en": "Descendant of Zelios — In Committee"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 398 · 3",
+      "pages": [
+        {
+          "pdfPage": 402,
+          "printedPage": 398
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Nosferatu"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Em Comissão",
+            "text": "Outros vampiros sabem que você descende de Zelios e pedem aconselhamento na construção de seus refúgios. Esse negócio quase sempre garante que você tenha um ou dois favores (aproximadamente um favor menor por história) para cobrar o conhecimento dos locais onde alguns vampiros poderosos dormem — o que, ao cabo, provavelmente lhe fará mais mal do que bem."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "In Committee",
+            "text": "Other vampires know that you are descended from Zelios and ask for advice in building their havens. This deal almost always guarantees that you'll have a favor or two (roughly one minor favor per story) to charge for knowledge of where some powerful vampires sleep—which, in the end, will probably do you more harm than good."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-zelios-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Descendente de Zelios — Labirinto",
+        "en": "Descendant of Zelios — Maze"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 398 · 4",
+      "pages": [
+        {
+          "pdfPage": 402,
+          "printedPage": 398
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Nosferatu"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Labirinto",
+            "text": "Você usou a obra de Zelios para construir um labirinto sob seu domínio, feito em parte de túneis de esgoto, tubos desusados, porões, adegas e túneis de manutenção. Você adicionou suas próprias câmaras, passagens sem saída e conexões para formar um verdadeiro labirinto subterrâneo. Somente aqueles para quem você o revela conhecem seu labirinto. Você não pode tratar o labirinto como um Refúgio, já que ele o aterroriza, mas se adentrá-lo em fuga, ninguém poderá persegui-lo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Maze",
+            "text": "You used Zelios' work to build a labyrinth under your rule, made in part of sewer tunnels, disused pipes, basements, cellars, and maintenance tunnels. You've added your own chambers, dead ends, and connections to form a true underground labyrinth. Only those to whom you reveal it know your labyrinth. You can't treat the maze like a Haven, since it terrifies you, but if you run into it, no one can chase you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-descendant-of-zelios-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Descendente de Zelios — Sentir as Linhas Ley",
+        "en": "Descendant of Zelios — Feel the Ley Lines"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 398 · 5",
+      "pages": [
+        {
+          "pdfPage": 402,
+          "printedPage": 398
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Nosferatu"
+        ],
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sentir as Linhas Ley",
+            "text": "Às vezes você vislumbra gavinhas vermelhas pulsantes serpenteando através da terra: linhas ley. Vampiros que se refugiam onde esses tentáculos convergem percebem que sua Fome aumenta mais vagarosamente (ao realizar uma Checagem de Sangue para despertar, role dois dados e use o maior resultado), caso durmam ali durante o dia. As linhas ley têm outros efeitos mágicos poderosos — segredos que você pode investigar com a aprovação do Narrador — mas seus companheiros Ratos de Esgoto punem severamente a revelação de qualquer parte desses segredos."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Feel the Ley Lines",
+            "text": "Sometimes you glimpse pulsing red tendrils snaking through the earth: ley lines. Vampires who take refuge where these tentacles converge notice that their Hunger increases more slowly (when performing a Rouse Check to awaken, roll two dice and use the highest result), if they sleep there during the day. The ley lines have other powerful magical effects—secrets that you can investigate with the approval of the Storyteller—but your fellow Sewer Rats severely punish the revelation of any part of these secrets."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

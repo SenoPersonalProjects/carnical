@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-promise-of-1528",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "A Promessa de 1528",
+    "en": "The Promise of 1528"
+  },
+  "aliases": [
+    "A Promessa de 1528",
+    "The Promise of 1528",
+    "A Promessa de 1528 — Erudito da Promessa",
+    "The Promise of 1528 — Scholar of Promise",
+    "A Promessa de 1528 — Fragmentos de Informação",
+    "The Promise of 1528 — Information Fragments",
+    "A Promessa de 1528 — Tique Taque",
+    "The Promise of 1528 — Tick ​​tock",
+    "A Promessa de 1528 — Memória Defeituosa",
+    "The Promise of 1528 — Defective Memory",
+    "A Promessa de 1528 — Signatário",
+    "The Promise of 1528 — Signatory"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-promise-of-1528-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "A Promessa de 1528 — Erudito da Promessa",
+        "en": "The Promise of 1528 — Scholar of Promise"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 231 · 1",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 231
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Erudito da Promessa",
+            "text": "Você estuda a Promessa e sabe mais que a maioria dos Membros, até por conhecer sua existência. Receba dois dados em testes de Persuasão em disputas legais com Membros da Camarilla ou dos Hecata."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Scholar of Promise",
+            "text": "You study the Promise and know more than most Kindred, even knowing its existence. Receive two dice on Persuasion rolls in legal disputes with Kindred from the Camarilla or Hecata."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-promise-of-1528-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "A Promessa de 1528 — Fragmentos de Informação",
+        "en": "The Promise of 1528 — Information Fragments"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 231 · 2",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 231
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Fragmentos de Informação",
+            "text": "Você leu um fragmento de uma transcrição da Promessa que acredita genuíno, apesar das muitas falsificações. Outros Membros querem esse conhecimento. Uma vez por história, permita que pesquisem suas anotações e receba um ponto temporário em Contatos, Rebanho, Influência ou Recursos até o fim da história. Também pode pedir-lhes futuramente um favor maior (Livro Básico, p. 315)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Information Fragments",
+            "text": "You have read a fragment of a transcript of the Promise that you believe to be genuine, despite the many forgeries. Others Kindred want this knowledge. Once per story, allow them to search their notes and receive a temporary point in Contacts, Herd, Influence, or Resources until the end of the story. You can also ask them for a bigger favor in the future (Basic Book, p. 315)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-promise-of-1528-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "A Promessa de 1528 — Tique Taque",
+        "en": "The Promise of 1528 — Tick ​​tock"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 231 · 3",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 231
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Tique Taque",
+            "text": "Você conhece, ou acredita conhecer, as consequências terríveis de deixar a Promessa expirar. Uma vez por história, aconselhe sua facção local — corte da Camarilla ou família Hecata — e espere ser levado a sério. Receba uma audiência e dois sucessos automáticos em qualquer teste para fundamentar seu conhecimento durante a reunião."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Tick ​​tock",
+            "text": "You know, or believe you know, the dire consequences of letting the Promise expire. Once per story, advise your local faction — Camarilla court or Hecata family — and expect to be taken seriously. Receive an audience and two automatic successes on any test to support your knowledge during the meeting."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-promise-of-1528-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "A Promessa de 1528 — Memória Defeituosa",
+        "en": "The Promise of 1528 — Defective Memory"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 231 · 4",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 231
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Memória Defeituosa",
+            "text": "Você leu a Promessa, mas não consegue lembrar o texto inteiro, mesmo com poderes ou vantagens de memória. Alguns trechos surgem no momento certo. Uma vez por história, acrescente três dados a uma rolagem apropriada em que lembrar a Promessa ajude."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Defective Memory",
+            "text": "You have read the Promise, but cannot remember the entire text, even with memory powers or advantages. Some excerpts appear at the right time. Once per story, add three dice to an appropriate roll where remembering the Promise helps."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-promise-of-1528-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "A Promessa de 1528 — Signatário",
+        "en": "The Promise of 1528 — Signatory"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 231 · 5",
+      "pages": [
+        {
+          "pdfPage": 231,
+          "printedPage": 231
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Signatário",
+            "text": "Você é signatário da Promessa ou diretamente relacionado a um deles. Uma vez por crônica, use esse conhecimento para obrigar um Príncipe da Camarilla ou anziani Hecata a mudar permanentemente uma regra ou lei local em seu favor, conquistando influência política. Decida por que não consegue revelar mais detalhes: compulsão taumatúrgica, ameaça de tormento eterno a um ente querido ou doses intensas de Dominação Ventrue."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Signatory",
+            "text": "You are a signatory to the Promise or directly related to one. Once per chronicle, use this knowledge to compel a Camarilla Prince or anziani Hecata to permanently change a local rule or law in your favor, gaining political influence. Decide why you cannot reveal more details: thaumaturgical compulsion, threat of eternal torment to a loved one, or intense doses of Dominate Ventrue."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

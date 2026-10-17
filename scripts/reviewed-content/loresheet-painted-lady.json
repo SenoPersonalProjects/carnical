@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-painted-lady",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "A Dama Pintada",
+    "en": "The Painted Lady"
+  },
+  "aliases": [
+    "A Dama Pintada",
+    "The Painted Lady",
+    "A Dama Pintada — Mais um",
+    "The Painted Lady — Plus One",
+    "A Dama Pintada — Convite Gravado",
+    "The Painted Lady — Engraved Invitation",
+    "A Dama Pintada — Agende uma consulta",
+    "The Painted Lady — Schedule an Appointment",
+    "A Dama Pintada — VIP",
+    "The Painted Lady — VIP",
+    "A Dama Pintada — Um Beaubien Original",
+    "The Painted Lady — A Beaubien Original"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-painted-lady-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "A Dama Pintada — Mais um",
+        "en": "The Painted Lady — Plus One"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 282 · 1",
+      "pages": [
+        {
+          "pdfPage": 283,
+          "printedPage": 282
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Mais um",
+            "text": "Por um golpe de sorte, seu companheiro (ou lanche) de noite conseguiu um convite e pediu que você fosse seu “acompanhante”. Você poderia apenas observar, não participar, mas estar lá sozinho automaticamente aumentou seu capital social entre os Membros da cidade. Você ganha dois dados para Persuasão e Status (••) em qualquer encontro com um fã ou frequentador assíduo da Dama Pintada que o vê durante a semana seguinte à sua visita."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Plus One",
+            "text": "By a stroke of luck, your companion (or snack) of an evening secured an invitation and asked you to be their “plus one.” You could only observe, not participate, but being there alone automatically raised your social capital amongst the city’s Kindred. You gain two dice to Persuasion and Status (••) in any encounter with a fan or regular of the Painted Lady who sees you during the week following their visit."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-painted-lady-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "A Dama Pintada — Convite Gravado",
+        "en": "The Painted Lady — Engraved Invitation"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 282 · 2",
+      "pages": [
+        {
+          "pdfPage": 283,
+          "printedPage": 282
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Convite Gravado",
+            "text": "Em sua mão está um cartão de visita vermelho rubi brilhante. De um lado está gravado, em letras brancas, “The Painted Lady, Chicago, est. 1907”. O reverso é carimbado com data e hora em tinta prateada. Abaixo, alguém escreveu à mão: “Você está convidado a entrar e brincar”. Neste nível, você recebe Influência: Painted Lady Enthusiasts (••), e você pode participar de cenas BDSM, alimentando-se de qualquer mortal disposto a se envolver em brincadeiras de sangue."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Engraved Invitation",
+            "text": "In your hand rests a glossy, ruby-red business card. On one side is engraved, in white, scrolling letters, “The Painted Lady, Chicago, est. 1907.” The reverse is stamped with a date and a time in silver ink. Below, someone has hand-printed, “You are invited to come and play.” At this level, you receive Influence: Painted Lady Enthusiasts (••), and you may participate in BDSM scenes, feeding upon any mortal willing to engage in blood play."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-painted-lady-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "A Dama Pintada — Agende uma consulta",
+        "en": "The Painted Lady — Schedule an Appointment"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 282 · 3",
+      "pages": [
+        {
+          "pdfPage": 283,
+          "printedPage": 282
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Agende uma consulta",
+            "text": "O cartão fino e fosco de metal parece quase idêntico aos cartões de visita pretos que você recebeu quando chegou ao The Painted Lady, apenas o nome do estabelecimento está gravado em prata na frente e no verso está gravado “Membro” junto com um dia da semana. Este cartão dá direito a participar de uma festa por semana, bem como agendar um horário para receber uma tatuagem ou piercing padrão. Devido ao seu Status elevado, você atrai a atenção e consideração particular de um patrono regular, companheiro de brincadeiras, tatuador ou técnico de piercing igual a Lacaios (••) e se você receber um piercing ou tatuagem, seu Status entre os contraculturalistas de domínio aumenta em um ponto."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Schedule an Appointment",
+            "text": "The slim, matte metal card looks nearly identical to the black business cards you received when you first came to The Painted Lady, only the name of the establishment is etched in silver on the front, and on the reverse is engraved, “Member” along with a day of the week. This card entitles you to attend one party per week as well as to schedule an appointment to receive a standard tattoo or piercing. Due to your elevated status, you attract the particular notice and regard of one regular patron, playmate, tattoo artist, or piercing technician equal to Retainers (••) and if you receive a piercing or tattoo, your Status among domain counter-culturalists improves by one dot."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-painted-lady-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "A Dama Pintada — VIP",
+        "en": "The Painted Lady — VIP"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 282 · 4",
+      "pages": [
+        {
+          "pdfPage": 283,
+          "printedPage": 282
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "VIP",
+            "text": "Seu cartão agora tem a cor de uma névoa prateada e o verso está simplesmente carimbado com “VIP”. Você pode frequentar o salão na noite ou noites que preferir e terá acesso a cenas mais... atraentes. Uma quantidade considerável de dor e sangue está envolvida, mas os mortais e os celebrantes de Membros se envolvem nessas semi-torturas com entusiasmo. Aceite o convite para participar da ação ou observe com frieza; a escolha é sua. Neste nível, seu personagem tem acesso a um Rebanho: Painted Lady Enthusiasts (•••) e ganha Contatos: Comunidade BDSM (••)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "VIP",
+            "text": "Your card is now the color of silver mist and the back is simply stamped “VIP.” You may attend the salon on whatever night or nights you prefer, and you may access more...enticing scenes. A considerable amount of pain and blood is involved, but the mortal and Kindred celebrants engage in these semi-tortures enthusiastically. Accept the invitation to join the action or coolly observe; the choice is yours. At this level, your character has access to a Herd: Painted Lady Enthusiasts (•••) and gains Contacts: BDSM Community (••)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-painted-lady-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "A Dama Pintada — Um Beaubien Original",
+        "en": "The Painted Lady — A Beaubien Original"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 282 · 5",
+      "pages": [
+        {
+          "pdfPage": 283,
+          "printedPage": 282
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Um Beaubien Original",
+            "text": "Tatuagens, piercings e modificações corporais da equipe de The Painted Lady são notáveis, mas receber uma peça encomendada e executada pela própria Edith Beaubien é uma experiência rara e inesquecível. O Nosferatu trabalha no estilo tebori japonês, e algo em seus pigmentos artesanais faz com que pareça que gotas do próprio sol estão sendo lentamente depositadas em sua pele. A dor vale a pena por uma tatuagem que nunca desaparece ao acordar e a satisfação de contar aos outros Membros exatamente quem te pintou. Um original Beaubien permite que você adicione dois dados a todos os testes de Manha, concede um Status permanente (•••) entre entusiastas de Painted Lady e amantes da arte, e um Status permanente (••) entre outros Membros de Chicago."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "A Beaubien Original",
+            "text": "Tattoos, piercings, and body modifications from The Painted Lady’s staff are remarkable, but to receive a commissioned piece executed by Edith Beaubien herself is a rare and unforgettable experience. The Nosferatu works in the Japanese tebori style, and something in her hand-crafted pigments makes it feel as if drops of the sun itself are being slowly deposited into your skin. The pain is worth it for a tattoo that never disappears upon waking and the satisfaction of telling other Kindred precisely who inked you. A Beaubien original allows you to add two dice to all Streetwise rolls, grants a permanent Status (•••) among Painted Lady enthusiasts and art lovers, and a permanent Status (••) among other Chicago Kindred."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

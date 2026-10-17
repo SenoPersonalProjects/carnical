@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-ballard-industries",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Indústrias Ballard",
+    "en": "Ballard Industries"
+  },
+  "aliases": [
+    "Indústrias Ballard",
+    "Ballard Industries",
+    "Indústrias Ballard — Bolsos profundos",
+    "Ballard Industries — Deep Pockets",
+    "Indústrias Ballard — Para onde vai a multidão",
+    "Ballard Industries — Where the In-Crowd Goes",
+    "Indústrias Ballard — Eu lutei contra a lei e venci",
+    "Ballard Industries — I Fought the Law, and I Won",
+    "Indústrias Ballard — Favores por favores",
+    "Ballard Industries — Favors for Favors",
+    "Indústrias Ballard — A vista de cima",
+    "Ballard Industries — The View from the Top"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-ballard-industries-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Indústrias Ballard — Bolsos profundos",
+        "en": "Ballard Industries — Deep Pockets"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 263 · 1",
+      "pages": [
+        {
+          "pdfPage": 264,
+          "printedPage": 263
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Bolsos profundos",
+            "text": "Ballard sabe que não deve tirar seu salário suado. Você economizou o suficiente para resistir aos dias muito chuvosos que virão. Uma vez por história, após qualquer evento que cause uma redução no seus Recursos, você pode optar por restaurar imediatamente o seus Recursos ao valor original."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Deep Pockets",
+            "text": "Ballard knows better than to screw you out of your hard-earned pay. You’ve saved enough of it to weather the very rainy days to come. Once per story, after any event that causes a reduction in your Resources, you may choose to immediately restore your Resources to their original value."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ballard-industries-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Indústrias Ballard — Para onde vai a multidão",
+        "en": "Ballard Industries — Where the In-Crowd Goes"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 263 · 2",
+      "pages": [
+        {
+          "pdfPage": 264,
+          "printedPage": 263
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Para onde vai a multidão",
+            "text": "Como agente de Horatio Ballard, você possui uma autoridade surpreendente no mundo dos negócios. Se você contar a eles quem você é e para quem trabalha, eles permitirão que você faça praticamente qualquer coisa. Uma vez por história, você pode invocar uma das identidades falsas de Ballard para receber três dados extras em um teste Social em um ambiente corporativo. Se você optar por invocar o nome verdadeiro de Ballard, será automaticamente bem-sucedido no teste, mas isso poderá ser declarado uma violação da Máscara, a critério do Narrador."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Where the In-Crowd Goes",
+            "text": "As an agent of Horatio Ballard, you carry a surprising amount of authority in the business world. If you let them know who you are and who you work for, they’ll let you do just about anything. Once per story, you may invoke one of Ballard’s false identities to receive three extra dice on a Social test in a corporate environment. If you choose to invoke Ballard’s real name instead, you will automatically succeed the test, but it may be declared a Masquerade breach at the Storyteller’s discretion."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ballard-industries-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Indústrias Ballard — Eu lutei contra a lei e venci",
+        "en": "Ballard Industries — I Fought the Law, and I Won"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 263 · 3",
+      "pages": [
+        {
+          "pdfPage": 264,
+          "printedPage": 263
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Eu lutei contra a lei e venci",
+            "text": "A Ballard Industries possui alguns dos melhores escritórios de advocacia do país e, onde a legislação legítima não funciona, o suborno certamente funcionará. Vários policiais dançam ao som de Ballard e podem nem saber disso. Você pode ser o condutor deles. Não importa quais crimes você cometa, você sempre terá acesso à Influência: Polícia (•••) em seu estado ou distrito natal."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "I Fought the Law, and I Won",
+            "text": "Ballard Industries owns some of the best law firms in the country, and where legitimate legislation doesn’t work, bribery certainly will. A number of law-enforcement officers dance to Ballard’s tune, and they might not even know it. You can be their conductor. No matter what crimes you commit, you will always have access to Influence: Police (•••) in your home state or district."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ballard-industries-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Indústrias Ballard — Favores por favores",
+        "en": "Ballard Industries — Favors for Favors"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 263 · 4",
+      "pages": [
+        {
+          "pdfPage": 264,
+          "printedPage": 263
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Favores por favores",
+            "text": "Ballard ensinou que ninguém progride nos negócios sem uma pequena contrapartida. Se você puder ter certeza de que sairá com a melhor parte do acordo, melhor ainda. Você sabe como usar isso contra os desesperados e fazê-los se curvar à sua vontade. Se você gastar seus Recursos para o benefício de um personagem do Narrador, você pode declarar que ele tem uma dívida com você e ter dois dados adicionais para adicionar a um teste de Intimidação ou Persuasão se isso for uma pílula difícil de engolir para o personagem do Narrador. Se eles concordarem em pagar a dívida, a partir da próxima cena, você poderá cobrar a dívida daquele personagem a qualquer momento. A dívida pode ser qualquer coisa dentro da habilidade natural e da moralidade do personagem. Eles não são obrigados a pagar, é claro, mas sofrerão reações sociais entre os Ventrue se não o fizerem. Você pode manter tantas dívidas quanto seu total Status a qualquer momento. Observe que este Conhecimento não é equivalente a favores entre Membros, já que essas dívidas são consideradas sacrossantas apenas nos círculos Ventrue e financeiros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Favors for Favors",
+            "text": "Ballard taught you that no one gets ahead in business without a little quid pro quo. If you can make sure you come out with the better end of the bargain, even better. You know how to wield this on the desperate, and make them bend to your will. If you spend your resources for an SPC’s benefit, you may declare they owe you a debt and have two additional dice to add to an Intimidation or Persuasion roll if this proves a hard pill for the SPC to swallow. If they agree to repay the debt, from the next scene onward, you may call in that character’s debt at any time. The debt can be anything within the character’s natural ability and morality. They are not obliged to repay, of course, but will suffer social backlash among the Ventrue if they do not. You can hold as many debts as your total Status at any one time. Note that this Lore is not equivalent to Kindred boons, as these debts are only considered sacrosanct in Ventrue and financial circles."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-ballard-industries-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Indústrias Ballard — A vista de cima",
+        "en": "Ballard Industries — The View from the Top"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 263 · 5",
+      "pages": [
+        {
+          "pdfPage": 264,
+          "printedPage": 263
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A vista de cima",
+            "text": "Você conquistou o respeito de Horatio Ballard – ou o medo dele. Seja qual for o caso, ele escolheu colocá-lo no comando de uma parte do seu império. Dê um nome à sua empresa e indique o que ela faz, depois escolha um dos seguintes Antecedentes em (••••) e outro em (•••): Refúgio, Rebanho, Influências, Recursos ou Lacaios. É isso que sua empresa oferece a você. Você ganhará um Inimigo (••) que representa um grande rival comercial e outro Inimigo (•) que é um funcionário que você ultrapassou para tomar seu pedaço das Indústrias Ballard."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The View from the Top",
+            "text": "You have earned Horatio Ballard’s respect — or his fear. Whichever the case, he has chosen to place you in charge of a piece of his empire. Name your company and state what it does, then choose one of the following Backgrounds at (••••) and the other at (•••): Haven, Herd, Influences, Resources, or Retainers. This is what your company provides you. You will earn an Enemy (••) who represents a major business rival and another Enemy (•) who is an employee you leapfrogged to seize your piece of Ballard Industries."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

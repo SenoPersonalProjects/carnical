@@ -1,0 +1,247 @@
+{
+  "id": "loresheet-annabelle",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Annabelle",
+    "en": "Annabelle"
+  },
+  "aliases": [
+    "Annabelle",
+    "Annabelle — Estagiário",
+    "Annabelle — Intern",
+    "Annabelle — Glitterati",
+    "Annabelle — Com agradecimentos aos nossos doadores",
+    "Annabelle — With Thanks to Our Donors",
+    "Annabelle — Patrocínio",
+    "Annabelle — Patronage",
+    "Annabelle — Círculo Interno",
+    "Annabelle — Inner Circle"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-annabelle-chicago-by-night-v5-1",
+      "book": "chicago-by-night-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Annabelle — Estagiário",
+        "en": "Annabelle — Intern"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 262 · 1",
+      "pages": [
+        {
+          "pdfPage": 263,
+          "printedPage": 262
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Estagiário",
+            "text": "Vampiros novatos que querem aprender os meandros de política dos Membros muitas vezes passam tempo trabalhando para Annabelle. Uma vez por história, você pode pedir orientação de Annabelle sobre um assunto específico. Ela pode até decidir ajudá-lo, embora seja questionável se isso é para seu benefício ou prejuízo."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Intern",
+            "text": "Fledgling vampires who want to learn the ins and outs of Kindred politics often spend time working for Annabelle. Once per story, you may ask for Annabelle’s guidance on a particular matter. She may even decide to help you, though whether that’s to your benefit or detriment is questionable."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-annabelle-chicago-by-night-v5-2",
+      "book": "chicago-by-night-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Annabelle — Glitterati",
+        "en": "Annabelle — Glitterati"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 262 · 2",
+      "pages": [
+        {
+          "pdfPage": 263,
+          "printedPage": 262
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Glitterati",
+            "text": "Quer você seja a maravilha do sucesso desta semana ou seja famoso por causa do seu sobrenome, sua presença torna as festas de Annabelle mais interessantes. Uma vez por história, você pode entrar na lista de convidados de um evento para o qual não foi convidado anteriormente, simplesmente perguntando “Você sabe quem eu sou?”"
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Glitterati",
+            "text": "Whether you’re this week’s one-hit wonder or are famous by virtue of your last name, your presence makes Annabelle’s parties more interesting. Once per story, you can get on the guest list for an event to which you weren’t previously invited by simply asking “Do you know who I am?”"
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-annabelle-chicago-by-night-v5-3",
+      "book": "chicago-by-night-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Annabelle — Com agradecimentos aos nossos doadores",
+        "en": "Annabelle — With Thanks to Our Donors"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 262 · 3",
+      "pages": [
+        {
+          "pdfPage": 263,
+          "printedPage": 262
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Com agradecimentos aos nossos doadores",
+            "text": "Annabelle conhece alguém em todos os museus e estúdios de gravação da cidade. Uma vez por história, ela mexerá os pauzinhos para conseguir uma reunião com alguém responsável, mas o resto é com você."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "With Thanks to Our Donors",
+            "text": "Annabelle knows someone at every museum and recording studio in town. Once per story, she will pull strings to get you a meeting with someone in charge, but the rest is up to you."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-annabelle-chicago-by-night-v5-4",
+      "book": "chicago-by-night-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Annabelle — Patrocínio",
+        "en": "Annabelle — Patronage"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 262 · 4",
+      "pages": [
+        {
+          "pdfPage": 263,
+          "printedPage": 262
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Patrocínio",
+            "text": "Seus talentos excepcionais atraíram a atenção de Annabelle. Ela convida você para cantar em um encontro exclusivo ou encontra um comprador para sua última pintura. Quando você se apresenta para os associados dela ou quando Annabelle negocia um acordo para sua arte, seus Recursos aumenta em um ponto até o final da história. Isso pode ser usado uma vez por história."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Patronage",
+            "text": "Your exceptional talents have drawn Annabelle’s eye. She invites you to sing at an exclusive gathering, or finds a buyer for your latest painting. When you perform for her associates or when Annabelle brokers a deal for your artwork, your Resources increase by one dot until the end of the story. This may be used once per story."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-annabelle-chicago-by-night-v5-5",
+      "book": "chicago-by-night-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Annabelle — Círculo Interno",
+        "en": "Annabelle — Inner Circle"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Chicago by Night V5, p. 262 · 5",
+      "pages": [
+        {
+          "pdfPage": 263,
+          "printedPage": 262
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Círculo Interno",
+            "text": "Você se mostrou indispensável para Annabelle. Ela atende ao seu julgamento e lhe confia informações confidenciais. Uma vez por história, ela apresentará uma questão de sua escolha (a critério do Narrador) perante o Conselho da Primigênie."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Inner Circle",
+            "text": "You’ve proven indispensable to Annabelle. She heeds your judgment and entrusts you with sensitive information. Once per story, she will present an issue of your choice (at the Storyteller’s discretion) before the Primogen council."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

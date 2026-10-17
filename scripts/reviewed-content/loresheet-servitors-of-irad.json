@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-servitors-of-irad",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Servos de Irad",
+    "en": "Servitors of Irad"
+  },
+  "aliases": [
+    "Servos de Irad",
+    "Servitors of Irad",
+    "Servos de Irad — Escudo de Irad",
+    "Servitors of Irad — Shield of Irad",
+    "Servos de Irad — Espada de Irad",
+    "Servitors of Irad — Sword of Irad",
+    "Servos de Irad — Conheça a Vontade dos Antigos",
+    "Servitors of Irad — Discover the Will of the Ancients",
+    "Servos de Irad — Fazer a Vontade dos Antigos",
+    "Servitors of Irad — Do the Will of the Ancients",
+    "Servos de Irad — Mate Teu Irmão",
+    "Servitors of Irad — Kill Your Brother"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-servitors-of-irad-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Servos de Irad — Escudo de Irad",
+        "en": "Servitors of Irad — Shield of Irad"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 230 · 1",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 230
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Escudo de Irad",
+            "text": "Você sabe ocultar as verdadeiras intenções para fazer o trabalho dos Antediluvianos sem ser descoberto. Receba um dado adicional em rolagens que envolvam mentir para outros Membros."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Shield of Irad",
+            "text": "You know how to hide your true intentions to do the work of the Antediluvians without being discovered. Receive an additional die on rolls that involve lying to others Kindred."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-servitors-of-irad-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Servos de Irad — Espada de Irad",
+        "en": "Servitors of Irad — Sword of Irad"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 230 · 2",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 230
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Espada de Irad",
+            "text": "Sua convicção de agir pela Terceira Geração fortalece suas ações. Uma vez por história, acrescente três dados a uma rolagem essencial aos planos de seu culto."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Sword of Irad",
+            "text": "Your Conviction of acting for the Third Generation strengthens your actions. Once per story, add three dice to a roll essential to your cult's plans."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-servitors-of-irad-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Servos de Irad — Conheça a Vontade dos Antigos",
+        "en": "Servitors of Irad — Discover the Will of the Ancients"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 230 · 3",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 230
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Conheça a Vontade dos Antigos",
+            "text": "Você acredita conhecer a vontade dos Antediluvianos, talvez por vozes ou sonhos proféticos. Enquanto integrar o culto, pode adotar uma Convicção adicional diretamente ligada aos objetivos de sua infiltração. A participação no culto funciona como Pilar dessa Convicção. Ao infiltrar-se noutro grupo, pode mudá-la para refletir a nova missão."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Discover the Will of the Ancients",
+            "text": "You believe you know the will of the Antediluvians, perhaps through prophetic voices or dreams. While you are part of the cult, you can adopt an additional Conviction directly linked to the objectives of your infiltration. Participation in worship functions as Touchstone of this Conviction. When infiltrating another group, you can change it to reflect the new mission."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-servitors-of-irad-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Servos de Irad — Fazer a Vontade dos Antigos",
+        "en": "Servitors of Irad — Do the Will of the Ancients"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 230 · 4",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 230
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Fazer a Vontade dos Antigos",
+            "text": "Sua existência serve aos treze vampiros da Terceira Geração, que um dia se erguerão e destruirão o mundo; seu clã é secundário. Uma vez por história, ignore sua Perdição de clã enquanto for Servo de Irad."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Do the Will of the Ancients",
+            "text": "His existence serves the thirteen Third Generation vampires, who will one day rise and destroy the world; your clan is secondary. Once per story, ignore your clan Bane while you are Servant of Irad."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-servitors-of-irad-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Servos de Irad — Mate Teu Irmão",
+        "en": "Servitors of Irad — Kill Your Brother"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 230 · 5",
+      "pages": [
+        {
+          "pdfPage": 230,
+          "printedPage": 230
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Mate Teu Irmão",
+            "text": "Matar vampiros em nome dos Antediluvianos antecipa a destruição das crias errantes de Caim. Uma vez por história, ao usar arma ou poder para causar dano agravado de Vitalidade a um vampiro, o ataque causa dois pontos adicionais de dano. Se envolver fogo, você não precisa testar resistência ao Frenesi."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Kill Your Brother",
+            "text": "Killing vampires in the name of the Antediluvians anticipates the destruction of Caine's wandering spawn. Once per story, when you use a weapon or power to deal Health aggravated damage to a vampire, the attack deals two additional points of damage. If it involves fire, you don't need to roll Frenzy resistance."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

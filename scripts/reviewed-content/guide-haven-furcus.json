@@ -1,0 +1,173 @@
+{
+  "id": "guide-haven-furcus",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Furcus",
+    "en": "Furcus"
+  },
+  "aliases": [
+    "Furcus",
+    "Furcus"
+  ],
+  "versions": [
+    {
+      "id": "guide-haven-furcus-players-guide-v5-1",
+      "book": "players-guide-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Furcus — 1",
+        "en": "Furcus — 1"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 112",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 114,
+          "printedPage": 112
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Magia favorecida",
+          "en": "Favored magic"
+        },
+        "detailOptions": [
+          "Rituais de Feitiçaria de Sangue / Blood Sorcery Rituals",
+          "Cerimônias de Oblívio / Oblivion Ceremonies"
+        ],
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Seu refúgio fica sobre um nó ou bifurcação das veias da Terra, ou um ponto desgastado do Véu. Invisível à visão comum, mas talvez não a Auspícios ou certos Rituais, ele corresponde a uma área importante: topo de escada, fonte no jardim, centro de sala. Arquitetura + Ocultismo pode permitir deduzir o local a quem saiba o que procurar. Membros sentem a atração da energia; mortais muitas vezes ficam nervosos ou nauseados.\n\nEscolha Rituais de Feitiçaria de Sangue ou Cerimônias de Oblívio ao adquirir a Vantagem. Cada ponto acrescenta um dado às paradas do tipo escolhido realizadas no furcus. A critério do Narrador, também pode subtrair um dado de paradas Sociais para acalmar ou seduzir mortais, ou acrescentar um ao interagir com feiticeiros mortais e interessados no oculto.\n\nFalhas bestiais nesses testes podem trazer resultados especialmente terríveis: energia que fere ou amaldiçoa o feiticeiro, invocação acidental de uma entidade ou pulso mágico claramente originado no refúgio. Conforme a Cerimônia, uma falha total ou bestial pode impor automaticamente o Defeito Assombrado ao refúgio."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your haven lies over a knot or fork in the veins of the Earth, or a frayed spot in the Veil. While invisible to normal sight (though not perhaps to Auspex or various Rituals), it underlies a prominent area: the top of a staircase, a fountain in the garden, the center of a room. (Architecture + Occult might allow someone to deduce its location, if they know what they’re looking for.) Kindred feel the pull of magical energies at the site, and kine often feel nervous or nauseated. Blood Sorcery Rituals or Oblivion Ceremonies (pick when you take this Advantage) tap into the furcus’ power. Each dot in this Merit adds one die to Ritual (or Ceremonial) dice pools used at the furcus. (At the Storyteller’s discretion it may also subtract one die from Social pools used to calm or seduce mortals – or add a die when interacting with mortal hedge magicians or other occult groupies.) Bestial failures on such tests may also lead to especially horrific or eldritch results: energy from the furcus that harms or curses the sorcerer, accidental summoning of an entity, or a clear magical pulse from the haven’s location. Depending on the Ceremony, a total or bestial failure might automatically impose the Haunted Flaw on the haven."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    },
+    {
+      "id": "guide-haven-furcus-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Furcus — 2",
+        "en": "Furcus — 2"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 112",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 114,
+          "printedPage": 112
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Magia favorecida",
+          "en": "Favored magic"
+        },
+        "detailOptions": [
+          "Rituais de Feitiçaria de Sangue / Blood Sorcery Rituals",
+          "Cerimônias de Oblívio / Oblivion Ceremonies"
+        ],
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Seu refúgio fica sobre um nó ou bifurcação das veias da Terra, ou um ponto desgastado do Véu. Invisível à visão comum, mas talvez não a Auspícios ou certos Rituais, ele corresponde a uma área importante: topo de escada, fonte no jardim, centro de sala. Arquitetura + Ocultismo pode permitir deduzir o local a quem saiba o que procurar. Membros sentem a atração da energia; mortais muitas vezes ficam nervosos ou nauseados.\n\nEscolha Rituais de Feitiçaria de Sangue ou Cerimônias de Oblívio ao adquirir a Vantagem. Cada ponto acrescenta um dado às paradas do tipo escolhido realizadas no furcus. A critério do Narrador, também pode subtrair um dado de paradas Sociais para acalmar ou seduzir mortais, ou acrescentar um ao interagir com feiticeiros mortais e interessados no oculto.\n\nFalhas bestiais nesses testes podem trazer resultados especialmente terríveis: energia que fere ou amaldiçoa o feiticeiro, invocação acidental de uma entidade ou pulso mágico claramente originado no refúgio. Conforme a Cerimônia, uma falha total ou bestial pode impor automaticamente o Defeito Assombrado ao refúgio."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your haven lies over a knot or fork in the veins of the Earth, or a frayed spot in the Veil. While invisible to normal sight (though not perhaps to Auspex or various Rituals), it underlies a prominent area: the top of a staircase, a fountain in the garden, the center of a room. (Architecture + Occult might allow someone to deduce its location, if they know what they’re looking for.) Kindred feel the pull of magical energies at the site, and kine often feel nervous or nauseated. Blood Sorcery Rituals or Oblivion Ceremonies (pick when you take this Advantage) tap into the furcus’ power. Each dot in this Merit adds one die to Ritual (or Ceremonial) dice pools used at the furcus. (At the Storyteller’s discretion it may also subtract one die from Social pools used to calm or seduce mortals – or add a die when interacting with mortal hedge magicians or other occult groupies.) Bestial failures on such tests may also lead to especially horrific or eldritch results: energy from the furcus that harms or curses the sorcerer, accidental summoning of an entity, or a clear magical pulse from the haven’s location. Depending on the Ceremony, a total or bestial failure might automatically impose the Haunted Flaw on the haven."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    },
+    {
+      "id": "guide-haven-furcus-players-guide-v5-3",
+      "book": "players-guide-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Furcus — 3",
+        "en": "Furcus — 3"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 112",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 114,
+          "printedPage": 112
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Magia favorecida",
+          "en": "Favored magic"
+        },
+        "detailOptions": [
+          "Rituais de Feitiçaria de Sangue / Blood Sorcery Rituals",
+          "Cerimônias de Oblívio / Oblivion Ceremonies"
+        ],
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Seu refúgio fica sobre um nó ou bifurcação das veias da Terra, ou um ponto desgastado do Véu. Invisível à visão comum, mas talvez não a Auspícios ou certos Rituais, ele corresponde a uma área importante: topo de escada, fonte no jardim, centro de sala. Arquitetura + Ocultismo pode permitir deduzir o local a quem saiba o que procurar. Membros sentem a atração da energia; mortais muitas vezes ficam nervosos ou nauseados.\n\nEscolha Rituais de Feitiçaria de Sangue ou Cerimônias de Oblívio ao adquirir a Vantagem. Cada ponto acrescenta um dado às paradas do tipo escolhido realizadas no furcus. A critério do Narrador, também pode subtrair um dado de paradas Sociais para acalmar ou seduzir mortais, ou acrescentar um ao interagir com feiticeiros mortais e interessados no oculto.\n\nFalhas bestiais nesses testes podem trazer resultados especialmente terríveis: energia que fere ou amaldiçoa o feiticeiro, invocação acidental de uma entidade ou pulso mágico claramente originado no refúgio. Conforme a Cerimônia, uma falha total ou bestial pode impor automaticamente o Defeito Assombrado ao refúgio."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your haven lies over a knot or fork in the veins of the Earth, or a frayed spot in the Veil. While invisible to normal sight (though not perhaps to Auspex or various Rituals), it underlies a prominent area: the top of a staircase, a fountain in the garden, the center of a room. (Architecture + Occult might allow someone to deduce its location, if they know what they’re looking for.) Kindred feel the pull of magical energies at the site, and kine often feel nervous or nauseated. Blood Sorcery Rituals or Oblivion Ceremonies (pick when you take this Advantage) tap into the furcus’ power. Each dot in this Merit adds one die to Ritual (or Ceremonial) dice pools used at the furcus. (At the Storyteller’s discretion it may also subtract one die from Social pools used to calm or seduce mortals – or add a die when interacting with mortal hedge magicians or other occult groupies.) Bestial failures on such tests may also lead to especially horrific or eldritch results: energy from the furcus that harms or curses the sorcerer, accidental summoning of an entity, or a clear magical pulse from the haven’s location. Depending on the Ceremony, a total or bestial failure might automatically impose the Haunted Flaw on the haven."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    }
+  ]
+}

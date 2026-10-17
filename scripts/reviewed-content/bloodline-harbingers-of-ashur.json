@@ -1,0 +1,594 @@
+{
+  "id": "bloodline-harbingers-of-ashur",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Arautos de Ashur",
+    "en": "Harbingers of Ashur"
+  },
+  "aliases": [
+    "Arautos de Ashur",
+    "Harbingers of Ashur",
+    "Arautos de Ashur — A Máscara de Cinzas",
+    "Harbingers of Ashur — The Ashen Mask",
+    "Arautos de Ashur — A Máscara de Ouro",
+    "Harbingers of Ashur — The Gold Mask",
+    "Arautos de Ashur — A Máscara Branca",
+    "Harbingers of Ashur — The White Mask",
+    "Arautos de Ashur — A Máscara de Obsidiana",
+    "Harbingers of Ashur — The Obsidian Mask",
+    "Arautos de Ashur — A Máscara Lazarena",
+    "Harbingers of Ashur — The Lazarene Mask",
+    "Arautos de Ashur — Máscara de Freixo",
+    "Arautos de Ashur — Máscara de Ouro",
+    "Arautos de Ashur — Máscara Branca",
+    "Arautos de Ashur — Máscara de Obsidiana",
+    "Arautos de Ashur — Máscara de Lázaro"
+  ],
+  "versions": [
+    {
+      "id": "bloodline-harbingers-of-ashur-players-guide-v5-1",
+      "book": "players-guide-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Arautos de Ashur — A Máscara de Cinzas",
+        "en": "Harbingers of Ashur — The Ashen Mask"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 226 · 1",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Os Capadócios, donos do rancor mais antigo da Jyhad, eram o Clã da Morte antes da usurpação Giovanni. Considerados destruídos por séculos, teriam adotado máscaras e o nome Arautos das Caveiras; outra versão diz que uma facção já usava o nome Arautos gerações antes. A maioria se juntou ao Sabá e combateu os interesses Giovanni. Durante anos, parecia que só a aniquilação de um lado encerraria o conflito, até a Reunião da Família.\n\nApesar da reconciliação e do reconhecimento dos Capadócios remanescentes, os Arautos das Caveiras não podiam continuar como antes; tampouco os Capadócios podiam voltar ao passado após séculos de ira. Respondem a ambos os nomes, mas são uma síntese dos dois. A forma antiga morreu e fertilizou a terra para algo novo crescer."
+          },
+          {
+            "title": "A Máscara de Cinzas",
+            "text": "Você usa uma máscara simples de freixo: respeita a tradição dos Arautos, mas valoriza o estudo da morte acima de status, glória e vingança. Se um Pilar seu já estiver morto ou morrer após adquirir este benefício, estudar o cadáver permite transferir a Convicção que ele representa para outro mortal como se tivesse morrido em paz. Se realmente morreu em paz, receba um dado adicional no teste de Humanidade. Se outra pessoa interferir com o cadáver, teste contra Frenesi de Fúria com dificuldade 3."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Holding the Jyhad’s longest grudge, the Cappadocians were the Clan of Death before they were usurped by the upstart Giovanni. Believed for centuries to be destroyed, the Cappadocians either took to wearing masks and calling themselves the “Harbingers of Skulls” or a subfaction of the clan named themselves “Harbingers” generations before. Whatever the truth, the majority joined the Sabbat and worked aggressively against Giovanni interests. For many years it was thought that both sides would never stop until one obliterated\n\nthe other, but that appears to have changed with the Family Reunion. Despite the reconciliation and the acknowledgment of the remnants of the Cappadocian Kindred, the Harbingers of Skulls as they were could no longer exist. But neither could the Cappadocians return to their former state after so many centuries of anger. As such, these vampires respond to either name, but they have become some synthesis of the two. Like all things, the past form has died, and enriched the earth so that something new can grow."
+          },
+          {
+            "title": "The Ashen Mask",
+            "text": "You don a plain mask made of ash wood, for while you respect the traditions of the Harbingers, you care more about studying death than status, glory, or revenge. If a Touchstone of yours is dead or dies after you purchase this lore, study of their corpse allows you to transfer the Conviction they represent to another mortal (Vampire: The Masquerade, p. 240) as if they died peacefully. If they actually did, gain a one-die bonus to the Humanity test. If anybody else interferes with the corpse, you must test against fury frenzy at Difficulty 3."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Arautos de Ashur — A Máscara de Ouro",
+        "en": "Harbingers of Ashur — The Gold Mask"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 226 · 2",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Os Capadócios, donos do rancor mais antigo da Jyhad, eram o Clã da Morte antes da usurpação Giovanni. Considerados destruídos por séculos, teriam adotado máscaras e o nome Arautos das Caveiras; outra versão diz que uma facção já usava o nome Arautos gerações antes. A maioria se juntou ao Sabá e combateu os interesses Giovanni. Durante anos, parecia que só a aniquilação de um lado encerraria o conflito, até a Reunião da Família.\n\nApesar da reconciliação e do reconhecimento dos Capadócios remanescentes, os Arautos das Caveiras não podiam continuar como antes; tampouco os Capadócios podiam voltar ao passado após séculos de ira. Respondem a ambos os nomes, mas são uma síntese dos dois. A forma antiga morreu e fertilizou a terra para algo novo crescer."
+          },
+          {
+            "title": "A Máscara de Ouro",
+            "text": "Você usa uma máscara de ouro rosado e busca equilibrar vivos e mortos. Ouro representa riqueza e alquimia; bens funerários unem os dois. Isso permite ocultar suas ações e as da coterie enquanto explora a morte. Ao encobrir uma morte, tenha o equivalente a quatro pontos em Influência."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Holding the Jyhad’s longest grudge, the Cappadocians were the Clan of Death before they were usurped by the upstart Giovanni. Believed for centuries to be destroyed, the Cappadocians either took to wearing masks and calling themselves the “Harbingers of Skulls” or a subfaction of the clan named themselves “Harbingers” generations before. Whatever the truth, the majority joined the Sabbat and worked aggressively against Giovanni interests. For many years it was thought that both sides would never stop until one obliterated\n\nthe other, but that appears to have changed with the Family Reunion. Despite the reconciliation and the acknowledgment of the remnants of the Cappadocian Kindred, the Harbingers of Skulls as they were could no longer exist. But neither could the Cappadocians return to their former state after so many centuries of anger. As such, these vampires respond to either name, but they have become some synthesis of the two. Like all things, the past form has died, and enriched the earth so that something new can grow."
+          },
+          {
+            "title": "The Gold Mask",
+            "text": "You don a rose gold mask, because you strive to balance your existence between the living and the dead. Gold has connections to both wealth and alchemy, with golden grave goods sitting in the perfect intersection between the two. As such, you have the capacity to hide your actions, and the actions of your coterie, as you explore death. You have the equivalent of four dots of Influence when attempting to cover up a death."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur-players-guide-v5-3",
+      "book": "players-guide-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Arautos de Ashur — A Máscara Branca",
+        "en": "Harbingers of Ashur — The White Mask"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 226 · 3",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Os Capadócios, donos do rancor mais antigo da Jyhad, eram o Clã da Morte antes da usurpação Giovanni. Considerados destruídos por séculos, teriam adotado máscaras e o nome Arautos das Caveiras; outra versão diz que uma facção já usava o nome Arautos gerações antes. A maioria se juntou ao Sabá e combateu os interesses Giovanni. Durante anos, parecia que só a aniquilação de um lado encerraria o conflito, até a Reunião da Família.\n\nApesar da reconciliação e do reconhecimento dos Capadócios remanescentes, os Arautos das Caveiras não podiam continuar como antes; tampouco os Capadócios podiam voltar ao passado após séculos de ira. Respondem a ambos os nomes, mas são uma síntese dos dois. A forma antiga morreu e fertilizou a terra para algo novo crescer."
+          },
+          {
+            "title": "A Máscara Branca",
+            "text": "Sua máscara branca como osso, sem sujeira, pertenceu a um Arauto respeitado perdido numa purga histórica. Você fala pelos anciões da linhagem e os Arautos, e até outros Hecata, o escutam. Acrescente três dados a testes sociais contra outro Arauto e dois dados contra outro Hecata."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Holding the Jyhad’s longest grudge, the Cappadocians were the Clan of Death before they were usurped by the upstart Giovanni. Believed for centuries to be destroyed, the Cappadocians either took to wearing masks and calling themselves the “Harbingers of Skulls” or a subfaction of the clan named themselves “Harbingers” generations before. Whatever the truth, the majority joined the Sabbat and worked aggressively against Giovanni interests. For many years it was thought that both sides would never stop until one obliterated\n\nthe other, but that appears to have changed with the Family Reunion. Despite the reconciliation and the acknowledgment of the remnants of the Cappadocian Kindred, the Harbingers of Skulls as they were could no longer exist. But neither could the Cappadocians return to their former state after so many centuries of anger. As such, these vampires respond to either name, but they have become some synthesis of the two. Like all things, the past form has died, and enriched the earth so that something new can grow."
+          },
+          {
+            "title": "The White Mask",
+            "text": "You don a bone-white mask, with not a speck of dirt on it, because it is the mask of a respected Harbinger lost in one of the historic purges. You speak for the elders of your bloodline, and most Harbingers (and even other Hecata) listen to you. You add three dice to any social roll against another Harbinger, and two dice to any social roll against another Hecata."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur-players-guide-v5-4",
+      "book": "players-guide-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Arautos de Ashur — A Máscara de Obsidiana",
+        "en": "Harbingers of Ashur — The Obsidian Mask"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 226 · 4",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Os Capadócios, donos do rancor mais antigo da Jyhad, eram o Clã da Morte antes da usurpação Giovanni. Considerados destruídos por séculos, teriam adotado máscaras e o nome Arautos das Caveiras; outra versão diz que uma facção já usava o nome Arautos gerações antes. A maioria se juntou ao Sabá e combateu os interesses Giovanni. Durante anos, parecia que só a aniquilação de um lado encerraria o conflito, até a Reunião da Família.\n\nApesar da reconciliação e do reconhecimento dos Capadócios remanescentes, os Arautos das Caveiras não podiam continuar como antes; tampouco os Capadócios podiam voltar ao passado após séculos de ira. Respondem a ambos os nomes, mas são uma síntese dos dois. A forma antiga morreu e fertilizou a terra para algo novo crescer."
+          },
+          {
+            "title": "A Máscara de Obsidiana",
+            "text": "Sua máscara preta polida reflete sua verdadeira natureza: você é um fantasma habitando um corpo vampírico. Pela experiência no Mundo Inferior, pode aprender Cerimônias de Oblívio sem professor; se tiver um, o tempo de treinamento cai pela metade. Porém, efeitos que atingem fantasmas, como algumas Cerimônias, também o afetam. Sofra dois dados de penalidade para resistir a eles, mas receba dois dados adicionais contra efeitos que controlem seu corpo, como Dominação."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Holding the Jyhad’s longest grudge, the Cappadocians were the Clan of Death before they were usurped by the upstart Giovanni. Believed for centuries to be destroyed, the Cappadocians either took to wearing masks and calling themselves the “Harbingers of Skulls” or a subfaction of the clan named themselves “Harbingers” generations before. Whatever the truth, the majority joined the Sabbat and worked aggressively against Giovanni interests. For many years it was thought that both sides would never stop until one obliterated\n\nthe other, but that appears to have changed with the Family Reunion. Despite the reconciliation and the acknowledgment of the remnants of the Cappadocian Kindred, the Harbingers of Skulls as they were could no longer exist. But neither could the Cappadocians return to their former state after so many centuries of anger. As such, these vampires respond to either name, but they have become some synthesis of the two. Like all things, the past form has died, and enriched the earth so that something new can grow."
+          },
+          {
+            "title": "The Obsidian Mask",
+            "text": "You don a polished black mask, because you are more than just a vampire — you are truly half-dead. You are a wraith that has inhabited a vampire’s body. You may learn Oblivion Ceremonies without a teacher (and with half the training time if you have one anyway) due to your experience in the Underworld, but are vulnerable to effects which target ghosts (such as some Oblivion Ceremonies). You suffer a two-dice penalty to resist these effects, but gain a two-dice bonus when resisting effects that control your physical shell (such as Dominate)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur-players-guide-v5-5",
+      "book": "players-guide-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Arautos de Ashur — A Máscara Lazarena",
+        "en": "Harbingers of Ashur — The Lazarene Mask"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 226 · 5",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 228,
+          "printedPage": 226
+        },
+        {
+          "pdfPage": 116,
+          "printedPage": 114
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Linhagem",
+            "text": "Os Capadócios, donos do rancor mais antigo da Jyhad, eram o Clã da Morte antes da usurpação Giovanni. Considerados destruídos por séculos, teriam adotado máscaras e o nome Arautos das Caveiras; outra versão diz que uma facção já usava o nome Arautos gerações antes. A maioria se juntou ao Sabá e combateu os interesses Giovanni. Durante anos, parecia que só a aniquilação de um lado encerraria o conflito, até a Reunião da Família.\n\nApesar da reconciliação e do reconhecimento dos Capadócios remanescentes, os Arautos das Caveiras não podiam continuar como antes; tampouco os Capadócios podiam voltar ao passado após séculos de ira. Respondem a ambos os nomes, mas são uma síntese dos dois. A forma antiga morreu e fertilizou a terra para algo novo crescer."
+          },
+          {
+            "title": "A Máscara Lazarena",
+            "text": "Sua máscara retrata um fundador do clã: você conhece o segredo dos Arautos. A cruzada nunca foi apenas destruir os Giovanni, mas aniquilar todos os que servem ao Clã da Morte. A etapa final da necromancia seria morrer e tornar-se senhor da morte. Você não recebe Máculas por ações tomadas para matar outro Membro Hecata ou qualquer personagem que sirva aos Hecata."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloodline",
+            "text": "Holding the Jyhad’s longest grudge, the Cappadocians were the Clan of Death before they were usurped by the upstart Giovanni. Believed for centuries to be destroyed, the Cappadocians either took to wearing masks and calling themselves the “Harbingers of Skulls” or a subfaction of the clan named themselves “Harbingers” generations before. Whatever the truth, the majority joined the Sabbat and worked aggressively against Giovanni interests. For many years it was thought that both sides would never stop until one obliterated\n\nthe other, but that appears to have changed with the Family Reunion. Despite the reconciliation and the acknowledgment of the remnants of the Cappadocian Kindred, the Harbingers of Skulls as they were could no longer exist. But neither could the Cappadocians return to their former state after so many centuries of anger. As such, these vampires respond to either name, but they have become some synthesis of the two. Like all things, the past form has died, and enriched the earth so that something new can grow."
+          },
+          {
+            "title": "The Lazarene Mask",
+            "text": "You don the mask engraved in the image of one of the clan founders, for you know the true secret of the Harbingers. Their crusade was never solely about destroying the Giovanni, but annihilating all those who serve the Clan of Death. The final stage of necromancy is for all who practice it to die, and become the masters of death. You incur no stains for any action taken in the pursuit of killing another Hecata Kindred, or any character who serves the Hecata."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur-cultos-deuses-sangue-v5-1",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Arautos de Ashur — Máscara de Freixo",
+        "en": "Harbingers of Ashur — The Ashen Mask"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 224 · 1",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 224,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Máscara de Freixo",
+            "text": "Você usa uma máscara simples de freixo: respeita a tradição dos Arautos, mas valoriza o estudo da morte acima de status, glória e vingança. Se um Pilar seu já estiver morto ou morrer após adquirir este benefício, estudar o cadáver permite transferir a Convicção que ele representa para outro mortal como se tivesse morrido em paz. Se realmente morreu em paz, receba um dado adicional no teste de Humanidade. Se outra pessoa interferir com o cadáver, teste contra Frenesi de Fúria com dificuldade 3. A Convicção só permanece sem um Pilar mortal enquanto o cadáver original não se decompor a ponto de ser irreconhecível."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Ashen Mask",
+            "text": "You don a plain mask made of ash wood, for while you respect the traditions of the Harbingers, you care more about studying death than status, glory, or revenge. If a Touchstone of yours is dead or dies after you purchase this lore, study of their corpse allows you to transfer the Conviction they represent to another mortal (Vampire: The Masquerade, p. 240) as if they died peacefully. If they actually did, gain a one-die bonus to the Humanity test. If anybody else interferes with the corpse, you must test against fury frenzy at Difficulty 3. The Conviction remains without a mortal Touchstone only while the original corpse has not decayed beyond recognition."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur-cultos-deuses-sangue-v5-2",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Arautos de Ashur — Máscara de Ouro",
+        "en": "Harbingers of Ashur — The Gold Mask"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 224 · 2",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 224,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Máscara de Ouro",
+            "text": "Você usa uma máscara de ouro rosado e busca equilibrar vivos e mortos. Ouro representa riqueza e alquimia; bens funerários unem os dois. Isso permite ocultar suas ações e as da coterie enquanto explora a morte. Ao encobrir uma morte, tenha o equivalente a quatro pontos em Influência."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Gold Mask",
+            "text": "You don a rose gold mask, because you strive to balance your existence between the living and the dead. Gold has connections to both wealth and alchemy, with golden grave goods sitting in the perfect intersection between the two. As such, you have the capacity to hide your actions, and the actions of your coterie, as you explore death. You have the equivalent of four dots of Influence when attempting to cover up a death."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur-cultos-deuses-sangue-v5-3",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Arautos de Ashur — Máscara Branca",
+        "en": "Harbingers of Ashur — The White Mask"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 224 · 3",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 224,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Máscara Branca",
+            "text": "Sua máscara branca como osso, sem sujeira, pertenceu a um Arauto respeitado perdido numa purga histórica. Você fala pelos anciões da linhagem e os Arautos, e até outros Hecata, o escutam. Acrescente três dados a testes sociais contra outro Arauto e dois dados contra outro Hecata."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "The White Mask",
+            "text": "You don a bone-white mask, with not a speck of dirt on it, because it is the mask of a respected Harbinger lost in one of the historic purges. You speak for the elders of your bloodline, and most Harbingers (and even other Hecata) listen to you. You add three dice to any social roll against another Harbinger, and two dice to any social roll against another Hecata."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur-cultos-deuses-sangue-v5-4",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Arautos de Ashur — Máscara de Obsidiana",
+        "en": "Harbingers of Ashur — The Obsidian Mask"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 224 · 4",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 224,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Máscara de Obsidiana",
+            "text": "Sua máscara preta polida reflete sua verdadeira natureza: você é um fantasma habitando um corpo vampírico. Pela experiência no Mundo Inferior, pode aprender Cerimônias de Oblívio sem professor; se tiver um, o tempo de treinamento cai pela metade. Porém, efeitos que atingem fantasmas, como algumas Cerimônias, também o afetam. Sofra dois dados de penalidade para resistir a eles, mas receba dois dados adicionais contra efeitos que controlem seu corpo, como Dominação."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Obsidian Mask",
+            "text": "You don a polished black mask, because you are more than just a vampire — you are truly half-dead. You are a wraith that has inhabited a vampire’s body. You may learn Oblivion Ceremonies without a teacher (and with half the training time if you have one anyway) due to your experience in the Underworld, but are vulnerable to effects which target ghosts (such as some Oblivion Ceremonies). You suffer a two-dice penalty to resist these effects, but gain a two-dice bonus when resisting effects that control your physical shell (such as Dominate)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "bloodline-harbingers-of-ashur-cultos-deuses-sangue-v5-5",
+      "book": "cultos-deuses-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Arautos de Ashur — Máscara de Lázaro",
+        "en": "Harbingers of Ashur — The Lazarene Mask"
+      },
+      "sourceTitle": "Cultos dos Deuses de Sangue V5, p. 224 · 5",
+      "sourceLanguage": "pt-BR",
+      "pages": [
+        {
+          "pdfPage": 224,
+          "printedPage": 224
+        },
+        {
+          "pdfPage": 219,
+          "printedPage": 219
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "loresheetGroup": "bloodline",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Máscara de Lázaro",
+            "text": "Sua máscara retrata um fundador do clã: você conhece o segredo dos Arautos. A cruzada nunca foi apenas destruir os Giovanni, mas aniquilar todos os que servem ao Clã da Morte. A etapa final da necromancia seria morrer e tornar-se senhor da morte. Você não recebe Máculas por ações tomadas para matar outro Membro Hecata ou qualquer personagem que sirva aos Hecata."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é independente: pague seu valor completo em pontos, ou 3 XP por ponto durante o jogo com aprovação do Narrador. Não exige nem concede os níveis inferiores. Você pode ter uma Linhagem de Sangue e uma Ficha de Conhecimento comum. Efeitos de cena, personagens coadjuvantes e concessões narrativas são resolvidos com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Lazarene Mask",
+            "text": "You don the mask engraved in the image of one of the clan founders, for you know the true secret of the Harbingers. Their crusade was never solely about destroying the Giovanni, but annihilating all those who serve the Clan of Death. The final stage of necromancy is for all who practice it to die, and become the masters of death. You incur no stains for any action taken in the pursuit of killing another Hecata Kindred, or any character who serves the Hecata."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Each benefit is independent: pay its full dot rating, or 3 XP per dot during play with Storyteller approval. It neither requires nor grants lower ranks. You may have one Bloodline and one ordinary Loresheet. Resolve scene effects, supporting characters and narrative grants with the Storyteller."
+          }
+        ]
+      }
+    }
+  ]
+}

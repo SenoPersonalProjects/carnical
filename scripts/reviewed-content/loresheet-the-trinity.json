@@ -1,0 +1,249 @@
+{
+  "id": "loresheet-the-trinity",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "A Trindade",
+    "en": "The Trinity"
+  },
+  "aliases": [
+    "A Trindade",
+    "The Trinity",
+    "A Trindade — Constantinopla",
+    "The Trinity — Constantinople",
+    "A Trindade — A Arquitetura de Antonius",
+    "The Trinity — The Architecture of Antonius",
+    "A Trindade — Sonho",
+    "The Trinity — Dream",
+    "A Trindade — Dracon",
+    "The Trinity — Dracon",
+    "A Trindade — A Nova Trindade",
+    "The Trinity — The New Trinity"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-the-trinity-core-v5-1",
+      "book": "core-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "A Trindade — Constantinopla",
+        "en": "The Trinity — Constantinople"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 393 · 1",
+      "pages": [
+        {
+          "pdfPage": 397,
+          "printedPage": 393
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Constantinopla",
+            "text": "Fora da Ashirra, a tradição vampírica refere-se a Istambul como “Constantinopla”. Você é um dos poucos que sabem o porquê. Constantinopla representou tudo o que era possível em uma cidade onde vampiros compartilhavam ideias e discutiam filosofia sem acabar em carnificina. Uma vez por história, você pode perguntar ao Narrador sobre o passado de Constantinopla e receber uma resposta precisa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Constantinople",
+            "text": "Outside of Ashirra, vampire lore refers to Istanbul as “Constantinople.” You are one of the few who know why. Constantinople represented everything that was possible in a city where vampires shared ideas and discussed philosophy without ending in carnage. Once per story, you can ask Storyteller about Constantinople's past and receive an accurate answer."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-trinity-core-v5-2",
+      "book": "core-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "A Trindade — A Arquitetura de Antonius",
+        "en": "The Trinity — The Architecture of Antonius"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 393 · 2",
+      "pages": [
+        {
+          "pdfPage": 397,
+          "printedPage": 393
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Arquitetura de Antonius",
+            "text": "Renomado por suas habilidades como arquiteto politico e físico, o Ventrue Antonius construiu a estrutura que sustentou Constantinopla. Para alguns, ele engendrou o ideal da Primigênie. Você estuda os métodos de Antonius; você pode adicionar dois dados a qualquer parada de dados de Política ao realizar um teste que envolva o governo de um domínio. Uma vez por história, você pode mediar e acalmar qualquer debate na corte, esmagando atitudes violentas com ações ou profundidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Architecture of Antonius",
+            "text": "Renowned for his skills as a political and physical architect, Ventrue Antonius built the structure that supported Constantinople. For some, he engendered the ideal of the Firstborn. You study the methods of Antonius; You can add two dice to any Politics dice pool when performing a test that involves governing a domain. Once per story, you can mediate and calm any court debate, crushing violent attitudes with actions or depth."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-trinity-core-v5-3",
+      "book": "core-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "A Trindade — Sonho",
+        "en": "The Trinity — Dream"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 393 · 3",
+      "pages": [
+        {
+          "pdfPage": 397,
+          "printedPage": 393
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Sonho",
+            "text": "Por um milênio, a Trindade praticou o Sonho de Michael: uma visão da utopia vampírica. Michael encorajou todos os vampiros em Constantinopla a aprenderem e buscarem o esclarecimento, distanciarem-se da Besta e tornarem-se algo mais do que meros predadores. Você é um expoente moderno do sonho, reconhecido como um Orador do Sonho na sua cidade. Você pode adicionar um dado a qualquer parada de dados de Sagacidade ao testar para sondar a Besta de outro Membro. Você inspira e acalma almas; uma vez por história, você pode gastar um ponto de Força de Vontade para permitir que outro vampiro rerrole até três dados ao resistir a um frenesi."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Dream",
+            "text": "For a millennium, the Trinity has practiced Michael's Dream: a vision of vampire utopia. Michael encouraged all vampires in Constantinople to learn and seek enlightenment, distance themselves from the Beast and become something more than mere predators. You are a modern exponent of the dream, recognized as a Dream Speaker in your city. You may add a die to any Insight dice pool when rolling to probe another Kindred's Beast. You inspire and soothe souls; Once per story, you may spend a point of Willpower to allow another vampire to reroll up to three dice when resisting a frenzy."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-trinity-core-v5-4",
+      "book": "core-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "A Trindade — Dracon",
+        "en": "The Trinity — Dracon"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 393 · 4",
+      "pages": [
+        {
+          "pdfPage": 397,
+          "printedPage": 393
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Dracon",
+            "text": "Da Trindade, apenas o Tzimisce conhecido como Dracon sobreviveu à queda de Constantinopla. Apaixonado e sábio, amante de ambos, Antoninus e Michael, e guia espiritual da Trindade, o enlutado Dracon permaneceu em silêncio por muitos séculos após o assassinato de Antonius. Segundo os rumores, Dracon ressurgiu, com intenções obscuras. Você é um dos discípulos dele, e provavelmente sabe como encontrá-lo. Ele é um Mawla de cinco pontos, auxiliando-o em questões espirituais e relacionadas às Disciplinas."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Dracon",
+            "text": "Of the Trinity, only the Tzimisce known as Dracon survived the fall of Constantinople. Passionate and wise, lover of both Antoninus and Michael, and spiritual guide to the Trinity, the grieving Dracon remained silent for many centuries after Antonius' murder. According to rumors, Dracon has resurfaced, with dark intentions. You're one of his disciples, and you probably know how to find him. He is a five-point Mawla, assisting you in spiritual and Discipline-related matters."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-the-trinity-core-v5-5",
+      "book": "core-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "A Trindade — A Nova Trindade",
+        "en": "The Trinity — The New Trinity"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Livro Básico V5, p. 393 · 5",
+      "pages": [
+        {
+          "pdfPage": 397,
+          "printedPage": 393
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "A Nova Trindade",
+            "text": "Uma noite dessas, a Constantinopla de Michael se reerguerá, e você ajudará na reconstrução. Não é o frágil ego que lhe dá essa certeza, mas a infalível profecia. Você, junto de dois outros que complementam suas habilidades sem as espelhar, reconstruirão Constantinopla em uma nova cidade — não importando o que deva ser feito. Se você adquirir Máculas no decorrer dessa missão, poderá remover até cinco delas por história antes de realizar um teste de Remorso (pág. 239)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The New Trinity",
+            "text": "One of these nights, Michael's Constantinople will rise again, and you will help rebuild it. It is not the fragile ego that gives you this certainty, but the infallible prophecy. You, along with two others who complement your skills without mirroring them, will rebuild Constantinople into a new city—no matter what must be done. If you acquire Stains during the course of this quest, you can remove up to five of them per story before performing a Remorse test (p. 239)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

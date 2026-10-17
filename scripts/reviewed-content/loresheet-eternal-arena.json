@@ -1,0 +1,257 @@
+{
+  "id": "loresheet-eternal-arena",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "A Arena Eterna",
+    "en": "The Eternal Arena"
+  },
+  "aliases": [
+    "A Arena Eterna",
+    "The Eternal Arena",
+    "A Arena Eterna — Ancestralidade Sangrenta",
+    "The Eternal Arena — Bloody Ancestry",
+    "A Arena Eterna — Pode vir",
+    "The Eternal Arena — Bring It On",
+    "A Arena Eterna — Análise de Combate",
+    "The Eternal Arena — Combat Analysis",
+    "A Arena Eterna — Gerente Talentoso",
+    "The Eternal Arena — Talented Manager",
+    "A Arena Eterna — Morrer Difícil",
+    "The Eternal Arena — Die Hard"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-eternal-arena-gehenna-war-v5-1",
+      "book": "gehenna-war-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "A Arena Eterna — Ancestralidade Sangrenta",
+        "en": "The Eternal Arena — Bloody Ancestry"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Gehenna War V5, p. 158 · 1",
+      "pages": [
+        {
+          "pdfPage": 160,
+          "printedPage": 158
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Ancestralidade Sangrenta",
+            "text": "Você segue um Matusalém rastreando seus descendentes. Você possui e mantém notas sobre ancestrais vampíricos relativos aos vampiros em sua região em formato físico ou digital. Você recebe um bônus de dados de +2 em todos os testes Ocultismo ao investigar a ancestralidade de qualquer vampiro."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          },
+          {
+            "title": "Nota sobre a fonte",
+            "text": "Esta fonte contém redação ambígua, mantida sem criar uma regra alternativa. Consulte a página original e confirme a aplicação com o Narrador."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bloody Ancestry",
+            "text": "You trail a methuselah by tracking their descendants. You own and maintain notes on vampiric ancestry concerning vampires in your region in a physical or digital form. You receive a +2 dice bonus to all Occult tests when investigating the ancestry of any vampire."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          },
+          {
+            "title": "Source note",
+            "text": "This source contains ambiguous wording, preserved without inventing an alternative rule. Consult the original page and confirm its application with the Storyteller."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-eternal-arena-gehenna-war-v5-2",
+      "book": "gehenna-war-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "A Arena Eterna — Pode vir",
+        "en": "The Eternal Arena — Bring It On"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Gehenna War V5, p. 158 · 2",
+      "pages": [
+        {
+          "pdfPage": 160,
+          "printedPage": 158
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Pode vir",
+            "text": "Você lutou na Arena Eterna ou em um torneio de sangue Membros semelhante. Uma vez por história, você pode incitar um alvo a uma luta física com você. Pelo resto da cena, eles entrarão em combate apenas com você. Alvos que se colocariam em perigo letal ao fazer isso devem primeiro ser superados em um teste Carisma + Briga vs Autocontrole + Sagacidade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Bring It On",
+            "text": "You’ve fought at the Eternal Arena or a similar Kindred blood tournament. Once per story, you can goad a target into a physical fight with you. For the rest of the scene, they’ll engage in combat with only you. Targets that would put themselves in lethal danger by doing this must first be bested in a Charisma + Brawl vs Composure + Insight test."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-eternal-arena-gehenna-war-v5-3",
+      "book": "gehenna-war-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "A Arena Eterna — Análise de Combate",
+        "en": "The Eternal Arena — Combat Analysis"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Gehenna War V5, p. 158 · 3",
+      "pages": [
+        {
+          "pdfPage": 160,
+          "printedPage": 158
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Análise de Combate",
+            "text": "Os esportes sangrentos exigem uma mente tática. Você acompanhou as façanhas dos melhores lutadores vampiros em seu domínio, aprendendo como eles abordam cada partida. Você não vê as lutas como lutas desesperadas, mas como quebra-cabeças que você pode resolver. Uma vez por sessão durante um conflito físico, você pode fazer um teste Inteligência + Percepção na Dificuldade 3 antes de fazer um ataque. Se vencer, você recebe dois dados adicionais em sua próxima ação de ataque físico."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Combat Analysis",
+            "text": "Blood sports require a tactical mind. You’ve followed the exploits of the best vampire fighters in your domain, learning from how they approach each match. You don’t see fights as desperate struggles, but as puzzles you can solve. Once per session during a physical conflict, you may make an Intelligence + Awareness test at Difficulty 3 before making an attack. On a win, you receive two additional dice on your next physical attack action."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-eternal-arena-gehenna-war-v5-4",
+      "book": "gehenna-war-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "A Arena Eterna — Gerente Talentoso",
+        "en": "The Eternal Arena — Talented Manager"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Gehenna War V5, p. 158 · 4",
+      "pages": [
+        {
+          "pdfPage": 160,
+          "printedPage": 158
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Gerente Talentoso",
+            "text": "Você é um organizador ou treinador de um clube de luta underground ou outro encontro de pugilistas Membros com ideias semelhantes. Você tira o melhor proveito deles e seus talentos se estendem a qualquer um que lute com você. Uma vez por sessão, quando você lidera um grupo de pessoas em uma luta envolvendo Briga ou Armas Brancas, você ganha quatro dados de bônus em qualquer teste de Liderança."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Talented Manager",
+            "text": "You’re an organizer or coach in an underground fight club or other gathering of likeminded Kindred pugilists. You pull the best out of them, and your talents extend to anyone who fights with you. Once per session, when you lead a group of people through a fight involving Brawl or Melee, you gain four bonus dice on any Leadership tests."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-eternal-arena-gehenna-war-v5-5",
+      "book": "gehenna-war-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "A Arena Eterna — Morrer Difícil",
+        "en": "The Eternal Arena — Die Hard"
+      },
+      "sourceLanguage": "en",
+      "sourceTitle": "Gehenna War V5, p. 158 · 5",
+      "pages": [
+        {
+          "pdfPage": 160,
+          "printedPage": 158
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Morrer Difícil",
+            "text": "Em seu tempo na cova, você enfrentou a morte final muitas vezes. Uma noite, isso virá para você, mas quando isso acontecer, você sabe como conseguir mais um momento. Uma vez por história, quando você enfrenta a morte final devido a um conflito ou ato violento, você sobrevive, desde que consiga descrever como isso aconteceu. (O Narrador deve decidir se esta explicação é plausível, mas se não for, eles devem lhe dar a oportunidade de ter uma ideia melhor.) Isso não repara mais nenhum dano que você sofreu do que o absolutamente necessário para sobreviver, nem garante que você não acabará nas mãos daqueles ansiosos para tornar sua não vida prolongada ainda pior."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Die Hard",
+            "text": "In your time in the pit, you’ve brushed up against final death many times. One night, it’ll come for you, but when it does, you know how to get one more moment. Once per story, when you face final death due to a violent conflict or act, you survive, as long as you can describe how it happened. (The Storyteller must decide if this explanation is plausible, but if it isn’t, they should provide you with the opportunity to come up with a better idea.) This does not mend any more damage you suffered than is absolutely required to survive, nor does it guarantee that you won’t end up in the hands of those eager to make your extended unlife even worse."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

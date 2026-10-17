@@ -1,0 +1,248 @@
+{
+  "id": "loresheet-victoria-ash",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Victoria Ash",
+    "en": "Victoria Ash"
+  },
+  "aliases": [
+    "Victoria Ash",
+    "Victoria Ash — O Beijo Cinzento",
+    "Victoria Ash — The Gray Kiss",
+    "Victoria Ash — Convite Vermillion",
+    "Victoria Ash — Vermillion Invitation",
+    "Victoria Ash — O que os Torna Marcantes",
+    "Victoria Ash — What Makes Them Remarkable",
+    "Victoria Ash — Afetos da celebridade",
+    "Victoria Ash — Celebrity affections",
+    "Victoria Ash — Patrono, Amante, Companheiro",
+    "Victoria Ash — Patron, Lover, Companion"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-victoria-ash-camarilla-v5-1",
+      "book": "camarilla-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Victoria Ash — O Beijo Cinzento",
+        "en": "Victoria Ash — The Gray Kiss"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 190 · 1",
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O Beijo Cinzento",
+            "text": "Em algum momento você dançou, beijou, ou mesmo dormiu com Victoria Ash. Isso não faz de você uma raridade, mas torna você especial. Victoria tem uma memória perfeita para rostos e encontros íntimos que remontam a séculos(alguns suspeitam que é como ela se agarra a sua humanidade). Dificuldades de Sociais em testes envolvendo Victoria Ash ou alguém conectado a ela é reduzido em 1."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "The Gray Kiss",
+            "text": "At some point you danced, kissed, or even slept with Victoria Ash. That doesn't make you rare, but it makes you special. Victoria has a perfect memory for faces and intimate encounters that go back centuries (some suspect it's how she holds on to her Humanity). Social Difficulties on rolls involving Victoria Ash or someone connected to her is reduced by 1."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-victoria-ash-camarilla-v5-2",
+      "book": "camarilla-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Victoria Ash — Convite Vermillion",
+        "en": "Victoria Ash — Vermillion Invitation"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 190 · 2",
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Convite Vermillion",
+            "text": "Talvez você foi um convidado no casamento Vermilion ou você apenas conhece um dos participantes bem o suficiente para descrever o que aconteceu. Isso permite que você reconheça aqueles que compareceram ao casamento, suas funções, e onde eles estavam na questão de união entre as seitas. Uma vez por história você pode usar esta informação para chantagear, contar histórias ou se relacionar com outros participantes desta reunião tensa de uma maneira familiar, ganhando um bônus de três dados para um teste social, desde que você possa vir com uma explicação plausível."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Vermillion Invitation",
+            "text": "Maybe you were a guest at the Vermilion wedding or you just know one of the attendees well enough to describe what happened. This allows you to recognize those who attended the wedding, their roles, and where they stood on the issue of unity between the sects. Once per story you can use this information to blackmail, tell stories, or bond with other participants in this tense meeting in a familiar way, gaining a three-dice bonus to a social roll, provided you can come up with a plausible explanation."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-victoria-ash-camarilla-v5-3",
+      "book": "camarilla-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Victoria Ash — O que os Torna Marcantes",
+        "en": "Victoria Ash — What Makes Them Remarkable"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 190 · 3",
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "O que os Torna Marcantes",
+            "text": "Victoria Ash é uma especialista em ler pessoas. Ela sabe como obter o seus segredos mais sensíveis e explorá-los ensinando-lhe alguns truques. Você ganha dois dados extras em Sagacidade ao examinar um alvo para ver suas vulnerabilidades."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "What Makes Them Remarkable",
+            "text": "Victoria Ash is an expert at reading people. She knows how to get your most sensitive secrets and explore them by teaching you some tricks. You gain two extra dice in Insight when scanning a target for its vulnerabilities."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-victoria-ash-camarilla-v5-4",
+      "book": "camarilla-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Victoria Ash — Afetos da celebridade",
+        "en": "Victoria Ash — Celebrity affections"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 190 · 4",
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Afetos da celebridade",
+            "text": "Imitando as histórias de Victoria Ash, você também tem acesso a um tour bem abastecido para facilitar o trânsito entre domínios e uma pequena equipe de roadies. Quer você se disfarce de cantor, mágico, ator ou qualquer outra forma de entretenimento, cabe a você. Isso é equivalente a dois pontos em Refúgio (Casa Móvel) e dois pontos no rebanho ou lacaios (Roadies)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Celebrity affections",
+            "text": "Emulating Victoria Ash's stories, you also have access to a well-stocked touring vehicle for easy cross-domain travel and a small team of roadies. Whether you disguise yourself as a singer, magician, actor or any other form of entertainment, it's up to you. This is equivalent to two points in Haven (Mobile Home) and two points in Herd or Retainers (Roadies)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-victoria-ash-camarilla-v5-5",
+      "book": "camarilla-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Victoria Ash — Patrono, Amante, Companheiro",
+        "en": "Victoria Ash — Patron, Lover, Companion"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Camarilla V5, p. 190 · 5",
+      "pages": [
+        {
+          "pdfPage": 191,
+          "printedPage": 190
+        }
+      ],
+      "requirements": {
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Patrono, Amante, Companheiro",
+            "text": "Você ocupa um lugar importante no coração de Victoria. Uma vez por crônica ela moverá céu e terra para protegê-lo, potencialmente lucrando com a boa vontade que ela carrega com a Camarilla fazendo seus crimes serem negligenciados. Durante uma sessão inteira ela conta como cinco pontos de Mawla e fornece três pontos de Status."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Patron, Lover, Companion",
+            "text": "You hold an important place in Victoria's heart. Once per chronicle she will move heaven and earth to protect you, potentially cashing in on the goodwill she carries with the Camarilla by making your crimes overlooked. During an entire session it counts as five points of Mawla and provides three points of Status."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

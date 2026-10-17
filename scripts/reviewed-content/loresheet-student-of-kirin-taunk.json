@@ -1,0 +1,279 @@
+{
+  "id": "loresheet-student-of-kirin-taunk",
+  "kind": "loresheet",
+  "names": {
+    "pt-BR": "Estudante de Kirin Taunk",
+    "en": "Student of Kirin Taunk"
+  },
+  "aliases": [
+    "Estudante de Kirin Taunk",
+    "Student of Kirin Taunk",
+    "Estudante de Kirin Taunk — Eficiência impressionante",
+    "Student of Kirin Taunk — Impressive efficiency",
+    "Estudante de Kirin Taunk — Mentalidade Profissional",
+    "Student of Kirin Taunk — Professional Mindset",
+    "Estudante de Kirin Taunk — Uma Fórmula Taunk",
+    "Student of Kirin Taunk — A Taunk Formula",
+    "Estudante de Kirin Taunk — Poder Diplomático",
+    "Student of Kirin Taunk — Diplomatic Power",
+    "Estudante de Kirin Taunk — Patrono de Taunk",
+    "Student of Kirin Taunk — Taunk Patron"
+  ],
+  "versions": [
+    {
+      "id": "loresheet-student-of-kirin-taunk-sigilos-de-sangue-v5-1",
+      "book": "sigilos-de-sangue-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Estudante de Kirin Taunk — Eficiência impressionante",
+        "en": "Student of Kirin Taunk — Impressive efficiency"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 178 · 1",
+      "pages": [
+        {
+          "pdfPage": 180,
+          "printedPage": 178
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        },
+        "loresheetGroup": "lore",
+        "independentChoice": "1",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Eficiência impressionante",
+            "text": "A velocidade de destilação de Kirin Taunk era lendária. Você a igualou e superá-la está ao seu alcance. Todos os tempos de destilação de fórmulas são reduzidos pela metade."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Impressive efficiency",
+            "text": "Kirin Taunk's distillation speed was legendary. You have equaled it and surpassing it is within your reach. All formula distillation times are halved."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-student-of-kirin-taunk-sigilos-de-sangue-v5-2",
+      "book": "sigilos-de-sangue-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Estudante de Kirin Taunk — Mentalidade Profissional",
+        "en": "Student of Kirin Taunk — Professional Mindset"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 178 · 2",
+      "pages": [
+        {
+          "pdfPage": 180,
+          "printedPage": 178
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        },
+        "loresheetGroup": "lore",
+        "independentChoice": "2",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Mentalidade Profissional",
+            "text": "Estudar A vida de Taunk lhe ensinou que é melhor deixe seu trabalho falar por si. Uma vez por sessão e a critério do Narrador, você pode usar sua classificação de pontos em Alquimia do Sangue-Fraco em vez de quaisquer habilidades sociais com uma classificação mais baixa."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Professional Mindset",
+            "text": "Studying Taunk's life has taught him that it's best to let your work speak for itself. Once per session and at Storyteller's discretion, you may use your point rating in Thin-Blood Alchemy instead of any social skills with a lower rating."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-student-of-kirin-taunk-sigilos-de-sangue-v5-3",
+      "book": "sigilos-de-sangue-v5",
+      "level": 3,
+      "names": {
+        "pt-BR": "Estudante de Kirin Taunk — Uma Fórmula Taunk",
+        "en": "Student of Kirin Taunk — A Taunk Formula"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 178 · 3",
+      "pages": [
+        {
+          "pdfPage": 180,
+          "printedPage": 178
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        },
+        "loresheetGroup": "lore",
+        "independentChoice": "3",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Uma Fórmula Taunk",
+            "text": "Através de muito trabalho ou muito esforço, você obteve uma lasca das notas alquímicas de Kirin Taunk. Escolha uma fórmula de qualquer nível. Você pode comprá-la sem custo de experiência, mas não poderá usá-la até que sua Alquimia do Sangue-Fraco atinja o nível desejado. Adicione dois dados ao seu teste de Destilação para essa fórmula."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "A Taunk Formula",
+            "text": "Through hard work or effort, you have obtained a sliver of Kirin Taunk's alchemical notes. Choose a formula from any level. You can buy it at no experience cost, but you won't be able to use it until your Thin-Blood Alchemy reaches the desired level. Add two dice to your Distillation roll for this formula."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-student-of-kirin-taunk-sigilos-de-sangue-v5-4",
+      "book": "sigilos-de-sangue-v5",
+      "level": 4,
+      "names": {
+        "pt-BR": "Estudante de Kirin Taunk — Poder Diplomático",
+        "en": "Student of Kirin Taunk — Diplomatic Power"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 178 · 4",
+      "pages": [
+        {
+          "pdfPage": 180,
+          "printedPage": 178
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        },
+        "loresheetGroup": "lore",
+        "independentChoice": "4",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Poder Diplomático",
+            "text": "Kirin Taunk era uma força social da natureza, capaz de se integrar tanto à Camarilla quanto aos Anarchs. Embora eventos recentes acentuem as divisões entre as duas seitas, você se porta com graça e charme suficientes para que essas divisões lhe signifiquem pouco. Você tem Status •• (Camarilla) e Status •• (Anarch)."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Diplomatic Power",
+            "text": "Kirin Taunk was a social Strength by nature, capable of integrating with both the Camarilla and the Anarchs. Although recent events sharpen divisions between the two sects, you carry yourself with enough grace and charm that these divisions mean little to you. You have Status •• (Camarilla) and Status •• (Anarch)."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    },
+    {
+      "id": "loresheet-student-of-kirin-taunk-sigilos-de-sangue-v5-5",
+      "book": "sigilos-de-sangue-v5",
+      "level": 5,
+      "names": {
+        "pt-BR": "Estudante de Kirin Taunk — Patrono de Taunk",
+        "en": "Student of Kirin Taunk — Taunk Patron"
+      },
+      "sourceLanguage": "pt-BR",
+      "sourceTitle": "Sigilos de Sangue V5, p. 178 · 5",
+      "pages": [
+        {
+          "pdfPage": 180,
+          "printedPage": 178
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "disciplines": {
+          "Alquimia do Sangue-Fraco": 1
+        },
+        "loresheetGroup": "lore",
+        "independentChoice": "5",
+        "repeatableDifferentChoices": true,
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Patrono de Taunk",
+            "text": "O misterioso benfeitor de Kirin se interessou por você e ainda se interessa por você. Ganhe Mawla ••••• (Patrono de Taunk). A cada história, escolha três fórmulas que você conhece. Se sua Mawla estiver ativa e aprovar suas ações, ela enviará uma remessa de ingredientes raros ou magicamente potentes que concedem a cada fórmula um bônus de dois dados no teste de Destilação. Seu Narrador cria ou escolhe um Membro poderoso (talvez um que já esteja no Mapa de Relacionamento ou Cena) como a identidade do seu patrono e pode revelá-la (e as consequências que ela traz) quando quiser."
+          },
+          {
+            "title": "Compra e uso",
+            "text": "Cada benefício é comprado separadamente pelo seu valor completo: não exige nem concede os níveis inferiores. Na criação, gaste os pontos de Vantagens correspondentes; durante o jogo, custa 3 XP por ponto, com aprovação do Narrador. Escolha uma única Ficha de Conhecimento comum; uma Linhagem de Sangue pode ser adquirida separadamente. Benefícios temporários, favorecimentos, aliados e concessões narrativas devem ser resolvidos com o Narrador conforme o texto deste benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Taunk Patron",
+            "text": "Kirin's mysterious benefactor took an interest in you and still takes an interest in you. Earn Mawla ••••• (Patron of Taunk). For each story, choose three formulas that you know. If your Mawla is active and approves of your actions, it will send a shipment of rare or magically potent ingredients that grant each formula a two-dice bonus on the Distillation roll. Your Storyteller creates or chooses a powerful Kindred (perhaps one already on the Relationship Chart or Scene) as its patron identity and can reveal it (and the consequences it brings) at any time."
+          },
+          {
+            "title": "Purchase and use",
+            "text": "Purchase each benefit separately at its full rating: it neither requires nor grants lower ranks. At creation, spend the corresponding Advantage dots; during play it costs 3 XP per dot, with Storyteller approval. Choose one ordinary Loresheet; one Bloodline may be acquired separately. Resolve temporary benefits, favors, supporting characters and narrative grants with the Storyteller as described in this benefit."
+          }
+        ]
+      }
+    }
+  ]
+}

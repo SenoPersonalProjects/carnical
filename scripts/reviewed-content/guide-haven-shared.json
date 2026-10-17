@@ -1,0 +1,112 @@
+{
+  "id": "guide-haven-shared",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Compartilhado",
+    "en": "Shared"
+  },
+  "aliases": [
+    "Compartilhado",
+    "Shared"
+  ],
+  "versions": [
+    {
+      "id": "guide-haven-shared-players-guide-v5-1",
+      "book": "players-guide-v5",
+      "level": 1,
+      "names": {
+        "pt-BR": "Compartilhado — 1",
+        "en": "Shared — 1"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 113",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 115,
+          "printedPage": 113
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Outros ocupantes ou proprietário do refúgio",
+          "en": "Other residents or haven landlord"
+        },
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Seu refúgio não é inteiramente seu: outros Membros além de você e sua coterie têm acesso e podem decidir sobre ele sem consultá-lo. Defina as condições e a gravidade conforme a situação.\n\nUm ponto cobre refúgios conjuntos: colegas de moradia controlados pelo Narrador ou uma ninhada de crias ocupando um prédio. Os problemas trazidos por eles se tornam seus. Dividir um refúgio apenas com a própria coterie não impõe automaticamente este Defeito; as desvantagens dependem do que criarem em jogo. Um ponto também cobre refúgio de curta duração, como embaixada, casa segura ou acampamento, que você terá de deixar quando outro Membro chegar. Obter novo refúgio compartilhado não custa mais pontos, mas pode perder melhorias pagas no antigo, precisar mudar pertences e reensinar seu Rebanho a encontrá-lo.\n\nDois pontos significam um proprietário local: outro Membro tem direitos à propriedade por título legal ou concessão do Príncipe ou Barão e permite sua moradia. Após criar o refúgio, discuta com ele qualquer alteração desejada. O proprietário pode entrar quando quiser. Proprietários mais velhos podem cobrar serviços e trabalhos sujos, tratando-o como vassalo ou funcionário. Capelas Tremere, tocas Nosferatu e templos do Ministério podem representar um ou dois pontos de Compartilhado para o clã apropriado, conforme o equilíbrio de poder entre seus moradores."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your haven is not entirely your own. Other Kindred, besides you and your coterie, have access to it and can make decisions about it without consulting you. Decide the specific conditions and determine the severity of this Flaw based on those circumstances. The one-dot version of this Flaw covers joint havens: e.g., you have one or more Storyteller character housemates, or you and a whole clutch of fledglings squat in an abandoned building. Any problems they bring back to the haven become your problems, too. A coterie that takes a haven together does not automatically invoke this Flaw; sharing with your coterie has only as much downside as you mutually create in play. The one-dot Shared Flaw also covers short-term havens: you’re staying in an embassy or safe house or campground, with the expectation that you’ll be moving on and another Kindred may arrive to\n\ntake your place at any time. Getting a new shared haven when that happens costs no more dots, but you may lose dots you put into improving the old one, in addition to moving all your belongings and re-training your Herd where to show up at night. The two-dot version of this Flaw means you have a local landlord. Another Kindred has rights to the property (either an actual land title or a grant from the local Prince or Baron) and graciously (or not) allows you to roost there. After haven creation, you must discuss any changes you wish to make to your haven with your landlord. The landlord can enter your haven at will. Especially older Kindred landlords may also call on you for service or dirty jobs, treating you like a vassal or apparatchik. Tremere chantries, Nosferatu warrens, and Ministry temples might be one or two-dot shared havens for characters of the appropriate clan, depending on the power balance between you and the other Kindred there."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    },
+    {
+      "id": "guide-haven-shared-players-guide-v5-2",
+      "book": "players-guide-v5",
+      "level": 2,
+      "names": {
+        "pt-BR": "Compartilhado — 2",
+        "en": "Shared — 2"
+      },
+      "sourceTitle": "Player’s Guide V5, p. 113",
+      "sourceLanguage": "en",
+      "pages": [
+        {
+          "pdfPage": 115,
+          "printedPage": 113
+        }
+      ],
+      "requirements": {
+        "requiresDetail": true,
+        "detailLabel": {
+          "pt-BR": "Outros ocupantes ou proprietário do refúgio",
+          "en": "Other residents or haven landlord"
+        },
+        "incompatibleItems": [
+          "core-background-no-haven"
+        ]
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Seu refúgio não é inteiramente seu: outros Membros além de você e sua coterie têm acesso e podem decidir sobre ele sem consultá-lo. Defina as condições e a gravidade conforme a situação.\n\nUm ponto cobre refúgios conjuntos: colegas de moradia controlados pelo Narrador ou uma ninhada de crias ocupando um prédio. Os problemas trazidos por eles se tornam seus. Dividir um refúgio apenas com a própria coterie não impõe automaticamente este Defeito; as desvantagens dependem do que criarem em jogo. Um ponto também cobre refúgio de curta duração, como embaixada, casa segura ou acampamento, que você terá de deixar quando outro Membro chegar. Obter novo refúgio compartilhado não custa mais pontos, mas pode perder melhorias pagas no antigo, precisar mudar pertences e reensinar seu Rebanho a encontrá-lo.\n\nDois pontos significam um proprietário local: outro Membro tem direitos à propriedade por título legal ou concessão do Príncipe ou Barão e permite sua moradia. Após criar o refúgio, discuta com ele qualquer alteração desejada. O proprietário pode entrar quando quiser. Proprietários mais velhos podem cobrar serviços e trabalhos sujos, tratando-o como vassalo ou funcionário. Capelas Tremere, tocas Nosferatu e templos do Ministério podem representar um ou dois pontos de Compartilhado para o clã apropriado, conforme o equilíbrio de poder entre seus moradores."
+          },
+          {
+            "title": "Preenchimento",
+            "text": "Identifique o refúgio e os detalhes pessoais nas anotações. As escolhas solicitadas são obrigatórias. Benefícios de Refúgio podem ser pessoais ou compartilhados pela coterie; não some duas vezes o mesmo benefício."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Your haven is not entirely your own. Other Kindred, besides you and your coterie, have access to it and can make decisions about it without consulting you. Decide the specific conditions and determine the severity of this Flaw based on those circumstances. The one-dot version of this Flaw covers joint havens: e.g., you have one or more Storyteller character housemates, or you and a whole clutch of fledglings squat in an abandoned building. Any problems they bring back to the haven become your problems, too. A coterie that takes a haven together does not automatically invoke this Flaw; sharing with your coterie has only as much downside as you mutually create in play. The one-dot Shared Flaw also covers short-term havens: you’re staying in an embassy or safe house or campground, with the expectation that you’ll be moving on and another Kindred may arrive to\n\ntake your place at any time. Getting a new shared haven when that happens costs no more dots, but you may lose dots you put into improving the old one, in addition to moving all your belongings and re-training your Herd where to show up at night. The two-dot version of this Flaw means you have a local landlord. Another Kindred has rights to the property (either an actual land title or a grant from the local Prince or Baron) and graciously (or not) allows you to roost there. After haven creation, you must discuss any changes you wish to make to your haven with your landlord. The landlord can enter your haven at will. Especially older Kindred landlords may also call on you for service or dirty jobs, treating you like a vassal or apparatchik. Tremere chantries, Nosferatu warrens, and Ministry temples might be one or two-dot shared havens for characters of the appropriate clan, depending on the power balance between you and the other Kindred there."
+          },
+          {
+            "title": "Character details",
+            "text": "Identify the haven and personal details in your notes. Required choices must be completed. Haven benefits may be personal or shared by the coterie; do not count the same benefit twice."
+          }
+        ]
+      }
+    }
+  ]
+}
