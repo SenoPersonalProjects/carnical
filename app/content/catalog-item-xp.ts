@@ -4,6 +4,7 @@ import {sourcebookForLibraryId} from "../creation-sources";
 import {isPredatorItem,isPredatorPackageItem} from "../predator-benefits";
 import type {CreationItem} from "./creation-item-effects";
 import type {XpPurchase} from "../experience";
+import {baneSeverity,DECAY_BACKGROUNDS} from "./clan-banes";
 
 export function catalogPurchaseName(purchase:XpPurchase,locale:"pt-BR"|"en"){
  const entry=purchase.catalogId?contentById(purchase.catalogId):undefined;
@@ -28,13 +29,16 @@ export function catalogAdvantageQuote(id:string,versionId:string,items:ReadonlyA
  if(existing&&(!old?.version&&!target||old?.version&&old.version.book!==version.book))return undefined;
  const from=existing?.dots??0;
  if(!Number.isInteger(to)||to<=from||to>(entry.kind==="background"?6:5)||from<0)return undefined;
- return {entry,version,existing,from,to,cost:(to-from)*3};
+ const decay=context.clanBaneId==="bane-hecata"&&DECAY_BACKGROUNDS.includes(entry.id);
+ if(decay&&!context.decayXpMode)return undefined;
+ const surcharge=decay?baneSeverity(context.bloodPotency??1)*(context.decayXpMode==="per_dot"?to-from:1):0;
+ return {entry,version,existing,from,to,surcharge,cost:(to-from)*3+surcharge};
 }
 export function purchasedCatalogAdvantage(quote:NonNullable<ReturnType<typeof catalogAdvantageQuote>>,instanceName?:string){
  const {entry,version,existing,from,to,cost}=quote;
  const oldVersion=existing?indexedItem(existing).version:undefined;
  const savedName=existing?.instanceName||(existing&&entry.kind==="background"&&![...Object.values(entry.names),...Object.values(oldVersion?.names||{})].includes(existing.name)?existing.name:undefined)||instanceName?.trim();
  const item:CreationItem={...existing,name:version.names?.["pt-BR"]||entry.names["pt-BR"],dots:to,source:existing&&isPredatorPackageItem(existing)?existing.source:sourcebookForLibraryId(version.book)||version.book,notes:existing?.notes||"Comprada com XP",catalogId:entry.id,versionId:version.id,instanceId:existing?.instanceId||crypto.randomUUID(),...(savedName?{instanceName:savedName}:{}),...(existing&&isPredatorItem(existing)?{predatorBaseDots:existing.predatorBaseDots??from}:{})};
- const purchase:XpPurchase={kind:"advantage",name:item.name,from,to,cost,catalogId:entry.id,versionId:version.id,itemInstanceId:item.instanceId,...(item.instanceName?{instanceName:item.instanceName}:{}),...(existing?{previousAdvantage:{...existing}}:{})};
+ const purchase:XpPurchase={...(quote.surcharge?{baneSurcharge:quote.surcharge}:{}),kind:"advantage",name:item.name,from,to,cost,catalogId:entry.id,versionId:version.id,itemInstanceId:item.instanceId,...(item.instanceName?{instanceName:item.instanceName}:{}),...(existing?{previousAdvantage:{...existing}}:{})};
  return {item,purchase};
 }

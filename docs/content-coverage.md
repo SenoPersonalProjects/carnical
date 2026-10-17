@@ -2,6 +2,34 @@
 
 ## Estado desta entrega
 
+### Perdições alternativas do Guia
+
+- 14 Perdições conferidas no PDF58–61 / páginas impressas56–59, com regras
+  completas em português e inglês. São opções de crônica para o clã inteiro;
+  a Perdição padrão continua sendo o padrão. Não concedem pontos nem substituem
+  Disciplinas ou Compulsões.
+- O mestre configura cada clã em Crônicas. Na ficha vinculada, a configuração
+  é somente de leitura; a API recusa alterações de participantes. Em crônica
+  livre, o jogador configura as opções. IDs e combinações inválidos são rejeitados.
+- A ficha e o PDF identificam a variante e incluem sua descrição e fonte.
+  Nomes e anotações pessoais são preservados, inclusive em linhagens personalizadas.
+- Remorso dos Lasombra e resistência a Frenesi de Terror dos Gangrel aplicam
+  a Gravidade da tabela oficial corrigida, com mínimo de um dado. Outros efeitos
+  de cena são conduzidos manualmente. O atalho de Impulso com um teste fica
+  indisponível para Sangue Roubado dos Tremere; sua sequência especial exige
+  resolução com o Narrador enquanto a dúvida sobre desistência estiver pendente.
+- Decadência dos Hecata acrescenta o mínimo de Defeitos apropriados ou desconta
+  a compensação integral do orçamento de Antecedentes. A auditoria confere as
+  categorias; compras posteriores de Potência não reescrevem o orçamento inicial.
+  A interpretação da sobretaxa de XP é escolhida explicitamente pelo mestre;
+  sem escolha, as compras automáticas afetadas não são oferecidas.
+- Nome do Desnascimento remove a restrição de Nenhum Refúgio da Perdição
+  Ravnos padrão. Cortesia Amaldiçoada impede o Tabu de entrada sem convite.
+- Testes de regras e API com dados simulados verificaram permissões e validação.
+  No navegador, os fluxos passaram em390 e1440 pixels. Oito PDFs tiveram todas
+  as páginas extraídas, renderizadas e conferidas. Isso não equivale a teste de
+  persistência de uma crônica autenticada em produção.
+
 As dúvidas de interpretação e de tradução estão centralizadas em
 [Dúvidas para revisão](DUVIDAS-PARA-REVISAO.md), com contexto, páginas,
 impacto e tratamento provisório de cada caso.
@@ -55,7 +83,7 @@ conteúdo revisado, páginas originais em visualizador separado e correções na
 escolhas gratuitas de magia. **Não conclui o catálogo integral nem a biblioteca
 integralmente bilíngue previstos no plano.**
 
-Há 433 entradas revisadas, em português e inglês, com referências ao PDF e
+Há 447 entradas revisadas, em português e inglês, com referências ao PDF e
 identificação SHA-256 da fonte. Versões repetidas em livros diferentes continuam
 na mesma entrada quando sua identificação é inequívoca.
 
@@ -63,7 +91,7 @@ na mesma entrada quando sua identificação é inequívoca.
 | --- | --- | --- |
 | Livro Básico | Perdições e Compulsões dos sete clãs principais; características de Caitiff/Sangue-Ralo e as 16 Qualidades/Defeitos especiais com seleção guiada e 28 Qualidades/Defeitos comuns; 41 Antecedentes e itens associados, incluindo Suspeito/Status dos Caitiff; todos os dez Predadores, 26 Rituais e sete fórmulas nomeadas; poderes de Animalismo, Auspícios, Celeridade, Dominação, Potência, Presença, Proteanismo e Feitiçaria de Sangue; 8 de Ofuscação e 8 de Fortitude | Ocultar, Fortificar a Fachada Interior e Infâmia aguardam esclarecimento; métodos e receitas de imitação de Alquimia, variantes de Afinidade/Maldição de outros livros e loresheets pendentes |
 | Companion | 33 opções: 3 clãs, 10 poderes, 15 Qualidades e 5 Defeitos | Revisão integral da biblioteca pendente |
-| Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas; os seis Predadores; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; versões dos sete clãs adicionais (Banu Haqim, Hecata, Lasombra, Ministério, Ravnos, Salubri e Tzimisce) | Perdições alternativas, Vantagens, Defeitos, loresheets e demais seções pendentes |
+| Guia do Jogador | Todos os poderes, Rituais, Cerimônias e fórmulas da seção de Disciplinas; os seis Predadores; versões de Qualidades e Defeitos correspondentes ao Companion; Contenção dos Salubri; versões dos sete clãs adicionais (Banu Haqim, Hecata, Lasombra, Ministério, Ravnos, Salubri e Tzimisce); as 14 Perdições alternativas | Vantagens, Defeitos, loresheets e demais seções pendentes |
 | Cultos dos Deuses de Sangue | Hecata e sua Compulsão original; 3 Cerimônias Shalimitas | Linhagens, loresheets e demais opções pendentes |
 | Let the Streets Run Red | Assassino de Estrada | Pendente |
 | Chicago by Night | Lasombra e os nove poderes de Oblívio, incluindo as regras gerais da Disciplina | Loresheets e demais opções pendentes |

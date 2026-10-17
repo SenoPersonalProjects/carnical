@@ -1,0 +1,55 @@
+{
+  "id": "bane-banu-haqim",
+  "kind": "clan-variant",
+  "names": {
+    "pt-BR": "Banu Haqim: Sangue Nocivo",
+    "en": "Banu Haqim: Noxious Blood"
+  },
+  "aliases": [
+    "Sangue Nocivo",
+    "Noxious Blood"
+  ],
+  "versions": [
+    {
+      "id": "bane-banu-haqim-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, p. 56",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 58,
+          "printedPage": 56
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Banu Haqim"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aplicação",
+            "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+          },
+          {
+            "title": "Sistema",
+            "text": "Seu Sangue é venenoso para mortais, mas tem os efeitos normais de Vitae em outros vampiros. Um mortal que o bebe sofre dano Agravado igual à Gravidade da Perdição por quantidade equivalente a um Teste de Sangue ingerida. Isso ameaça quem receberia Laço de Sangue ou seria transformado em carniçal. A Vitae Banu Haqim também não pode curar ferimentos mortais. Não possui outras propriedades tóxicas: abaixo da quantidade necessária para criar um Laço de Sangue, não causa dano, nem se injetada diretamente na corrente sanguínea."
+          }
+        ],
+        "en": [
+          {
+            "title": "Application",
+            "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+          },
+          {
+            "title": "System",
+            "text": "The Blood is poisonous to mortals but has the normal effects of vitae on other vampires. A mortal drinking it suffers Aggravated damage equal to Bane Severity for each Rouse Check’s worth ingested, endangering prospective ghouls and Blood Bonds. Banu Haqim vitae also cannot heal mortal injuries. It has no other toxic properties: amounts below those needed to create a Blood Bond cause no damage, even if injected into the bloodstream."
+          }
+        ]
+      }
+    }
+  ]
+}

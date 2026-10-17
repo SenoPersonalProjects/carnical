@@ -1,0 +1,59 @@
+{
+  "id": "bane-tzimisce",
+  "kind": "clan-variant",
+  "names": {
+    "pt-BR": "Tzimisce: Cortesia Amaldiçoada",
+    "en": "Tzimisce: Cursed Courtesy"
+  },
+  "aliases": [
+    "Cortesia Amaldiçoada",
+    "Cursed Courtesy"
+  ],
+  "versions": [
+    {
+      "id": "bane-tzimisce-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 56 e 59",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 58,
+          "printedPage": 56
+        },
+        {
+          "pdfPage": 61,
+          "printedPage": 59
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tzimisce"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aplicação",
+            "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+          },
+          {
+            "title": "Sistema",
+            "text": "Para entrar sem convite em residência alheia, incluindo casa ou Refúgio, deve gastar Vontade igual à Gravidade da Perdição. Durante a permanência sem convite, sofre penalidade igual nas paradas de Disciplinas. O convite deve vir de alguém que more ou desmore ali; só residências realmente habitadas contam. Edifícios públicos e abandonados são livres; apartamentos contam como casas separadas. Casos limítrofes cabem ao Narrador. Não pode adquirir como Defeito o Tabu Folclórico correspondente à entrada sem convite."
+          }
+        ],
+        "en": [
+          {
+            "title": "Application",
+            "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+          },
+          {
+            "title": "System",
+            "text": "Entering someone else’s inhabited home or haven uninvited requires spending Willpower equal to Bane Severity. While staying uninvited, Discipline pools take an equal penalty. An invitation must come from a resident, living or undead; only actually inhabited homes count. Public and abandoned buildings are unrestricted; apartments count as separate homes. Edge cases are adjudicated by the Storyteller. Cannot take the corresponding invitation Folkloric Block as a Flaw."
+          }
+        ]
+      }
+    }
+  ]
+}

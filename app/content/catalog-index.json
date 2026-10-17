@@ -15801,6 +15801,398 @@
           }
         }
       ]
+    },
+    {
+      "id": "bane-banu-haqim",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Banu Haqim: Sangue Nocivo",
+        "en": "Banu Haqim: Noxious Blood"
+      },
+      "aliases": [
+        "Sangue Nocivo",
+        "Noxious Blood"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-banu-haqim-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, p. 56",
+          "requirements": {
+            "clans": [
+              "Banu Haqim"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-brujah",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Brujah: Violência",
+        "en": "Brujah: Violence"
+      },
+      "aliases": [
+        "Violência",
+        "Violence"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-brujah-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, p. 56",
+          "requirements": {
+            "clans": [
+              "Brujah"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-gangrel",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Gangrel: Instintos de Sobrevivência",
+        "en": "Gangrel: Survival Instincts"
+      },
+      "aliases": [
+        "Instintos de Sobrevivência",
+        "Survival Instincts"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-gangrel-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 57",
+          "requirements": {
+            "clans": [
+              "Gangrel"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-hecata",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Hecata: Decadência",
+        "en": "Hecata: Decay"
+      },
+      "aliases": [
+        "Decadência",
+        "Decay"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-hecata-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 57",
+          "requirements": {
+            "clans": [
+              "Hecata"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-lasombra",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Lasombra: Insensibilidade",
+        "en": "Lasombra: Callousness"
+      },
+      "aliases": [
+        "Insensibilidade",
+        "Callousness"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-lasombra-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 57",
+          "requirements": {
+            "clans": [
+              "Lasombra"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-malkavian",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Malkavian: Manifestações Sobrenaturais",
+        "en": "Malkavian: Unnatural Manifestations"
+      },
+      "aliases": [
+        "Manifestações Sobrenaturais",
+        "Unnatural Manifestations"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-malkavian-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 57",
+          "requirements": {
+            "clans": [
+              "Malkavian"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-ministry",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Ministério: Sangue Frio",
+        "en": "Ministry: Cold-Blooded"
+      },
+      "aliases": [
+        "Sangue Frio",
+        "Cold-Blooded"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-ministry-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+          "requirements": {
+            "clans": [
+              "Ministério"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-nosferatu",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Nosferatu: Infestação",
+        "en": "Nosferatu: Infestation"
+      },
+      "aliases": [
+        "Infestação",
+        "Infestation"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-nosferatu-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+          "requirements": {
+            "clans": [
+              "Nosferatu"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-ravnos",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Ravnos: Nome do Desnascimento",
+        "en": "Ravnos: Unbirth Name"
+      },
+      "aliases": [
+        "Nome do Desnascimento",
+        "Unbirth Name"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-ravnos-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+          "requirements": {
+            "clans": [
+              "Ravnos"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-salubri",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Salubri: Ascetismo",
+        "en": "Salubri: Asceticism"
+      },
+      "aliases": [
+        "Ascetismo",
+        "Asceticism"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-salubri-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+          "requirements": {
+            "clans": [
+              "Salubri"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-toreador",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Toreador: Empatia Agonizante",
+        "en": "Toreador: Agonizing Empathy"
+      },
+      "aliases": [
+        "Empatia Agonizante",
+        "Agonizing Empathy"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-toreador-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 59",
+          "requirements": {
+            "clans": [
+              "Toreador"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-tremere",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Tremere: Sangue Roubado",
+        "en": "Tremere: Stolen Blood"
+      },
+      "aliases": [
+        "Sangue Roubado",
+        "Stolen Blood"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-tremere-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 59",
+          "requirements": {
+            "clans": [
+              "Tremere"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-tzimisce",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Tzimisce: Cortesia Amaldiçoada",
+        "en": "Tzimisce: Cursed Courtesy"
+      },
+      "aliases": [
+        "Cortesia Amaldiçoada",
+        "Cursed Courtesy"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-tzimisce-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 59",
+          "requirements": {
+            "clans": [
+              "Tzimisce"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-ventrue",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Ventrue: Hierarquia",
+        "en": "Ventrue: Hierarchy"
+      },
+      "aliases": [
+        "Hierarquia",
+        "Hierarchy"
+      ],
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "bane-ventrue-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 59",
+          "requirements": {
+            "clans": [
+              "Ventrue"
+            ],
+            "storytellerApproval": true
+          }
+        }
+      ]
     }
   ]
 }

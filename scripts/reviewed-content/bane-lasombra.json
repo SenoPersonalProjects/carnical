@@ -1,0 +1,59 @@
+{
+  "id": "bane-lasombra",
+  "kind": "clan-variant",
+  "names": {
+    "pt-BR": "Lasombra: Insensibilidade",
+    "en": "Lasombra: Callousness"
+  },
+  "aliases": [
+    "Insensibilidade",
+    "Callousness"
+  ],
+  "versions": [
+    {
+      "id": "bane-lasombra-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 56 e 57",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 58,
+          "printedPage": 56
+        },
+        {
+          "pdfPage": 59,
+          "printedPage": 57
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Lasombra"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aplicação",
+            "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+          },
+          {
+            "title": "Sistema",
+            "text": "Subtraia dados iguais à Gravidade da Perdição ao fazer um teste de Remorso. A parada não pode ser reduzida abaixo de 1 dado."
+          }
+        ],
+        "en": [
+          {
+            "title": "Application",
+            "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+          },
+          {
+            "title": "System",
+            "text": "Deduct dice equal to Bane Severity when making a Remorse roll. The dice pool cannot be reduced below 1 die."
+          }
+        ]
+      }
+    }
+  ]
+}

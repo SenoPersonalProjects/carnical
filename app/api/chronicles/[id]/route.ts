@@ -1,3 +1,4 @@
+import {normalizeClanBanes,decayXpMode} from "../../../content/clan-banes";
 import { getChatGPTUser } from "../../../chatgpt-auth";
 import { createClient } from "../../../../lib/supabase/server";
 import { DEFAULT_CHRONICLE_RULES } from "../../../game-rules";
@@ -33,6 +34,8 @@ export async function PATCH(request: Request, context: Context) {
   const incoming = payload.rules && typeof payload.rules === "object" && !Array.isArray(payload.rules) ? payload.rules as Record<string, unknown> : {};
   const rules = {
     ...DEFAULT_CHRONICLE_RULES,
+    clanBanes: normalizeClanBanes(incoming.clanBanes===undefined?(current.rules as Record<string,unknown>|null)?.clanBanes:incoming.clanBanes),
+    decayXpMode: decayXpMode(incoming.decayXpMode===undefined?(current.rules as Record<string,unknown>|null)?.decayXpMode:incoming.decayXpMode),
     customTargets: incoming.customTargets === true,
     meritPoints: bounded(incoming.meritPoints, 7),
     flawPoints: bounded(incoming.flawPoints, 2),

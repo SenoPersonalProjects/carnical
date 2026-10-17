@@ -121,6 +121,54 @@ ela não deve substituir silenciosamente o padrão do livro.
 - **Referência:** [tabela oficial corrigida](https://renegadegamestudios.com/content/File%20Storage%20for%20site/VTM/BloodPotencyTable.pdf).
 - **Observações da revisão:** ____________________.
 
+## 9. Decadência dos Hecata — cobrança de XP em compras com vários pontos
+
+- **Fonte:** Guia do Jogador, página 59 do PDF / 57 impressa.
+- **Contexto:** comprar pontos de Lacaios, Refúgio e Recursos tem um custo
+  adicional de XP igual à Gravidade da Perdição. O trecho não explicita o
+  agrupamento quando vários pontos são comprados de uma vez.
+- **Dúvida:** a sobretaxa incide por ponto adquirido ou uma vez por compra?
+  Melhorias específicas de Refúgio também estão incluídas ou somente o
+  Antecedente básico? A compensação dos Defeitos na criação pode ser parcial?
+- **Tratamento atual:** nenhuma cobrança é escolhida como padrão oficial.
+  O mestre pode registrar a interpretação por ponto ou por compra na crônica.
+  Enquanto não a definir, as compras guiadas dos três Antecedentes básicos
+  ficam indisponíveis. Outras compras continuam disponíveis. A criação oferece
+  assumir todos os Defeitos adicionais ou compensá-los integralmente, sem
+  presumir compensação parcial. A sobretaxa não é estendida automaticamente
+  às Qualidades específicas do Refúgio.
+- **Decisão / referência:** pendente. Uma escolha na configuração é decisão
+  da mesa, não confirmação de errata.
+
+## 10. Sangue Roubado dos Tremere — desistência do Impulso
+
+- **Fonte:** Guia do Jogador, página 61 do PDF / 59 impressa.
+- **Contexto:** Impulso exige Testes de Sangue iguais à Gravidade da Perdição.
+  Se elevariam a Fome a 5 ou mais, o vampiro pode desistir ou realizar o Impulso
+  e chegar a Fome 5 depois.
+- **Dúvida:** ao desistir, a sequência é integralmente cancelada, inclusive os
+  aumentos de Fome, ou algum resultado dos Testes permanece?
+- **Tratamento atual:** texto e opção de desistência são preservados. A ficha
+  impede usar o atalho comum de um teste nessa variante; a sequência especial
+  é resolvida manualmente com o Narrador, sem inventar o efeito da desistência.
+- **Decisão / referência:** pendente.
+
+## 11. Perdições alternativas e restrições de Qualidades/Defeitos por clã
+
+- **Fonte:** Guia do Jogador, páginas 58–61 do PDF / 56–59 impressas;
+  restrições específicas do Livro Básico nas próprias Qualidades/Defeitos.
+- **Contexto:** Hierarquia substitui a restrição alimentar dos Ventrue e
+  Infestação substitui a deformidade obrigatória dos Nosferatu. Alguns itens
+  do Básico, porém, proíbem explicitamente esses clãs.
+- **Dúvida:** as proibições escritas nos itens deixam de valer quando a Perdição
+  relacionada é substituída? Não há exceção explícita confirmada nos trechos.
+- **Tratamento atual:** proibições expressas dos próprios itens são mantidas.
+  Já a proibição Ravnos de Nenhum Refúgio, derivada da Perdição padrão, não é
+  aplicada quando Nome do Desnascimento a substitui. Cortesia Amaldiçoada
+  bloqueia o Tabu Folclórico de entrada sem convite, conforme proibição expressa
+  da própria variante.
+- **Decisão / referência:** pendente para os casos de proibição nos itens.
+
 ## Apêndice — revisão editorial da tradução de Let the Streets Run Red
 
 Este grupo trata da fidelidade da tradução, não de decisões sobre regras.

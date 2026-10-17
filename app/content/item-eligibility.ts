@@ -22,14 +22,15 @@ export function indexedItem(item:KnownItem){
 }
 export function hasCreationTrait(items:ReadonlyArray<KnownItem>,id:string){return items.some(item=>{const resolved=indexedItem(item);return resolved.entry?.id===id&&!!resolved.version})}
 export function thinBloodChoiceCounts(items:ReadonlyArray<KnownItem>){let merits=0,flaws=0;for(const item of items){const group=indexedItem(item).version?.requirements?.selectionGroup;if(group==="thin-blood-merit")merits++;if(group==="thin-blood-flaw")flaws++}return {merits,flaws,balanced:merits>=1&&merits<=3&&merits===flaws}}
-export type ItemContext={phase:"creation"|"xp";clan:string;ageCategory?:string;characterType?:"vampire"|"ghoul"|"mortal";activeSources:ReadonlySet<string>;disciplines?:Record<string,number>;powers?:Record<string,string[]>;items?:ReadonlyArray<KnownItem>};
+export type ItemContext={clanBaneId?:string;bloodPotency?:number;decayXpMode?:"per_purchase"|"per_dot";phase:"creation"|"xp";clan:string;ageCategory?:string;characterType?:"vampire"|"ghoul"|"mortal";activeSources:ReadonlySet<string>;disciplines?:Record<string,number>;powers?:Record<string,string[]>;items?:ReadonlyArray<KnownItem>};
 export function itemEligibility(version:IndexedVersion,context:ItemContext){
  const reasons:string[]=[],requirements=version.requirements;
  if(!context.activeSources.has(sourcebookForLibraryId(version.book)||""))reasons.push("Fonte desativada");
  if(requirements?.clans?.length&&!requirements.clans.includes(context.clan))reasons.push(`Exige o clã ${requirements.clans.join(" / ")}`);
  if(requirements?.excludedClans?.includes(context.clan))reasons.push(`Não disponível para ${context.clan}`);
+ if(context.clanBaneId==="bane-tzimisce"&&version.id==="core-trait-folkloric-block-core-v5-uninvited")reasons.push("Cortesia Amaldiçoada impede o Tabu Folclórico de entrada sem convite");
  if(requirements?.ancillaOrOlder&&!["Ancilla","Personalizada"].includes(context.ageCategory||""))reasons.push("Exige ancilla ou mais velho; confirme categorias personalizadas com o Narrador");
- if(context.phase==="creation"&&requirements?.creationExcludedClans?.includes(context.clan))reasons.push(`Não disponível para ${context.clan} na criação`);
+ if(context.phase==="creation"&&requirements?.creationExcludedClans?.includes(context.clan)&&!(version.id==="core-background-no-haven-core-v5-1"&&context.clanBaneId==="bane-ravnos"))reasons.push(`Não disponível para ${context.clan} na criação`);
  if(requirements?.creationOnly&&context.phase!=="creation")reasons.push("Disponível somente na criação");
  if(requirements?.characterTypes?.length&&!requirements.characterTypes.includes(context.characterType||"vampire"))reasons.push("Esta opção exige outro tipo de personagem");
  for(const [discipline,level] of Object.entries(requirements?.disciplines||{}))if((context.disciplines?.[discipline]||0)<level)reasons.push(`Exige ${discipline} ${level}`);

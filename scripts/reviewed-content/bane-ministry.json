@@ -1,0 +1,59 @@
+{
+  "id": "bane-ministry",
+  "kind": "clan-variant",
+  "names": {
+    "pt-BR": "Ministério: Sangue Frio",
+    "en": "Ministry: Cold-Blooded"
+  },
+  "aliases": [
+    "Sangue Frio",
+    "Cold-Blooded"
+  ],
+  "versions": [
+    {
+      "id": "bane-ministry-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 58,
+          "printedPage": 56
+        },
+        {
+          "pdfPage": 60,
+          "printedPage": 58
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ministério"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aplicação",
+            "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+          },
+          {
+            "title": "Sistema",
+            "text": "Só pode usar Rubor da Vida após alimentar-se recentemente de uma vítima viva: na mesma cena ou aproximadamente na última hora, a critério do Narrador. Mesmo assim, o uso exige Testes de Sangue em quantidade igual à Gravidade da Perdição, em vez de apenas um."
+          }
+        ],
+        "en": [
+          {
+            "title": "Application",
+            "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+          },
+          {
+            "title": "System",
+            "text": "Can use Blush of Life only after recently feeding from a living vessel: in the same scene or roughly the past hour, at the Storyteller’s discretion. Even then, it requires Rouse Checks equal to Bane Severity rather than just one."
+          }
+        ]
+      }
+    }
+  ]
+}

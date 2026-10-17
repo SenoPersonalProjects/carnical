@@ -1,0 +1,55 @@
+{
+  "id": "bane-brujah",
+  "kind": "clan-variant",
+  "names": {
+    "pt-BR": "Brujah: Violência",
+    "en": "Brujah: Violence"
+  },
+  "aliases": [
+    "Violência",
+    "Violence"
+  ],
+  "versions": [
+    {
+      "id": "bane-brujah-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, p. 56",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 58,
+          "printedPage": 56
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Brujah"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aplicação",
+            "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+          },
+          {
+            "title": "Sistema",
+            "text": "Em um crítico bestial em qualquer teste de Habilidade, causa dano físico ou mental, conforme a situação, ao alvo da interação, igual à Gravidade da Perdição. Esse dano soma-se às demais consequências dos dados de Fome. É Agravado, a menos que o jogador gaste 1 ponto de Vontade para torná-lo Superficial."
+          }
+        ],
+        "en": [
+          {
+            "title": "Application",
+            "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+          },
+          {
+            "title": "System",
+            "text": "On a messy critical on any Skill test, inflicts physical or mental damage, as appropriate to the interaction, on its subject equal to Bane Severity. This is in addition to other Hunger dice consequences. The damage is Aggravated unless the player spends 1 Willpower to make it Superficial."
+          }
+        ]
+      }
+    }
+  ]
+}

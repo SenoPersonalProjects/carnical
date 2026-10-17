@@ -1,0 +1,59 @@
+{
+  "id": "bane-ravnos",
+  "kind": "clan-variant",
+  "names": {
+    "pt-BR": "Ravnos: Nome do Desnascimento",
+    "en": "Ravnos: Unbirth Name"
+  },
+  "aliases": [
+    "Nome do Desnascimento",
+    "Unbirth Name"
+  ],
+  "versions": [
+    {
+      "id": "bane-ravnos-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 58,
+          "printedPage": 56
+        },
+        {
+          "pdfPage": 60,
+          "printedPage": 58
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Ravnos"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aplicação",
+            "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+          },
+          {
+            "title": "Sistema",
+            "text": "O nome usado no momento do Abraço ancora o Ravnos à realidade. Quem pronuncia esse nome diante dele recebe um bônus igual à Gravidade da Perdição do Ravnos para resistir aos poderes de Disciplina dele. O Ravnos sofre penalidade igual para resistir aos poderes sobrenaturais usados por esse oponente que pronunciou o nome."
+          }
+        ],
+        "en": [
+          {
+            "title": "Application",
+            "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+          },
+          {
+            "title": "System",
+            "text": "The name used at the time of the Embrace anchors the Ravnos to reality. Anyone speaking that name to the Ravnos’ face gains a bonus equal to the Ravnos’ Bane Severity to resist their Discipline powers. The Ravnos takes an equal penalty to resist supernatural powers used by that name-wielding opponent."
+          }
+        ]
+      }
+    }
+  ]
+}

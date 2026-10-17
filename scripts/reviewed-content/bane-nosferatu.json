@@ -1,0 +1,59 @@
+{
+  "id": "bane-nosferatu",
+  "kind": "clan-variant",
+  "names": {
+    "pt-BR": "Nosferatu: Infestação",
+    "en": "Nosferatu: Infestation"
+  },
+  "aliases": [
+    "Infestação",
+    "Infestation"
+  ],
+  "versions": [
+    {
+      "id": "bane-nosferatu-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 58,
+          "printedPage": 56
+        },
+        {
+          "pdfPage": 60,
+          "printedPage": 58
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Nosferatu"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aplicação",
+            "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+          },
+          {
+            "title": "Sistema",
+            "text": "Pragas e vermes seguem o vampiro. Seu Refúgio está sempre infestado: qualquer pessoa sofre penalidade de 2 + Gravidade da Perdição em atividades que exijam concentração e em testes Sociais a critério do Narrador. Após o Nosferatu passar uma cena em outro local fechado, a infestação produz efeito semelhante, mas com penalidade apenas igual à Gravidade da Perdição. Tentativas de controlar temporariamente as pragas com Animalismo sofrem penalidade igual à Gravidade da Perdição. Com essa variante, o Nosferatu não precisa ser deformado, embora possa ter aparência estranha."
+          }
+        ],
+        "en": [
+          {
+            "title": "Application",
+            "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+          },
+          {
+            "title": "System",
+            "text": "Vermin follow the vampire. Their Haven is always infested: anyone takes a penalty of 2 + Bane Severity on activities requiring concentration and on Social tests at the Storyteller’s discretion. After the Nosferatu spends a scene at another enclosed location, infestation has a similar effect but the penalty is only Bane Severity. Attempts to temporarily control the vermin with Animalism take a penalty equal to Bane Severity. With this variant, the Nosferatu need not be deformed, though they may look strange."
+          }
+        ]
+      }
+    }
+  ]
+}

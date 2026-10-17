@@ -1,0 +1,59 @@
+{
+  "id": "bane-hecata",
+  "kind": "clan-variant",
+  "names": {
+    "pt-BR": "Hecata: Decadência",
+    "en": "Hecata: Decay"
+  },
+  "aliases": [
+    "Decadência",
+    "Decay"
+  ],
+  "versions": [
+    {
+      "id": "bane-hecata-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 56 e 57",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 58,
+          "printedPage": 56
+        },
+        {
+          "pdfPage": 59,
+          "printedPage": 57
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Hecata"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aplicação",
+            "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+          },
+          {
+            "title": "Sistema",
+            "text": "Sua proximidade provoca decadência em seres vivos e objetos: refúgios se deterioram, plantas murcham e mortais adoecem após exposição prolongada. Recebe pontos adicionais de Defeitos iguais à Gravidade da Perdição, distribuídos entre Defeitos de Lacaios, Refúgio e Recursos. Podem ser assumidos na criação ou compensados pagando o dobro em pontos de Antecedentes. Além disso, comprar pontos nessas Vantagens tem um custo adicional de XP igual à Gravidade da Perdição. Combine a distribuição e a compensação com o Narrador; a escolha desta descrição não cria Defeitos nem lança despesas na ficha."
+          }
+        ],
+        "en": [
+          {
+            "title": "Application",
+            "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+          },
+          {
+            "title": "System",
+            "text": "Proximity causes decay in living beings and objects: havens deteriorate, plants wither and mortals sicken after prolonged exposure. Gain additional Flaw dots equal to Bane Severity, divided among Retainer, Haven and Resources Flaws. These can be taken during creation or bought off by paying twice the amount of Background dots. Purchasing dots in those Advantages also costs additional XP equal to Bane Severity. Agree allocation and buy-off with the Storyteller; selecting this reference does not create Flaws or charge the character."
+          }
+        ]
+      }
+    }
+  ]
+}

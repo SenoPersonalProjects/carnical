@@ -49910,6 +49910,828 @@
         }
       ],
       "level": 1
+    },
+    {
+      "id": "bane-banu-haqim",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Banu Haqim: Sangue Nocivo",
+        "en": "Banu Haqim: Noxious Blood"
+      },
+      "aliases": [
+        "Sangue Nocivo",
+        "Noxious Blood"
+      ],
+      "versions": [
+        {
+          "id": "bane-banu-haqim-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, p. 56",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Banu Haqim"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Seu Sangue é venenoso para mortais, mas tem os efeitos normais de Vitae em outros vampiros. Um mortal que o bebe sofre dano Agravado igual à Gravidade da Perdição por quantidade equivalente a um Teste de Sangue ingerida. Isso ameaça quem receberia Laço de Sangue ou seria transformado em carniçal. A Vitae Banu Haqim também não pode curar ferimentos mortais. Não possui outras propriedades tóxicas: abaixo da quantidade necessária para criar um Laço de Sangue, não causa dano, nem se injetada diretamente na corrente sanguínea."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "The Blood is poisonous to mortals but has the normal effects of vitae on other vampires. A mortal drinking it suffers Aggravated damage equal to Bane Severity for each Rouse Check’s worth ingested, endangering prospective ghouls and Blood Bonds. Banu Haqim vitae also cannot heal mortal injuries. It has no other toxic properties: amounts below those needed to create a Blood Bond cause no damage, even if injected into the bloodstream."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-brujah",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Brujah: Violência",
+        "en": "Brujah: Violence"
+      },
+      "aliases": [
+        "Violência",
+        "Violence"
+      ],
+      "versions": [
+        {
+          "id": "bane-brujah-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, p. 56",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Brujah"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Em um crítico bestial em qualquer teste de Habilidade, causa dano físico ou mental, conforme a situação, ao alvo da interação, igual à Gravidade da Perdição. Esse dano soma-se às demais consequências dos dados de Fome. É Agravado, a menos que o jogador gaste 1 ponto de Vontade para torná-lo Superficial."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "On a messy critical on any Skill test, inflicts physical or mental damage, as appropriate to the interaction, on its subject equal to Bane Severity. This is in addition to other Hunger dice consequences. The damage is Aggravated unless the player spends 1 Willpower to make it Superficial."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-gangrel",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Gangrel: Instintos de Sobrevivência",
+        "en": "Gangrel: Survival Instincts"
+      },
+      "aliases": [
+        "Instintos de Sobrevivência",
+        "Survival Instincts"
+      ],
+      "versions": [
+        {
+          "id": "bane-gangrel-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 57",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 59,
+              "printedPage": 57
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Gangrel"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Subtraia dados iguais à Gravidade da Perdição de qualquer teste para resistir a Frenesi de Terror. Essa redução não pode deixar a parada abaixo de 1 dado. A variante não manda aplicar essa penalidade a Frenesi de Fome ou Fúria."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "Subtract dice equal to Bane Severity from any roll to resist fear frenzy. This reduction cannot take the pool below 1 die. The variant does not apply that penalty to hunger or fury frenzy."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-hecata",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Hecata: Decadência",
+        "en": "Hecata: Decay"
+      },
+      "aliases": [
+        "Decadência",
+        "Decay"
+      ],
+      "versions": [
+        {
+          "id": "bane-hecata-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 57",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 59,
+              "printedPage": 57
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Hecata"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Sua proximidade provoca decadência em seres vivos e objetos: refúgios se deterioram, plantas murcham e mortais adoecem após exposição prolongada. Recebe pontos adicionais de Defeitos iguais à Gravidade da Perdição, distribuídos entre Defeitos de Lacaios, Refúgio e Recursos. Podem ser assumidos na criação ou compensados pagando o dobro em pontos de Antecedentes. Além disso, comprar pontos nessas Vantagens tem um custo adicional de XP igual à Gravidade da Perdição. Combine a distribuição e a compensação com o Narrador; a escolha desta descrição não cria Defeitos nem lança despesas na ficha."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "Proximity causes decay in living beings and objects: havens deteriorate, plants wither and mortals sicken after prolonged exposure. Gain additional Flaw dots equal to Bane Severity, divided among Retainer, Haven and Resources Flaws. These can be taken during creation or bought off by paying twice the amount of Background dots. Purchasing dots in those Advantages also costs additional XP equal to Bane Severity. Agree allocation and buy-off with the Storyteller; selecting this reference does not create Flaws or charge the character."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-lasombra",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Lasombra: Insensibilidade",
+        "en": "Lasombra: Callousness"
+      },
+      "aliases": [
+        "Insensibilidade",
+        "Callousness"
+      ],
+      "versions": [
+        {
+          "id": "bane-lasombra-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 57",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 59,
+              "printedPage": 57
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Lasombra"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Subtraia dados iguais à Gravidade da Perdição ao fazer um teste de Remorso. A parada não pode ser reduzida abaixo de 1 dado."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "Deduct dice equal to Bane Severity when making a Remorse roll. The dice pool cannot be reduced below 1 die."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-malkavian",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Malkavian: Manifestações Sobrenaturais",
+        "en": "Malkavian: Unnatural Manifestations"
+      },
+      "aliases": [
+        "Manifestações Sobrenaturais",
+        "Unnatural Manifestations"
+      ],
+      "versions": [
+        {
+          "id": "bane-malkavian-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 57",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 59,
+              "printedPage": 57
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Malkavian"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ao usar qualquer poder de Disciplina, assusta mortais próximos, aproximadamente na mesma sala ou equivalente. Por uma cena, interações Sociais com esses mortais, exceto Intimidação, sofrem penalidade igual à Gravidade da Perdição. A sensação não rompe por si só a Máscara: o mortal sente medo ou aversão repentina. Outros vampiros sentem algo semelhante e reconhecem imediatamente o Malkaviano como vampiro, mas não há penalidade nas interações com eles."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "Whenever a Discipline power is used, nearby mortals, roughly in the same room or equivalent, are spooked. For one scene, Social interactions with those mortals other than Intimidation suffer a penalty equal to Bane Severity. The sensation alone does not break the Masquerade: mortals feel sudden fear or dislike. Other vampires experience a similar sensation and instantly recognize the Malkavian as a vampire, but interactions with them take no penalty."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-ministry",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Ministério: Sangue Frio",
+        "en": "Ministry: Cold-Blooded"
+      },
+      "aliases": [
+        "Sangue Frio",
+        "Cold-Blooded"
+      ],
+      "versions": [
+        {
+          "id": "bane-ministry-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 60,
+              "printedPage": 58
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Ministério"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Só pode usar Rubor da Vida após alimentar-se recentemente de uma vítima viva: na mesma cena ou aproximadamente na última hora, a critério do Narrador. Mesmo assim, o uso exige Testes de Sangue em quantidade igual à Gravidade da Perdição, em vez de apenas um."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "Can use Blush of Life only after recently feeding from a living vessel: in the same scene or roughly the past hour, at the Storyteller’s discretion. Even then, it requires Rouse Checks equal to Bane Severity rather than just one."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-nosferatu",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Nosferatu: Infestação",
+        "en": "Nosferatu: Infestation"
+      },
+      "aliases": [
+        "Infestação",
+        "Infestation"
+      ],
+      "versions": [
+        {
+          "id": "bane-nosferatu-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 60,
+              "printedPage": 58
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Nosferatu"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Pragas e vermes seguem o vampiro. Seu Refúgio está sempre infestado: qualquer pessoa sofre penalidade de 2 + Gravidade da Perdição em atividades que exijam concentração e em testes Sociais a critério do Narrador. Após o Nosferatu passar uma cena em outro local fechado, a infestação produz efeito semelhante, mas com penalidade apenas igual à Gravidade da Perdição. Tentativas de controlar temporariamente as pragas com Animalismo sofrem penalidade igual à Gravidade da Perdição. Com essa variante, o Nosferatu não precisa ser deformado, embora possa ter aparência estranha."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "Vermin follow the vampire. Their Haven is always infested: anyone takes a penalty of 2 + Bane Severity on activities requiring concentration and on Social tests at the Storyteller’s discretion. After the Nosferatu spends a scene at another enclosed location, infestation has a similar effect but the penalty is only Bane Severity. Attempts to temporarily control the vermin with Animalism take a penalty equal to Bane Severity. With this variant, the Nosferatu need not be deformed, though they may look strange."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-ravnos",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Ravnos: Nome do Desnascimento",
+        "en": "Ravnos: Unbirth Name"
+      },
+      "aliases": [
+        "Nome do Desnascimento",
+        "Unbirth Name"
+      ],
+      "versions": [
+        {
+          "id": "bane-ravnos-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 60,
+              "printedPage": 58
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Ravnos"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "O nome usado no momento do Abraço ancora o Ravnos à realidade. Quem pronuncia esse nome diante dele recebe um bônus igual à Gravidade da Perdição do Ravnos para resistir aos poderes de Disciplina dele. O Ravnos sofre penalidade igual para resistir aos poderes sobrenaturais usados por esse oponente que pronunciou o nome."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "The name used at the time of the Embrace anchors the Ravnos to reality. Anyone speaking that name to the Ravnos’ face gains a bonus equal to the Ravnos’ Bane Severity to resist their Discipline powers. The Ravnos takes an equal penalty to resist supernatural powers used by that name-wielding opponent."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-salubri",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Salubri: Ascetismo",
+        "en": "Salubri: Asceticism"
+      },
+      "aliases": [
+        "Ascetismo",
+        "Asceticism"
+      ],
+      "versions": [
+        {
+          "id": "bane-salubri-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 58",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 60,
+              "printedPage": 58
+            },
+            {
+              "pdfPage": 49,
+              "printedPage": 47
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Salubri"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Com Fome abaixo de 3, sofre penalidade igual à Gravidade da Perdição em todas as paradas de Disciplinas. Essa variante mantém o terceiro olho descrito no Guia, p. 47: ele pode ser coberto fisicamente; poderes só o ocultam se esconderem o Salubri inteiro. Ao ativar poder de Disciplina, o olho verte Vitae conforme o nível utilizado; o Sangue provoca teste de Frenesi de Fome em vampiros próximos com Fome 4 ou maior."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "At Hunger below 3, takes a penalty equal to Bane Severity on all Discipline pools. This variant retains the third eye described on Guide p. 47: it can be physically covered; powers conceal it only if they hide the entire Salubri. Activating a Discipline power makes the eye weep vitae according to the level used; the Blood triggers a hunger frenzy test in nearby vampires at Hunger 4 or higher."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-toreador",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Toreador: Empatia Agonizante",
+        "en": "Toreador: Agonizing Empathy"
+      },
+      "aliases": [
+        "Empatia Agonizante",
+        "Agonizing Empathy"
+      ],
+      "versions": [
+        {
+          "id": "bane-toreador-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 59",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 61,
+              "printedPage": 59
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Toreador"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Ao causar dano a um mortal durante a alimentação, sofre dano semelhante de volta, normalmente Agravado. Uma única alimentação não pode causar ao Toreador mais dano que sua Gravidade da Perdição. O dano aparece como sangramento interno involuntário e hematomas no local correspondente à mordida na vítima."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "When feeding causes damage to a mortal, suffers similar damage in return, usually Aggravated. A single feeding cannot cause the Toreador more damage than their Bane Severity. It manifests as involuntary internal bleeding and bruising at the spot corresponding to the bite on the victim."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-tremere",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Tremere: Sangue Roubado",
+        "en": "Tremere: Stolen Blood"
+      },
+      "aliases": [
+        "Sangue Roubado",
+        "Stolen Blood"
+      ],
+      "versions": [
+        {
+          "id": "bane-tremere-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 59",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 61,
+              "printedPage": 59
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Tremere"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Impulso de Sangue exige Testes de Sangue em quantidade igual à Gravidade da Perdição. Se esses testes elevariam a Fome a 5 ou mais, pode desistir do Impulso ou realizá-lo e chegar imediatamente a Fome 5 depois. A sequência especial deve ser resolvida com o Narrador; não substitua os vários testes por um teste comum."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "Blood Surge requires Rouse Checks equal to Bane Severity. If those checks would raise Hunger to 5 or higher, the vampire can back off the Surge or perform it and immediately reach Hunger 5 afterward. Resolve that special sequence with the Storyteller; do not replace the multiple checks with one ordinary check."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-tzimisce",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Tzimisce: Cortesia Amaldiçoada",
+        "en": "Tzimisce: Cursed Courtesy"
+      },
+      "aliases": [
+        "Cortesia Amaldiçoada",
+        "Cursed Courtesy"
+      ],
+      "versions": [
+        {
+          "id": "bane-tzimisce-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 59",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 61,
+              "printedPage": 59
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Tzimisce"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Para entrar sem convite em residência alheia, incluindo casa ou Refúgio, deve gastar Vontade igual à Gravidade da Perdição. Durante a permanência sem convite, sofre penalidade igual nas paradas de Disciplinas. O convite deve vir de alguém que more ou desmore ali; só residências realmente habitadas contam. Edifícios públicos e abandonados são livres; apartamentos contam como casas separadas. Casos limítrofes cabem ao Narrador. Não pode adquirir como Defeito o Tabu Folclórico correspondente à entrada sem convite."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "Entering someone else’s inhabited home or haven uninvited requires spending Willpower equal to Bane Severity. While staying uninvited, Discipline pools take an equal penalty. An invitation must come from a resident, living or undead; only actually inhabited homes count. Public and abandoned buildings are unrestricted; apartments count as separate homes. Edge cases are adjudicated by the Storyteller. Cannot take the corresponding invitation Folkloric Block as a Flaw."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bane-ventrue",
+      "kind": "clan-variant",
+      "names": {
+        "pt-BR": "Ventrue: Hierarquia",
+        "en": "Ventrue: Hierarchy"
+      },
+      "aliases": [
+        "Hierarquia",
+        "Hierarchy"
+      ],
+      "versions": [
+        {
+          "id": "bane-ventrue-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 56 e 59",
+          "sourceLanguage": "en",
+          "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+          "pages": [
+            {
+              "pdfPage": 58,
+              "printedPage": 56
+            },
+            {
+              "pdfPage": 61,
+              "printedPage": 59
+            }
+          ],
+          "requirements": {
+            "clans": [
+              "Ventrue"
+            ],
+            "storytellerApproval": true
+          },
+          "descriptions": {
+            "pt-BR": [
+              {
+                "title": "Aplicação",
+                "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+              },
+              {
+                "title": "Sistema",
+                "text": "Paradas de Disciplinas usadas contra vampiros de Geração numericamente menor sofrem penalidade igual à Gravidade da Perdição. Para atacar diretamente um vampiro de Geração numericamente menor, também precisa gastar Vontade igual à Gravidade da Perdição."
+              }
+            ],
+            "en": [
+              {
+                "title": "Application",
+                "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+              },
+              {
+                "title": "System",
+                "text": "Discipline pools used against a vampire of numerically lower generation take a penalty equal to Bane Severity. Directly attacking a vampire of numerically lower generation also requires spending Willpower equal to Bane Severity."
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,59 @@
+{
+  "id": "bane-tremere",
+  "kind": "clan-variant",
+  "names": {
+    "pt-BR": "Tremere: Sangue Roubado",
+    "en": "Tremere: Stolen Blood"
+  },
+  "aliases": [
+    "Sangue Roubado",
+    "Stolen Blood"
+  ],
+  "versions": [
+    {
+      "id": "bane-tremere-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 56 e 59",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "pages": [
+        {
+          "pdfPage": 58,
+          "printedPage": 56
+        },
+        {
+          "pdfPage": 61,
+          "printedPage": 59
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Tremere"
+        ],
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Aplicação",
+            "text": "Opção oficial do Guia, adotada pelo Narrador para o clã inteiro na crônica. Substitui a Perdição padrão, não a Compulsão nem as Disciplinas de Clã. Não é um Defeito com pontos nem uma compra com XP. O Defeito Duplamente Amaldiçoado é uma regra separada: acrescentar uma Perdição não equivale a substituí-la."
+          },
+          {
+            "title": "Sistema",
+            "text": "Impulso de Sangue exige Testes de Sangue em quantidade igual à Gravidade da Perdição. Se esses testes elevariam a Fome a 5 ou mais, pode desistir do Impulso ou realizá-lo e chegar imediatamente a Fome 5 depois. A sequência especial deve ser resolvida com o Narrador; não substitua os vários testes por um teste comum."
+          }
+        ],
+        "en": [
+          {
+            "title": "Application",
+            "text": "Official Guide option adopted by the Storyteller for the whole clan in the chronicle. Replaces the standard Bane, not the Compulsion or clan Disciplines. It is neither a rated Flaw nor an XP purchase. Twice Cursed is a separate rule: adding a Bane is not the same as replacing it."
+          },
+          {
+            "title": "System",
+            "text": "Blood Surge requires Rouse Checks equal to Bane Severity. If those checks would raise Hunger to 5 or higher, the vampire can back off the Surge or perform it and immediately reach Hunger 5 afterward. Resolve that special sequence with the Storyteller; do not replace the multiple checks with one ordinary check."
+          }
+        ]
+      }
+    }
+  ]
+}

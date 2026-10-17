@@ -28,7 +28,7 @@ export function characterSnapshot(character: ExportCharacter) {
     merits: items(data.merits), flaws: items(data.flawItems), anchors,
     predator: string(data.predator), predatorDiscipline: string(data.predatorDiscipline), predatorSpecialty: string(data.predatorSpecialtyName) || string(data.predatorSpecialty),
     predatorResolutions: (data.predatorResolutions || {}) as Record<string, string>, predatorNotes: (data.predatorResolutionNotes || {}) as Record<string, string>,
-    ambition: string(data.ambition), desire: string(data.desire), bane: string(data.clanBane), compulsion: string(data.clanCompulsion),
+    ambition: string(data.ambition), desire: string(data.desire), hecataDecayBuyoff:data.hecataDecayBuyoff===true, bane: string(data.clanBane), compulsion: string(data.clanCompulsion),
     healthMax, willpowerMax, healthSuperficial: number(data.healthSuperficial), healthAggravated: number(data.healthAggravated),
     willpowerSuperficial: number(data.willpowerSuperficial), willpowerAggravated: number(data.willpowerAggravated),
     hunger: number(data.hunger), humanity: number(data.humanity, 7), stains: number(data.stains), impaired: data.stainImpaired === true,
