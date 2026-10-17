@@ -1,0 +1,59 @@
+{
+  "id": "thin-blood-sun-faded",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Desvanecido pelo Sol",
+    "en": "Sun-Faded"
+  },
+  "aliases": [
+    "Desvanecido pelo Sol",
+    "Sun-Faded"
+  ],
+  "level": 0,
+  "versions": [
+    {
+      "id": "thin-blood-sun-faded-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 135",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 0,
+      "pages": [
+        {
+          "pdfPage": 137,
+          "printedPage": 135
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-flaw",
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Você não pode usar poderes de Disciplinas, incluindo Alquimia do Sangue-Fraco, sob luz solar. Poderes ativos cessam quando você entra na luz solar. Durante o dia, pode usá-los em ambientes internos com uma penalidade de dois dados, desde que evite qualquer indício de luz solar."
+          },
+          {
+            "title": "Escolha e uso",
+            "text": "Escolha especial de Sangue-Ralo, sem valor em pontos. Cada Defeito equilibra uma Qualidade e vice-versa; não usa pontos comuns de Vantagens ou Defeitos nem é uma compra comum com XP. Na criação, escolha de uma a três Qualidades e o mesmo número de Defeitos. Efeitos de cena são resolvidos com o Narrador; esta entrada não altera automaticamente as rolagens gerais."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "You cannot use Discipline powers – including Thin- Blood Alchemy – in sunlight, and active powers cease when you enter sunlight. You can use them indoors by day, with a two-dice penalty, as long as you avoid any hint of sunlight."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Unrated Thin-blood choice. Each Flaw balances one Merit and vice versa; it does not use ordinary Advantage or Flaw dots and is not an ordinary XP purchase. At creation, choose one to three Merits and the same number of Flaws. Resolve scene effects with the Storyteller; this entry does not automatically change general rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

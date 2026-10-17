@@ -177,6 +177,14 @@ ela não deve substituir silenciosamente o padrão do livro.
 - **Tratamento provisório:** a seleção guiada exige a Perdição padrão. Uma escolha antiga conflitante é preservada e sinalizada para revisão; a variante não é aplicada duas vezes.
 - **Estado:** pendente de decisão do Narrador e referência, 17/10/2026.
 
+## 13. Pouco Apetite: alcance dos dois dados
+
+- **Item / nome:** Pouco Apetite / Low Appetite, Guia do Jogador, p. 136 impressa (p. 138 do PDF).
+- **Trecho e contexto:** a redação inglesa enumera Fome 0 ou 1 e despertar ao pôr do sol, unidos por “and”.
+- **Dúvida:** confirmar se são duas situações independentes de benefício ou condições simultâneas. A diferença afeta testes voluntários e o despertar com Fome 2–5.
+- **Tratamento provisório:** o catálogo mantém o texto completo nos dois idiomas. O efeito é manual; não foi presumida uma interpretação automática nas ferramentas gerais de Sangue. Resolva os dois dados e o ajuste de Fome com o Narrador. A revisão da ferramenta específica permanece pendente junto desta questão.
+- **Estado:** pendente de referência ou decisão identificada como interpretação da mesa, 17/10/2026.
+
 ## Apêndice — revisão editorial da tradução de Let the Streets Run Red
 
 Este grupo trata da fidelidade da tradução, não de decisões sobre regras.

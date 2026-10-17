@@ -1,0 +1,59 @@
+{
+  "id": "thin-blood-plague-bearer",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Portador da Peste",
+    "en": "Plague Bearer"
+  },
+  "aliases": [
+    "Portador da Peste",
+    "Plague Bearer"
+  ],
+  "level": 0,
+  "versions": [
+    {
+      "id": "thin-blood-plague-bearer-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 135",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 0,
+      "pages": [
+        {
+          "pdfPage": 137,
+          "printedPage": 135
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-flaw",
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Você ainda está sujeito a doenças mortais: resfriados, gripe e infecções mais graves. Toda vez que se alimentar, role um dado para cada ponto de Fome saciado. Se qualquer dado resultar em 1, você contraiu algo desagradável. O efeito cabe ao Narrador e pode variar de penalidades de dados à perda gradual de Vitalidade. Medicina mortal não o cura: é preciso beber um sistema imunológico funcional, saciando sua Fome até 0. Você também corre o risco de infectar qualquer pessoa de quem se alimentar, usando a mesma rolagem descrita acima."
+          },
+          {
+            "title": "Escolha e uso",
+            "text": "Escolha especial de Sangue-Ralo, sem valor em pontos. Cada Defeito equilibra uma Qualidade e vice-versa; não usa pontos comuns de Vantagens ou Defeitos nem é uma compra comum com XP. Na criação, escolha de uma a três Qualidades e o mesmo número de Defeitos. Efeitos de cena são resolvidos com o Narrador; esta entrada não altera automaticamente as rolagens gerais."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "You are still susceptible to mortal sickness: colds, flu, and other more severe infections. Every time you feed you must roll a die for each Hunger slaked, and if any come up a “1,” you’ve caught something nasty. (Effect is up to the Storyteller, but could range from die penalties to slow Health degradation.) Mortal medicine doesn’t cure you; only drinking a functioning immune system by slaking your Hunger to 0 does so. And of course, you run the risk of infecting anyone you feed on, using the same die roll as above."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Unrated Thin-blood choice. Each Flaw balances one Merit and vice versa; it does not use ordinary Advantage or Flaw dots and is not an ordinary XP purchase. At creation, choose one to three Merits and the same number of Flaws. Resolve scene effects with the Storyteller; this entry does not automatically change general rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

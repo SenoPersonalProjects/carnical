@@ -1,0 +1,59 @@
+{
+  "id": "thin-blood-swift-feeder",
+  "kind": "merit",
+  "names": {
+    "pt-BR": "Alimentação Veloz",
+    "en": "Swift Feeder"
+  },
+  "aliases": [
+    "Alimentação Veloz",
+    "Swift Feeder"
+  ],
+  "level": 0,
+  "versions": [
+    {
+      "id": "thin-blood-swift-feeder-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 136",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 0,
+      "pages": [
+        {
+          "pdfPage": 138,
+          "printedPage": 136
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-merit",
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Talvez você tenha trabalhado com coleta de sangue em vida ou simplesmente não goste de bagunça. Você bebe delicada e rapidamente, saciando um ponto de Fome em um turno, incluindo lamber a ferida para fechá-la. Esta Qualidade só pode ser usada uma vez por cena."
+          },
+          {
+            "title": "Escolha e uso",
+            "text": "Escolha especial de Sangue-Ralo, sem valor em pontos. Cada Defeito equilibra uma Qualidade e vice-versa; não usa pontos comuns de Vantagens ou Defeitos nem é uma compra comum com XP. Na criação, escolha de uma a três Qualidades e o mesmo número de Defeitos. Efeitos de cena são resolvidos com o Narrador; esta entrada não altera automaticamente as rolagens gerais."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "Maybe you were a phlebotomist in life, or just didn’t like mess. You sip delicately and quickly, neatly slaking one Hunger in one turn, including licking the wound closed. This Merit can only be used once per scene."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Unrated Thin-blood choice. Each Flaw balances one Merit and vice versa; it does not use ordinary Advantage or Flaw dots and is not an ordinary XP purchase. At creation, choose one to three Merits and the same number of Flaws. Resolve scene effects with the Storyteller; this entry does not automatically change general rolls."
+          }
+        ]
+      }
+    }
+  ]
+}

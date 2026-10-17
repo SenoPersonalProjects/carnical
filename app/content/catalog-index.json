@@ -17244,6 +17244,454 @@
           }
         }
       ]
+    },
+    {
+      "id": "thin-blood-abhorrent-blood",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Sangue Repulsivo",
+        "en": "Abhorrent Blood"
+      },
+      "aliases": [
+        "Sangue Repulsivo",
+        "Abhorrent Blood"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-abhorrent-blood-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 135, 136",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-faith-proof",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Imune à Fé",
+        "en": "Faith-Proof"
+      },
+      "aliases": [
+        "Imune à Fé",
+        "Faith-Proof"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-faith-proof-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 136",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-heliophobia",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Heliofobia",
+        "en": "Heliophobia"
+      },
+      "aliases": [
+        "Heliofobia",
+        "Heliophobia"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-heliophobia-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 135",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-low-appetite",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Pouco Apetite",
+        "en": "Low Appetite"
+      },
+      "aliases": [
+        "Pouco Apetite",
+        "Low Appetite"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-low-appetite-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 136",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-lucid-dreamer",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Sonhador Lúcido",
+        "en": "Lucid Dreamer"
+      },
+      "aliases": [
+        "Sonhador Lúcido",
+        "Lucid Dreamer"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-lucid-dreamer-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 136",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-mortalitys-mien",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Aspecto Mortal",
+        "en": "Mortality’s Mien"
+      },
+      "aliases": [
+        "Aspecto Mortal",
+        "Mortality’s Mien"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-mortalitys-mien-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 136",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-night-terrors",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Terrores Noturnos",
+        "en": "Night Terrors"
+      },
+      "aliases": [
+        "Terrores Noturnos",
+        "Night Terrors"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-night-terrors-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 135",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-plague-bearer",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Portador da Peste",
+        "en": "Plague Bearer"
+      },
+      "aliases": [
+        "Portador da Peste",
+        "Plague Bearer"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-plague-bearer-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 135",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-sloppy-drinker",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Bebedor Desastrado",
+        "en": "Sloppy Drinker"
+      },
+      "aliases": [
+        "Bebedor Desastrado",
+        "Sloppy Drinker"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-sloppy-drinker-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 135",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-sun-faded",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Desvanecido pelo Sol",
+        "en": "Sun-Faded"
+      },
+      "aliases": [
+        "Desvanecido pelo Sol",
+        "Sun-Faded"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-sun-faded-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 135",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-supernatural-tell",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Sinal Sobrenatural",
+        "en": "Supernatural Tell"
+      },
+      "aliases": [
+        "Sinal Sobrenatural",
+        "Supernatural Tell"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-supernatural-tell-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 135",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-swift-feeder",
+      "kind": "merit",
+      "names": {
+        "pt-BR": "Alimentação Veloz",
+        "en": "Swift Feeder"
+      },
+      "aliases": [
+        "Alimentação Veloz",
+        "Swift Feeder"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-swift-feeder-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 136",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-merit",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-twilight-presence",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Presença Crepuscular",
+        "en": "Twilight Presence"
+      },
+      "aliases": [
+        "Presença Crepuscular",
+        "Twilight Presence"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-twilight-presence-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 135",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "storytellerApproval": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "thin-blood-unending-hunger",
+      "kind": "flaw",
+      "names": {
+        "pt-BR": "Fome Interminável",
+        "en": "Unending Hunger"
+      },
+      "aliases": [
+        "Fome Interminável",
+        "Unending Hunger"
+      ],
+      "level": 0,
+      "books": [
+        "players-guide-v5"
+      ],
+      "versions": [
+        {
+          "id": "thin-blood-unending-hunger-players-guide-v5",
+          "book": "players-guide-v5",
+          "sourceTitle": "Player’s Guide V5, pp. 135",
+          "level": 0,
+          "requirements": {
+            "clans": [
+              "Sangue-Ralo"
+            ],
+            "creationOnly": true,
+            "selectionGroup": "thin-blood-flaw",
+            "storytellerApproval": true
+          }
+        }
+      ]
     }
   ]
 }

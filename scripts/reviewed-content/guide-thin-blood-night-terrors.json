@@ -1,0 +1,59 @@
+{
+  "id": "thin-blood-night-terrors",
+  "kind": "flaw",
+  "names": {
+    "pt-BR": "Terrores Noturnos",
+    "en": "Night Terrors"
+  },
+  "aliases": [
+    "Terrores Noturnos",
+    "Night Terrors"
+  ],
+  "level": 0,
+  "versions": [
+    {
+      "id": "thin-blood-night-terrors-players-guide-v5",
+      "book": "players-guide-v5",
+      "sourceTitle": "Player’s Guide V5, pp. 135",
+      "sourceLanguage": "en",
+      "pdfSha256": "25577325c50f995c3ccfaa6c627c6a1352fb4a8f109b14927ecbc811ba7415d5",
+      "level": 0,
+      "pages": [
+        {
+          "pdfPage": 137,
+          "printedPage": 135
+        }
+      ],
+      "requirements": {
+        "clans": [
+          "Sangue-Ralo"
+        ],
+        "creationOnly": true,
+        "selectionGroup": "thin-blood-flaw",
+        "storytellerApproval": true
+      },
+      "descriptions": {
+        "pt-BR": [
+          {
+            "title": "Descrição e sistema",
+            "text": "Você dorme normalmente, sem lembrar dos sonhos que talvez tenha durante o dia. À noite, porém, eles retornam nos momentos mais inconvenientes. Sob estresse ou quando sua Besta está mais forte, os pesadelos parecem dolorosamente reais. Podem ser alucinações desconexas ou um meio de o Narrador transmitir temas e prenunciar acontecimentos. Uma vez por sessão, os terrores noturnos começam e você sofre uma penalidade de um dado em todas as ações pelo restante da cena."
+          },
+          {
+            "title": "Escolha e uso",
+            "text": "Escolha especial de Sangue-Ralo, sem valor em pontos. Cada Defeito equilibra uma Qualidade e vice-versa; não usa pontos comuns de Vantagens ou Defeitos nem é uma compra comum com XP. Na criação, escolha de uma a três Qualidades e o mesmo número de Defeitos. Efeitos de cena são resolvidos com o Narrador; esta entrada não altera automaticamente as rolagens gerais."
+          }
+        ],
+        "en": [
+          {
+            "title": "Description and system",
+            "text": "You sleep as usual, with no memory of any of the dreams you may have had during the day. However, at night those dreams come flooding in at the most inopportune times. During times of stress, or when your Beast is strongest, nightmares pull through and feel excruciatingly real. They may be disjointed hallucinations, or they may be a way for the Storyteller to feed theme or foreshadow events. Once per session, your night terrors onset and you take a one-die penalty to all actions for the rest of the scene."
+          },
+          {
+            "title": "Selection and use",
+            "text": "Unrated Thin-blood choice. Each Flaw balances one Merit and vice versa; it does not use ordinary Advantage or Flaw dots and is not an ordinary XP purchase. At creation, choose one to three Merits and the same number of Flaws. Resolve scene effects with the Storyteller; this entry does not automatically change general rolls."
+          }
+        ]
+      }
+    }
+  ]
+}
